@@ -1,0 +1,40 @@
+{
+  "id": "8211a5e87e7b",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/ES%20-%20Appendix%2010%20-%20peticion_de_reducion_netherlands.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/ES%20-%20Appendix%2010%20-%20peticion_de_reducion_netherlands.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:35 GMT",
+  "local_path": "sources/documents/8211a5e87e7b-ES-Peticion-de-Reduccion-Netherlands-Appendix-10.pdf",
+  "sha256": "83341aea6394376a7d1c6f70d8fcae5b315383ae9d7c5596d5d9a9905fe3faba",
+  "bytes": 502647,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/8211a5e87e7b.md",
+  "text_characters": 136,
+  "low_text_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Formulario red. Países Bajos",
+    "author": "D. Gral. Tributos",
+    "subject": "",
+    "keywords": "",
+    "creator": "AXIS 7000 Network Document Server",
+    "producer": "AXIS 7000 Network Document Server",
+    "creationDate": "D:20050614173351Z",
+    "modDate": "D:20050615105830+02'00'",
+    "trapped": "",
+    "encryption": "Standard V1 R2 40-bit RC4"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/about-us/client-relations",
+  "retrieved_at": "2026-09-11",
+  "id": "734549f46a09",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/about-us/client-relations",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:26 GMT",
+  "title": "Client Relations",
+  "text": "Client Relations\nOne single point of contact\nAt Euronext Securities Oslo we pride ourselves in knowing our clients personally and acting as a discussion partner in establishing a set-up that suits their needs. Our Client Relations Managers understands the challenges you face and the complexity of your operations. We have a deep understanding of the financial markets and our team is committed to developing long-lasting relationships – through good communication and cutting-edge advisory services.\nEither you’re an Account Operator, Settlement Participant or uses one of our services from the Tax- or Issuer offerings. We look forward to hearing from you. Contact us at OSL-Sales@euronext.com, or +47 22 63 51 00. You can also reach out to one of us using the contact details below.\nOur team\nFind our contact details here",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/about/contacts",
+      "title": "Find our contact details here",
+      "context": "Our team Find our contact details here"
+    }
+  ],
+  "local_html": "sources/pages/734549f46a09.html",
+  "sha256": "552e87d5f5e5f9e047b84f5a28c1c713f530357247f97afa8138d7a0641685b0"
+}

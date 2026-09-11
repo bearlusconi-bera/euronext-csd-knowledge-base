@@ -1,0 +1,31 @@
+{
+  "id": "2c13f941059a",
+  "url": "https://www.euronext.com/sites/default/files/2024-06/es-pto_management_report_-_annual_2023.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-06/es-pto_management_report_-_annual_2023.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:46 GMT",
+  "local_path": "sources/documents/2c13f941059a-Euronext-Securities-Porto-Management-Report-Annual-2023-pdf.pdf",
+  "sha256": "2801c628f5c75e20bcffdcae1e11251b3ae520c14d26f456c9057c83d5dee183",
+  "bytes": 1285821,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 109,
+  "text_path": "extracted/2c13f941059a.md",
+  "text_characters": 260806,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": ", docId:90B705997AB12879B7C5D067A36C5854",
+    "creator": "Acrobat PDFMaker 24 for Word",
+    "producer": "Adobe PDF Library 24.1.149",
+    "creationDate": "D:20240402095904+01'00'",
+    "modDate": "D:20240402100136+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

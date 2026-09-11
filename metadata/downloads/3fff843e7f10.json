@@ -1,0 +1,36 @@
+{
+  "id": "3fff843e7f10",
+  "url": "https://www.euronext.com/sites/default/files/2023-08/relatorioanual.2014.pt_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-08/relatorioanual.2014.pt_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:44 GMT",
+  "local_path": "sources/documents/3fff843e7f10-Relatorio-anual-de-2014.pdf",
+  "sha256": "4ca60963d5480715cf71ce6e2911a160de27a065a3bd74fdaf0e38be570cb513",
+  "bytes": 1848604,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 118,
+  "text_path": "extracted/3fff843e7f10.md",
+  "text_characters": 331709,
+  "low_text_pages": [
+    77,
+    113,
+    114,
+    116
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "1B_IB_Relatório_Anual_2014VFINAL-Versão final assinada consolidada",
+    "author": "HEQ",
+    "subject": "",
+    "keywords": "",
+    "creator": "PDFCreator Version 1.5.0",
+    "producer": "GPL Ghostscript 9.05",
+    "creationDate": "D:20150422135048+01'00'",
+    "modDate": "D:20150422135204+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

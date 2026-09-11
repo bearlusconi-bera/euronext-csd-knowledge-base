@@ -1,0 +1,33 @@
+{
+  "id": "96d23106de4c",
+  "url": "https://www.euronext.com/sites/default/files/2025-04/Euronext%20Securities%20Porto%20-%20SISTEMA%20DE%20%20FUNDOS%20DE%20%20INVESTIMENTO%20%20%28SFI%29%20-%20ORDER%20%20ROUTING_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-04/Euronext%20Securities%20Porto%20-%20SISTEMA%20DE%20%20FUNDOS%20DE%20%20INVESTIMENTO%20%20%28SFI%29%20-%20ORDER%20%20ROUTING_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 14 Apr 2025 17:08:12 GMT",
+  "local_path": "sources/documents/96d23106de4c-Euronext-Securities-Porto-SISTEMA-DE-FUNDOS-DE-INVESTIMENTO-SFI-ORDER-ROUTING.pdf",
+  "sha256": "03b48d255b718f361f6d7f1171f9f53bfd935be451c9bddd716e2b58c3353dd4",
+  "bytes": 769415,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 59,
+  "text_path": "extracted/96d23106de4c.md",
+  "text_characters": 99815,
+  "low_text_pages": [
+    59
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Maria Moreira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2019",
+    "producer": "Microsoft® Word 2019",
+    "creationDate": "D:20250408120427+01'00'",
+    "modDate": "D:20250408120427+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

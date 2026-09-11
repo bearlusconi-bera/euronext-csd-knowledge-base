@@ -1,0 +1,31 @@
+{
+  "id": "bcfcff46ecf4",
+  "url": "https://ecsda.eu/wp-content/uploads/2024/09/2024_09_11_ECSDA_Framework_update.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://ecsda.eu/wp-content/uploads/2024/09/2024_09_11_ECSDA_Framework_update.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 30 Jan 2026 14:03:03 GMT",
+  "local_path": "sources/documents/bcfcff46ecf4-ECSDA-CSDR-Settlement-Fails-Penalties-Framework-11-September-2024.pdf",
+  "sha256": "5f0a8e10aa42c113e37ea6c8441e1148b424e47216fd7ce4c9af8a545240d515",
+  "bytes": 4568433,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 102,
+  "text_path": "extracted/bcfcff46ecf4.md",
+  "text_characters": 226200,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  }
+}

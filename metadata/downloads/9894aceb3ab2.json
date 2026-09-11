@@ -1,0 +1,33 @@
+{
+  "id": "9894aceb3ab2",
+  "url": "https://www.euronext.com/sites/default/files/2024-06/Management%20Report%20-%201st%20Quarter%202024.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-06/Management%20Report%20-%201st%20Quarter%202024.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:43 GMT",
+  "local_path": "sources/documents/9894aceb3ab2-Euronext-Securities-Porto-Management-Report-1st-Quarter-2024.pdf",
+  "sha256": "a07115e968a9fe560171d93e6ba59d850ce54d16c87ab7d680fc6668b7b692fd",
+  "bytes": 646260,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 44,
+  "text_path": "extracted/9894aceb3ab2.md",
+  "text_characters": 89745,
+  "low_text_pages": [
+    30
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": ", docId:90B705997AB12879B7C5D067A36C5854",
+    "creator": "Acrobat PDFMaker 24 for Word",
+    "producer": "Adobe PDF Library 24.2.121",
+    "creationDate": "D:20240626160734+01'00'",
+    "modDate": "D:20240626160807+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

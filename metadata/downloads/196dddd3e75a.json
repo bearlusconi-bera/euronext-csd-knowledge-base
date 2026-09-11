@@ -1,0 +1,37 @@
+{
+  "id": "196dddd3e75a",
+  "url": "https://www.euronext.com/sites/default/files/2022-09/RelatorioAnual.2017.PT_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-09/RelatorioAnual.2017.PT_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:17 GMT",
+  "local_path": "sources/documents/196dddd3e75a-Relatorio-anual-de-2017.pdf",
+  "sha256": "c8acb4752ec62259604f48a11261d2eb328df14bf6688593d460a5da38a0a4c3",
+  "bytes": 3488702,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 105,
+  "text_path": "extracted/196dddd3e75a.md",
+  "text_characters": 266981,
+  "low_text_pages": [
+    1,
+    100,
+    101,
+    102,
+    103
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Insert Document Title",
+    "author": "steve",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word 2010",
+    "producer": "Microsoft® Word 2010",
+    "creationDate": "D:20180418190015+01'00'",
+    "modDate": "D:20180420123803+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

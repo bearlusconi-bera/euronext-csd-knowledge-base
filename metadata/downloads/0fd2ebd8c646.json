@@ -1,0 +1,14 @@
+{
+  "id": "0fd2ebd8c646",
+  "url": "https://www.euronext.com/sites/default/files/2022-05/4259%20-%20SK%20-%20DTA%20Slovak%20Repuplic%20%28Appendix%204%29.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-05/4259%20-%20SK%20-%20DTA%20Slovak%20Repuplic%20%28Appendix%204%29.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:30:46 GMT",
+  "local_path": "sources/documents/0fd2ebd8c646-SK-DTA-Slovak-Republic-Appendix-4.docx",
+  "sha256": "5296305a42f01b90619ba916987e4eea08408874a9cf3b25e8baa26d60018fe9",
+  "bytes": 80010,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

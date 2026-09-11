@@ -1,0 +1,31 @@
+{
+  "id": "914aa037b589",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/Euronext%20Securities%20Oslo%20-%20Board%20of%20Directors%20Remuneration%20Committee%20mandate%202026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/Euronext%20Securities%20Oslo%20-%20Board%20of%20Directors%20Remuneration%20Committee%20mandate%202026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 08 Jun 2026 08:07:18 GMT",
+  "local_path": "sources/documents/914aa037b589-ES-OSL-Remuneration-Committee-Mandate.pdf",
+  "sha256": "3a604332914012cf1337594dd206d397c894066c9c690e62a4a39bd77fd38e43",
+  "bytes": 392814,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/914aa037b589.md",
+  "text_characters": 12165,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260608093324+02'00'",
+    "modDate": "D:20260608093324+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

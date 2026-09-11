@@ -1,0 +1,33 @@
+{
+  "id": "a82545a832c3",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4408%20-%20Spain%20-%20Fiscal%20operational%20guide%20%28for%20PD%20%3D%2015092017%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4408%20-%20Spain%20-%20Fiscal%20operational%20guide%20%28for%20PD%20%3D%2015092017%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:40 GMT",
+  "local_path": "sources/documents/a82545a832c3-Spain-Fiscal-operational-guide-for-PD-15-09-2017.pdf",
+  "sha256": "afc1f437769fa3b750e46f27f1e75de1940f67ff4f820db29d904055158615a1",
+  "bytes": 394929,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 11,
+  "text_path": "extracted/a82545a832c3.md",
+  "text_characters": 15077,
+  "low_text_pages": [
+    11
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4408 - Spain - Fiscal operational guide (for PD = 15092017)",
+    "author": "LPacini",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220412094819+02'00'",
+    "modDate": "D:20220412094819+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

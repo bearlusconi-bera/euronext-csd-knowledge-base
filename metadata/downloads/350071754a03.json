@@ -1,0 +1,31 @@
+{
+  "id": "350071754a03",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/2015/11/2015-esma-1457_-_annex_iii_-_cba_csdr_ts_on_csd_requirements_and_internalised_settlement.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/2015/11/2015-esma-1457_-_annex_iii_-_cba_csdr_ts_on_csd_requirements_and_internalised_settlement.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 23 Jan 2023 13:03:57 GMT",
+  "local_path": "sources/documents/350071754a03-impact-assessment.pdf",
+  "sha256": "604724f32c4ba80a0b53a202dfa633cda0df509b2b6db30fc56642f36e19f61f",
+  "bytes": 931983,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 83,
+  "text_path": "extracted/350071754a03.md",
+  "text_characters": 243636,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "Frederico Alcantara de Melo",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2010",
+    "producer": "Microsoft® Word 2010",
+    "creationDate": "D:20150928111949+02'00'",
+    "modDate": "D:20150928122419+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

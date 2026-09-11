@@ -1,0 +1,31 @@
+{
+  "id": "330c630a5f6c",
+  "url": "https://www.euronext.com/sites/default/files/2025-01/Articles%20of%20Association%20-%20VP%207%20January%202025_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-01/Articles%20of%20Association%20-%20VP%207%20January%202025_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:34:21 GMT",
+  "local_path": "sources/documents/330c630a5f6c-Articles-of-Association-Euronext-Securities-Copenhagen.pdf",
+  "sha256": "98d885106924ec94448a2cd9065cc88c097599a371b51cb35764283cf988b3ab",
+  "bytes": 149880,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/330c630a5f6c.md",
+  "text_characters": 23759,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Articles of association - VP 26 October 2020",
+    "author": "Lasse Strøm",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250124143724+01'00'",
+    "modDate": "D:20250124143724+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

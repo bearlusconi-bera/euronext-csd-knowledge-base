@@ -1,0 +1,14 @@
+{
+  "id": "4459b3781ee0",
+  "url": "https://www.euronext.com/sites/default/files/2025-02/Euronext%20Securities%20Milan%20%26%20CSD%20Tax%20Voucher%20request.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-02/Euronext%20Securities%20Milan%20%26%20CSD%20Tax%20Voucher%20request.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Wed, 05 Mar 2025 08:12:44 GMT",
+  "local_path": "sources/documents/4459b3781ee0-Euronext-Securities-Milan-CSD-Tax-Voucher-request.xlsx",
+  "sha256": "adb97d5dc283a63b970d547949da69fd94e06d4c86575f75589bf771ed5d5f9e",
+  "bytes": 17141,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen/legal-framework/personal-data-protection",
+  "retrieved_at": "2026-09-11",
+  "id": "c5db06ea3839",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/personal-data-protection",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:07 GMT",
+  "title": "Personal Data Protection",
+  "text": "Personal Data Protection\nVP processes your personal data in accordance with the European General Data Protection Regulation (GDPR) and the Danish act on data protection.\nWe process personal data in several functions and for different purposes. In some cases, we act as data controller and in others, we act as data processor on behalf of our customers. We are the data controller for the personal data that we receive in our capacity as a central securities depository, e.g. data on all investors.\nGDPR gives you a number of rights to ensure control of your personal data.\nYou can read more about how we process your personal data and your rights below.\nData Subjects Rights\nread more\nYou can exercise your rights at VP.\nClick here\nProcessing of personal data by VP Securities\nRead more\nRead more about how VP and subsidiaries process the personal data that we as data controllers receive about investors, our customers and our business partners.\nClick here\nContact\nEuronext\nCompliance Department\nData Protection Officer\n14, place des Reflets – CS30064\n92054 Paris la Défense\nE: dpo@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen/legal-framework/right-access",
+      "title": "Click here",
+      "context": "Data Subjects Rights read more You can exercise your rights at VP. Click here Processing of personal data by VP Securities Read more Read more about how VP and subsidiaries process the personal data that we as data controllers receive about investors, our customers and our business partners. Click here"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/processing-personal-data",
+      "title": "Click here",
+      "context": "Data Subjects Rights read more You can exercise your rights at VP. Click here Processing of personal data by VP Securities Read more Read more about how VP and subsidiaries process the personal data that we as data controllers receive about investors, our customers and our business partners. Click here"
+    }
+  ],
+  "local_html": "sources/pages/c5db06ea3839.html",
+  "sha256": "3ee3b1a0e41912f60b397c7537ab41b2c986c6148aa92ed989a60b54704052ee"
+}

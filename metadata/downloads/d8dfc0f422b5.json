@@ -1,0 +1,31 @@
+{
+  "id": "d8dfc0f422b5",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/Regulation.2019.03.EN_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/Regulation.2019.03.EN_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:44 GMT",
+  "local_path": "sources/documents/d8dfc0f422b5-INTERBOLSA-Regulation-3-2019.pdf",
+  "sha256": "7d93f272a890dbfe40709e40ad928cf4ca93752fa668874024ce5c361ac2a3b9",
+  "bytes": 184223,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/d8dfc0f422b5.md",
+  "text_characters": 1744,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "REGULAMENTO DA INTERBOLSA N",
+    "author": "HTL",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Office 365",
+    "producer": "Microsoft® Word for Office 365",
+    "creationDate": "D:20190930100002+01'00'",
+    "modDate": "D:20190930100002+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

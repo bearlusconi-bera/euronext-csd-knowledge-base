@@ -1,0 +1,31 @@
+{
+  "id": "e26a9ba5b3f8",
+  "url": "https://www.euronext.com/sites/default/files/2025-10/amendments%20to%20CSD%20Instructions_ETF_FINAL_07.10.2025.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-10/amendments%20to%20CSD%20Instructions_ETF_FINAL_07.10.2025.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 07 Oct 2025 10:24:26 GMT",
+  "local_path": "sources/documents/e26a9ba5b3f8-Amendments-to-the-Instructions-in-force-as-of-7-October-2025.pdf",
+  "sha256": "f3e4879dcc317606643c95eb026c13648686049e199318fbfe05e126494e1c30",
+  "bytes": 156809,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 4,
+  "text_path": "extracted/e26a9ba5b3f8.md",
+  "text_characters": 6222,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Davide Mancini",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251007122048+02'00'",
+    "modDate": "D:20251007122048+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

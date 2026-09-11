@@ -1,0 +1,31 @@
+{
+  "id": "936d69dfb02a",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/esma70-156-4717_final_report_guidelines_on_settlement_fails_reporting.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/esma70-156-4717_final_report_guidelines_on_settlement_fails_reporting.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 06 Dec 2023 11:42:08 GMT",
+  "local_path": "sources/documents/936d69dfb02a-Final-Report.pdf",
+  "sha256": "7dc7a81ea540833621899851ca208d117f68bbdb93f2d40f95df6a8e01a972a6",
+  "bytes": 708307,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 37,
+  "text_path": "extracted/936d69dfb02a.md",
+  "text_characters": 97346,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Alina.Dragomir@esma.europa.eu",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210924111038+02'00'",
+    "modDate": "D:20231206124131+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

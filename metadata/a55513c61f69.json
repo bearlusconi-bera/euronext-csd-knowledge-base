@@ -1,0 +1,45 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps",
+  "retrieved_at": "2026-09-11",
+  "id": "a55513c61f69",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:59:29 GMT",
+  "title": "Debt, Funds and ETPs",
+  "text": "Debt, Funds and ETPs\nOur services provide safe and efficient issuance of fixed income instruments, mutual funds, and exchange traded products (ETPs).\nEuronext Securities Oslo simplifies capital market complexity for Issuers through providing a secure and well-proven financial infrastructure that ensures compliance with relevant laws and regulations.\nEuronext Securities Oslo provides more than 5 500 securities of fixed income, funds, or ETPs.\nOUR PRODUCTS\nRegistration and Administration\nAdministrative solution for Account Operators\nOur registration and administration services provides Account Operators with administrative tools to register and maintain all aspects related to managing securities in the Euronext Securities Oslo-register.\nRead more\nIf you are a bank, broker or fund manager that wants to offer Euronext Securities Oslo’s services to your own customers, you can read more about becoming an account operator (registrar) in Euronext Securities Oslo below.\nBecome an Account Operator\nBondholder meeting\nEnsuring efficient and professional bondholder meetings\nOur digital bondholder meeting solution covers all stages of arranging a bondholder meeting – from preparation to execution – ensuring compliance with relevant laws and regulations\nRead more\nCorporate Actions\nFlexible solutions supporting a wide range of corporate actions\nOur corporate actions suite is an efficient solution that supports all of the common corporate actions used by Issuers of fixed income, funds, and ETPs.\nRead more\nFunds\nFund unit register with cost efficient distribution in the Norwegian market\nOur funds services offer Issuers of mutual funds a fund unit register and a cost efficient distribution of funds through Euronext Securities Oslo’ network infrastructure.\nRead more\nInvestor Communication\nEasy distribution of information from Issuers to Investors\nOur services help ensure that Issuers of fixed income, funds, and ETPs are able to distribute relevant information to their investors.\nRead more\nContacts\nEuronext Securities Oslo\nBusiness Operations\nosl-clientsupport@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/registration-and-administration",
+      "title": "Read more",
+      "context": "Registration and Administration Administrative solution for Account Operators Our registration and administration services provides Account Operators with administrative tools to register and maintain all aspects related to managing securities in the Euronext Securities Oslo-register. Read more If you are a bank, broker or fund manager that wants to offer Euronext Securities Oslo’s services to your own customers, you can read more about becoming an account operator (registrar) in Euronext Securities Oslo below. Become an Account Operator"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/how-become-account-operator",
+      "title": "Become an Account Operator",
+      "context": "Registration and Administration Administrative solution for Account Operators Our registration and administration services provides Account Operators with administrative tools to register and maintain all aspects related to managing securities in the Euronext Securities Oslo-register. Read more If you are a bank, broker or fund manager that wants to offer Euronext Securities Oslo’s services to your own customers, you can read more about becoming an account operator (registrar) in Euronext Securities Oslo below. Become an Account Operator"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/bondholder-meeting",
+      "title": "Read more",
+      "context": "Registration and Administration Administrative solution for Account Operators Our registration and administration services provides Account Operators with administrative tools to register and maintain all aspects related to managing securities in the Euronext Securities Oslo-register. Read more If you are a bank, broker or fund manager that wants to offer Euronext Securities Oslo’s services to your own customers, you can read more about becoming an account operator (registrar) in Euronext Securities Oslo below. Become an Account Operator Bondholder meeting Ensuring efficient and professional bondholder meetings Our digital bondholder meeting solution covers all stages of arranging a bondholder meeting – from preparation to execution – ensuring compliance with relevant laws and regulations Read more Corporate Actions Flexible solutions supporting a wide range of corporate actions Our corporate actions suite is an efficient solution that supports all of the common corporate actions used by Issuers of fixed income, funds, and ETPs. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/corporate-actions",
+      "title": "Read more",
+      "context": "Registration and Administration Administrative solution for Account Operators Our registration and administration services provides Account Operators with administrative tools to register and maintain all aspects related to managing securities in the Euronext Securities Oslo-register. Read more If you are a bank, broker or fund manager that wants to offer Euronext Securities Oslo’s services to your own customers, you can read more about becoming an account operator (registrar) in Euronext Securities Oslo below. Become an Account Operator Bondholder meeting Ensuring efficient and professional bondholder meetings Our digital bondholder meeting solution covers all stages of arranging a bondholder meeting – from preparation to execution – ensuring compliance with relevant laws and regulations Read more Corporate Actions Flexible solutions supporting a wide range of corporate actions Our corporate actions suite is an efficient solution that supports all of the common corporate actions used by Issuers of fixed income, funds, and ETPs. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/funds",
+      "title": "Read more",
+      "context": "Funds Fund unit register with cost efficient distribution in the Norwegian market Our funds services offer Issuers of mutual funds a fund unit register and a cost efficient distribution of funds through Euronext Securities Oslo’ network infrastructure. Read more Investor Communication Easy distribution of information from Issuers to Investors Our services help ensure that Issuers of fixed income, funds, and ETPs are able to distribute relevant information to their investors. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/investor-communication",
+      "title": "Read more",
+      "context": "Funds Fund unit register with cost efficient distribution in the Norwegian market Our funds services offer Issuers of mutual funds a fund unit register and a cost efficient distribution of funds through Euronext Securities Oslo’ network infrastructure. Read more Investor Communication Easy distribution of information from Issuers to Investors Our services help ensure that Issuers of fixed income, funds, and ETPs are able to distribute relevant information to their investors. Read more"
+    }
+  ],
+  "local_html": "sources/pages/a55513c61f69.html",
+  "sha256": "de061c32c9803fb54318a74a73df0d3943e3b613015b7e67ec37f323ea76a02a"
+}

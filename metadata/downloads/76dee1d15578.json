@@ -1,0 +1,34 @@
+{
+  "id": "76dee1d15578",
+  "url": "https://www.esma.europa.eu/sites/default/files/2024-11/ESMA74-2119945925-1969_Report_on_shortening_settlement_cycle.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2024-11/ESMA74-2119945925-1969_Report_on_shortening_settlement_cycle.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 18 Nov 2024 13:36:12 GMT",
+  "local_path": "sources/documents/76dee1d15578-report.pdf",
+  "sha256": "34c5347b1ad6648895367f1c583a8aabd81fbe1978a0f6005471f697bb815b40",
+  "bytes": 2079161,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 106,
+  "text_path": "extracted/76dee1d15578.md",
+  "text_characters": 252390,
+  "low_text_pages": [
+    101,
+    106
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ESMA74-2119945925-1969 Report on ESMA assessment of the shortening of the settlement cycle in the European Union",
+    "author": "ESMA",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20241118123154+01'00'",
+    "modDate": "D:20241118143425+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

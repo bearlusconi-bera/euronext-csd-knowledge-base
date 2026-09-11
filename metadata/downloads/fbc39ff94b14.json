@@ -1,0 +1,31 @@
+{
+  "id": "fbc39ff94b14",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/esma70-53-5_list_of_applicant_tc-csds.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/esma70-53-5_list_of_applicant_tc-csds.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 23 Jan 2023 13:32:14 GMT",
+  "local_path": "sources/documents/fbc39ff94b14-List-of-applicant-TC-CSDs.pdf",
+  "sha256": "bf4c0e532e68bc581fb5c8023af42be6c005062a8d36776dc78ee62cab1f0220",
+  "bytes": 28465,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/fbc39ff94b14.md",
+  "text_characters": 1343,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "20110000",
+    "author": "Maud Timon",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Office 365",
+    "producer": "Microsoft® Word for Office 365",
+    "creationDate": "D:20210104093521+01'00'",
+    "modDate": "D:20210104093521+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

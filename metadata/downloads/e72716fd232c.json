@@ -1,0 +1,31 @@
+{
+  "id": "e72716fd232c",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/4286_Matrice%20conti_Feb%202026_1.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/4286_Matrice%20conti_Feb%202026_1.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 26 Feb 2026 14:30:40 GMT",
+  "local_path": "sources/documents/e72716fd232c-Cash-correspondent-banks-matrix-February-2026.pdf",
+  "sha256": "93b570ffb129d2d3c9a4307ec146309211951fa98ce13e90f699b316583facef",
+  "bytes": 162674,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 4,
+  "text_path": "extracted/e72716fd232c.md",
+  "text_characters": 9301,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4286_Matrice conti_Feb 2026.docx",
+    "author": "Stefania Bacca",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20260226152708+01'00'",
+    "modDate": "D:20260226152708+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

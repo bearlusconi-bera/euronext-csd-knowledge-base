@@ -1,0 +1,31 @@
+{
+  "id": "082eda43643a",
+  "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_GFS_R2026.JUN_clean_20260122.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_GFS_R2026.JUN_clean_20260122.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 20 Jan 2026 13:41:45 GMT",
+  "local_path": "sources/documents/082eda43643a-T2S-General-Functional-Specifications-R2026-JUN-GFS.pdf",
+  "sha256": "f8b36e5566c21145eca8d1799693796a1c98becd7edf823342a22fff76dd28dd",
+  "bytes": 17553453,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 714,
+  "text_path": "extracted/082eda43643a.md",
+  "text_characters": 2097781,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "T2S General Functional Specifications R2026.JUN (GFS)",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "",
+    "creator": "SCHEMA ST4",
+    "producer": "ST4 PDF Engine (Build 14.0.3.0)",
+    "creationDate": "D:20260114180011+01'00'",
+    "modDate": "D:20260120102406+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

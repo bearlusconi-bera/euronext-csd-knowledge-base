@@ -1,0 +1,31 @@
+{
+  "id": "db32eb36493e",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4424%20-%20ES%20-%20Countries%20for%20Peticion%20de%20Devolucion%20%28Appendix%20C%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4424%20-%20ES%20-%20Countries%20for%20Peticion%20de%20Devolucion%20%28Appendix%20C%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:41 GMT",
+  "local_path": "sources/documents/db32eb36493e-ES-Countries-for-Peticion-de-Devolucion-Appendix-C.pdf",
+  "sha256": "5ff924aee7a45daaccf0310a702ffa9d1414c5301e8fe376673a027e0a84c102",
+  "bytes": 137239,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/db32eb36493e.md",
+  "text_characters": 587,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4424 - ES - Countries for Peticion de Devolucion (Appendix C)",
+    "author": "LPacini",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220412095727+02'00'",
+    "modDate": "D:20220412095727+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

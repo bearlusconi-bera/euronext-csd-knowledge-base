@@ -1,0 +1,31 @@
+{
+  "id": "056b1cbeef0d",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/manualsge.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/manualsge.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:34 GMT",
+  "local_path": "sources/documents/056b1cbeef0d-Sistema-de-Gestao-de-Emprestimos-Securities-Lending-Service.pdf",
+  "sha256": "9dabcb46e959c4f92ce67644c77592dabcb5393ad065aee5c39911b24d79c50d",
+  "bytes": 378587,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 40,
+  "text_path": "extracted/056b1cbeef0d.md",
+  "text_characters": 196660,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "SGE-DF-v2.5-2018-01-02",
+    "author": "TAM",
+    "subject": "",
+    "keywords": "",
+    "creator": "PDFCreator Version 1.5.0",
+    "producer": "GPL Ghostscript 9.05",
+    "creationDate": "D:20180102172340+00'00'",
+    "modDate": "D:20180102172340+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

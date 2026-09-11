@@ -1,0 +1,31 @@
+{
+  "id": "0d65fc98e7b8",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/F_F035_IT_France_5001.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/F_F035_IT_France_5001.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 13 Jan 2026 09:32:57 GMT",
+  "local_path": "sources/documents/0d65fc98e7b8-FR-Form-5001-Appendix-2.pdf",
+  "sha256": "54c48621c8fbe06341743f3d08c7382e59301244cac94edfd7dd4402ea26b86f",
+  "bytes": 455576,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/0d65fc98e7b8.md",
+  "text_characters": 46887,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Jean-Pierre Robreau",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 17 pour Word",
+    "producer": "Adobe PDF Library 17.11.238",
+    "creationDate": "D:20231226152422+01'00'",
+    "modDate": "D:20240102113540+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "68d84e071478",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/20240912%20-%20ES_Convergence-Comit%C3%A9%20de%20Utilizadores.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/20240912%20-%20ES_Convergence-Comit%C3%A9%20de%20Utilizadores.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 19 Jun 2026 14:39:32 GMT",
+  "local_path": "sources/documents/68d84e071478-User-Committee-of-12-09-2024.pdf",
+  "sha256": "d79752d15c9dd504443ecedccded9823232c1338bd3a4ad1faffbc09f981705d",
+  "bytes": 562512,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 16,
+  "text_path": "extracted/68d84e071478.md",
+  "text_characters": 17554,
+  "low_text_pages": [
+    11,
+    15
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Convergence Program",
+    "author": "Barbara Pernice",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® PowerPoint® for Microsoft 365",
+    "producer": "Microsoft® PowerPoint® for Microsoft 365",
+    "creationDate": "D:20240912160105+01'00'",
+    "modDate": "D:20240912160105+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

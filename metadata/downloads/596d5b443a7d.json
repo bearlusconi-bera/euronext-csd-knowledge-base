@@ -1,0 +1,14 @@
+{
+  "id": "596d5b443a7d",
+  "url": "https://www.euronext.com/sites/default/files/2023-03/4306%20FATCA-CRS%20v.1.2019_10.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-03/4306%20FATCA-CRS%20v.1.2019_10.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:31:51 GMT",
+  "local_path": "sources/documents/596d5b443a7d-FATCA-CRS-form-V1-0.docx",
+  "sha256": "1f8881879e6d706a82487810112b27403f5d7193f119ea1a2a8a092716a01d25",
+  "bytes": 101948,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

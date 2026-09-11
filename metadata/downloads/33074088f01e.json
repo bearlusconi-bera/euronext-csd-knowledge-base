@@ -1,0 +1,31 @@
+{
+  "id": "33074088f01e",
+  "url": "https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.amiseco202509_barriersmarketintegration.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.amiseco202509_barriersmarketintegration.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 25 Sep 2025 13:23:36 GMT",
+  "local_path": "sources/documents/33074088f01e-Remaining-barriers-to-integration-in-securities-post-trade-services-issues-and-recommendat.pdf",
+  "sha256": "45fb20ad331c1f49f1fe76d78ae586652d61e07bc9c2379de5af2c976330b9bf",
+  "bytes": 1674543,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 121,
+  "text_path": "extracted/33074088f01e.md",
+  "text_characters": 433946,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Remaining barriers to integration in securities post-trade services – issues and recommendations",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250925150857+02'00'",
+    "modDate": "D:20250925151325+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

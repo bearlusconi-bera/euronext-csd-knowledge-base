@@ -1,0 +1,31 @@
+{
+  "id": "2b4a3465e7d6",
+  "url": "https://www.euronext.com/sites/default/files/2024-03/part_6_-_fundhub_rules.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-03/part_6_-_fundhub_rules.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:30 GMT",
+  "local_path": "sources/documents/2b4a3465e7d6-Part-6-FundHub-Rules-pdf.pdf",
+  "sha256": "43ad1546ba66a21dc99c1db2941767382614d574f31a4af9687ba1eb32accedf",
+  "bytes": 239574,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 10,
+  "text_path": "extracted/2b4a3465e7d6.md",
+  "text_characters": 31824,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Pia Just",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20240306094650+01'00'",
+    "modDate": "D:20240306094650+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

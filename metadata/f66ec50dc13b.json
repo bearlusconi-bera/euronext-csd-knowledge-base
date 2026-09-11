@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/services/other-systems/csd-links",
+  "retrieved_at": "2026-09-11",
+  "id": "f66ec50dc13b",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/services/other-systems/csd-links",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:31 GMT",
+  "title": "CSD Links",
+  "text": "CSD Links\nObjectives of Links\nAllow Participants to hold in their securities accounts, securities issued in a foreign Central Securities Depository (CSD);\nAllow the concentration of the custody of domestic and foreign securities in a single securities account opened at Euronext Securities Porto.\nHow they work\nThe operation of the links is based on functionalities existing in the TARGET2-Securities (T2S) platform that, through a securities account of Euronext Securities Porto (called omnibus account) opened in the foreign CSD, and a mirror account created at Euronext Securities Porto, allow the control of the securities in circulation in Portugal.The corporate actions of the securities issued in other CSDs are processed by the respective CSD.\nEuronext Securities Porto ensures the redistribution to its Participants of the cash and/or securities resulting from the corporate actions.\nWhat do these links allow?\nSettlement of cross-CSD transactions\nSettlement of domestic operations (intra-CSD)\n​​​​​​\nCorporate actions (Corporate Actions on Stock and on Flow)\nEuronext Securities Porto has established the following links with other CSDs:\nEuronext Securities Porto as INVESTOR CSD\nLink with Clearstream Banking AG\nEuronext Securities Porto allows its Participants to hold in their securities accounts debt instruments primarily registered in Clearstream Banking AG systems (since November 2, 2020)\nRelayed Link with NBB-SSS\nEuronext Securities Porto allows its Participants to hold in their securities accounts debt instruments primarily registered in NBB-SSS systems, through the link with Euroclear France (since August 6, 2018).\nLink with Euroclear France and Euroclear Nederland\nEuronext Securities Porto allows its Participants to hold in their securities accounts debt instruments primarily registered in Euroclear France and Euroclear Nederland systems (since February 19, 2018).\nEuronext Securities Porto as ISSUER CSD\nLink with Clearstream Banking AG (CBF)\nEuronext Securities Porto allows Clearstream Banking AG (CBF) to hold, through this CSD direct link, securities primarily registered in Euronext Securities Porto’s systems (since December 14, 2020).The relayed link with LUXCSD, through Clearstream Banking AG (CBF), allows LUXCSD to hold securities primarily registered in Euronext Securities Porto systems (since December 14, 2020).\nLink with IBERCLEAR\nEuronext Securities Porto allows IBERCLEAR to hold, through this CSD link, securities primarily registered in Euronext Securities Porto’s systems (since March 25, 2019).\nSupport Documentation\n09/08/2024\nPDF\nEuronext Securities Porto CSD Links\nEnglish\nVersion\n/sites/default/files/2024-08/euronext_securities_porto_csd_links_march_2023.pdf\n09/08/2024\nEuronext Securities Porto CSD Links\nEnglish\nlferreira@euro…\n09/08/2024",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2024-08/euronext_securities_porto_csd_links_march_2023.pdf",
+      "title": "Euronext Securities Porto CSD Links",
+      "context": "09/08/2024 PDF Euronext Securities Porto CSD Links English Version /sites/default/files/2024-08/euronext_securities_porto_csd_links_march_2023.pdf 09/08/2024 Euronext Securities Porto CSD Links English lferreira@euro… 09/08/2024"
+    }
+  ],
+  "local_html": "sources/pages/f66ec50dc13b.html",
+  "sha256": "61847ac7cd4b2cd497ee4dd47953f9850099b94dad9952f1e6a394bb58057729"
+}

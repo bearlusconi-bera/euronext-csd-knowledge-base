@@ -1,0 +1,31 @@
+{
+  "id": "8685a3500aae",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/euronext_securities_-_service_description_document_-_french_registered_securities_-_v06.3_track_changes.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/euronext_securities_-_service_description_document_-_french_registered_securities_-_v06.3_track_changes.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 16 Jun 2026 09:45:07 GMT",
+  "local_path": "sources/documents/8685a3500aae-French-registered-shares-v06-3-Track-Changes.pdf",
+  "sha256": "caa6751b3f2b5cb6f2f4419e03be945353b87d67498e49a23702fba0c433cac7",
+  "bytes": 4004166,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 149,
+  "text_path": "extracted/8685a3500aae.md",
+  "text_characters": 392911,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word pour Microsoft 365",
+    "producer": "Microsoft® Word pour Microsoft 365",
+    "creationDate": "D:20260616114118+02'00'",
+    "modDate": "D:20260616114118+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

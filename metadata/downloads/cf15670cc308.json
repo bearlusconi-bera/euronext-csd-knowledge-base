@@ -1,0 +1,31 @@
+{
+  "id": "cf15670cc308",
+  "url": "https://www.euronext.com/sites/default/files/2023-08/relatoriotrimestral.2013_1.pt_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-08/relatoriotrimestral.2013_1.pt_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:44 GMT",
+  "local_path": "sources/documents/cf15670cc308-Relatorio-1o-trimestre-de-2013.pdf",
+  "sha256": "fc46149a562aa1917a99fe73437b00e167ae6b6d397df0b396439a0f3ca82d68",
+  "bytes": 74702,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 16,
+  "text_path": "extracted/cf15670cc308.md",
+  "text_characters": 38087,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - 20130528-IB_Relatório_1Trimestral_2013-VFinal.docx",
+    "author": "arl",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20130531143049+01'00'",
+    "modDate": "D:20130531143120+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

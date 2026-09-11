@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/post-trade/euronext-securities/regulatory-environment/csdr/settlement-discipline-regime",
+  "retrieved_at": "2026-09-11",
+  "id": "33d8641c5fb1",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/regulatory-environment/csdr/settlement-discipline-regime",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:57 GMT",
+  "title": "Settlement Discipline Regime (SDR)",
+  "text": "Settlement Discipline Regime (SDR)\nLearn how the Settlement Discipline Regime helps to improve the safety and efficiency of securities settlement.\nThe SDR ensures the orderly and timely execution of settlement processes.\nIt provides a set of measures to prevent and address failures in the settlement of securities transactions.\nThe SDR measures intend to:\nprevent settlement fails, with particular reference to the transactions hold & release mechanism\ntrack and report settlement fails, including aggregated reporting to the supervising authority\nmanage settlement fails and regulate cash penalties\nstandardise the buy-in procedure\nThe SDR (except the buy-ins regime) came into force on 1 February 2022.\nCash penalties\nMarket participants are liable to pay daily cash penalties for transactions that fail under the intended settlement date.\nEuronext Securities has implemented the penalties mechanism in line with the regulatory requirements and in line with the ECSDA framework. Euronext Securities Copenhagen, Euronext Securities Milan, and Euronext Securities Porto, as CSDs participating in the T2S platform, use the T2S penalty mechanism to calculate the cash penalties.\nRegulatory Technical Standards on Settlement Discipline\nThe SDR is specified in the Regulatory Technical Standards on Settlement Discipline (RTS). The RTS aims to harmonise the regulatory environment for securities settlement within the EU.\nSupport\nOur CSDs will support stakeholders around their understanding of the regime during implementation. This will ensure timely compliance with the Central Securities Depository Regulation (CSDR) requirements.\nContact our team to learn more: Contacts | euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/about/contacts",
+      "title": "Contacts | euronext.com",
+      "context": "Support Our CSDs will support stakeholders around their understanding of the regime during implementation. This will ensure timely compliance with the Central Securities Depository Regulation (CSDR) requirements. Contact our team to learn more: Contacts | euronext.com"
+    }
+  ],
+  "local_html": "sources/pages/33d8641c5fb1.html",
+  "sha256": "985283824e044c40c6f4a4e1f3e5f2f9ad7dc44ebb880cf2a97490029f62df23"
+}

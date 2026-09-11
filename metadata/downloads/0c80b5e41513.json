@@ -1,0 +1,31 @@
+{
+  "id": "0c80b5e41513",
+  "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_DMT_R2026.JUN_clean_20260122.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_DMT_R2026.JUN_clean_20260122.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 20 Jan 2026 13:58:14 GMT",
+  "local_path": "sources/documents/0c80b5e41513-T2S-Data-Migration-Tool-Specification-R2026-JUN-DMT.pdf",
+  "sha256": "eecd16bdaf7f5adddd2524f3c3c41d5de233afa65218086af6ede3c978bf23b5",
+  "bytes": 796228,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 62,
+  "text_path": "extracted/0c80b5e41513.md",
+  "text_characters": 183892,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "T2S Data Migration Tool Specification R2026.JUN (DMT)",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "",
+    "creator": "SCHEMA ST4",
+    "producer": "ST4 PDF Engine (Build 14.0.3.0)",
+    "creationDate": "D:20260115092724+01'00'",
+    "modDate": "D:20260120104536+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

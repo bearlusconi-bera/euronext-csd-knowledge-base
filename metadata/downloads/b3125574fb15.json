@@ -1,0 +1,31 @@
+{
+  "id": "b3125574fb15",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/euronext_securities_-_guidelines_for_client_testing_on_message_queue_connectivity_mq_v2-track-changes.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/euronext_securities_-_guidelines_for_client_testing_on_message_queue_connectivity_mq_v2-track-changes.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 22 Jun 2026 12:28:44 GMT",
+  "local_path": "sources/documents/b3125574fb15-Guidelines-for-client-testing-on-MQ-connectivity-v2-Track-changes.pdf",
+  "sha256": "89bcd207cad05a2ed50b4aab48d6d6fee7f99fcca97f1d5c818a9240013e09a8",
+  "bytes": 272848,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 9,
+  "text_path": "extracted/b3125574fb15.md",
+  "text_characters": 17201,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "Manon Gonnessat",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word pour Microsoft 365",
+    "producer": "Microsoft® Word pour Microsoft 365",
+    "creationDate": "D:20260622141744+02'00'",
+    "modDate": "D:20260622141744+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

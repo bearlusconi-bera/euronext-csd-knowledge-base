@@ -1,0 +1,31 @@
+{
+  "id": "1fc60dbf6e37",
+  "url": "https://www.euronext.com/en/media/9275/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/9275/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:21 GMT",
+  "local_path": "sources/documents/1fc60dbf6e37-Commission-Implementing-Regulation-EU-2017-394.pdf",
+  "sha256": "ee1a4d2cf94d8161a0fd36d4c2778f850e499862cc100dffb461b8cff7ad2ed2",
+  "bytes": 770841,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 62,
+  "text_path": "extracted/1fc60dbf6e37.md",
+  "text_characters": 204802,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "COMMISSION  IMPLEMENTING  REGULATION  (EU)  2017/  394  -  of  11  November  2016  -  laying  down  implementing  technical  standards  with  regard  to  standard  forms,  templates  and  procedures  for  authorisation,  review  and  evaluation  of  central  securities  depositories,  for  the  cooperation  between  authorities  of  the  home  Member  State  and  the  host  Member  State,  for  the  consultation  of  authorities  involved  in  the  authorisation  to  provide  banking-type  ancillary  services,  for  access  involving  central  securities  depositories,  and  with  regard  to  the  format  of  the  records  to  be  maintained  by  central  securities  depositories  in  accordance  with  Regulation  (EU)  No 909  /  2014  of  the  European  Parliament  and  of  the  Council",
+    "author": "Publications Office",
+    "subject": "",
+    "keywords": "",
+    "creator": "Arbortext Advanced Print Publisher 11.0.3108/W Unicode-x64",
+    "producer": "PDFlib+PDI 8.0.5p2 (C++/Win64)",
+    "creationDate": "D:20170307203333+01'00'",
+    "modDate": "D:20170308170708+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

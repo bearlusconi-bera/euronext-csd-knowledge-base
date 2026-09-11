@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/french-inflation",
+  "retrieved_at": "2026-09-11",
+  "id": "9eaac27b47fd",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/french-inflation",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:13 GMT",
+  "title": "French Inflation",
+  "text": "French Inflation\nJanuary\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nAugust\nSeptember\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n2026\n01-09-2026\nZIP\nInflazione_Francese_20260901.zip",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coefficienti_Francia/2026/09/Inflazione_Francese_20260901.zip",
+      "title": "Inflazione_Francese_20260901.zip",
+      "context": "01-09-2026 ZIP Inflazione_Francese_20260901.zip"
+    }
+  ],
+  "local_html": "sources/pages/9eaac27b47fd.html",
+  "sha256": "5c4b13d62ed774777a834690bebf94eb05aee5df58ca918c96fb4559ee1dc767"
+}

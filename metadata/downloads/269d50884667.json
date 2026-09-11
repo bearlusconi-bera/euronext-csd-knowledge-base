@@ -1,0 +1,31 @@
+{
+  "id": "269d50884667",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/Fee%20-%20Book%20January%202026%20-%20FI%20.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/Fee%20-%20Book%20January%202026%20-%20FI%20.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 05 Jan 2026 09:28:22 GMT",
+  "local_path": "sources/documents/269d50884667-Fee-Books-Financial-Intermediaries-Price-list-in-force-from-1-January-2026.pdf",
+  "sha256": "e85e5f308d1036d68df89bc09f1a2ed60490b580ddd34847f803dfe444e2a9a0",
+  "bytes": 473826,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 32,
+  "text_path": "extracted/269d50884667.md",
+  "text_characters": 54986,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Beatriz Silva",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260102165713+00'00'",
+    "modDate": "D:20260102165713+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

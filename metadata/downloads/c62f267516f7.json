@@ -1,0 +1,31 @@
+{
+  "id": "c62f267516f7",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4410%20-%20ES%20-%20Power%20of%20Attorney%20%28Appendix%203%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4410%20-%20ES%20-%20Power%20of%20Attorney%20%28Appendix%203%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:46 GMT",
+  "local_path": "sources/documents/c62f267516f7-ES-Power-of-Attorney-Appendix-3.pdf",
+  "sha256": "a5a852eebfa4669f51d6fe2e628775345d391733efc30bfeae7a331a95326a15",
+  "bytes": 18955,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/c62f267516f7.md",
+  "text_characters": 3779,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - ES - Power of Attorney",
+    "author": "mcastellazzi",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 7.0 (Windows)",
+    "creationDate": "D:20110427181740+02'00'",
+    "modDate": "D:20110427181740+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

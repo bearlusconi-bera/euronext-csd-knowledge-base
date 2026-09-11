@@ -1,0 +1,14 @@
+{
+  "id": "adf1c37bada6",
+  "url": "https://www.euronext.com/sites/default/files/2025-07/Beneficial%20Owner%20Detail_July%202025.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-07/Beneficial%20Owner%20Detail_July%202025.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Tue, 01 Jul 2025 15:29:07 GMT",
+  "local_path": "sources/documents/adf1c37bada6-Beneficial-Owner-Detail.xlsx",
+  "sha256": "5389dd3cc37c824892cb6516fae8d82121a0a9028f7ebff31c28ef9c373190c5",
+  "bytes": 15890,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

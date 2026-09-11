@@ -1,0 +1,31 @@
+{
+  "id": "cfa99bca3b03",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_guidelines_for_client_testing_on_belgian_registered_shares_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_guidelines_for_client_testing_on_belgian_registered_shares_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 22 Jan 2026 14:03:56 GMT",
+  "local_path": "sources/documents/cfa99bca3b03-Guidelines-for-client-testing-on-Belgian-registered-shares.pdf",
+  "sha256": "70d395ab168f3ee359dfea412aa72e1d0b6dce95105c3547798f13cb63237481",
+  "bytes": 231092,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 9,
+  "text_path": "extracted/cfa99bca3b03.md",
+  "text_characters": 17463,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "Manon Gonnessat",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260122145315+01'00'",
+    "modDate": "D:20260122145315+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

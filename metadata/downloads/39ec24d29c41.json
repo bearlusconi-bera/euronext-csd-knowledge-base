@@ -1,0 +1,31 @@
+{
+  "id": "39ec24d29c41",
+  "url": "https://www.euronext.com/en/media/9273/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/9273/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:21 GMT",
+  "local_path": "sources/documents/39ec24d29c41-Commission-Delegated-Regulation-EU-2018-1229.pdf",
+  "sha256": "3417e11e8899b76cb8aa653550b507a5c77b7c37cd0c1bc395371a64257883f5",
+  "bytes": 833721,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 53,
+  "text_path": "extracted/39ec24d29c41.md",
+  "text_characters": 253040,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "COMMISSION  DELEGATED  REGULATION  (EU)  2018/  1229  -  of  25 May  2018  -  supplementing  Regulation  (EU)  No 909  /  2014  of  the  European  Parliament  and  of  the  Council  with  regard  to  regulatory  technical  standards  on  settlement  discipline",
+    "author": "Publications Office",
+    "subject": "",
+    "keywords": "",
+    "creator": "Arbortext Advanced Print Publisher 11.0.3108/W Unicode-x64",
+    "producer": "PDFlib+PDI 8.0.5p2 (C++/Win64)",
+    "creationDate": "D:20180912182853+02'00'",
+    "modDate": "D:20180912184045+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

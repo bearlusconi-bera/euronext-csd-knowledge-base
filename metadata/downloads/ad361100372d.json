@@ -1,0 +1,31 @@
+{
+  "id": "ad361100372d",
+  "url": "https://www.euronext.com/sites/default/files/2026-03/Your%20general%20meeting%2C%20our%20expertise.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-03/Your%20general%20meeting%2C%20our%20expertise.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 19 Mar 2026 10:17:45 GMT",
+  "local_path": "sources/documents/ad361100372d-download-brochure.pdf",
+  "sha256": "5fae3bd27044cc002ed49550d0c9a4b803c928fff57b73b1be0c1588074fc041",
+  "bytes": 1569927,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/ad361100372d.md",
+  "text_characters": 9253,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign 21.1 (Windows)",
+    "producer": "Adobe PDF Library 18.0",
+    "creationDate": "D:20260313142338+02'00'",
+    "modDate": "D:20260313142342+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

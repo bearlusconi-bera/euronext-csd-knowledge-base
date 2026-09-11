@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/isin-codes",
+  "retrieved_at": "2026-09-11",
+  "id": "d05d622ada56",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/documentation/statistics/isin-codes",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:33 GMT",
+  "title": "ISIN Codes",
+  "text": "ISIN Codes\nType\nActiveCreatedInactive\nMonth\n- Any -JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember\nYear\n- Any -20132014201520162017201820192020202120222023202420252026\nAugust 2026\nType\nNr. Of issues\nInf. Date\nBonds\n1,151\n31/08/2026\nCertificates of Deposit\n0\n31/08/2026\nCommercial Paper\n2,591\n31/08/2026\nConvertible securities\n2\n31/08/2026\nCredit Link Notes\n0\n31/08/2026\nECB Debt Certificates\n0\n31/08/2026\nFutures Contracts\n2,546\n31/08/2026\nIndex, Currency and Interest rate\n33\n31/08/2026\nInvestment Certificates\n5\n31/08/2026\nOptions\n558\n31/08/2026\nOther Detached Securities\n0\n31/08/2026\nParticipation Units\n3\n31/08/2026\nParticipation Units / Securitisation\n3,090\n31/08/2026\nPerpetual Income Certificates\n1\n31/08/2026\nRights\n53\n31/08/2026\nSaving Certificates\n6\n31/08/2026\nShares\n2,754\n31/08/2026\nStructured Products\n0\n31/08/2026\nTreasury Bills\n6\n31/08/2026\nTreasury Certificates\n3\n31/08/2026\nTreasury Savings Certificates\n1\n31/08/2026\nWarrants and Certificates\n21\n31/08/2026",
+  "links": [],
+  "local_html": "sources/pages/d05d622ada56.html",
+  "sha256": "7aa329ec91eae7ce88f8531bbf0a5409392ad6e75016aa2e8cb4fdc78483f6d8"
+}

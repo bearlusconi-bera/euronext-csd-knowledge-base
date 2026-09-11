@@ -1,0 +1,75 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/cash",
+  "retrieved_at": "2026-09-11",
+  "id": "d7aedbd06ae8",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/cash",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Cash Settlement Services | Euronext Athens",
+  "text": "EURONEXT SECURITIES ATHENS\nCash Settlement Services\nEuronext Securities Athens is a direct member of TARGET (the ECB Euro payment system). Through the Euronext Securities Athens Ancillary System, it provides real time cash payments to/from market Participants. For this purpose, each market Participant must be serviced by a Settlement Bank that participates in Euronext Securities Athens ASI. The Euronext Securities Athens System provides to its Participants detailed information about the daily financial obligations, and the current cash balances, as well as detailed cash transactions. Timings SETTLEMENTSTYPESettlement, SDR Penalty and Tax Calendar 2026Download PDF Settlement, SDR Penalty and Tax Calendar 2025 Download PDF Settlement, SDR Penalty and Tax Calendar 2024 Download PDF Settlement, SDR Penalty and Tax Calendar 2023 Download PDF Settlement, SDR Penalty and Tax Calendar 2022 Download PDF\nLearn more about the indicative DSS settlement procedures executed per Target cycle​ here.\n1st cycle 9:30 – 9:40​Derivatives​Fees​Daily cash settlement ​Securities​OTC instructions settlement GR securities​OTC instructions settlement foreign securities​​2nd cycle 9:45 – 9:55​Derivatives​Fees​Daily cash settlement ​​3rd – 8th cycle 10:00 – 10:45 and on the hour​Securities​Fees​Euronext Athens trades Multilateral Settlement ​Bilateral Settlement block trades​OTC instructions settlement GR securities​OTC instructions settlement foreign securities ​Derivatives​Physical delivery ​Possibility of executing extra daily cash settlements ​CA cash distributions​Cash distributions on foreign securities ​Cash distributions on GR securities​​9th cycle 16:00 – 16:35​Same as cycles 3-8​​10th cycle 16:40-16:50​Same as cycles 3-8​Last opportunity to settle Shifted Transactions​11th cycle 17:00-17:30​Same as cycles 3-8​Last opportunity to settle spot1 buy-in trades and “failed trades\"\nSee Also\nCross Border Settlement Services\nMultilateral & Bilateral Settlement Services\nOTC Settlement Services\nPricing and Fees (Resolution 18)\nDisclosure\nSecurities Accounts\nRegistry Services",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Ημερολόγιο_Διακανονισμού_Ποινών_και_Φόρου_Settlement_SDR_Penalty_and_Tax_Calendar_2026.pdf",
+      "title": "Download PDF",
+      "context": "SETTLEMENTSTYPESettlement, SDR Penalty and Tax Calendar 2026Download PDF Settlement, SDR Penalty and Tax Calendar 2025 Download PDF Settlement, SDR Penalty and Tax Calendar 2024 Download PDF Settlement, SDR Penalty and Tax Calendar 2023 Download PDF Settlement, SDR Penalty and Tax Calendar 2022 Download PDF"
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2024-11/Ημερολόγιο-Διακανονισμού-Ποινών-και-Φόρου-για-το-έτος-2025-new.pdf",
+      "title": "Download PDF",
+      "context": "SETTLEMENTSTYPESettlement, SDR Penalty and Tax Calendar 2026Download PDF Settlement, SDR Penalty and Tax Calendar 2025 Download PDF Settlement, SDR Penalty and Tax Calendar 2024 Download PDF Settlement, SDR Penalty and Tax Calendar 2023 Download PDF Settlement, SDR Penalty and Tax Calendar 2022 Download PDF"
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2024-11/Ημερολόγιο-Διακανονισμού-Ποινών-και-Φόρου-για-το-έτος-2024-20240227-new.pdf",
+      "title": "Download PDF",
+      "context": "SETTLEMENTSTYPESettlement, SDR Penalty and Tax Calendar 2026Download PDF Settlement, SDR Penalty and Tax Calendar 2025 Download PDF Settlement, SDR Penalty and Tax Calendar 2024 Download PDF Settlement, SDR Penalty and Tax Calendar 2023 Download PDF Settlement, SDR Penalty and Tax Calendar 2022 Download PDF"
+    },
+    {
+      "url": "https://www.athexgroup.gr/documents/10180/658029/%CE%97%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%20%CE%94%CE%B9%CE%B1%CE%BA%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D%2C%20%CE%A0%CE%BF%CE%B9%CE%BD%CF%8E%CE%BD%20%CE%BA%CE%B1%CE%B9%20%CE%A6%CF%8C%CF%81%CE%BF%CF%85%202023/ddab0f3f-4647-488f-a84f-d2b16ac4b156",
+      "title": "Download PDF",
+      "context": "SETTLEMENTSTYPESettlement, SDR Penalty and Tax Calendar 2026Download PDF Settlement, SDR Penalty and Tax Calendar 2025 Download PDF Settlement, SDR Penalty and Tax Calendar 2024 Download PDF Settlement, SDR Penalty and Tax Calendar 2023 Download PDF Settlement, SDR Penalty and Tax Calendar 2022 Download PDF"
+    },
+    {
+      "url": "https://www.athexgroup.gr/documents/10180/658029/%CE%97%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%20%CE%94%CE%B9%CE%B1%CE%BA%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D%2C%20%CE%A0%CE%BF%CE%B9%CE%BD%CF%8E%CE%BD%20%CE%BA%CE%B1%CE%B9%20%CE%A6%CF%8C%CF%81%CE%BF%CF%85%202022.pdf/9e44c840-5193-486f-a5e4-1ba58ffe7426",
+      "title": "Download PDF",
+      "context": "SETTLEMENTSTYPESettlement, SDR Penalty and Tax Calendar 2026Download PDF Settlement, SDR Penalty and Tax Calendar 2025 Download PDF Settlement, SDR Penalty and Tax Calendar 2024 Download PDF Settlement, SDR Penalty and Tax Calendar 2023 Download PDF Settlement, SDR Penalty and Tax Calendar 2022 Download PDF"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/cross-border",
+      "title": "Cross Border Settlement Services",
+      "context": "Cross Border Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Pricing and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/multilateral",
+      "title": "Multilateral & Bilateral Settlement Services",
+      "context": "Cross Border Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Pricing and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/otc",
+      "title": "OTC Settlement Services",
+      "context": "Cross Border Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Pricing and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/about/regulatory/athexcsd",
+      "title": "Pricing and Fees (Resolution 18)",
+      "context": "Cross Border Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Pricing and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/about/regulatory/disclosure",
+      "title": "Disclosure",
+      "context": "Cross Border Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Pricing and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/securities-accounts",
+      "title": "Securities Accounts",
+      "context": "Cross Border Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Pricing and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services",
+      "title": "Registry Services",
+      "context": "Cross Border Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Pricing and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    }
+  ],
+  "local_html": "sources/pages/d7aedbd06ae8.html",
+  "sha256": "cb1434523db4d07493faa6f1d8bf51f12f66d8ea743e18d204609f53c87e7abf"
+}

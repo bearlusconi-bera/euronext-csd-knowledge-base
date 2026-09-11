@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/istat",
+  "retrieved_at": "2026-09-11",
+  "id": "a06ab1e8571a",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/istat",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:11 GMT",
+  "title": "Istat",
+  "text": "Istat\nJanuary\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nAugust\nSeptember\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n2026\n01-09-2026\nZIP\nIstat_20260901.zip",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coefficienti_Istat/2026/09/Istat_20260901.zip",
+      "title": "Istat_20260901.zip",
+      "context": "01-09-2026 ZIP Istat_20260901.zip"
+    }
+  ],
+  "local_html": "sources/pages/a06ab1e8571a.html",
+  "sha256": "f6c04248b41430b93b0c5a154069ddfb749999a6fccc084f178dcaf4b132139c"
+}

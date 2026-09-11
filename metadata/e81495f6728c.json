@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/about-us/corporate-governance/board-committees",
+  "retrieved_at": "2026-09-11",
+  "id": "e81495f6728c",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/about-us/corporate-governance/board-committees",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:26 GMT",
+  "title": "Board Committees in Euronext Securities Oslo",
+  "text": "Board Committees in Euronext Securities Oslo\nAudit Committee\nPDF\nES-OSL Audit Committee Mandate\nEnglish\nVersion\nEnglish\n16/06/2023\nES-OSL Audit Committee Mandate\n/sites/default/files/2023-06/ES-OSL-Audit-Committee-Mandate.pdf\nRisk Committee\nPDF\nES-OSL Risk Committee Mandate\nEnglish\nVersion\nEnglish\n04/06/2024\nES-OSL Risk Committee Mandate\n/sites/default/files/2026-05/ES-OSL%20risk%20committee%20mandate%202025_0.pdf\nRemuneration Committee\nPDF\nES-OSL-Remuneration-Committee-Mandate\nEnglish\nVersion\nEnglish\n16/06/2023\nES-OSL-Remuneration-Committee-Mandate\n/sites/default/files/2026-06/Euronext%20Securities%20Oslo%20-%20Board%20of%20Directors%20Remuneration%20Committee%20mandate%202026.pdf\nPDF\nRemuneration Policy Oslo\nEnglish\nVersion\n/sites/default/files/2026-06/2026%20Remuneration%20Policies%20Euronext%20Securities%20Oslo..pdf\nRemuneration Policy Oslo\nEnglish\nffnissen@euron…\n17/07/2024\nAccount Operators Compliance Committee\nPDF\nAccount Operators Compliance Committee Mandate\nEnglish\nVersion\n/sites/default/files/2024-07/mandate_for_es-osl_account_operators_compliance_committee_-_v._1.1_-_2024_3_0.pdf\nAccount Operators Compliance Committee Mandate\nEnglish\nffnissen@euron…\n17/07/2024",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2023-06/ES-OSL-Audit-Committee-Mandate.pdf",
+      "title": "ES-OSL Audit Committee Mandate",
+      "context": "PDF ES-OSL Audit Committee Mandate English Version English 16/06/2023 ES-OSL Audit Committee Mandate /sites/default/files/2023-06/ES-OSL-Audit-Committee-Mandate.pdf"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2026-05/ES-OSL%20risk%20committee%20mandate%202025_0.pdf",
+      "title": "ES-OSL Risk Committee Mandate",
+      "context": "PDF ES-OSL Risk Committee Mandate English Version English 04/06/2024 ES-OSL Risk Committee Mandate /sites/default/files/2026-05/ES-OSL%20risk%20committee%20mandate%202025_0.pdf"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2026-06/Euronext%20Securities%20Oslo%20-%20Board%20of%20Directors%20Remuneration%20Committee%20mandate%202026.pdf",
+      "title": "ES-OSL-Remuneration-Committee-Mandate",
+      "context": "PDF ES-OSL-Remuneration-Committee-Mandate English Version English 16/06/2023 ES-OSL-Remuneration-Committee-Mandate /sites/default/files/2026-06/Euronext%20Securities%20Oslo%20-%20Board%20of%20Directors%20Remuneration%20Committee%20mandate%202026.pdf PDF Remuneration Policy Oslo English Version /sites/default/files/2026-06/2026%20Remuneration%20Policies%20Euronext%20Securities%20Oslo..pdf Remuneration Policy Oslo English ffnissen@euron… 17/07/2024"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2026-06/2026%20Remuneration%20Policies%20Euronext%20Securities%20Oslo..pdf",
+      "title": "Remuneration Policy Oslo",
+      "context": "PDF ES-OSL-Remuneration-Committee-Mandate English Version English 16/06/2023 ES-OSL-Remuneration-Committee-Mandate /sites/default/files/2026-06/Euronext%20Securities%20Oslo%20-%20Board%20of%20Directors%20Remuneration%20Committee%20mandate%202026.pdf PDF Remuneration Policy Oslo English Version /sites/default/files/2026-06/2026%20Remuneration%20Policies%20Euronext%20Securities%20Oslo..pdf Remuneration Policy Oslo English ffnissen@euron… 17/07/2024"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2024-07/mandate_for_es-osl_account_operators_compliance_committee_-_v._1.1_-_2024_3_0.pdf",
+      "title": "Account Operators Compliance Committee Mandate",
+      "context": "PDF Account Operators Compliance Committee Mandate English Version /sites/default/files/2024-07/mandate_for_es-osl_account_operators_compliance_committee_-_v._1.1_-_2024_3_0.pdf Account Operators Compliance Committee Mandate English ffnissen@euron… 17/07/2024"
+    }
+  ],
+  "local_html": "sources/pages/e81495f6728c.html",
+  "sha256": "77d1a17bb8f8de62f697c1c76bbebc98b2cdbbb3ab102a25486e46d4a99e0ff3"
+}

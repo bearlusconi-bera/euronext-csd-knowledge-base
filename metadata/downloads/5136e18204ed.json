@@ -1,0 +1,31 @@
+{
+  "id": "5136e18204ed",
+  "url": "https://www.esma.europa.eu/sites/default/files/2023-02/Joint_ESAs_DORA_event_-_ESAs_slides.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2023-02/Joint_ESAs_DORA_event_-_ESAs_slides.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 06 Feb 2023 15:17:20 GMT",
+  "local_path": "sources/documents/5136e18204ed-Joint-ESAs-public-event-on-DORA-Technical-discussion-6-February-2023.pdf",
+  "sha256": "46a62f9dd28794eb8ad992f6e5c20da9bb652a2b7e9e71cf812bd2c48e211f95",
+  "bytes": 599176,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 24,
+  "text_path": "extracted/5136e18204ed.md",
+  "text_characters": 39043,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Joint ESAs DORA event - presentation",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® PowerPoint® for Microsoft 365",
+    "producer": "Microsoft® PowerPoint® for Microsoft 365",
+    "creationDate": "D:20230206145525+01'00'",
+    "modDate": "D:20230206161604+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a42e852d1bed",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_guidelines_for_client_testing_on_post_trade_confirmation_system_ptcs.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_guidelines_for_client_testing_on_post_trade_confirmation_system_ptcs.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 22 Jan 2026 15:14:11 GMT",
+  "local_path": "sources/documents/a42e852d1bed-Guidelines-for-client-testing-on-Post-Trade-Confirmation-System.pdf",
+  "sha256": "0ec09bfce22cd04f50f67d5a9c7199ded1d2c3d2bc545f531c2a5e2b0f3f0f2e",
+  "bytes": 229032,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 9,
+  "text_path": "extracted/a42e852d1bed.md",
+  "text_characters": 17181,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "Manon Gonnessat",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260122154043+01'00'",
+    "modDate": "D:20260122154043+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

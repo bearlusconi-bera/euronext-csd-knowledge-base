@@ -1,0 +1,31 @@
+{
+  "id": "facc8b0689cb",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4250%20-%20P_F057%20Form%20for%20quick%20refund_25%20RFI%20%28Appendix%2026%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4250%20-%20P_F057%20Form%20for%20quick%20refund_25%20RFI%20%28Appendix%2026%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/facc8b0689cb-P-F057-Form-for-quick-refund-25-RFI-Appendix-26.pdf",
+  "sha256": "d739ccf07fcba683e23438f9b7aedda09035f31c9a76259b574741de8a197609",
+  "bytes": 44436,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 5,
+  "text_path": "extracted/facc8b0689cb.md",
+  "text_characters": 33562,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Portugal - P_F057 - Tax Relief form Mod. 25-RFI",
+    "author": "as0480",
+    "subject": "P_F057 - Mod 25-RFI",
+    "keywords": "",
+    "creator": "Adobe PageMaker 7.0",
+    "producer": "Acrobat Distiller 7.0 (Windows)",
+    "creationDate": "D:20140115170702+01'00'",
+    "modDate": "D:20180614124022+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

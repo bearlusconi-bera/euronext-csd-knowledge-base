@@ -1,0 +1,14 @@
+{
+  "id": "992625fe4b82",
+  "url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coefficienti_Eurostat/2026/09/Eurostat_Definitivo_20260901.zip",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coefficienti_Eurostat/2026/09/Eurostat_Definitivo_20260901.zip",
+  "content_type": "binary/octet-stream",
+  "last_modified": "Thu, 20 Aug 2026 13:05:05 GMT",
+  "local_path": "sources/documents/992625fe4b82-Eurostat-Definitivo-20260901-zip.zip",
+  "sha256": "f6d836313ceb74b46ecc3a67d877c8d57d4ca8903ce30a94ce0bc1bad0c7e689",
+  "bytes": 3932339,
+  "file_type": "zip",
+  "review_status": "archived-not-substantively-reviewed"
+}

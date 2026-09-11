@@ -1,0 +1,33 @@
+{
+  "id": "e69c22b7df46",
+  "url": "https://www.euronext.com/sites/default/files/2022-10/Yankee%20Bond.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-10/Yankee%20Bond.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:23 GMT",
+  "local_path": "sources/documents/e69c22b7df46-Yankee-Bonds.pdf",
+  "sha256": "d033010da9293631d290cc7256b8e6d6573c022c45b3455cefa2312821780915",
+  "bytes": 372844,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/e69c22b7df46.md",
+  "text_characters": 4674,
+  "low_text_pages": [
+    5
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "PowerPoint Presentation",
+    "author": "Dimonopoli, Pierluigi",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® PowerPoint® for Microsoft 365",
+    "producer": "Microsoft® PowerPoint® for Microsoft 365",
+    "creationDate": "D:20220912093847+02'00'",
+    "modDate": "D:20220912093847+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

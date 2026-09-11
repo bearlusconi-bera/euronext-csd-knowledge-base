@@ -1,0 +1,14 @@
+{
+  "id": "53b90d0fe41e",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_client_test_set_for_belgian_registered_shares.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_client_test_set_for_belgian_registered_shares.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Thu, 22 Jan 2026 14:03:56 GMT",
+  "local_path": "sources/documents/53b90d0fe41e-Client-test-set-for-Belgian-registered-shares.xlsx",
+  "sha256": "42b9ae54ee90a7700833e74747afa049162c5b4b55c09f74686a5339539062cc",
+  "bytes": 24689,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

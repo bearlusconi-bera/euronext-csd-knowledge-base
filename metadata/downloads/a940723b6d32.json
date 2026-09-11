@@ -1,0 +1,14 @@
+{
+  "id": "a940723b6d32",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/SettlementFails2025_Article15.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/SettlementFails2025_Article15.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Thu, 05 Feb 2026 11:27:00 GMT",
+  "local_path": "sources/documents/a940723b6d32-Euronext-Securities-Milan-Settlement-Fails-2025-Article-15.xlsx",
+  "sha256": "5a75ef44e6af3f2a6a9b18f9d7ec3d59ee585ac5f9490ddb7863e86b975f679c",
+  "bytes": 24656,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

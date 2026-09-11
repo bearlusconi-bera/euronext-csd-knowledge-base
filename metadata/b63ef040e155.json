@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/post-trade/euronext-securities/porto/legislation-and-regulation",
+  "retrieved_at": "2026-09-11",
+  "id": "b63ef040e155",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:05 GMT",
+  "title": "Legislation and Regulation",
+  "text": "Legislation and Regulation\nCSD Regulation (CSDR)\nCSD Regulation (CSDR)\nOur Rules\nOur Rules\nComplementary Legislation\nComplementary Legislation\nSecurities Code\nSecurities Code\nRegulation of the Guarantee Fund (Fundo de Garantia)\nRegulation of the Guaran…",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/csd-regulation-csdr",
+      "title": "CSD Regulation (CSDR)",
+      "context": "CSD Regulation (CSDR) CSD Regulation (CSDR) Our Rules Our Rules Complementary Legislation Complementary Legislation Securities Code Securities Code Regulation of the Guarantee Fund (Fundo de Garantia) Regulation of the Guaran…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/our-rules",
+      "title": "Our Rules",
+      "context": "CSD Regulation (CSDR) CSD Regulation (CSDR) Our Rules Our Rules Complementary Legislation Complementary Legislation Securities Code Securities Code Regulation of the Guarantee Fund (Fundo de Garantia) Regulation of the Guaran…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/complementary-legislation",
+      "title": "Complementary Legislation",
+      "context": "CSD Regulation (CSDR) CSD Regulation (CSDR) Our Rules Our Rules Complementary Legislation Complementary Legislation Securities Code Securities Code Regulation of the Guarantee Fund (Fundo de Garantia) Regulation of the Guaran…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/securities-code",
+      "title": "Securities Code",
+      "context": "CSD Regulation (CSDR) CSD Regulation (CSDR) Our Rules Our Rules Complementary Legislation Complementary Legislation Securities Code Securities Code Regulation of the Guarantee Fund (Fundo de Garantia) Regulation of the Guaran…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/guarantee-fund",
+      "title": "Regulation of the Guaran…",
+      "context": "CSD Regulation (CSDR) CSD Regulation (CSDR) Our Rules Our Rules Complementary Legislation Complementary Legislation Securities Code Securities Code Regulation of the Guarantee Fund (Fundo de Garantia) Regulation of the Guaran…"
+    }
+  ],
+  "local_html": "sources/pages/b63ef040e155.html",
+  "sha256": "41dda62a50b168a75ace6eb416648403199b742c87c410aa4e56624d201b86ea"
+}

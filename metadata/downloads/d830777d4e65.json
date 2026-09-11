@@ -1,0 +1,14 @@
+{
+  "id": "d830777d4e65",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP097_LEGALIZATION_REQUEST_FROM_PARTICIPANT_ISSUER_02022026.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP097_LEGALIZATION_REQUEST_FROM_PARTICIPANT_ISSUER_02022026.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Thu, 16 Apr 2026 08:24:40 GMT",
+  "local_path": "sources/documents/d830777d4e65-here.docx",
+  "sha256": "b40fecca386561c53f7c7fccb3012bc96cee2763607efe831472f3482841f641",
+  "bytes": 105556,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

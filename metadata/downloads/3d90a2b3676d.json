@@ -1,0 +1,31 @@
+{
+  "id": "3d90a2b3676d",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/managementreport.annual.2021.en__0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/managementreport.annual.2021.en__0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:33 GMT",
+  "local_path": "sources/documents/3d90a2b3676d-Management-Report-Annual-2021.pdf",
+  "sha256": "995d399d6fecad94ba8c0823e1f2d46bb0bc93deb9f27be287816773685ac8b4",
+  "bytes": 1411078,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 124,
+  "text_path": "extracted/3d90a2b3676d.md",
+  "text_characters": 260548,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": ", docId:90B705997AB12879B7C5D067A36C5854",
+    "creator": "Acrobat PDFMaker 21 for Word",
+    "producer": "Adobe PDF Library 21.11.71",
+    "creationDate": "D:20221020175212+01'00'",
+    "modDate": "D:20221020175434+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

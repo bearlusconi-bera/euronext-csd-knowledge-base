@@ -1,0 +1,14 @@
+{
+  "id": "d2bd70797276",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/PT%20-%20Tax%20Breakdown%20template%20%28Appendix%203%29.xls",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/PT%20-%20Tax%20Breakdown%20template%20%28Appendix%203%29.xls",
+  "content_type": "application/vnd.ms-excel",
+  "last_modified": "Fri, 31 Jan 2025 13:29:41 GMT",
+  "local_path": "sources/documents/d2bd70797276-PT-Tax-breakdown-template-Appendix-3.xls",
+  "sha256": "c12fcb2f12f3f6267fa14d015edc50ac445a427d5af493eab6a888b2e77ce892",
+  "bytes": 60416,
+  "file_type": "xls",
+  "review_status": "archived-not-substantively-reviewed"
+}

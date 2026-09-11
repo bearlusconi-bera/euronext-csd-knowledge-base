@@ -1,0 +1,31 @@
+{
+  "id": "9fa4a59ca226",
+  "url": "https://athens.euronext.com/sites/default/files/2026-07/Euronext_Securities_Athens_APP007_APPLICATION_FOR_PROVIDING_INFORMATION_20260623.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-07/Euronext_Securities_Athens_APP007_APPLICATION_FOR_PROVIDING_INFORMATION_20260623.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 15 Jul 2026 11:51:44 GMT",
+  "local_path": "sources/documents/9fa4a59ca226-APP007.pdf",
+  "sha256": "bb3674bfe25e7b01228c7f03b489088625831210393828f16271ffc4e6cfd967",
+  "bytes": 294500,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/9fa4a59ca226.md",
+  "text_characters": 5256,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Xenos, Aggelos",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ ΜΕ ΠΝΕΥΜΑΤΙΚΑ ΔΙΚΑΙΩΜΑΤΑ (PUBLIC IPRs)ΕΛΛΗΝΙΚΗ (GREEK)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260715140815+03'00'",
+    "modDate": "D:20260715140815+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

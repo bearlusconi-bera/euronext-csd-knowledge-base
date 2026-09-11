@@ -1,0 +1,31 @@
+{
+  "id": "b2b50caca26b",
+  "url": "https://www.esma.europa.eu/sites/default/files/2025-07/Coordination_Committee_04062025_ECB_update_on_T2S_preparations.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2025-07/Coordination_Committee_04062025_ECB_update_on_T2S_preparations.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 09 Jul 2025 15:18:54 GMT",
+  "local_path": "sources/documents/b2b50caca26b-ECB-update-on-T2S-preparations-for-T-1.pdf",
+  "sha256": "20bc91250c514ad4faf56c27021f591d43b9e8092416fe16e3710275e77d1a3c",
+  "bytes": 646072,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/b2b50caca26b.md",
+  "text_characters": 2578,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft PowerPoint - Item 2 - Coordination Committee 04062025 - ECB update on T2S preparations for T+1 (1)",
+    "author": "Karole-Anne Sauvet-Frot",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20250707092108+02'00'",
+    "modDate": "D:20250707092108+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

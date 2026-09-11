@@ -1,0 +1,31 @@
+{
+  "id": "72a9a746b985",
+  "url": "https://www.euronext.com/sites/default/files/2024-01/INTERBOLSA%20CIRCULAR%201_2022.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-01/INTERBOLSA%20CIRCULAR%201_2022.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:14 GMT",
+  "local_path": "sources/documents/72a9a746b985-INTERBOLSA-Circular-1-2022.pdf",
+  "sha256": "c56cfe7702372b1ba64bebdc8b6b6a68b337297042f5409bc936aa515c5b77f1",
+  "bytes": 192397,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 7,
+  "text_path": "extracted/72a9a746b985.md",
+  "text_characters": 13653,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Helena Teixeira Lopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 23 for Word",
+    "producer": "Adobe PDF Library 23.1.206",
+    "creationDate": "D:20230524103347+01'00'",
+    "modDate": "D:20230524103351+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

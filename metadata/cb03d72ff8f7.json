@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/post-trade/euronext-securities/products-services/issuing-agent-services",
+  "retrieved_at": "2026-09-11",
+  "id": "cb03d72ff8f7",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/products-services/issuing-agent-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:08:52 GMT",
+  "title": "Issuing Agent Services",
+  "text": "Issuing Agent Services\nWhat we offer\nEuronext Securities offer a wide variety of Issuing Agent products and services\nIssuing securities, such as shares or bonds, through a central securities depository (CSD) requires documentation, decision-making, and coordination between several parties. To issue securities through the CSD, you are obliged to have an issuing agent – a key player that monitors and handles relevant practical tasks related to a successful issuance process and throughout the lifecycle of the securities\nAs an experienced independent issuing agent, we specialise in seamlessly facilitating the issuance of securities for corporations, financial institutions, and organisations aiming to raise capital.\nExpertise and Efficiency\nAt Euronext Securities, our team of experts and specialised professionals streamline the entire issuance process. From meticulous documentation to precise verification procedures, we ensure compliance with regulatory standards while maximising efficiency.\nComprehensive Services\nWith years of experience as an independent issuing and paying agent, we possess extensive knowledge of the share and bond issuance process. We handle all types of corporate actions, including dividend payments, mergers, and stock splits. Our tailored solutions are designed to meet your specific needs, ensuring a smooth and successful issuance process.\nDedicated Support\nPartnering with us means gaining access to dedicated support at every stage of the issuance process. Whether you have questions about the process or are considering a future partnership, our team is here to provide guidance and assistance.\nOur services include:\nAdvising on issuance quantity and pricing\nExpertise guidance and advice for preliminary and final prospectuses\nCoordination of securities registration and payment\nReporting to regulatory authorities\nAssistance with securities registration and transfer\nTailored Solutions\nWe understand that every organisation has unique requirements. That is why we offer individualised services tailored to your organisation's specific needs. Our technological solutions, including enhanced reporting and analytical tools, provide real-time access to track all issuances anytime, anywhere.\nProfessional Execution\nWith Euronext Securities, you can expect professional execution and multiple security levels to issue and monitor your programme with confidence. Our team works closely with you to ensure a seamless and successful issuance process.\nWhy choose Euronext Securities?\nExpertise: Leverage our extensive experience and industry knowledge.\nInnovation: Benefit from our state-of-the-art technology and innovative solutions.\nReliability: Trust in our commitment to security, accuracy, and excellence.\nContact your local sales team to learn more about how we support Issuing Agent Services on our four locations.\nWant to learn more?\nContact\nCopenhagen\nMilan\nOslo\nPorto",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/about/contacts",
+      "title": "Contact",
+      "context": "Want to learn more? Contact Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen",
+      "title": "Copenhagen",
+      "context": "Want to learn more? Contact Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/milan",
+      "title": "Milan",
+      "context": "Want to learn more? Contact Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/oslo",
+      "title": "Oslo",
+      "context": "Want to learn more? Contact Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/porto",
+      "title": "Porto",
+      "context": "Want to learn more? Contact Copenhagen Milan Oslo Porto"
+    }
+  ],
+  "local_html": "sources/pages/cb03d72ff8f7.html",
+  "sha256": "69cd260ef22274ac529c8ed5aa362410abcfc97cb24a92fbffff64c41df83f15"
+}

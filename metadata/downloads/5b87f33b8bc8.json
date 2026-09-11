@@ -1,0 +1,31 @@
+{
+  "id": "5b87f33b8bc8",
+  "url": "https://www.esma.europa.eu/sites/default/files/2024-07/JC_2024-34_-_Final_report_GL_on_costs_and_losses.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2024-07/JC_2024-34_-_Final_report_GL_on_costs_and_losses.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 23 May 2025 09:53:36 GMT",
+  "local_path": "sources/documents/5b87f33b8bc8-https-www-esma-europa-eu-sites-default-files-2024-07-JC-2024-34-Final-report-GL-on-costs-a.pdf",
+  "sha256": "f9827e484760203befe5837d0517497863d508b397b62869496f311a67dc1e09",
+  "bytes": 521609,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 26,
+  "text_path": "extracted/5b87f33b8bc8.md",
+  "text_characters": 89467,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "JC 2024-34_Draft final report GL on costs and losses",
+    "author": "Christoph Erkunt",
+    "subject": "",
+    "keywords": "Restricted",
+    "creator": "Acrobat PDFMaker 25 for Word",
+    "producer": "Adobe PDF Library 25.1.250",
+    "creationDate": "D:20250522115314+02'00'",
+    "modDate": "D:20250523115320+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

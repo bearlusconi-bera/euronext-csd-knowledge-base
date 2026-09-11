@@ -1,0 +1,31 @@
+{
+  "id": "9c9ce28133ad",
+  "url": "https://www.euronext.com/sites/default/files/2025-01/Settlement-Discipline_Operational-Manual_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-01/Settlement-Discipline_Operational-Manual_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:34:23 GMT",
+  "local_path": "sources/documents/9c9ce28133ad-Euronext-Securities-Porto-Settlement-Discipline-Operational-Manual.pdf",
+  "sha256": "01dc70391e519daa1b8b7f786310e446ed44ee3ec6cff2a868a091880047c6d0",
+  "bytes": 1243789,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 29,
+  "text_path": "extracted/9c9ce28133ad.md",
+  "text_characters": 59193,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Manual da Interbolsa",
+    "author": "Jyrki Leppanen",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2013",
+    "producer": "Microsoft® Word 2013",
+    "creationDate": "D:20220131161731+00'00'",
+    "modDate": "D:20220131161731+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

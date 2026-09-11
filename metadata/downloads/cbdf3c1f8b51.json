@@ -1,0 +1,31 @@
+{
+  "id": "cbdf3c1f8b51",
+  "url": "https://www.euronext.com/sites/default/files/2026-08/es_cph_rule_book_part_2_General_Terms_and_Conditions.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-08/es_cph_rule_book_part_2_General_Terms_and_Conditions.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 03 Aug 2026 09:38:00 GMT",
+  "local_path": "sources/documents/cbdf3c1f8b51-Part-2-General-Terms-and-Conditions-PDF.pdf",
+  "sha256": "a7b71cfd16a5090d802e4972fa969307b6e3785c4daefb952c86eade427a5efa",
+  "bytes": 457605,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 21,
+  "text_path": "extracted/cbdf3c1f8b51.md",
+  "text_characters": 69159,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Pia Just",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260622093530+02'00'",
+    "modDate": "D:20260622093530+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

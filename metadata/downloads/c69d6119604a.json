@@ -1,0 +1,36 @@
+{
+  "id": "c69d6119604a",
+  "url": "https://www.euronext.com/sites/default/files/2026-05/ES-CPH%20Remuneration%20Policy%202026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-05/ES-CPH%20Remuneration%20Policy%202026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 29 May 2026 09:48:58 GMT",
+  "local_path": "sources/documents/c69d6119604a-ES-CPH-Remuneration-Policy-2026.pdf",
+  "sha256": "f17df2a081203d9c80526cc915b2bd60c1a7b1d863c56788a739b3bd7d4fee7f",
+  "bytes": 249157,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 13,
+  "text_path": "extracted/c69d6119604a.md",
+  "text_characters": 15005,
+  "low_text_pages": [
+    3,
+    5,
+    7,
+    13
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Henry van Glabbeek",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 26 for Word",
+    "producer": "Adobe PDF Library 26.1.59",
+    "creationDate": "D:20260521162935+02'00'",
+    "modDate": "D:20260521162949+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

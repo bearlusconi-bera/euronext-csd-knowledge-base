@@ -1,0 +1,31 @@
+{
+  "id": "428588fa7c8d",
+  "url": "https://www.esma.europa.eu/sites/default/files/2025-02/SoCs_T_1_Coordination_Committee_meeting_6_February_2025.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2025-02/SoCs_T_1_Coordination_Committee_meeting_6_February_2025.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 18 Feb 2025 16:31:19 GMT",
+  "local_path": "sources/documents/428588fa7c8d-Summary-of-Conclusions.pdf",
+  "sha256": "77866ade482e59c6ef2526b315f8c73e7fb4f707a0ecca3ed61cb9332c93fef9",
+  "bytes": 167165,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/428588fa7c8d.md",
+  "text_characters": 4767,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Summary of conclusions EU T+1 Coordination Committee, February 2025",
+    "author": "ESMA",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft Word",
+    "producer": "",
+    "creationDate": "D:20250218082345-08'00'",
+    "modDate": "D:20250218172733+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

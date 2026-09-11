@@ -1,0 +1,14 @@
+{
+  "id": "0f2adb939ca9",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_client_test_set_for_post_trade_confirmation_system.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_client_test_set_for_post_trade_confirmation_system.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Thu, 22 Jan 2026 15:14:11 GMT",
+  "local_path": "sources/documents/0f2adb939ca9-Client-test-set-for-Post-Trade-Confirmation-System.xlsx",
+  "sha256": "1270a005a8549364a0d271e2fe970b2646cd129b21319a835724650c8ab88226",
+  "bytes": 35018,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

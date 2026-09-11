@@ -1,0 +1,31 @@
+{
+  "id": "3d76a327339b",
+  "url": "https://www.euronext.com/sites/default/files/2025-05/es-cph_rule_book_part_4_settlement_rules.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-05/es-cph_rule_book_part_4_settlement_rules.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 01 May 2025 08:18:14 GMT",
+  "local_path": "sources/documents/3d76a327339b-Part-4-Settlement-Rules-PDF.pdf",
+  "sha256": "3d0aa6ae592cbd924203c7ac8d529666ecdc00903876579ea43262a48c4e716c",
+  "bytes": 327225,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 17,
+  "text_path": "extracted/3d76a327339b.md",
+  "text_characters": 56372,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Pia Just",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250401152724+02'00'",
+    "modDate": "D:20250401152724+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

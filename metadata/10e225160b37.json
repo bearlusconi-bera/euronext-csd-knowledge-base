@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/services/centralised-systems/securities-transfer",
+  "retrieved_at": "2026-09-11",
+  "id": "10e225160b37",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/services/centralised-systems/securities-transfer",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:30 GMT",
+  "title": "Securities Transfer",
+  "text": "Securities Transfer\nFor the purpose of physical settlement of operations as well as for the mere transfer of securities, Euronext Securities Porto allows Financial Intermediaries and other similar Entities the following securities movements:\nWithin the same account for Blocking, Reservation, Earmarking of securities\nBetween accounts of the same Financial Intermediary of the same holder and for internal regularization\nBetween accounts of different Financial Intermediaries of different holders\n.\nFor further Information, refer to Settlement Systems – Real-Time Settlement System.\nSupport Documentation\nPDF\nINTERBOLSA Regulation 2/2016\nEnglish\nVersion\n/sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf\nINTERBOLSA Regulation 2/2016\nEnglish\nniamh.smith@de…\n26/04/2022\nPDF\nManual Operativo da INTERBOLSA\nPortuguese\nVersion\n/sites/default/files/2024-05/Manual%20Operativo_V41_PT.pdf\nManual Operativo da INTERBOLSA\nPortuguese\nnmarsali@euron…\n11/07/2023\nLINKS:\nSecurities code\nCMVM Regulation 14/2000",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/porto/services/settlement-systems/real-time-settlement-system",
+      "title": "Real-Time Settlement System.",
+      "context": "For further Information, refer to Settlement Systems – Real-Time Settlement System."
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf",
+      "title": "INTERBOLSA Regulation 2/2016",
+      "context": "PDF INTERBOLSA Regulation 2/2016 English Version /sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf INTERBOLSA Regulation 2/2016 English niamh.smith@de… 26/04/2022 PDF Manual Operativo da INTERBOLSA Portuguese Version /sites/default/files/2024-05/Manual%20Operativo_V41_PT.pdf Manual Operativo da INTERBOLSA Portuguese nmarsali@euron… 11/07/2023"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2024-05/Manual%20Operativo_V41_PT.pdf",
+      "title": "Manual Operativo da INTERBOLSA",
+      "context": "PDF INTERBOLSA Regulation 2/2016 English Version /sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf INTERBOLSA Regulation 2/2016 English niamh.smith@de… 26/04/2022 PDF Manual Operativo da INTERBOLSA Portuguese Version /sites/default/files/2024-05/Manual%20Operativo_V41_PT.pdf Manual Operativo da INTERBOLSA Portuguese nmarsali@euron… 11/07/2023"
+    },
+    {
+      "url": "https://www.euronext.com/en/node/1932734",
+      "title": "Securities code",
+      "context": "LINKS: Securities code CMVM Regulation 14/2000"
+    },
+    {
+      "url": "https://www.cmvm.pt/PInstitucional/Content?Input=AA24B9C38DE18959B37CEB6A348BC11F4D9B2E552618EE319D682A0121994DA8",
+      "title": "CMVM Regulation 14/2000",
+      "context": "LINKS: Securities code CMVM Regulation 14/2000"
+    }
+  ],
+  "local_html": "sources/pages/10e225160b37.html",
+  "sha256": "1b567e9a900f65c5240879e726f097a13c73eed26d12ee6c378b1f8190b5d9ad"
+}

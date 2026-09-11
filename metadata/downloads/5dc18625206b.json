@@ -1,0 +1,31 @@
+{
+  "id": "5dc18625206b",
+  "url": "https://www.euronext.com/en/media/8746/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/8746/download",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 03 Sep 2026 10:18:57 GMT",
+  "local_path": "sources/documents/5dc18625206b-ES-OSL-Key-information-for-issuers-and-Issuer-Account-Operators.pdf",
+  "sha256": "0578ff09c2ce67ebb77e9a4e1a46fba0d93336566681a785bde559ad82b7cf2a",
+  "bytes": 212716,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 9,
+  "text_path": "extracted/5dc18625206b.md",
+  "text_characters": 13860,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Øyvind",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260903121615+02'00'",
+    "modDate": "D:20260903121615+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

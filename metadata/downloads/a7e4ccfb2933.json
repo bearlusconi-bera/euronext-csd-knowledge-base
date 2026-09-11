@@ -1,0 +1,31 @@
+{
+  "id": "a7e4ccfb2933",
+  "url": "https://www.euronext.com/sites/default/files/2023-08/Rule%20Book%20Part%205%20T2S%20DCP%20Service%20Rules.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-08/Rule%20Book%20Part%205%20T2S%20DCP%20Service%20Rules.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:41 GMT",
+  "local_path": "sources/documents/a7e4ccfb2933-Part-5-DCP-Service-Rules-PDF.pdf",
+  "sha256": "4ab78c08eb5434df2533c68b055a01f2342c91620ccf70279aaed5c61b2d2586",
+  "bytes": 227517,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/a7e4ccfb2933.md",
+  "text_characters": 16863,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Pia Just",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 23 til Word",
+    "producer": "Adobe PDF Library 23.3.45",
+    "creationDate": "D:20230821152219+02'00'",
+    "modDate": "D:20230821152221+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

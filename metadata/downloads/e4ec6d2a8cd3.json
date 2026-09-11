@@ -1,0 +1,31 @@
+{
+  "id": "e4ec6d2a8cd3",
+  "url": "https://www.euronext.com/sites/default/files/2026-07/es-cph_july2026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-07/es-cph_july2026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 03 Jul 2026 15:52:02 GMT",
+  "local_path": "sources/documents/e4ec6d2a8cd3-Euronext-Securities-CPH-Convergence-Newsletter-July2026-pdf.pdf",
+  "sha256": "d043564ddb41bd1cbef6dd30c9c91da89e953472294b75f554dd383aaf6c5be5",
+  "bytes": 180687,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/e4ec6d2a8cd3.md",
+  "text_characters": 6068,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Anne-Frédérique Madouasse - Contractor",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260703161723+01'00'",
+    "modDate": "D:20260703161723+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

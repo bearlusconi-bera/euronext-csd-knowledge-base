@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/tax-services/reporting-fatca-and-crs",
+  "retrieved_at": "2026-09-11",
+  "id": "9b602874eac2",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/tax-services/reporting-fatca-and-crs",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:58:02 GMT",
+  "title": "Euronext Securities Oslo Reporting – FATCA and CRS",
+  "text": "Euronext Securities Oslo Reporting – FATCA and CRS\nThe Common Reporting Standard (CRS) is OECD’s new international standard for automatic exchange of financial account information\nNorway has entered into bilateral agreements with a number of OECD countries on exchange of tax information requiring financial institutions to report information about investors and their holdings to the Tax Administration. Euronext Securities Oslo reports on behalf of Nordic financial institutions.\nEuronext Securities Oslo offers an intuitive graphic interface for registration and reporting of FATCA and CRS information. The service alleviates financial institutions of the burden that entails from the FATCA and CRS duties by structuring the necessary information in a file that is submitted to the tax administration per their requirements. The service processes FATCA-reporting per the Foreign Account Tax Compliance Act.\nFurthermore, Euronext Securities Oslo publishes a simple user guide for registering the information in VPS Investor Services. The investor and substantial owners receives a copy of all information reported to the tax authorities as part of the annual report from Euronext Securities Oslo.\nContacts\nKanchana S.\nHansen\nSenior Product Manager & Tax Lead\n+45 2894 0948\nkhansen@euronext.com",
+  "links": [
+    {
+      "url": "https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca",
+      "title": "Foreign Account Tax Compliance Act",
+      "context": "The Common Reporting Standard (CRS) is OECD’s new international standard for automatic exchange of financial account information Norway has entered into bilateral agreements with a number of OECD countries on exchange of tax information requiring financial institutions to report information about investors and their holdings to the Tax Administration. Euronext Securities Oslo reports on behalf of Nordic financial institutions. Euronext Securities Oslo offers an intuitive graphic interface for registration and reporting of FATCA and CRS information. The service alleviates financial institutions of the burden that entails from the FATCA and CRS duties by structuring the necessary information in a file that is submitted to the tax administration per their requirements. The service processes FATCA-reporting per the Foreign Account Tax Compliance Act. Furthermore, Euronext Securities Oslo publishes a simple user guide for registering the information in VPS Investor Services. The investor and substantial owners receives a copy of all information reported to the tax authorities as part of the annual report from Euronext Securities Oslo."
+    }
+  ],
+  "local_html": "sources/pages/9b602874eac2.html",
+  "sha256": "4e1be247fde88744ad7037a41338088f34c23fbda44c0c5eed3e7e66452d63c6"
+}

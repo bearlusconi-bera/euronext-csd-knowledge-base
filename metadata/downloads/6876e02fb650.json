@@ -1,0 +1,31 @@
+{
+  "id": "6876e02fb650",
+  "url": "https://www.euronext.com/en/media/6448/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/6448/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:44 GMT",
+  "local_path": "sources/documents/6876e02fb650-INTERBOLSA-Regulation-No-10-2003-ISIN-Numbering.pdf",
+  "sha256": "68f3be4db6c106e6952a334d41a61e54aef1fd855e00671aa36a7e1cc1ee2c16",
+  "bytes": 35205,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 7,
+  "text_path": "extracted/6876e02fb650.md",
+  "text_characters": 16146,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - 100719_INTERBOLSA REGULATION 10_2003 _consolidated_",
+    "author": "HTL",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20100719234025+01'00'",
+    "modDate": "D:20100719234025+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

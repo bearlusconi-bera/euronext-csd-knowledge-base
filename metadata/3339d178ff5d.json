@@ -1,0 +1,20 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/pricing-and-fees",
+  "retrieved_at": "2026-09-11",
+  "id": "3339d178ff5d",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/pricing-and-fees",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Pricing and Fees | Euronext Athens",
+  "text": "EURONEXT SECURITIES ATHENS\nPricing and Fees\nLearn about Euronext Security Athens's pricing policy regarding charges for services provided to: ParticipantsIssuers & Fund ManagersCentral Securities DepositoriesMarket Infrastructure ManagersBeneficiariesRegistered Intermediaries and other Euronext Security Athens clientsSEE THE DETAILED CHARGES HERE (RESOLUTION 18) 🡪",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/en/about/regulatory/group/athexcsd",
+      "title": "SEE THE DETAILED CHARGES HERE (RESOLUTION 18) 🡪",
+      "context": "Learn about Euronext Security Athens's pricing policy regarding charges for services provided to: ParticipantsIssuers & Fund ManagersCentral Securities DepositoriesMarket Infrastructure ManagersBeneficiariesRegistered Intermediaries and other Euronext Security Athens clientsSEE THE DETAILED CHARGES HERE (RESOLUTION 18) 🡪"
+    }
+  ],
+  "local_html": "sources/pages/3339d178ff5d.html",
+  "sha256": "64540c730d9f6c8d7c582344601a53b84b2e787c5d28d9aaeba7d25ea07f27ca"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "9e67363e5982",
+  "url": "https://www.euronext.com/sites/default/files/2026-07/convergence_-_extended_service_overview_-_v.3_july2026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-07/convergence_-_extended_service_overview_-_v.3_july2026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 03 Jul 2026 16:56:02 GMT",
+  "local_path": "sources/documents/9e67363e5982-convergence-extended-service-overview-v-3-july2026-pdf.pdf",
+  "sha256": "36ddf9da7be820a4d529df58cb6b64bbdd6c28801bf372b16ceab2c50df61996",
+  "bytes": 271536,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 13,
+  "text_path": "extracted/9e67363e5982.md",
+  "text_characters": 14532,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "YG",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260703175431+01'00'",
+    "modDate": "D:20260703175431+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

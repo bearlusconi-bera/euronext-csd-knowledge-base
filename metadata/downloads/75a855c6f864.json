@@ -1,0 +1,31 @@
+{
+  "id": "75a855c6f864",
+  "url": "https://www.euronext.com/en/media/11820/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/11820/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:43 GMT",
+  "local_path": "sources/documents/75a855c6f864-notice-no-0394-2024-Timetables.pdf",
+  "sha256": "100d69725552e101460151d8619c9b8a6dd4551512400033a20d499f9ba5b979",
+  "bytes": 187311,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/75a855c6f864.md",
+  "text_characters": 6820,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Helena Lopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2019",
+    "producer": "Microsoft® Word 2019",
+    "creationDate": "D:20240419133030+01'00'",
+    "modDate": "D:20240419133030+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

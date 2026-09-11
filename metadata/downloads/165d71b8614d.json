@@ -1,0 +1,34 @@
+{
+  "id": "165d71b8614d",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/20250605%20-%20Comit%C3%A9%20de%20Utilizadores.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/20250605%20-%20Comit%C3%A9%20de%20Utilizadores.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 19 Jun 2026 14:42:37 GMT",
+  "local_path": "sources/documents/165d71b8614d-User-Committee-of-05-06-2025.pdf",
+  "sha256": "d5dbcdac13da59452c807e8a753f1aa29ccfaafbd10b76ec5cda0ff159acba1b",
+  "bytes": 2225155,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 36,
+  "text_path": "extracted/165d71b8614d.md",
+  "text_characters": 56172,
+  "low_text_pages": [
+    22,
+    35
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "CSD Convergence Program",
+    "author": "JP Durand",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® PowerPoint® for Microsoft 365",
+    "producer": "Microsoft® PowerPoint® for Microsoft 365",
+    "creationDate": "D:20260618195107+01'00'",
+    "modDate": "D:20260618195107+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

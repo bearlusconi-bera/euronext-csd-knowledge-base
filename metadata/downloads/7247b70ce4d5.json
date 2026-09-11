@@ -1,0 +1,31 @@
+{
+  "id": "7247b70ce4d5",
+  "url": "https://www.euronext.com/sites/default/files/2025-03/Euronext%20Securities%20Milan_Client%20Membership%20Handbook.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-03/Euronext%20Securities%20Milan_Client%20Membership%20Handbook.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Sat, 29 Mar 2025 09:13:25 GMT",
+  "local_path": "sources/documents/7247b70ce4d5-Onboarding-handbook.pdf",
+  "sha256": "84a77c4dbb791fbb4096715b75ce1e930f16e6c3ec4e5e7b64e663eae3c2a15c",
+  "bytes": 983558,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 38,
+  "text_path": "extracted/7247b70ce4d5.md",
+  "text_characters": 65760,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Creative Services",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 25 for Word",
+    "producer": "Adobe PDF Library 25.1.211",
+    "creationDate": "D:20250327110344+01'00'",
+    "modDate": "D:20250327110727+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

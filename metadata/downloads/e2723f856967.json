@@ -1,0 +1,33 @@
+{
+  "id": "e2723f856967",
+  "url": "https://www.esma.europa.eu/sites/default/files/2025-01/JC_2024_108_Report_on_the_feasibility_for_further_Centralisation_of_reporting_of_major_ICT_incidents.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2025-01/JC_2024_108_Report_on_the_feasibility_for_further_Centralisation_of_reporting_of_major_ICT_incidents.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 17 Jan 2025 12:51:07 GMT",
+  "local_path": "sources/documents/e2723f856967-Report-on-the-feasibility-for-further-centralisation-of-reporting-of-major-ICT-related-inc.pdf",
+  "sha256": "60207bcc7c63e11b9d089dba8669e1821a30e356a96ef66f8f31a8255047ebaa",
+  "bytes": 2812927,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 115,
+  "text_path": "extracted/e2723f856967.md",
+  "text_characters": 351721,
+  "low_text_pages": [
+    2
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "JC 2024 108 Report on the feasibility for further centralisation of reporting of major ICT-related incidents ",
+    "author": "ESMA",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250116180651+01'00'",
+    "modDate": "D:20250117134807+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

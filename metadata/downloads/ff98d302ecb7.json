@@ -1,0 +1,31 @@
+{
+  "id": "ff98d302ecb7",
+  "url": "https://www.euronext.com/sites/default/files/2025-05/ESES_DSD_Financial-Transaction-Tax_March%202025.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-05/ESES_DSD_Financial-Transaction-Tax_March%202025.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 02 May 2025 13:43:41 GMT",
+  "local_path": "sources/documents/ff98d302ecb7-Euroclear-FTT-Detailed-Service-Description-March-2025-version.pdf",
+  "sha256": "01fd5c9fff3db72b89dbc4632845a84973c254ae09f110785d741db09f9dd69d",
+  "bytes": 1311447,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 45,
+  "text_path": "extracted/ff98d302ecb7.md",
+  "text_characters": 110114,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "DSD - Financial Transaction Tax - version 1.5 - clean version",
+    "author": "Miroslava Cermakova",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250305104712+01'00'",
+    "modDate": "D:20250312103450+01'00'",
+    "trapped": "",
+    "encryption": "Standard V5 R6 256-bit AES"
+  }
+}

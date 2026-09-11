@@ -1,0 +1,33 @@
+{
+  "id": "0535b8d25a18",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4370%20-%20Belgium%20-%20Fiscal%20Operational%20Guide.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4370%20-%20Belgium%20-%20Fiscal%20Operational%20Guide.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:40 GMT",
+  "local_path": "sources/documents/0535b8d25a18-Belgium-Fiscal-Operational-Guide.pdf",
+  "sha256": "5065f206c16d7cccea3d8869e13491e55acdf9e7a99f0b75bc7a164351d20b7a",
+  "bytes": 367460,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 9,
+  "text_path": "extracted/0535b8d25a18.md",
+  "text_characters": 11672,
+  "low_text_pages": [
+    9
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4370 - Belgium - Fiscal Operational Guide",
+    "author": "LPacini",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220411150913+02'00'",
+    "modDate": "D:20220411150913+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

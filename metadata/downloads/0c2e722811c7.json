@@ -1,0 +1,31 @@
+{
+  "id": "0c2e722811c7",
+  "url": "https://www.euronext.com/sites/default/files/2023-09/4426_Tablemat%20Switzerland%20SIX%20SIS_Update%20Euronext%20Clearing%20Migration.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-09/4426_Tablemat%20Switzerland%20SIX%20SIS_Update%20Euronext%20Clearing%20Migration.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:46 GMT",
+  "local_path": "sources/documents/0c2e722811c7-Switzerland-Tablemat-Quick-Market-Guide.pdf",
+  "sha256": "621b04faf9e372c3afa5db0a3cb563f453099e0c6714c71bbd548cd6492b3432",
+  "bytes": 372296,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/0c2e722811c7.md",
+  "text_characters": 8263,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4426_Tablemat Switzerland SIX SIS_Update Euronext Clearing Migration",
+    "author": "SBacca",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20230911145114+02'00'",
+    "modDate": "D:20230911145114+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

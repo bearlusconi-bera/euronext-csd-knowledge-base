@@ -1,0 +1,31 @@
+{
+  "id": "adb52dbd0a27",
+  "url": "https://www.euronext.com/en/media/9131/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/9131/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:23 GMT",
+  "local_path": "sources/documents/adb52dbd0a27-See-VPs-CSDR-Q-A.pdf",
+  "sha256": "f5a70276e1f965b71c4fea10450e1156be16f15843a870de9b557b72098b5edb",
+  "bytes": 243834,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 10,
+  "text_path": "extracted/adb52dbd0a27.md",
+  "text_characters": 21093,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Pernille Ditlevsen",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 19 til Word",
+    "producer": "Adobe PDF Library 19.21.79",
+    "creationDate": "D:20191118111150+01'00'",
+    "modDate": "D:20191118111159+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

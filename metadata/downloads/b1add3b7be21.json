@@ -1,0 +1,31 @@
+{
+  "id": "b1add3b7be21",
+  "url": "https://www.euronext.com/sites/default/files/2024-08/ES-MIL_SRL_Ebook_110624%20Final.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-08/ES-MIL_SRL_Ebook_110624%20Final.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:57 GMT",
+  "local_path": "sources/documents/b1add3b7be21-Download-SRL-brochurE.pdf",
+  "sha256": "7da6abf708f616a610009a9b856ab839cfb1574955c469c373b71c697c0160d4",
+  "bytes": 1042027,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 5,
+  "text_path": "extracted/b1add3b7be21.md",
+  "text_characters": 10284,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "PDFium",
+    "producer": "PDFium",
+    "creationDate": "D:20240805142055",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  }
+}

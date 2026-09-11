@@ -1,0 +1,31 @@
+{
+  "id": "b132d9d6fb12",
+  "url": "https://www.esma.europa.eu/sites/default/files/2026-06/JC_2026_16_ESAs_2025_report_on_major_ICT-related_incidents.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2026-06/JC_2026_16_ESAs_2025_report_on_major_ICT-related_incidents.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 03 Jun 2026 08:54:07 GMT",
+  "local_path": "sources/documents/b132d9d6fb12-2025-ESAs-Report-on-major-ICT-related-incidents-3-June-2026.pdf",
+  "sha256": "d6d0c7d77af45fefb219fbd8bfbb0c92f0f7111261325858c4e02a1f9383b9b6",
+  "bytes": 867441,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 21,
+  "text_path": "extracted/b132d9d6fb12.md",
+  "text_characters": 48694,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "JC 2026 16 Report on major ICT-related incidents 2025",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 26 for Word",
+    "producer": "Adobe PDF Library 26.1.25",
+    "creationDate": "D:20260602173610+02'00'",
+    "modDate": "D:20260603104437+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

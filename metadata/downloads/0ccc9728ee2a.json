@@ -1,0 +1,14 @@
+{
+  "id": "0ccc9728ee2a",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/BPI%20final.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/BPI%20final.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Fri, 31 Jan 2025 13:29:33 GMT",
+  "local_path": "sources/documents/0ccc9728ee2a-Buyer-Protection-Manual-spreadsheet.xlsx",
+  "sha256": "de7b98519228b111be5190f2b69ee90fe21149a5b8427d8f124aad7600d15a77",
+  "bytes": 16027,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

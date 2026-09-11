@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/news-initiatives/events",
+  "retrieved_at": "2026-09-11",
+  "id": "7ce358c53f3d",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/news-initiatives/events",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:19 GMT",
+  "title": "Euronext Securities Milan Events",
+  "text": "Euronext Securities Milan Events\nDiscover our events\nCurrently no events scheduled",
+  "links": [],
+  "local_html": "sources/pages/7ce358c53f3d.html",
+  "sha256": "f194e89ffdbb2996a178a83294deafd9b5a052de6e642e5b35860b8657c299fa"
+}

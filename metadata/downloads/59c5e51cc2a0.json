@@ -1,0 +1,31 @@
+{
+  "id": "59c5e51cc2a0",
+  "url": "https://www.euronext.com/sites/default/files/2025-05/SWIFT%20Messages%20Subscription%20Form%20Guide%20v.2%20%28002%29.pdf?VersionId=F8n56dl_v_gyId75DSbSc3QyzgkfmIoY",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-05/SWIFT%20Messages%20Subscription%20Form%20Guide%20v.2%20%28002%29.pdf?VersionId=F8n56dl_v_gyId75DSbSc3QyzgkfmIoY",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 30 May 2025 08:51:38 GMT",
+  "local_path": "sources/documents/59c5e51cc2a0-Swift-Subscription-Forms-Guidelines.pdf",
+  "sha256": "4011e88f852b9a1644e446e8dc53931f786f02c877ed01d8e5397f3e3d987ed7",
+  "bytes": 238841,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/59c5e51cc2a0.md",
+  "text_characters": 9849,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "python-docx",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250530102113+02'00'",
+    "modDate": "D:20250530102113+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

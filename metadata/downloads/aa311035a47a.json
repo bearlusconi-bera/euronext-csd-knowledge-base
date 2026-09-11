@@ -1,0 +1,42 @@
+{
+  "id": "aa311035a47a",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/20211020_user_committees.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/20211020_user_committees.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:19 GMT",
+  "local_path": "sources/documents/aa311035a47a-User-Committee-of-20-10-2021.pdf",
+  "sha256": "1c860d4b80a9d787672b0819cfcdd4da56be037e8dddbedb9f49d6eb9c451d45",
+  "bytes": 1938022,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 50,
+  "text_path": "extracted/aa311035a47a.md",
+  "text_characters": 55761,
+  "low_text_pages": [
+    8,
+    11,
+    15,
+    16,
+    20,
+    28,
+    36,
+    45,
+    48,
+    49
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "USER COMMITTEES",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® PowerPoint® 2013",
+    "producer": "Microsoft® PowerPoint® 2013",
+    "creationDate": "D:20220107151558+00'00'",
+    "modDate": "D:20220107151558+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/due-diligence-information",
+  "retrieved_at": "2026-09-11",
+  "id": "06aae6e805c3",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/due-diligence-information",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "AGC Questionnaire | Euronext Athens",
+  "text": "EURONEXT SECURITIES ATHENS\nAGC Questionnaire\nAs part of our commitment to transparency in the financial market sector, Euronext Securities Athens provides substantial information regarding the due diligence implemented applied on our services, structure and operations. This page contains information covering topics such as compliance, risk management, assessments, and connectivity. As a result of the current, highly competitive business environment, due diligence is becoming increasingly becoming vital and complex. By providing such information, we aim to satisfy the needs of our stakeholders in terms of receiving said information, and information and aiding in an accurate review of your operations. Euronext Securities Athens is a member of ECSDA (European Central Securities Depositories Association). Every year, we participate in several questionnaires and surveys sent out by authorities. Association of Global Custodian (AGC) Questionnaire Following an agreement between the AGC and ECSDA members, and remaining true to its commitment, Euronext Securities Athens publishes its responses. The AGC questionnaire covers the following topics: Credit risk Cybersecurity policy Insurance Participants and participation Growth plan General business risk Management and ownership Compliance Euronext Securities Athens/ ATHEXCSD AGC Report 2025Download PDF\nSEE ALSO\nMeet Euronext Securities Athens\nDisclosure\nPFMI Self-Assessment Report (IOSCO)",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2025-11/ATHEXCSD_AGC_Report_2025.pdf",
+      "title": "Download PDF",
+      "context": "Euronext Securities Athens/ ATHEXCSD AGC Report 2025Download PDF"
+    },
+    {
+      "url": "https://athens.euronext.com/en/about/athexcsd",
+      "title": "Meet Euronext Securities Athens",
+      "context": "Meet Euronext Securities Athens Disclosure PFMI Self-Assessment Report (IOSCO)"
+    },
+    {
+      "url": "https://athens.euronext.com/en/about/regulatory/disclosure",
+      "title": "Disclosure",
+      "context": "Meet Euronext Securities Athens Disclosure PFMI Self-Assessment Report (IOSCO)"
+    },
+    {
+      "url": "https://www.athexgroup.gr/documents/10180/7315365/ATHEXCSD+-+PFMI+Disclosure+Framework+-+Dec+2023.pdf/c1b0fa2f-4ebf-42e8-841a-2fb1073fd52d",
+      "title": "PFMI Self-Assessment Report (IOSCO)",
+      "context": "Meet Euronext Securities Athens Disclosure PFMI Self-Assessment Report (IOSCO)"
+    }
+  ],
+  "local_html": "sources/pages/06aae6e805c3.html",
+  "sha256": "edc1de2784b990b56e049c919ad40f149020d6e48d4c90fa6f50fa692bdf1bd0"
+}

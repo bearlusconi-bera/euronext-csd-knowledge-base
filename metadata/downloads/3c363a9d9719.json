@@ -1,0 +1,14 @@
+{
+  "id": "3c363a9d9719",
+  "url": "https://www.euronext.com/sites/default/files/2024-03/4309_richiesta_utenze_eng.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-03/4309_richiesta_utenze_eng.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:33:25 GMT",
+  "local_path": "sources/documents/3c363a9d9719-User-request-form-Milan4U-2024.docx",
+  "sha256": "9b3ba61dc2040db020bb72eecc1dd0062692f148f6201dba0dad589160f0f705",
+  "bytes": 74925,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

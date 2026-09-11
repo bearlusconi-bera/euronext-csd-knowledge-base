@@ -1,0 +1,14 @@
+{
+  "id": "5e06673a073e",
+  "url": "https://www.euronext.com/sites/default/files/2026-03/initial_service_description_-_cph_proprietary_messages_200326_0.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-03/initial_service_description_-_cph_proprietary_messages_200326_0.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Wed, 25 Mar 2026 08:47:08 GMT",
+  "local_path": "sources/documents/5e06673a073e-Service-Description-Document-Proprietary-Messages-v2-0.xlsx",
+  "sha256": "be15f8562956232c14b6cfcfe52429810dab049f7735a0b6b832e46aa621e783",
+  "bytes": 48566,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

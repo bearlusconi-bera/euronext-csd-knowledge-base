@@ -1,0 +1,14 @@
+{
+  "id": "dd943101e2c2",
+  "url": "https://www.euronext.com/sites/default/files/2023-01/4262%20-%20Sweden%20-%20Fiscal%20Operational%20Guide.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-01/4262%20-%20Sweden%20-%20Fiscal%20Operational%20Guide.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:31:35 GMT",
+  "local_path": "sources/documents/dd943101e2c2-Sweden-Fiscal-Operational-Guide.docx",
+  "sha256": "9823307b33009a60c94c60b7d356a9234fa8100d622c046738f56b9654280967",
+  "bytes": 145367,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

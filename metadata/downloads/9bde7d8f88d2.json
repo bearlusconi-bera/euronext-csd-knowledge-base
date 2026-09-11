@@ -1,0 +1,33 @@
+{
+  "id": "9bde7d8f88d2",
+  "url": "https://www.euronext.com/sites/default/files/2022-09/20190531_IB_Relat%C3%B3rio_Trimestral_Mar%C3%A7o-2019.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-09/20190531_IB_Relat%C3%B3rio_Trimestral_Mar%C3%A7o-2019.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:10 GMT",
+  "local_path": "sources/documents/9bde7d8f88d2-Relatorio-1o-trimestre-de-2019.pdf",
+  "sha256": "c877713311e1aa5206d6195d92f7bafced5f184f2cf2f8a5a437901f1340e45a",
+  "bytes": 1191732,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 28,
+  "text_path": "extracted/9bde7d8f88d2.md",
+  "text_characters": 71085,
+  "low_text_pages": [
+    1
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "steve",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20190708161310+01'00'",
+    "modDate": "D:20190708161310+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "3cfbaea6fa93",
+  "url": "https://www.athexgroup.gr/documents/10180/7315365/ATHEXCSD+-+PFMI+Disclosure+Framework+-+Dec+2023.pdf/c1b0fa2f-4ebf-42e8-841a-2fb1073fd52d",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/documents/10180/7315365/ATHEXCSD+-+PFMI+Disclosure+Framework+-+Dec+2023.pdf/c1b0fa2f-4ebf-42e8-841a-2fb1073fd52d",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 25 Jan 2024 12:57:53 GMT",
+  "local_path": "sources/documents/3cfbaea6fa93-PFMI-Self-Assessment-Report-IOSCO.pdf",
+  "sha256": "d401c23bde59a36e254bfe7bbabbb35dd7ca0da003e052468539343ec8281a5d",
+  "bytes": 912354,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 91,
+  "text_path": "extracted/3cfbaea6fa93.md",
+  "text_characters": 231014,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Please complete the following table in USD billions",
+    "author": "Panagiotis Kiziris",
+    "subject": "",
+    "keywords": "ΕΣΩΤΕΡΙΚΗΣ ΧΡΗΣΕΩΣ (INTERNAL USE)ΑΓΓΛΙΚΗ (ENGLISH)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20240125141345+02'00'",
+    "modDate": "D:20240125141345+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

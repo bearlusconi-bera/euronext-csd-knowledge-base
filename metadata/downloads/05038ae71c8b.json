@@ -1,0 +1,31 @@
+{
+  "id": "05038ae71c8b",
+  "url": "https://www.euronext.com/sites/default/files/2026-04/qas_-_otc_settlement_flows_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-04/qas_-_otc_settlement_flows_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 14 Apr 2026 08:29:50 GMT",
+  "local_path": "sources/documents/05038ae71c8b-Q-A-European-Offering-OTC-Settlement-Flows-English-Version.pdf",
+  "sha256": "e04bfa281052ed5dcc4ee815401d28ebac6bdabb3182ed3a110bf7bc93a90665",
+  "bytes": 102382,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/05038ae71c8b.md",
+  "text_characters": 1844,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "Maria D'Ermes",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word per Microsoft 365",
+    "producer": "Microsoft® Word per Microsoft 365",
+    "creationDate": "D:20260414102330+02'00'",
+    "modDate": "D:20260414102330+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

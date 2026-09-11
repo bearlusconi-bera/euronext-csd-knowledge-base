@@ -1,0 +1,31 @@
+{
+  "id": "c28bc7ac73b0",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/POA_Monte%20Titoli_fillablesave.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/POA_Monte%20Titoli_fillablesave.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:41 GMT",
+  "local_path": "sources/documents/c28bc7ac73b0-Power-of-Attorney-Clearstream-Banking.pdf",
+  "sha256": "875e537678760f2878a96c78c8ef1193ae87cf4035451e28f3f1a1175be55652",
+  "bytes": 68492,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/c28bc7ac73b0.md",
+  "text_characters": 3933,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Pihoue Francoise",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2010",
+    "producer": "Microsoft® Word 2010",
+    "creationDate": "D:20131206152027+01'00'",
+    "modDate": "D:20140219115334+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

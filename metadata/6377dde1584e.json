@@ -1,0 +1,35 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/tax-services",
+  "retrieved_at": "2026-09-11",
+  "id": "6377dde1584e",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/tax-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:11 GMT",
+  "title": "Tax Services",
+  "text": "Tax Services\nTax is our business, so you can focus on yours\nGreat accomplishments are within reach when you can spend your time doing what you’re good at. At Euronext Securities Oslo, we are good at tax. In fact, so good that major financial service providers in the Nordics are letting us handle their tax reporting.\nTo us, the recipe is simple. We started with a capable team, developed state of the art infrastructure, and implemented an API-strategy that integrates with our customer’s interfaces.\nThe outcome is a complete tax service offering that enables our customers to spend time on what they do best, while letting us handle their tax matters. Check out our comprehensive selection of tax services and find what you need to excel.\nPRODUCT SHEET\nOur products\nShare Savings Account (SSA)\nPostpone tax liability and invest more\nEnsuring more capital to invest and reinvest without having to pay concurrent tax claims on gains.\nRead more\nTax Reporting other depots\nCalculating tax positions on any securities depot\nAutomated services previously retained by accountants and CPAs into a module that can calculate tax positions and report securities with the highest precision.\nRead more\nInternational reporting – FATCA and CRS\nAutomatic exchange of financial account information\nEuronext Securities Oslo offers an intuitive graphic interface for registration and reporting of FATCA and CRS information.\nRead more\nContacts\nKanchana S.\nHansen\nSenior Product Manager & Tax Lead\n+45 2894 0948\nkhansen@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/media/8707/download",
+      "title": "PRODUCT SHEET",
+      "context": "Tax is our business, so you can focus on yours Great accomplishments are within reach when you can spend your time doing what you’re good at. At Euronext Securities Oslo, we are good at tax. In fact, so good that major financial service providers in the Nordics are letting us handle their tax reporting. To us, the recipe is simple. We started with a capable team, developed state of the art infrastructure, and implemented an API-strategy that integrates with our customer’s interfaces. The outcome is a complete tax service offering that enables our customers to spend time on what they do best, while letting us handle their tax matters. Check out our comprehensive selection of tax services and find what you need to excel. PRODUCT SHEET"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/tax-services/share-savings-account-ssa",
+      "title": "Read more",
+      "context": "Share Savings Account (SSA) Postpone tax liability and invest more Ensuring more capital to invest and reinvest without having to pay concurrent tax claims on gains. Read more Tax Reporting other depots Calculating tax positions on any securities depot Automated services previously retained by accountants and CPAs into a module that can calculate tax positions and report securities with the highest precision. Read more International reporting – FATCA and CRS Automatic exchange of financial account information Euronext Securities Oslo offers an intuitive graphic interface for registration and reporting of FATCA and CRS information. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/tax-services/tax-reporting-other-depot",
+      "title": "Read more",
+      "context": "Share Savings Account (SSA) Postpone tax liability and invest more Ensuring more capital to invest and reinvest without having to pay concurrent tax claims on gains. Read more Tax Reporting other depots Calculating tax positions on any securities depot Automated services previously retained by accountants and CPAs into a module that can calculate tax positions and report securities with the highest precision. Read more International reporting – FATCA and CRS Automatic exchange of financial account information Euronext Securities Oslo offers an intuitive graphic interface for registration and reporting of FATCA and CRS information. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/tax-services/reporting-fatca-and-crs",
+      "title": "Read more",
+      "context": "Share Savings Account (SSA) Postpone tax liability and invest more Ensuring more capital to invest and reinvest without having to pay concurrent tax claims on gains. Read more Tax Reporting other depots Calculating tax positions on any securities depot Automated services previously retained by accountants and CPAs into a module that can calculate tax positions and report securities with the highest precision. Read more International reporting – FATCA and CRS Automatic exchange of financial account information Euronext Securities Oslo offers an intuitive graphic interface for registration and reporting of FATCA and CRS information. Read more"
+    }
+  ],
+  "local_html": "sources/pages/6377dde1584e.html",
+  "sha256": "e86255774e217fcb3332c98bf633bf3b267f03c8529eb23e5fa565e9db9af5e0"
+}

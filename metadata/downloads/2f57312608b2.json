@@ -1,0 +1,14 @@
+{
+  "id": "2f57312608b2",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/sfd_designated_authorities_and_systems.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/sfd_designated_authorities_and_systems.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Tue, 07 Apr 2026 15:05:40 GMT",
+  "local_path": "sources/documents/2f57312608b2-List-of-designated-authorities-payment-systems-and-securities-settlement-systems.xlsx",
+  "sha256": "f3a6943b7d953a2fb77b707fd6d52ce881be9b55420e90927c3de0e4fd5fecce",
+  "bytes": 167824,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

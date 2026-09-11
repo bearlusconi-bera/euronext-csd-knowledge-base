@@ -1,0 +1,31 @@
+{
+  "id": "9820bb9359c5",
+  "url": "https://www.esma.europa.eu/sites/default/files/2023-05/ESMA65-8-6560_CSDR_Internalised_Settlement_Reporting_Instructions_v7.3.2.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2023-05/ESMA65-8-6560_CSDR_Internalised_Settlement_Reporting_Instructions_v7.3.2.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 30 May 2023 09:26:32 GMT",
+  "local_path": "sources/documents/9820bb9359c5-Technical-Guidance-for-Settlement-Internalisers-Report-Validation-Rules.pdf",
+  "sha256": "acccf28a3279a335e0165adf87bb31fb02a27109d16cbe73af67ef251c98eca1",
+  "bytes": 3798055,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 80,
+  "text_path": "extracted/9820bb9359c5.md",
+  "text_characters": 155591,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ESMA65-8-6560 CSDR Internalised Settlement Reporting Instructions_v7.3.2",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20230526190755+02'00'",
+    "modDate": "D:20230530112202+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

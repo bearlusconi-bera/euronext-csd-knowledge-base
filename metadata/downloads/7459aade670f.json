@@ -1,0 +1,31 @@
+{
+  "id": "7459aade670f",
+  "url": "https://www.euronext.com/en/media/9272/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/9272/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:21 GMT",
+  "local_path": "sources/documents/7459aade670f-Commission-Delegated-Regulation-EU-2017-392.pdf",
+  "sha256": "a6276886d5f2105954897686c9dc901a8e79a33506ddd1980171f96dc2cbd90e",
+  "bytes": 771297,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 68,
+  "text_path": "extracted/7459aade670f.md",
+  "text_characters": 265764,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "COMMISSION  DELEGATED  REGULATION  (EU)  2017/  392  -  of  11  November  2016  -  supplementing  Regulation  (EU)  No 909  /  2014  of  the  European  Parliament  and  of  the  Council  with regard  to  regulatory  technical  standards  on  authorisation,  supervisory  and  operational  requirements  for  central  securities  depositories",
+    "author": "Publications Office",
+    "subject": "",
+    "keywords": "",
+    "creator": "Arbortext Advanced Print Publisher 11.0.3108/W Unicode-x64",
+    "producer": "PDFlib+PDI 8.0.5p2 (C++/Win64)",
+    "creationDate": "D:20170307204133+01'00'",
+    "modDate": "D:20170308170653+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5df4291f5e5d",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITH%20EV_26012026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITH%20EV_26012026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 05 Feb 2026 09:29:14 GMT",
+  "local_path": "sources/documents/5df4291f5e5d-Regulations-as-of-26-January-2026-with-evidence-of-the-amendments.pdf",
+  "sha256": "9d41e13d78773f4c30256fc75f7f11672fec75a9a0258c181c72500534062182",
+  "bytes": 804286,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 59,
+  "text_path": "extracted/5df4291f5e5d.md",
+  "text_characters": 175111,
+  "low_text_pages": [
+    59
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Rossetti, Chiara",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word per Microsoft 365",
+    "producer": "Microsoft® Word per Microsoft 365",
+    "creationDate": "D:20260204120755+01'00'",
+    "modDate": "D:20260204120755+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

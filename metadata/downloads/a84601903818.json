@@ -1,0 +1,14 @@
+{
+  "id": "a84601903818",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/SE%20-%20Appendix%202%20-%20Quick%20refund%20-Template--%20for-all-markets.xls",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/SE%20-%20Appendix%202%20-%20Quick%20refund%20-Template--%20for-all-markets.xls",
+  "content_type": "application/vnd.ms-excel",
+  "last_modified": "Fri, 31 Jan 2025 13:29:41 GMT",
+  "local_path": "sources/documents/a84601903818-SE-List-of-beneficial-owners-Appendix-2.xls",
+  "sha256": "8f3b10fc9e52f328ace81a768175482466ef503cc3471ba2348471cbd4312fb8",
+  "bytes": 60416,
+  "file_type": "xls",
+  "review_status": "archived-not-substantively-reviewed"
+}

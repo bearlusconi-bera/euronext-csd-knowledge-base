@@ -1,0 +1,33 @@
+{
+  "id": "27656929d438",
+  "url": "https://www.euronext.com/sites/default/files/2024-05/euronext-securities-porto-handling-of-complaints.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-05/euronext-securities-porto-handling-of-complaints.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:39 GMT",
+  "local_path": "sources/documents/27656929d438-Euronext-Securities-Porto-Handling-of-Complaints.pdf",
+  "sha256": "a96088413a9e0f4fa153d8f898cd9e3b95500d10d92d4e21d7abd1eddf0ac8d7",
+  "bytes": 235484,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 7,
+  "text_path": "extracted/27656929d438.md",
+  "text_characters": 9673,
+  "low_text_pages": [
+    1
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Manual da Interbolsa",
+    "author": "Corina Baptista Oliveira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20220127171915+00'00'",
+    "modDate": "D:20220127171915+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

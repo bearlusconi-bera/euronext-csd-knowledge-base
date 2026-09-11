@@ -1,0 +1,31 @@
+{
+  "id": "14dc34b8e54e",
+  "url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:59 GMT",
+  "local_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+  "sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+  "bytes": 416385,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 58,
+  "text_path": "extracted/14dc34b8e54e.md",
+  "text_characters": 91927,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20240830152555+02'00'",
+    "modDate": "D:20240830152555+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

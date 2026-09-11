@@ -1,0 +1,31 @@
+{
+  "id": "7641dda58968",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4378%20-%20BE%20Annex%2029%20%28Appendix%206%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4378%20-%20BE%20Annex%2029%20%28Appendix%206%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:46 GMT",
+  "local_path": "sources/documents/7641dda58968-BE-Annex-29-Appendix-6.pdf",
+  "sha256": "d5bfbd5c1fe4d2afc01e7a124f85755a48e27a735d949c15ee2ff661ac1c7919",
+  "bytes": 17521,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/7641dda58968.md",
+  "text_characters": 2525,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Castellazzi, Mauro",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 10.0 per Word",
+    "producer": "Adobe PDF Library 10.0",
+    "creationDate": "D:20130605104349+02'00'",
+    "modDate": "D:20130606153144+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework",
+  "retrieved_at": "2026-09-11",
+  "id": "6f5aec3c7f86",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/legal-framework",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:02 GMT",
+  "title": "Legal Framework",
+  "text": "Legal Framework\nLearn more about our legal framework\nIn this section you can read more about our legal framework in Euronext Securities. As a financial market infrastructure, we provide services that ensure and facilitate a well-functioning capital market in both Denmark and the European Union. As such we are subject to comprehensive national and European regulation and supervision.\nLearn more\nHow to become a customer\nVP Rule Book\nParticipation Agreement\nPrices and Fees\nPersonal Data Protection\nIn April 2022, the Danish FSA carried out an IT inspection at VP Securities A/S\nVISIT BY THE DANISH FSA\nRead more (Danish)\nContacts\nLegal & Regulations\n+45 4358 8888\nvp_legal@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen/legal-framework/how-become-customer",
+      "title": "How to become a customer",
+      "context": "Learn more How to become a customer VP Rule Book Participation Agreement Prices and Fees Personal Data Protection"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen/legal-framework/vp-rule-book",
+      "title": "VP Rule Book",
+      "context": "Learn more How to become a customer VP Rule Book Participation Agreement Prices and Fees Personal Data Protection"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen/legal-framework/participation-agreement",
+      "title": "Participation Agreement",
+      "context": "Learn more How to become a customer VP Rule Book Participation Agreement Prices and Fees Personal Data Protection"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen/legal-framework/prices-and-fees",
+      "title": "Prices and Fees",
+      "context": "Learn more How to become a customer VP Rule Book Participation Agreement Prices and Fees Personal Data Protection"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen/legal-framework/personal-data-protection",
+      "title": "Personal Data Protection",
+      "context": "Learn more How to become a customer VP Rule Book Participation Agreement Prices and Fees Personal Data Protection"
+    },
+    {
+      "url": "https://www.euronext.com/en/news/finanstilsynet-ordinaer-inspektion",
+      "title": "Read more (Danish)",
+      "context": "In April 2022, the Danish FSA carried out an IT inspection at VP Securities A/S VISIT BY THE DANISH FSA Read more (Danish)"
+    }
+  ],
+  "local_html": "sources/pages/6f5aec3c7f86.html",
+  "sha256": "1fd6e05b78398da3ff21198676df4f22d0c8041e4f447d417e3b494bc29dbaf0"
+}

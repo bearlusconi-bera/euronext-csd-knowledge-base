@@ -1,0 +1,31 @@
+{
+  "id": "2cf6c594be96",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4409%20-%20ES%20-%20ES_MIL551%20%28Appendix%201%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4409%20-%20ES%20-%20ES_MIL551%20%28Appendix%201%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:40 GMT",
+  "local_path": "sources/documents/2cf6c594be96-ES-ES-MIL-551-Appendix-1.pdf",
+  "sha256": "99f6de11d9a0c05a65b326d8a69a2ae93cc44752ce2a8ecfff4f709a7be4bac4",
+  "bytes": 114107,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/2cf6c594be96.md",
+  "text_characters": 1191,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4409 - ES - MT551 (Appendix 1)",
+    "author": "LPacini",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220412095043+02'00'",
+    "modDate": "D:20220412095043+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

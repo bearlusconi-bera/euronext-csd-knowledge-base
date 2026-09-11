@@ -1,0 +1,33 @@
+{
+  "id": "bfb322984449",
+  "url": "https://www.esma.europa.eu/sites/default/files/2024-03/ESMA74-2119945925-1959_Feedback_statement_of_the_Call_for_evidence_on_shortening_the_settlement_cycle.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2024-03/ESMA74-2119945925-1959_Feedback_statement_of_the_Call_for_evidence_on_shortening_the_settlement_cycle.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 30 Apr 2024 08:12:52 GMT",
+  "local_path": "sources/documents/bfb322984449-Feedback-statement-on-the-call-for-evidence-on-the-shortening-of-the-settlement-cycle.pdf",
+  "sha256": "11a48c5fa5e6fa01c7d946c979147474a4f377eb930e84df56ae41f1ad08a0a3",
+  "bytes": 664439,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 59,
+  "text_path": "extracted/bfb322984449.md",
+  "text_characters": 154906,
+  "low_text_pages": [
+    4
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ESMA74-2119945925-1959 Feedback statement of the Call for evidence on shortening the settlement cycle",
+    "author": "ESMA",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20240430101223+02'00'",
+    "modDate": "D:20240430101238+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

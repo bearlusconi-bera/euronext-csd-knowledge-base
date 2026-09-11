@@ -1,0 +1,31 @@
+{
+  "id": "788de3ffc67c",
+  "url": "https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.amiseco202603_investorrights.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.amiseco202603_investorrights.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 11 Jun 2026 14:56:57 GMT",
+  "local_path": "sources/documents/788de3ffc67c-Facilitating-the-exercise-of-investor-rights.pdf",
+  "sha256": "543ec4bc11a52aa9bb39c5429072e6c78a14ae2678cf491f19a92b4f603284e1",
+  "bytes": 1167443,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 47,
+  "text_path": "extracted/788de3ffc67c.md",
+  "text_characters": 136574,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Facilitating the exercise of investor rights",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260611164522+02'00'",
+    "modDate": "D:20260611165629+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

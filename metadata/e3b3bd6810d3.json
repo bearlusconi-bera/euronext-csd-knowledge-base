@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/settlement-outcomes",
+  "retrieved_at": "2026-09-11",
+  "id": "e3b3bd6810d3",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/settlement-outcomes",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:13 GMT",
+  "title": "Settlement Outcomes",
+  "text": "Settlement Outcomes\nJanuary\nFebruary\nMarch\nApril\nMay\nJune\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n2026\n15-06-2026\nPDF\nSettlement_Outcomes_15062026.pdf",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Esiti_liquidazione/2026/06/Settlement_Outcomes_15062026.pdf",
+      "title": "Settlement_Outcomes_15062026.pdf",
+      "context": "15-06-2026 PDF Settlement_Outcomes_15062026.pdf"
+    }
+  ],
+  "local_html": "sources/pages/e3b3bd6810d3.html",
+  "sha256": "6a5b1b02da71ef84744bc375ed206eee59c1f45d65f13d37a48ffead1064c173"
+}

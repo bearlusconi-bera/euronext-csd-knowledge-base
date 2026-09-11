@@ -1,0 +1,31 @@
+{
+  "id": "efa9772d59c4",
+  "url": "https://www.euronext.com/sites/default/files/2025-11/CSDR%20Penalties%20Calendar%202026%20-%20ES-PTO.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-11/CSDR%20Penalties%20Calendar%202026%20-%20ES-PTO.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 24 Nov 2025 12:13:38 GMT",
+  "local_path": "sources/documents/efa9772d59c4-Euronext-Securities-Porto-Penalties-Calendar-2026.pdf",
+  "sha256": "be01f453cb06fa960a496f04a4a8f1c6063b9fa22d4d20181ae1c882899ae223",
+  "bytes": 139500,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/efa9772d59c4.md",
+  "text_characters": 2250,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "Laura Ferreira",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word 2019",
+    "producer": "Microsoft® Word 2019",
+    "creationDate": "D:20251121115048+00'00'",
+    "modDate": "D:20251121115048+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

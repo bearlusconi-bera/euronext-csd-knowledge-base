@@ -1,0 +1,31 @@
+{
+  "id": "5d7ed869f363",
+  "url": "https://www.euronext.com/sites/default/files/2026-08/ES-CPH%20Opening%20Days.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-08/ES-CPH%20Opening%20Days.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 11 Aug 2026 07:17:01 GMT",
+  "local_path": "sources/documents/5d7ed869f363-ES-CPH-Opening-Days.pdf",
+  "sha256": "48ac1151a80829257d9af2528dd8e0cc11365fa15ce609557549891122b97f08",
+  "bytes": 77997,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/5d7ed869f363.md",
+  "text_characters": 3308,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ES-CPH Opening days",
+    "author": "Pernille Ditlevsen",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® PowerPoint® for Microsoft 365",
+    "producer": "Microsoft® PowerPoint® for Microsoft 365",
+    "creationDate": "D:20260803103915+02'00'",
+    "modDate": "D:20260803103915+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

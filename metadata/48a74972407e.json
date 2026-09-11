@@ -1,0 +1,60 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/documentation/statistics",
+  "retrieved_at": "2026-09-11",
+  "id": "48a74972407e",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/documentation/statistics",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:04:36 GMT",
+  "title": "Statistical data",
+  "text": "Statistical data\nTotal of Issues under Control\nIssues under Control by Month\nCancelled Issues by Month\nEvents CA\nEvents (Before CA4U)\nReal Time Settlement System\nSettlement of market operations\nISIN Codes\nOther Account Movements",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/total-issues-under-control",
+      "title": "Total of Issues under Control",
+      "context": "Total of Issues under Control Issues under Control by Month Cancelled Issues by Month Events CA Events (Before CA4U) Real Time Settlement System Settlement of market operations ISIN Codes Other Account Movements"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/issues-under-control-month",
+      "title": "Issues under Control by Month",
+      "context": "Total of Issues under Control Issues under Control by Month Cancelled Issues by Month Events CA Events (Before CA4U) Real Time Settlement System Settlement of market operations ISIN Codes Other Account Movements"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/cancelled-issues-month",
+      "title": "Cancelled Issues by Month",
+      "context": "Total of Issues under Control Issues under Control by Month Cancelled Issues by Month Events CA Events (Before CA4U) Real Time Settlement System Settlement of market operations ISIN Codes Other Account Movements"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/events-ca",
+      "title": "Events CA",
+      "context": "Total of Issues under Control Issues under Control by Month Cancelled Issues by Month Events CA Events (Before CA4U) Real Time Settlement System Settlement of market operations ISIN Codes Other Account Movements"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/events-ca4u",
+      "title": "Events (Before CA4U)",
+      "context": "Total of Issues under Control Issues under Control by Month Cancelled Issues by Month Events CA Events (Before CA4U) Real Time Settlement System Settlement of market operations ISIN Codes Other Account Movements"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/real-time-settlement-system",
+      "title": "Real Time Settlement System",
+      "context": "Total of Issues under Control Issues under Control by Month Cancelled Issues by Month Events CA Events (Before CA4U) Real Time Settlement System Settlement of market operations ISIN Codes Other Account Movements"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/settlement-market-operations",
+      "title": "Settlement of market operations",
+      "context": "Total of Issues under Control Issues under Control by Month Cancelled Issues by Month Events CA Events (Before CA4U) Real Time Settlement System Settlement of market operations ISIN Codes Other Account Movements"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/isin-codes",
+      "title": "ISIN Codes",
+      "context": "Total of Issues under Control Issues under Control by Month Cancelled Issues by Month Events CA Events (Before CA4U) Real Time Settlement System Settlement of market operations ISIN Codes Other Account Movements"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/other-account-movements",
+      "title": "Other Account Movements",
+      "context": "Total of Issues under Control Issues under Control by Month Cancelled Issues by Month Events CA Events (Before CA4U) Real Time Settlement System Settlement of market operations ISIN Codes Other Account Movements"
+    }
+  ],
+  "local_html": "sources/pages/48a74972407e.html",
+  "sha256": "9209daebc0367c001ebc4e4abd7a77a5a9fae84f33613ad72030c0edc7a1e068"
+}

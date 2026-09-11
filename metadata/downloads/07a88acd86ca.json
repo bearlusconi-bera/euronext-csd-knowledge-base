@@ -1,0 +1,14 @@
+{
+  "id": "07a88acd86ca",
+  "url": "https://www.euronext.com/sites/default/files/2026-03/nna-_client_test_handbook_wave_3.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-03/nna-_client_test_handbook_wave_3.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Fri, 06 Mar 2026 10:46:26 GMT",
+  "local_path": "sources/documents/07a88acd86ca-NNA-Client-Test-Handbook-Wave-3.xlsx",
+  "sha256": "ed162dacaf56095050f2d79ae88c3f88dd129dfde82896847c48a01f994e09d6",
+  "bytes": 421861,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

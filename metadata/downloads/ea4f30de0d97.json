@@ -1,0 +1,37 @@
+{
+  "id": "ea4f30de0d97",
+  "url": "https://www.euronext.com/sites/default/files/2023-08/relatorioanual.2013.pt_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-08/relatorioanual.2013.pt_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:44 GMT",
+  "local_path": "sources/documents/ea4f30de0d97-Relatorio-anual-de-2013.pdf",
+  "sha256": "707464f864e0baaedd36911563e982d23ce2f3e09c923f7a5f453b5a0b38baca",
+  "bytes": 1395168,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 124,
+  "text_path": "extracted/ea4f30de0d97.md",
+  "text_characters": 321458,
+  "low_text_pages": [
+    118,
+    119,
+    120,
+    121,
+    122
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - 20140325_IB_Relatório_Anual_2013Auditada",
+    "author": "ARL",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20140415170722+01'00'",
+    "modDate": "D:20140415170722+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

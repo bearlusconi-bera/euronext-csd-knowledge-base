@@ -1,0 +1,33 @@
+{
+  "id": "d35522aae7f8",
+  "url": "https://www.euronext.com/sites/default/files/2025-06/ESMIL_OperationalModel_BillingStandards_V1.5_ENG.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-06/ESMIL_OperationalModel_BillingStandards_V1.5_ENG.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 24 Jun 2025 12:22:55 GMT",
+  "local_path": "sources/documents/d35522aae7f8-4656-Billing-Standards-CMH.pdf",
+  "sha256": "7a04303b4412279fd24f64d0928956406257eeffb59be3833f56d6f3a0f8b83b",
+  "bytes": 644428,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 15,
+  "text_path": "extracted/d35522aae7f8.md",
+  "text_characters": 23154,
+  "low_text_pages": [
+    15
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - ESMIL_BillingStandards_OperationalModel_V1.5_ENG",
+    "author": "BCavanna",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20250624092019+02'00'",
+    "modDate": "D:20250624092019+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

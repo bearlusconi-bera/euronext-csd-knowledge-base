@@ -1,0 +1,25 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/supervision",
+  "retrieved_at": "2026-09-11",
+  "id": "b43bdc09b69b",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/supervision",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:06 GMT",
+  "title": "Supervision",
+  "text": "Supervision\nVP is subject to supervision in accordance with both the European Regulation on central securities depositories and the Danish Act on Capital Markets.\nVP is licensed by the Danish Financial Supervisory Authority and is subject to supervision in accordance with both the European Regulation on central securities depositories and the Danish Act on Capital Markets.\nThe Danish Financial Supervisory Authority regularly conducts inspections of VP.\nBelow you can find statements and supervisory reactions towards VP from the Danish Financial Supervisory Authority and any comments we may have published in that regard.\nAs a central securities depository we are considered systemically important for a well-functioning financial system. As such, we are subject to oversight by the Danish Central Bank and the Danish Financial Supervisory Authority.\nYou can read the overall assessment and conclusion on VP from the overseers on the Danish Central Banks website.\nCPMI-IOSCO report\nLink\nThe Danish Central Bank and the Danish Financial Supervisory Authority base their oversight and assessment of VP on 24 principles from CPMI-IOSCO, which is the global cooperation between central banks and the International Organization of Securities Commissions.\nCPMI-IOSCO\nAssessment\nLink\nThe Danish Central Bank and the Danish Financial Supervisory Authority, have conducted a joint assessment of VP Securities A/S against the CPMI-IOSCO principles for Financial Market Infrastructures.\nAssessment of VP Securit…\nContacts\nLegal & Regulations\n+45 4358 8888\nvp_legal@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/cpmi-iosco-report",
+      "title": "CPMI-IOSCO",
+      "context": "CPMI-IOSCO report Link The Danish Central Bank and the Danish Financial Supervisory Authority base their oversight and assessment of VP on 24 principles from CPMI-IOSCO, which is the global cooperation between central banks and the International Organization of Securities Commissions. CPMI-IOSCO Assessment Link The Danish Central Bank and the Danish Financial Supervisory Authority, have conducted a joint assessment of VP Securities A/S against the CPMI-IOSCO principles for Financial Market Infrastructures. Assessment of VP Securit…"
+    },
+    {
+      "url": "http://www.nationalbanken.dk/en/publications/Pages/2016/03/Assessment-of-VP-Securities.aspx",
+      "title": "Assessment of VP Securit…",
+      "context": "CPMI-IOSCO report Link The Danish Central Bank and the Danish Financial Supervisory Authority base their oversight and assessment of VP on 24 principles from CPMI-IOSCO, which is the global cooperation between central banks and the International Organization of Securities Commissions. CPMI-IOSCO Assessment Link The Danish Central Bank and the Danish Financial Supervisory Authority, have conducted a joint assessment of VP Securities A/S against the CPMI-IOSCO principles for Financial Market Infrastructures. Assessment of VP Securit…"
+    }
+  ],
+  "local_html": "sources/pages/b43bdc09b69b.html",
+  "sha256": "00df792fb0da4282f3095560c219aeb7d557e8abed739122b724ace779821087"
+}

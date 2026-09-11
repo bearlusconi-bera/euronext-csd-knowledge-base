@@ -1,0 +1,35 @@
+{
+  "id": "c39bbaa8d446",
+  "url": "https://www.euronext.com/sites/default/files/2022-09/RelatorioSemestral.2021_1.PT_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-09/RelatorioSemestral.2021_1.PT_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:17 GMT",
+  "local_path": "sources/documents/c39bbaa8d446-Relatorio-1o-semestre-de-2021.pdf",
+  "sha256": "f147c745dc2f677267358ca550c1f2b529bf5ea66c9ad478c1a7ece154ff1b3d",
+  "bytes": 2041762,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 114,
+  "text_path": "extracted/c39bbaa8d446.md",
+  "text_characters": 240245,
+  "low_text_pages": [
+    48,
+    112,
+    114
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20211004105931+01'00'",
+    "modDate": "D:20211004112227+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

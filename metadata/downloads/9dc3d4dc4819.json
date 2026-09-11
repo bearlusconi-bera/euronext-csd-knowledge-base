@@ -1,0 +1,14 @@
+{
+  "id": "9dc3d4dc4819",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/euronext_securities_-_portfolio_transfer_bearer_-_bulk_upload_-_input.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/euronext_securities_-_portfolio_transfer_bearer_-_bulk_upload_-_input.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Mon, 23 Feb 2026 15:18:12 GMT",
+  "local_path": "sources/documents/9dc3d4dc4819-Portfolio-transfer-bearer-bulk-upload.xlsx",
+  "sha256": "1a0b8a55709d60ad81ffb2d0af9206c6413a2bbc21caeafaad16288b462bb0b6",
+  "bytes": 36878,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "11402b142a61",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/CH%20-%20ES-MIL552%20%28Appendix%201%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/CH%20-%20ES-MIL552%20%28Appendix%201%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:42 GMT",
+  "local_path": "sources/documents/11402b142a61-CH-ES-MIL552-Appendix-1.pdf",
+  "sha256": "fa2aad64b2c361c893fa9f6c649f3065e7eab00ebcb75eaea1b4fcb2cbf9027a",
+  "bytes": 113970,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/11402b142a61.md",
+  "text_characters": 917,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - CH - MT552 (Appendix 1)",
+    "author": "LPacini",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220411180352+02'00'",
+    "modDate": "D:20220411180352+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

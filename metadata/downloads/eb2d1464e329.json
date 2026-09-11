@@ -1,0 +1,31 @@
+{
+  "id": "eb2d1464e329",
+  "url": "https://www.euronext.com/sites/default/files/2024-09/issuance_of_investment_fund_units.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-09/issuance_of_investment_fund_units.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:34:03 GMT",
+  "local_path": "sources/documents/eb2d1464e329-Investment-Fund-Units.pdf",
+  "sha256": "91d863e2a863eed340cd8cbd84af66f260e9be8d904ece1b56d591380f923451",
+  "bytes": 303220,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 7,
+  "text_path": "extracted/eb2d1464e329.md",
+  "text_characters": 14871,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Nina Enid With",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word til Microsoft 365",
+    "producer": "Microsoft® Word til Microsoft 365",
+    "creationDate": "D:20240913111129+02'00'",
+    "modDate": "D:20240913111129+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

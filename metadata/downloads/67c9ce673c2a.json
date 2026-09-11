@@ -1,0 +1,31 @@
+{
+  "id": "67c9ce673c2a",
+  "url": "https://www.euronext.com/sites/default/files/2026-04/20260408_STD%20Layouts%20of%20the%20files%20messages%20available%20to%20Financial%20Intermediaries_v58.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-04/20260408_STD%20Layouts%20of%20the%20files%20messages%20available%20to%20Financial%20Intermediaries_v58.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 08 Apr 2026 15:07:00 GMT",
+  "local_path": "sources/documents/67c9ce673c2a-Layouts-of-the-files-messages-available-to-Financial-Intermediaries.pdf",
+  "sha256": "59e82de82ac6f066104110f83ef6577fcd4703e9e4245616917c559d17f158e3",
+  "bytes": 4197565,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 282,
+  "text_path": "extracted/67c9ce673c2a.md",
+  "text_characters": 725175,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "STD - Sistema de Transferência de Dados",
+    "author": "Corina Baptista Oliveira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2019",
+    "producer": "Microsoft® Word 2019",
+    "creationDate": "D:20260408115016+01'00'",
+    "modDate": "D:20260408115016+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

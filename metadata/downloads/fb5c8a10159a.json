@@ -1,0 +1,31 @@
+{
+  "id": "fb5c8a10159a",
+  "url": "https://www.euronext.com/sites/default/files/2024-06/INTERBOLSA%20Notice%201132_2023_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-06/INTERBOLSA%20Notice%201132_2023_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:43 GMT",
+  "local_path": "sources/documents/fb5c8a10159a-Euronext-Securities-Porto-Notice-n-o-1132-2023.pdf",
+  "sha256": "a39159ff6727712705494984c5a667dbfd5fd3d03f5485482460dddf53cf8ae0",
+  "bytes": 108295,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/fb5c8a10159a.md",
+  "text_characters": 1091,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Document title in the Subject property",
+    "author": "Laura Ferreira",
+    "subject": "Release 1.0",
+    "keywords": "",
+    "creator": "Microsoft® Word para Microsoft 365",
+    "producer": "Microsoft® Word para Microsoft 365",
+    "creationDate": "D:20240620153654+01'00'",
+    "modDate": "D:20240620153654+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

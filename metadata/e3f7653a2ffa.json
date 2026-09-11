@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/bondholder-meeting",
+  "retrieved_at": "2026-09-11",
+  "id": "e3f7653a2ffa",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/bondholder-meeting",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:21 GMT",
+  "title": "Bondholder Meeting",
+  "text": "Bondholder Meeting\nProfessional, regulatory compliant and efficient bondholder meetings.\nAs an Issuer of fixed income instruments, you are required to hold a bondholder meeting from time to time. To ensure compliance with relevant laws and regulations, detailed planning and specialized expertise are required.\nOur digital bondholder meeting solution covers all stages of arranging a bondholder meeting – from preparation to execution – saving you time and ensuring compliance with relevant laws and regulations. Your account operator will work closely with you and Euronext Securities Oslo to plan and prepare the bondholder meeting and, if requested, provide you with assistance at the meeting itself.\nThe product includes the following services:\nPreparing and sending out the documentation to the meeting\nRegistration of confirmations from bondholders who intend to attend (or proxy)\nSolution for bondholders to register attendance or appoint proxy\nRegistration of attendants\nList of attendants present at the Bondholder Meeting\nIn order to use our bondholder meetings you need to register the securities in Euronext Securities Oslo. See how to become Euronext Securities Oslo registered here.\nContacts\nEuronext Securities Oslo\nBusiness Operations\nosl-clientsupport@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/post-trade/euronext-securities/oslo/become-euronext-securities-oslo-registered",
+      "title": "here",
+      "context": "As an Issuer of fixed income instruments, you are required to hold a bondholder meeting from time to time. To ensure compliance with relevant laws and regulations, detailed planning and specialized expertise are required. Our digital bondholder meeting solution covers all stages of arranging a bondholder meeting – from preparation to execution – saving you time and ensuring compliance with relevant laws and regulations. Your account operator will work closely with you and Euronext Securities Oslo to plan and prepare the bondholder meeting and, if requested, provide you with assistance at the meeting itself. The product includes the following services: Preparing and sending out the documentation to the meeting Registration of confirmations from bondholders who intend to attend (or proxy) Solution for bondholders to register attendance or appoint proxy Registration of attendants List of attendants present at the Bondholder Meeting In order to use our bondholder meetings you need to register the securities in Euronext Securities Oslo. See how to become Euronext Securities Oslo registered here."
+    }
+  ],
+  "local_html": "sources/pages/e3f7653a2ffa.html",
+  "sha256": "dabf12c83160459f1f0350a97bbe7a3e8bfb8f9e04fd261012ef60854442e112"
+}

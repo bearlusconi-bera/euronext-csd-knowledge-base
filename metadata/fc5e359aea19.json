@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/regulatory-environment/csdr/legal-entity-identifier-code-old",
+  "retrieved_at": "2026-09-11",
+  "id": "fc5e359aea19",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/user/login?destination=/en/csd/regulatory-environment/csdr/legal-entity-identifier-code-old",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Log in | euronext.com",
+  "text": "Error message\nAccess denied. You must log in to view this page.\nForgot password? Follow this link to reset.\nYou must have JavaScript enabled to use this form.\nLogin by username/email address\nYou can use your username or email address to login.\nPassword",
+  "links": [
+    {
+      "url": "https://www.euronext.com/user/password",
+      "title": "this link",
+      "context": "Forgot password? Follow this link to reset."
+    }
+  ],
+  "local_html": "sources/pages/fc5e359aea19.html",
+  "sha256": "c586cebee04bb8f6b17dae3df2758c624f8cee2948aec556c9cd2e66097d64fb"
+}

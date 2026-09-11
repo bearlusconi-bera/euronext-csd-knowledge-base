@@ -1,0 +1,31 @@
+{
+  "id": "349e0df3db56",
+  "url": "https://www.esma.europa.eu/sites/default/files/2025-06/ESMA74_1_1.PDF",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2025-06/ESMA74_1_1.PDF",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 26 Jun 2025 14:23:26 GMT",
+  "local_path": "sources/documents/349e0df3db56-Technical-advice.pdf",
+  "sha256": "b8b3c9b3cda47f0bb90162c55e737e9d952e77cfa280b2b8d01856ce93dcccad",
+  "bytes": 840936,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 84,
+  "text_path": "extracted/349e0df3db56.md",
+  "text_characters": 239032,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "ESMA",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 25 for Word",
+    "producer": "Adobe PDF Library 25.1.51",
+    "creationDate": "D:20250626071344+02'00'",
+    "modDate": "D:20250626071401+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

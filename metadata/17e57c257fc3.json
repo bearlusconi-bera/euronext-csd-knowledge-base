@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/media/14651",
+  "retrieved_at": "2026-09-11",
+  "id": "17e57c257fc3",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/media/14651",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:33:54 GMT",
+  "title": "Euronext Securities Oslo Fee Schedule (applicable from January 2026)",
+  "text": "ES-OSL-Fee-Schedule-January-2026.pdf\nDate\nWed, 09/09/2026 - 12:00",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2026-09/ES-OSL-Fee-Schedule-January-2026.pdf",
+      "title": "ES-OSL-Fee-Schedule-January-2026.pdf",
+      "context": "ES-OSL-Fee-Schedule-January-2026.pdf Date Wed, 09/09/2026 - 12:00"
+    }
+  ],
+  "local_html": "sources/pages/17e57c257fc3.html",
+  "sha256": "fad68f1a6013af0934c35308647745dc1a37df2826bac2f3edb9cebe35f1c9ad"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "f7b33da9d7e6",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/2015/11/2015-esma-1457_-_final_report_csdr_ts_on_csd_requirements_and_internalised_settlement.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/2015/11/2015-esma-1457_-_final_report_csdr_ts_on_csd_requirements_and_internalised_settlement.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 23 Jan 2023 13:03:54 GMT",
+  "local_path": "sources/documents/f7b33da9d7e6-final-report.pdf",
+  "sha256": "735efe3c21c5ee89b04d1237298f8cf2a651a0d7e3a8ab661284010b31ccc4c2",
+  "bytes": 478284,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 67,
+  "text_path": "extracted/f7b33da9d7e6.md",
+  "text_characters": 168085,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "Frederico Alcantara de Melo",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2010",
+    "producer": "Microsoft® Word 2010",
+    "creationDate": "D:20150928111822+02'00'",
+    "modDate": "D:20150928122348+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

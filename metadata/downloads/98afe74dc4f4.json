@@ -1,0 +1,31 @@
+{
+  "id": "98afe74dc4f4",
+  "url": "https://www.euronext.com/sites/default/files/2024-09/ES-CPH%20Table%20of%20fees_Jan%202025.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-09/ES-CPH%20Table%20of%20fees_Jan%202025.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:34:00 GMT",
+  "local_path": "sources/documents/98afe74dc4f4-Euronext-Securities-Copenhagen-Table-of-fees-as-per-January-2025.pdf",
+  "sha256": "215f27a8189f957a4c5e3c95715023c40ebe46ee781a49af9cdc463f1ce1ef00",
+  "bytes": 482642,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 26,
+  "text_path": "extracted/98afe74dc4f4.md",
+  "text_characters": 58558,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "table of fees_March",
+    "author": "Nina Enid With",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 24 til Word",
+    "producer": "Adobe PDF Library 24.3.144",
+    "creationDate": "D:20240930145323+02'00'",
+    "modDate": "D:20240930145345+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "19d0bd0c3391",
+  "url": "https://www.euronext.com/sites/default/files/2026-09/Mapping_CED_FirmID-20260904..pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-09/Mapping_CED_FirmID-20260904..pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 07 Sep 2026 09:46:35 GMT",
+  "local_path": "sources/documents/19d0bd0c3391-Optiq-Firm-ID-CED-mapping-September-2026.pdf",
+  "sha256": "3f81e30df5be421f4da8d5023076d1157d4b91df47b12aeae72c5416912b5cca",
+  "bytes": 245983,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 5,
+  "text_path": "extracted/19d0bd0c3391.md",
+  "text_characters": 21131,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Mapping_CED_FirmID-20260904.xlsx",
+    "author": "Alessandra Del Vasto",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20260904170655+02'00'",
+    "modDate": "D:20260904170655+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

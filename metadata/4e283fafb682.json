@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/csd/products-services/settlement-client-connectivity-services",
+  "retrieved_at": "2026-09-11",
+  "id": "4e283fafb682",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/products-services/settlement-client-connectivity-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:53 GMT",
+  "title": "Settlement & Client Connectivity Services",
+  "text": "Settlement & Client Connectivity Services\nWhat we offer\nOur settlement and client connectivity services, and what their comprehensive offerings include\nEuronext Securities offers robust and efficient settlement and client connectivity services that enhance the operational efficiency and reliability of financial market transactions. Our comprehensive solutions are designed to meet the diverse needs of our clients, ensuring seamless processing, security, and real-time access to market data.\nOur settlement & client connectivity products and services\nEfficient Settlement Services\nHere’s what sets our services apart:\nSeamless Transaction Processing: We manage the settlement of a broad spectrum of financial instruments, including equities, bonds, and derivatives. Our advanced systems ensure that all transactions are processed swiftly and accurately.\nTimely and Reliable: Our resilient infrastructure ensures that settlements are completed promptly, reducing the risk of delays and enhancing market stability.\nRegulatory Compliance: We adhere to stringent local and international regulatory standards, providing clients with the assurance that all settlement activities are fully compliant.\nComprehensive Client Connectivity\nWe understand the critical importance of effective client connectivity in today’s financial markets. Our connectivity solutions are designed to facilitate seamless interaction and communication between clients and the market:\nAdvanced Connectivity Options: We offer a range of connectivity solutions, including direct market access (DMA), application programming interfaces (APIs), and electronic communication networks (ECNs). These options ensure seamless integration with your existing systems.\nReal-Time Data Access: Our connectivity solutions provide real-time access to crucial market data, enabling clients to make informed decisions and respond promptly to market movements.\nSecure and Reliable: The security and reliability of our connectivity services are paramount. We employ robust security protocols to protect your data and transactions, ensuring continuous and dependable service.\nTailored Solutions for Diverse Needs\nWe recognise that each client’s needs are unique. We offer tailored solutions to meet the specific requirements of various market participants:\nCustomisable Interfaces: Our flexible interfaces can be tailored to match your operational workflows, enhancing user experience and operational efficiency.\nScalable Services: Whether you are a small brokerage firm or a large financial institution, our services are scalable to grow with your business needs.\nDedicated Support: Our team of experienced professionals is always available to provide support and guidance, ensuring that you get the most out of our settlement and connectivity services.\nWhy choose Euronext Securities?\nExpertise: Leverage our extensive experience and industry knowledge.\nInnovation: Benefit from our state-of-the-art technology and innovative solutions.\nReliability: Trust in our commitment to security, accuracy, and excellence.\nContact your local sales team to learn more about how we support Settlement & Client Connectivity on our four locations.\nWant to learn more?\nContact us\nCopenhagen\nMilan\nOslo\nPorto",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/about/contacts",
+      "title": "Contact us",
+      "context": "Want to learn more? Contact us Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen",
+      "title": "Copenhagen",
+      "context": "Want to learn more? Contact us Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/milan",
+      "title": "Milan",
+      "context": "Want to learn more? Contact us Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/oslo",
+      "title": "Oslo",
+      "context": "Want to learn more? Contact us Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/porto",
+      "title": "Porto",
+      "context": "Want to learn more? Contact us Copenhagen Milan Oslo Porto"
+    }
+  ],
+  "local_html": "sources/pages/4e283fafb682.html",
+  "sha256": "c7e9fa287dd3dd6962d5573e4ae8e3bb034dc48861c6a9b06ea143adeaddb875"
+}

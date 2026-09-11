@@ -1,0 +1,31 @@
+{
+  "id": "6f52bf5b8391",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/IB-Regulation-1SCSL2020_VF_03092020_EN.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/IB-Regulation-1SCSL2020_VF_03092020_EN.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:43 GMT",
+  "local_path": "sources/documents/6f52bf5b8391-INTERBOLSA-Regulation-1-2020.pdf",
+  "sha256": "164c149d94de1a6d55a2db6efaf8386dcdbf39e6b53706ad0586481c33b28859",
+  "bytes": 244784,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 5,
+  "text_path": "extracted/6f52bf5b8391.md",
+  "text_characters": 9319,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "REGULAMENTO DA INTERBOLSA N",
+    "author": "HTL",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Office 365",
+    "producer": "Microsoft® Word for Office 365",
+    "creationDate": "D:20200902133731+01'00'",
+    "modDate": "D:20200902133731+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

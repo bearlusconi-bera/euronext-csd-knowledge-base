@@ -1,0 +1,31 @@
+{
+  "id": "c086d914023a",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/esma70-153-236_esma-boe_mou_on_uk_csd_recognition.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/esma70-153-236_esma-boe_mou_on_uk_csd_recognition.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 23 Jan 2023 13:32:14 GMT",
+  "local_path": "sources/documents/c086d914023a-Memorandum-of-Understanding.pdf",
+  "sha256": "b6811684071d92963b8b75336d9a11c551a40625041bfe9384d5b760f9c66126",
+  "bytes": 228815,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 12,
+  "text_path": "extracted/c086d914023a.md",
+  "text_characters": 29768,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "PDFium",
+    "producer": "PDFium",
+    "creationDate": "D:20201208100510Z",
+    "modDate": "D:20210104092644+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

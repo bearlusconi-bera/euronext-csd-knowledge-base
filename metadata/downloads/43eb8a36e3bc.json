@@ -1,0 +1,31 @@
+{
+  "id": "43eb8a36e3bc",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Athens_DSS_Clearing_Settlement_System.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Athens_DSS_Clearing_Settlement_System.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 16 Apr 2026 15:32:06 GMT",
+  "local_path": "sources/documents/43eb8a36e3bc-DSS-Clearing-Settlement-System.pdf",
+  "sha256": "88c858959368af5583257e7c31fb24a5b8f175ef463b42f63187341c8eb02cf5",
+  "bytes": 200378,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/43eb8a36e3bc.md",
+  "text_characters": 983,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "PowerPoint Presentation",
+    "author": "Rhys Watts",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ (PUBLIC)ΕΛΛΗΝΙΚΗ (GREEK)",
+    "creator": "Microsoft® PowerPoint® for Microsoft 365",
+    "producer": "Microsoft® PowerPoint® for Microsoft 365",
+    "creationDate": "D:20260331191710+03'00'",
+    "modDate": "D:20260331191711+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2e985dd5234c",
+  "url": "https://www.euronext.com/media/12849/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/12849/download",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 20 May 2026 12:13:31 GMT",
+  "local_path": "sources/documents/2e985dd5234c-Checklist-Legal-Opinion.pdf",
+  "sha256": "9db198ec2d043d9971e0d164d3b5786f0003b69f120be097dafdf9dbe77f4146",
+  "bytes": 119839,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/2e985dd5234c.md",
+  "text_characters": 4364,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Lars-Erik Oppi",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260520141201+02'00'",
+    "modDate": "D:20260520141201+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

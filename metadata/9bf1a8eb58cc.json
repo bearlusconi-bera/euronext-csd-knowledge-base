@@ -1,0 +1,30 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/documentation/fee-books",
+  "retrieved_at": "2026-09-11",
+  "id": "9bf1a8eb58cc",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/documentation/fee-books",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:31 GMT",
+  "title": "Fee Books",
+  "text": "Fee Books\nFinancial Intermediaries\nPDF\nFee Books - Financial Intermediaries - Price list in force from 1 January 2026\nEnglish\nVersion\nEnglish\n05/01/2026\n/sites/default/files/2026-01/Fee%20-%20Book%20January%202026%20-%20FI%20.pdf\nFee Books - Financial Intermediaries - Price list in force from 1 January 2026\nPDF\nFee Books - Financial Intermediaries - Price list in force from 1 January 2025\nEnglish\nVersion\nEnglish\n17/10/2024\n/sites/default/files/2024-10/Fee%20Books%20-%20Financial%20Intermediaries%20-%20Price%20list%20in%20force%20from%201%20January%202025.pdf\nFee Books - Financial Intermediaries - Price list in force from 1 January 2025\nIssuers\nPDF\nFee Books - Issuers - Price list in force from 1 January 2026\nEnglish\nVersion\nEnglish\n03/02/2026\n/sites/default/files/2026-02/Fee%20-%20Book%20January%202026%20-IE%20_.pdf\nFee Books - Issuers - Price list in force from 1 January 2026",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2026-01/Fee%20-%20Book%20January%202026%20-%20FI%20.pdf",
+      "title": "Fee Books - Financial Intermediaries - Price list in force from 1 January 2026",
+      "context": "PDF Fee Books - Financial Intermediaries - Price list in force from 1 January 2026 English Version English 05/01/2026 /sites/default/files/2026-01/Fee%20-%20Book%20January%202026%20-%20FI%20.pdf Fee Books - Financial Intermediaries - Price list in force from 1 January 2026 PDF Fee Books - Financial Intermediaries - Price list in force from 1 January 2025 English Version English 17/10/2024 /sites/default/files/2024-10/Fee%20Books%20-%20Financial%20Intermediaries%20-%20Price%20list%20in%20force%20from%201%20January%202025.pdf Fee Books - Financial Intermediaries - Price list in force from 1 January 2025"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2024-10/Fee%20Books%20-%20Financial%20Intermediaries%20-%20Price%20list%20in%20force%20from%201%20January%202025.pdf",
+      "title": "Fee Books - Financial Intermediaries - Price list in force from 1 January 2025",
+      "context": "PDF Fee Books - Financial Intermediaries - Price list in force from 1 January 2026 English Version English 05/01/2026 /sites/default/files/2026-01/Fee%20-%20Book%20January%202026%20-%20FI%20.pdf Fee Books - Financial Intermediaries - Price list in force from 1 January 2026 PDF Fee Books - Financial Intermediaries - Price list in force from 1 January 2025 English Version English 17/10/2024 /sites/default/files/2024-10/Fee%20Books%20-%20Financial%20Intermediaries%20-%20Price%20list%20in%20force%20from%201%20January%202025.pdf Fee Books - Financial Intermediaries - Price list in force from 1 January 2025"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2026-02/Fee%20-%20Book%20January%202026%20-IE%20_.pdf",
+      "title": "Fee Books - Issuers - Price list in force from 1 January 2026",
+      "context": "PDF Fee Books - Issuers - Price list in force from 1 January 2026 English Version English 03/02/2026 /sites/default/files/2026-02/Fee%20-%20Book%20January%202026%20-IE%20_.pdf Fee Books - Issuers - Price list in force from 1 January 2026"
+    }
+  ],
+  "local_html": "sources/pages/9bf1a8eb58cc.html",
+  "sha256": "6f6ffb880eac2d75190ad3ca00a3b8f57ef6d8a2a0758f06c6a25e6364750418"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "9c83b714a6f4",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4406%20-%20ES%20-%20Power%20of%20Attorney%20%28Appendix%20III%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4406%20-%20ES%20-%20Power%20of%20Attorney%20%28Appendix%20III%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:40 GMT",
+  "local_path": "sources/documents/9c83b714a6f4-ES-Power-of-Attorney-Appendix-III.pdf",
+  "sha256": "b3765fe5704efdaa0deab71e7c4cec58a9b419d44c743a7544ce468c1d9c6d9b",
+  "bytes": 250342,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/9c83b714a6f4.md",
+  "text_characters": 1245,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4406 - ES - Power of Attorney (Appendix III)",
+    "author": "LPacini",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220412093957+02'00'",
+    "modDate": "D:20220412093957+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

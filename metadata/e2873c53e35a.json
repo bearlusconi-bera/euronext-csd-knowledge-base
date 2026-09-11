@@ -1,0 +1,35 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape",
+  "retrieved_at": "2026-09-11",
+  "id": "e2873c53e35a",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/regulatory-landscape",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:05 GMT",
+  "title": "Regulatory Landscape",
+  "text": "Regulatory Landscape\nEuropean institutions emphasize the role of market infrastructures in strengthening the resilience and integration of capital markets.\nEuronext Securities Milan contributes to the implementation of the agenda of the Capital Markets Union by actively participating in discussions with the European Commission and the Supervisory Authorities of financial markets to support the harmonization and efficiency processes of Post Trade.\nEuronext Securities Milan constantly monitors the developments in the regulatory landscape and works on dossiers that have a direct impact on the activities of the central depository as well as those of clients, who look to us as a partner in finding solutions to their regulatory requirements.\nRegulatory Framework\nCSDR\nShareholder Rights Direc…\nCMH - Corporate Actions …\nPost Trade Task Force - …",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr",
+      "title": "CSDR",
+      "context": "Regulatory Framework CSDR Shareholder Rights Direc… CMH - Corporate Actions … Post Trade Task Force - …"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/shareholder-rights-directive-ii",
+      "title": "Shareholder Rights Direc…",
+      "context": "Regulatory Framework CSDR Shareholder Rights Direc… CMH - Corporate Actions … Post Trade Task Force - …"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/cmh-corporate-actions-and-billing-standards",
+      "title": "CMH - Corporate Actions …",
+      "context": "Regulatory Framework CSDR Shareholder Rights Direc… CMH - Corporate Actions … Post Trade Task Force - …"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/report-bail-external-execution",
+      "title": "Post Trade Task Force - …",
+      "context": "Regulatory Framework CSDR Shareholder Rights Direc… CMH - Corporate Actions … Post Trade Task Force - …"
+    }
+  ],
+  "local_html": "sources/pages/e2873c53e35a.html",
+  "sha256": "e98844d917b027e6c63092c6d52b2df7fa1d8f4219c6641d372152396aa71ed8"
+}

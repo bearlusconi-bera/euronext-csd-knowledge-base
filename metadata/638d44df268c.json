@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/data-services/shareholder-feed",
+  "retrieved_at": "2026-09-11",
+  "id": "638d44df268c",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/user/login?destination=/en/csd/oslo/data-services/shareholder-feed",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Log in | euronext.com",
+  "text": "Error message\nAccess denied. You must log in to view this page.\nForgot password? Follow this link to reset.\nYou must have JavaScript enabled to use this form.\nLogin by username/email address\nYou can use your username or email address to login.\nPassword",
+  "links": [
+    {
+      "url": "https://www.euronext.com/user/password",
+      "title": "this link",
+      "context": "Forgot password? Follow this link to reset."
+    }
+  ],
+  "local_html": "sources/pages/638d44df268c.html",
+  "sha256": "a2e349ba34a0ab02f28fdb8294bae20d305df2ea669f5f1b3b164479a63876a1"
+}

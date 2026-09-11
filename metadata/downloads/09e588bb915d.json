@@ -1,0 +1,31 @@
+{
+  "id": "09e588bb915d",
+  "url": "https://www.esma.europa.eu/sites/default/files/2024-11/ESMA74-2119945925-2059_Final_Report_on_Technical_Advice_on_CSDR_Penalty_Mechanism.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2024-11/ESMA74-2119945925-2059_Final_Report_on_Technical_Advice_on_CSDR_Penalty_Mechanism.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 19 Nov 2024 14:37:51 GMT",
+  "local_path": "sources/documents/09e588bb915d-Technical-advice.pdf",
+  "sha256": "a7ccac1a6fe3e7b94592a0175b5e2aec0a8b4360c2d41f18c3a7564f799d2ac0",
+  "bytes": 1644079,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 120,
+  "text_path": "extracted/09e588bb915d.md",
+  "text_characters": 286866,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ESMA74-2119945925-2059 Final Report on Technical Advice on CSDR Penalty Mechanism",
+    "author": "ESMA",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20241119153609+01'00'",
+    "modDate": "D:20241119153727+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

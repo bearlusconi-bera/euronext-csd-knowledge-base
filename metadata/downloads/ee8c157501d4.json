@@ -1,0 +1,31 @@
+{
+  "id": "ee8c157501d4",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/sdd_-_euronext_securities_copenhagen_danish_tax_relief_at_source_service_1.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/sdd_-_euronext_securities_copenhagen_danish_tax_relief_at_source_service_1.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 30 Jun 2026 15:17:33 GMT",
+  "local_path": "sources/documents/ee8c157501d4-SDD-ES-CPH-Danish-Tax-Relief-at-Source-Service-pdf.pdf",
+  "sha256": "6e0a8f30ce773755be52b30c66aff43e681911e7036121b7ee226eb6d203d423",
+  "bytes": 295916,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 12,
+  "text_path": "extracted/ee8c157501d4.md",
+  "text_characters": 18574,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Alexandra Hegarty",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260630143539+02'00'",
+    "modDate": "D:20260630143539+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

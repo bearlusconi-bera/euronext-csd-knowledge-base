@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/ancillary-services/tradelog",
+  "retrieved_at": "2026-09-11",
+  "id": "8430d8e26139",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/ancillary-services/tradelog",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:02 GMT",
+  "title": "TradeLog - Employee trade monitoring made easy",
+  "text": "TradeLog - Employee trade monitoring made easy\nA compliance solution aiding the monitoring of securities transactions, holdings and consents.\nTradeLog features\nFully digitised application process for pre-clearance of trades\nSeamless administration of consent, holdings, roles, and related parties\nCommunication channel with the firm’s compliance department: employees receive information about blackout periods, prohibited trades\nAutomated surveillance and notification of violations\nThe system helps employees ensure they operate in full compliance with regulatory requirements and company policies.\nOur service\nEuronext Securities has streamlined the monitoring of employees’ personal trading activity through electronic preclearance, screening list capabilities, and automated rule checking. We will help you reduce time spent on managing your employees all the while ensuring you are staying compliant towards the current regulations, guidelines and internal routines.\nWhen companies operate in the financial market are required by law to report on employee trading to ensure public confidence in the financial markets. This pan-European online solution offers an automatic process and centralisation on one platform. TradeLog includes the employee’s initial application to the compliance department’s evaluation and approval, and the ongoing trade monitoring and notifications.\nTradeLog is advantageous for companies of all sizes. Even if you are a small investment company, the solution enables you to make a more structured, transparent approach to enforcing employee trading regulations. With respect to considerable attention on insider trading and employee investment practices, TradeLog allows you to take a proactive approach to compliance and to put monitoring tools in use before incidents occur.\nEnglish\nData capture\nThe solution is linked directly to the employee’s account in either Euronext Securities Copenhagen or Oslo and retrieves information about listed companies directly to the Danish Business Authority (Erhvervsstyrelsen) to.\nThis automated process gives compliance departments several advantages, as they can see who is complying with their trading guidelines and regulations, and automatically ensures that consent form the associated employees is obtained and maintained.\nPDF\nTradelog Product Sheet 2022\nEnglish\nVersion\nEnglish\n22/05/2023\nTradelog Product Sheet 2022\n/sites/default/files/2023-05/TradeLog-Product-Sheet-2022.pdf\nData Services in focus\nArticles\nWhat’s driving the increased trading activity amongst Danish private investors?\nMeeting our customers’ needs for trustworthy data\nVP Securities enters into a sponsored partnership with Copenhagen Fintech\nWould you like to receive articles directly in your inbox?\nSign up\nStay updated with the relevant news from Euronext Securities Copenhagen.\nSign up for news\nContacts\nSøren\nMilbregt\nExecutive Sales & Relationship Manager\n+ 45 21 42 65 75\nsmilbregt@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2023-05/TradeLog-Product-Sheet-2022.pdf",
+      "title": "Tradelog Product Sheet 2022",
+      "context": "PDF Tradelog Product Sheet 2022 English Version English 22/05/2023 Tradelog Product Sheet 2022 /sites/default/files/2023-05/TradeLog-Product-Sheet-2022.pdf"
+    },
+    {
+      "url": "https://www.euronext.com/news/whats-driving-increased-trading-activity-amongst-danish-private-investors",
+      "title": "What’s driving the increased trading activity amongst Danish private investors?",
+      "context": "Data Services in focus Articles What’s driving the increased trading activity amongst Danish private investors? Meeting our customers’ needs for trustworthy data VP Securities enters into a sponsored partnership with Copenhagen Fintech"
+    },
+    {
+      "url": "https://www.euronext.com/news/meeting-our-customers-needs-for-trustworthy-data",
+      "title": "Meeting our customers’ needs for trustworthy data",
+      "context": "Data Services in focus Articles What’s driving the increased trading activity amongst Danish private investors? Meeting our customers’ needs for trustworthy data VP Securities enters into a sponsored partnership with Copenhagen Fintech"
+    },
+    {
+      "url": "https://www.euronext.com/news/vp-securities-enters-sponsored-partnership-copenhagen-fintech",
+      "title": "VP Securities enters into a sponsored partnership with Copenhagen Fintech",
+      "context": "Data Services in focus Articles What’s driving the increased trading activity amongst Danish private investors? Meeting our customers’ needs for trustworthy data VP Securities enters into a sponsored partnership with Copenhagen Fintech"
+    },
+    {
+      "url": "https://info.euronext.com/es-copenhagen-subscriptionform",
+      "title": "Sign up for news",
+      "context": "Data Services in focus Articles What’s driving the increased trading activity amongst Danish private investors? Meeting our customers’ needs for trustworthy data VP Securities enters into a sponsored partnership with Copenhagen Fintech Would you like to receive articles directly in your inbox? Sign up Stay updated with the relevant news from Euronext Securities Copenhagen. Sign up for news"
+    }
+  ],
+  "local_html": "sources/pages/8430d8e26139.html",
+  "sha256": "e7f55126d3e77734a0442592bca657c70e421d1abb2be6e263878794be9693c2"
+}

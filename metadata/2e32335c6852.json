@@ -1,0 +1,45 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/issuers",
+  "retrieved_at": "2026-09-11",
+  "id": "2e32335c6852",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/issuers",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:07 GMT",
+  "title": "Issuers",
+  "text": "Issuers\nEuronext Securities Milan provides bespoke, innovative and efficient securities services to support the strategies of leading enterprises from corporations to financial institutions and capital market investors.\nWhether you require support in equity or debt capital market transactions, our experienced teams work in partnership with you throughout the life-cycle of the deal.\nThe choice of Euronext Securities Milan as Issuer CSD grants issuers global investor reach through direct or indirect links with each CSD of reference.\nEuronext Securities Milan serves over 3,200 domestic and international Issuers.\nOur Solutions\nClients interested in becoming Issuers on Euronext Securities Milan can also refer to the Issuers Onboarding FAQs which outlines the necessary actions to fulfil for admission.\nFAQs Issuer Onboarding\nIssuance Services\nIssuer Services\nRegister & AGM Services\nS.r.l. Dematerialisation\nContacts\nPierluigi\nDimonopoli\nHead of Sales Corporate Issuers\npdimonopoli@euronext.com\nSimone\nCanova\nSenior Client Relationship Manager\nscanova@euronext.com\nEuronext\nSecurities Milan\nSales & Relationship Management team\nMtsalesteam@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/milan/T2S Gateway",
+      "title": "direct or indirect links with each CSD",
+      "context": "Euronext Securities Milan provides bespoke, innovative and efficient securities services to support the strategies of leading enterprises from corporations to financial institutions and capital market investors. Whether you require support in equity or debt capital market transactions, our experienced teams work in partnership with you throughout the life-cycle of the deal. The choice of Euronext Securities Milan as Issuer CSD grants issuers global investor reach through direct or indirect links with each CSD of reference. Euronext Securities Milan serves over 3,200 domestic and international Issuers."
+    },
+    {
+      "url": "https://www.euronext.com/en/media/9947/download",
+      "title": "FAQs Issuer Onboarding",
+      "context": "Our Solutions Clients interested in becoming Issuers on Euronext Securities Milan can also refer to the Issuers Onboarding FAQs which outlines the necessary actions to fulfil for admission. FAQs Issuer Onboarding"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/issuers/issuance-services",
+      "title": "Issuance Services",
+      "context": "Our Solutions Clients interested in becoming Issuers on Euronext Securities Milan can also refer to the Issuers Onboarding FAQs which outlines the necessary actions to fulfil for admission. FAQs Issuer Onboarding Issuance Services Issuer Services Register & AGM Services S.r.l. Dematerialisation"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/issuers/issuer-services",
+      "title": "Issuer Services",
+      "context": "Our Solutions Clients interested in becoming Issuers on Euronext Securities Milan can also refer to the Issuers Onboarding FAQs which outlines the necessary actions to fulfil for admission. FAQs Issuer Onboarding Issuance Services Issuer Services Register & AGM Services S.r.l. Dematerialisation"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/milan/issuers/register-agm-services",
+      "title": "Register & AGM Services",
+      "context": "Our Solutions Clients interested in becoming Issuers on Euronext Securities Milan can also refer to the Issuers Onboarding FAQs which outlines the necessary actions to fulfil for admission. FAQs Issuer Onboarding Issuance Services Issuer Services Register & AGM Services S.r.l. Dematerialisation"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/issuers/srl-dematerialisation",
+      "title": "S.r.l. Dematerialisation",
+      "context": "Our Solutions Clients interested in becoming Issuers on Euronext Securities Milan can also refer to the Issuers Onboarding FAQs which outlines the necessary actions to fulfil for admission. FAQs Issuer Onboarding Issuance Services Issuer Services Register & AGM Services S.r.l. Dematerialisation"
+    }
+  ],
+  "local_html": "sources/pages/2e32335c6852.html",
+  "sha256": "c8c653aaa127aa41072a3ee4a96f9434699659dc731ad64a7274585d1ce204d6"
+}

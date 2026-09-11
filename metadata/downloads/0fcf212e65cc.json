@@ -1,0 +1,33 @@
+{
+  "id": "0fcf212e65cc",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4388%20-%20FTT%20Comunication%20%20to%20the%20French%20fiscal%20agency%20of%20the%20appointment%20of%20a%20Euroclear%20France%20member%20to%20pay%20the%20FTT%20%28only%20for%20long%20chains%2C%20French%20only%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4388%20-%20FTT%20Comunication%20%20to%20the%20French%20fiscal%20agency%20of%20the%20appointment%20of%20a%20Euroclear%20France%20member%20to%20pay%20the%20FTT%20%28only%20for%20long%20chains%2C%20French%20only%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:46 GMT",
+  "local_path": "sources/documents/0fcf212e65cc-FTT-Comunication-to-the-French-fiscal-agency-of-the-appointment-of-a-Euroclear-France-memb.pdf",
+  "sha256": "b18cc606887fb249410e4e59c0527c1bb05b7e97ca9918fcbb3b1d6d5d85c90b",
+  "bytes": 147510,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/0fcf212e65cc.md",
+  "text_characters": 17,
+  "low_text_pages": [
+    1
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Hewlett Packard MFP",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  }
+}

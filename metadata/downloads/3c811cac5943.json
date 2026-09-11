@@ -1,0 +1,34 @@
+{
+  "id": "3c811cac5943",
+  "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_URD_R2026.JUN_clean_20260122.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_URD_R2026.JUN_clean_20260122.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 15 Jan 2026 17:06:23 GMT",
+  "local_path": "sources/documents/3c811cac5943-T2S-User-Requirements-Document-R2026-JUN-URD.pdf",
+  "sha256": "64e6d5c798647fc4247c29cf7aac17603f960f9319ca9dc9774905ad7a500f97",
+  "bytes": 4397152,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 639,
+  "text_path": "extracted/3c811cac5943.md",
+  "text_characters": 1423306,
+  "low_text_pages": [
+    334,
+    344
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "T2S User Requirements Document R2026.JUN (URD)",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260115175750+01'00'",
+    "modDate": "D:20260115180029+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

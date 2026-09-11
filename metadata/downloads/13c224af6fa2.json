@@ -1,0 +1,14 @@
+{
+  "id": "13c224af6fa2",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/esma65-8-6905_csdr7_settlements_fails_xml_schema.zip",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/esma65-8-6905_csdr7_settlements_fails_xml_schema.zip",
+  "content_type": "application/zip",
+  "last_modified": "Mon, 23 Jan 2023 13:35:40 GMT",
+  "local_path": "sources/documents/13c224af6fa2-XML-Schema.zip",
+  "sha256": "9c8991c1cade51eccb4b2fb785f8d3ae2681b5be1f32b61ced45592e91debe5f",
+  "bytes": 461932,
+  "file_type": "zip",
+  "review_status": "archived-not-substantively-reviewed"
+}

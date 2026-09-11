@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/corporate-actions",
+  "retrieved_at": "2026-09-11",
+  "id": "ef33beb49801",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/corporate-actions",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:00 GMT",
+  "title": "Corporate Actions",
+  "text": "Corporate Actions\nSave internal resources with controlled processes and a single point of contact.\nWhen you register your securities electronically with us, we perform the required Corporate Actions. In the Danish market, they are monitored by the CSD Services team and you will have a single point of contact. We send you reports via SWIFT. For non SWIFT members, we provide alternative solutions.\nWe handle all types of Corporate Actions for end-investors, such as dividends, capital increases, mergers, tender bids and stock splits. We also undertake payments to end-investors, withhold and report tax payments, and ensure that your investors are informed in due time of the Corporate Actions concerning your securities.\nContacts\nDorthe\nNielsen\nSenior Product Owner\n+45 4035 3603\ndnielsen@euronext.com",
+  "links": [],
+  "local_html": "sources/pages/ef33beb49801.html",
+  "sha256": "121ef066b5f4f0d2549c901e5570b816d15b52c662571af503eabb558cb79fd1"
+}

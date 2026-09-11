@@ -1,0 +1,31 @@
+{
+  "id": "94c3482846b1",
+  "url": "https://www.euronext.com/sites/default/files/2024-06/EURONEXT%20SECURITIES%20CORPORATE%20EVENTS%20SERVICE%20-%20WHITE%20PAPER_V1%20July%202023.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-06/EURONEXT%20SECURITIES%20CORPORATE%20EVENTS%20SERVICE%20-%20WHITE%20PAPER_V1%20July%202023.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:43 GMT",
+  "local_path": "sources/documents/94c3482846b1-EURONEXT-SECURITIES-CORPORATE-EVENTS-SERVICE-WHITE-PAPER.pdf",
+  "sha256": "e934868994885f6966a35d0ca7d4432042af77ec872e2ab691c91fd83d27a8ef",
+  "bytes": 1251018,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 84,
+  "text_path": "extracted/94c3482846b1.md",
+  "text_characters": 178602,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "YG",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 23 for Word",
+    "producer": "Adobe PDF Library 23.3.20",
+    "creationDate": "D:20230718105632+02'00'",
+    "modDate": "D:20230718110044+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

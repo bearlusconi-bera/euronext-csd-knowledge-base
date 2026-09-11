@@ -1,0 +1,31 @@
+{
+  "id": "3a5d8aa81d93",
+  "url": "https://athens.euronext.com/sites/default/files/2025-11/ATHEXCSD_AGC_Report_2025.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2025-11/ATHEXCSD_AGC_Report_2025.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 10 Nov 2025 09:53:19 GMT",
+  "local_path": "sources/documents/3a5d8aa81d93-Download-PDF.pdf",
+  "sha256": "1c192dbc6ec5e1962ec2a51a024f76759b585b39c2defb8c3babd87ecfc930f0",
+  "bytes": 395191,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 56,
+  "text_path": "extracted/3a5d8aa81d93.md",
+  "text_characters": 110268,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.4",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20251023044935-06'00'",
+    "modDate": "D:20251023145337+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

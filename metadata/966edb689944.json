@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/csd/regulatory-environment/shareholder-rights-directive-ii",
+  "retrieved_at": "2026-09-11",
+  "id": "966edb689944",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/regulatory-environment/shareholder-rights-directive-ii",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:52 GMT",
+  "title": "Shareholder Rights Directive II (SRD II)",
+  "text": "Shareholder Rights Directive II (SRD II)\nThe Shareholder Rights Directive II (SRD II) aims to strengthen the position of shareholders and encourage the long-term engagement of EU-listed company shareholders.\nThe Shareholder Rights Directive II (SRD II) defines the minimum requirements for the transmission of information to and from shareholders through intermediaries. These include how and when they should send information to clients.\nObjectives of SRD II\nEnsure all investors are motivated to take part in the life of the company and support a sustainable EU economy.\nFacilitate the identification of shareholders through the intermediary chain.\nEncourage shareholders to attend and vote at general meetings.\nEncourage transparency in investment strategy and control over shareholder related-party transactions.\nInfluence the remuneration of company directors to create a better link between pay and performance.\nEuronext Securities and SRD II\nEuronext Securities works with market operators, associations, regulatory bodies and domestic and European working groups. We ensure participants have the right processes and systems in place to meet their obligations. To learn more details about SRDII please check this blog article.\nRegulations and Market Standards\nDetails of the SRD regulations can be found below.\nDirective (EU) 2017/828 (17 May 2017). Regarding the encouragement of long-term shareholder engagement.\nCommission Implementing Regulation (EU) 2018/1212 (3 september 2018). Regarding shareholder identification, the transmission of information and the exercise of shareholders rights.\nShareholders Rights Directive II – Market Standards\nMore SRD\nMore specifics on local implementation and support\nOur local CSDs are working closely with market operators, market associations, regulatory bodies and main domestic and European working groups, to ensure that the market participants have procedures and systems in place to fulfil the obligations of the Directive.\nContact our team to learn more : Contacts | euronext.com",
+  "links": [
+    {
+      "url": "https://www.corporateservices.euronext.com/blog/investor-relations/srd-ii",
+      "title": "this blog article",
+      "context": "The Shareholder Rights Directive II (SRD II) defines the minimum requirements for the transmission of information to and from shareholders through intermediaries. These include how and when they should send information to clients. Objectives of SRD II Ensure all investors are motivated to take part in the life of the company and support a sustainable EU economy. Facilitate the identification of shareholders through the intermediary chain. Encourage shareholders to attend and vote at general meetings. Encourage transparency in investment strategy and control over shareholder related-party transactions. Influence the remuneration of company directors to create a better link between pay and performance. Euronext Securities and SRD II Euronext Securities works with market operators, associations, regulatory bodies and domestic and European working groups. We ensure participants have the right processes and systems in place to meet their obligations. To learn more details about SRDII please check this blog article."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=CELEX%3A32017L0828",
+      "title": "Directive (EU) 2017/828",
+      "context": "Regulations and Market Standards Details of the SRD regulations can be found below. Directive (EU) 2017/828 (17 May 2017). Regarding the encouragement of long-term shareholder engagement. Commission Implementing Regulation (EU) 2018/1212 (3 september 2018). Regarding shareholder identification, the transmission of information and the exercise of shareholders rights. Shareholders Rights Directive II – Market Standards"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=CELEX%3A32018R1212",
+      "title": "Commission Implementing Regulation (EU) 2018/1212",
+      "context": "Regulations and Market Standards Details of the SRD regulations can be found below. Directive (EU) 2017/828 (17 May 2017). Regarding the encouragement of long-term shareholder engagement. Commission Implementing Regulation (EU) 2018/1212 (3 september 2018). Regarding shareholder identification, the transmission of information and the exercise of shareholders rights. Shareholders Rights Directive II – Market Standards"
+    },
+    {
+      "url": "https://ecsda.eu/shareholder-rights-directive-ii",
+      "title": "Shareholders Rights Directive II – Market Standards",
+      "context": "Regulations and Market Standards Details of the SRD regulations can be found below. Directive (EU) 2017/828 (17 May 2017). Regarding the encouragement of long-term shareholder engagement. Commission Implementing Regulation (EU) 2018/1212 (3 september 2018). Regarding shareholder identification, the transmission of information and the exercise of shareholders rights. Shareholders Rights Directive II – Market Standards"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/about/contacts",
+      "title": "Contacts | euronext.com",
+      "context": "More SRD More specifics on local implementation and support Our local CSDs are working closely with market operators, market associations, regulatory bodies and main domestic and European working groups, to ensure that the market participants have procedures and systems in place to fulfil the obligations of the Directive. Contact our team to learn more : Contacts | euronext.com"
+    }
+  ],
+  "local_html": "sources/pages/966edb689944.html",
+  "sha256": "683ace061b62bf649f541a2b407f6bc14b74515c83bf1c7bbe2b8ae11ad0b622"
+}

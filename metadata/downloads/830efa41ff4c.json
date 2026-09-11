@@ -1,0 +1,31 @@
+{
+  "id": "830efa41ff4c",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/es-cph_application_service_fee_for_new_common_connectivity_platform_xxxxxx.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/es-cph_application_service_fee_for_new_common_connectivity_platform_xxxxxx.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 22 Jun 2026 09:14:32 GMT",
+  "local_path": "sources/documents/830efa41ff4c-Application-Service-fee-for-new-common-connectivity-platform.pdf",
+  "sha256": "9bce35b042e3c33d9058c7272ce5aabcbd72a32606f58e482050284598b427b2",
+  "bytes": 432556,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 20,
+  "text_path": "extracted/830efa41ff4c.md",
+  "text_characters": 28408,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "S A",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word per Microsoft 365",
+    "producer": "Microsoft® Word per Microsoft 365",
+    "creationDate": "D:20260619163444+02'00'",
+    "modDate": "D:20260619163444+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

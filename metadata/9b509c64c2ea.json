@@ -1,0 +1,80 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services/issuers",
+  "retrieved_at": "2026-09-11",
+  "id": "9b509c64c2ea",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services/issuers",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Registry Services for Issuers | Euronext Athens",
+  "text": "EURONEXT SECURITIES ATHENS\nRegistry Services for Issuers\nOur Services in Detail\nChange of Issuer Share Data\nRead about updating an Issuer's details in their Share in the DSS.The service is provided upon submission of the Application for Change of Share Data & Securities Account in the DSS APP004 and the relevant supporting documents specified in the application.The service is free of charge.\nProvision of Issuer's Share Information\nProviding Issuers with information regarding the status and/or activity of their share’s Accounts on the DSS (from 29/03/1999 onwards). The service is provided upon submission of the Request for Information APP007.Charges: Through Jira Service Desk: € 12,40 (incl. VAT)By e-mail: € 12,40 (incl. VAT)By post or courier: € 13,90 (incl. VAT)With physical presence of the beneficiary at the stage of receipt: € 18,60 (incl. VAT)\nLegalization of Heirs Through an Issuer\nRead about the legalisation of the heirs of a deceased shareholder-beneficiary of the Company's Securities. The Issuers, after completing the legalization of heirs of a deceased shareholder-beneficiary of their Securities, notify Euronext Securities Athens in order to proceed with the transfer of securities from the Share of the deceased shareholder-beneficiary of Securities to the Shares of his heirs in the DSS. For this purpose, they must submit the following documents to Euronext Securities Athens:Letter of legalization of heirs and distribution of securities (see relevant template here)Certificate of article 105 of Law 2961/2001 or Inheritance Tax Declaration, accompanied by a Solemn Declaration of article 8 of Law 1599/1986 (Government Gazette 75A) with a genuine signature of the applicant by an administrative authority (gov.gr), stating that \"the data resulting from the Inheritance Tax Declaration have not changed and no tax is due\"Charges: See G504.\nOTC Transfer of Existing Securities due to Provision in Kind to Executives/Shareholders of an Issuer (Stock Option) in the Context of Achieving Objectives or the Occurrence of a Specific Event\nThis process concerns the transfer of Securities to executives/shareholders of an Issuer at a price or free of charge, at the behest of the Issuer. The procedure is described in detail in the instructions which you can find here (ΚΑΑ508).Charge: 0.08% of the transfer value per part. Minimum charge amounts to the smallest value between 20€ and 20% of the transfer value.\nShareholder Identification on Behalf of an Issuer\nThis service comprises of Issuers exercising their right to identify their shareholders, to make critical decisions or for Supervisory needs, for the General Meeting and for distributions with special arrangements.Euronext Securities Athens, upon receipt of the respective identification request by an Issuer, converts it into a format in accordance with international standards (ISO 20022) and the relevant regulatory framework (Shareholders Rights Directive \"SRD II\"). Following the conversion, Euronext Securities Athens sends it to the Participants, in order for them to then transfer it to the chain of Intermediaries. Euronext Securities Athens then notifies the Issuer regarding the shareholder identification data, in accordance with the records kept in the DSS. You can find the manual of records of communication with Publishers here.Charges: Convert an identification request file to ISO 20022 format: € 70 per shareholder identification request file (per ISIN and per beneficiary identification date) Provision of shareholder identification file: € 0,10 per identification registration, with a minimum charge of € 100. There may be additional intermediary fees.\nIssuers send their requests and receive results electronically via JIRA Service Desk/Registry services. Service fees are provided in accordance with Resolution 18 of Euronext Securities Athens BoD. For more information click here.\nSee also\nRegistry Services for Investors\nRegistry Services for Participants\nFAQs",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP004_APPLICATION_FOR_CHANGING_DATA_OF_THE_BENEFICIARY_SHARE_AND_SECURITIES_ACCOUNT_20240412.docx",
+      "title": "APP004",
+      "context": "Read about updating an Issuer's details in their Share in the DSS.The service is provided upon submission of the Application for Change of Share Data & Securities Account in the DSS APP004 and the relevant supporting documents specified in the application.The service is free of charge."
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-07/Euronext_Securities_Athens_APP007_APPLICATION_FOR_PROVIDING_INFORMATION_20260623.pdf",
+      "title": "APP007",
+      "context": "Providing Issuers with information regarding the status and/or activity of their share’s Accounts on the DSS (from 29/03/1999 onwards). The service is provided upon submission of the Request for Information APP007.Charges: Through Jira Service Desk: € 12,40 (incl. VAT)By e-mail: € 12,40 (incl. VAT)By post or courier: € 13,90 (incl. VAT)With physical presence of the beneficiary at the stage of receipt: € 18,60 (incl. VAT)"
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP007_APPLICATION_FOR_PROVIDING_INFORMATION_20240412.docx",
+      "title": ".",
+      "context": "Providing Issuers with information regarding the status and/or activity of their share’s Accounts on the DSS (from 29/03/1999 onwards). The service is provided upon submission of the Request for Information APP007.Charges: Through Jira Service Desk: € 12,40 (incl. VAT)By e-mail: € 12,40 (incl. VAT)By post or courier: € 13,90 (incl. VAT)With physical presence of the beneficiary at the stage of receipt: € 18,60 (incl. VAT)"
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP097_LEGALIZATION_REQUEST_FROM_PARTICIPANT_ISSUER_02022026.docx",
+      "title": "here)",
+      "context": "Read about the legalisation of the heirs of a deceased shareholder-beneficiary of the Company's Securities. The Issuers, after completing the legalization of heirs of a deceased shareholder-beneficiary of their Securities, notify Euronext Securities Athens in order to proceed with the transfer of securities from the Share of the deceased shareholder-beneficiary of Securities to the Shares of his heirs in the DSS. For this purpose, they must submit the following documents to Euronext Securities Athens:Letter of legalization of heirs and distribution of securities (see relevant template here)Certificate of article 105 of Law 2961/2001 or Inheritance Tax Declaration, accompanied by a Solemn Declaration of article 8 of Law 1599/1986 (Government Gazette 75A) with a genuine signature of the applicant by an administrative authority (gov.gr), stating that \"the data resulting from the Inheritance Tax Declaration have not changed and no tax is due\"Charges: See G504."
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_G504_30122024_Guidelines_for_Pricing_Services_Inheritance.pdf",
+      "title": "G504",
+      "context": "Read about the legalisation of the heirs of a deceased shareholder-beneficiary of the Company's Securities. The Issuers, after completing the legalization of heirs of a deceased shareholder-beneficiary of their Securities, notify Euronext Securities Athens in order to proceed with the transfer of securities from the Share of the deceased shareholder-beneficiary of Securities to the Shares of his heirs in the DSS. For this purpose, they must submit the following documents to Euronext Securities Athens:Letter of legalization of heirs and distribution of securities (see relevant template here)Certificate of article 105 of Law 2961/2001 or Inheritance Tax Declaration, accompanied by a Solemn Declaration of article 8 of Law 1599/1986 (Government Gazette 75A) with a genuine signature of the applicant by an administrative authority (gov.gr), stating that \"the data resulting from the Inheritance Tax Declaration have not changed and no tax is due\"Charges: See G504."
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_G508_16072014_Stock_option_plan.pdf",
+      "title": "here (ΚΑΑ508)",
+      "context": "This process concerns the transfer of Securities to executives/shareholders of an Issuer at a price or free of charge, at the behest of the Issuer. The procedure is described in detail in the instructions which you can find here (ΚΑΑ508).Charge: 0.08% of the transfer value per part. Minimum charge amounts to the smallest value between 20€ and 20% of the transfer value."
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Αίτημα_Ταυτοποίησης_SI_Request.xlsx",
+      "title": "identification",
+      "context": "This service comprises of Issuers exercising their right to identify their shareholders, to make critical decisions or for Supervisory needs, for the General Meeting and for distributions with special arrangements.Euronext Securities Athens, upon receipt of the respective identification request by an Issuer, converts it into a format in accordance with international standards (ISO 20022) and the relevant regulatory framework (Shareholders Rights Directive \"SRD II\"). Following the conversion, Euronext Securities Athens sends it to the Participants, in order for them to then transfer it to the chain of Intermediaries. Euronext Securities Athens then notifies the Issuer regarding the shareholder identification data, in accordance with the records kept in the DSS. You can find the manual of records of communication with Publishers here.Charges: Convert an identification request file to ISO 20022 format: € 70 per shareholder identification request file (per ISIN and per beneficiary identification date) Provision of shareholder identification file: € 0,10 per identification registration, with a minimum charge of € 100. There may be additional intermediary fees."
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Communication_Files_with_Issuers_v3_6_EN.pdf",
+      "title": "here",
+      "context": "This service comprises of Issuers exercising their right to identify their shareholders, to make critical decisions or for Supervisory needs, for the General Meeting and for distributions with special arrangements.Euronext Securities Athens, upon receipt of the respective identification request by an Issuer, converts it into a format in accordance with international standards (ISO 20022) and the relevant regulatory framework (Shareholders Rights Directive \"SRD II\"). Following the conversion, Euronext Securities Athens sends it to the Participants, in order for them to then transfer it to the chain of Intermediaries. Euronext Securities Athens then notifies the Issuer regarding the shareholder identification data, in accordance with the records kept in the DSS. You can find the manual of records of communication with Publishers here.Charges: Convert an identification request file to ISO 20022 format: € 70 per shareholder identification request file (per ISIN and per beneficiary identification date) Provision of shareholder identification file: € 0,10 per identification registration, with a minimum charge of € 100. There may be additional intermediary fees."
+    },
+    {
+      "url": "https://servicedesk.athexgroup.gr/login.jsp",
+      "title": "JIRA Service Desk/Registry services.",
+      "context": "Issuers send their requests and receive results electronically via JIRA Service Desk/Registry services. Service fees are provided in accordance with Resolution 18 of Euronext Securities Athens BoD. For more information click here."
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/pricing-and-fees",
+      "title": "here",
+      "context": "Issuers send their requests and receive results electronically via JIRA Service Desk/Registry services. Service fees are provided in accordance with Resolution 18 of Euronext Securities Athens BoD. For more information click here."
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/registry-services/investors",
+      "title": "Registry Services for Investors",
+      "context": "Registry Services for Investors Registry Services for Participants FAQs"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services/participants",
+      "title": "Registry Services for Participants",
+      "context": "Registry Services for Investors Registry Services for Participants FAQs"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/registry-services/faqs",
+      "title": "FAQs",
+      "context": "Registry Services for Investors Registry Services for Participants FAQs"
+    }
+  ],
+  "local_html": "sources/pages/9b509c64c2ea.html",
+  "sha256": "36c2a2bc7a8f5005b5881f6b1493caad7f95bffb23685a80ff9742f5213e63b2"
+}

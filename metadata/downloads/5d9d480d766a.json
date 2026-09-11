@@ -1,0 +1,14 @@
+{
+  "id": "5d9d480d766a",
+  "url": "https://www.euronext.com/sites/default/files/2024-11/Euronext%20DORA%20Regulatory%20Addendum%20-%20Critical%20FINAL%20%28Centri%20Servizi%29.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-11/Euronext%20DORA%20Regulatory%20Addendum%20-%20Critical%20FINAL%20%28Centri%20Servizi%29.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:34:13 GMT",
+  "local_path": "sources/documents/5d9d480d766a-REGULATORY-ADDENDUM-DORA-CRITICAL-ICT-SERVICES.docx",
+  "sha256": "2c3706aecef40abb2dfb75f126031408ffc71f3b541e8d19568e59264553e668",
+  "bytes": 112649,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

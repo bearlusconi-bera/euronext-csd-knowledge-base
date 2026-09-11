@@ -1,0 +1,31 @@
+{
+  "id": "3739ff631bb9",
+  "url": "https://www.euronext.com/media/11089/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/11089/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:20 GMT",
+  "local_path": "sources/documents/3739ff631bb9-Account-Operators-Compliance-Committee-Mandate.pdf",
+  "sha256": "f0ad0c93aa6ac4de8aba73383bfef485f51e457cd0699f42554c9472b76a3a6a",
+  "bytes": 169917,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 11,
+  "text_path": "extracted/3739ff631bb9.md",
+  "text_characters": 12822,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "Insert Author",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20240220121423+01'00'",
+    "modDate": "D:20240220121423+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "5742be281f30",
+  "url": "https://www.euronext.com/sites/default/files/2022-07/4196_CSDR%20Focus%20ENG.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-07/4196_CSDR%20Focus%20ENG.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:01 GMT",
+  "local_path": "sources/documents/5742be281f30-CSDR-The-main-effects.pdf",
+  "sha256": "5410f1627f5f1673a1b2c1891a130117968f80d7444c35612fab40f5348d0da9",
+  "bytes": 190081,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 7,
+  "text_path": "extracted/5742be281f30.md",
+  "text_characters": 17152,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Dermes, Maria",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20220714123110+02'00'",
+    "modDate": "D:20220714123110+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

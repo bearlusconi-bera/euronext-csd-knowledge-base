@@ -1,0 +1,31 @@
+{
+  "id": "15b66e9699f0",
+  "url": "https://www.euronext.com/sites/default/files/piano-stripping/Piano%20Stripping%20IT0005648149.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/piano-stripping/Piano%20Stripping%20IT0005648149.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 06 Oct 2025 14:23:58 GMT",
+  "local_path": "sources/documents/15b66e9699f0-Piano-Stripping-IT0005648149.pdf",
+  "sha256": "e123b15a7e13fe5736e81c35e5151062bd6438b06ca2257ce419e622ec6c4cbc",
+  "bytes": 48703,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/15b66e9699f0.md",
+  "text_characters": 603,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Piano Stripping IT0005648149.TXT - Notepad",
+    "author": "Denis Ghielmetti",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20251006162235+02'00'",
+    "modDate": "D:20251006162235+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

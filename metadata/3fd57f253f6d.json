@@ -1,0 +1,55 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/about-us",
+  "retrieved_at": "2026-09-11",
+  "id": "3fd57f253f6d",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/about-us",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:04 GMT",
+  "title": "About us",
+  "text": "About us\nEuronext Securities Milan is the Central Securities Depository for the Italian financial market.\nAuthorized to operate under the European CSD Regulation (CSD-R), ES Milan provides efficient and secure settlement, custody, asset servicing and issuer services on domestic and foreign securities including bonds, government securities, debt securities, ETFs and certificates.\nSupporting more than 197 intermediaries, including commercial banks, global custodians, broker / dealers, Italian and international market infrastructures and over 2,700 issuers, Euronext Securities Milan assists our clients in every phase of the customer journey.\nRelated Pages\nGovernance\nCorporate Data and Legal\nBoard of Directors\nCommittees\nBoard of Statutory Audit…\nOur Brochures\nPost Trade excellence at your service\nT2S Gateway\nIssuer Services\nCommercial Paper",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/milan/about-us/governance",
+      "title": "Governance",
+      "context": "Related Pages Governance Corporate Data and Legal Board of Directors Committees Board of Statutory Audit…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/about-us/corporate-data-and-legal-info",
+      "title": "Corporate Data and Legal",
+      "context": "Related Pages Governance Corporate Data and Legal Board of Directors Committees Board of Statutory Audit…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/about-us/governance/board-directors",
+      "title": "Board of Directors",
+      "context": "Related Pages Governance Corporate Data and Legal Board of Directors Committees Board of Statutory Audit…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/about-us/governance/board-directors/committees",
+      "title": "Committees",
+      "context": "Related Pages Governance Corporate Data and Legal Board of Directors Committees Board of Statutory Audit…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/about-us/governance/board-statutory-auditors",
+      "title": "Board of Statutory Audit…",
+      "context": "Related Pages Governance Corporate Data and Legal Board of Directors Committees Board of Statutory Audit…"
+    },
+    {
+      "url": "https://www.euronext.com/en/media/4176/download",
+      "title": "T2S Gateway",
+      "context": "T2S Gateway Issuer Services Commercial Paper"
+    },
+    {
+      "url": "https://www.euronext.com/en/media/4177/download",
+      "title": "Issuer Services",
+      "context": "T2S Gateway Issuer Services Commercial Paper"
+    },
+    {
+      "url": "https://www.euronext.com/en/media/4179/download",
+      "title": "Commercial Paper",
+      "context": "T2S Gateway Issuer Services Commercial Paper"
+    }
+  ],
+  "local_html": "sources/pages/3fd57f253f6d.html",
+  "sha256": "d13da3ec1448925b0ac71c26d80027c60003069c03acf4f4479cc66e67383223"
+}

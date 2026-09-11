@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/tax-services/share-savings-account-ssa",
+  "retrieved_at": "2026-09-11",
+  "id": "5710425b8ec6",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/tax-services/share-savings-account-ssa",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:24 GMT",
+  "title": "Share Savings Account (SSA)",
+  "text": "Share Savings Account (SSA)\nThe Share Savings Account allows the personal investor to postpone tax liability. Thus, ensuring more capital to invest and reinvest without having to pay concurrent tax claims on gains\nEuronext Securities Oslo has a complete offering for Share Saving Accounts that integrates seamlessly with online banking interfaces.\nEligible securities in the Share Savings Account\nEuronext Securities Oslo-registered listed shares and equity funds (funds comprised with more than 80 percent shares) can be held on a Share Savings Account.\nVPS Investor Services\nIs a fully integrated graphic user interface for easy creation, modification and updating investor and/or transaction data. Account operators have option of using the interface or ISO messaging. The same applies to the transfer of shares and mutual funds to / from the Share Savings Account.\nSelf-service options\nEuronext Securities Oslo’s concept of self-service for the investor having a Share Savings Account is based on the use of VPS Investor Services. VPS Investor Services is a well-known self-service solution for investors with over 700,000 users. Here, the investor gets an overview of his share savings account at all times, including complex tax positions. The user interface can be integrated with the provider’s (account operators’s) graphic profile using API, and it can be integrated with existing customer portal via “single sign on” or with BankID as a login.\nTax calculation and reporting\nThe service includes mandatory tax calculation and related reporting to the tax administration. Our service ensures a correct calculation of price, tax rate, shielding as well as gains/losses.\nmedia\nEnglish\nAdded features with ASK HUB\nWe automate transfers of ASK portfolios between Financial institutions with the new ASK HUB\nAutomated transfers of investor portfolios between any ASK provider.\nAvailable APIs for full integration in your existing systems or with third parties\nChoose the level of automation that suits your existing set up\nKeep your established tax reporting solution – use ASK HUB for transfers\nBuilt on state-of-the art infrastructure modelled after the EPK-HUB\nContacts\nKanchana S.\nHansen\nSenior Product Manager & Tax Lead\n+45 2894 0948\nkhansen@euronext.com",
+  "links": [],
+  "local_html": "sources/pages/5710425b8ec6.html",
+  "sha256": "29f4e497bca495cb4e9f342598886f541b8c7cb951db4cf7c4a620a40b63e735"
+}

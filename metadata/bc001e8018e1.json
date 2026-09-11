@@ -1,0 +1,25 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities/listed-issuers/process",
+  "retrieved_at": "2026-09-11",
+  "id": "bc001e8018e1",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities/listed-issuers/process",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Initial Recording of Securities | Euronext Athens",
+  "text": "ATHEXCSD\nInitial Recording of Securities Process for Listed Issuers\nConverting Tangible Shares into Dematerialised\nApplication\nThe Listed Issuer submits their application for the initial recording of securities, along with the respective supporting documents, as outlined in Resolution 3 of ATHEXCSD.\nEvaluation\nATHEXCSD processes the application and, upon approval from the Trading Area Operator, accepts the listing of Issuer's shares on the Trading Area.\nApplication Approval\nOnce ATHEXCSD has accepted the application, the Listed Issuer: Requests shareholders to:o Submit their share titleso Declare their full details, including Share and Securities Account information, and Participant Account detailso Declare their rights in rem in securitiesCompletes and submits the Document of Dematerialisation of Tangible Shares to ATHEXCSDIs notified by ATHEXCSD about the dematerialisation and completes the recordingsCancels the received securities on the dematerialisation date\nDematerialisation via Direct Issuance of Dematerialised Shares\nApplication\nThe Listed Issuer submits an application of initial recording and the supporting documents, as outlined in Resolution 3 of the ATHEXCSD Board of Directors.\nEvaluation\nATHEXCSD processes the application, and approves it.\nApplication Approval\nOnce ATHEXCSD has accepted the application, the Listed Issuer: Completes and delivers to ATHEXCSD the Beneficiaries Allocation File, which contains the shareholders’ details, along with the Share and the Securities Account, and the Participant Is notified by ATHEXCSD of the registration date and makes the necessary registrations.\nInitial Registration Service via Immobilisation When converting tangible shares to dematerialised shares, the dematerialisation process applies. Shares are immobilised upon reception by ATHEXCSD, based on the mechanisms and systems it maintains for their secure custody.\nSEE ALSO\nCharges for Listed Issuers\nRegulations and Resolutions",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/initial-recording-of-securities/listed-issuers/charges",
+      "title": "Charges for Listed Issuers",
+      "context": "Charges for Listed Issuers Regulations and Resolutions"
+    },
+    {
+      "url": "https://athens.euronext.com/about/regulatory/group/athexcsd?title=&field_group_regula_target_id=1",
+      "title": "Regulations and Resolutions",
+      "context": "Charges for Listed Issuers Regulations and Resolutions"
+    }
+  ],
+  "local_html": "sources/pages/bc001e8018e1.html",
+  "sha256": "2e248533749352c94f2dde3276f6a4d755e985d05ed8a69c8784ea8c97c574c8"
+}

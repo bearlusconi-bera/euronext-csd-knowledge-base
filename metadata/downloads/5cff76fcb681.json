@@ -1,0 +1,14 @@
+{
+  "id": "5cff76fcb681",
+  "url": "https://www.euronext.com/sites/default/files/2022-05/4266%20-%20SE%20-%20Credit%20advice%20%28Appendix%205%29.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-05/4266%20-%20SE%20-%20Credit%20advice%20%28Appendix%205%29.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:30:46 GMT",
+  "local_path": "sources/documents/5cff76fcb681-SE-Credit-advice-Appendix-5.docx",
+  "sha256": "877c93463fcc57e600f993f789b64f27db582b2d207541330c908c325b73b06a",
+  "bytes": 75696,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

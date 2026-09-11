@@ -1,0 +1,31 @@
+{
+  "id": "7bb6fc64201a",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/Fee%20-%20Book%20January%202026%20-IE%20_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/Fee%20-%20Book%20January%202026%20-IE%20_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 03 Feb 2026 15:34:51 GMT",
+  "local_path": "sources/documents/7bb6fc64201a-Fee-Books-Issuers-Price-list-in-force-from-1-January-2026.pdf",
+  "sha256": "a0ef3de052b23280dd9aaae74f14d4f86fdc2f3147b22392da9f6d757f935ce3",
+  "bytes": 439496,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 28,
+  "text_path": "extracted/7bb6fc64201a.md",
+  "text_characters": 48836,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Beatriz Silva",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260202134055+00'00'",
+    "modDate": "D:20260202134055+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

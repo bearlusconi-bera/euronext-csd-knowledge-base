@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/user-committee",
+  "retrieved_at": "2026-09-11",
+  "id": "066bfa47a17c",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/user-committee",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:03 GMT",
+  "title": "User Committee",
+  "text": "User Committee\nThe User Committee is a forum for topics of significant relevance for VP's customers and the committee acts independently of the management of VP.\nThe User Committee is chaired by a chairman appointed by the Board of Directors among the customers and meets on a regular basis. Further constitution of the User Committee is the responsibility of the chairman as described in the Charter of the User Committee which you can download below.\nThe responsibility of the User Committee is to advice the Board of Directors on customer opinions and expectations and allows the customers to express their views on key issues, e.g. pricing structure and needs for specific services, to the Board of Directors. The User Committee has direct reporting rights to the Board of Directors.\nPDF\nCharter of the User Committee\nEnglish\nVersion\nEnglish\n30/09/2022\nCharter of the User Committee\n/sites/default/files/2026-04/Charter%20of%20the%20User%20Comittee.pdf\nMembers\nMembers of the User Committee\nAnders Tvilde, Manager in Sector & Infrastructure, Nordea (Chair)\nMorten Lisberg, Head of Treasury, Nykredit (Vicechair)\nAnders Kjove, Executive Vice President, Sydbank\nAnn Magnusson, Head of Investor Services, SEB\nGodefroid Lamboray, Executive Director, Network management, Clearstream Banking\nHenrik Møller Nielsen, Head of Back Office, Jyske Bank\nMartin Wagner Toftdahl, Head of Banking and Markets, Danmarks Nationalbank\nOla Mjørud, Securities Country Manager, Citi\nTom Casteleyn, Managing Director, EMEA Head of Custody, Securities Services, JP Morgan\nMarianne Sørensen, Head of Financial Markets Infrastructure and Regulation, Wholesale Banking Service, Danske Bank\nFiona McNally, Managing Director, Global Head of Network Management, The Bank of New York Mellon\nContacts\nAnne\nKaas Hammer\nHead of Euronext Securities LRGA Copenhagen and Oslo\n+45 5131 8582\nAKHammer@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2026-04/Charter%20of%20the%20User%20Comittee.pdf",
+      "title": "Charter of the User Committee",
+      "context": "PDF Charter of the User Committee English Version English 30/09/2022 Charter of the User Committee /sites/default/files/2026-04/Charter%20of%20the%20User%20Comittee.pdf"
+    }
+  ],
+  "local_html": "sources/pages/066bfa47a17c.html",
+  "sha256": "1511615036c33f65f4a48ef89fa0d5c3c5e91c5abe649628255eea32926fded1"
+}

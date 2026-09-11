@@ -1,0 +1,14 @@
+{
+  "id": "33349ac662d7",
+  "url": "https://www.euronext.com/sites/default/files/2025-11/24-11-2025_es-pto_nna-_client_test_handbook_v1.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-11/24-11-2025_es-pto_nna-_client_test_handbook_v1.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Mon, 24 Nov 2025 12:16:54 GMT",
+  "local_path": "sources/documents/33349ac662d7-Client-Test-Handbook.xlsx",
+  "sha256": "aad0725e2789da665a2d2e07917cd87130609a69db6d53e7c062148eca1dc864",
+  "bytes": 208309,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

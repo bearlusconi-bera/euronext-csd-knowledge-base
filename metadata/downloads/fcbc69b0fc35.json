@@ -1,0 +1,31 @@
+{
+  "id": "fcbc69b0fc35",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.01.consolidado.en_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.01.consolidado.en_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:36 GMT",
+  "local_path": "sources/documents/fcbc69b0fc35-INTERBOLSA-Regulation-1-2016.pdf",
+  "sha256": "c14808b47f9ef15c3b68b51622dd6f14e8dda6d61f6b1c25ad1ac8ff24e13c85",
+  "bytes": 367963,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 27,
+  "text_path": "extracted/fcbc69b0fc35.md",
+  "text_characters": 50590,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "REGULAMENTO N",
+    "author": "HTL",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 22 for Word",
+    "producer": "Adobe PDF Library 22.1.117",
+    "creationDate": "D:20220408162824+01'00'",
+    "modDate": "D:20220408162834+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

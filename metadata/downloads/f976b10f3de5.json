@@ -1,0 +1,31 @@
+{
+  "id": "f976b10f3de5",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_G504_30122024_Guidelines_for_Pricing_Services_Inheritance.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_G504_30122024_Guidelines_for_Pricing_Services_Inheritance.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 16 Apr 2026 08:28:55 GMT",
+  "local_path": "sources/documents/f976b10f3de5-G504.pdf",
+  "sha256": "f07f713d09cb3a211b9ce88ad53d7e2e6ad0e68fdbf4ec43d2cd7e3f0e996b85",
+  "bytes": 114880,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 4,
+  "text_path": "extracted/f976b10f3de5.md",
+  "text_characters": 4354,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Kapourani, Gianitsa",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ ΜΕ ΠΝΕΥΜΑΤΙΚΑ ΔΙΚΑΙΩΜΑΤΑ (PUBLIC IPRs)ΕΛΛΗΝΙΚΗ (GREEK)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260415105745+03'00'",
+    "modDate": "D:20260415105745+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

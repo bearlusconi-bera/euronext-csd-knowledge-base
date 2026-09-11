@@ -1,0 +1,31 @@
+{
+  "id": "044296790648",
+  "url": "https://www.euronext.com/en/media/13670/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/13670/download",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 04 Aug 2025 12:41:05 GMT",
+  "local_path": "sources/documents/044296790648-Euronext-Securities-Milan-CA-Climp-Guide.pdf",
+  "sha256": "4fb24482edadeb5b512c533065a63404a709424bfc0886684a9892069300a94b",
+  "bytes": 578164,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 10,
+  "text_path": "extracted/044296790648.md",
+  "text_characters": 9371,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Malak Ziny",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250804123626+02'00'",
+    "modDate": "D:20250804123626+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

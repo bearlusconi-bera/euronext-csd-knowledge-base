@@ -1,0 +1,31 @@
+{
+  "id": "0445be6be7bd",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/20260505_smms_service_description_es_v2.4.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/20260505_smms_service_description_es_v2.4.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 02 Jun 2026 08:11:56 GMT",
+  "local_path": "sources/documents/0445be6be7bd-Service-Description-Document-Securities-Management-V2-4.pdf",
+  "sha256": "7d5c7f2345f0c0740028678cdb6f1c21567705741ade21a43a1ee6311ceb0b36",
+  "bytes": 1212519,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 54,
+  "text_path": "extracted/0445be6be7bd.md",
+  "text_characters": 141024,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "YG",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260601172409+02'00'",
+    "modDate": "D:20260601172409+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "8101850db6b0",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4234%20-%20P_F037%20Mod%2022%20RFI%20ES%20%28Appendix%2010%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4234%20-%20P_F037%20Mod%2022%20RFI%20ES%20%28Appendix%2010%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/8101850db6b0-P-F037-Mod-22-RFI-ES-Appendix-10.pdf",
+  "sha256": "782d6e0086ed3b1c3615065477ccdabead55bc4e1d9a06676b2c64f985d8ef01",
+  "bytes": 359383,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/8101850db6b0.md",
+  "text_characters": 45543,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Portugal - P_F037_ES - Tax Refund form Mod. 22-RFI (Spanish)",
+    "author": "Tax Project Team",
+    "subject": "P_F037_ES\n",
+    "keywords": "",
+    "creator": "Adobe InDesign CS3 (5.0)",
+    "producer": "Adobe PDF Library 8.0",
+    "creationDate": "D:20090309195947+01'00'",
+    "modDate": "D:20090325095320+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

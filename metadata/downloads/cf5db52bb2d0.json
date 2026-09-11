@@ -1,0 +1,14 @@
+{
+  "id": "cf5db52bb2d0",
+  "url": "https://www.euronext.com/sites/default/files/2026-04/euronext_securities_-_client_test_set_for_tax_french_-_issuer_v02.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-04/euronext_securities_-_client_test_set_for_tax_french_-_issuer_v02.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Fri, 24 Apr 2026 14:33:10 GMT",
+  "local_path": "sources/documents/cf5db52bb2d0-Client-test-set-for-tax-French-issuer-v02-xlsx.xlsx",
+  "sha256": "a5bc1512f1ac8b49e3297d966332127df1211d72fdc20082086baaa475bd6531",
+  "bytes": 23519,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

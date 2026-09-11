@@ -1,0 +1,31 @@
+{
+  "id": "bc6282c260dc",
+  "url": "https://www.euronext.com/sites/default/files/2025-11/new%2020260101_ES-MIL%20Price%20List_Intermediaries_rev.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-11/new%2020260101_ES-MIL%20Price%20List_Intermediaries_rev.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 27 Nov 2025 18:15:28 GMT",
+  "local_path": "sources/documents/bc6282c260dc-Euronext-Securities-Milan-Price-List-Intermediaries-Effective-1-JAN-2026.pdf",
+  "sha256": "3f5ba611c228a0f9151249a58678f4d66c7ca00eed252fdb52b598b7b1e52e53",
+  "bytes": 1013270,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 44,
+  "text_path": "extracted/bc6282c260dc.md",
+  "text_characters": 69262,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 20260101_ES-MIL Price List_Intermediaries_rev.docx",
+    "author": "Luca Silano",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20251127171859+01'00'",
+    "modDate": "D:20251127171859+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

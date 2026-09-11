@@ -1,0 +1,31 @@
+{
+  "id": "611cfd18ab30",
+  "url": "https://www.euronext.com/sites/default/files/2024-10/Fee%20Books%20-%20Financial%20Intermediaries%20-%20Price%20list%20in%20force%20from%201%20January%202025.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-10/Fee%20Books%20-%20Financial%20Intermediaries%20-%20Price%20list%20in%20force%20from%201%20January%202025.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:34:07 GMT",
+  "local_path": "sources/documents/611cfd18ab30-Fee-Books-Financial-Intermediaries-Price-list-in-force-from-1-January-2025.pdf",
+  "sha256": "3a06278d202dcc268d8bfbba48cbd4f8dbef833f704a197481d7a2f0961976b9",
+  "bytes": 405730,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 34,
+  "text_path": "extracted/611cfd18ab30.md",
+  "text_characters": 51526,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Beatriz Silva",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 24 for Word",
+    "producer": "Adobe PDF Library 24.3.212",
+    "creationDate": "D:20241017111133+01'00'",
+    "modDate": "D:20241017111147+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "6e56691a4668",
+  "url": "https://www.euronext.com/sites/default/files/2025-09/20250902_euronext_securities_-_service_description_document_-_shid_clean_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-09/20250902_euronext_securities_-_service_description_document_-_shid_clean_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 02 Sep 2025 13:47:19 GMT",
+  "local_path": "sources/documents/6e56691a4668-Shareholder-Identification-Service-v-2.pdf",
+  "sha256": "08c0ac6b2347214737337a121fa09474a3e2f4616d0fbaeb6408377703a76e05",
+  "bytes": 428296,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 17,
+  "text_path": "extracted/6e56691a4668.md",
+  "text_characters": 30389,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250902103438+02'00'",
+    "modDate": "D:20250902103438+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

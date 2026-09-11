@@ -1,0 +1,33 @@
+{
+  "id": "cbd2d6e53cbb",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/esma70-708036281-7_final_report_on_csdr_guidelines_on_access_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/esma70-708036281-7_final_report_on_csdr_guidelines_on_access_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 23 Jan 2023 13:23:47 GMT",
+  "local_path": "sources/documents/cbd2d6e53cbb-final-report-including-the-guidelines.pdf",
+  "sha256": "7d02f4e7c4e9c16c02be1f43cc6d212e0ecbc749817a550948731888db9f6d8a",
+  "bytes": 352440,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 19,
+  "text_path": "extracted/cbd2d6e53cbb.md",
+  "text_characters": 31060,
+  "low_text_pages": [
+    2
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "Karol Lisovskij",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20170323132454+01'00'",
+    "modDate": "D:20170323132454+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

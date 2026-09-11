@@ -1,0 +1,38 @@
+{
+  "id": "3a2f2a65e59e",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/ES%20-%20Appendix%207%20-%20peticion_de_reducion_belgium.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/ES%20-%20Appendix%207%20-%20peticion_de_reducion_belgium.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:35 GMT",
+  "local_path": "sources/documents/3a2f2a65e59e-ES-Peticion-de-Reduccion-Belgium-Appendix-7.pdf",
+  "sha256": "9d5b88f883b4abe8b308451b8e30f04d00c140669cb87c8f1413c63e2e5f9414",
+  "bytes": 415617,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/3a2f2a65e59e.md",
+  "text_characters": 102,
+  "low_text_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Formulario red. Bélgica",
+    "author": "D. Gral. Tributos",
+    "subject": "",
+    "keywords": "",
+    "creator": "AXIS 7000 Network Document Server",
+    "producer": "AXIS 7000 Network Document Server",
+    "creationDate": "D:20050614175255Z",
+    "modDate": "D:20050615104928+02'00'",
+    "trapped": "",
+    "encryption": "Standard V1 R2 40-bit RC4"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "5003d229b144",
+  "url": "https://www.euronext.com/sites/default/files/2023-08/relatorioanual.2015.pt_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-08/relatorioanual.2015.pt_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:44 GMT",
+  "local_path": "sources/documents/5003d229b144-Relatorio-anual-de-2015.pdf",
+  "sha256": "0d102107e8033621452ff78d880c00eace90cd0c57d48e394df2fe98546b70ed",
+  "bytes": 3106471,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 117,
+  "text_path": "extracted/5003d229b144.md",
+  "text_characters": 320960,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Relatório Anual 2004",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2010",
+    "producer": "Microsoft® Word 2010",
+    "creationDate": "D:20160329095633+01'00'",
+    "modDate": "D:20160329095633+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

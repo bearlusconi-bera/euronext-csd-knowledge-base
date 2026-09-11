@@ -1,0 +1,10 @@
+{
+  "id": "6a958a5dd1b4",
+  "url": "https://www.bis.org/cpmi/publ/d106.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.bis.org/publications/principles-financial-market-infrastructures-disclosure-framework-and-assessment-methodology",
+  "content_type": "text/html; charset=utf-8",
+  "last_modified": "Fri, 11 Sep 2026 09:16:34 GMT",
+  "error": "Response was not a recognised document (possibly a media landing page)"
+}

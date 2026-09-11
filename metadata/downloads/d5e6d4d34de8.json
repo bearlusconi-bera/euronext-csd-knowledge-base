@@ -1,0 +1,33 @@
+{
+  "id": "d5e6d4d34de8",
+  "url": "https://athens.euronext.com/sites/default/files/2026-08/Register_Euronext_Securities_Athens_Presentation_04082026_Site.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-08/Register_Euronext_Securities_Athens_Presentation_04082026_Site.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 05 Aug 2026 13:53:56 GMT",
+  "local_path": "sources/documents/d5e6d4d34de8-Download-the-detailed-presentation-Available-only-in-Greek.pdf",
+  "sha256": "8248df1009b603d7a2b8af89fe1a0719d1d6ede69b2c988f4b684623eb678c75",
+  "bytes": 2128482,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 20,
+  "text_path": "extracted/d5e6d4d34de8.md",
+  "text_characters": 19425,
+  "low_text_pages": [
+    16
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "PowerPoint Presentation",
+    "author": "Sebastian MUNTEAN",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ ΜΕ ΠΝΕΥΜΑΤΙΚΑ ΔΙΚΑΙΩΜΑΤΑ (PUBLIC IPRs)ΕΛΛΗΝΙΚΗ (GREEK)",
+    "creator": "Microsoft® PowerPoint® for Microsoft 365",
+    "producer": "Microsoft® PowerPoint® for Microsoft 365",
+    "creationDate": "D:20260805165255+03'00'",
+    "modDate": "D:20260805165255+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

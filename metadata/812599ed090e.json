@@ -1,0 +1,55 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data",
+  "retrieved_at": "2026-09-11",
+  "id": "812599ed090e",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:11 GMT",
+  "title": "Statistics & Operational Data",
+  "text": "Statistics & Operational Data\nEuronext Securities Milan provides Clients with information supporting their day to day ordinary operations.\nData and statistics are available to monitor the efficiency of the CSD and it is also possible to download the main industry questionnaires used by financial institutions.\nContact our Sales Team for more information.\nExplore our data\nQuestionnaires\nSettlement Efficiency\nSettlement Outcomes\nT2S Collateral Eligible …\nEurostat\nIstat\nFrench Inflation\nCoupon Stripping\nContacts\nGiovanni\nCostantini\nSenior Relationship Manager\ngcostantini@euronext.com\nDonia\nRouigueb\nHead of CSD Sales\ndrouigueb@euronext.com\nMarco\nSartorello\nSenior Sales & Relationship Manager\nmsartorello@euronext.com\nEuronext\nSecurities Milan\nSales & Relationship Management team\nMtsalesteam@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/questionnaires",
+      "title": "Questionnaires",
+      "context": "Explore our data Questionnaires Settlement Efficiency Settlement Outcomes T2S Collateral Eligible … Eurostat Istat French Inflation Coupon Stripping"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/settlement-efficiency",
+      "title": "Settlement Efficiency",
+      "context": "Explore our data Questionnaires Settlement Efficiency Settlement Outcomes T2S Collateral Eligible … Eurostat Istat French Inflation Coupon Stripping"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/settlement-outcomes",
+      "title": "Settlement Outcomes",
+      "context": "Explore our data Questionnaires Settlement Efficiency Settlement Outcomes T2S Collateral Eligible … Eurostat Istat French Inflation Coupon Stripping"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/t2s-collateral-eligible-securities",
+      "title": "T2S Collateral Eligible …",
+      "context": "Explore our data Questionnaires Settlement Efficiency Settlement Outcomes T2S Collateral Eligible … Eurostat Istat French Inflation Coupon Stripping"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/eurostat",
+      "title": "Eurostat",
+      "context": "Explore our data Questionnaires Settlement Efficiency Settlement Outcomes T2S Collateral Eligible … Eurostat Istat French Inflation Coupon Stripping"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/istat",
+      "title": "Istat",
+      "context": "Explore our data Questionnaires Settlement Efficiency Settlement Outcomes T2S Collateral Eligible … Eurostat Istat French Inflation Coupon Stripping"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/french-inflation",
+      "title": "French Inflation",
+      "context": "Explore our data Questionnaires Settlement Efficiency Settlement Outcomes T2S Collateral Eligible … Eurostat Istat French Inflation Coupon Stripping"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/coupon-stripping",
+      "title": "Coupon Stripping",
+      "context": "Explore our data Questionnaires Settlement Efficiency Settlement Outcomes T2S Collateral Eligible … Eurostat Istat French Inflation Coupon Stripping"
+    }
+  ],
+  "local_html": "sources/pages/812599ed090e.html",
+  "sha256": "3222f5436a53f8e8a096dc0fd7d9cdb8610d327799456b6f788cf95c2a9eb754"
+}

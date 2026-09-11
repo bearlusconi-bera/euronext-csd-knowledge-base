@@ -1,0 +1,33 @@
+{
+  "id": "d3991663fa84",
+  "url": "https://www.esma.europa.eu/sites/default/files/2023-10/ESMA12-2121844265-3182_Report_on_the_DLT_Pilot_Regime_-_Study_on_the_extraction_of_transaction_data.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2023-10/ESMA12-2121844265-3182_Report_on_the_DLT_Pilot_Regime_-_Study_on_the_extraction_of_transaction_data.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 05 Oct 2023 07:49:01 GMT",
+  "local_path": "sources/documents/d3991663fa84-Study-on-extraction-of-transaction-data.pdf",
+  "sha256": "0775591d20af12d773d6081a775907d60c9c37292e7a59f9e7d6544d7852f3b0",
+  "bytes": 1797065,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 84,
+  "text_path": "extracted/d3991663fa84.md",
+  "text_characters": 195111,
+  "low_text_pages": [
+    4
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ESMA12-2121844265-3182 Report on the DLT Pilot Regime – Study on the extraction of transaction data",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20231005093209+02'00'",
+    "modDate": "D:20231005094020+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

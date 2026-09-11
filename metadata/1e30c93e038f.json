@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/communication-formats",
+  "retrieved_at": "2026-09-11",
+  "id": "1e30c93e038f",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/communication-formats",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:59 GMT",
+  "title": "Communication Formats",
+  "text": "Communication Formats\nWe offer a wide variety of secure and stable communication solutions.\nUsing Euronext Securities, you have several connectivity options to choose from, whether this is via ISO standards in ISO 15022 and ISO 20022, or our proprietary formats with direct system-to-system communication. We are continuously developing solutions in the latest international ISO standard, with the aim of full implementation of all message types relevant to serving the markets in demand.\nFor new customers, we facilitate the process of connecting to Euronext Securities, while we help existing customers to change from one format to another at their own pace.\nDifferent needs require different user interfaces. We offer two types – access via CICS host terminal or access via an online platform, which is a plug-and-play solution that does not require further development. Most message types can be generated and looked up via the user interface.\nWe develop and maintain customized solutions in order to meet individual needs. We also have the specialist resources, experience and expertise to provide the required infrastructure for secure and stable SWIFT communication.\nContacts\nThere are no results found.",
+  "links": [],
+  "local_html": "sources/pages/1e30c93e038f.html",
+  "sha256": "86b4b0ee3657ff55fcc2281e30db7e8e041a32d4349757706af4461a08a458c5"
+}

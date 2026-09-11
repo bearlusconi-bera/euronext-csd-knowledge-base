@@ -1,0 +1,31 @@
+{
+  "id": "1c4625924ea5",
+  "url": "https://www.euronext.com/sites/default/files/2024-06/Circular%20da%20INTERBOLSA1_2016.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-06/Circular%20da%20INTERBOLSA1_2016.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:42 GMT",
+  "local_path": "sources/documents/1c4625924ea5-Circular-da-INTERBOLSA-n-o-1-2016.pdf",
+  "sha256": "c7ab613e701e82a2cfb1ae4a10dd2898fc0cb0970f893d263a4147af557045ae",
+  "bytes": 283395,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 24,
+  "text_path": "extracted/1c4625924ea5.md",
+  "text_characters": 52462,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Capítulo II - Dividendos, juros, rendimentos equiparados e amortização",
+    "author": "HTL",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 24 for Word",
+    "producer": "Adobe PDF Library 24.1.149",
+    "creationDate": "D:20240404152307+01'00'",
+    "modDate": "D:20240404152314+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

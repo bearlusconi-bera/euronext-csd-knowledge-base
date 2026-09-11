@@ -1,0 +1,14 @@
+{
+  "id": "b7de1032c6e9",
+  "url": "https://www.euronext.com/sites/default/files/2022-05/4255%20-%20Slovak%20Republic%20-%20Fiscal%20operational%20guide.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-05/4255%20-%20Slovak%20Republic%20-%20Fiscal%20operational%20guide.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:30:46 GMT",
+  "local_path": "sources/documents/b7de1032c6e9-Slovak-Republic-Fiscal-Operational-Guide.docx",
+  "sha256": "878d99b363d1a357471a55bc0021189550782949da3e4b1e008fd5a95a7795fd",
+  "bytes": 138411,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

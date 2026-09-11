@@ -1,0 +1,14 @@
+{
+  "id": "469997b38cf6",
+  "url": "https://www.euronext.com/sites/default/files/2022-05/4267%20-%20SE%20-%20DTA%20Countries%20%28Appendix%20A%29.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-05/4267%20-%20SE%20-%20DTA%20Countries%20%28Appendix%20A%29.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:30:46 GMT",
+  "local_path": "sources/documents/469997b38cf6-SE-DTA-Countries-Appendix-A.docx",
+  "sha256": "2ec473f1879b0a2b595fd00e87252f5f2185cb6990be5529755b5d4d9569cd2a",
+  "bytes": 82465,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

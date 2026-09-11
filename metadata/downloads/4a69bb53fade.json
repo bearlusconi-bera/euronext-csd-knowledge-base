@@ -1,0 +1,31 @@
+{
+  "id": "4a69bb53fade",
+  "url": "https://www.euronext.com/sites/default/files/2024-05/Certification%20for%20Exchange.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-05/Certification%20for%20Exchange.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:37 GMT",
+  "local_path": "sources/documents/4a69bb53fade-Certification-for-Exchange.pdf",
+  "sha256": "11f7b174ce0b2ce93e977a9eba2be88eccddf53f7948bb1c2f0df9981bd04908",
+  "bytes": 109876,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/4a69bb53fade.md",
+  "text_characters": 1951,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4282 - Certification for Exchange DECISO DI NON PUBBLICARE PERCHE NON PIu UTILIZZATO",
+    "author": "GArdizzon",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word per Microsoft 365",
+    "producer": "Microsoft® Word per Microsoft 365",
+    "creationDate": "D:20240517093425+02'00'",
+    "modDate": "D:20240517093425+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

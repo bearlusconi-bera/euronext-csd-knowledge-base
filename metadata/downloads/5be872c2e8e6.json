@@ -1,0 +1,31 @@
+{
+  "id": "5be872c2e8e6",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/sdd_v.1.3_-_client_master_data_account_management.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/sdd_v.1.3_-_client_master_data_account_management.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 30 Jun 2026 11:40:29 GMT",
+  "local_path": "sources/documents/5be872c2e8e6-Client-Master-Data-Account-Management-sdd-v-1-3-pdf.pdf",
+  "sha256": "906cf846757b2de140bbc615872f44b58f748167b43a8d6b3b165ed4b35f6e9f",
+  "bytes": 1524560,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 86,
+  "text_path": "extracted/5be872c2e8e6.md",
+  "text_characters": 201748,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Marco Mussini",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260630091249+02'00'",
+    "modDate": "D:20260630091249+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

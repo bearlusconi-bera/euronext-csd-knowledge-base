@@ -1,0 +1,31 @@
+{
+  "id": "71233aed41e7",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/settlement_service_description_document_v1.6.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/settlement_service_description_document_v1.6.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 30 Jun 2026 14:46:56 GMT",
+  "local_path": "sources/documents/71233aed41e7-Settlement-Services-Service-Description-Document-v1-6-pdf.pdf",
+  "sha256": "d88abb7859947ddec4655792f2ff9d4bb18009d4aa993c4ad6328422bb24e37b",
+  "bytes": 3402384,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 110,
+  "text_path": "extracted/71233aed41e7.md",
+  "text_characters": 224648,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Nicolaj Albrechtsen",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word til Microsoft 365",
+    "producer": "Microsoft® Word til Microsoft 365",
+    "creationDate": "D:20260630145842+02'00'",
+    "modDate": "D:20260630145842+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

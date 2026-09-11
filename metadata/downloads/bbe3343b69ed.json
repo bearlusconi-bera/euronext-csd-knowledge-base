@@ -1,0 +1,31 @@
+{
+  "id": "bbe3343b69ed",
+  "url": "https://athens.euronext.com/sites/default/files/2026-01/RESOLUTION_19_RULEBOOK_AMENDMENT_COMMITTEE_ATHEXCSD_384_20.01.2026_FORCE_28.01.2026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-01/RESOLUTION_19_RULEBOOK_AMENDMENT_COMMITTEE_ATHEXCSD_384_20.01.2026_FORCE_28.01.2026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 28 Jan 2026 11:04:30 GMT",
+  "local_path": "sources/documents/bbe3343b69ed-ATHEXCSD-Resolution-19.pdf",
+  "sha256": "8ca5887d260a6ae9fe12818c79e885d337ff4955b9de430d38d0512f0a128f96",
+  "bytes": 223865,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 5,
+  "text_path": "extracted/bbe3343b69ed.md",
+  "text_characters": 11731,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Papageorgiou, Marialena",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ ΜΕ ΠΝΕΥΜΑΤΙΚΑ ΔΙΚΑΙΩΜΑΤΑ (PUBLIC IPRs)ΕΛΛΗΝΙΚΗ (GREEK)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260128124018+02'00'",
+    "modDate": "D:20260128124018+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

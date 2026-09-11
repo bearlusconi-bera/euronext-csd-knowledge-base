@@ -1,0 +1,6 @@
+{
+  "id": "1f516b05fc9d",
+  "url": "https://www.euronext.com/sites/default/files/2025-10/Euronext%20Securities%20_%20Tax%20System-User%20Guide.pdf",
+  "retrieved_at": "2026-09-11",
+  "error": "HTTPSConnectionPool(host='www.euronext.com', port=443): Read timed out."
+}

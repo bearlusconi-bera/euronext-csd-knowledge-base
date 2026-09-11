@@ -1,0 +1,31 @@
+{
+  "id": "8f7c62a2fed6",
+  "url": "https://www.euronext.com/media/7161/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/7161/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:09 GMT",
+  "local_path": "sources/documents/8f7c62a2fed6-Articles-of-Association.pdf",
+  "sha256": "2d09caf485e82170c486f52497658fbd42db0c48607c21feea95e47c68b1f6a8",
+  "bytes": 124783,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/8f7c62a2fed6.md",
+  "text_characters": 7043,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Verdipapirsentralen ASA vedtekter / Articles of Association CSDR tilpasset  - foreslått april 2020",
+    "author": "VSASAHA",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20220317174034+01'00'",
+    "modDate": "D:20220317174034+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

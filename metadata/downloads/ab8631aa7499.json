@@ -1,0 +1,36 @@
+{
+  "id": "ab8631aa7499",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/managementreport.quarter.2022.1.en__0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/managementreport.quarter.2022.1.en__0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:34 GMT",
+  "local_path": "sources/documents/ab8631aa7499-Management-Report-1st-Quarter-2022.pdf",
+  "sha256": "b89e9618f6f2ea11d6cabcc3adbf1ca5edb374ac4917ee1e64c52726f3dd9b01",
+  "bytes": 697413,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 39,
+  "text_path": "extracted/ab8631aa7499.md",
+  "text_characters": 58879,
+  "low_text_pages": [
+    10,
+    27,
+    33,
+    39
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 21 for Word",
+    "producer": "Adobe PDF Library 21.11.71",
+    "creationDate": "D:20220630155128+01'00'",
+    "modDate": "D:20220630155153+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

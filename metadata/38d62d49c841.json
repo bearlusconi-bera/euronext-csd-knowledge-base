@@ -1,0 +1,30 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/about-us/handling-complaints",
+  "retrieved_at": "2026-09-11",
+  "id": "38d62d49c841",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/about-us/handling-complaints",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:27 GMT",
+  "title": "Handling of complaints",
+  "text": "Handling of complaints\nAny entity with a legal interest in filing a complaint may file a formal complaint about matters associated with the activities of Euronext Securities Porto.\nEuronext Securities have established transparent rules and procedures for the handling of complaints.\nFor further information please visit Euronext Securities website.\nFor clarification of questions:\nES-PTO_complaints@euronext.com\nEuronext Securities Porto Complaints Policy\nPDF\nEuronext Securities Porto - Handling of Complaints\nEnglish\nVersion\nEnglish\n17/05/2024\n/sites/default/files/2024-05/euronext-securities-porto-handling-of-complaints.pdf\nEuronext Securities Porto - Handling of Complaints",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/about/governance/complaints",
+      "title": "Euronext Securities website",
+      "context": "Any entity with a legal interest in filing a complaint may file a formal complaint about matters associated with the activities of Euronext Securities Porto. Euronext Securities have established transparent rules and procedures for the handling of complaints. For further information please visit Euronext Securities website."
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/about/governance/complaints",
+      "title": "",
+      "context": "Any entity with a legal interest in filing a complaint may file a formal complaint about matters associated with the activities of Euronext Securities Porto. Euronext Securities have established transparent rules and procedures for the handling of complaints. For further information please visit Euronext Securities website."
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2024-05/euronext-securities-porto-handling-of-complaints.pdf",
+      "title": "Euronext Securities Porto - Handling of Complaints",
+      "context": "PDF Euronext Securities Porto - Handling of Complaints English Version English 17/05/2024 /sites/default/files/2024-05/euronext-securities-porto-handling-of-complaints.pdf Euronext Securities Porto - Handling of Complaints"
+    }
+  ],
+  "local_html": "sources/pages/38d62d49c841.html",
+  "sha256": "76c12816aee3492f58520e0047db13d50811030715a6ef331ce60d467aba9282"
+}

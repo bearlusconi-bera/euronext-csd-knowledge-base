@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/safekeeping-and-asset-servicing/investor-portal",
+  "retrieved_at": "2026-09-11",
+  "id": "7845f5b36f75",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/safekeeping-and-asset-servicing/investor-portal",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:54:38 GMT",
+  "title": "Investor Portal",
+  "text": "Investor Portal\nFull overview of your VPS accounts and holdings\nVPS Investor Portal is the portal accessible for the end investors. The portal gives the investor overview of all your customers Euronext Securities Oslo-registered accounts, transactions and holdings. Information regarding corporate actions and the possibility to execute shareholder rights can be done via the portal.\nVPS Investor Portal is distributed via most Norwegian banks, fund managers and brokers.\nContacts\nJulie Marie\nStrandskogen\nSenior Product Manager,\nCustody\njmstrandskogen@euronext.com",
+  "links": [],
+  "local_html": "sources/pages/7845f5b36f75.html",
+  "sha256": "c56cceb2559b20c9256cfb46693fa751da49520ee11b38155fc39bce1dc54957"
+}

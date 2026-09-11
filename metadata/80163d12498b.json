@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/about/governance/complaints",
+  "retrieved_at": "2026-09-11",
+  "id": "80163d12498b",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/about/governance/complaints",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:57 GMT",
+  "title": "Complaints",
+  "text": "Complaints\nAny entity with a legal interest in filing a complaint may file a formal complaint about matters associated with the activities of Euronext Securities. Euronext Securities have established transparent rules and procedures for the handling of complaints.\nCustomer complaints\nCustomers of Euronext Securities such as a bank, issuer, asset manager, or financial institution, please direct complaints to your Central Securities Depository (CSD) using the form below.\nNon-customer complaints\nPrivate persons or companies that are not direct customers of Euronext Securities are requested to appeal through their bank or the company that they have a commitment with and who have a direct customer relationship with Euronext Securities.\nFile a complaint\nPlease file your complaint below, make sure you address it to the correct CSD.\nAll complaints must;\nbe in writing using the form below\ncomply with local regulations\nset out, as far as possible, details of the conduct, behaviour or other actions complained of, date and place when these occurred, the names of the person involved, the outcome required, and any other relevant details\nbe filed in a timely manner, no later than three months after the conduct, behaviour or other actions complained of\ncontain the full name and address of the Complainant and, wherever possible the details of a contact telephone number and email address.\nIn submitting a complaint in accordance with these procedures the Complainant may submit further documentation and material which may be relevant. We may ask you to provide more information to support your complaint.\nUpon receipt of a written complaint pursuant to these procedures, Euronext Securities will acknowledge the receipt of the complaint. After receipt of a complaint Euronext Securities will conduct an internal investigation. At the end of this investigation, Euronext Securities will provide an answer to the Complainant.\nComplaint form\nYou must have JavaScript enabled to use this form.\nPlease fill in the form below to file your complaint.\nDepending on local specificities a CSD may ask you to provide further details.\nCSD\nMy complaint concerns the following CSD:\nEuronext Securities Copenhagen\nEuronext Securities Milan\nEuronext Securities Oslo\nEuronext Securities Porto\nYour details\nFirst Name\nLast Name\nEmail\nPhone\nCompany\nAddress\nPostal code\nCity\nCountry\nCountry\n- None -DenmarkItalyNorwayPortugalOther, please specify\nEnter other…\nClient number\nComplaint\nComplaint details\nPlease describe your complaint in detail\nDate\nPlease indicate the date at which the reported issue occured\nAttachments\nPlease upload related files if necessary\nMaximum 3 files.200 MB limit.Allowed types: pdf, doc, docx, ppt, pptx, xls, xlsx.\nPrivacy\nThe Euronext Privacy Statement is applicable to the storage and processing of this infomation.\nLeave this field blank",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/privacy-statement",
+      "title": "Privacy Statement",
+      "context": "The Euronext Privacy Statement is applicable to the storage and processing of this infomation."
+    }
+  ],
+  "local_html": "sources/pages/80163d12498b.html",
+  "sha256": "df42873748c72645a0d2a838ec02c7094d8e1b40cdafca2d87fdaa02eabf004f"
+}

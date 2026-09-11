@@ -1,0 +1,31 @@
+{
+  "id": "99616f8c75b2",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_ΑΙΤ012_ΑΙΤΗΣΗ_ΑΝΑΚΛΗΣΗΣ_ΔΕΣΜΕΥΣΗΣ_ΑΞΙΩΝ_25012011.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_%CE%91%CE%99%CE%A4012_%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%97_%CE%91%CE%9D%CE%91%CE%9A%CE%9B%CE%97%CE%A3%CE%97%CE%A3_%CE%94%CE%95%CE%A3%CE%9C%CE%95%CE%A5%CE%A3%CE%97%CE%A3_%CE%91%CE%9E%CE%99%CE%A9%CE%9D_25012011.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 16 Apr 2026 08:39:38 GMT",
+  "local_path": "sources/documents/99616f8c75b2-AIT012.pdf",
+  "sha256": "8c99ae8b5d9ade531537286627f27405722158a95ad0b5fcdfb332c4bbb132dd",
+  "bytes": 91839,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/99616f8c75b2.md",
+  "text_characters": 1568,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - AIT012_25012011.doc",
+    "author": "P.Kyriakopoulou",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ (PUBLIC)ΕΛΛΗΝΙΚΗ (GREEK)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260415121532+03'00'",
+    "modDate": "D:20260415121532+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

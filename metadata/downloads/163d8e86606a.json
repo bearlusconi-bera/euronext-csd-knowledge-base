@@ -1,0 +1,33 @@
+{
+  "id": "163d8e86606a",
+  "url": "https://www.euronext.com/sites/default/files/2024-06/es-pto_management_report-_3rd_quarter_2023.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-06/es-pto_management_report-_3rd_quarter_2023.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:46 GMT",
+  "local_path": "sources/documents/163d8e86606a-Euronext-Securities-Porto-Management-Report-3rd-Quarter-2023-pdf.pdf",
+  "sha256": "8385d9f73c932df157752ee36ae7dc96b93f4c548ffac136809e4c88c44a087d",
+  "bytes": 821811,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 45,
+  "text_path": "extracted/163d8e86606a.md",
+  "text_characters": 87683,
+  "low_text_pages": [
+    12
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Microsoft Word - ES-PTO 3RD QUARTER REPORT 2023 - EN -VF_approved",
+    "author": "HLopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 23.0 (Windows)",
+    "creationDate": "D:20231206141539Z",
+    "modDate": "D:20231206141539Z",
+    "trapped": "",
+    "encryption": null
+  }
+}

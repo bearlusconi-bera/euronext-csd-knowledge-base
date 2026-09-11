@@ -1,0 +1,14 @@
+{
+  "id": "e56abea016a2",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP011_NOTIFICATION_OF_CONSTITUTION_OF_USEFRUCT_ON_DEMATERIALIZED_SECURITIES_20240412.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP011_NOTIFICATION_OF_CONSTITUTION_OF_USEFRUCT_ON_DEMATERIALIZED_SECURITIES_20240412.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Thu, 16 Apr 2026 12:54:55 GMT",
+  "local_path": "sources/documents/e56abea016a2-APP011.docx",
+  "sha256": "44927752350f3c0a0f6115158057c67b7ea9955cca662f48cb7fbd4ef6f20822",
+  "bytes": 99350,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

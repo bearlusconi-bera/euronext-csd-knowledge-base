@@ -1,0 +1,14 @@
+{
+  "id": "31573d071b2d",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/Euronext%20Securities_NNA-%20Client%20Test%20Handbook_Wave1.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/Euronext%20Securities_NNA-%20Client%20Test%20Handbook_Wave1.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Mon, 02 Feb 2026 07:35:05 GMT",
+  "local_path": "sources/documents/31573d071b2d-NNA-Client-Test-Handbook-Wave-1.xlsx",
+  "sha256": "5ef89c9a124d26cf942d6bb8882a324a9a19f6b9c9eff8a34e4429e7cb42a122",
+  "bytes": 337251,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "b600e0953658",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4431%20-%20NL%20-%20ES_MIL552%20%28Appendix%201%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4431%20-%20NL%20-%20ES_MIL552%20%28Appendix%201%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:41 GMT",
+  "local_path": "sources/documents/b600e0953658-NL-MT552-Appendix-1.pdf",
+  "sha256": "80f027fca974c765c21ba6698332c6d1698a66725342c59fcad6ca524c88e02b",
+  "bytes": 112615,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/b600e0953658.md",
+  "text_characters": 913,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4431 - NL - MT552 (Appendix 1)",
+    "author": "LPacini",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220411181154+02'00'",
+    "modDate": "D:20220411181154+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "0c9085a8f6ff",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/gap_analysis_v1.3_-_client_master_data_account_management_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/gap_analysis_v1.3_-_client_master_data_account_management_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 30 Jun 2026 14:05:41 GMT",
+  "local_path": "sources/documents/0c9085a8f6ff-Client-Master-Data-Account-Management-Gap-Analysis-v1-3-pdf.pdf",
+  "sha256": "9554a4690a7f76a95f3ac90169b048106d9115f823434b08cd21eb3a4b0a3989",
+  "bytes": 935415,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 39,
+  "text_path": "extracted/0c9085a8f6ff.md",
+  "text_characters": 258903,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Belinda Cavanna",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260630152129+02'00'",
+    "modDate": "D:20260630152129+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "0c3e566d7071",
+  "url": "https://www.euronext.com/sites/default/files/2025-09/euronext_securities_-_ptcs_user_guide_-_sept._2025.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-09/euronext_securities_-_ptcs_user_guide_-_sept._2025.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 30 Sep 2025 15:38:28 GMT",
+  "local_path": "sources/documents/0c3e566d7071-Post-Trade-Confirmation-System-User-Guide.pdf",
+  "sha256": "bbbbc316839cb35ab205f91852a9d3369e3ba8ba836f915e9acfd2097568d30f",
+  "bytes": 4178873,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 44,
+  "text_path": "extracted/0c3e566d7071.md",
+  "text_characters": 34345,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Claire Lin",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250930173153+02'00'",
+    "modDate": "D:20250930173153+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen",
+  "retrieved_at": "2026-09-11",
+  "id": "35a6bfe50609",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:52:06 GMT",
+  "title": "Euronext Securities Copenhagen",
+  "text": "Euronext Securities Copenhagen\nAll content and information from vp.dk, has migrated one-to-one to this website.\nLogin to Customer Center\nWho We Are\nEuronext Securities Copenhagen is part of the network of Euronext CSDs, channeling investments into local economies and supporting European capital markets.\nEuronext Securities offers a safe and efficient market infrastructure to support the business requirements of investors as well as competitive and tailored solutions to help issuers meet their funding needs and reach a wide base of local and international investors.\nEuronext Securities covers all stages of the value chain, from pre-settlement, settlement, custody to a complete range of asset services.\nHow may we assist you?\nContact Us\nCurrent AGM's\nPrivate Investors\nFor Press and Media\nLogin to Customer Center\nEr du privat investor?\nHar du spørgsmål til dine værdipapirer i depot hos VP Securities, skal du altid kontakte dit pengeinstitut.\nVP Securities kan desværre ikke hjælpe ved specifikke forespørgsler. Vi beklager ulejligheden.\nAre you a private investor?\nIf you have any questions about your securities in custody at VP Securities, you should always\ncontact your bank.\nUnfortunately, VP Securities cannot not help with specific inquiries. We apologise for any\ninconvenience.\nThe leading CSD network in Europe\ndownload our brochure\nClick here to download\nBecome a part of Euronext Securities Copenhagen\nInvesting in People\nSee the list of vacancies\nEuronext Securities News\nbrowse through Eurnoext securities latest news\nClick here for news\nContact Us\nContact\nEuronext Securities Copenhagen\nNicolai Eigtveds Gade 8\nDK-1402 Copenhagen\nLegal name: VP Securities A/S\nT: +45 4358 8888\nE: vp_postkasse@euronext.com\nCVR: 21599336",
+  "links": [
+    {
+      "url": "https://cc.vp.dk",
+      "title": "Login to Customer Center",
+      "context": "How may we assist you? Contact Us Current AGM's Private Investors For Press and Media Login to Customer Center"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen/who-we-are/contact-us",
+      "title": "Contact Us",
+      "context": "How may we assist you? Contact Us Current AGM's Private Investors For Press and Media Login to Customer Center"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen/investor-services/current-agms",
+      "title": "Current AGM's",
+      "context": "How may we assist you? Contact Us Current AGM's Private Investors For Press and Media Login to Customer Center"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen/who-we-are/private-investors",
+      "title": "Private Investors",
+      "context": "How may we assist you? Contact Us Current AGM's Private Investors For Press and Media Login to Customer Center"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen/news-insights/imagebank-press-contact",
+      "title": "For Press and Media",
+      "context": "How may we assist you? Contact Us Current AGM's Private Investors For Press and Media Login to Customer Center"
+    },
+    {
+      "url": "https://www.euronext.com/en/media/6217/download",
+      "title": "Click here to download",
+      "context": "The leading CSD network in Europe download our brochure Click here to download Become a part of Euronext Securities Copenhagen Investing in People See the list of vacancies Euronext Securities News browse through Eurnoext securities latest news Click here for news"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/career/available-jobs",
+      "title": "See the list of vacancies",
+      "context": "The leading CSD network in Europe download our brochure Click here to download Become a part of Euronext Securities Copenhagen Investing in People See the list of vacancies Euronext Securities News browse through Eurnoext securities latest news Click here for news"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/about/all-euronext-securities-news",
+      "title": "Click here for news",
+      "context": "The leading CSD network in Europe download our brochure Click here to download Become a part of Euronext Securities Copenhagen Investing in People See the list of vacancies Euronext Securities News browse through Eurnoext securities latest news Click here for news"
+    }
+  ],
+  "local_html": "sources/pages/35a6bfe50609.html",
+  "sha256": "c6937550c34759d7ff8623cfbecfbc54b6240b53fc7619101402cbee82798a3a"
+}

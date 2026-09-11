@@ -1,0 +1,31 @@
+{
+  "id": "f9fa99e9ee1b",
+  "url": "https://www.euronext.com/en/media/9274/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/9274/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:21 GMT",
+  "local_path": "sources/documents/f9fa99e9ee1b-Commission-Implementing-Regulation-EU-2017-393.pdf",
+  "sha256": "8575c7bb84de132804c1139ef0b25dc84d0b7bd00074aa362c1c8ebc21ad029a",
+  "bytes": 479472,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 29,
+  "text_path": "extracted/f9fa99e9ee1b.md",
+  "text_characters": 120616,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "COMMISSION  IMPLEMENTING  REGULATION  (EU)  2017/  393  -  of  11  November  2016  -  laying  down  implementing  technical  standards  with  regard  to  the  templates  and  procedures  for  the  reporting  and  transmission  of  information  on  internalised  settlements  in  accordance  with  Regulation  (EU)  No 909  /  2014  of  the  European  Parliament  and  of  the  Council",
+    "author": "Publications Office",
+    "subject": "",
+    "keywords": "",
+    "creator": "Arbortext Advanced Print Publisher 11.0.3108/W Unicode-x64",
+    "producer": "PDFlib+PDI 8.0.5p2 (C++/Win64)",
+    "creationDate": "D:20170307203531+01'00'",
+    "modDate": "D:20170308170701+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

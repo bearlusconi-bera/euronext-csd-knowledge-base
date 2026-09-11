@@ -1,0 +1,40 @@
+{
+  "id": "8cb857920c4e",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/ES%20-%20Appendix%2014%20-%20peticion_de_reducion_uk_and_north-ireland.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/ES%20-%20Appendix%2014%20-%20peticion_de_reducion_uk_and_north-ireland.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:35 GMT",
+  "local_path": "sources/documents/8cb857920c4e-ES-Peticion-de-Reduccion-UK-Appendix-14.pdf",
+  "sha256": "677672470e58f652aafe4efc958f06d701af695cb809807bd364e31604a9e083",
+  "bytes": 424485,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/8cb857920c4e.md",
+  "text_characters": 136,
+  "low_text_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Formulario red. R. Unido",
+    "author": "D. Gral. Tributos",
+    "subject": "",
+    "keywords": "",
+    "creator": "AXIS 7000 Network Document Server",
+    "producer": "AXIS 7000 Network Document Server",
+    "creationDate": "D:20050614172518Z",
+    "modDate": "D:20050615110809+02'00'",
+    "trapped": "",
+    "encryption": "Standard V1 R2 40-bit RC4"
+  }
+}

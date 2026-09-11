@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/our-clients",
+  "retrieved_at": "2026-09-11",
+  "id": "9f420283d6a9",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/our-clients",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:16 GMT",
+  "title": "Our Clients",
+  "text": "Our Clients\nEuronext Securities Porto provides a wide range of services to Issuers with securities registered in our centralised system and to Financial Intermediaries affiliated with our managed systems.\nEuronext Securities Porto also provides services to other entities that, in accordance with the current legislation and regulations, can acquire Participant status in our systems.\nServices for FINANCIAL INTERMEDIARIES AND OTHER ENTITIES\nServices for ISSUERS\nLearn more\nIssuers\nParticipants - Affiliated\nHow to become a Member",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/media/9054/download",
+      "title": "Services for FINANCIAL INTERMEDIARIES AND OTHER ENTITIES",
+      "context": "Euronext Securities Porto provides a wide range of services to Issuers with securities registered in our centralised system and to Financial Intermediaries affiliated with our managed systems. Euronext Securities Porto also provides services to other entities that, in accordance with the current legislation and regulations, can acquire Participant status in our systems. Services for FINANCIAL INTERMEDIARIES AND OTHER ENTITIES Services for ISSUERS"
+    },
+    {
+      "url": "https://www.euronext.com/en/media/9055/download",
+      "title": "Services for ISSUERS",
+      "context": "Euronext Securities Porto provides a wide range of services to Issuers with securities registered in our centralised system and to Financial Intermediaries affiliated with our managed systems. Euronext Securities Porto also provides services to other entities that, in accordance with the current legislation and regulations, can acquire Participant status in our systems. Services for FINANCIAL INTERMEDIARIES AND OTHER ENTITIES Services for ISSUERS"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/our-clients/list-issuers",
+      "title": "Issuers",
+      "context": "Learn more Issuers Participants - Affiliated How to become a Member"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/porto/our-clients/list-participants",
+      "title": "Participants - Affiliated",
+      "context": "Learn more Issuers Participants - Affiliated How to become a Member"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/porto/our-clients/how-become-member",
+      "title": "How to become a Member",
+      "context": "Learn more Issuers Participants - Affiliated How to become a Member"
+    }
+  ],
+  "local_html": "sources/pages/9f420283d6a9.html",
+  "sha256": "7c80427a899558af148bd7ba6abd4be7e7403727cc3c10b2010816daf02c7ba5"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "0990388ff46b",
+  "url": "https://www.euronext.com/sites/default/files/2024-02/202203_DPN_CLI%20excel-layouts-EN.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-02/202203_DPN_CLI%20excel-layouts-EN.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Fri, 31 Jan 2025 13:33:18 GMT",
+  "local_path": "sources/documents/0990388ff46b-DPN-CLI-file-EN.xlsx",
+  "sha256": "71578eaa650e04397849a5068afbd0415bf67717bc9a1d31bb0c64313da22b92",
+  "bytes": 26431,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

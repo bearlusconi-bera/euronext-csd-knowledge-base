@@ -1,0 +1,14 @@
+{
+  "id": "80076c62fcba",
+  "url": "https://www.athexgroup.gr/documents/10180/2454257/GRDECISION18.zip/8d609aa9-14eb-41a6-a70a-abea06404a5f",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/documents/10180/2454257/GRDECISION18.zip/8d609aa9-14eb-41a6-a70a-abea06404a5f",
+  "content_type": "application/x-zip-compressed",
+  "last_modified": "Tue, 29 Jun 2021 14:49:02 GMT",
+  "local_path": "sources/documents/80076c62fcba-View-previous-versions.zip",
+  "sha256": "4e0ceab8084c63a74f6e15932c76634b9d45581be3bda920f4b6224253292e46",
+  "bytes": 2002663,
+  "file_type": "zip",
+  "review_status": "archived-not-substantively-reviewed"
+}

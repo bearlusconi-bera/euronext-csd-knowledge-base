@@ -1,0 +1,31 @@
+{
+  "id": "93cdb38acd11",
+  "url": "https://www.euronext.com/media/4353/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/4353/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:20 GMT",
+  "local_path": "sources/documents/93cdb38acd11-FAQ-T2S-Partial-Release-CR-653.pdf",
+  "sha256": "9285cdbd380c7048fb275796153567159bea1a3262a1e9fca3c15d15a834fb51",
+  "bytes": 407850,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/93cdb38acd11.md",
+  "text_characters": 9331,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Chemi, Viola",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210428111419+02'00'",
+    "modDate": "D:20230717123224+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

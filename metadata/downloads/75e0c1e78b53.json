@@ -1,0 +1,31 @@
+{
+  "id": "75e0c1e78b53",
+  "url": "https://www.euronext.com/sites/default/files/2023-09/RelatorioTrimestral.2020_1.PT_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-09/RelatorioTrimestral.2020_1.PT_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:49 GMT",
+  "local_path": "sources/documents/75e0c1e78b53-Relatorio-1o-trimestre-de-2020.pdf",
+  "sha256": "468e1ff77a94ca6c9062dc5240bcd78068a77447e5f5ddc142de4455112ff57b",
+  "bytes": 660462,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 32,
+  "text_path": "extracted/75e0c1e78b53.md",
+  "text_characters": 79510,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "steve",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word for Office 365",
+    "producer": "Microsoft® Word for Office 365",
+    "creationDate": "D:20200528111422+01'00'",
+    "modDate": "D:20200528111422+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

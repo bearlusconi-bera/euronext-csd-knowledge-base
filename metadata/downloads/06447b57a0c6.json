@@ -1,0 +1,31 @@
+{
+  "id": "06447b57a0c6",
+  "url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005635583.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005635583.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 22 Jul 2025 14:31:28 GMT",
+  "local_path": "sources/documents/06447b57a0c6-Piano-stripping-IT0005635583.pdf",
+  "sha256": "1dd6a4772a65202108df56e5bf207088bf69214898ddc2e7095c3551f88f0dcc",
+  "bytes": 39709,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/06447b57a0c6.md",
+  "text_characters": 878,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250722161519+02'00'",
+    "modDate": "D:20250722161519+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

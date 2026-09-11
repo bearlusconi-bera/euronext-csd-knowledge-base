@@ -1,0 +1,31 @@
+{
+  "id": "b19ce651741f",
+  "url": "https://www.euronext.com/sites/default/files/2026-05/euronext_securities_client_test_pack_for_tax_services_relief_at_source_Belgium_%28Issuer-CSD%29_v2_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-05/euronext_securities_client_test_pack_for_tax_services_relief_at_source_Belgium_%28Issuer-CSD%29_v2_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 18 May 2026 09:17:14 GMT",
+  "local_path": "sources/documents/b19ce651741f-Client-test-pack-for-Tax-Services-Relief-at-source-Belgium-Issuer-CSD-v2.pdf",
+  "sha256": "ef07c12517c766e28087f03fe9e67a14ca122988bc0cff6498dd2ad43a14fcc2",
+  "bytes": 272099,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 9,
+  "text_path": "extracted/b19ce651741f.md",
+  "text_characters": 16079,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "Manon Gonnessat",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word pour Microsoft 365",
+    "producer": "Microsoft® Word pour Microsoft 365",
+    "creationDate": "D:20260518111502+02'00'",
+    "modDate": "D:20260518111502+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

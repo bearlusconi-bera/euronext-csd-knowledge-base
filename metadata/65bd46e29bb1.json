@@ -1,0 +1,35 @@
+{
+  "url": "https://www.euronext.com/en/csd/about/key-figures-and-statistics",
+  "retrieved_at": "2026-09-11",
+  "id": "65bd46e29bb1",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/about/key-figures-and-statistics",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:52 GMT",
+  "title": "Key figures and Statistics",
+  "text": "Key figures and Statistics\nEuronext Securities is the CSD network connecting European economies to global capital markets\nView and download key figures for Euronext Securities (excluding Athex CSD).\n€7.95tn\nof assets under custody.\n11.05m\nsettlement instructions processed.\n€12.36tn\namount settled.\n7,879\nissuers.\nKey figures download\n* August 2026\nLocal figures and reports\nWe provide information to support client operations.\nLocal statistics, settlement reports and secondary recordings\nMilan\nOslo\nPorto",
+  "links": [
+    {
+      "url": "https://www.euronext.com/media/11654/download ",
+      "title": "Key figures download",
+      "context": "Key figures download * August 2026"
+    },
+    {
+      "url": "https://www.euronext.com/post-trade/euronext-securities/milan/intermediaries/statistics-operational-data",
+      "title": "Milan",
+      "context": "Local figures and reports We provide information to support client operations. Local statistics, settlement reports and secondary recordings Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/oslo/information-for/account-operator",
+      "title": "Oslo",
+      "context": "Local figures and reports We provide information to support client operations. Local statistics, settlement reports and secondary recordings Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.interbolsa.pt/en/information-and-documentation/data",
+      "title": "Porto",
+      "context": "Local figures and reports We provide information to support client operations. Local statistics, settlement reports and secondary recordings Milan Oslo Porto"
+    }
+  ],
+  "local_html": "sources/pages/65bd46e29bb1.html",
+  "sha256": "c3fa93ccb20b8bef3de2750cfdfb14cae2e1bc884ea8fd539dfd793a387035ca"
+}

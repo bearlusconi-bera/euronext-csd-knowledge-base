@@ -1,0 +1,30 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/services/other-systems/investment-funds-service-order-routing",
+  "retrieved_at": "2026-09-11",
+  "id": "c0e96c6ea0bd",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/services/other-systems/investment-funds-service-order-routing",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:30 GMT",
+  "title": "Investment Funds Service – Order Routing",
+  "text": "Investment Funds Service – Order Routing\nEuronext Securities Porto manages a Fund Management Service, which provides Financial Intermediaries and Investment Fund Management Entities, the following functionalities:\nRegistration and control:\nOf units/shares of investment funds (open-end and closed-end) including ETFs (Exchange Traded Funds), with whole or fractional quantities.\nSettlement:\nThe settlement of operations over units/shares of investment funds /ETFs.\nThe processing of corporate actions:\nAssociated to units/shares of investment funds /ETFs.\nOrder routing:\nThe automated handling of subscriptions and redemptions of units/shares of investment funds which uses an order routing mechanism.\nSupport Documentation\nPDF\nINTERBOLSA Circular 1/2019\nEnglish\nVersion\n/sites/default/files/2022-04/EN_IB-CIRCULAR-1_2019%20%281%29.pdf\nINTERBOLSA Circular 1/2019\nEnglish\nniamh.smith@de…\n26/04/2022\nPDF\nEuronext Securities Porto - SISTEMA DE FUNDOS DE INVESTIMENTO (SFI) - ORDER ROUTING\nPortuguese\nVersion\nPortuguese\n13/07/2023\nEuronext Securities Porto - SISTEMA DE FUNDOS DE INVESTIMENTO (SFI) - ORDER ROUTING\n/sites/default/files/2025-04/Euronext%20Securities%20Porto%20-%20SISTEMA%20DE%20%20FUNDOS%20DE%20%20INVESTIMENTO%20%20%28SFI%29%20-%20ORDER%20%20ROUTING_0.pdf\nPDF\nFunds - Order Routing\nEnglish\nVersion\nEnglish\n18/12/2025\n/sites/default/files/2025-12/Funds_OrderRouting.pdf\nFunds - Order Routing",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2022-04/EN_IB-CIRCULAR-1_2019%20%281%29.pdf",
+      "title": "INTERBOLSA Circular 1/2019",
+      "context": "PDF INTERBOLSA Circular 1/2019 English Version /sites/default/files/2022-04/EN_IB-CIRCULAR-1_2019%20%281%29.pdf INTERBOLSA Circular 1/2019 English niamh.smith@de… 26/04/2022 PDF Euronext Securities Porto - SISTEMA DE FUNDOS DE INVESTIMENTO (SFI) - ORDER ROUTING Portuguese Version Portuguese 13/07/2023 Euronext Securities Porto - SISTEMA DE FUNDOS DE INVESTIMENTO (SFI) - ORDER ROUTING /sites/default/files/2025-04/Euronext%20Securities%20Porto%20-%20SISTEMA%20DE%20%20FUNDOS%20DE%20%20INVESTIMENTO%20%20%28SFI%29%20-%20ORDER%20%20ROUTING_0.pdf PDF Funds - Order Routing English Version English 18/12/2025 /sites/default/files/2025-12/Funds_OrderRouting.pdf Funds - Order Routing"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2025-04/Euronext%20Securities%20Porto%20-%20SISTEMA%20DE%20%20FUNDOS%20DE%20%20INVESTIMENTO%20%20%28SFI%29%20-%20ORDER%20%20ROUTING_0.pdf",
+      "title": "Euronext Securities Porto - SISTEMA DE FUNDOS DE INVESTIMENTO (SFI) - ORDER ROUTING",
+      "context": "PDF INTERBOLSA Circular 1/2019 English Version /sites/default/files/2022-04/EN_IB-CIRCULAR-1_2019%20%281%29.pdf INTERBOLSA Circular 1/2019 English niamh.smith@de… 26/04/2022 PDF Euronext Securities Porto - SISTEMA DE FUNDOS DE INVESTIMENTO (SFI) - ORDER ROUTING Portuguese Version Portuguese 13/07/2023 Euronext Securities Porto - SISTEMA DE FUNDOS DE INVESTIMENTO (SFI) - ORDER ROUTING /sites/default/files/2025-04/Euronext%20Securities%20Porto%20-%20SISTEMA%20DE%20%20FUNDOS%20DE%20%20INVESTIMENTO%20%20%28SFI%29%20-%20ORDER%20%20ROUTING_0.pdf PDF Funds - Order Routing English Version English 18/12/2025 /sites/default/files/2025-12/Funds_OrderRouting.pdf Funds - Order Routing"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2025-12/Funds_OrderRouting.pdf",
+      "title": "Funds - Order Routing",
+      "context": "PDF INTERBOLSA Circular 1/2019 English Version /sites/default/files/2022-04/EN_IB-CIRCULAR-1_2019%20%281%29.pdf INTERBOLSA Circular 1/2019 English niamh.smith@de… 26/04/2022 PDF Euronext Securities Porto - SISTEMA DE FUNDOS DE INVESTIMENTO (SFI) - ORDER ROUTING Portuguese Version Portuguese 13/07/2023 Euronext Securities Porto - SISTEMA DE FUNDOS DE INVESTIMENTO (SFI) - ORDER ROUTING /sites/default/files/2025-04/Euronext%20Securities%20Porto%20-%20SISTEMA%20DE%20%20FUNDOS%20DE%20%20INVESTIMENTO%20%20%28SFI%29%20-%20ORDER%20%20ROUTING_0.pdf PDF Funds - Order Routing English Version English 18/12/2025 /sites/default/files/2025-12/Funds_OrderRouting.pdf Funds - Order Routing"
+    }
+  ],
+  "local_html": "sources/pages/c0e96c6ea0bd.html",
+  "sha256": "c40aca08b55895d5626800df6ef555320683b3152a2c06c3826c317f181ccb1a"
+}

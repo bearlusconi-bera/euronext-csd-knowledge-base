@@ -1,0 +1,31 @@
+{
+  "id": "8b240d87dad0",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/RESOLUTION_14_ATHEXCSD-INFORMATION_TECHNOLOGY_SERVICES_387_31.03.2026_FORCE_01.04.2026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/RESOLUTION_14_ATHEXCSD-INFORMATION_TECHNOLOGY_SERVICES_387_31.03.2026_FORCE_01.04.2026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 01 Apr 2026 09:51:11 GMT",
+  "local_path": "sources/documents/8b240d87dad0-ATHEXCSD-Resolution-14.pdf",
+  "sha256": "1f6ba192073a259b43060b2f681a2c35f2251d556c0439536046d38e90c767e7",
+  "bytes": 421508,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 19,
+  "text_path": "extracted/8b240d87dad0.md",
+  "text_characters": 51362,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Dimitra Vasileiadou",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ (PUBLIC)ΑΓΓΛΙΚΗ (ENGLISH)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260401122910+03'00'",
+    "modDate": "D:20260401122910+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

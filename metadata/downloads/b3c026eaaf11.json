@@ -1,0 +1,31 @@
+{
+  "id": "b3c026eaaf11",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Automated_technical_correctness_checks_30102024.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Automated_technical_correctness_checks_30102024.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 16 Apr 2026 16:40:57 GMT",
+  "local_path": "sources/documents/b3c026eaaf11-here.pdf",
+  "sha256": "5d5c19d56e809215eaa886db9bb732a6b96de82b202337ca473d29e9dadeed63",
+  "bytes": 82392,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/b3c026eaaf11.md",
+  "text_characters": 4099,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Kyriakopoulou, Polyxeni",
+    "subject": "",
+    "keywords": "ΕΜΠΙΣΤΕΥΤΙΚΟ (CONFIDENTIAL)ΕΛΛΗΝΙΚΗ (GREEK)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260415160755+03'00'",
+    "modDate": "D:20260415160755+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "55ed3d0f1f44",
+  "url": "https://www.euronext.com/sites/default/files/2024-10/4383_Tablemat%20France%20EF_06_11_2024_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-10/4383_Tablemat%20France%20EF_06_11_2024_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:34:06 GMT",
+  "local_path": "sources/documents/55ed3d0f1f44-France-Tablemat-Quick-Market-Guide.pdf",
+  "sha256": "1a814892c5a83c17d1c78675ad17471056cd0b142868834a3e0b36cf47b267f6",
+  "bytes": 583098,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/55ed3d0f1f44.md",
+  "text_characters": 9084,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - BOZZA_4383_Tablemat France EF_ottobre 2024",
+    "author": "Stefania Bacca",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20240918102855+02'00'",
+    "modDate": "D:20240918102855+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

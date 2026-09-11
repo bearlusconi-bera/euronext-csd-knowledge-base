@@ -1,0 +1,31 @@
+{
+  "id": "f311b0ad7b80",
+  "url": "https://www.euronext.com/sites/default/files/2025-11/service_description_document_-_settlement_penalties_v1.2_track_changes.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-11/service_description_document_-_settlement_penalties_v1.2_track_changes.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 07 Nov 2025 13:50:01 GMT",
+  "local_path": "sources/documents/f311b0ad7b80-Service-Description-Document-Settlement-Penalties-v1-2-Track-Changes.pdf",
+  "sha256": "ec51f2734dee8a01ece68362be5bd0389c9c26f60f71003ed95756f0decf7741",
+  "bytes": 470766,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 23,
+  "text_path": "extracted/f311b0ad7b80.md",
+  "text_characters": 50097,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Alexandra Hegarty",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251107142900+01'00'",
+    "modDate": "D:20251107142900+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

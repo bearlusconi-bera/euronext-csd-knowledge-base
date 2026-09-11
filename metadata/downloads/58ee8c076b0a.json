@@ -1,0 +1,31 @@
+{
+  "id": "58ee8c076b0a",
+  "url": "https://www.euronext.com/media/8745/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/8745/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:07 GMT",
+  "local_path": "sources/documents/58ee8c076b0a-Levels-of-segregation.pdf",
+  "sha256": "d79381d322e5cd9e6299b35b15f5b1df52e17596ddd9cb00df62120a23a04f87",
+  "bytes": 159712,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 7,
+  "text_path": "extracted/58ee8c076b0a.md",
+  "text_characters": 11785,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Øyvind",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20220309132621+01'00'",
+    "modDate": "D:20220309132621+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

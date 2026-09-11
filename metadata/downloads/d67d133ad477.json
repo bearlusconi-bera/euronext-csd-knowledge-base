@@ -1,0 +1,14 @@
+{
+  "id": "d67d133ad477",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Στοιχεία_για_αρχείο_κατανομής.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_%CE%A3%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1_%CE%B3%CE%B9%CE%B1_%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CE%BF_%CE%BA%CE%B1%CF%84%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE%CF%82.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Fri, 17 Apr 2026 07:36:14 GMT",
+  "local_path": "sources/documents/d67d133ad477-Information-for-the-distribution-file.xlsx",
+  "sha256": "0ba06c70d75a31d2cb970ee5deb0f44a5d0effebf31fea7bc473e45d72b6e2b4",
+  "bytes": 19652,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

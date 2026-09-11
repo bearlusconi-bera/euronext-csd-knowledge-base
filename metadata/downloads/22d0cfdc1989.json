@@ -1,0 +1,14 @@
+{
+  "id": "22d0cfdc1989",
+  "url": "https://www.euronext.com/sites/default/files/2022-03/4311_specimen_variazione_eng_2022.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-03/4311_specimen_variazione_eng_2022.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:30:32 GMT",
+  "local_path": "sources/documents/22d0cfdc1989-Specimen-Signature-Change-of-Contract-Representative-2022.docx",
+  "sha256": "6ff41565d78e36ba16a22a72d0420421ee61390b1c413ca9d70e7f52c80e09b1",
+  "bytes": 87719,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

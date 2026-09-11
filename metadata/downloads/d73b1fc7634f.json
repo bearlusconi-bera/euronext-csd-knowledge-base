@@ -1,0 +1,33 @@
+{
+  "id": "d73b1fc7634f",
+  "url": "https://www.euronext.com/sites/default/files/2022-10/PIK%20Notes.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-10/PIK%20Notes.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:22 GMT",
+  "local_path": "sources/documents/d73b1fc7634f-Pik-Notes.pdf",
+  "sha256": "9e1e6fdaa8b96b1d4167c5f44f21a0196fb01de182f4eedb13485f631f8cc45c",
+  "bytes": 375171,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 5,
+  "text_path": "extracted/d73b1fc7634f.md",
+  "text_characters": 3630,
+  "low_text_pages": [
+    4
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "PowerPoint Presentation",
+    "author": "Dimonopoli, Pierluigi",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® PowerPoint® for Microsoft 365",
+    "producer": "Microsoft® PowerPoint® for Microsoft 365",
+    "creationDate": "D:20220912093821+02'00'",
+    "modDate": "D:20220912093821+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

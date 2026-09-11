@@ -1,0 +1,31 @@
+{
+  "id": "156c5fe998dd",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2023.01.en_1.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/circular.2023.01.en_1.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:27 GMT",
+  "local_path": "sources/documents/156c5fe998dd-INTERBOLSA-Circular-1-2023.pdf",
+  "sha256": "a508485b964610cf2060ca4ce5b8c83356f03caf4e93093f85bbdb2a5754f6a5",
+  "bytes": 140125,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/156c5fe998dd.md",
+  "text_characters": 1889,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Helena Teixeira Lopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 23 for Word",
+    "producer": "Adobe PDF Library 23.1.175",
+    "creationDate": "D:20230426105123+01'00'",
+    "modDate": "D:20230426105124+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "e1354fb2d76a",
+  "url": "https://www.euronext.com/sites/default/files/2026-05/Euronext%20Securities%20-%20Corporate%20Events%20Service%20-%20CA4U%20Handbook%20SDD%20-%20V05_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-05/Euronext%20Securities%20-%20Corporate%20Events%20Service%20-%20CA4U%20Handbook%20SDD%20-%20V05_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 07 May 2026 14:42:59 GMT",
+  "local_path": "sources/documents/e1354fb2d76a-Corporate-Events-Services-User-Guide-20260507-clean-pdf.pdf",
+  "sha256": "d0a2c11740d4e423c3f9bffe2e297432a1e23b545e8ddf8a8465e191a24dd4e8",
+  "bytes": 7194073,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 185,
+  "text_path": "extracted/e1354fb2d76a.md",
+  "text_characters": 438841,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word pour Microsoft 365",
+    "producer": "Microsoft® Word pour Microsoft 365",
+    "creationDate": "D:20260507104453+02'00'",
+    "modDate": "D:20260507104453+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

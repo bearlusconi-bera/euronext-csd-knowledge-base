@@ -1,0 +1,31 @@
+{
+  "id": "7496cc32292d",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4242%20-%20P_F045%20Exemption%20letter%20for%20Pension%20Funds%20established%20in%20EUEEA%20%28Appendix%2018%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4242%20-%20P_F045%20Exemption%20letter%20for%20Pension%20Funds%20established%20in%20EUEEA%20%28Appendix%2018%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/7496cc32292d-P-F045-Exemption-letter-for-Pension-Funds-established-in-EUEEA-Appendix-18.pdf",
+  "sha256": "16386c589f38660390ee605e932186bf7bc38be57f0eb4daefd6cbddb354f243",
+  "bytes": 248242,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/7496cc32292d.md",
+  "text_characters": 3209,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "(Beneficial Owner declaration)",
+    "author": "PAULA CRISTINA DE SOUSA CARLOS",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2013",
+    "producer": "Microsoft® Word 2013",
+    "creationDate": "D:20161208172338+01'00'",
+    "modDate": "D:20180614123826+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

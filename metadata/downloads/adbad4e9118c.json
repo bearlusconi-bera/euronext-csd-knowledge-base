@@ -1,0 +1,31 @@
+{
+  "id": "adbad4e9118c",
+  "url": "https://www.euronext.com/sites/default/files/2026-03/euronext_securities_-_client_test_approach_-_addendum_for_clients_of_euronext_securities.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-03/euronext_securities_-_client_test_approach_-_addendum_for_clients_of_euronext_securities.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 26 Mar 2026 16:01:00 GMT",
+  "local_path": "sources/documents/adbad4e9118c-Client-test-approach-addendum-for-clients-of-Euronext-Securities.pdf",
+  "sha256": "ec6b64a3adf6e8bbfbeda74bec6b83c8622c81306546d9b3633dfc9ee9f44d7d",
+  "bytes": 338364,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 13,
+  "text_path": "extracted/adbad4e9118c.md",
+  "text_characters": 29464,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Nicholas A Schulz",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260122165644+01'00'",
+    "modDate": "D:20260122165644+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/settlement-efficiency",
+  "retrieved_at": "2026-09-11",
+  "id": "efa70c930d8f",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/settlement-efficiency",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:11 GMT",
+  "title": "Settlement Efficiency",
+  "text": "Settlement Efficiency\nPublic disclosure on Settlement Fails Article 15 Delegated Regulation (EU) 2018/1229 – 2022\nDownloads\n05/02/2026\nXLSX\nEuronext Securities Milan Settlement Fails 2025 - Article 15\nEnglish\nVersion\nEnglish\n05/02/2026\n28/02/2023\n/sites/default/files/2026-02/SettlementFails2025_Article15.xlsx\nEuronext Securities Milan Settlement Fails 2025 - Article 15",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2026-02/SettlementFails2025_Article15.xlsx",
+      "title": "Euronext Securities Milan Settlement Fails 2025 - Article 15",
+      "context": "05/02/2026 XLSX Euronext Securities Milan Settlement Fails 2025 - Article 15 English Version English 05/02/2026 28/02/2023 /sites/default/files/2026-02/SettlementFails2025_Article15.xlsx Euronext Securities Milan Settlement Fails 2025 - Article 15"
+    }
+  ],
+  "local_html": "sources/pages/efa70c930d8f.html",
+  "sha256": "e40f303ab1eb92ab774d6f85ab3cbcaa66eb9ac7a648f5dc3e316b7b238e73a7"
+}

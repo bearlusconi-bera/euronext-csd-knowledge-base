@@ -1,0 +1,14 @@
+{
+  "id": "1b3a82a58d1a",
+  "url": "https://www.esma.europa.eu/sites/default/files/esma65-8-6251_csdr-technical_guidance_for_settlement_internalisers_-_report_validation_rules_v1.0.0_embeddedfiles.zip",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/esma65-8-6251_csdr-technical_guidance_for_settlement_internalisers_-_report_validation_rules_v1.0.0_embeddedfiles.zip",
+  "content_type": "application/zip",
+  "last_modified": "Mon, 23 Jan 2023 13:28:00 GMT",
+  "local_path": "sources/documents/1b3a82a58d1a-XML-files.zip",
+  "sha256": "5eda215a08d5ad8e9e4550e9f5ade4422fd45764d781046316b6efb6290cac43",
+  "bytes": 17503,
+  "file_type": "zip",
+  "review_status": "archived-not-substantively-reviewed"
+}

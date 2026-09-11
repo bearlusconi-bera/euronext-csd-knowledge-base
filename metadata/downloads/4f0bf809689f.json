@@ -1,0 +1,31 @@
+{
+  "id": "4f0bf809689f",
+  "url": "https://www.euronext.com/sites/default/files/2023-04/MT_PrivacyStatement_AGM_2023_ENG_revLeg%20%28002%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-04/MT_PrivacyStatement_AGM_2023_ENG_revLeg%20%28002%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:00 GMT",
+  "local_path": "sources/documents/4f0bf809689f-MT-Privacy-Statement-AGM-ENG.pdf",
+  "sha256": "70ed1b6d35eb88632b195c85b783e5a7898e9653fc438927c5dda8c5ccfb77bc",
+  "bytes": 102238,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 4,
+  "text_path": "extracted/4f0bf809689f.md",
+  "text_characters": 8193,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "Massimiliano Chiado' Piat",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20230426161454+02'00'",
+    "modDate": "D:20230426161454+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

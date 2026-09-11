@@ -1,0 +1,31 @@
+{
+  "id": "fa9f0b481f3c",
+  "url": "https://www.euronext.com/sites/default/files/2026-08/20260901_Euronext%20Securities%20Milan%20Price%20List%20Issuers_rev.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-08/20260901_Euronext%20Securities%20Milan%20Price%20List%20Issuers_rev.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 03 Aug 2026 09:11:28 GMT",
+  "local_path": "sources/documents/fa9f0b481f3c-Price-List-Issuers-rev-1-September-2026.pdf",
+  "sha256": "c1a3b395536e83ed0e202ea6410c34df7debba0dc6d03dc2f838023e8699c606",
+  "bytes": 412892,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 26,
+  "text_path": "extracted/fa9f0b481f3c.md",
+  "text_characters": 37642,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Crea-ELM",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word per Microsoft 365",
+    "producer": "Microsoft® Word per Microsoft 365",
+    "creationDate": "D:20260724102133+02'00'",
+    "modDate": "D:20260724102133+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

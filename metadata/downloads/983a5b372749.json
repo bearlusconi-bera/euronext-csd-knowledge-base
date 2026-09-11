@@ -1,0 +1,31 @@
+{
+  "id": "983a5b372749",
+  "url": "https://www.esma.europa.eu/sites/default/files/2024-05/3056562_030524_Reply_Verena_Ross_on_DLT_Pilot_Regime_Implementation.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2024-05/3056562_030524_Reply_Verena_Ross_on_DLT_Pilot_Regime_Implementation.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 07 May 2024 16:10:15 GMT",
+  "local_path": "sources/documents/983a5b372749-Letter-from-the-European-Commission-on-the-DLT-Pilot-Regime-Implementation-03-05-2024.pdf",
+  "sha256": "6b850e52f3e7922d78a44ada726964bed84661eb57c4394a902a46c5770e9e74",
+  "bytes": 155898,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/983a5b372749.md",
+  "text_characters": 3448,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Letter from the European Commission on the DLT Pilot Regime Implementation",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20240503204639+02'00'",
+    "modDate": "D:20240507180941+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

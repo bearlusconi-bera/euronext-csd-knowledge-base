@@ -1,0 +1,31 @@
+{
+  "id": "a70c5fdc3600",
+  "url": "https://www.euronext.com/sites/default/files/2025-09/gap_analysis_settlement_penalties.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-09/gap_analysis_settlement_penalties.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 08 Sep 2025 14:10:55 GMT",
+  "local_path": "sources/documents/a70c5fdc3600-GAP-Analysis-Settlement-Penalties.pdf",
+  "sha256": "963e5a35a41bca997aec462760f4de8bfc85afeea6e45de4073d12216953df0d",
+  "bytes": 124721,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 4,
+  "text_path": "extracted/a70c5fdc3600.md",
+  "text_characters": 8650,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Alexandra Hegarty",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft Word",
+    "producer": "",
+    "creationDate": "D:20250908005715-07'00'",
+    "modDate": "D:20250908005715-07'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

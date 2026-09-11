@@ -1,0 +1,31 @@
+{
+  "id": "00a3e1aeba1c",
+  "url": "https://www.euronext.com/sites/default/files/2026-05/euronext_securities_-_securities_account_structure_-_service_description_document_v03.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-05/euronext_securities_-_securities_account_structure_-_service_description_document_v03.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 06 May 2026 08:51:38 GMT",
+  "local_path": "sources/documents/00a3e1aeba1c-Account-Structure-v03.pdf",
+  "sha256": "6e28c273166aa30d587e4da8ecb898fc7363df81812f9adbedb2e79874ecbd07",
+  "bytes": 393709,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 20,
+  "text_path": "extracted/00a3e1aeba1c.md",
+  "text_characters": 47651,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word pour Microsoft 365",
+    "producer": "Microsoft® Word pour Microsoft 365",
+    "creationDate": "D:20260506104425+02'00'",
+    "modDate": "D:20260506104425+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

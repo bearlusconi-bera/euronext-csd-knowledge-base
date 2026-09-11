@@ -1,0 +1,14 @@
+{
+  "id": "2ca6e7abe2e8",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/Traceability%20of%20Financial%20Flows%20v.1.2019.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/Traceability%20of%20Financial%20Flows%20v.1.2019.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:29:42 GMT",
+  "local_path": "sources/documents/2ca6e7abe2e8-Declaration-form-of-traceability-2019.docx",
+  "sha256": "d0d150fe0bd38009020f77463a16fd4c7e3785ce031acbb3d48bfd0c9f72297a",
+  "bytes": 28980,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

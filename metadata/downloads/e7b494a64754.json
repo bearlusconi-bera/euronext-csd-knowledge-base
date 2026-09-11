@@ -1,0 +1,31 @@
+{
+  "id": "e7b494a64754",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4439_secondlayermatching.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4439_secondlayermatching.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:46 GMT",
+  "local_path": "sources/documents/e7b494a64754-Market-practice-second-layer-matching.pdf",
+  "sha256": "438084cb86ab7782172e99d8a493b07ba661ed14f252a01155d31e0e82efdf8f",
+  "bytes": 185976,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/e7b494a64754.md",
+  "text_characters": 11613,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Dermes, Maria",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210430095522+02'00'",
+    "modDate": "D:20210430095522+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8d316ff6a6d6",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/buyerprotectioninstruction_template.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/buyerprotectioninstruction_template.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Fri, 31 Jan 2025 13:32:26 GMT",
+  "local_path": "sources/documents/8d316ff6a6d6-Manual-buyer-protection-instruction-template.xlsx",
+  "sha256": "15bcb77b57fbdda3c3a82cc237698c3c2301ab64e2c0d5bda14975235c6d6bda",
+  "bytes": 16381,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

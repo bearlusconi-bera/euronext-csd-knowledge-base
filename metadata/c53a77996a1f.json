@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/funds",
+  "retrieved_at": "2026-09-11",
+  "id": "c53a77996a1f",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/funds",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:22 GMT",
+  "title": "Funds",
+  "text": "Funds\nFund unit register with cost efficient distribution in the Norwegian market\nOur funds services offer Issuers of mutual funds a fund unit register and a cost efficient distribution of funds through Euronext Securities Oslo’ network infrastructure.\nContacts\nEuronext Securities Oslo\nBusiness Operations\nosl-clientsupport@euronext.com",
+  "links": [],
+  "local_html": "sources/pages/c53a77996a1f.html",
+  "sha256": "c454255e7832ed14b4b7fb94d05395aade522e0bbdcca4e275cc2d5db8a07db7"
+}

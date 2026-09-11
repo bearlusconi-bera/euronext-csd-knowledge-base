@@ -1,0 +1,14 @@
+{
+  "id": "93bcab3f9897",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP005_APPLICATION_STATEMENT_OF_BENEFICIARYS_SHARE_CONSOLIDATION_0240412.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP005_APPLICATION_STATEMENT_OF_BENEFICIARYS_SHARE_CONSOLIDATION_0240412.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Thu, 16 Apr 2026 12:56:25 GMT",
+  "local_path": "sources/documents/93bcab3f9897-APP005.docx",
+  "sha256": "9d02d01c5c468c0a73ef8af0868931ba6e76b98b3d40321f2e35c6a9fb282110",
+  "bytes": 90868,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

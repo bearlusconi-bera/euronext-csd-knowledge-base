@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/regulation",
+  "retrieved_at": "2026-09-11",
+  "id": "89570f023525",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/regulation",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:05 GMT",
+  "title": "Regulation",
+  "text": "Regulation\nVP is subject to the Danish Act on Capital Markets and holds a licence as a Central Securities Depository under an European regulation.\nVP holds a licence as a Central Securities Depository (CSD) under the European Regulation on improving securities settlement in the European Union and on central securities depositories (CSDR).\nCSDR regulates the legal aspects of securities settlement and harmonises the requirements and supervision of all CSDs in Europe.\nAs one of the first CSDs in Europe, we received our licence from the Danish Financial Supervisory Authority (Finanstilsynet) with effect from 3 January 2018. With the licence VP obtained an European passport enabling us to provide services across the European Union.\nBeside CSDR VP is subject to the Danish Act on Capital Markets, including relevant executive orders.\nThe Act on Capital Markets regulates among other things the Danish decentralised structure with Securities Account Controllers, netting, financial collateral and registration of rights.\nEuropean regulation\nOverview of the European Regulation on CSDs\nRegulatory Environment\nDanish regulation\nLink\nThe Danish regulation on CSDs\nDanish regulation on CSDs\nCSDR Settlement Discipline Regime\nRead more\nThe European Regulation on improving securities settlement in the European Union and on Central Securities Depositories (CSDR) contains provisions on settlement discipline.\nCSDR\nVP and CSDR\nVP obtained CSDR licence on 3 January 2018\nVP was among the very first CSDs in the EU to be re-authorised under CSDR\nSee VPs CSDR Q&A\nInsolvency\nRead more\nVP must publicly disclose the rules and relevant procedures we have defined to manage a participant’s default.\nInsolvency\nContacts\nLegal & Regulations\n+45 4358 8888\nvp_legal@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/regulatory-environment",
+      "title": "Regulatory Environment",
+      "context": "European regulation Overview of the European Regulation on CSDs Regulatory Environment Danish regulation Link The Danish regulation on CSDs Danish regulation on CSDs"
+    },
+    {
+      "url": "https://finanstilsynet.dk/Lovgivning/Lovsamling/Kapitalmarkedsomraadet",
+      "title": "Danish regulation on CSDs",
+      "context": "European regulation Overview of the European Regulation on CSDs Regulatory Environment Danish regulation Link The Danish regulation on CSDs Danish regulation on CSDs"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/regulatory-environment/csdr",
+      "title": "CSDR",
+      "context": "CSDR Settlement Discipline Regime Read more The European Regulation on improving securities settlement in the European Union and on Central Securities Depositories (CSDR) contains provisions on settlement discipline. CSDR VP and CSDR VP obtained CSDR licence on 3 January 2018 VP was among the very first CSDs in the EU to be re-authorised under CSDR See VPs CSDR Q&A Insolvency Read more VP must publicly disclose the rules and relevant procedures we have defined to manage a participant’s default. Insolvency"
+    },
+    {
+      "url": "https://www.euronext.com/en/media/9131/download",
+      "title": "See VPs CSDR Q&A",
+      "context": "CSDR Settlement Discipline Regime Read more The European Regulation on improving securities settlement in the European Union and on Central Securities Depositories (CSDR) contains provisions on settlement discipline. CSDR VP and CSDR VP obtained CSDR licence on 3 January 2018 VP was among the very first CSDs in the EU to be re-authorised under CSDR See VPs CSDR Q&A Insolvency Read more VP must publicly disclose the rules and relevant procedures we have defined to manage a participant’s default. Insolvency"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/insolvency",
+      "title": "Insolvency",
+      "context": "CSDR Settlement Discipline Regime Read more The European Regulation on improving securities settlement in the European Union and on Central Securities Depositories (CSDR) contains provisions on settlement discipline. CSDR VP and CSDR VP obtained CSDR licence on 3 January 2018 VP was among the very first CSDs in the EU to be re-authorised under CSDR See VPs CSDR Q&A Insolvency Read more VP must publicly disclose the rules and relevant procedures we have defined to manage a participant’s default. Insolvency"
+    }
+  ],
+  "local_html": "sources/pages/89570f023525.html",
+  "sha256": "fed499c0eddaf15cb5635a56abfd977623beb3ee054144750d9f135e57eed915"
+}

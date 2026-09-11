@@ -1,0 +1,31 @@
+{
+  "id": "16a68260b3cb",
+  "url": "https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.amiseco202512_scorecarulebook.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.amiseco202512_scorecarulebook.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 16 Dec 2025 14:19:11 GMT",
+  "local_path": "sources/documents/16a68260b3cb-Corporate-Actions-Single-Collateral-Management-Rulebook-for-Europe.pdf",
+  "sha256": "2d32b4c6ce0700e444a0eb38f30f40363fa321d829977e1d94df4dbeafb0bfb0",
+  "bytes": 3188678,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 236,
+  "text_path": "extracted/16a68260b3cb.md",
+  "text_characters": 712973,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Corporate Actions: Single Collateral Management Rulebook for Europe",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "Template updated: 08/09/2023",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251216092059+01'00'",
+    "modDate": "D:20251216093314+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dee2a60042e3",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4405%20-%20ES%20-%20One-time%20certificate%20%28Appendix%20I%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4405%20-%20ES%20-%20One-time%20certificate%20%28Appendix%20I%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:40 GMT",
+  "local_path": "sources/documents/dee2a60042e3-ES-One-time-certificate-Appendix-I.pdf",
+  "sha256": "86dfc79da6fbefd6ec504fc640349e2330d9b32fb0a99e28d0eeec246beca520",
+  "bytes": 316046,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/dee2a60042e3.md",
+  "text_characters": 1009,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4405 - ES - One-time certificate (Appendix I)",
+    "author": "LPacini",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220412093743+02'00'",
+    "modDate": "D:20220412093743+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

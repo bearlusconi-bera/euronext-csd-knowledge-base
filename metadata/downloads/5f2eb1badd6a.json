@@ -1,0 +1,14 @@
+{
+  "id": "5f2eb1badd6a",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_client_test_set_for_portfolio_transfer_-_bearer.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_client_test_set_for_portfolio_transfer_-_bearer.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Thu, 22 Jan 2026 15:07:35 GMT",
+  "local_path": "sources/documents/5f2eb1badd6a-Client-test-set-for-portfolio-transfer-bearer.xlsx",
+  "sha256": "a601d7ba302e383030de112a3bb11b60a4bb77ca0647604365245c91521e9eda",
+  "bytes": 24793,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

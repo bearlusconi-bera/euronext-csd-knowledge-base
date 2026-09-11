@@ -1,0 +1,14 @@
+{
+  "id": "8ac303119f93",
+  "url": "https://www.esma.europa.eu/sites/default/files/esma70-155-11765_csdr_substantial_importance_indicators_template.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/esma70-155-11765_csdr_substantial_importance_indicators_template.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Mon, 23 Jan 2023 13:32:31 GMT",
+  "local_path": "sources/documents/8ac303119f93-reporting-templates.xlsx",
+  "sha256": "5e53cac9ba6b5944c86933bfdbdde8a0c26ca314ceeeb54a674d56ab95ac0804",
+  "bytes": 149573,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

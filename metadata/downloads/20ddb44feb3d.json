@@ -1,0 +1,31 @@
+{
+  "id": "20ddb44feb3d",
+  "url": "https://www.euronext.com/sites/default/files/2022-05/4403_Tablemat%20Spain%20IBERCLEAR_aprile%202022.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-05/4403_Tablemat%20Spain%20IBERCLEAR_aprile%202022.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:46 GMT",
+  "local_path": "sources/documents/20ddb44feb3d-Spain-Tablemat-Quick-Market-Guide.pdf",
+  "sha256": "d390d91f27bbb071186f93c34b7fcf56adf33af4a6705a4c795e14205c2b6f9f",
+  "bytes": 576874,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/20ddb44feb3d.md",
+  "text_characters": 8567,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4403_Tablemat Spain IBERCLEAR_aprile 2022",
+    "author": "SBacca",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220408144315+02'00'",
+    "modDate": "D:20220408144315+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

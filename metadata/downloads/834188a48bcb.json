@@ -1,0 +1,33 @@
+{
+  "id": "834188a48bcb",
+  "url": "https://www.euronext.com/sites/default/files/2025-03/4198_%20Account%20Segregation%20Document_2025_%20E.6_ENG_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-03/4198_%20Account%20Segregation%20Document_2025_%20E.6_ENG_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 21 Mar 2025 14:34:12 GMT",
+  "local_path": "sources/documents/834188a48bcb-Description-of-levels-of-segregation-according-to-article-38-6-of-Regulation-n-909-2014.pdf",
+  "sha256": "5a63b946af56824585bc14f38fde3228a275b8615806f73ddbd28b903443dc52",
+  "bytes": 388988,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 16,
+  "text_path": "extracted/834188a48bcb.md",
+  "text_characters": 24709,
+  "low_text_pages": [
+    16
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Ardizzon, Gianna",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250312135423+01'00'",
+    "modDate": "D:20250312135423+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

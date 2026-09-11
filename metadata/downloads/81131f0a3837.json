@@ -1,0 +1,34 @@
+{
+  "id": "81131f0a3837",
+  "url": "https://www.euronext.com/sites/default/files/2022-09/INTERBOLSA-Relat%C3%B3rio-Semestral-30062019.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-09/INTERBOLSA-Relat%C3%B3rio-Semestral-30062019.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:16 GMT",
+  "local_path": "sources/documents/81131f0a3837-Relatorio-1o-semestre-de-2019.pdf",
+  "sha256": "58a8ac3ff895c00fc03502080267fdafa68994c0e9fe52b3d4658c8c65332cca",
+  "bytes": 2294767,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 96,
+  "text_path": "extracted/81131f0a3837.md",
+  "text_characters": 262396,
+  "low_text_pages": [
+    95,
+    96
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "steve",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Adobe Acrobat Standard DC 18.11.20035",
+    "producer": "Adobe Acrobat Standard DC 18.11.20035",
+    "creationDate": "D:20190829113742+01'00'",
+    "modDate": "D:20190829113742+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

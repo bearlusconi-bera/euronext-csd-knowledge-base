@@ -1,0 +1,31 @@
+{
+  "id": "0dc791972139",
+  "url": "https://www.euronext.com/sites/default/files/2021-12/W-8IMY%20Rev.%20October%202021.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-12/W-8IMY%20Rev.%20October%202021.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:20 GMT",
+  "local_path": "sources/documents/0dc791972139-US-Form-W-8IMY.pdf",
+  "sha256": "2d3048e7d83485dde66e8d7904411cf577e5d2f73c71541c804d9dcb1bfb0493",
+  "bytes": 285064,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/0dc791972139.md",
+  "text_characters": 52439,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Form W-8 IMY (Rev. October 2021)",
+    "author": "SE:W:CAR:MP",
+    "subject": "Certificate of Foreign Intermediary, Foreign Flow-Through Entity, or Certain U.S. Branches for United States Tax Withholding and Reporting",
+    "keywords": "Fillable",
+    "creator": "Adobe LiveCycle Designer ES 9.0",
+    "producer": "Adobe LiveCycle Designer ES 9.0",
+    "creationDate": "D:20211118144044-05'00'",
+    "modDate": "D:20211118144044-05'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "b11b5b25006c",
+  "url": "https://www.euronext.com/sites/default/files/2024-10/User%20committees_20240521.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-10/User%20committees_20240521.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:34:07 GMT",
+  "local_path": "sources/documents/b11b5b25006c-User-Committee-of-21-05-2024.pdf",
+  "sha256": "3bbd095ce9784a63e3bb75d724b8ee096767eaae5d28d753a008fe649c0ca23c",
+  "bytes": 1175402,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 25,
+  "text_path": "extracted/b11b5b25006c.md",
+  "text_characters": 30589,
+  "low_text_pages": [
+    3,
+    7,
+    10,
+    15,
+    25
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Thomas Murray",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 24 for PowerPoint",
+    "producer": "Adobe PDF Library 24.3.212",
+    "creationDate": "D:20241029164132Z",
+    "modDate": "D:20241029164139Z",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "af3c279051b3",
+  "url": "https://www.euronext.com/sites/default/files/2024-09/issuance_of_bonds_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-09/issuance_of_bonds_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:34:03 GMT",
+  "local_path": "sources/documents/af3c279051b3-Bonds.pdf",
+  "sha256": "9b95d4463ec94630f6b232e9cd9ebdcc99135a3090938170b78e69824493d3cb",
+  "bytes": 288904,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/af3c279051b3.md",
+  "text_characters": 12815,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Nina Enid With",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word til Microsoft 365",
+    "producer": "Microsoft® Word til Microsoft 365",
+    "creationDate": "D:20240913110416+02'00'",
+    "modDate": "D:20240913110416+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

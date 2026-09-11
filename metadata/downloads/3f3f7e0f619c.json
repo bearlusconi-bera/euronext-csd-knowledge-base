@@ -1,0 +1,31 @@
+{
+  "id": "3f3f7e0f619c",
+  "url": "https://www.euronext.com/sites/default/files/2025-10/euronext_securities_-_post_trade_confirmation_system_-_message_dictionary_v.1.1.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-10/euronext_securities_-_post_trade_confirmation_system_-_message_dictionary_v.1.1.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Oct 2025 13:42:17 GMT",
+  "local_path": "sources/documents/3f3f7e0f619c-Post-Trade-Confirmation-System-Message-Dictionary-v1-1.pdf",
+  "sha256": "a96fd9b0af738c1b3d44524c3d4e8d55431fda830fa8d5a4457c392ca963bf57",
+  "bytes": 1734984,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 191,
+  "text_path": "extracted/3f3f7e0f619c.md",
+  "text_characters": 313168,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Raffaella Sorrentino",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251030172752+01'00'",
+    "modDate": "D:20251030172752+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "658e3738f8e5",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4238%20-%20P_F073%20Power%20for%20tax%20reclaim%20processes%20follow%20up%20%28payments%20from%2005.12.2016_%20Appendix%2013A%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4238%20-%20P_F073%20Power%20for%20tax%20reclaim%20processes%20follow%20up%20%28payments%20from%2005.12.2016_%20Appendix%2013A%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/658e3738f8e5-P-F073-Power-for-tax-reclaim-processes-follow-up-payments-from-05-12-2016-Appendix-13A.pdf",
+  "sha256": "f9e40adeff15714ab88002bfa4c3573b2ef30766a6c26510a0777a7d6000604c",
+  "bytes": 184120,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/658e3738f8e5.md",
+  "text_characters": 4852,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Portugal - P_F073 Portugal - PoA authorising MBCP to collect the refund cheque",
+    "author": "Euroclear",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2013",
+    "producer": "Microsoft® Word 2013",
+    "creationDate": "D:20170118132738+01'00'",
+    "modDate": "D:20180614124113+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

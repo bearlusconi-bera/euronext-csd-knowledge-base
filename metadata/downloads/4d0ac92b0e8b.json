@@ -1,0 +1,31 @@
+{
+  "id": "4d0ac92b0e8b",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/esma70-156-3729_csdr_report_to_ec_-_internalised_settlement.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/esma70-156-3729_csdr_report_to_ec_-_internalised_settlement.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 23 Jan 2023 13:31:38 GMT",
+  "local_path": "sources/documents/4d0ac92b0e8b-Internalised-settlement.pdf",
+  "sha256": "003e9952e5732c8699624ddaa5e5ee86c44f28baf850c532efbe37736e969225",
+  "bytes": 900008,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 47,
+  "text_path": "extracted/4d0ac92b0e8b.md",
+  "text_characters": 120129,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Alina.Dragomir@esma.europa.eu",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Office 365",
+    "producer": "Microsoft® Word for Office 365",
+    "creationDate": "D:20201105144947+01'00'",
+    "modDate": "D:20201105144947+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

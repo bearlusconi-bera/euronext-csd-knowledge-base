@@ -1,0 +1,31 @@
+{
+  "id": "77e05fbdd471",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/esma70-708036281-2_csdr_qas.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/esma70-708036281-2_csdr_qas.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 13 Mar 2023 16:27:58 GMT",
+  "local_path": "sources/documents/77e05fbdd471-Q-As-on-the-CSDR.pdf",
+  "sha256": "2afaa3c25a60d6bcf765fad1d4064f2024cc7684267e16afb6c790eefd7ea750",
+  "bytes": 622796,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 40,
+  "text_path": "extracted/77e05fbdd471.md",
+  "text_characters": 131168,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ESMA70-156-4448 CSDR Q&As",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft Word",
+    "producer": "",
+    "creationDate": "D:20230313172529+01'00'",
+    "modDate": "D:20230313172731+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

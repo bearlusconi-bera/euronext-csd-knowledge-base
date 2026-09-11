@@ -1,0 +1,33 @@
+{
+  "id": "6f1515aafd48",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/20241112%20-%20Comit%C3%A9%20de%20Utilizadores.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/20241112%20-%20Comit%C3%A9%20de%20Utilizadores.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 19 Jun 2026 14:40:47 GMT",
+  "local_path": "sources/documents/6f1515aafd48-User-Committee-of-12-11-2024.pdf",
+  "sha256": "310d580d56cc8c8329c2220a5e32104ee2d2008fbc432707b8c000e3f68fb33e",
+  "bytes": 1665184,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 41,
+  "text_path": "extracted/6f1515aafd48.md",
+  "text_characters": 41209,
+  "low_text_pages": [
+    5
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "PowerPoint Presentation",
+    "author": "Laura Ferreira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 25 for PowerPoint",
+    "producer": "Adobe PDF Library 25.1.250",
+    "creationDate": "D:20250611110842+01'00'",
+    "modDate": "D:20250611110851+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

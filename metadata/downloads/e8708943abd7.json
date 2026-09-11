@@ -1,0 +1,31 @@
+{
+  "id": "e8708943abd7",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_ΥΠΟΔΕΙΓΜΑ_ΑΙΤΗΣΗΣ_ΔΙΑΓΡΑΦΗΣ.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_%CE%A5%CE%A0%CE%9F%CE%94%CE%95%CE%99%CE%93%CE%9C%CE%91_%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%97%CE%A3_%CE%94%CE%99%CE%91%CE%93%CE%A1%CE%91%CE%A6%CE%97%CE%A3.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 17 Apr 2026 07:36:27 GMT",
+  "local_path": "sources/documents/e8708943abd7-application.pdf",
+  "sha256": "551424afc9121f9f83eb7c807a67d6bb1d36cdbf637e909de118dbc965701eb8",
+  "bytes": 81899,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/e8708943abd7.md",
+  "text_characters": 1678,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Kapourani, Gianitsa",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ ΜΕ ΠΝΕΥΜΑΤΙΚΑ ΔΙΚΑΙΩΜΑΤΑ (PUBLIC IPRs)ΕΛΛΗΝΙΚΗ (GREEK)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260415162624+03'00'",
+    "modDate": "D:20260415162624+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "88838eb848f3",
+  "url": "https://www.euronext.com/media/9214/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/9214/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:24 GMT",
+  "local_path": "sources/documents/88838eb848f3-Dividend-Interest-and-other-Income-Payments-and-Redemptions.pdf",
+  "sha256": "a487cb21714688bbce45f82e6516240b6018c81f976ef8860d1929c43b75cf1d",
+  "bytes": 24897,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/88838eb848f3.md",
+  "text_characters": 2979,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Dividend, Interest and other income payments and redemptions",
+    "author": "DTS",
+    "subject": "",
+    "keywords": "",
+    "creator": "PDFCreator Version 1.5.0",
+    "producer": "GPL Ghostscript 9.05",
+    "creationDate": "D:20190516130042+01'00'",
+    "modDate": "D:20190516130042+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

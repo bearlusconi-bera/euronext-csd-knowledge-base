@@ -1,0 +1,33 @@
+{
+  "id": "fc2ec57bf49a",
+  "url": "https://www.euronext.com/sites/default/files/2022-09/RelatorioSemestral.2018_1.PT_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-09/RelatorioSemestral.2018_1.PT_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:17 GMT",
+  "local_path": "sources/documents/fc2ec57bf49a-Relatorio-1o-semestre-de-2018.pdf",
+  "sha256": "9906c0cf52cdc947bfdb548ae31c8ee80545089576b3d0fb16bd82086b041c11",
+  "bytes": 2119523,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 81,
+  "text_path": "extracted/fc2ec57bf49a.md",
+  "text_characters": 201510,
+  "low_text_pages": [
+    81
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Insert Document Title",
+    "author": "steve",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word 2013",
+    "producer": "Microsoft® Word 2013",
+    "creationDate": "D:20180831112126+01'00'",
+    "modDate": "D:20180831112328+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/our-clients/my-interbolsa/how-register",
+  "retrieved_at": "2026-09-11",
+  "id": "904daaf30539",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/our-clients/my-interbolsa/how-register",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:28 GMT",
+  "title": "How to register",
+  "text": "How to register\nSigning up for MyINTERBOLSA is simple and secure:\nSign the service agreement\nFill in and sign Annexes I and II\nSend the originals by mail\nto Euronext Securities Porto\nReceive activation codes\nUser identification code\nActivation key\nConfirm email\nand reset password\nDownload the required documentation here:\nPDF\nService Agreement - My INTERBOLSA\nEnglish\nVersion\nEnglish\n24/07/2023\nService Agreement - My INTERBOLSA\n/sites/default/files/2023-07/contratoutilizacao.en_.pdf",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2023-07/contratoutilizacao.en_.pdf",
+      "title": "Service Agreement - My INTERBOLSA",
+      "context": "PDF Service Agreement - My INTERBOLSA English Version English 24/07/2023 Service Agreement - My INTERBOLSA /sites/default/files/2023-07/contratoutilizacao.en_.pdf"
+    }
+  ],
+  "local_html": "sources/pages/904daaf30539.html",
+  "sha256": "2e02129da9f788ad316174a25a43830d203177cc8c3e7d9fb2750772f1d6f022"
+}

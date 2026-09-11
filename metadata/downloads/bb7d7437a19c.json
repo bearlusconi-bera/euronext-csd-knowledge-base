@@ -1,0 +1,35 @@
+{
+  "id": "bb7d7437a19c",
+  "url": "https://www.euronext.com/en/media/9947/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/9947/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:46 GMT",
+  "local_path": "sources/documents/bb7d7437a19c-FAQs-Issuer-Onboarding.pdf",
+  "sha256": "f1f97317a6e4e884d291befc8c1f7b561d09e2f7e7cfda54e30e26c0fc8283ec",
+  "bytes": 400099,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 13,
+  "text_path": "extracted/bb7d7437a19c.md",
+  "text_characters": 18447,
+  "low_text_pages": [
+    4,
+    5,
+    13
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Creative Services",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word per Microsoft 365",
+    "producer": "Microsoft® Word per Microsoft 365",
+    "creationDate": "D:20230913175742+02'00'",
+    "modDate": "D:20230913175742+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

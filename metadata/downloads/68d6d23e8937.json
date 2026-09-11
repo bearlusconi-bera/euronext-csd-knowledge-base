@@ -1,0 +1,31 @@
+{
+  "id": "68d6d23e8937",
+  "url": "https://www.euronext.com/sites/default/files/2026-04/ES-PTO_2025_Relat%C3%B3rio%20Anual_VFinal_completa.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-04/ES-PTO_2025_Relat%C3%B3rio%20Anual_VFinal_completa.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 09 Apr 2026 16:00:53 GMT",
+  "local_path": "sources/documents/68d6d23e8937-Euronext-Securities-Porto-Relatorio-Anual-2025.pdf",
+  "sha256": "96b73a0e4f9847b1a847edfc5cde3a7d986cd8b760e52ad522f85203e9399aed",
+  "bytes": 1213722,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 113,
+  "text_path": "extracted/68d6d23e8937.md",
+  "text_characters": 294720,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Miguel Brochado",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat (64-bit) 26.1.21367",
+    "producer": "Adobe Acrobat (64-bit) 26.1.21367",
+    "creationDate": "D:20260408162558+01'00'",
+    "modDate": "D:20260408162651+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

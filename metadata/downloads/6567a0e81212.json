@@ -1,0 +1,31 @@
+{
+  "id": "6567a0e81212",
+  "url": "https://www.euronext.com/sites/default/files/2022-09/IB_Relat%C3%B3rio_Trimestral_Setembro-2019.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-09/IB_Relat%C3%B3rio_Trimestral_Setembro-2019.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:16 GMT",
+  "local_path": "sources/documents/6567a0e81212-Relatorio-3o-trimestre-de-2019.pdf",
+  "sha256": "ebcc8704525e43a5ee4fdcafb0cb25ea52e9a58211b35d10f3dfca1cfa63b1f2",
+  "bytes": 620483,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 30,
+  "text_path": "extracted/6567a0e81212.md",
+  "text_characters": 71738,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "steve",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word for Office 365",
+    "producer": "Microsoft® Word for Office 365",
+    "creationDate": "D:20191125164602+00'00'",
+    "modDate": "D:20191125164602+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

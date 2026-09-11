@@ -1,0 +1,31 @@
+{
+  "id": "e59804274186",
+  "url": "https://www.euronext.com/sites/default/files/2025-06/euronext_securities_porto_relatorio_1o_trimestre_2025.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-06/euronext_securities_porto_relatorio_1o_trimestre_2025.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 27 Jun 2025 16:24:45 GMT",
+  "local_path": "sources/documents/e59804274186-Euronext-Securities-Porto-Relatorio-1o-trimestre-2025.pdf",
+  "sha256": "aac6e1c4b21495cc7b7648d0f2108553a9631685855a516b282ea1d35c8d2156",
+  "bytes": 712247,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 43,
+  "text_path": "extracted/e59804274186.md",
+  "text_characters": 93426,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Miguel Brochado",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word para Microsoft 365",
+    "producer": "Microsoft® Word para Microsoft 365",
+    "creationDate": "D:20250625152125+01'00'",
+    "modDate": "D:20250625152125+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "49d778a4479c",
+  "url": "https://www.euronext.com/sites/default/files/2026-05/euronext_securities_-_isins_for_uk_stamp_duty_0.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-05/euronext_securities_-_isins_for_uk_stamp_duty_0.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Wed, 13 May 2026 14:28:58 GMT",
+  "local_path": "sources/documents/49d778a4479c-ISINs-for-UK-Stamp-Duty.xlsx",
+  "sha256": "7b2ade72b85eda539980f0c0672c19d181f8ed2464a350204a5fe2990f84dc7d",
+  "bytes": 20368,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

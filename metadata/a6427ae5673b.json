@@ -1,0 +1,25 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/shareholders-rights-directive/srd-ii-general-meetings",
+  "retrieved_at": "2026-09-11",
+  "id": "a6427ae5673b",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/shareholders-rights-directive/srd-ii-general-meetings",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:29 GMT",
+  "title": "SRD II – General Meetings",
+  "text": "SRD II – General Meetings\nSince September 3, 2020 Euronext Securities Porto sends the notification of the General Meetings notices, according to the information received from the Issuers\nInformation flow:\n① – Issuer sends the request to Euronext Securities Porto through My INTERBOLSA\n② – Euronext Securities Porto validates de request\n③ – Euronext Securities Porto sends the notification of the request to its Participants, through STD, ISO 15022 messages (MT564 + MT568) and ISO 20022 messages (seev.001 e seev.002)\nHow to make a request:\nIssuers must send to Euronext Securities Porto, through the private area web portal – My INTERBOLSA , the requests for the notification of General Meetings notice, filling in the required information.\nHow to cancel / change a request:\nThrough My INTERBOLSA is also possible to cancel a requests for the notification of General Meetings notice and update the information previously sent.\nNotification of the request:\nThe requests for the notification of General Meetings notice are sent by Euronext Securities Porto, as Issuer CSD, to its participants without delay:\nOn the same day the request is received; or\nUntil 10 am on the next business day, if the request was received after 4 pm.\nThe notification of General Meetings notice is performed though the:\nSTD: message NOTEVT – Corporate Actions Notification);\nISO 15022: messages MT 564 – Corporate Actions Notification and MT568 – Corporate Actions Narrative – General Meetings; or\nISO 20022: messages seev.001 – Meeting Notification e seev.002 – Meeting Cancellation.\nSupporting documentation\nPDF\nGeneral Meetings (Layouts)\nEnglish\nVersion\nEnglish\n26/07/2023\nGeneral Meetings (Layouts)\n/sites/default/files/2023-07/general-meetings-layouts.pdf",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/porto/our-clients/my-interbolsa",
+      "title": "My INTERBOLSA",
+      "context": "Since September 3, 2020 Euronext Securities Porto sends the notification of the General Meetings notices, according to the information received from the Issuers Information flow: ① – Issuer sends the request to Euronext Securities Porto through My INTERBOLSA ② – Euronext Securities Porto validates de request ③ – Euronext Securities Porto sends the notification of the request to its Participants, through STD, ISO 15022 messages (MT564 + MT568) and ISO 20022 messages (seev.001 e seev.002) How to make a request: Issuers must send to Euronext Securities Porto, through the private area web portal – My INTERBOLSA , the requests for the notification of General Meetings notice, filling in the required information. How to cancel / change a request: Through My INTERBOLSA is also possible to cancel a requests for the notification of General Meetings notice and update the information previously sent. Notification of the request: The requests for the notification of General Meetings notice are sent by Euronext Securities Porto, as Issuer CSD, to its participants without delay: On the same day the request is received; or Until 10 am on the next business day, if the request was received after 4 pm. The notification of General Meetings notice is performed though the: STD: message NOTEVT – Corporate Actions Notification); ISO 15022: messages MT 564 – Corporate Actions Notification and MT568 – C"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2023-07/general-meetings-layouts.pdf",
+      "title": "General Meetings (Layouts)",
+      "context": "PDF General Meetings (Layouts) English Version English 26/07/2023 General Meetings (Layouts) /sites/default/files/2023-07/general-meetings-layouts.pdf"
+    }
+  ],
+  "local_html": "sources/pages/a6427ae5673b.html",
+  "sha256": "371cfc862ee9a31fd56685e288ce88b85094306fc915c7acfaee621847edd223"
+}

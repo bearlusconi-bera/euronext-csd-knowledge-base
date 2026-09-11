@@ -1,0 +1,31 @@
+{
+  "id": "b79ca9714947",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4218%20-%20FI%20%E2%80%93%20form%20VEROH%206167E%20%28appendix%207%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4218%20-%20FI%20%E2%80%93%20form%20VEROH%206167E%20%28appendix%207%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/b79ca9714947-FI-form-VEROH-6167E-appendix-7.pdf",
+  "sha256": "7e1679fe2424eacb8fdd8041cfed87efb092273660283cf577c6b51419d38527",
+  "bytes": 140016,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/b79ca9714947.md",
+  "text_characters": 3488,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "PDFium",
+    "producer": "PDFium",
+    "creationDate": "D:20200527161416Z",
+    "modDate": "D:20200528085658+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

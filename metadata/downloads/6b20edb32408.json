@@ -1,0 +1,14 @@
+{
+  "id": "6b20edb32408",
+  "url": "https://www.esma.europa.eu/sites/default/files/2023-03/ESMA70-447-2367_CSDR_Internalised_Settlement_Reporting_-_Issuer_CSDs_LEIs.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2023-03/ESMA70-447-2367_CSDR_Internalised_Settlement_Reporting_-_Issuer_CSDs_LEIs.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Fri, 23 Feb 2024 09:36:13 GMT",
+  "local_path": "sources/documents/6b20edb32408-List.xlsx",
+  "sha256": "822d51798f8176cf9740d7cc0c9d80405a966c7cc7bacde129a93c27267bc064",
+  "bytes": 29615,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

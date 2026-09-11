@@ -1,0 +1,31 @@
+{
+  "id": "d6e09341b06c",
+  "url": "https://www.euronext.com/sites/default/files/2026-07/sdd_data_services.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-07/sdd_data_services.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 02 Jul 2026 09:33:24 GMT",
+  "local_path": "sources/documents/d6e09341b06c-sdd-Data-Services-pdf.pdf",
+  "sha256": "f4572088611992828031b0f1fd4daf10f284d79a5d6aa91a40245c100f66e296",
+  "bytes": 204807,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 10,
+  "text_path": "extracted/d6e09341b06c.md",
+  "text_characters": 18082,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Alexandra Hegarty",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260702101231+01'00'",
+    "modDate": "D:20260702101231+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

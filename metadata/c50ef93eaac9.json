@@ -1,0 +1,35 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/shareholder-register-services",
+  "retrieved_at": "2026-09-11",
+  "id": "c50ef93eaac9",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/investor-services/shareholder-register-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:01 GMT",
+  "title": "Shareholder Register Services",
+  "text": "Shareholder Register Services\nWe offer a safe and simple shareholder register service.\nEvery limited liability company is obliged to hold a shareholder register – a list of all shareholders registered by name. If this is done manually, it can be very time-consuming.\nEuronext Securities Copenhagen - Investor Services offers you an efficient online shareholder register solution that is updated automatically on a daily basis with transactions from the Central Securities Depository (CSD).\nOur secure online platform is accessible 24/7 and is protected under the same standards as the CSD. This gives your company access to relevant shareholder data via a user-friendly interface. The interface is specifically designed to meet the needs of corporate legal departments, IR professionals and general management.\nThe platform is also optimised to support investment funds’ investor registers, as well as shareholder registers for non-listed companies.\n19/06/2023\nPDF\nOverview of Shareholder Register Services\nEnglish\nVersion\nEnglish\n19/06/2023\n29/06/2023\nOverview of Shareholder Register Services\n/sites/default/files/2023-06/es-cph_shareholder-register_one-pager_190623.pdf\nMeeting Services\nBe compliant with regulations and meet investor expectations. Our tried and tested platform and experienced meeting services team can ensure that your AGM runs efficiently, from A to Z.\nRead more\nDiscover our general meeting support\nYour general meeting, our expertise\nEuronext Securities offers comprehensive solutions to ensure your general meeting runs smoothly and efficiently. Discover our expertise, tailored services and practical guidance in our brochure. download brochure\nReady to see for yourself?\nEuronext Securities is one of the most experienced partners when it comes to AGM support, with more than 550 AGMs per year and more than 20 years' experience across our locations.\nRequest a free demo\nContacts\nInvestor Services\nOpening hours: 9:00 - 16:00 CET\n+45 4358 8866\nCPH-investor@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2023-06/es-cph_shareholder-register_one-pager_190623.pdf",
+      "title": "Overview of Shareholder Register Services",
+      "context": "19/06/2023 PDF Overview of Shareholder Register Services English Version English 19/06/2023 29/06/2023 Overview of Shareholder Register Services /sites/default/files/2023-06/es-cph_shareholder-register_one-pager_190623.pdf"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/meeting-services",
+      "title": "Read more",
+      "context": "Meeting Services Be compliant with regulations and meet investor expectations. Our tried and tested platform and experienced meeting services team can ensure that your AGM runs efficiently, from A to Z. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2026-03/Your%20general%20meeting%2C%20our%20expertise.pdf",
+      "title": "download brochure",
+      "context": "Discover our general meeting support Your general meeting, our expertise Euronext Securities offers comprehensive solutions to ensure your general meeting runs smoothly and efficiently. Discover our expertise, tailored services and practical guidance in our brochure. download brochure"
+    },
+    {
+      "url": "https://assets-gbr.mkt.dynamics.com/f43dc028-7644-4515-bdcc-4c671d8ff19c/digitalassets/standaloneforms/56298f29-57fc-f011-8407-7ced8d9cf500",
+      "title": "Request a free demo",
+      "context": "Ready to see for yourself? Euronext Securities is one of the most experienced partners when it comes to AGM support, with more than 550 AGMs per year and more than 20 years' experience across our locations. Request a free demo"
+    }
+  ],
+  "local_html": "sources/pages/c50ef93eaac9.html",
+  "sha256": "4e9906c2f305f5a80e71de1f498ef1831af3891b43fda7da75ee15743ab6d17c"
+}

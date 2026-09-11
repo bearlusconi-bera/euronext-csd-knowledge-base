@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/membership/connectivity",
+  "retrieved_at": "2026-09-11",
+  "id": "7fbcd9b09fed",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/membership/connectivity",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:18 GMT",
+  "title": "Connectivity",
+  "text": "Connectivity\nEuronext Securities Milan offers its customers the possibility to choose between the following connection channels:\nSWIFT\nNational Interbank Network (RNI)\nMilan 4U (Web based interface). the access portal that allows our customers to connect with our Membership, Pre-Settlement, Settlement, Custody and Collateral platforms\nA2A\nAccess to Target 2 Securities services can take place in the following ways:\nDCP (Directly Connected Participant)\nICP (Indirectly Connected Participant)\nThe difference between the connection methods is represented by the different technical infrastructure used to communicate with the Target 2 Securities platform, while still maintaining the contractual relationship with Euronext Securities Milan.\nOur Sales team will be happy to further illustrate our range of products and services.\nContacts\nFinancial Intermediaries dedicated support and escalation\nEuronext Securities Milan – Client services\neam@euronext.com\nSupport for MOTI4U licenses\nEuronext Securities Milan – Client services\npt.clientservices@euronext.com",
+  "links": [],
+  "local_html": "sources/pages/7fbcd9b09fed.html",
+  "sha256": "a0c4a3c48f9acf9c4c03b1d9357219c9076d0689d266caaa623eb2f4d9617290"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "acd3e650be99",
+  "url": "https://www.euronext.com/sites/default/files/2025-04/2025%20Rem%20policy_ES%20MIL.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-04/2025%20Rem%20policy_ES%20MIL.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 03 Apr 2025 13:16:24 GMT",
+  "local_path": "sources/documents/acd3e650be99-ES-MIL-Remuneration-Policy.pdf",
+  "sha256": "3dab0919511823a6af448f6e234907d9a40808daf85ae0d4a17de3a23bc25228",
+  "bytes": 282793,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 16,
+  "text_path": "extracted/acd3e650be99.md",
+  "text_characters": 26006,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Remuneration Policy 2022",
+    "author": "Elisa Nanni",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 21 for Word",
+    "producer": "Adobe PDF Library 21.1.167",
+    "creationDate": "D:20250324190052+01'00'",
+    "modDate": "D:20250324190055+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "89a68f24587e",
+  "url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%2012%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A3%2012042021.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%2012%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A3%2012042021.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 01 May 2024 11:02:36 GMT",
+  "local_path": "sources/documents/89a68f24587e-ATHEXCSD-Resolution-12.pdf",
+  "sha256": "e6623d1ff417c99ea40ff9705473620dffa82bc155cd18b3115fc9b133ff0c8c",
+  "bytes": 138875,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/89a68f24587e.md",
+  "text_characters": 7304,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Tarnanidou, Christina",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210402141626+03'00'",
+    "modDate": "D:20210402141626+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

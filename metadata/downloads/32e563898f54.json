@@ -1,0 +1,31 @@
+{
+  "id": "32e563898f54",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/Interbolsa%201_2026_%20Corporate%20Events.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/Interbolsa%201_2026_%20Corporate%20Events.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 26 Jan 2026 16:38:36 GMT",
+  "local_path": "sources/documents/32e563898f54-INTERBOLSA-Circular-1-2026.pdf",
+  "sha256": "160be1b4656352396768c0af6974646e20aaf285c1db3d6a2a046ce5b774f972",
+  "bytes": 246473,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 15,
+  "text_path": "extracted/32e563898f54.md",
+  "text_characters": 33176,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Helena Teixeira Lopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260126163734+00'00'",
+    "modDate": "D:20260126163734+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

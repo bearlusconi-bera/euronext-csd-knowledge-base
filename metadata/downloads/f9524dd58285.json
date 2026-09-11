@@ -1,0 +1,31 @@
+{
+  "id": "f9524dd58285",
+  "url": "https://www.euronext.com/sites/default/files/2022-09/Procedure%20on%20insolvency%20of%20participants%20or%20issuers.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-09/Procedure%20on%20insolvency%20of%20participants%20or%20issuers.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:17 GMT",
+  "local_path": "sources/documents/f9524dd58285-Insolvency-Procedure.pdf",
+  "sha256": "343a83da2b820b5c62258e5d78bd5660905d531db8eca7a848fe7448d4bda778",
+  "bytes": 215860,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/f9524dd58285.md",
+  "text_characters": 22659,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Procedure on insolvency of Participants or Issuers",
+    "author": "Bente Jensen",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 21 til Word",
+    "producer": "Adobe PDF Library 21.1.177",
+    "creationDate": "D:20210315094240+01'00'",
+    "modDate": "D:20210315094257+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

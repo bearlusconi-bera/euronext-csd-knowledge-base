@@ -1,0 +1,14 @@
+{
+  "id": "a1ac26816453",
+  "url": "https://www.euronext.com/sites/default/files/2026-08/questionlist.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-08/questionlist.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Fri, 21 Aug 2026 16:58:05 GMT",
+  "local_path": "sources/documents/a1ac26816453-Q-A-Log-xlsx.xlsx",
+  "sha256": "7e07bf76fa2aba31706a5c00539d7faf95d7d5cd4dc128942968a5299ce0de18",
+  "bytes": 82361,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

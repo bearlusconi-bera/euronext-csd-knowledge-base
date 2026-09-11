@@ -1,0 +1,33 @@
+{
+  "id": "409d821fab4f",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4427%20-%20Switzerland%20-%20Fiscal%20Operational%20Guide.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4427%20-%20Switzerland%20-%20Fiscal%20Operational%20Guide.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:41 GMT",
+  "local_path": "sources/documents/409d821fab4f-Switzerland-Fiscal-Operational-Guide.pdf",
+  "sha256": "c368253bee1d5d41ffb41acffac2b6c7bb35d19d99110ae019838484a51b0f33",
+  "bytes": 383922,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 9,
+  "text_path": "extracted/409d821fab4f.md",
+  "text_characters": 9511,
+  "low_text_pages": [
+    9
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4427 - Switzerland - Fiscal Operational Guide",
+    "author": "GArdizzon",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220422171830+02'00'",
+    "modDate": "D:20220422171830+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

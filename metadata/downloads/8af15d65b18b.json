@@ -1,0 +1,31 @@
+{
+  "id": "8af15d65b18b",
+  "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UDFS_R2026.NOV_revised_20260731.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UDFS_R2026.NOV_revised_20260731.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 03 Aug 2026 12:08:15 GMT",
+  "local_path": "sources/documents/8af15d65b18b-T2S-User-Detailed-Functional-Specification-R2026-NOV-UDFS-Version-in-revision-marks.pdf",
+  "sha256": "e6d7f9aac37c60550d927ef66774642cc5641ded22da4ded1d3840afdbc26431",
+  "bytes": 47864381,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2135,
+  "text_path": "extracted/8af15d65b18b.md",
+  "text_characters": 6347353,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "UDFS R2026.NOV Version in revision marks",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "TargetServices - Scope Defining Documents  ",
+    "creator": "Scroll PDF Exporter / K15t GmbH",
+    "producer": "PDFreactor 12.4.0 (Licensee: K15t GmbH #3945)",
+    "creationDate": "D:20260728075753+02'00'",
+    "modDate": "D:20260803140716+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

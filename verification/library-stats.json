@@ -1,0 +1,20 @@
+{
+  "as_of": "2026-09-11",
+  "catalogued_document_urls": 918,
+  "retained_document_files": 800,
+  "unique_retained_contents": 787,
+  "pdf_files": 694,
+  "pdf_pages_including_duplicate_files": 29084,
+  "unique_pdf_pages": 28629,
+  "retained_bytes": 648005578,
+  "curated_documents": 84,
+  "complete_selected_legal_texts": 14,
+  "page_records_with_link_extraction": 357,
+  "types": {
+    "pdf": 694,
+    "xlsx": 51,
+    "xls": 3,
+    "zip": 14,
+    "docx": 38
+  }
+}

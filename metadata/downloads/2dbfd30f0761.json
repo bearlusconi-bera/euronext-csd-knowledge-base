@@ -1,0 +1,14 @@
+{
+  "id": "2dbfd30f0761",
+  "url": "https://www.euronext.com/sites/default/files/2026-05/euronext_securities_-_isins_for_french_registered_shares_130526_0.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-05/euronext_securities_-_isins_for_french_registered_shares_130526_0.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Wed, 13 May 2026 14:13:06 GMT",
+  "local_path": "sources/documents/2dbfd30f0761-ISINs-for-french-registered-shares.xlsx",
+  "sha256": "7115a526b49d57a48931aa85d1821ca0df9170e2eb30711ebc0b22d8454f2ee1",
+  "bytes": 20451,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "da213fd187f6",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_EN_GR_Market_Holidays_Ημερολόγιο_Αργιών_Αλλοδαπών_Αγορών_2026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_EN_GR_Market_Holidays_%CE%97%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF_%CE%91%CF%81%CE%B3%CE%B9%CF%8E%CE%BD_%CE%91%CE%BB%CE%BB%CE%BF%CE%B4%CE%B1%CF%80%CF%8E%CE%BD_%CE%91%CE%B3%CE%BF%CF%81%CF%8E%CE%BD_2026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 15 Apr 2026 16:47:56 GMT",
+  "local_path": "sources/documents/da213fd187f6-Holidays-2026.pdf",
+  "sha256": "c7ca0a5454afe0ef9743b291f2464179852b740b42166092e3c596dd5240ed86",
+  "bytes": 113345,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/da213fd187f6.md",
+  "text_characters": 2033,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Kalousi, Ekaterini",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ (PUBLIC)ΑΓΓΛΙΚΗ (ENGLISH)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260415094903+03'00'",
+    "modDate": "D:20260415094903+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

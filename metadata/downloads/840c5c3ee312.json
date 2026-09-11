@@ -1,0 +1,31 @@
+{
+  "id": "840c5c3ee312",
+  "url": "https://www.euronext.com/sites/default/files/2024-08/euronext_securities_porto_csd_links_march_2023.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-08/euronext_securities_porto_csd_links_march_2023.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:58 GMT",
+  "local_path": "sources/documents/840c5c3ee312-Euronext-Securities-Porto-CSD-Links.pdf",
+  "sha256": "d99e429e0b84061fd5fd92634da16283e7a49e87321fda3f816151a8cb5d7bd1",
+  "bytes": 437613,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 16,
+  "text_path": "extracted/840c5c3ee312.md",
+  "text_characters": 28396,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Manual Operativo",
+    "author": "Corina Baptista Oliveira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20230913124331+01'00'",
+    "modDate": "D:20230913124331+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

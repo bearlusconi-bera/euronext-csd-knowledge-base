@@ -1,0 +1,31 @@
+{
+  "id": "87edcab9daf1",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/RegulamentoIB.2019.01.EN_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/RegulamentoIB.2019.01.EN_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:44 GMT",
+  "local_path": "sources/documents/87edcab9daf1-INTERBOLSA-Regulation-1-2019.pdf",
+  "sha256": "ece5415227710e85f682c9fbc3056c014f15195b8aa42fccaa1f57040ee73158",
+  "bytes": 834223,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 28,
+  "text_path": "extracted/87edcab9daf1.md",
+  "text_characters": 52617,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "REGULAMENTO N",
+    "author": "HTL",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20190430153253+01'00'",
+    "modDate": "D:20190430153253+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

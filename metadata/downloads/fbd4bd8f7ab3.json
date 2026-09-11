@@ -1,0 +1,31 @@
+{
+  "id": "fbd4bd8f7ab3",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4224%20-%20P_F027%20Statement%20for%20exemption%20%28Appendix%202%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4224%20-%20P_F027%20Statement%20for%20exemption%20%28Appendix%202%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/fbd4bd8f7ab3-P-F027-Statement-for-exemption-Appendix-2.pdf",
+  "sha256": "92f70172ef4d2c93af60c0af6ed689f396f703ba53a1879cdb7c9014c2084376",
+  "bytes": 34083,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/fbd4bd8f7ab3.md",
+  "text_characters": 4405,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Portugal - P_F027 - Statement for exemption from Portuguese withholding tax on income-debt",
+    "author": "Florence Marly",
+    "subject": "P_F027",
+    "keywords": "",
+    "creator": "QuarkXPress: pictwpstops filter 1.0",
+    "producer": "Acrobat Distiller 7.0.5 for Macintosh",
+    "creationDate": "D:20080122112343+01'00'",
+    "modDate": "D:20080122112417+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

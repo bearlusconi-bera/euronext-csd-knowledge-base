@@ -1,0 +1,31 @@
+{
+  "id": "daeabb31a9c0",
+  "url": "https://www.euronext.com/sites/default/files/2023-08/relatoriotrimestral.2015_3.pt_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-08/relatoriotrimestral.2015_3.pt_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:44 GMT",
+  "local_path": "sources/documents/daeabb31a9c0-Relatorio-3o-trimestre-de-2015.pdf",
+  "sha256": "3bec73d635ac2bacf212f0ae882c0559b59cf1d6e81c8f06a53971dfa61b8b6e",
+  "bytes": 250673,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 20,
+  "text_path": "extracted/daeabb31a9c0.md",
+  "text_characters": 40973,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - 20151130_IB_Relatório_Setembro 2015.docx",
+    "author": "ARL",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20151130104948Z",
+    "modDate": "D:20151130104948Z",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "abc8167d6635",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4435%20-%20NL%20-%20List%20of%20tax%20forms%20per%20each%20country%20%28Appendix%20B%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4435%20-%20NL%20-%20List%20of%20tax%20forms%20per%20each%20country%20%28Appendix%20B%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:41 GMT",
+  "local_path": "sources/documents/abc8167d6635-NL-List-of-tax-forms-per-each-country-Appendix-B.pdf",
+  "sha256": "3b24daa8d67f7957042ffd7ac8febc38c46fa73db060a8b7495549f309bc6d7b",
+  "bytes": 428466,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 5,
+  "text_path": "extracted/abc8167d6635.md",
+  "text_characters": 7861,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4435 - NL - List of tax forms per each country (Appendix B)",
+    "author": "LPacini",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220411181840+02'00'",
+    "modDate": "D:20220411181840+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

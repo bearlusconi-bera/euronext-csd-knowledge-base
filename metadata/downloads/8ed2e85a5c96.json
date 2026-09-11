@@ -1,0 +1,31 @@
+{
+  "id": "8ed2e85a5c96",
+  "url": "https://www.euronext.com/en/media/4176/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/4176/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/8ed2e85a5c96-T2S-Gateway.pdf",
+  "sha256": "a0d38dcb32c5e97bc4b73793006a3f1c82153cd7186458685fde4fa460aa7f94",
+  "bytes": 849944,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 4,
+  "text_path": "extracted/8ed2e85a5c96.md",
+  "text_characters": 12737,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign 16.2 (Macintosh)",
+    "producer": "Adobe PDF Library 15.0",
+    "creationDate": "D:20210426120247+02'00'",
+    "modDate": "D:20210426120253+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

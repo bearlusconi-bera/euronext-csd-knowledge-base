@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/cmh-corporate-actions-and-billing-standards",
+  "retrieved_at": "2026-09-11",
+  "id": "64cb5f3d6c66",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/cmh-corporate-actions-and-billing-standards",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:09 GMT",
+  "title": "CMH - Corporate Actions and Billing Standards",
+  "text": "CMH - Corporate Actions and Billing Standards\nAMI-SeCo (Advisory Group on Market Infrastructures for Securities and Collateral), with the aim of creating a harmonised and integrated environment in the EU financial markets, has established a Task Force in order to develop Standards related to a single set of rules and processes for collateral management.\nIn particular, as far as Euronext Securities Milan is concerned, there are two main areas of intervention:\nCorporate Action handling, as relevant in the context of collateral management\nBilling processes.\nCompliance with these Standards will allow to remove the barriers to an efficient management of collateral, thanks to harmonised workflows and business processes based on a common set of data, with interoperable market infrastructures interacting among themselves and with the main stakeholders using the latest international communication standards (such as ISO 20022).\nIn this phase, Corporate Actions harmonisation is limited to debt instruments; planning for other instrument types is still to be defined.\nThe documentation concerning this project is available in the following folder of the Milan 4U customer portal, MT-X document section: “HOME > Docs > Projects > ECMS/CMH”\nRelevant Documentation - CMH\n24/06/2025\nPDF\n4656_Billing Standards CMH\nEnglish\nVersion\nEnglish\n24/06/2025\n29/05/2022\n/sites/default/files/2025-06/ESMIL_OperationalModel_BillingStandards_V1.5_ENG.pdf\n4656_Billing Standards CMH",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2025-06/ESMIL_OperationalModel_BillingStandards_V1.5_ENG.pdf",
+      "title": "4656_Billing Standards CMH",
+      "context": "24/06/2025 PDF 4656_Billing Standards CMH English Version English 24/06/2025 29/05/2022 /sites/default/files/2025-06/ESMIL_OperationalModel_BillingStandards_V1.5_ENG.pdf 4656_Billing Standards CMH"
+    }
+  ],
+  "local_html": "sources/pages/64cb5f3d6c66.html",
+  "sha256": "599055b644603e57e6082b409d19260ed94d52a8576bf811b34355a667c6ba00"
+}

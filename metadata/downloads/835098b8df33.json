@@ -1,0 +1,34 @@
+{
+  "id": "835098b8df33",
+  "url": "https://www.euronext.com/sites/default/files/2023-08/relatoriosemestral.2016_1.pt_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-08/relatoriosemestral.2016_1.pt_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:44 GMT",
+  "local_path": "sources/documents/835098b8df33-Relatorio-1o-semestre-de-2016.pdf",
+  "sha256": "3f4e68eab42d523bf03700793b032b19153995044446d0f16ac2e956a0e27fb6",
+  "bytes": 1559960,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 79,
+  "text_path": "extracted/835098b8df33.md",
+  "text_characters": 191730,
+  "low_text_pages": [
+    78,
+    79
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Relatório Anual 2004",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2010",
+    "producer": "Microsoft® Word 2010",
+    "creationDate": "D:20160831163650+01'00'",
+    "modDate": "D:20160831163754+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

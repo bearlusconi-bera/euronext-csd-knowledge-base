@@ -1,0 +1,31 @@
+{
+  "id": "99ffa109ec4b",
+  "url": "https://www.euronext.com/sites/default/files/2025-09/4396_tablemat_germany_ceu_september_2025_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-09/4396_tablemat_germany_ceu_september_2025_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 26 Sep 2025 07:17:32 GMT",
+  "local_path": "sources/documents/99ffa109ec4b-Germany-Tablemat-Quick-Market-Guide.pdf",
+  "sha256": "9dc557cc6da3076e8dd64920bbb47cdaf5384dbc4bc127f50403ac25307ffdaf",
+  "bytes": 393227,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/99ffa109ec4b.md",
+  "text_characters": 7909,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - Bozza_4396 Tablemat Germany CBF_September 2025",
+    "author": "SBacca",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20250915141922+02'00'",
+    "modDate": "D:20250915141922+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

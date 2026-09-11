@@ -1,0 +1,31 @@
+{
+  "id": "2d035dc53953",
+  "url": "https://www.esma.europa.eu/sites/default/files/2025-10/T_1_Coordination_Committee_20250922_SoC.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2025-10/T_1_Coordination_Committee_20250922_SoC.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 20 Oct 2025 17:30:03 GMT",
+  "local_path": "sources/documents/2d035dc53953-Summary-of-Conclusions.pdf",
+  "sha256": "73a6cd7b626cd440dc370881a79508e61c5afc7a884a0f06ac6a7738015576f9",
+  "bytes": 231653,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/2d035dc53953.md",
+  "text_characters": 6687,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Karole-Anne Sauvet-Frot",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251020192927+02'00'",
+    "modDate": "D:20251020192927+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

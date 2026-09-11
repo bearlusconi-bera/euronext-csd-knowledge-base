@@ -1,0 +1,31 @@
+{
+  "id": "a4a9742eb9d0",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Πληροφορίες_τήρησης_μη_εισηγμένων_τίτλων_σε_Λογαριασμό_Αξιογράφων_στo_ΣΑΤ_V1_0_EN.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_%CE%A0%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B5%CF%82_%CF%84%CE%AE%CF%81%CE%B7%CF%83%CE%B7%CF%82_%CE%BC%CE%B7_%CE%B5%CE%B9%CF%83%CE%B7%CE%B3%CE%BC%CE%AD%CE%BD%CF%89%CE%BD_%CF%84%CE%AF%CF%84%CE%BB%CF%89%CE%BD_%CF%83%CE%B5_%CE%9B%CE%BF%CE%B3%CE%B1%CF%81%CE%B9%CE%B1%CF%83%CE%BC%CF%8C_%CE%91%CE%BE%CE%B9%CE%BF%CE%B3%CF%81%CE%AC%CF%86%CF%89%CE%BD_%CF%83%CF%84o_%CE%A3%CE%91%CE%A4_V1_0_EN.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 15 Apr 2026 16:39:36 GMT",
+  "local_path": "sources/documents/a4a9742eb9d0-here.pdf",
+  "sha256": "0eee136a59948e17eb9edd501c290582fa77bdb61fdb4e66ca4babe0f89bfc6d",
+  "bytes": 95743,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/a4a9742eb9d0.md",
+  "text_characters": 5333,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Kouimtzis, Nikolaos",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ ΜΕ ΠΝΕΥΜΑΤΙΚΑ ΔΙΚΑΙΩΜΑΤΑ (PUBLIC IPRs)ΑΓΓΛΙΚΗ (ENGLISH)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260414182259+03'00'",
+    "modDate": "D:20260414182259+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

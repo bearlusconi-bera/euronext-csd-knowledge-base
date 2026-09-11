@@ -1,0 +1,31 @@
+{
+  "id": "f9ae2481a007",
+  "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_GFS_R2026.NOV_revised_20260731.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_GFS_R2026.NOV_revised_20260731.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 03 Aug 2026 09:51:19 GMT",
+  "local_path": "sources/documents/f9ae2481a007-T2S-General-Functional-Specifications-R2026-NOV-GFS-Version-in-revision-marks.pdf",
+  "sha256": "839b2b015f3e7709aafeafe8488c813cb787f93c73ef843d22dc20708de9a7eb",
+  "bytes": 16552523,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 818,
+  "text_path": "extracted/f9ae2481a007.md",
+  "text_characters": 1962376,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "GFS R2026.NOV Version in revision marks",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "TargetServices - Scope Defining Documents  ",
+    "creator": "Scroll PDF Exporter / K15t GmbH",
+    "producer": "PDFreactor 12.4.0 (Licensee: K15t GmbH #3945)",
+    "creationDate": "D:20260727162019+02'00'",
+    "modDate": "D:20260803115011+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

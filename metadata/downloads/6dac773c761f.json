@@ -1,0 +1,14 @@
+{
+  "id": "6dac773c761f",
+  "url": "https://www.euronext.com/sites/default/files/2022-03/4665_General%20Conditions%20Part%20I_Service%20Providers.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-03/4665_General%20Conditions%20Part%20I_Service%20Providers.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:30:32 GMT",
+  "local_path": "sources/documents/6dac773c761f-General-Conditions-Part-I-Service-Providers-ed-2022.docx",
+  "sha256": "a633025d9a89aaea02493d26fbe2991678198b95dd0ea38c5437d340ab3fbaaf",
+  "bytes": 80474,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "0a8395937a87",
+  "url": "https://www.esma.europa.eu/sites/default/files/2023-09/Joint-ESAs__response_to_the_Call_for_advice_on_the_designation_criteria_and_fees_for_the_DORA_oversight_framework_final.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2023-09/Joint-ESAs__response_to_the_Call_for_advice_on_the_designation_criteria_and_fees_for_the_DORA_oversight_framework_final.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 29 Sep 2023 09:27:29 GMT",
+  "local_path": "sources/documents/0a8395937a87-Joint-ESAs-Technical-Advice-on-two-EC-delegated-acts-under-the-DORA-specifying-further-cri.pdf",
+  "sha256": "13db800c6deb57522864ae8cbc4e5ccba2b4bde48d1918860c91e8d0f5d8fff8",
+  "bytes": 1013847,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 83,
+  "text_path": "extracted/0a8395937a87.md",
+  "text_characters": 253192,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 23 for Word",
+    "producer": "Adobe PDF Library 23.6.96",
+    "creationDate": "D:20230928154115+02'00'",
+    "modDate": "D:20230929112726+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

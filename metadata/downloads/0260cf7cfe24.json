@@ -1,0 +1,14 @@
+{
+  "id": "0260cf7cfe24",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/Breakdown%20for%20Fixed%20Income%20not%20RD%201145%20and%20Equities%20%28Appendix%20II%29%20%281%29.xls",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/Breakdown%20for%20Fixed%20Income%20not%20RD%201145%20and%20Equities%20%28Appendix%20II%29%20%281%29.xls",
+  "content_type": "application/vnd.ms-excel",
+  "last_modified": "Fri, 31 Jan 2025 13:29:48 GMT",
+  "local_path": "sources/documents/0260cf7cfe24-ES-Breakdown-Appendix-II.xls",
+  "sha256": "043dcd447db597b8713d82fe80589aabb0bbc7d99198c2d5367dfdfec089ecd7",
+  "bytes": 125952,
+  "file_type": "xls",
+  "review_status": "archived-not-substantively-reviewed"
+}

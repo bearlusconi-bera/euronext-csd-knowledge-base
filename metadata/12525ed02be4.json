@@ -1,0 +1,75 @@
+{
+  "url": "https://www.euronext.com/en/csd/regulatory-environment",
+  "retrieved_at": "2026-09-11",
+  "id": "12525ed02be4",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/regulatory-environment",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:08:51 GMT",
+  "title": "Regulatory Environment",
+  "text": "Regulatory Environment\nEuronext Securities facilitates well-functioning capital markets across the EU.As such, we are subject to thorough regulation and supervision.\nCompliant with national and international rules\nAs Central Securities Depositories (CSDs), we operate in a fast-moving, ever-changing legal and regulatory environment.\nOur processes are subject to the rules of the respective supervisory authorities in each country in which we operate.\nWe aim to create long-term value as a trusted cornerstone of capital markets. We provide robust and relevant services to the capital markets. These services are in full compliance with existing national and international rules and laws.\nMonitoring regulatory requirements\nWe constantly monitor developments across the regulatory landscape. We work on initiatives that directly impact the activities of our central depositories and those of our clients. We partner with our customers to find solutions to their regulatory requirements.\nWorking towards harmonised capital markets\nEuropean institutions emphasise the role of market infrastructures in strengthening the resilience and integration of capital markets. Euronext Securities helps implement the agenda of Capital Markets Union. We actively participate in discussions with the European Commission and the Supervisory and Regulatory Authorities of financial markets.\nOur aim is to support the harmonisation and efficiency of Post-Trade processes.\nRegulatory initiatives\nAll of our regulatory initiatives are designed to strengthen the organisation by:\nmeeting legal requirements\nenhancing internal controls and cybersecurity\ndeveloping our risk-conscious mindset\nLocal regulations\nWe aim to harmonise rules and regulations across countries and markets. Of course, local regulations do apply to each of our CSDs.\nFind out more about local regulations:\n\\\nCopenhagen\nMilan\nOslo\nPorto\nCSDR\nThe Central Securities Depository Regulation (CSDR) is the European regulation for CSDs. CSDR aims to harmonise settlement processes and provide requirements for CSDs across the EU.\nLearn how Euronext Securities complies with CSDR standards.\nSettlement Discipline Regime\nThe Settlement Discipline Regime (SDR) is a central aspect of the CSDR. One of the objectives of the CSDR is to improve the safety and efficiency of securities settlement, particularly for cross-border transactions, by ensuring that buyers and sellers receive their securities and money on time and without risks.\nLearn more about SDR\nLEI Code\nTo comply with CSDR, issuers and intermediaries must have a Legal Entity Identifier (LEI) code and report it to their Euronext Securities CSD.\nLearn more about LEI cod…\nRelated pages\nThis section covers European regulations that had material impact on the CSD business in recent history and/or in the years to come.\nCSDR\nSDR\nLEI Code\nSRD II\nCMH",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/regulation",
+      "title": "Copenhagen",
+      "context": "Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/milan/regulatory-landscape",
+      "title": "Milan",
+      "context": "Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/about-us/legal-framework",
+      "title": "Oslo",
+      "context": "Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/porto/legislation-and-regulation",
+      "title": "Porto",
+      "context": "Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/post-trade/euronext-securities-new/regulatory-environment/central-securities-depository-regulation",
+      "title": "Learn how Euronext Securities complies with CSDR standards.",
+      "context": "CSDR The Central Securities Depository Regulation (CSDR) is the European regulation for CSDs. CSDR aims to harmonise settlement processes and provide requirements for CSDs across the EU. Learn how Euronext Securities complies with CSDR standards."
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/regulatory-environment/csdr/settlement-discipline-regime",
+      "title": "Learn more about SDR",
+      "context": "Settlement Discipline Regime The Settlement Discipline Regime (SDR) is a central aspect of the CSDR. One of the objectives of the CSDR is to improve the safety and efficiency of securities settlement, particularly for cross-border transactions, by ensuring that buyers and sellers receive their securities and money on time and without risks. Learn more about SDR LEI Code To comply with CSDR, issuers and intermediaries must have a Legal Entity Identifier (LEI) code and report it to their Euronext Securities CSD. Learn more about LEI cod…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/regulatory-environment/csdr/legal-entity-identifier-code-old",
+      "title": "Learn more about LEI cod…",
+      "context": "Settlement Discipline Regime The Settlement Discipline Regime (SDR) is a central aspect of the CSDR. One of the objectives of the CSDR is to improve the safety and efficiency of securities settlement, particularly for cross-border transactions, by ensuring that buyers and sellers receive their securities and money on time and without risks. Learn more about SDR LEI Code To comply with CSDR, issuers and intermediaries must have a Legal Entity Identifier (LEI) code and report it to their Euronext Securities CSD. Learn more about LEI cod…"
+    },
+    {
+      "url": "https://www.euronext.com/post-trade/euronext-securities-new/regulatory-environment/central-securities-depository-regulation",
+      "title": "CSDR",
+      "context": "Related pages This section covers European regulations that had material impact on the CSD business in recent history and/or in the years to come. CSDR SDR LEI Code SRD II CMH"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/regulatory-environment/csdr/settlement-discipline-regime",
+      "title": "SDR",
+      "context": "Related pages This section covers European regulations that had material impact on the CSD business in recent history and/or in the years to come. CSDR SDR LEI Code SRD II CMH"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/regulatory-environment/csdr/legal-entity-identifier-code-old",
+      "title": "LEI Code",
+      "context": "Related pages This section covers European regulations that had material impact on the CSD business in recent history and/or in the years to come. CSDR SDR LEI Code SRD II CMH"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/regulatory-environment/shareholder-rights-directive-ii",
+      "title": "SRD II",
+      "context": "Related pages This section covers European regulations that had material impact on the CSD business in recent history and/or in the years to come. CSDR SDR LEI Code SRD II CMH"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/regulatory-environment/collateral-management-harmonisation",
+      "title": "CMH",
+      "context": "Related pages This section covers European regulations that had material impact on the CSD business in recent history and/or in the years to come. CSDR SDR LEI Code SRD II CMH"
+    }
+  ],
+  "local_html": "sources/pages/12525ed02be4.html",
+  "sha256": "62d729f2bf189052fbd35ff93dc35bf9d22074bdaff89381969aaf5b88cbf426"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "952ecde85ae3",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/sdd_-_euronext_securities_copenhagen_danish_tax_intelligence_service_1.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/sdd_-_euronext_securities_copenhagen_danish_tax_intelligence_service_1.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 30 Jun 2026 15:17:33 GMT",
+  "local_path": "sources/documents/952ecde85ae3-SDD-ES-CPH-Danish-Tax-Intelligence-Service-pdf.pdf",
+  "sha256": "d47e42adf189f64b74c0d375bdb4ccd0f8247562135f18d66312da357b498043",
+  "bytes": 279619,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 11,
+  "text_path": "extracted/952ecde85ae3.md",
+  "text_characters": 13045,
+  "low_text_pages": [
+    2
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Alexandra Hegarty",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260630144236+02'00'",
+    "modDate": "D:20260630144236+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

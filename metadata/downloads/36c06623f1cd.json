@@ -1,0 +1,31 @@
+{
+  "id": "36c06623f1cd",
+  "url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%206%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A3%2012042021.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%206%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A3%2012042021.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 01 May 2024 11:02:08 GMT",
+  "local_path": "sources/documents/36c06623f1cd-ATHEXCSD-Resolution-6.pdf",
+  "sha256": "0d7dff05979702710355816147ad47fc1077ce31f5145c5695939484c79b0453",
+  "bytes": 126072,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/36c06623f1cd.md",
+  "text_characters": 7360,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Stratakos,Dimitrios",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210402145253+03'00'",
+    "modDate": "D:20210402145253+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

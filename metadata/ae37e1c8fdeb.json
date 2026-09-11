@@ -1,0 +1,75 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/services",
+  "retrieved_at": "2026-09-11",
+  "id": "ae37e1c8fdeb",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Euronext Securities Athens Services | Euronext Athens",
+  "text": "EURONEXT ATHENS\nEuronext Securities Athens Services\nInitial Recording of Securities\nSecurities Accounts\nSettlement Services\nRegistry Services\nCorporate Actions\nTax Support Services\nEuronext Securities Athens Links\nSEE ALSO\nAXIAweb\nAXIAsms-email\nAXIA Shareholders Identification\nAXIAlei\nEURONEXT ATHENS\nQuick Login to Euronext Athens Services\nAccess the Euronext Athens Services\nACCESS HERE",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities",
+      "title": "Initial Recording of Securities",
+      "context": "Initial Recording of Securities Securities Accounts Settlement Services Registry Services Corporate Actions Tax Support Services Euronext Securities Athens Links"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/securities-accounts",
+      "title": "Securities Accounts",
+      "context": "Initial Recording of Securities Securities Accounts Settlement Services Registry Services Corporate Actions Tax Support Services Euronext Securities Athens Links"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services",
+      "title": "Settlement Services",
+      "context": "Initial Recording of Securities Securities Accounts Settlement Services Registry Services Corporate Actions Tax Support Services Euronext Securities Athens Links"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services",
+      "title": "Registry Services",
+      "context": "Initial Recording of Securities Securities Accounts Settlement Services Registry Services Corporate Actions Tax Support Services Euronext Securities Athens Links"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/corporate-actions",
+      "title": "Corporate Actions",
+      "context": "Initial Recording of Securities Securities Accounts Settlement Services Registry Services Corporate Actions Tax Support Services Euronext Securities Athens Links"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/tax-services",
+      "title": "Tax Support Services",
+      "context": "Initial Recording of Securities Securities Accounts Settlement Services Registry Services Corporate Actions Tax Support Services Euronext Securities Athens Links"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/csd-links",
+      "title": "Euronext Securities Athens Links",
+      "context": "Initial Recording of Securities Securities Accounts Settlement Services Registry Services Corporate Actions Tax Support Services Euronext Securities Athens Links"
+    },
+    {
+      "url": "https://athens.euronext.com/en/solutions-and-services/technology/axiaweb",
+      "title": "AXIAweb",
+      "context": "AXIAweb AXIAsms-email AXIA Shareholders Identification AXIAlei"
+    },
+    {
+      "url": "https://athens.euronext.com/en/solutions-and-services/technology/axiasms",
+      "title": "AXIAsms-email",
+      "context": "AXIAweb AXIAsms-email AXIA Shareholders Identification AXIAlei"
+    },
+    {
+      "url": "https://athens.euronext.com/en/solutions-and-services/technology/shareholder-id",
+      "title": "AXIA Shareholders Identification",
+      "context": "AXIAweb AXIAsms-email AXIA Shareholders Identification AXIAlei"
+    },
+    {
+      "url": "https://athens.euronext.com/en/solutions-and-services/technology/axialei",
+      "title": "AXIAlei",
+      "context": "AXIAweb AXIAsms-email AXIA Shareholders Identification AXIAlei"
+    },
+    {
+      "url": "https://athens.euronext.com/en/solutions-and-services/technology/quick-login-athex-services",
+      "title": "ACCESS HERE",
+      "context": "EURONEXT ATHENS Quick Login to Euronext Athens Services Access the Euronext Athens Services ACCESS HERE"
+    }
+  ],
+  "local_html": "sources/pages/ae37e1c8fdeb.html",
+  "sha256": "9ae35cedcc7fa784ca916a8583fbc36920c92667900ac2c567d0643caf23a860"
+}

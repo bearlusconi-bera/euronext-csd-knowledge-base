@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/post-trade/euronext-securities/oslo/login",
+  "retrieved_at": "2026-09-11",
+  "id": "61a9d9208529",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/login",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:51:02 GMT",
+  "title": "MyVPS",
+  "text": "MyVPS\nThe portal for Euronext Securities Oslo Clients\nLogin to MyVPS\nVPS Investortjenester (Private Investors)\nVPS Investortjenester (Institutional)\nVPS Issuer Services\nVPS Client pages\nPublic Shareholder Register\nNEW!\nExplore the Public Shareholder Portal and gain insight into ownership of Norwegian companies listed on Oslo Børs' market places.\nThe service is free and accessible for Danish, Norwegian and Swedish investors.\nRegister now",
+  "links": [
+    {
+      "url": "https://investor.vps.no/garm/auth?category=investor&rs=/vip/auth/login%3F",
+      "title": "VPS Investortjenester (Private Investors)",
+      "context": "VPS Investortjenester (Private Investors)"
+    },
+    {
+      "url": "https://investor.vps.no/garm/auth/login",
+      "title": "VPS Investortjenester (Institutional)",
+      "context": "VPS Investortjenester (Institutional)"
+    },
+    {
+      "url": "https://foretak.vps.no/garm/auth/login",
+      "title": "VPS Issuer Services",
+      "context": "VPS Issuer Services"
+    },
+    {
+      "url": "https://csdclient.vps.no/pub/cust",
+      "title": "VPS Client pages",
+      "context": "VPS Client pages"
+    },
+    {
+      "url": "https://www.aksjeeierregisteret.no?lang=en",
+      "title": "Register now",
+      "context": "Public Shareholder Register NEW! Explore the Public Shareholder Portal and gain insight into ownership of Norwegian companies listed on Oslo Børs' market places. The service is free and accessible for Danish, Norwegian and Swedish investors. Register now"
+    }
+  ],
+  "local_html": "sources/pages/61a9d9208529.html",
+  "sha256": "eb35c0943228ff71348ce09c730a4d354c934e6d4d2bbed01dd70661eb22f48a"
+}

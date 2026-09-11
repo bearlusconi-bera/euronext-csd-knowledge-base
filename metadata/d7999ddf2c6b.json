@@ -1,0 +1,20 @@
+{
+  "url": "https://www.esma.europa.eu/document/csd-register",
+  "retrieved_at": "2026-09-11",
+  "id": "d7999ddf2c6b",
+  "status": 200,
+  "final_url": "https://www.esma.europa.eu/document/csd-register",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 10:11:02 GMT",
+  "title": "CSD Register",
+  "text": "CSD Register\nReference\nESMA74-1194755578-334\nSection\nPost Trading\nType\nReference\nMain Document\nESMA74-1194755578-334 CSDR Register\n(EN)\nStyle\nESMA document",
+  "links": [
+    {
+      "url": "https://www.esma.europa.eu/sites/default/files/2025-10/ESMA74-1194755578-334_CSDR_Register_Art_21_58.xlsx",
+      "title": "ESMA74-1194755578-334 CSDR Register",
+      "context": "Reference ESMA74-1194755578-334 Section Post Trading Type Reference Main Document ESMA74-1194755578-334 CSDR Register (EN) Style ESMA document"
+    }
+  ],
+  "local_html": "sources/pages/d7999ddf2c6b.html",
+  "sha256": "5479a383ea572ec2c79d8affaf7ce23049d170ffb4d5d16e06edb74a3217c0b6"
+}

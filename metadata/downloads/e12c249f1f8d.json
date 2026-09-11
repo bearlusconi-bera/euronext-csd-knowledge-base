@@ -1,0 +1,31 @@
+{
+  "id": "e12c249f1f8d",
+  "url": "https://www.euronext.com/sites/default/files/2023-10/ES%20Milan%20-Privacy%20policy%20EN.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-10/ES%20Milan%20-Privacy%20policy%20EN.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:53 GMT",
+  "local_path": "sources/documents/e12c249f1f8d-Privacy-Policy.pdf",
+  "sha256": "a0baa797ab5a1c6c4199e420fdea15032ae5ec008ff41b26a38bdfac5be6ef7b",
+  "bytes": 264281,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 19,
+  "text_path": "extracted/e12c249f1f8d.md",
+  "text_characters": 48072,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Giuseppe Lapis",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20231002115048+02'00'",
+    "modDate": "D:20231002115048+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

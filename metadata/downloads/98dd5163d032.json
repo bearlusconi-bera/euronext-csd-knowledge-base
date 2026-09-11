@@ -1,0 +1,31 @@
+{
+  "id": "98dd5163d032",
+  "url": "https://www.euronext.com/sites/default/files/2022-05/4367_Tablemat%20Belgium%20NBB_aprile%202022.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-05/4367_Tablemat%20Belgium%20NBB_aprile%202022.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:46 GMT",
+  "local_path": "sources/documents/98dd5163d032-Tablemat-Belgium-via-National-Bank-of-Belgium-NBB-Quick-Market-Guide.pdf",
+  "sha256": "522eae19f6773a5510ae4174a2886952ece8b12dfa60a0f158f26697242e7458",
+  "bytes": 373822,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/98dd5163d032.md",
+  "text_characters": 7381,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4367_Tablemat Belgium NBB_aprile 2022",
+    "author": "SBacca",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220408143829+02'00'",
+    "modDate": "D:20220408143829+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

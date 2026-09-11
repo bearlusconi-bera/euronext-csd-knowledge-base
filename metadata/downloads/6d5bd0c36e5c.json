@@ -1,0 +1,31 @@
+{
+  "id": "6d5bd0c36e5c",
+  "url": "https://www.euronext.com/sites/default/files/piano-stripping/IT0005607970.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/piano-stripping/IT0005607970.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:43:32 GMT",
+  "local_path": "sources/documents/6d5bd0c36e5c-Piano-stripping-IT0005607970.pdf",
+  "sha256": "e71879ac43bc6a821b1d6d7a1e72b2ea11a9018d008a5e68111a90e71b12a53c",
+  "bytes": 56759,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/6d5bd0c36e5c.md",
+  "text_characters": 670,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - ISIN CODE IT0005607970 BTP 20350201",
+    "author": "Vincenzo Forciniti",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20240830095247+02'00'",
+    "modDate": "D:20240830095247+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

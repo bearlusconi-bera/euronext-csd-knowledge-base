@@ -1,0 +1,33 @@
+{
+  "id": "482f6bff43d1",
+  "url": "https://www.euronext.com/sites/default/files/2025-10/euronext_securities_-_fiscal_guide_france_-_issuer_csd.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-10/euronext_securities_-_fiscal_guide_france_-_issuer_csd.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 15 Oct 2025 15:10:25 GMT",
+  "local_path": "sources/documents/482f6bff43d1-Fiscal-Guide-France-Issuer-CSD.pdf",
+  "sha256": "88ce580cea01a9bc982f7a84325e7c66829f96d11e060c5ac8959c9c97ed11de",
+  "bytes": 284938,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 21,
+  "text_path": "extracted/482f6bff43d1.md",
+  "text_characters": 41751,
+  "low_text_pages": [
+    21
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Creative Services",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251015170042+02'00'",
+    "modDate": "D:20251015170042+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

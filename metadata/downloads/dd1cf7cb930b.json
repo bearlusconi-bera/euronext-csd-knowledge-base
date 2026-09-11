@@ -1,0 +1,33 @@
+{
+  "id": "dd1cf7cb930b",
+  "url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 08 Jul 2025 13:21:57 GMT",
+  "local_path": "sources/documents/dd1cf7cb930b-Instructions-to-Settlement-Service-and-related-instrumental-activities-in-force-as-of-30-J.pdf",
+  "sha256": "8c3b43dd7293906ee4915606dbe265ef1a446a6a6d85ea5448e5010b3cca7306",
+  "bytes": 1089152,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 88,
+  "text_path": "extracted/dd1cf7cb930b.md",
+  "text_characters": 176618,
+  "low_text_pages": [
+    88
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "SDIROSA",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250701150402+02'00'",
+    "modDate": "D:20250701150402+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

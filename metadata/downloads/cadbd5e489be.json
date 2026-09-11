@@ -1,0 +1,31 @@
+{
+  "id": "cadbd5e489be",
+  "url": "https://www.euronext.com/sites/default/files/2022-05/4219%20-%20FI%20-%20DTA%20Countries%20%28AppendixA%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-05/4219%20-%20FI%20-%20DTA%20Countries%20%28AppendixA%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:46 GMT",
+  "local_path": "sources/documents/cadbd5e489be-FI-DTA-Countries-Appendix-A.pdf",
+  "sha256": "60319188373294c4ec8ba26536063135587665d7e2a6e0fbf087270523878a5c",
+  "bytes": 428200,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 4,
+  "text_path": "extracted/cadbd5e489be.md",
+  "text_characters": 5715,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4219 - FI - DTA Countries (AppendixA)",
+    "author": "GArdizzon",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220429171943+02'00'",
+    "modDate": "D:20220429171943+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

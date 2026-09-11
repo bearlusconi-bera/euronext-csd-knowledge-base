@@ -1,0 +1,10 @@
+{
+  "id": "5bdcaad6d366",
+  "url": "https://www.euronext.com/en/media/15538/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/15538/download",
+  "content_type": "image/jpeg",
+  "last_modified": "Mon, 11 May 2026 08:50:46 GMT",
+  "error": "Response was not a recognised document (possibly a media landing page)"
+}

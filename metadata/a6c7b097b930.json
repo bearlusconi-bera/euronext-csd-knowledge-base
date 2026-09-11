@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/settlement",
+  "retrieved_at": "2026-09-11",
+  "id": "a6c7b097b930",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/settlement",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:59 GMT",
+  "title": "Settlement",
+  "text": "Settlement\nSingle point of access to European and Nordic distribution\nFor settlement in multiple currencies, Euronext Securities offers you a secure and efficient solution throughout Europe and the Nordic region. We are part of TARGET2-Securities (T2S) and we have direct access to Danmarks Nationalbank and Sveriges Riksbank, which gives you streamlined settlement in central bank money, EUR, DKK and SEK.\nSettlement of cash and securities can take place in both T2S and in the VP settlement batches. During daytime hours, real-time settlement is available in T2S, while settlement at other times is subject to netting.\nBased on your customers’ need for investor protection, you can choose either a segregated or omnibus account set-up.\nSettlement in VP\nEuronext Securities traditionally serves a market for segregated securities accounts, with more than 3.2 million active securities accounts. The vast majority of these securities accounts cater for the banks’ retail clients and are settled on the VP settlement platform. VP settlement and T2S settlement are therefore highly dependent on each other and we offer many features to support the entire settlement flow life cycle.\nSettlement in T2S\nDirect connection to the international securities market\nBy being part of T2S and offering direct connection to the international securities market through links to Clearstream Banking and Euroclear Bank, we provide an extensive distribution network.\nYou can settle in EUR and DKK by using standardised communication formats and functionality.\nContacts\nThere are no results found.",
+  "links": [],
+  "local_html": "sources/pages/a6c7b097b930.html",
+  "sha256": "e1a53b588c3f203e38d272ab9aa1fad0a672b15e8da3cd047d451d396122e757"
+}

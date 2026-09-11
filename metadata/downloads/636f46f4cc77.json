@@ -1,0 +1,31 @@
+{
+  "id": "636f46f4cc77",
+  "url": "https://www.euronext.com/sites/default/files/2026-04/European%20Offering%20-%20OTC%20Settlement%20Flows%20French%20Version.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-04/European%20Offering%20-%20OTC%20Settlement%20Flows%20French%20Version.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 13 Apr 2026 18:42:58 GMT",
+  "local_path": "sources/documents/636f46f4cc77-Presentation-European-Offering-OTC-Settlement-Flows-French-Version-pdf.pdf",
+  "sha256": "9a2473cdf88c5c309193f938b03c69db7e96a95b8918a9590d72f4d2a6ff5c1a",
+  "bytes": 949386,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 19,
+  "text_path": "extracted/636f46f4cc77.md",
+  "text_characters": 32712,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Diletta Ronzio",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® PowerPoint® per Microsoft 365",
+    "producer": "Microsoft® PowerPoint® per Microsoft 365",
+    "creationDate": "D:20260413204203+02'00'",
+    "modDate": "D:20260413204203+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

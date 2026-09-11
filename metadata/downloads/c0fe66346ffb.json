@@ -1,0 +1,31 @@
+{
+  "id": "c0fe66346ffb",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/iso-20022-messages_v1.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/iso-20022-messages_v1.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:30 GMT",
+  "local_path": "sources/documents/c0fe66346ffb-Layouts-ISO-20022-Messages-Specifications.pdf",
+  "sha256": "e5b791788fcd1dc4826a4d1d817122d5bfb156149ac0203891b98ccfabbf91d1",
+  "bytes": 591451,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 29,
+  "text_path": "extracted/c0fe66346ffb.md",
+  "text_characters": 117037,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Manual Operativo",
+    "author": "Corina Baptista Oliveira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2019",
+    "producer": "Microsoft® Word 2019",
+    "creationDate": "D:20221107122334+00'00'",
+    "modDate": "D:20221107122334+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

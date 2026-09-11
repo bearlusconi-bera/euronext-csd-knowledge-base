@@ -1,0 +1,31 @@
+{
+  "id": "6dc7b02878f7",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2022.01.en_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2022.01.en_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:36 GMT",
+  "local_path": "sources/documents/6dc7b02878f7-INTERBOLSA-Regulation-1-2022.pdf",
+  "sha256": "a862e9b49dbff336c991c7556acc0b6bf7517d51025519551464a26d155a80f7",
+  "bytes": 76421,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/6dc7b02878f7.md",
+  "text_characters": 2125,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Helena Teixeira Lopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20220131155021+00'00'",
+    "modDate": "D:20220131155021+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

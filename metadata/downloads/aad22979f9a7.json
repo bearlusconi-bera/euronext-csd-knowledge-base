@@ -1,0 +1,31 @@
+{
+  "id": "aad22979f9a7",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4244%20-%20P_F066%20Participants%20declaration%20%28Appendix%2020%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4244%20-%20P_F066%20Participants%20declaration%20%28Appendix%2020%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/aad22979f9a7-P-F066-Participants-declaration-Appendix-20.pdf",
+  "sha256": "a1b05c41630be500cd89c9c0a8de2318e90bf49b534c9460a2c8ad27e324a760",
+  "bytes": 121698,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/aad22979f9a7.md",
+  "text_characters": 2079,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Portugal - P_F066 Portugal - Declaration of the Participant under Article 16 of the EBF",
+    "author": "Euroclear",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2013",
+    "producer": "Microsoft® Word 2013",
+    "creationDate": "D:20161221144929+01'00'",
+    "modDate": "D:20180614124042+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

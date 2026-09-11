@@ -1,0 +1,14 @@
+{
+  "id": "e9c47cdfe775",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_client_test_set_for_dutch_registered_shares.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_client_test_set_for_dutch_registered_shares.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Thu, 22 Jan 2026 14:31:00 GMT",
+  "local_path": "sources/documents/e9c47cdfe775-Client-test-set-for-Dutch-registered-shares.xlsx",
+  "sha256": "24048c3e20537cb0ff8c82f8c8e3944e8230eca8449a7478116bbe7f5459fd7c",
+  "bytes": 25814,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

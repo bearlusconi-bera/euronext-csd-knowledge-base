@@ -1,0 +1,31 @@
+{
+  "id": "ae5921a1a431",
+  "url": "https://www.esma.europa.eu/sites/default/files/2025-12/JC-2025-85_Joint_ESAs_Report_in_response_to_the_European_Commission_consultation_pursuant_to_Article_58_3__of_Regulation__EU__20222554__DORA_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2025-12/JC-2025-85_Joint_ESAs_Report_in_response_to_the_European_Commission_consultation_pursuant_to_Article_58_3__of_Regulation__EU__20222554__DORA_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 17 Dec 2025 09:39:44 GMT",
+  "local_path": "sources/documents/ae5921a1a431-Joint-ESAs-Report-in-response-to-the-European-Commission-consultation-pursuant-to-Article-.pdf",
+  "sha256": "5081f919e61f7618760cd96fdd80aa18de066827170a72edcad6bb1091e5bbde",
+  "bytes": 264090,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/ae5921a1a431.md",
+  "text_characters": 28426,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - JC202585_ESAs_Report_Art.58",
+    "author": "Cyril Gruffat",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20251204100333+01'00'",
+    "modDate": "D:20251204100333+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

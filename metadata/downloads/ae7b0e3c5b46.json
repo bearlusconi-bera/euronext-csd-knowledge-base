@@ -1,0 +1,31 @@
+{
+  "id": "ae7b0e3c5b46",
+  "url": "https://www.euronext.com/sites/default/files/2024-06/User%20Committee%20Mandate%2007032024_Clean%20version%20PORTAL%20VF.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-06/User%20Committee%20Mandate%2007032024_Clean%20version%20PORTAL%20VF.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:44 GMT",
+  "local_path": "sources/documents/ae7b0e3c5b46-User-Committee-Terms-of-Reference.pdf",
+  "sha256": "1a0a45f6540b50b3467c5df888c5c507fb249ad50724f6d810ebfd1c6e6477a9",
+  "bytes": 173841,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 11,
+  "text_path": "extracted/ae7b0e3c5b46.md",
+  "text_characters": 20169,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 24 for Word",
+    "producer": "Adobe PDF Library 24.1.163",
+    "creationDate": "D:20240522182337+01'00'",
+    "modDate": "D:20240522182340+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

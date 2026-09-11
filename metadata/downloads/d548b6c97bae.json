@@ -1,0 +1,31 @@
+{
+  "id": "d548b6c97bae",
+  "url": "https://www.euronext.com/sites/default/files/2026-09/Configurazione%20dei%20clienti%20per%20il%20sistema%20di%20regolamento%20in%20T2S%2092026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-09/Configurazione%20dei%20clienti%20per%20il%20sistema%20di%20regolamento%20in%20T2S%2092026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 07 Sep 2026 09:43:32 GMT",
+  "local_path": "sources/documents/d548b6c97bae-Client-Configurations-T2S-September-2026.pdf",
+  "sha256": "5e9abe7c4e4d1440f384848bd04d2ab118ddccf5b6139f3bac462ad081b14e4d",
+  "bytes": 1093254,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 15,
+  "text_path": "extracted/d548b6c97bae.md",
+  "text_characters": 213980,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Configurazione dei clienti per il sistema di regolamento in T2S 92026.xlsx",
+    "author": "Alessandra Del Vasto",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20260904170426+02'00'",
+    "modDate": "D:20260904170426+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

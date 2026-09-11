@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/issuance/assignment-isins",
+  "retrieved_at": "2026-09-11",
+  "id": "9063d64cb35d",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/issuance/assignment-isins",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:58 GMT",
+  "title": "Assignment of ISINs",
+  "text": "Assignment of ISINs\nVP Securities is the National Numbering Agency (NNA) for DK ISIN codes.\nAll securities have an identification number – an ISIN (International Securities Identification Number). In Denmark, ISIN codes are assigned by VP, since we are the National Numbering Agency (NNA). If you are already a customer, you can request ISIN codes in our vp.online system. You are always free to choose to register the securities in our Central Securities Depository (CSD) or to use the code in another ecosystem.\nISIN application for instruments not to be registered in VP Securities\nIf you need an ISIN – either for your own issuances or for another issuer – and you are not at customer in VP Securities, you can still request an ISIN for other purposes than registering them in VP Securities (e.g. physical securities or registration in another CSD). Please apply the below described procedure.\nPlease fill out the ISIN application form below and send it along with additional documents stated in the form to: CPH-clientsupport@euronext.com\nWe encourage you to deliver all necessary documents at least five business days before you would need the ISIN code.\nPDF\nISIN application form\nEnglish\nVersion\nEnglish\n29/09/2022\nISIN application form\n/sites/default/files/2022-10/ISIN%20application%20form.pdf\nClient Services\nOpening Hours: Weekdays: 8:00 - 16:00 CE(S)T. Weekends: Closed. Danish Bank Holidays when T2S is closed for FOP: Closed. Danish Bank Holidays when T2S is open for FOP: 9:00 - 13:00 CET\n+45 4358 8800CPH-Clientsupport@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2022-10/ISIN%20application%20form.pdf",
+      "title": "ISIN application form",
+      "context": "PDF ISIN application form English Version English 29/09/2022 ISIN application form /sites/default/files/2022-10/ISIN%20application%20form.pdf"
+    }
+  ],
+  "local_html": "sources/pages/9063d64cb35d.html",
+  "sha256": "57c3012ae5a38ac93001dd8e153d96aa71fa8d8b810fb222053f646b5b3cb5fe"
+}

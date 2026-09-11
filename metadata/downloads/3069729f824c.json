@@ -1,0 +1,33 @@
+{
+  "id": "3069729f824c",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/Market%20Practice%20-%20Additional%20matching%20field%20in%20T2S%20-%20Allegato%20-%20ECB%20table%20-%20FAQ_CA_standards_Jan2014.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/Market%20Practice%20-%20Additional%20matching%20field%20in%20T2S%20-%20Allegato%20-%20ECB%20table%20-%20FAQ_CA_standards_Jan2014.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:40 GMT",
+  "local_path": "sources/documents/3069729f824c-Allegato-Scenarios-for-Market-Claims-detection.pdf",
+  "sha256": "fe4ab16ae794af404fe8de6a43bbce995d971e3cad08c7186b4dbef27c62225c",
+  "bytes": 141198,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/3069729f824c.md",
+  "text_characters": 17,
+  "low_text_pages": [
+    1
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "BONIPERTI Raffaella",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2010",
+    "producer": "Microsoft® Word 2010",
+    "creationDate": "D:20141105114702+01'00'",
+    "modDate": "D:20141111170053+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

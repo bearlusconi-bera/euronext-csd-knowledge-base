@@ -1,0 +1,31 @@
+{
+  "id": "67f01363d1b7",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Completion_Instructions.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Completion_Instructions.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 17 Apr 2026 07:34:31 GMT",
+  "local_path": "sources/documents/67f01363d1b7-Completion-Instructions.pdf",
+  "sha256": "3257ccd7ee3d53a0086d690352d074b6e585a59e273e4b2159d5e6c12457b7d2",
+  "bytes": 67277,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/67f01363d1b7.md",
+  "text_characters": 1414,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Thanasia, Georgia",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ (PUBLIC)ΕΛΛΗΝΙΚΗ (GREEK)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260415163135+03'00'",
+    "modDate": "D:20260415163135+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

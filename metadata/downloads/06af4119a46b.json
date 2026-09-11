@@ -1,0 +1,31 @@
+{
+  "id": "06af4119a46b",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/contratoutilizacao.en_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/contratoutilizacao.en_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:27 GMT",
+  "local_path": "sources/documents/06af4119a46b-Service-Agreement-My-INTERBOLSA.pdf",
+  "sha256": "aab97bf95c2c2f22d9cf81237eb69cf651b2d121098d1731d38182b233bc77b4",
+  "bytes": 101002,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 5,
+  "text_path": "extracted/06af4119a46b.md",
+  "text_characters": 9291,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "CONTRATO DE ADESÃO AOS SERVIÇOS PRESTADOS PELA INTERBOLSA ATRAVÉS DO PORTAL",
+    "author": "Helena Teixeira Lopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2019",
+    "producer": "Microsoft® Word 2019",
+    "creationDate": "D:20220729162300+01'00'",
+    "modDate": "D:20220729162300+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

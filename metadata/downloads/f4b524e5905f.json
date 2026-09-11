@@ -1,0 +1,31 @@
+{
+  "id": "f4b524e5905f",
+  "url": "https://www.euronext.com/sites/default/files/2026-07/connectivity_sdd_v.2_trackchanges.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-07/connectivity_sdd_v.2_trackchanges.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 03 Jul 2026 10:54:46 GMT",
+  "local_path": "sources/documents/f4b524e5905f-connectivity-sdd-v-2-trackchanges-pdf.pdf",
+  "sha256": "a20dde63dfd7df67c0fa1a8febb45194413ce2d2b8be8b480c5da7f1d912b2ca",
+  "bytes": 521955,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 20,
+  "text_path": "extracted/f4b524e5905f.md",
+  "text_characters": 38292,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Alexandra Hegarty",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260703122035+02'00'",
+    "modDate": "D:20260703122035+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d367d3109109",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentofundodegarantia.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/regulamentofundodegarantia.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:35 GMT",
+  "local_path": "sources/documents/d367d3109109-Regulamento-Fundo-de-Garantia.pdf",
+  "sha256": "047b0390c1ac4b6d1301930b745e116ae6e623d054f9d1c35a30bee1e727784e",
+  "bytes": 207640,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 18,
+  "text_path": "extracted/d367d3109109.md",
+  "text_characters": 29157,
+  "low_text_pages": [
+    4
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Carla Neves",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20230228172522+00'00'",
+    "modDate": "D:20230228172522+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

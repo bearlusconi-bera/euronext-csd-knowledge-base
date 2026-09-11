@@ -1,0 +1,25 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/find-account-operator",
+  "retrieved_at": "2026-09-11",
+  "id": "60501ac5a4a0",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/find-account-operator",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:55:34 GMT",
+  "title": "Find an Account operator",
+  "text": "Find an Account operator\nEuronext Securities Oslo delivers its services through account operators that act as an intermediary between Euronext Securities Oslo and the investor (account operator for the investor), or between Euronext Securities Oslo and the issuer (account operator for the issuer)\nAn account operator is a bank, fund manager, broker dealer or other type of investment firm. The account operator for the investor manages the VPS accounts on behalf of Euronext Securities Oslo, whereas the account operator for the issuer ensures correct registration of the issuer’s shares, bonds or other financial instruments. An entity that wishes to become an account operator must enter into an account operator agreement with Euronext Securities Oslo.\nList of Account Operators for shares and bonds (issuer agents)\nList of Account Operators for investor (for private investors)",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/find-account-operator/account-operators-for-shares-and",
+      "title": "List of Account Operators for shares and bonds (issuer agents)",
+      "context": "Euronext Securities Oslo delivers its services through account operators that act as an intermediary between Euronext Securities Oslo and the investor (account operator for the investor), or between Euronext Securities Oslo and the issuer (account operator for the issuer) An account operator is a bank, fund manager, broker dealer or other type of investment firm. The account operator for the investor manages the VPS accounts on behalf of Euronext Securities Oslo, whereas the account operator for the issuer ensures correct registration of the issuer’s shares, bonds or other financial instruments. An entity that wishes to become an account operator must enter into an account operator agreement with Euronext Securities Oslo. List of Account Operators for shares and bonds (issuer agents) List of Account Operators for investor (for private investors)"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/find-account-operator/account-operator-investor",
+      "title": "List of Account Operators for investor (for private investors)",
+      "context": "Euronext Securities Oslo delivers its services through account operators that act as an intermediary between Euronext Securities Oslo and the investor (account operator for the investor), or between Euronext Securities Oslo and the issuer (account operator for the issuer) An account operator is a bank, fund manager, broker dealer or other type of investment firm. The account operator for the investor manages the VPS accounts on behalf of Euronext Securities Oslo, whereas the account operator for the issuer ensures correct registration of the issuer’s shares, bonds or other financial instruments. An entity that wishes to become an account operator must enter into an account operator agreement with Euronext Securities Oslo. List of Account Operators for shares and bonds (issuer agents) List of Account Operators for investor (for private investors)"
+    }
+  ],
+  "local_html": "sources/pages/60501ac5a4a0.html",
+  "sha256": "43aab6266d50dc74692080a51f7dcee1c2863d5f7d4ba40878d0bd772be12a8a"
+}

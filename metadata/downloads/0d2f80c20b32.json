@@ -1,0 +1,31 @@
+{
+  "id": "0d2f80c20b32",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4422%20-%20ES%20-%20Tax%20Haven%20list%20%28Appendix%20A%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4422%20-%20ES%20-%20Tax%20Haven%20list%20%28Appendix%20A%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:41 GMT",
+  "local_path": "sources/documents/0d2f80c20b32-ES-Tax-Haven-list-Appendix-A.pdf",
+  "sha256": "1f155d43b7e584439506a79eb1a8f3a8a9ec1e6dc1ecccf4ccff2889787c4ddf",
+  "bytes": 140181,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/0d2f80c20b32.md",
+  "text_characters": 1434,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4422 - ES - Tax Haven list (Appendix A)",
+    "author": "LPacini",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220412095332+02'00'",
+    "modDate": "D:20220412095332+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

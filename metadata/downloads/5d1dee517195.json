@@ -1,0 +1,31 @@
+{
+  "id": "5d1dee517195",
+  "url": "https://www.euronext.com/sites/default/files/2023-09/VP%20Participation%20Agreement%20no%20additional%20services.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-09/VP%20Participation%20Agreement%20no%20additional%20services.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:49 GMT",
+  "local_path": "sources/documents/5d1dee517195-Participation-Agreement-no-additional-services.pdf",
+  "sha256": "8908c7e48868dd744dae5a15bd9b7f05d34219c814b3b4686557c1940b0847d6",
+  "bytes": 181707,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/5d1dee517195.md",
+  "text_characters": 3759,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "KR",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20230921125046+02'00'",
+    "modDate": "D:20230921125046+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

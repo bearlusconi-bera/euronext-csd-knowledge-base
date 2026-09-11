@@ -1,0 +1,14 @@
+{
+  "id": "d67c67e62528",
+  "url": "https://www.euronext.com/sites/default/files/2022-03/4310_Specimen%20Signature%20ENG.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-03/4310_Specimen%20Signature%20ENG.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:30:32 GMT",
+  "local_path": "sources/documents/d67c67e62528-Specimen-Signature-2022.docx",
+  "sha256": "429146327bd9f93162f6dfd332533e4da3d9f4ff05e3135bc48d3f82425687ba",
+  "bytes": 72454,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

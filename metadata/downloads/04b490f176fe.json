@@ -1,0 +1,31 @@
+{
+  "id": "04b490f176fe",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/20260126_ISO%2015022%20Messages_EN_v9.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/20260126_ISO%2015022%20Messages_EN_v9.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 27 Jan 2026 16:53:11 GMT",
+  "local_path": "sources/documents/04b490f176fe-Layouts-ISO-15022-Messages-Specifications.pdf",
+  "sha256": "1f695984eab8e8a9658728b942dc30d8b3c736a8f3bcd8addd765610cf3f43d0",
+  "bytes": 1880814,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 92,
+  "text_path": "extracted/04b490f176fe.md",
+  "text_characters": 274175,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Manual da Interbolsa",
+    "author": "Corina Baptista Oliveira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2019",
+    "producer": "Microsoft® Word 2019",
+    "creationDate": "D:20260123183941+00'00'",
+    "modDate": "D:20260123183941+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

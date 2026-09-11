@@ -1,0 +1,31 @@
+{
+  "id": "4b35e3ae8b98",
+  "url": "https://www.euronext.com/sites/default/files/2021-09/4276%20-%20US%20-%20MT%20551%20%28Appendix%202%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-09/4276%20-%20US%20-%20MT%20551%20%28Appendix%202%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:06 GMT",
+  "local_path": "sources/documents/4b35e3ae8b98-US-MT-551-Appendix-2.pdf",
+  "sha256": "adbefde09ba1f923648a23310f3aa3e3695dedb659d01b3e8e53a788ca0454a5",
+  "bytes": 150493,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/4b35e3ae8b98.md",
+  "text_characters": 1433,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4276 - US - MT 551 (Appendix 2) giu 2021 final",
+    "author": "gardizzo",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20210816145956+02'00'",
+    "modDate": "D:20210816145956+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ad8427903563",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4240%20-%20P_F012%20Cover%20letter%20%28Appendix%2016%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4240%20-%20P_F012%20Cover%20letter%20%28Appendix%2016%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/ad8427903563-P-F012-Cover-letter-Appendix-16.pdf",
+  "sha256": "1d49a5a11879d5502d92f087d2ac570f0d5969c53171686f071fafa5caa57734",
+  "bytes": 91628,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/ad8427903563.md",
+  "text_characters": 2701,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Portugal - P_F012 - Cover letter to Euroclear Bank",
+    "author": "Legal Division - Nathalie Ribeiro",
+    "subject": "P_F012",
+    "keywords": "",
+    "creator": "Adobe InDesign CS4: pictwpstops filter 1.0",
+    "producer": "Acrobat Distiller 8.0.0 (Macintosh)",
+    "creationDate": "D:20100322161720+01'00'",
+    "modDate": "D:20161208171518+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

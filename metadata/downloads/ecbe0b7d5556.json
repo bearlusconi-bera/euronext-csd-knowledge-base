@@ -1,0 +1,14 @@
+{
+  "id": "ecbe0b7d5556",
+  "url": "https://www.euronext.com/sites/default/files/2022-03/4313_revoca_ente_pagatore_eng_2022_0.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-03/4313_revoca_ente_pagatore_eng_2022_0.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:30:32 GMT",
+  "local_path": "sources/documents/ecbe0b7d5556-Cash-Agent-Revoke-non-Euronext-Securities-Milan-members-2022.docx",
+  "sha256": "8eff2e88c6fade1277abce1e586eb19eaba33efd27468fd0e8de5dd3e94a7773",
+  "bytes": 87867,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

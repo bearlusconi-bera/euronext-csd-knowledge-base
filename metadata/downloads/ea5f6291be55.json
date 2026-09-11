@@ -1,0 +1,14 @@
+{
+  "id": "ea5f6291be55",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP006_REQUEST_DECLARATION_OF_CANCELLATION_DEACTIVATION_OF_A_BENEFICIARYS_SHARE_20240412.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP006_REQUEST_DECLARATION_OF_CANCELLATION_DEACTIVATION_OF_A_BENEFICIARYS_SHARE_20240412.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Thu, 16 Apr 2026 12:56:50 GMT",
+  "local_path": "sources/documents/ea5f6291be55-APP006.docx",
+  "sha256": "369d0687a2d56a5d555e5a6558829775bf40f5a940ebc24248dd7522918bf9fa",
+  "bytes": 89712,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

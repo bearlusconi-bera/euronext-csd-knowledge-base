@@ -1,0 +1,14 @@
+{
+  "id": "2a20c6055a59",
+  "url": "https://www.euronext.com/sites/default/files/2026-03/euronext_securities_-_client_test_set_for_e2e_settlement_market_flow_v4_26032026.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-03/euronext_securities_-_client_test_set_for_e2e_settlement_market_flow_v4_26032026.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Thu, 26 Mar 2026 14:40:00 GMT",
+  "local_path": "sources/documents/2a20c6055a59-Client-test-set-for-end-to-end-settlement-market-flow-v4.xlsx",
+  "sha256": "3786cc2b53be5d8f62fd6b7d90f480bc78b32802a0e6c8d0f397598204e0cf12",
+  "bytes": 22618,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

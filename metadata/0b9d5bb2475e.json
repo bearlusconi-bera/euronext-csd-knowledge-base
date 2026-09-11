@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/post-trade/euronext-securities/products-services/register-and-meeting-services",
+  "retrieved_at": "2026-09-11",
+  "id": "0b9d5bb2475e",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/products-services/register-and-meeting-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:53 GMT",
+  "title": "Register and Meeting services",
+  "text": "Register and Meeting services\nWhat we offer\nEuronext Securities offer a wide variety of register and meeting services\nOur suite of services for the issuers are designed to cater to the evolving needs, ensuring seamless management of investor relations and regulatory compliance.\nRegister Services\nAt Euronext Securities, we understand the importance of maintaining an accurate and up-to-date shareholder register. Our online platform provides a secure and efficient solution, automatically updated with data from the Central Securities Depository (CSD). This eliminates the hassle of manual record-keeping, offering you a safe and uncomplicated way to manage shareholder data.\nOur platform is accessible 24/7 and adheres to the highest security standards, providing you with peace of mind. Tailored specifically to meet the needs of corporate legal departments, investor relations professionals, and general management, our user-friendly interface ensures easy access to relevant shareholder information.\nMeeting Services\nOrganising an annual general meeting (AGM) can be a complex task, requiring detailed planning and specialised expertise. Our experienced meeting services team is here to ensure that your AGM runs smoothly from start to finish.\nWith our comprehensive AGM management solutions, including coordination, technical set-up, and document management, you can rest assured that every aspect of your meeting is taken care of. Whether you choose a fully virtual, hybrid, or physical meeting, we have the expertise to meet your needs.\nOur online voting platform makes it easy for participants to cast their votes securely, ensuring a transparent and efficient election process. Plus, with our webcasting capabilities, virtual attendees can experience the meeting firsthand, just as if they were there in person.\nWhy choose Euronext Securities?\nExpertise: Leverage our extensive experience and industry knowledge.\nInnovation: Benefit from our state-of-the-art technology and innovative solutions.\nReliability: Trust in our commitment to security, accuracy, and excellence.\nContact your local sales team to learn more about how we support register and meeting services on our four locations.\nWant to learn more?\nContact\nCopenhagen\nMilan\nOslo\nPorto",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/about/contacts",
+      "title": "Contact",
+      "context": "Want to learn more? Contact Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen",
+      "title": "Copenhagen",
+      "context": "Want to learn more? Contact Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/milan",
+      "title": "Milan",
+      "context": "Want to learn more? Contact Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/oslo",
+      "title": "Oslo",
+      "context": "Want to learn more? Contact Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/porto",
+      "title": "Porto",
+      "context": "Want to learn more? Contact Copenhagen Milan Oslo Porto"
+    }
+  ],
+  "local_html": "sources/pages/0b9d5bb2475e.html",
+  "sha256": "871a10aadc9a1019858dcd6daab65dd9994a181bc5b1307d45103a9ac47ee636"
+}

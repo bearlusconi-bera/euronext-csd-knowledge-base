@@ -1,0 +1,31 @@
+{
+  "id": "2e50578355cb",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/esma70-460-111_report_on_the_dlt_pilot_regime.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/esma70-460-111_report_on_the_dlt_pilot_regime.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 23 Jan 2023 13:37:48 GMT",
+  "local_path": "sources/documents/2e50578355cb-Report-on-the-call-for-evidence-on-the-DLT-Pilot-Regime-and-compensatory-measures-on-super.pdf",
+  "sha256": "eb14561f07b43a0b84f9c9df2e9d7e82168bb247545d39a32ca9d83468663d28",
+  "bytes": 697026,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 64,
+  "text_path": "extracted/2e50578355cb.md",
+  "text_characters": 194247,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Katharina Peiter",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20220927081539+02'00'",
+    "modDate": "D:20220927081539+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

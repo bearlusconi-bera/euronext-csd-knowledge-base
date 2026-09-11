@@ -1,0 +1,31 @@
+{
+  "id": "36d60596f6a9",
+  "url": "https://www.euronext.com/sites/default/files/2025-10/20251021_securities_management_gap_analysis_v2.0_track_changes_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-10/20251021_securities_management_gap_analysis_v2.0_track_changes_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 22 Oct 2025 12:44:35 GMT",
+  "local_path": "sources/documents/36d60596f6a9-GAP-Analysis-Securities-Management-v2-0-Track-Changes.pdf",
+  "sha256": "14e3e8e3cfaaf8c7e9430055d1eeaff0aa5d02b061625b1b5d5d02e8f13f496d",
+  "bytes": 162217,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/36d60596f6a9.md",
+  "text_characters": 26644,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Alexandra Hegarty",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251021132958+01'00'",
+    "modDate": "D:20251021132958+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

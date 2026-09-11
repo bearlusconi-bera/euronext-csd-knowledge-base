@@ -1,0 +1,31 @@
+{
+  "id": "32e0090d1cb3",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4274%20-%20United%20States%20-%20Fiscal%20Operational%20Guide.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4274%20-%20United%20States%20-%20Fiscal%20Operational%20Guide.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:45 GMT",
+  "local_path": "sources/documents/32e0090d1cb3-United-States-Fiscal-Operational-Guide.pdf",
+  "sha256": "6cfa208868d39d9ef69c62d731c26c0d63061c1462794f8130b7812764d5dc66",
+  "bytes": 168232,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 17,
+  "text_path": "extracted/32e0090d1cb3.md",
+  "text_characters": 32811,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Ardizzon, Gianna",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210422121355+02'00'",
+    "modDate": "D:20210422121355+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

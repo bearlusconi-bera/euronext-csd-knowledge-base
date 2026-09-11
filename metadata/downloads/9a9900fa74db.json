@@ -1,0 +1,31 @@
+{
+  "id": "9a9900fa74db",
+  "url": "https://www.euronext.com/sites/default/files/2026-07/es-ath_june2026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-07/es-ath_june2026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 01 Jul 2026 10:14:13 GMT",
+  "local_path": "sources/documents/9a9900fa74db-Euronext-Securities-ATH-Convergence-Newsletter-July2026.pdf",
+  "sha256": "1a86b3ec913d9a3b77ee4888af2d58d48789578e9ca1edee07e0f6d16ea4b3f9",
+  "bytes": 362710,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/9a9900fa74db.md",
+  "text_characters": 7791,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Anne-Frédérique Madouasse - Contractor",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260701102650+01'00'",
+    "modDate": "D:20260701102650+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

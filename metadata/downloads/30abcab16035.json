@@ -1,0 +1,14 @@
+{
+  "id": "30abcab16035",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/euronext_securities_-_client_test_set_for_mq_connectivity.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/euronext_securities_-_client_test_set_for_mq_connectivity.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Mon, 22 Jun 2026 12:21:47 GMT",
+  "local_path": "sources/documents/30abcab16035-Client-test-set-for-MQ-connectivity.xlsx",
+  "sha256": "a751c0be1ecc97bbcfbf6da4eb355f5525c189fbffbc6a57beea8e34d69f99d0",
+  "bytes": 27499,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

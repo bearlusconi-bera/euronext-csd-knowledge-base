@@ -1,0 +1,14 @@
+{
+  "id": "4701ee69564a",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP033_NOTIFICATION_OF_THE_DEATH_OF_A_BENEFICIARY_TO_THE_DSS_20240412.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP033_NOTIFICATION_OF_THE_DEATH_OF_A_BENEFICIARY_TO_THE_DSS_20240412.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Thu, 16 Apr 2026 12:50:57 GMT",
+  "local_path": "sources/documents/4701ee69564a-APP033.docx",
+  "sha256": "a1a3c2f8274b0970c7dd6add7eb2d8fac79a9cac1bd149e226c44bd015e882f7",
+  "bytes": 89827,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

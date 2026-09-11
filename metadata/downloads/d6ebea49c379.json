@@ -1,0 +1,14 @@
+{
+  "id": "d6ebea49c379",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP019_NOTIFICATION_OF_FORMATION_OF_PLEDGE_ON_DEMATERIALIZED_SECURITIES_20240412.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP019_NOTIFICATION_OF_FORMATION_OF_PLEDGE_ON_DEMATERIALIZED_SECURITIES_20240412.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Thu, 16 Apr 2026 12:55:10 GMT",
+  "local_path": "sources/documents/d6ebea49c379-APP019.docx",
+  "sha256": "28a5ad8077f40a34bb9c1ddedf4bb05ec3f411335f3937d8fbdb4ef74e716fb3",
+  "bytes": 102997,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

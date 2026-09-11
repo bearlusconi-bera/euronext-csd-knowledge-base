@@ -1,0 +1,31 @@
+{
+  "id": "ff26018e2f08",
+  "url": "https://www.euronext.com/sites/default/files/2022-05/4402%20Tablemat%20Greece%20BOGS_aprile%202022.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-05/4402%20Tablemat%20Greece%20BOGS_aprile%202022.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:46 GMT",
+  "local_path": "sources/documents/ff26018e2f08-Greece-Tablemat-Quick-market-Guide.pdf",
+  "sha256": "e12cb74453bf94eb05abdccb37f0fa183cdb44ae714b03c0b62a41170e344ce1",
+  "bytes": 373922,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/ff26018e2f08.md",
+  "text_characters": 6695,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4402 Tablemat Greece BOGS_aprile 2022",
+    "author": "SBacca",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220408144212+02'00'",
+    "modDate": "D:20220408144212+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

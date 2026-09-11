@@ -1,0 +1,35 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/safekeeping-and-asset-servicing",
+  "retrieved_at": "2026-09-11",
+  "id": "8f7fab9e54b8",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/safekeeping-and-asset-servicing",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:59:56 GMT",
+  "title": "Safekeeping and Asset Servicing",
+  "text": "Safekeeping and Asset Servicing\nAs a key financial market infrastructure, Euronext Securities Oslo has delivered extensive services to the Norwegian financial market since its founding in 1985\nEuronext Securities Oslo offer comprehensive depositary services such as safekeeping and asset servicing information to intermediaries; banks, brokers, financial institutions and fund managers. Registered financial instruments are held in book-entry form and can be kept either on beneficial owner- or nominee accounts.\nWe offer a range of products and services to support your client’s investments so that you as an intermediary can achieve more for your clients.\nOur products\nClient- and account administration\nFlexible solution for opening, maintain and administrate your clients and their accounts.\nFull overview of accounts, transactions and holdings. In addition you can assist with transfers of holdings and register rights, power of attorneys and tax information ensuring an automatic yearly reporting.\nRead more\nSafekeeping\nWe keep your assets safe\nEuronext Securities Oslo offer legal protection of your assets through a wide range of account types registered in our book-entry system.\nRead more\nInvestor Portal\nFull overview of your Euronext Securities Oslo accounts and holdings\nThe portal gives the investor overview of all its Euronext Securities Oslo-registered accounts, transactions and holdings.\nRead more\nIf you are a bank, broker or fund manager that wants to offer Euronext Securities Oslo’s services to your own customers, you can read more about becoming an account operator (registrar) in Euronext Securities Oslo below.\nBecome an Account Operator\nContacts\nJulie Marie\nStrandskogen\nSenior Product Manager,\nCustody\njmstrandskogen@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/safekeeping-and-asset-servicing/client-and-account-administration",
+      "title": "Read more",
+      "context": "Client- and account administration Flexible solution for opening, maintain and administrate your clients and their accounts. Full overview of accounts, transactions and holdings. In addition you can assist with transfers of holdings and register rights, power of attorneys and tax information ensuring an automatic yearly reporting. Read more Safekeeping We keep your assets safe Euronext Securities Oslo offer legal protection of your assets through a wide range of account types registered in our book-entry system. Read more Investor Portal Full overview of your Euronext Securities Oslo accounts and holdings The portal gives the investor overview of all its Euronext Securities Oslo-registered accounts, transactions and holdings. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/safekeeping-and-asset-servicing/safekeeping",
+      "title": "Read more",
+      "context": "Client- and account administration Flexible solution for opening, maintain and administrate your clients and their accounts. Full overview of accounts, transactions and holdings. In addition you can assist with transfers of holdings and register rights, power of attorneys and tax information ensuring an automatic yearly reporting. Read more Safekeeping We keep your assets safe Euronext Securities Oslo offer legal protection of your assets through a wide range of account types registered in our book-entry system. Read more Investor Portal Full overview of your Euronext Securities Oslo accounts and holdings The portal gives the investor overview of all its Euronext Securities Oslo-registered accounts, transactions and holdings. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/safekeeping-and-asset-servicing/investor-portal",
+      "title": "Read more",
+      "context": "Client- and account administration Flexible solution for opening, maintain and administrate your clients and their accounts. Full overview of accounts, transactions and holdings. In addition you can assist with transfers of holdings and register rights, power of attorneys and tax information ensuring an automatic yearly reporting. Read more Safekeeping We keep your assets safe Euronext Securities Oslo offer legal protection of your assets through a wide range of account types registered in our book-entry system. Read more Investor Portal Full overview of your Euronext Securities Oslo accounts and holdings The portal gives the investor overview of all its Euronext Securities Oslo-registered accounts, transactions and holdings. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/how-become-account-operator",
+      "title": "Become an Account Operator",
+      "context": "If you are a bank, broker or fund manager that wants to offer Euronext Securities Oslo’s services to your own customers, you can read more about becoming an account operator (registrar) in Euronext Securities Oslo below. Become an Account Operator"
+    }
+  ],
+  "local_html": "sources/pages/8f7fab9e54b8.html",
+  "sha256": "01f3685c095cc88139e48b284d23babddfbcba734fae6a453dfe533d92cf5b1a"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "5b3b9c301885",
+  "url": "https://www.euronext.com/sites/default/files/2025-06/gap_analysis_nna.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-06/gap_analysis_nna.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 04 Jun 2025 13:07:17 GMT",
+  "local_path": "sources/documents/5b3b9c301885-GAP-Analysis-NNA.pdf",
+  "sha256": "17b70c7d6ab27ee53eebac9ed0b0c178257aeae1c014a52790166b1d94f5ce5d",
+  "bytes": 113206,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/5b3b9c301885.md",
+  "text_characters": 14156,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Alexandra Hegarty",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250603152343+02'00'",
+    "modDate": "D:20250603152343+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

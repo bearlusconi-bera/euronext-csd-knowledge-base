@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates/general-meetings",
+  "retrieved_at": "2026-09-11",
+  "id": "37fe91b16b2b",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates/general-meetings",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:20 GMT",
+  "title": "General meetings",
+  "text": "General meetings\nProfessional, regulatory compliant and efficient general meetings\nAs a limited liability company, you must hold an annual general meeting. To ensure compliance with relevant laws and regulations and to meet your shareholder expectations, detailed planning and specialized expertise are required.\nOur general meeting solution covers all stages of arranging a general meeting – from preparation to execution – saving you time and ensuring compliance with relevant laws and regulations. Your account operator will work closely with you and Euronext Securities Oslo to plan and prepare the general meeting and, if requested, provide you with assistance at the meeting itself.\nThe product includes the following services:\nPreparing and sending out the notice calling the general meeting\nRegistration of confirmations from shareholders who intend to attend (or proxy)\nSolution for shareholders to register attendance or appoint proxy\nPrinting ballots\nRegistration of attendants\nList of attendants present at the general meeting\nProtocol from the general meeting\nRegister\nIn order to use our general meetings service you need to register you company’s shares in Euronext Securities Oslo. Read more about how to become registered here.\nBecome registered here\nContacts\nEuronext Securities Oslo\nBusiness Operations\nosl-clientsupport@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/issuer/become-registered",
+      "title": "Become registered here",
+      "context": "Register In order to use our general meetings service you need to register you company’s shares in Euronext Securities Oslo. Read more about how to become registered here. Become registered here"
+    }
+  ],
+  "local_html": "sources/pages/37fe91b16b2b.html",
+  "sha256": "e43a7437ef80016638206e4b6fd8113ed3bd0d7a0702385317bab0a1b6743247"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "5e0c838b8dcd",
+  "url": "https://www.euronext.com/sites/default/files/2024-06/INTERBOLSA%20Circular%201_2016.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-06/INTERBOLSA%20Circular%201_2016.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:43 GMT",
+  "local_path": "sources/documents/5e0c838b8dcd-INTERBOLSA-Circular-1-2016.pdf",
+  "sha256": "3eb6a99244d17da573a6a976f8be5997af3e88ab9db57681dd0e7fba15d41846",
+  "bytes": 292347,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 23,
+  "text_path": "extracted/5e0c838b8dcd.md",
+  "text_characters": 50365,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Microsoft Word - IB Circular 1 2016_Outros Valores_EN_consolidated_VF",
+    "author": "HLopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 24.0 (Windows)",
+    "creationDate": "D:20240404153727+01'00'",
+    "modDate": "D:20240404153727+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

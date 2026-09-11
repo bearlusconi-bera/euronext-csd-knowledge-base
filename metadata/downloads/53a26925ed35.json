@@ -1,0 +1,14 @@
+{
+  "id": "53a26925ed35",
+  "url": "https://www.euronext.com/sites/default/files/2022-03/Modulo%20referenti%20RNI%20%20v.1.2019_ITA_MD_2022.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-03/Modulo%20referenti%20RNI%20%20v.1.2019_ITA_MD_2022.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:30:36 GMT",
+  "local_path": "sources/documents/53a26925ed35-Modulo-Referenti-RNI-versione-2022.docx",
+  "sha256": "9cdc9439ddec1db92d65f01a649838ff77079a79c23ac285efca3bb81b55adae",
+  "bytes": 86799,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

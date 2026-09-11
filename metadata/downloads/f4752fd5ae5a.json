@@ -1,0 +1,31 @@
+{
+  "id": "f4752fd5ae5a",
+  "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_R2026.NOV_Extract_Sitemap_for_T2S_revised_20260731.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_R2026.NOV_Extract_Sitemap_for_T2S_revised_20260731.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 03 Aug 2026 12:00:39 GMT",
+  "local_path": "sources/documents/f4752fd5ae5a-T2S-UHB-Sitemap-R2026-NOV.pdf",
+  "sha256": "472891aed7dd42ccb3bd0e1cfe2d1b150fb37dce3e269e4c5524945df0ca7644",
+  "bytes": 1588945,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 31,
+  "text_path": "extracted/f4752fd5ae5a.md",
+  "text_characters": 22963,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "UHB Sitemaps R2026.NOV",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "TargetServices - Scope Defining Documents  ",
+    "creator": "Scroll PDF Exporter / K15t GmbH",
+    "producer": "PDFreactor 12.4.0 (Licensee: K15t GmbH #3945)",
+    "creationDate": "D:20260730123922+02'00'",
+    "modDate": "D:20260803135948+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

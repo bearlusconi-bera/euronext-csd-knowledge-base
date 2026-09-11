@@ -1,0 +1,31 @@
+{
+  "id": "4fd696fe9d5c",
+  "url": "https://www.esma.europa.eu/sites/default/files/2025-10/ESMA74-2119945926-3430_Final_Report_-_CSDR_RTS_on_Settlement_Discipline_and_tools_to_improve_settlement_efficiency.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2025-10/ESMA74-2119945926-3430_Final_Report_-_CSDR_RTS_on_Settlement_Discipline_and_tools_to_improve_settlement_efficiency.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 25 Nov 2025 12:07:32 GMT",
+  "local_path": "sources/documents/4fd696fe9d5c-Final-report.pdf",
+  "sha256": "1210acd01e223652d5482365bc6f52c97a94aba8bc3fdbb60a11bfec75e712e0",
+  "bytes": 1879654,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 176,
+  "text_path": "extracted/4fd696fe9d5c.md",
+  "text_characters": 456685,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ESMA74-2119945926-3430 Final Report on Amendments to the RTS on Settlement Discipline",
+    "author": "ESMA",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251125130632+01'00'",
+    "modDate": "D:20251125130725+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

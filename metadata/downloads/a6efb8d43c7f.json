@@ -1,0 +1,31 @@
+{
+  "id": "a6efb8d43c7f",
+  "url": "https://www.euronext.com/sites/default/files/2024-06/wfc_single_disclosure_report-2019.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-06/wfc_single_disclosure_report-2019.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:48 GMT",
+  "local_path": "sources/documents/a6efb8d43c7f-WFC-Single-Disclosure-Report-2019-pdf.pdf",
+  "sha256": "6376d9bc2e71be797cb3c31a3e90c145d9d8fdcc3962160f2046f77cb6b9d377",
+  "bytes": 604029,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 161,
+  "text_path": "extracted/a6efb8d43c7f.md",
+  "text_characters": 293106,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.4",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20200406050050-06'00'",
+    "modDate": "D:20200406120230+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

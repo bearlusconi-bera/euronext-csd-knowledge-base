@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr/what-csdr-means-for-our-clients",
+  "retrieved_at": "2026-09-11",
+  "id": "a47e7345662f",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr/what-csdr-means-for-our-clients",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:08 GMT",
+  "title": "What CSDR means for our Clients",
+  "text": "What CSDR means for our Clients\nThe CSDR is significant to all financial market participants in Europe and has introduced measures that clients must be aware of including:\nSegregated accounts\nIn order to ensure adequate asset protection, Article 38 of Regulation (EU) No. 909/2014 requires CSDs to offer their participants the choice of two different levels of segregation.Clients will have the ability to create third-party accounts to separate the activities of a specific Clients, rather than merging activities belonging to multiple Clients into a single account.\nLEI code\nClients will be required to obtain LEI code and communicate it to CSD in order to identify their legal entity type which CSD will record and report to their national authorities to help harmonise data collection and reporting.\nUser Committee\nEuronext Securities Milan has established a User Committee which is composed of Issuers and Participants. Functioning and mandate are disciplined by the Terms and Conditions\nSettlement discipline\nFollowing the harmonization of buy-in procedures and penalties, Euronext Securities Milan adapted its operating rules to receive the new European regulation, effective as of February 2022.\nAccount Segregation Document\n12/03/2025\nPDF\nDescription of levels of segregation according to article 38 (6) of Regulation n. 909/2014\nEnglish\nVersion\nEnglish\n12/03/2025\n03/03/2021\n/sites/default/files/2025-03/4198_%20Account%20Segregation%20Document_2025_%20E.6_ENG_.pdf\nDescription of levels of segregation according to article 38 (6) of Regulation n. 909/2014",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2025-03/4198_%20Account%20Segregation%20Document_2025_%20E.6_ENG_.pdf",
+      "title": "Description of levels of segregation according to article 38 (6) of Regulation n. 909/2014",
+      "context": "12/03/2025 PDF Description of levels of segregation according to article 38 (6) of Regulation n. 909/2014 English Version English 12/03/2025 03/03/2021 /sites/default/files/2025-03/4198_%20Account%20Segregation%20Document_2025_%20E.6_ENG_.pdf Description of levels of segregation according to article 38 (6) of Regulation n. 909/2014"
+    }
+  ],
+  "local_html": "sources/pages/a47e7345662f.html",
+  "sha256": "260c30dfa78c3d15587b388d4536bdaac2e7e05b77e0ca3d90fdf6e41b5c2f0e"
+}

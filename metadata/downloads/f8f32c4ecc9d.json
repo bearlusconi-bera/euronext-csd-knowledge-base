@@ -1,0 +1,31 @@
+{
+  "id": "f8f32c4ecc9d",
+  "url": "https://www.euronext.com/sites/default/files/2024-10/20250101_euronext_securities_milan_pricelist_service_providers_rev.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-10/20250101_euronext_securities_milan_pricelist_service_providers_rev.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:34:06 GMT",
+  "local_path": "sources/documents/f8f32c4ecc9d-Price-List-Service-Providers-1st-January-2025.pdf",
+  "sha256": "8fd3d287ac752e712aadb80a22a206423ea85e1ae4b6dc2eaefa134f8fab7f96",
+  "bytes": 184288,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/f8f32c4ecc9d.md",
+  "text_characters": 6660,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Crea-ELM",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20241017132010+02'00'",
+    "modDate": "D:20241017132010+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

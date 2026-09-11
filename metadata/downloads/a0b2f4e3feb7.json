@@ -1,0 +1,31 @@
+{
+  "id": "a0b2f4e3feb7",
+  "url": "https://www.euronext.com/sites/default/files/2023-08/relatoriotrimestral.2016_3.pt_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-08/relatoriotrimestral.2016_3.pt_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:44 GMT",
+  "local_path": "sources/documents/a0b2f4e3feb7-Relatorio-3o-trimestre-de-2016.pdf",
+  "sha256": "1036f2e3a5ee69b027ab8c2e0a3a8abe4a74915552cb3829fb8cb163cf586d1f",
+  "bytes": 755912,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 24,
+  "text_path": "extracted/a0b2f4e3feb7.md",
+  "text_characters": 60094,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Relatório Anual 2004",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2010",
+    "producer": "Microsoft® Word 2010",
+    "creationDate": "D:20161130204622Z",
+    "modDate": "D:20161130204718Z",
+    "trapped": "",
+    "encryption": null
+  }
+}

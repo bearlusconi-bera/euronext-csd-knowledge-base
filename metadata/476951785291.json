@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/find-account-operator/account-operators-for-shares-and",
+  "retrieved_at": "2026-09-11",
+  "id": "476951785291",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/find-account-operator/account-operators-for-shares-and",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:04:14 GMT",
+  "title": "Account Operators for shares and bonds",
+  "text": "Account Operators for shares and bonds\nThe list below gives you an overview of all Account Operators (Issuer Agents) in Euronext Securities Oslo.\nThe service offering may differ between Issuer Agents.\nIssuer agents\nEquities *\nDebt **\nArctic Securities\nx\nx\nBN Bank\nx\nDanske Bank\nx\nx\nDNB Bank ASA\nx\nx\nEquro Issuer Services AS\nx\nx\nHandelsbanken\nx\nx\nLandkreditt Bank\nx\nNordea Bank Abp NUF\nx\nx\nNordic Trustee Services AS\nx\nx\nNorges Bank\nx\nPareto Securities\nx\nx\nSEB\nx\nx\nSparebank 1 Sør-Norge\nx\nx\nSparebank 1 Nord-Norge\nx\nx\nSparebank 1 Østlandet\nx\nx\nSparebank 1 Midt-Norge / Sparebank 1 Markets\nx\nx\nSparebanken Møre\nx\nSparebanken Norge\nx\nSparebanken 1 Sogn og Fjordane\nx\n* KUA – Issuer account operator for shares and equity certificates** KUO – Issuer account operator for bonds and short-term bonds",
+  "links": [],
+  "local_html": "sources/pages/476951785291.html",
+  "sha256": "88448d7c669dc31f5b1077a60ce32827fe5cb16d754372da46157c9dbf8887e1"
+}

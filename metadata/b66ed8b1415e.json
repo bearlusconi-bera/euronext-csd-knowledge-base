@@ -1,0 +1,55 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/investor-services",
+  "retrieved_at": "2026-09-11",
+  "id": "b66ed8b1415e",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/investor-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:58:28 GMT",
+  "title": "Investor Services",
+  "text": "Investor Services\nAs our customer, you have access to investor services based on our expertise and know-how and a specialised IT platform. As your needs evolve, you can choose between a complete investor service solution or selected services.\nWe are dedicated to create the best solutions for you and your investors.\nOur services include\nShareholder Register Ser…\nMeeting Services\nVirtual General Meeting\nElection and Voting Serv…\nInvestor Portal\nCurrent AGMs\nOne of Euronext Securties' missions include connecting investors - we do that by supporting investor communication through our AGMs. Find a list of all current AGM's down below.\nList of current AGMs\nDiscover our general meeting support\nYour general meeting, our expertise\nEuronext Securities offers comprehensive solutions to ensure your general meeting runs smoothly and efficiently. Discover our expertise, tailored services and practical guidance in our brochure. download brochure\nReady to see for yourself?\nEuronext Securities is one of the most experienced partners when it comes to AGM support, with more than 550 AGMs per year and more than 20 years' experience across our locations.\nRequest a free demo\nContacts\nInvestor Services\nOpening hours: 9:00 - 16:00 CET\n+45 4358 8866\nCPH-investor@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/shareholder-register-services",
+      "title": "Shareholder Register Ser…",
+      "context": "Our services include Shareholder Register Ser… Meeting Services Virtual General Meeting Election and Voting Serv… Investor Portal"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/meeting-services",
+      "title": "Meeting Services",
+      "context": "Our services include Shareholder Register Ser… Meeting Services Virtual General Meeting Election and Voting Serv… Investor Portal"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/virtual-general-meeting",
+      "title": "Virtual General Meeting",
+      "context": "Our services include Shareholder Register Ser… Meeting Services Virtual General Meeting Election and Voting Serv… Investor Portal"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/election-and-voting-services",
+      "title": "Election and Voting Serv…",
+      "context": "Our services include Shareholder Register Ser… Meeting Services Virtual General Meeting Election and Voting Serv… Investor Portal"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen/investor-services/investorportal",
+      "title": "Investor Portal",
+      "context": "Our services include Shareholder Register Ser… Meeting Services Virtual General Meeting Election and Voting Serv… Investor Portal"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/current-agms",
+      "title": "List of current AGMs",
+      "context": "Current AGMs One of Euronext Securties' missions include connecting investors - we do that by supporting investor communication through our AGMs. Find a list of all current AGM's down below. List of current AGMs"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2026-03/Your%20general%20meeting%2C%20our%20expertise.pdf",
+      "title": "download brochure",
+      "context": "Discover our general meeting support Your general meeting, our expertise Euronext Securities offers comprehensive solutions to ensure your general meeting runs smoothly and efficiently. Discover our expertise, tailored services and practical guidance in our brochure. download brochure"
+    },
+    {
+      "url": "https://assets-gbr.mkt.dynamics.com/f43dc028-7644-4515-bdcc-4c671d8ff19c/digitalassets/standaloneforms/56298f29-57fc-f011-8407-7ced8d9cf500",
+      "title": "Request a free demo",
+      "context": "Ready to see for yourself? Euronext Securities is one of the most experienced partners when it comes to AGM support, with more than 550 AGMs per year and more than 20 years' experience across our locations. Request a free demo"
+    }
+  ],
+  "local_html": "sources/pages/b66ed8b1415e.html",
+  "sha256": "10fdba3608f907f990d3cfe25b61da01e567fd25e574da12fabac74e34eacf94"
+}

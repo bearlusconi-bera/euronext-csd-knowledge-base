@@ -1,0 +1,31 @@
+{
+  "id": "513a8da7c0ad",
+  "url": "https://athens.euronext.com/sites/default/files/2026-07/RESOLUTION_Nr_2_ATHEXCSD_30062026_FORCE_20072026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-07/RESOLUTION_Nr_2_ATHEXCSD_30062026_FORCE_20072026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 20 Jul 2026 14:54:05 GMT",
+  "local_path": "sources/documents/513a8da7c0ad-ATHEXCSD-Resolution-2.pdf",
+  "sha256": "29cb65764016439aa3d9b93cf7231ef73e9368e2be68cdf74bee26244892fda7",
+  "bytes": 385061,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 7,
+  "text_path": "extracted/513a8da7c0ad.md",
+  "text_characters": 21313,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Tarnanidou, Christina",
+    "subject": "",
+    "keywords": "ΕΣΩΤΕΡΙΚΗΣ ΧΡΗΣΕΩΣ (INTERNAL USE)ΑΓΓΛΙΚΗ (ENGLISH)",
+    "creator": "Microsoft® Word για το Microsoft 365",
+    "producer": "Microsoft® Word για το Microsoft 365",
+    "creationDate": "D:20260720175224+03'00'",
+    "modDate": "D:20260720175224+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities/listed-issuers",
+  "retrieved_at": "2026-09-11",
+  "id": "5c643b8132b8",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities/listed-issuers",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Initial Recording of Securities for Listed Issuers | Euronext Athens",
+  "text": "EURONEXT SECURITIES ATHENS\nInitial Recording of Securities for Listed Issuers\nRecording of securities is available:In an individual securities account orIn an omnibus securities account orIn a Joint Investor Share, which ensures the inheritance of the securities tax-free\nBenefits\nEnsuring the integrity of the public record\nRegistering securities in a secure, fully automated electronic system operated by a licensed depository under CSDR\nEfficient management and reduced operating costs for the company\nAccurate maintenance of the share register at all times\nAccess to additional Euronext Securities Athens services, (such as corporate actions)\nProcess Get informed about the Initial Recording of Securities process. Learn More à\nCharges Learn about the initial registration of securities and the Euronext Securities Athens maintenance of securities charge for listed companies. Learn More à\nSEE ALSO\nRegulations & Resolutions Euronext Securities Athens\nInitial Recording for Non-Listed Issuers",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities/listed-issuers/process",
+      "title": "Learn More à",
+      "context": "Process Get informed about the Initial Recording of Securities process. Learn More à"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/initial-recording-of-securities/listed-issuers/charges",
+      "title": "Learn More à",
+      "context": "Charges Learn about the initial registration of securities and the Euronext Securities Athens maintenance of securities charge for listed companies. Learn More à"
+    },
+    {
+      "url": "https://athens.euronext.com/en/about/regulatory/group/athexcsd",
+      "title": "Regulations & Resolutions Euronext Securities Athens",
+      "context": "Regulations & Resolutions Euronext Securities Athens Initial Recording for Non-Listed Issuers"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities/non-listed-issuers",
+      "title": "Initial Recording for Non-Listed Issuers",
+      "context": "Regulations & Resolutions Euronext Securities Athens Initial Recording for Non-Listed Issuers"
+    }
+  ],
+  "local_html": "sources/pages/5c643b8132b8.html",
+  "sha256": "46b8855015bdae27b3e49fce064d6cf8cfed5a2fa77958e3f0200f2bf9ee583a"
+}

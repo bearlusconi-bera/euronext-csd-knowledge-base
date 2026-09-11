@@ -1,0 +1,31 @@
+{
+  "id": "06c4d87911f6",
+  "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UHB_R2026.JUN_clean_20260122.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UHB_R2026.JUN_clean_20260122.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 20 Jan 2026 13:51:51 GMT",
+  "local_path": "sources/documents/06c4d87911f6-T2S-User-Handbook-R2026-JUN-UHB.pdf",
+  "sha256": "bb77f36cd75df3c79ab2ce8a107a1503086481ae1a27942f367cf3181bc71d98",
+  "bytes": 18754514,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1122,
+  "text_path": "extracted/06c4d87911f6.md",
+  "text_characters": 2955790,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "T2S User Handbook R2026.JUN (UHB)",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "",
+    "creator": "SCHEMA ST4",
+    "producer": "ST4 PDF Engine (Build 14.0.3.0)",
+    "creationDate": "D:20260114122850+01'00'",
+    "modDate": "D:20260120104006+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

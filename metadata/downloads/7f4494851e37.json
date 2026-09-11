@@ -1,0 +1,37 @@
+{
+  "id": "7f4494851e37",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/managementreport.quarter.2021.1.en__0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/managementreport.quarter.2021.1.en__0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:34 GMT",
+  "local_path": "sources/documents/7f4494851e37-Management-Report-1st-quarter-2021.pdf",
+  "sha256": "f6c35cda09cf3242c2324f1fba423a3fc3946075099ccbb4d021df6dde0fed48",
+  "bytes": 792921,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 43,
+  "text_path": "extracted/7f4494851e37.md",
+  "text_characters": 81181,
+  "low_text_pages": [
+    4,
+    11,
+    32,
+    38,
+    43
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210531171002+01'00'",
+    "modDate": "D:20210531171002+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

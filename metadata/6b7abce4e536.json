@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/data-services/tradelogold",
+  "retrieved_at": "2026-09-11",
+  "id": "6b7abce4e536",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/user/login?destination=/en/csd/oslo/data-services/tradelogold",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Log in | euronext.com",
+  "text": "Error message\nAccess denied. You must log in to view this page.\nForgot password? Follow this link to reset.\nYou must have JavaScript enabled to use this form.\nLogin by username/email address\nYou can use your username or email address to login.\nPassword",
+  "links": [
+    {
+      "url": "https://www.euronext.com/user/password",
+      "title": "this link",
+      "context": "Forgot password? Follow this link to reset."
+    }
+  ],
+  "local_html": "sources/pages/6b7abce4e536.html",
+  "sha256": "ffef04ccccc3c5da6e2b7faa50219b503eaff8eed74dba38872fb28181f2247e"
+}

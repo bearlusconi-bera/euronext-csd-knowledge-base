@@ -1,0 +1,31 @@
+{
+  "id": "665f14caa790",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4387%20-%20FTT%20Intended%20Settlement%20Date%20Communication.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4387%20-%20FTT%20Intended%20Settlement%20Date%20Communication.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:46 GMT",
+  "local_path": "sources/documents/665f14caa790-FTT-Intended-Settlement-Date-Communication.pdf",
+  "sha256": "324c4aaaedee8007951e03efa65104ace0d9e0a8d062f8ca21eb5a5b9877380d",
+  "bytes": 109526,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 5,
+  "text_path": "extracted/665f14caa790.md",
+  "text_characters": 8760,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.3",
+    "title": "2004-N-0XX",
+    "author": "Brosnahan Tommy",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft Office Word- Word-Addin 6.61.5623",
+    "producer": "eDocPrinter PDF Pro (W03Svr x64) Ver 6.68 Build 5772-5758",
+    "creationDate": "D:20120925131954+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  }
+}

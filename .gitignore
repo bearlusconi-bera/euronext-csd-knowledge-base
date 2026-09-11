@@ -1,0 +1,5 @@
+sources/
+extracted/
+starter-pack.zip
+.DS_Store
+__pycache__/

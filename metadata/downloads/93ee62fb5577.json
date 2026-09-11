@@ -1,0 +1,31 @@
+{
+  "id": "93ee62fb5577",
+  "url": "https://www.euronext.com/media/8656/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/8656/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:07 GMT",
+  "local_path": "sources/documents/93ee62fb5577-Download-white-paper-Bond-issuance.pdf",
+  "sha256": "f488310cc7a0fc7e550d3b44e2450f6a31d9380d6698866b9944963c0ced3935",
+  "bytes": 913271,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 12,
+  "text_path": "extracted/93ee62fb5577.md",
+  "text_characters": 29561,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign 17.0 (Windows)",
+    "producer": "Adobe PDF Library 16.0.3",
+    "creationDate": "D:20220419143307+03'00'",
+    "modDate": "D:20220420084823+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

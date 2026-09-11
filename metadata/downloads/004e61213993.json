@@ -1,0 +1,14 @@
+{
+  "id": "004e61213993",
+  "url": "https://www.euronext.com/sites/default/files/2025-10/Initial%20Service%20Description%20-%20CPH%20Proprietary%20messages.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-10/Initial%20Service%20Description%20-%20CPH%20Proprietary%20messages.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Tue, 07 Oct 2025 06:11:58 GMT",
+  "local_path": "sources/documents/004e61213993-Service-Description-Document-Proprietary-Messages-v1-0.xlsx",
+  "sha256": "e2f3ca64e5344592ee19adac0019d9bce04a5c0b03f27f2fd767d41db88f93d2",
+  "bytes": 43310,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

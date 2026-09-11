@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/real-time-settlement-system",
+  "retrieved_at": "2026-09-11",
+  "id": "4ef017ba80da",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/documentation/statistics/real-time-settlement-system",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:54:25 GMT",
+  "title": "Real Time Settlement System",
+  "text": "Real Time Settlement System\nMonth\n- Any -JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember\nYear\n- Any -20132014201520162017201820192020202120222023202420252026\nAugust 2026\nType\nNr. Of Transactions *\nValue (€)\nInf. Date\nDVP Unsettled at ISD\n1,542\n723,672,060\n31/08/2026\nDVP Cancelled\n56\n147,532,232\n31/08/2026\nDVP Settled\n35,315\n13,293,312,266\n31/08/2026\nFOP Unsettled at ISD\n779\n0\n31/08/2026\nFOP Cancelled\n721\n0\n31/08/2026\nFOP Settled\n14,576\n0\n31/08/2026\nISD – Intended Settlement Date",
+  "links": [],
+  "local_html": "sources/pages/4ef017ba80da.html",
+  "sha256": "0e7165d766f29b22372377e9e98840451234744a8f38a8422f4b6624d387bc9c"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c06d14545f39",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4400%20-%20New%20German%20Questionnaire%20%28Appendix%204%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4400%20-%20New%20German%20Questionnaire%20%28Appendix%204%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:46 GMT",
+  "local_path": "sources/documents/c06d14545f39-New-German-Questionnaire-Appendix-4.pdf",
+  "sha256": "1e7549bd1b809d4fc429d32f3877245eaf119650dc8ceebcc96e94ce8c6dd7e6",
+  "bytes": 39691,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/c06d14545f39.md",
+  "text_characters": 17,
+  "low_text_pages": [
+    1
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "Image",
+    "keywords": "",
+    "creator": "Canon iR3025                    ",
+    "producer": "Canon iR3025                    ",
+    "creationDate": "D:20110801155640+09'00'",
+    "modDate": "D:20110801161524+09'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

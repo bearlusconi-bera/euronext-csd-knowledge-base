@@ -1,0 +1,25 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/issuance/investment-funds/fundhub",
+  "retrieved_at": "2026-09-11",
+  "id": "5e734f2ad259",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/issuance/investment-funds/fundhub",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:58 GMT",
+  "title": "FundHub",
+  "text": "FundHub\nFundHub is an order routing platform, resembling the process and flow of the investment fund business in most other European countries.\nFundHub in numbers\n71\ndifferent single price mutual funds available on FundHub representing a market value of almost DKK 40 billion\n26\ndifferent banks are connected to the platform\n22,000\norders have been processed over the last 12 months\nTo learn more about Euronext Securities FundHub watch the video:\nPresenting Euronext Securities FundHub, an investment fund order routing platform from Euronext Securities Copenhagen.\nThe FundHub solution is designed to match the process and flow of the investment fund business in most European countries combining it with a CSD registration and safekeeping of fund units on securities accounts. This solution reduces complexity, risk and costs for Transfer Agents and Distributors. The platform allows a Transfer Agent to act on behalf of the investment fund, and order routing and distribution can also be handled by banks and financial entities that are not CSD participants. Issuance and redemption orders are netted and executed directly to and from the Distributor’s account. Fund orders can be placed in units or in a nominal value, e.g., 10,000 units or €10,000. Order routing settlement is handled with commercial money in all major currencies.\nMeeting demands for a retail investment platform\nCase study\nSparinvest partners with Euronext Securities Copenhagen to launch retail investment solution.\nRead the case study\nWould you like to receive articles directly in your inbox?\nSign up\nStay updated with the relevant news from Euronext Securities Copenhagen.\nSign up for news\nContacts\nHelen\nSørensen\nProduct Manager,\nEuronext Securities Copenhagen\n+45 2969 2802\nHSorensen@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/news/meeting-demands-for-retail-investment-platform",
+      "title": "Read the case study",
+      "context": "Meeting demands for a retail investment platform Case study Sparinvest partners with Euronext Securities Copenhagen to launch retail investment solution. Read the case study Would you like to receive articles directly in your inbox? Sign up Stay updated with the relevant news from Euronext Securities Copenhagen. Sign up for news"
+    },
+    {
+      "url": "https://info.euronext.com/es-copenhagen-subscriptionform",
+      "title": "Sign up for news",
+      "context": "Meeting demands for a retail investment platform Case study Sparinvest partners with Euronext Securities Copenhagen to launch retail investment solution. Read the case study Would you like to receive articles directly in your inbox? Sign up Stay updated with the relevant news from Euronext Securities Copenhagen. Sign up for news"
+    }
+  ],
+  "local_html": "sources/pages/5e734f2ad259.html",
+  "sha256": "d353a59e9eca3b353fe9c68788d5236532374673e2ebc48f31cab195e52ee004"
+}

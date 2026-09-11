@@ -1,0 +1,31 @@
+{
+  "id": "3b89d4167c65",
+  "url": "https://www.euronext.com/sites/default/files/2025-03/ES-PTO_AGC%20and%20PFMI%202024.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-03/ES-PTO_AGC%20and%20PFMI%202024.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 31 Mar 2025 12:20:56 GMT",
+  "local_path": "sources/documents/3b89d4167c65-WFC-Single-Disclosure-Report-2024-pdf.pdf",
+  "sha256": "7bb1ca6192da375a41343c687263c5bff08ac93e88418c22f3da53610b0fca71",
+  "bytes": 957958,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 110,
+  "text_path": "extracted/3b89d4167c65.md",
+  "text_characters": 313945,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.4",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20241104070423-07'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "48843266613b",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_client_test_set_for_uk_link_and_sdrt.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_client_test_set_for_uk_link_and_sdrt.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Thu, 22 Jan 2026 16:12:50 GMT",
+  "local_path": "sources/documents/48843266613b-Client-test-set-for-UK-link-and-Stamp-Duty-Reserve-Tax.xlsx",
+  "sha256": "f384923b88a6d9cd2ee15a384eb33ebfe1049a55d34afe934cd5b361dd5acecb",
+  "bytes": 24547,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

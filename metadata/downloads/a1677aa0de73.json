@@ -1,0 +1,31 @@
+{
+  "id": "a1677aa0de73",
+  "url": "https://www.euronext.com/sites/default/files/2026-05/General%20Conditions%20Part%20II_Issuer.Intermediary.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-05/General%20Conditions%20Part%20II_Issuer.Intermediary.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 08 May 2026 08:16:34 GMT",
+  "local_path": "sources/documents/a1677aa0de73-General-conditions-Part-II.pdf",
+  "sha256": "5b0c09255f222bab08c83051efb941568aa420c9c15132888ad01411d70c516d",
+  "bytes": 309538,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 23,
+  "text_path": "extracted/a1677aa0de73.md",
+  "text_characters": 64656,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Dermes, Maria",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word per Microsoft 365",
+    "producer": "Microsoft® Word per Microsoft 365",
+    "creationDate": "D:20260505101658+02'00'",
+    "modDate": "D:20260505101658+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

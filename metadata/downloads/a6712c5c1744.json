@@ -1,0 +1,33 @@
+{
+  "id": "a6712c5c1744",
+  "url": "https://www.euronext.com/sites/default/files/2022-09/RelatorioTrimestral.2018_1.PT_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-09/RelatorioTrimestral.2018_1.PT_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:18 GMT",
+  "local_path": "sources/documents/a6712c5c1744-Relatorio-1o-trimestre-de-2018.pdf",
+  "sha256": "19d76ca2d84b69bd5cc9d0545dfe94b096d5dfb06ef0491bd389c442ecb3e206",
+  "bytes": 788824,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 27,
+  "text_path": "extracted/a6712c5c1744.md",
+  "text_characters": 72040,
+  "low_text_pages": [
+    1
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Insert Document Title",
+    "author": "steve",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word 2010",
+    "producer": "Microsoft® Word 2010",
+    "creationDate": "D:20180530201705+01'00'",
+    "modDate": "D:20180530201705+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

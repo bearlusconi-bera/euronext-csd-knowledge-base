@@ -1,0 +1,34 @@
+{
+  "id": "457250825d8d",
+  "url": "https://www.esma.europa.eu/sites/default/files/2025-02/ESMA74-2119945925-2089_CSDR_Refit_Final_Report_on_TS_on_Review_and_Evaluation.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2025-02/ESMA74-2119945925-2089_CSDR_Refit_Final_Report_on_TS_on_Review_and_Evaluation.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 20 Feb 2025 10:23:15 GMT",
+  "local_path": "sources/documents/457250825d8d-Final-report.pdf",
+  "sha256": "c0b049d958bc7925813e39bbb386b81a7df42141f8e28fbbc238bf2633fb08ed",
+  "bytes": 670924,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 58,
+  "text_path": "extracted/457250825d8d.md",
+  "text_characters": 148203,
+  "low_text_pages": [
+    2,
+    6
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ESMA74-2119945925-2089 Final Report on the Draft technical standards on review and evaluation under CSDR",
+    "author": "ESMA",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250220104747+01'00'",
+    "modDate": "D:20250220104825+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

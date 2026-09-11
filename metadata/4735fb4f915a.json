@@ -1,0 +1,50 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr",
+  "retrieved_at": "2026-09-11",
+  "id": "4735fb4f915a",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:08 GMT",
+  "title": "CSDR",
+  "text": "CSDR\nThe Central Securities Depository Regulation (CSDR) is an European Parliament regulation entered into force on September 17th, 2014 to regulate Central Security Depositaries activities of EU member countries.\nCSDR plays a pivotal role for post-trade harmonization efforts in Europe, as it establishes authorization requirements and common rules for the exercise of the central depository activity, with particular reference to the securities settlement service.\nThe CSDR considers CSDs as critical market infrastructures with guiding principles of regulatory provisions aimed to:\nIncrease the safety, reliability and efficiency of CSDs\nEnsure that CSDs are subject to a common regulatory framework in the European Union\nHarmonize the legal aspects related to the settlement of securities\nCreate a level playing field among CSDs that stimulates competition and interconnection between systems\nCSDR Focus\n14/07/2022\nPDF\nCSDR: The main effects\nEnglish\nVersion\nEnglish\n14/07/2022\n03/03/2021\n/sites/default/files/2022-07/4196_CSDR%20Focus%20ENG.pdf\nCSDR: The main effects\nRelated Pages\nImpact of CSDR on Eurone…\nImpact of CSDR on Clients\nUser Committee\nThe Settlement Disciplin…\nRelated Links\nRegolamento (EU) N. 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in\nEUR-Lex\nRegolamento (UE) 2017/392 integrates Regulation (EU) No. 909/2014 of the European Parliament and of the Council in relation to\nESMA",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2022-07/4196_CSDR%20Focus%20ENG.pdf",
+      "title": "CSDR: The main effects",
+      "context": "14/07/2022 PDF CSDR: The main effects English Version English 14/07/2022 03/03/2021 /sites/default/files/2022-07/4196_CSDR%20Focus%20ENG.pdf CSDR: The main effects"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr/what-csdr-means-for-euronext-securities-milan",
+      "title": "Impact of CSDR on Eurone…",
+      "context": "Related Pages Impact of CSDR on Eurone… Impact of CSDR on Clients User Committee The Settlement Disciplin…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr/what-csdr-means-for-our-clients",
+      "title": "Impact of CSDR on Clients",
+      "context": "Related Pages Impact of CSDR on Eurone… Impact of CSDR on Clients User Committee The Settlement Disciplin…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr/user-committee",
+      "title": "User Committee",
+      "context": "Related Pages Impact of CSDR on Eurone… Impact of CSDR on Clients User Committee The Settlement Disciplin…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr/settlement-discipline-regime",
+      "title": "The Settlement Disciplin…",
+      "context": "Related Pages Impact of CSDR on Eurone… Impact of CSDR on Clients User Committee The Settlement Disciplin…"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/en/TXT?uri=CELEX%3A32014R0909",
+      "title": "EUR-Lex",
+      "context": "Regolamento (EU) N. 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in EUR-Lex Regolamento (UE) 2017/392 integrates Regulation (EU) No. 909/2014 of the European Parliament and of the Council in relation to ESMA"
+    },
+    {
+      "url": "https://www.esma.europa.eu/regulation/post-trading/settlement",
+      "title": "ESMA",
+      "context": "Regolamento (EU) N. 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in EUR-Lex Regolamento (UE) 2017/392 integrates Regulation (EU) No. 909/2014 of the European Parliament and of the Council in relation to ESMA"
+    }
+  ],
+  "local_html": "sources/pages/4735fb4f915a.html",
+  "sha256": "ee4a867f7e5407aa01bfed4fcdda3241979f6efd9116daa08995c54948d2739b"
+}

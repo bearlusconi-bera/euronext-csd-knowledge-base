@@ -1,0 +1,31 @@
+{
+  "id": "f9a51f5d7243",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/RegulamentoIB.2018.01.Consolidado.EN_%20%281%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/RegulamentoIB.2018.01.Consolidado.EN_%20%281%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:44 GMT",
+  "local_path": "sources/documents/f9a51f5d7243-INTERBOLSA-Regulation-1-2018.pdf",
+  "sha256": "543d7a0ac52e0d5752e1a02749cf98d4ad873a23b81fc088c6bca9e7eb0a8084",
+  "bytes": 250882,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 20,
+  "text_path": "extracted/f9a51f5d7243.md",
+  "text_characters": 36565,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - INTERBOLSA REGULATION_IB_1_2018_VF.doc",
+    "author": "HTL",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20180216172416Z",
+    "modDate": "D:20180216172416Z",
+    "trapped": "",
+    "encryption": null
+  }
+}

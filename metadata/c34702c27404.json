@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/how-become-account-operator",
+  "retrieved_at": "2026-09-11",
+  "id": "c34702c27404",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/how-become-account-operator",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:07:08 GMT",
+  "title": "How to become an Account Operator",
+  "text": "How to become an Account Operator\nGrow your business by offering our services to your own clients\nEuronext Securities Oslo delivers its services through account operators that act as an intermediary between Euronext Securities Oslo and the investor (account operator for the investor), or between Euronext Securities Oslo and the issuer (account operator for the issuer).\nAn account operator is a bank, fund manager, broker dealer or other type of investment firm. The account operator for the investor manages the VPS accounts on behalf of Euronext Securities Oslo, whereas the account operator for the issuer ensures correct registration of the issuer’s shares, bonds or other financial instruments in Euronext Securities Oslo. An entity that wishes to become an account operator must enter into an account operator agreement with Euronext Securities Oslo.\nTo become an Account Operator an application has to be submitted.\nThe minimum requirements with respect to the application is what type of authorization is sought (Account Operator for Investor, Account Operator for Issuer or Account Operator for Funds), which technical systems to be used, including safety description of the systems in addition to a list of employees who will perform account operations.\nFurther, Euronext Securities Oslo would like to receive an overview of the experience and expertise acquired by the company within securities registration and the operation of our IT solutions.\nThe following documents must be submitted together with the application:\nArticles of Association\nCopy of the pertinent licence\nCertificate of Registration\nSignature List\nCertified copy of ID\nThe company’s KYC and AML procedures\nFor more information or to submit your application, please contact us.\nContact us",
+  "links": [
+    {
+      "url": "https://www.euronext.com/post-trade/euronext-securities/oslo/contact-euronext-securities-oslo",
+      "title": "Contact us",
+      "context": "Grow your business by offering our services to your own clients Euronext Securities Oslo delivers its services through account operators that act as an intermediary between Euronext Securities Oslo and the investor (account operator for the investor), or between Euronext Securities Oslo and the issuer (account operator for the issuer). An account operator is a bank, fund manager, broker dealer or other type of investment firm. The account operator for the investor manages the VPS accounts on behalf of Euronext Securities Oslo, whereas the account operator for the issuer ensures correct registration of the issuer’s shares, bonds or other financial instruments in Euronext Securities Oslo. An entity that wishes to become an account operator must enter into an account operator agreement with Euronext Securities Oslo. To become an Account Operator an application has to be submitted. The minimum requirements with respect to the application is what type of authorization is sought (Account Operator for Investor, Account Operator for Issuer or Account Operator for Funds), which technical systems to be used, including safety description of the systems in addition to a list of employees who will perform account operations. Further, Euronext Securities Oslo would like to receive an overview of the experience and expertise acquired by the company within securities registration and the opera"
+    }
+  ],
+  "local_html": "sources/pages/c34702c27404.html",
+  "sha256": "f7739c45aa7780b653a0a64a6d2db31dc20e747b9cc2bd88f6d2a214c44256f3"
+}

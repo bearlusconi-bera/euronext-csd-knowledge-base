@@ -1,0 +1,31 @@
+{
+  "id": "7ed96f429053",
+  "url": "https://www.euronext.com/sites/default/files/2025-06/EE_Documentation_Service%20Description%20Document%20-%20Tax%20Relief%20at%20Source%20France_20250623.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-06/EE_Documentation_Service%20Description%20Document%20-%20Tax%20Relief%20at%20Source%20France_20250623.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 23 Jun 2025 13:32:38 GMT",
+  "local_path": "sources/documents/7ed96f429053-Tax-Services-Relief-at-source-France-issuer-CSD.pdf",
+  "sha256": "8e8c9b0b0acfdf286ccecdd72ea1bb7f77f07a5bdfc61d3605a76795e3b6c78d",
+  "bytes": 4205627,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 15,
+  "text_path": "extracted/7ed96f429053.md",
+  "text_characters": 28115,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "YG",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250623152222+02'00'",
+    "modDate": "D:20250623152222+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

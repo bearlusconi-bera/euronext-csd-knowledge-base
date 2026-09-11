@@ -1,0 +1,31 @@
+{
+  "id": "da7e8aa607f3",
+  "url": "https://www.euronext.com/sites/default/files/2023-06/es-cph_vgm_product-sheet_2023_facts.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-06/es-cph_vgm_product-sheet_2023_facts.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:15 GMT",
+  "local_path": "sources/documents/da7e8aa607f3-VGM-Factsheet.pdf",
+  "sha256": "1feac4bda98937e2a158b8840e624a5eccfac0b606101aafbdef75468953ceef",
+  "bytes": 332013,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/da7e8aa607f3.md",
+  "text_characters": 4676,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign 18.2 (Windows)",
+    "producer": "Adobe PDF Library 17.0",
+    "creationDate": "D:20230526102631+03'00'",
+    "modDate": "D:20230526102633+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

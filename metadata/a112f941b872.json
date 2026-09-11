@@ -1,0 +1,50 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/multilateral",
+  "retrieved_at": "2026-09-11",
+  "id": "a112f941b872",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/multilateral",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Multilateral & Bilateral Settlement Services | Euronext Athens",
+  "text": "EURONEXT SECURITIES ATHENS\nMultilateral & Bilateral Settlement Services\nSettlement MethodsTransactions settlement for shares and bonds takes place on T+2. The following three settlement methods apply: Night-Time Settlement (Delivery versus Delivery - DvD)The night-time settlement of quantities is applied without using a settlement bank, resulting in the settlement of a significant number of instructions and facilitating the Participants in completing their obligations on the settlement day (T+2). Euronext Securities Athens calculates the coverage limit of each Participant which is equal to the value of its \"allocated\" sales. The settlement algorithm for DvD (Delivery versus Delivery) settles the analyzed orders per Participant up to the value of the Coverage Limit. Multilateral Settlement Cycles (Delivery versus Payment - DvP)The multilateral settlement calculations are performed on a netting basis per Participant, Clearing Account and ISIN and include the introduction and processing of settlement instructions covering the overall settlement procedure as follows:Matching of settlement orders.Settlement of transactions through cash and securities transfer in central bank money via TARGET and in other currencies in commercial bank money through correspondent banks.Execution of Intermediary transactions resulting from the Stock Exchange Securities Market settlement instructions, OTC transactions from DSS and back-to-back/turn around transaction types.The Multilateral Settlement Process is conducted in three distinct phases: Connection with the cash settlement institution and blocking of funds in the Participants' cash accounts: This step involves securing the required amounts from Participants who have a total long position in the clearing. Execution of the multilateral settlement procedure: During this phase, all allocated settlement instructions that meet the criteria are processed. The settlement algorithm generates the results of the settled instructions.Completion of settlement: Upon settlement completion, the cash movements per Clearing Account and Participant are sent to the cash settlement bank. Bilateral Settlement (RTGS)Participants may settle block trade instruction types (pre-agreed trades), which are bilaterally settled (RTGS).\nSee Also\nCash Settlement Services\nCross Border Settlement Services\nOTC Settlement Services\nPrices and Fees (Resolution 18)\nDisclosure\nSecurities Accounts\nRegistry Services",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/cash",
+      "title": "Cash Settlement Services",
+      "context": "Cash Settlement Services Cross Border Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/cross-border",
+      "title": "Cross Border Settlement Services",
+      "context": "Cash Settlement Services Cross Border Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/otc",
+      "title": "OTC Settlement Services",
+      "context": "Cash Settlement Services Cross Border Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/about/regulatory/athexcsd",
+      "title": "Prices and Fees (Resolution 18)",
+      "context": "Cash Settlement Services Cross Border Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/about/regulatory/disclosure",
+      "title": "Disclosure",
+      "context": "Cash Settlement Services Cross Border Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/securities-accounts",
+      "title": "Securities Accounts",
+      "context": "Cash Settlement Services Cross Border Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services",
+      "title": "Registry Services",
+      "context": "Cash Settlement Services Cross Border Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    }
+  ],
+  "local_html": "sources/pages/a112f941b872.html",
+  "sha256": "541326ada105328019e5f5194705372d524e7bde5027b99af3e4551fd19054f1"
+}

@@ -1,0 +1,65 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services/participants",
+  "retrieved_at": "2026-09-11",
+  "id": "1759e8f7b394",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services/participants",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Registry Services for Participants | Euronext Athens",
+  "text": "EURONEXT SECURITIES ATHENS\nRegistry Services for Participants\nOur Services in Detail\nProvision of Information\nSuch information includes: Details of the Share of the Own Participant in the DSSStatus and/or activity of the Accounts of the Share of the Own Participant in the DSS (from 29/03/1999 onwards) Statement of cash distributions Weighting status Historic balances for certified auditors The service is provided upon submission of the Information Request: APP007. Charges:Through Jira Service Desk: € 12.40 (incl. VAT)By e-mail: € 12.40 (incl. VAT)Βy post or courier services: € 13.90 (incl. VAT) With physical presence of the beneficiary at the stage of receipt: € 18.60 (incl. VAT)\nInheritance Transfers\nEuronext Securities Athens also manages the legalization of heirs of a deceased beneficiary-client of the Participant. Participants, after completing the legalization of heirs of their deceased beneficiary-client, notify Euronext Securities Athens in order to carry out the transfer of securities from the Share of their deceased beneficiary-client to the Shares of his heirs in the DSS. For this purpose, they submit to Euronext Securities Athens the following documents:Letter of legalization of heirs and distribution of securities (see relevant template here)Certificate of article 105 of Law 2961/2001 or Inheritance Tax Declaration, accompanied by a Solemn Declaration of article 8 of Law 1599/1986 (Government Gazette 75A) with a genuine signature of the applicant by an administrative authority (gov.gr), stating that \"the data resulting from the Inheritance Tax Declaration have not changed and no tax is due\" Charges: see G504.\nFreezing and Releasing of Securities\nFreezing of securities is carried out by Participants and concerns the following: Declaration of Intention to Transfer or Creation of Weight Exercise of pre-emption rights Exercise of minority rights ForeclosureReleasing securities by Euronext Securities Athens requires the following: Declaration of Intention to Transfer or Constitute a Burden Exercise of pre-emption rights To carry out the above decommitments, beneficiaries submit a relevant AIT012 (available only in Greek) application to Euronext Securities Athens. In case the release of Securities concerns KEM, the application is signed by the first co-beneficiary. The release of Securities relating to the exercise of minority interests and seizure is carried out directly by the Participants. Charges: Securities Commitment: € 12.40 (incl. VAT) per security Securities Release: € 6.20 (incl. VAT) per security\nChanges in Data or Category of Beneficiary Share\nThis process regards updating the data of the Securities Accounts Share in the DSS in terms of the Name/Name or the category of the Securities Accounts Share from \"Client's Share\" to \"Own Participant's Share\" or \"Capital Share\" or \"Public Body's Share\". The service is provided upon submission of the Application for Change of Share Data & Securities Account in the DSS. APP004 and the corresponding supporting documents specified in the application.Charges: Change of Share Details: free of chargeChange of Securities Account Share category: € 124 (incl. VAT)\nCreation of a Category of Special Tax\nThis process concerns the following cases:Foreign beneficiaries who benefit from special tax treatment due to the Double Taxation Treaty (DTT) Legal EntitiesSubsidiaries/parent companiesSupranational organisations The Participant applies to Euronext Securities Athens for the creation of a special tax category for the payment of dividend, interim dividend and interest on borrowed products. The linking of the beneficiary's Securities Account Account to a special tax category is carried out by the Participant and it is valid until the end of the calendar year. The above connection must be completed by the Participant before the record date of beneficiaries of cash distribution, in order to correctly calculate the corresponding tax. The service is free of charge.\nRequests are sent electronically via JIRA Service Desk/Registry services. Applications containing personal data require confirmation of the beneficiary’s signature authenticity in accordance with the applicable procedure. Service fees are provided in accordance with Resolution 18 of Euronext Securities Athens BoD. For more information click here.\nSee also\nRegistry Services for Issuers\nRegistry Services for Investors\nFAQs",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-07/Euronext_Securities_Athens_APP007_APPLICATION_FOR_PROVIDING_INFORMATION_20260623.pdf",
+      "title": "APP007",
+      "context": "Such information includes: Details of the Share of the Own Participant in the DSSStatus and/or activity of the Accounts of the Share of the Own Participant in the DSS (from 29/03/1999 onwards) Statement of cash distributions Weighting status Historic balances for certified auditors The service is provided upon submission of the Information Request: APP007. Charges:Through Jira Service Desk: € 12.40 (incl. VAT)By e-mail: € 12.40 (incl. VAT)Βy post or courier services: € 13.90 (incl. VAT) With physical presence of the beneficiary at the stage of receipt: € 18.60 (incl. VAT)"
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP097_LEGALIZATION_REQUEST_FROM_PARTICIPANT_ISSUER_02022026.docx",
+      "title": "here",
+      "context": "Euronext Securities Athens also manages the legalization of heirs of a deceased beneficiary-client of the Participant. Participants, after completing the legalization of heirs of their deceased beneficiary-client, notify Euronext Securities Athens in order to carry out the transfer of securities from the Share of their deceased beneficiary-client to the Shares of his heirs in the DSS. For this purpose, they submit to Euronext Securities Athens the following documents:Letter of legalization of heirs and distribution of securities (see relevant template here)Certificate of article 105 of Law 2961/2001 or Inheritance Tax Declaration, accompanied by a Solemn Declaration of article 8 of Law 1599/1986 (Government Gazette 75A) with a genuine signature of the applicant by an administrative authority (gov.gr), stating that \"the data resulting from the Inheritance Tax Declaration have not changed and no tax is due\" Charges: see G504."
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_G504_30122024_Guidelines_for_Pricing_Services_Inheritance.pdf",
+      "title": "G504",
+      "context": "Euronext Securities Athens also manages the legalization of heirs of a deceased beneficiary-client of the Participant. Participants, after completing the legalization of heirs of their deceased beneficiary-client, notify Euronext Securities Athens in order to carry out the transfer of securities from the Share of their deceased beneficiary-client to the Shares of his heirs in the DSS. For this purpose, they submit to Euronext Securities Athens the following documents:Letter of legalization of heirs and distribution of securities (see relevant template here)Certificate of article 105 of Law 2961/2001 or Inheritance Tax Declaration, accompanied by a Solemn Declaration of article 8 of Law 1599/1986 (Government Gazette 75A) with a genuine signature of the applicant by an administrative authority (gov.gr), stating that \"the data resulting from the Inheritance Tax Declaration have not changed and no tax is due\" Charges: see G504."
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_ΑΙΤ012_ΑΙΤΗΣΗ_ΑΝΑΚΛΗΣΗΣ_ΔΕΣΜΕΥΣΗΣ_ΑΞΙΩΝ_25012011.pdf",
+      "title": "AIT012",
+      "context": "Freezing of securities is carried out by Participants and concerns the following: Declaration of Intention to Transfer or Creation of Weight Exercise of pre-emption rights Exercise of minority rights ForeclosureReleasing securities by Euronext Securities Athens requires the following: Declaration of Intention to Transfer or Constitute a Burden Exercise of pre-emption rights To carry out the above decommitments, beneficiaries submit a relevant AIT012 (available only in Greek) application to Euronext Securities Athens. In case the release of Securities concerns KEM, the application is signed by the first co-beneficiary. The release of Securities relating to the exercise of minority interests and seizure is carried out directly by the Participants. Charges: Securities Commitment: € 12.40 (incl. VAT) per security Securities Release: € 6.20 (incl. VAT) per security"
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP004_APPLICATION_FOR_CHANGING_DATA_OF_THE_BENEFICIARY_SHARE_AND_SECURITIES_ACCOUNT_20240412.docx",
+      "title": "APP004",
+      "context": "This process regards updating the data of the Securities Accounts Share in the DSS in terms of the Name/Name or the category of the Securities Accounts Share from \"Client's Share\" to \"Own Participant's Share\" or \"Capital Share\" or \"Public Body's Share\". The service is provided upon submission of the Application for Change of Share Data & Securities Account in the DSS. APP004 and the corresponding supporting documents specified in the application.Charges: Change of Share Details: free of chargeChange of Securities Account Share category: € 124 (incl. VAT)"
+    },
+    {
+      "url": "https://servicedesk.athexgroup.gr/login.jsp",
+      "title": "JIRA Service Desk/Registry services",
+      "context": "Requests are sent electronically via JIRA Service Desk/Registry services. Applications containing personal data require confirmation of the beneficiary’s signature authenticity in accordance with the applicable procedure. Service fees are provided in accordance with Resolution 18 of Euronext Securities Athens BoD. For more information click here."
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/pricing-and-fees",
+      "title": "here",
+      "context": "Requests are sent electronically via JIRA Service Desk/Registry services. Applications containing personal data require confirmation of the beneficiary’s signature authenticity in accordance with the applicable procedure. Service fees are provided in accordance with Resolution 18 of Euronext Securities Athens BoD. For more information click here."
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services/issuers",
+      "title": "Registry Services for Issuers",
+      "context": "Registry Services for Issuers Registry Services for Investors FAQs"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services/investors",
+      "title": "Registry Services for Investors",
+      "context": "Registry Services for Issuers Registry Services for Investors FAQs"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services/faqs",
+      "title": "FAQs",
+      "context": "Registry Services for Issuers Registry Services for Investors FAQs"
+    }
+  ],
+  "local_html": "sources/pages/1759e8f7b394.html",
+  "sha256": "d1ac77ec84e026de286ae37345c8431f4d9efb22aec5a4ba54b36b278c19261a"
+}

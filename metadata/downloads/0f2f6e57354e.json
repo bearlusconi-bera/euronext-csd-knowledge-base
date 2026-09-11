@@ -1,0 +1,14 @@
+{
+  "id": "0f2f6e57354e",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Κωδικός_και_Ονομασία_Συμμετέχοντα.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_%CE%9A%CF%89%CE%B4%CE%B9%CE%BA%CF%8C%CF%82_%CE%BA%CE%B1%CE%B9_%CE%9F%CE%BD%CE%BF%CE%BC%CE%B1%CF%83%CE%AF%CE%B1_%CE%A3%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%AD%CF%87%CE%BF%CE%BD%CF%84%CE%B1.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Fri, 17 Apr 2026 07:35:43 GMT",
+  "local_path": "sources/documents/0f2f6e57354e-Participant-Code-Name.xlsx",
+  "sha256": "83694dbcdc98996d680499ef951e9220b3567b7e1eb57f5be69a22447040fe4f",
+  "bytes": 20262,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

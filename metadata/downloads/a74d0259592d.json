@@ -1,0 +1,31 @@
+{
+  "id": "a74d0259592d",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4281%20-%20Witholding%20statement%20for%20FATCA.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4281%20-%20Witholding%20statement%20for%20FATCA.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:45 GMT",
+  "local_path": "sources/documents/a74d0259592d-Witholding-statement-for-FATCA.pdf",
+  "sha256": "c9b8575abd04c19a6ed12b51c7e4b8d0c518143e2e8e8532edf27d3aeff2bc31",
+  "bytes": 60060,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/a74d0259592d.md",
+  "text_characters": 2346,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Dermes, Maria",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210422121916+02'00'",
+    "modDate": "D:20210422121916+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

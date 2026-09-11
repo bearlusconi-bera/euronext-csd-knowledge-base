@@ -1,0 +1,31 @@
+{
+  "id": "5b22b07dcf21",
+  "url": "https://www.euronext.com/sites/default/files/2025-09/20250902_Service%20Description%20Document%20-%20SHID_Track%20changes.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-09/20250902_Service%20Description%20Document%20-%20SHID_Track%20changes.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 02 Sep 2025 07:25:57 GMT",
+  "local_path": "sources/documents/5b22b07dcf21-Shareholder-Identification-Service-v-2-Track-changes.pdf",
+  "sha256": "88cd4cc6c6cd478883fb0cb68c7f44333b6a4d080e20a10ee89a0393a1cd70d7",
+  "bytes": 463520,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 17,
+  "text_path": "extracted/5b22b07dcf21.md",
+  "text_characters": 35373,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250902090216+02'00'",
+    "modDate": "D:20250902090216+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

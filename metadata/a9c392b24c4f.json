@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/data-services/transaction-monitoringold",
+  "retrieved_at": "2026-09-11",
+  "id": "a9c392b24c4f",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/user/login?destination=/en/csd/oslo/data-services/transaction-monitoringold",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Log in | euronext.com",
+  "text": "Error message\nAccess denied. You must log in to view this page.\nForgot password? Follow this link to reset.\nYou must have JavaScript enabled to use this form.\nLogin by username/email address\nYou can use your username or email address to login.\nPassword",
+  "links": [
+    {
+      "url": "https://www.euronext.com/user/password",
+      "title": "this link",
+      "context": "Forgot password? Follow this link to reset."
+    }
+  ],
+  "local_html": "sources/pages/a9c392b24c4f.html",
+  "sha256": "5db388a64480fb89b8461babd4ff78a1089aa457a02ed8e6300d5d5114dc5344"
+}

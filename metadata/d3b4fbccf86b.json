@@ -1,0 +1,35 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/our-clients/how-become-member",
+  "retrieved_at": "2026-09-11",
+  "id": "d3b4fbccf86b",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/our-clients/how-become-member",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:27 GMT",
+  "title": "Membership",
+  "text": "Membership\nmedia\nWho can become a Member\nFinancial Intermediaries\nIssuers\nCentral Banks, Central Counterparties (CCPs), Central Securities Depositories (CSDs)\nOther Entities\nFINANCIAL INTERMEDIARIES\nIn order to become affiliates, the Financial Intermediaries or other entities must fulfil the following requirements:\nEnsuring compliance with technical, operational, and human resource requirements stipulated by Euronext Securities Porto, essential for accessing its managed systems and affiliated platforms such as the TARGET2-Securities platform (T2S), while ensuring their efficient and secure operation.\nExecuting an affiliation contract with Euronext Securities Porto, following the model provided in INTERBOLSA Regulation No. 1/2016, either as a Directly Connected Party (DCP) or an Indirectly Connected Party (ICP) to the T2S platform.\nRegistration with the CMVM - Comissão do Mercado de Valores Mobiliários, if applicable, or obtaining the necessary recognition to operate in Portugal.\nProviding details of cash accounts opened on the TARGET2 and T2S platforms (Dedicated Cash Accounts), if applicable.\nPayment of the affiliation fee outlined in the Euronext Securities Porto Fee Book.\nFor further details, refer to INTERBOLSA Regulation No. 1/2016 - Participants to the systems managed by INTERBOLSA.\nContact: Centralgi@euronext.com for more information.\nISSUERS\nComplete identification of the Issuer, including the LEI code (Legal Entity Identifier).\nAn updated copy of the Issuer’s by-laws or organic law.\nCommercial registration certificate.\nCertified copy of the minutes approving the issuance, if applicable.\nDetails on the amount of securities issued, nominal value, form of representation (certificate/book-entry), and any special rights, obligations, or privileges associated with the security category.\nFor securities represented in certificate form, a copy of each title specimen and the numbering distribution of the specimens.\nFor more information: INTERBOLSA Regulation 2/2016 - Articles 17 and 18\nContact: Centraldi@euronext.com for more information.\nOTHER ENTITIES\nAs the National Numbering Agency (NNA), Euronext Securities Porto provides information on issued ISIN (International Securities Identification Number) codes and the characteristics of each codified issue to the capital market, particularly to institutions involved in selling information (data vendors), as well as to any other entities that may need this information for their activities.\nEuronext Securities Porto also provides statistical information about its activities and the securities registered or under its custody to the CMVM, Banco de Portugal, the European Central Bank, and any entities that request such information.\nAdditionally, upon request, Euronext Securities Porto offers historical information on the securities registered in the Central Securities Depository.\nAuditors of issuers and financial intermediaries are provided with specific information to verify the conformity of their clients' accounting records in Euronext Securities Porto.\nContact: Centralgi@euronext.com for more information.\nCENTRAL BANKS, CCPs and CSDs\nContact: Centralgi@euronext.com for more information.\nHow to access My INTERBOLSA\nMy INTERBOLSA is the reserved area for Euronext Securities Porto Clients\nAccess our Service Agreement\nMYINTERBOLSA\nImage",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/porto/services/other-systems/national-numbering-agency",
+      "title": "National Numbering Agency (NNA)",
+      "context": "As the National Numbering Agency (NNA), Euronext Securities Porto provides information on issued ISIN (International Securities Identification Number) codes and the characteristics of each codified issue to the capital market, particularly to institutions involved in selling information (data vendors), as well as to any other entities that may need this information for their activities. Euronext Securities Porto also provides statistical information about its activities and the securities registered or under its custody to the CMVM, Banco de Portugal, the European Central Bank, and any entities that request such information. Additionally, upon request, Euronext Securities Porto offers historical information on the securities registered in the Central Securities Depository. Auditors of issuers and financial intermediaries are provided with specific information to verify the conformity of their clients' accounting records in Euronext Securities Porto. Contact: Centralgi@euronext.com for more information."
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/about/abc-csd/isin-cfi-and-fisn",
+      "title": "ISIN (International Securities Identification Number)",
+      "context": "As the National Numbering Agency (NNA), Euronext Securities Porto provides information on issued ISIN (International Securities Identification Number) codes and the characteristics of each codified issue to the capital market, particularly to institutions involved in selling information (data vendors), as well as to any other entities that may need this information for their activities. Euronext Securities Porto also provides statistical information about its activities and the securities registered or under its custody to the CMVM, Banco de Portugal, the European Central Bank, and any entities that request such information. Additionally, upon request, Euronext Securities Porto offers historical information on the securities registered in the Central Securities Depository. Auditors of issuers and financial intermediaries are provided with specific information to verify the conformity of their clients' accounting records in Euronext Securities Porto. Contact: Centralgi@euronext.com for more information."
+    },
+    {
+      "url": "https://www.euronext.com/media/9494/download",
+      "title": "Access our Service Agreement",
+      "context": "How to access My INTERBOLSA My INTERBOLSA is the reserved area for Euronext Securities Porto Clients Access our Service Agreement MYINTERBOLSA Image"
+    },
+    {
+      "url": "https://www.interbolsa.pt/Cliente/Index.php?Language=EN",
+      "title": "MYINTERBOLSA",
+      "context": "How to access My INTERBOLSA My INTERBOLSA is the reserved area for Euronext Securities Porto Clients Access our Service Agreement MYINTERBOLSA Image"
+    }
+  ],
+  "local_html": "sources/pages/d3b4fbccf86b.html",
+  "sha256": "700685156ca454da908489babb32c5af9762283c777dac40689bfb6af011d281"
+}

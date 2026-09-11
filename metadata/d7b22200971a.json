@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/cancelled-issues-month",
+  "retrieved_at": "2026-09-11",
+  "id": "d7b22200971a",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/documentation/statistics/cancelled-issues-month",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:32 GMT",
+  "title": "Cancelled Issues by Month",
+  "text": "Cancelled Issues by Month\nMonth\n- Any -JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember\nYear\n- Any -20132014201520162017201820192020202120222023202420252026\nAugust 2026\nType\nNr. Of issues\nCancelled quantity\nValue * (€)\nInf. Date\nCommercial Paper\n12\n0\n1,476,450,000\n31/08/2026\nParticipation Units\n2\n155\n7,750,000\n31/08/2026\nBonds\n10\n0\n131,326,489\n31/08/2026\nWarrants\n50\n15,400,000\n0\n31/08/2026\nShares\n2\n507,767\n2,068,209\n31/08/2026\n(*)Note: The value of the debt issues is calculated based on the nominal value. Issues other than debt are valuated based on the most recent closing price for listed securities or on the nominal value for unlisted securities.For unlisted participation units the value is calculated based on the subscription price. Value is not calculated for warrants, certificates and other similar securities.",
+  "links": [],
+  "local_html": "sources/pages/d7b22200971a.html",
+  "sha256": "7245f740e78c706e93f1782231b4e8822ad6d16abf959526a1342f57c472de6c"
+}

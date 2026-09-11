@@ -1,0 +1,31 @@
+{
+  "id": "ba61c839eb29",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4399%20-%20DE%20-%20ES-MIL%20credit%20advice%20%28Appendix%203%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4399%20-%20DE%20-%20ES-MIL%20credit%20advice%20%28Appendix%203%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:40 GMT",
+  "local_path": "sources/documents/ba61c839eb29-DE-ES-MIL-credit-advice-Appendix-3.pdf",
+  "sha256": "95db12c334d26348a339c81e6b99387ce7ee27b6658ebfc1a95f00679c82dfb2",
+  "bytes": 200846,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/ba61c839eb29.md",
+  "text_characters": 1579,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4399 - DE - MT credit advice (Appendix 3)",
+    "author": "GArdizzon",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220420172559+02'00'",
+    "modDate": "D:20220420172559+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

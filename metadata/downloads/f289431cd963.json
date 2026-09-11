@@ -1,0 +1,31 @@
+{
+  "id": "f289431cd963",
+  "url": "https://www.euronext.com/sites/default/files/2022-05/4214%20-%20FI%20-%20credit%20advice%20%28Appendix3%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-05/4214%20-%20FI%20-%20credit%20advice%20%28Appendix3%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:45 GMT",
+  "local_path": "sources/documents/f289431cd963-FI-credit-advice-Appendix-3.pdf",
+  "sha256": "e3da8b03fcd01b7a8085e27a871c927cb42de57e4eb40941f3a08ab7b1a74c62",
+  "bytes": 151271,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/f289431cd963.md",
+  "text_characters": 1309,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4214 - FI - credit advice (Appendix3)",
+    "author": "GArdizzon",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220429171811+02'00'",
+    "modDate": "D:20220429171811+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

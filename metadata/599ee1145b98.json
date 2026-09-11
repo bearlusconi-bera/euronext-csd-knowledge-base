@@ -1,0 +1,25 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/investorportal",
+  "retrieved_at": "2026-09-11",
+  "id": "599ee1145b98",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/investor-services/investorportal",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:01 GMT",
+  "title": "InvestorPortal",
+  "text": "InvestorPortal\nPromote active ownership with a company-branded online solution.\nYou can use the investor portal to promote active ownership by your investors. This is a secure company-branded online solution that enables your investors to view information concerning their holdings, manage their contact data and subscribe to company publications, e.g. notices convening AGMs, annual reports and shareholder newsletters, etc.\nThe investor portal also gives investors the opportunity to register for meetings, submit proxy votes and issue powers of attorney.\n19/06/2023\nPDF\nOverview of the InvestorPortal\nEnglish\nVersion\nEnglish\n19/06/2023\n29/06/2023\nOverview of the InvestorPortal\n/sites/default/files/2023-06/es-cph_investorportal_one-pager_190623.pdf\nDiscover our general meeting support\nYour general meeting, our expertise\nEuronext Securities offers comprehensive solutions to ensure your general meeting runs smoothly and efficiently. Discover our expertise, tailored services and practical guidance in our brochure. download brochure\nContacts\nInvestor Services\nOpening hours: 9:00 - 16:00 CET\n+45 4358 8866\nCPH-investor@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2023-06/es-cph_investorportal_one-pager_190623.pdf",
+      "title": "Overview of the InvestorPortal",
+      "context": "19/06/2023 PDF Overview of the InvestorPortal English Version English 19/06/2023 29/06/2023 Overview of the InvestorPortal /sites/default/files/2023-06/es-cph_investorportal_one-pager_190623.pdf"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2026-03/Your%20general%20meeting%2C%20our%20expertise.pdf",
+      "title": "download brochure",
+      "context": "Discover our general meeting support Your general meeting, our expertise Euronext Securities offers comprehensive solutions to ensure your general meeting runs smoothly and efficiently. Discover our expertise, tailored services and practical guidance in our brochure. download brochure"
+    }
+  ],
+  "local_html": "sources/pages/599ee1145b98.html",
+  "sha256": "357fecd101ddebffbf7b3efdfa0ff4b6699d1f6cf0fea3c37b58b6432d0389ad"
+}

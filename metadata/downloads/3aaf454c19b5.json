@@ -1,0 +1,31 @@
+{
+  "id": "3aaf454c19b5",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/sdd_-_euronext_securities_copenhagen_danish_tax_reclaim_service_1.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/sdd_-_euronext_securities_copenhagen_danish_tax_reclaim_service_1.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 30 Jun 2026 15:17:33 GMT",
+  "local_path": "sources/documents/3aaf454c19b5-SDD-ES-CPH-Danish-Tax-Reclaim-Service-pdf.pdf",
+  "sha256": "65a04bcbe78ea634218f644c2c3f7bda47ff9e2bfe0b7b475efa2df1d06287a3",
+  "bytes": 336126,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 14,
+  "text_path": "extracted/3aaf454c19b5.md",
+  "text_characters": 28048,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Alexandra Hegarty",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260630144601+02'00'",
+    "modDate": "D:20260630144601+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

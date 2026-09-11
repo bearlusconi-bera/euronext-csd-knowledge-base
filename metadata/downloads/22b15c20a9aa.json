@@ -1,0 +1,31 @@
+{
+  "id": "22b15c20a9aa",
+  "url": "https://www.esma.europa.eu/sites/default/files/2026-07/JC_2026_25_ESA_statement_on_frontier_AI_models.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2026-07/JC_2026_25_ESA_statement_on_frontier_AI_models.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jul 2026 11:53:14 GMT",
+  "local_path": "sources/documents/22b15c20a9aa-ESAs-statement-toward-a-consistent-and-risk-based-approach-for-ICT-risks-from-frontier-AI-.pdf",
+  "sha256": "105c7d82c7c4e6ad05094fabe6d4f6a36d846bc35a11b874215400ba03292402",
+  "bytes": 417920,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/22b15c20a9aa.md",
+  "text_characters": 29129,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "JC 2026 25 ESAs' statement toward a consistent and risk-based approach for ICT risks from frontier AI models",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260730164552+02'00'",
+    "modDate": "D:20260731135302+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

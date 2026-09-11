@@ -1,0 +1,14 @@
+{
+  "id": "57e7edf11e5d",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/Euronext%20Securities%20Oslo%20-%20Settlement%20Fails%202025%20-%20Article15.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/Euronext%20Securities%20Oslo%20-%20Settlement%20Fails%202025%20-%20Article15.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Wed, 18 Feb 2026 12:00:36 GMT",
+  "local_path": "sources/documents/57e7edf11e5d-Euronext-Securities-Oslo-Settlement-Fails-2025-Article-15.xlsx",
+  "sha256": "b6b31dc8c1b18c47ed2b770e54525ed572e777d509743ed7e37bcec25353310e",
+  "bytes": 25649,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

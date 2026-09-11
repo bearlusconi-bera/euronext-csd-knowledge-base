@@ -1,0 +1,90 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/cross-border",
+  "retrieved_at": "2026-09-11",
+  "id": "787f07bbad76",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/cross-border",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Cross Border Settlement Services | Euronext Athens",
+  "text": "EURONEXT SECURITIES ATHENS\nCross Border Settlement Services\nEuronext Securities Athens, as Investor CSD, provides cross-border settlement services to its Participants for transactions in dual listed securities, in accordance with the Rulebook and the Resolutions of the Board of Directors of Euronext Securities Athens (formerly ATHEXCSD) and with the provisions of Law 3756/2009, concerning the establishment of links with foreign central securities depositories directly or through custodians. Cross-border settlement involves OTC orders for the delivery or receipt of securities against or without payment (DVP/DFP - RVP/RFP) entered by a Participant in the OTC transaction management subsystem of the DSS. The instructions are transmitted to the respective depositories for settlement by the CSD, through its providers. The financial obligations of Participants associated with the cross-border settlement of their transactions are paid through the cash settlement accounts kept by Participants in ECB's Target system, for transactions in euros (Central Bank Money), and in AlphaBank, for transactions in currencies other than Euro (Commercial Bank Money). The entry of orders by Participants and the fulfillment of their financial obligations should follow the Specific Settlement Instructions (SSIs) provided by the Euronext Securities Athens and be within the time limits (Cutoff Times)specified per market taking into account the specific arrangements that apply in case of bank holidays Holidays 2024, Holidays 2025 and Holidays 2026. Standard Settlement Instructions: Euronext Securities Athens SSIs.Cutoff Times: Cutoff Times More detailed information on cross-border securities settlement issues is given here.\nSee Also\nCash Settlement Services\nMultilateral & Bilateral Settlement Services\nOTC Settlement Services\nPrices and Fees (Resolution 18)\nDisclosure\nSecurities Accounts\nRegistry Services",
+  "links": [
+    {
+      "url": "https://athexweb.k8s-prod.athexsrv.gr/en/about/regulatory/group/athexcsd?title=&field_group_regula_target_id=1",
+      "title": "Euronext Securities Athens",
+      "context": "Euronext Securities Athens, as Investor CSD, provides cross-border settlement services to its Participants for transactions in dual listed securities, in accordance with the Rulebook and the Resolutions of the Board of Directors of Euronext Securities Athens (formerly ATHEXCSD) and with the provisions of Law 3756/2009, concerning the establishment of links with foreign central securities depositories directly or through custodians. Cross-border settlement involves OTC orders for the delivery or receipt of securities against or without payment (DVP/DFP - RVP/RFP) entered by a Participant in the OTC transaction management subsystem of the DSS. The instructions are transmitted to the respective depositories for settlement by the CSD, through its providers. The financial obligations of Participants associated with the cross-border settlement of their transactions are paid through the cash settlement accounts kept by Participants in ECB's Target system, for transactions in euros (Central Bank Money), and in AlphaBank, for transactions in currencies other than Euro (Commercial Bank Money). The entry of orders by Participants and the fulfillment of their financial obligations should follow the Specific Settlement Instructions (SSIs) provided by the Euronext Securities Athens and be within the time limits (Cutoff Times)specified per market taking into account the specific arrangements "
+    },
+    {
+      "url": "https://www.ecb.europa.eu/paym/target/target2/html/index.en.html",
+      "title": "ECB's Target system",
+      "context": "Euronext Securities Athens, as Investor CSD, provides cross-border settlement services to its Participants for transactions in dual listed securities, in accordance with the Rulebook and the Resolutions of the Board of Directors of Euronext Securities Athens (formerly ATHEXCSD) and with the provisions of Law 3756/2009, concerning the establishment of links with foreign central securities depositories directly or through custodians. Cross-border settlement involves OTC orders for the delivery or receipt of securities against or without payment (DVP/DFP - RVP/RFP) entered by a Participant in the OTC transaction management subsystem of the DSS. The instructions are transmitted to the respective depositories for settlement by the CSD, through its providers. The financial obligations of Participants associated with the cross-border settlement of their transactions are paid through the cash settlement accounts kept by Participants in ECB's Target system, for transactions in euros (Central Bank Money), and in AlphaBank, for transactions in currencies other than Euro (Commercial Bank Money). The entry of orders by Participants and the fulfillment of their financial obligations should follow the Specific Settlement Instructions (SSIs) provided by the Euronext Securities Athens and be within the time limits (Cutoff Times)specified per market taking into account the specific arrangements "
+    },
+    {
+      "url": "https://www.athexgroup.gr/documents/10180/658029/%CE%91%CF%81%CE%B3%CE%AF%CE%B5%CF%82%20%CE%B1%CE%BB%CE%BB%CE%BF%CE%B4%CE%B1%CF%80%CF%8E%CE%BD%20%CE%B1%CE%B3%CE%BF%CF%81%CF%8E%CE%BD%20%202022/9c764ca9-cc3a-4252-a69c-3c64dc62d5c8",
+      "title": "Holidays 2024",
+      "context": "Euronext Securities Athens, as Investor CSD, provides cross-border settlement services to its Participants for transactions in dual listed securities, in accordance with the Rulebook and the Resolutions of the Board of Directors of Euronext Securities Athens (formerly ATHEXCSD) and with the provisions of Law 3756/2009, concerning the establishment of links with foreign central securities depositories directly or through custodians. Cross-border settlement involves OTC orders for the delivery or receipt of securities against or without payment (DVP/DFP - RVP/RFP) entered by a Participant in the OTC transaction management subsystem of the DSS. The instructions are transmitted to the respective depositories for settlement by the CSD, through its providers. The financial obligations of Participants associated with the cross-border settlement of their transactions are paid through the cash settlement accounts kept by Participants in ECB's Target system, for transactions in euros (Central Bank Money), and in AlphaBank, for transactions in currencies other than Euro (Commercial Bank Money). The entry of orders by Participants and the fulfillment of their financial obligations should follow the Specific Settlement Instructions (SSIs) provided by the Euronext Securities Athens and be within the time limits (Cutoff Times)specified per market taking into account the specific arrangements "
+    },
+    {
+      "url": "https://www.athexgroup.gr/documents/10180/658029/%CE%97%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%20%CE%91%CF%81%CE%B3%CE%B9%CF%8E%CE%BD%20%CE%91%CE%BB%CE%BB%CE%BF%CE%B4%CE%B1%CF%80%CF%8E%CE%BD%20%CE%91%CE%B3%CE%BF%CF%81%CF%8E%CE%BD%202025.pdf/7539b5ee-17dd-409b-bb2a-12d937477649",
+      "title": "Holidays 2025",
+      "context": "Euronext Securities Athens, as Investor CSD, provides cross-border settlement services to its Participants for transactions in dual listed securities, in accordance with the Rulebook and the Resolutions of the Board of Directors of Euronext Securities Athens (formerly ATHEXCSD) and with the provisions of Law 3756/2009, concerning the establishment of links with foreign central securities depositories directly or through custodians. Cross-border settlement involves OTC orders for the delivery or receipt of securities against or without payment (DVP/DFP - RVP/RFP) entered by a Participant in the OTC transaction management subsystem of the DSS. The instructions are transmitted to the respective depositories for settlement by the CSD, through its providers. The financial obligations of Participants associated with the cross-border settlement of their transactions are paid through the cash settlement accounts kept by Participants in ECB's Target system, for transactions in euros (Central Bank Money), and in AlphaBank, for transactions in currencies other than Euro (Commercial Bank Money). The entry of orders by Participants and the fulfillment of their financial obligations should follow the Specific Settlement Instructions (SSIs) provided by the Euronext Securities Athens and be within the time limits (Cutoff Times)specified per market taking into account the specific arrangements "
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_EN_GR_Market_Holidays_Ημερολόγιο_Αργιών_Αλλοδαπών_Αγορών_2026.pdf",
+      "title": "Holidays 2026",
+      "context": "Euronext Securities Athens, as Investor CSD, provides cross-border settlement services to its Participants for transactions in dual listed securities, in accordance with the Rulebook and the Resolutions of the Board of Directors of Euronext Securities Athens (formerly ATHEXCSD) and with the provisions of Law 3756/2009, concerning the establishment of links with foreign central securities depositories directly or through custodians. Cross-border settlement involves OTC orders for the delivery or receipt of securities against or without payment (DVP/DFP - RVP/RFP) entered by a Participant in the OTC transaction management subsystem of the DSS. The instructions are transmitted to the respective depositories for settlement by the CSD, through its providers. The financial obligations of Participants associated with the cross-border settlement of their transactions are paid through the cash settlement accounts kept by Participants in ECB's Target system, for transactions in euros (Central Bank Money), and in AlphaBank, for transactions in currencies other than Euro (Commercial Bank Money). The entry of orders by Participants and the fulfillment of their financial obligations should follow the Specific Settlement Instructions (SSIs) provided by the Euronext Securities Athens and be within the time limits (Cutoff Times)specified per market taking into account the specific arrangements "
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_SSIs_SIXSIS_25032024.pdf",
+      "title": "Euronext Securities Athens SSIs",
+      "context": "Euronext Securities Athens, as Investor CSD, provides cross-border settlement services to its Participants for transactions in dual listed securities, in accordance with the Rulebook and the Resolutions of the Board of Directors of Euronext Securities Athens (formerly ATHEXCSD) and with the provisions of Law 3756/2009, concerning the establishment of links with foreign central securities depositories directly or through custodians. Cross-border settlement involves OTC orders for the delivery or receipt of securities against or without payment (DVP/DFP - RVP/RFP) entered by a Participant in the OTC transaction management subsystem of the DSS. The instructions are transmitted to the respective depositories for settlement by the CSD, through its providers. The financial obligations of Participants associated with the cross-border settlement of their transactions are paid through the cash settlement accounts kept by Participants in ECB's Target system, for transactions in euros (Central Bank Money), and in AlphaBank, for transactions in currencies other than Euro (Commercial Bank Money). The entry of orders by Participants and the fulfillment of their financial obligations should follow the Specific Settlement Instructions (SSIs) provided by the Euronext Securities Athens and be within the time limits (Cutoff Times)specified per market taking into account the specific arrangements "
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Cut_Off_Times_20240528.pdf",
+      "title": "Cutoff Times",
+      "context": "Euronext Securities Athens, as Investor CSD, provides cross-border settlement services to its Participants for transactions in dual listed securities, in accordance with the Rulebook and the Resolutions of the Board of Directors of Euronext Securities Athens (formerly ATHEXCSD) and with the provisions of Law 3756/2009, concerning the establishment of links with foreign central securities depositories directly or through custodians. Cross-border settlement involves OTC orders for the delivery or receipt of securities against or without payment (DVP/DFP - RVP/RFP) entered by a Participant in the OTC transaction management subsystem of the DSS. The instructions are transmitted to the respective depositories for settlement by the CSD, through its providers. The financial obligations of Participants associated with the cross-border settlement of their transactions are paid through the cash settlement accounts kept by Participants in ECB's Target system, for transactions in euros (Central Bank Money), and in AlphaBank, for transactions in currencies other than Euro (Commercial Bank Money). The entry of orders by Participants and the fulfillment of their financial obligations should follow the Specific Settlement Instructions (SSIs) provided by the Euronext Securities Athens and be within the time limits (Cutoff Times)specified per market taking into account the specific arrangements "
+    },
+    {
+      "url": "https://athens.euronext.com/sites/default/files/2024-10/Investor_CSD_FAQ_V1_0_ENG.pdf",
+      "title": "here",
+      "context": "Euronext Securities Athens, as Investor CSD, provides cross-border settlement services to its Participants for transactions in dual listed securities, in accordance with the Rulebook and the Resolutions of the Board of Directors of Euronext Securities Athens (formerly ATHEXCSD) and with the provisions of Law 3756/2009, concerning the establishment of links with foreign central securities depositories directly or through custodians. Cross-border settlement involves OTC orders for the delivery or receipt of securities against or without payment (DVP/DFP - RVP/RFP) entered by a Participant in the OTC transaction management subsystem of the DSS. The instructions are transmitted to the respective depositories for settlement by the CSD, through its providers. The financial obligations of Participants associated with the cross-border settlement of their transactions are paid through the cash settlement accounts kept by Participants in ECB's Target system, for transactions in euros (Central Bank Money), and in AlphaBank, for transactions in currencies other than Euro (Commercial Bank Money). The entry of orders by Participants and the fulfillment of their financial obligations should follow the Specific Settlement Instructions (SSIs) provided by the Euronext Securities Athens and be within the time limits (Cutoff Times)specified per market taking into account the specific arrangements "
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/cash",
+      "title": "Cash Settlement Services",
+      "context": "Cash Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/multilateral",
+      "title": "Multilateral & Bilateral Settlement Services",
+      "context": "Cash Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/otc",
+      "title": "OTC Settlement Services",
+      "context": "Cash Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/about/regulatory/athexcsd",
+      "title": "Prices and Fees (Resolution 18)",
+      "context": "Cash Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/about/regulatory/disclosure",
+      "title": "Disclosure",
+      "context": "Cash Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/securities-accounts",
+      "title": "Securities Accounts",
+      "context": "Cash Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services",
+      "title": "Registry Services",
+      "context": "Cash Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services Prices and Fees (Resolution 18) Disclosure Securities Accounts Registry Services"
+    }
+  ],
+  "local_html": "sources/pages/787f07bbad76.html",
+  "sha256": "7d8c468e135321e0e6fdce8a002163da16aa925bd79c9e113111c52b82de9611"
+}

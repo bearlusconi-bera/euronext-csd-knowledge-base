@@ -1,0 +1,31 @@
+{
+  "id": "8f4202ad0bc1",
+  "url": "https://www.euronext.com/sites/default/files/2022-05/4247%20-%20PT%20-%20ES-MIL553%20%28Appendix23%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-05/4247%20-%20PT%20-%20ES-MIL553%20%28Appendix23%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:46 GMT",
+  "local_path": "sources/documents/8f4202ad0bc1-PT-ES-MIL553-Appendix-23.pdf",
+  "sha256": "6bcdad2406ee7f1f66a1de46731c47ccf5fd5fb38a225af6eeb7668ea51f291d",
+  "bytes": 100842,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/8f4202ad0bc1.md",
+  "text_characters": 646,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4247 - PT - ES-MIL553 (Appendix23)",
+    "author": "GArdizzon",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220429173342+02'00'",
+    "modDate": "D:20220429173342+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

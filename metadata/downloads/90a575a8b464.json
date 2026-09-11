@@ -1,0 +1,31 @@
+{
+  "id": "90a575a8b464",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Ημερολόγιο_Διακανονισμού_Ποινών_και_Φόρου_Settlement_SDR_Penalty_and_Tax_Calendar_2026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_%CE%97%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF_%CE%94%CE%B9%CE%B1%CE%BA%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D_%CE%A0%CE%BF%CE%B9%CE%BD%CF%8E%CE%BD_%CE%BA%CE%B1%CE%B9_%CE%A6%CF%8C%CF%81%CE%BF%CF%85_Settlement_SDR_Penalty_and_Tax_Calendar_2026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 15 Apr 2026 16:45:54 GMT",
+  "local_path": "sources/documents/90a575a8b464-Download-PDF.pdf",
+  "sha256": "b43612719e7645838b89fa0aea6415e0ecc75126b6a82a37b0556a36499824d9",
+  "bytes": 160646,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/90a575a8b464.md",
+  "text_characters": 7120,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Tasoula, Pinelopi",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ (PUBLIC)ΑΓΓΛΙΚΗ (ENGLISH)",
+    "creator": "Microsoft® Excel® for Microsoft 365",
+    "producer": "Microsoft® Excel® for Microsoft 365",
+    "creationDate": "D:20260415094353+03'00'",
+    "modDate": "D:20260415094353+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

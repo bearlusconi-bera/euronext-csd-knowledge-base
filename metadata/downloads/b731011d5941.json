@@ -1,0 +1,31 @@
+{
+  "id": "b731011d5941",
+  "url": "https://www.euronext.com/sites/default/files/2024-02/Verdipapirsentralloven%20%28the%20CSD%20Act%29%20per%2001.07.2023%20%28translated%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-02/Verdipapirsentralloven%20%28the%20CSD%20Act%29%20per%2001.07.2023%20%28translated%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:20 GMT",
+  "local_path": "sources/documents/b731011d5941-Verdipapirsentralloven-the-CSD-Act-per-01-07-2023-translated-pdf.pdf",
+  "sha256": "84267895222a5266756fbd116d6874d5678f54e65c06512b13de808143c67370",
+  "bytes": 209200,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 19,
+  "text_path": "extracted/b731011d5941.md",
+  "text_characters": 53847,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "Mathilde Lossius Østerud",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20230627103232+02'00'",
+    "modDate": "D:20230627103232+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

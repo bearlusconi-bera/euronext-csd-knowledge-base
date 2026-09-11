@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/report-bail-external-execution",
+  "retrieved_at": "2026-09-11",
+  "id": "f3aa90930c15",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/report-bail-external-execution",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:08 GMT",
+  "title": "Report Bail In External Execution",
+  "text": "Report Bail In External Execution\nInternational regulation and standards on banking resolutions recommend the setting of clear and harmonized procedures to ensure that the measures taken by regulating authorities are effectively and rapidly implemented.\nIn this context, the Bank of Italy, as Resolution Authority, has sponsored the creation of a Task Force chaired by Euronext Securities Milan, in collaboration with Associations ABI and ASSOSIM, to analyse the operational aspects related to the external execution of a possible bail-in measure within the Italian securities settlement system, also as a further measure to support banks in preparation of the bail-in playbook, required by the Authorities as part of resolution planning activities.\nThe Task Force has prepared a Report which summarizes the contributions provided by all participants of the working group, as well as the considerations shared with the Authorities.\nThis report may be the subject to further amendments, also in light of the evolving work on the matter by the international and European community.\nDownload Report - Bail In External Execution",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/media/7087/download",
+      "title": "Download Report - Bail In External Execution",
+      "context": "International regulation and standards on banking resolutions recommend the setting of clear and harmonized procedures to ensure that the measures taken by regulating authorities are effectively and rapidly implemented. In this context, the Bank of Italy, as Resolution Authority, has sponsored the creation of a Task Force chaired by Euronext Securities Milan, in collaboration with Associations ABI and ASSOSIM, to analyse the operational aspects related to the external execution of a possible bail-in measure within the Italian securities settlement system, also as a further measure to support banks in preparation of the bail-in playbook, required by the Authorities as part of resolution planning activities. The Task Force has prepared a Report which summarizes the contributions provided by all participants of the working group, as well as the considerations shared with the Authorities. This report may be the subject to further amendments, also in light of the evolving work on the matter by the international and European community. Download Report - Bail In External Execution"
+    }
+  ],
+  "local_html": "sources/pages/f3aa90930c15.html",
+  "sha256": "ab82cd18a82cc7e50b55c09928cf1604b9ae9ef63c613278a5eca61dd41a30a2"
+}

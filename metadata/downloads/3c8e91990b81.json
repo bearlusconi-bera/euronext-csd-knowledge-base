@@ -1,0 +1,31 @@
+{
+  "id": "3c8e91990b81",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2016.04.en_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/circular.2016.04.en_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:27 GMT",
+  "local_path": "sources/documents/3c8e91990b81-INTERBOLSA-Circular-4-2016.pdf",
+  "sha256": "49f560c3d7c0eaba18280dfe3f9e5b2290c96edea4fd57468b2a4a21f8d27223",
+  "bytes": 208501,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/3c8e91990b81.md",
+  "text_characters": 6517,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Helena Lopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Office 365",
+    "producer": "Microsoft® Word for Office 365",
+    "creationDate": "D:20190930120039+01'00'",
+    "modDate": "D:20190930120039+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

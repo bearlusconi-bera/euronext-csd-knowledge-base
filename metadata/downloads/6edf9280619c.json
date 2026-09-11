@@ -1,0 +1,31 @@
+{
+  "id": "6edf9280619c",
+  "url": "https://www.euronext.com/sites/default/files/2024-07/Junho%202024_%20Insolvency%20of%20an%20Interbolsa%20Participant%20-%20Manual%20of%20Procedures_VF.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-07/Junho%202024_%20Insolvency%20of%20an%20Interbolsa%20Participant%20-%20Manual%20of%20Procedures_VF.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:51 GMT",
+  "local_path": "sources/documents/6edf9280619c-Insolvency-of-an-Interbolsa-Participant-Manual-of-Procedures.pdf",
+  "sha256": "818d40bc755738c3cc6b177ae7086bc282c55eccbea4c15bf677978fc4841875",
+  "bytes": 665098,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 31,
+  "text_path": "extracted/6edf9280619c.md",
+  "text_characters": 73465,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Manual da Interbolsa",
+    "author": "Corina Baptista Oliveira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 24 for Word",
+    "producer": "Adobe PDF Library 24.2.159",
+    "creationDate": "D:20240703112941+01'00'",
+    "modDate": "D:20240703112951+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

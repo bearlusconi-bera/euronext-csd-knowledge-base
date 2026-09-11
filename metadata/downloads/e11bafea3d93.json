@@ -1,0 +1,31 @@
+{
+  "id": "e11bafea3d93",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4245%20-%20P_F036%20MOD%2021-RFI%20%28Appendix%2021%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4245%20-%20P_F036%20MOD%2021-RFI%20%28Appendix%2021%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/e11bafea3d93-P-F036-MOD-21-RFI-Appendix-21.pdf",
+  "sha256": "53c378e150e62477b2a0f822d0654ab268cd68bd68c43553197dbea96109d6bf",
+  "bytes": 405378,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 5,
+  "text_path": "extracted/e11bafea3d93.md",
+  "text_characters": 29574,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "P_F036_EN",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign CS4 (6.0)",
+    "producer": "Adobe PDF Library 9.0",
+    "creationDate": "D:20200608091636+01'00'",
+    "modDate": "D:20200902115252+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

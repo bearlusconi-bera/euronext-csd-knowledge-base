@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/issuance/investment-funds/fundhub/clearable-isins-fundhub",
+  "retrieved_at": "2026-09-11",
+  "id": "5a8cfb89edb9",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/issuance/investment-funds/fundhub/clearable-isins-fundhub",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:58 GMT",
+  "title": "Clearable ISINs in FundHub",
+  "text": "Clearable ISINs in FundHub\nThis list presents Single Price Mutual Funds that currently can be order routed and settled via FundHub.\nThe cut-off time refers to the deadline on the day that the Distributor submits an order. All orders submitted after the deadline will be filled on the following opening day.\nThe columns stating the order routing settlement conventions for subscriptions and redemptions define when the submitted orders are settled. This is based on the day that the submitted orders were confirmed by a NAV.\n22/10/2024\nPDF\nList of FundHub clearable ISINs\nEnglish\nVersion\nEnglish\n22/10/2024\n25/10/2022\nList of FundHub clearable ISINs\n/sites/default/files/2024-10/Clearable%20ISINs%20vpFUNDHUB.pdf\nContacts\nThere are no results found.",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2024-10/Clearable%20ISINs%20vpFUNDHUB.pdf",
+      "title": "List of FundHub clearable ISINs",
+      "context": "22/10/2024 PDF List of FundHub clearable ISINs English Version English 22/10/2024 25/10/2022 List of FundHub clearable ISINs /sites/default/files/2024-10/Clearable%20ISINs%20vpFUNDHUB.pdf"
+    }
+  ],
+  "local_html": "sources/pages/5a8cfb89edb9.html",
+  "sha256": "d91598fac26287768cfc01f2c790ce8dfbd5da9b2a7139ac4b0ef37ecfae5122"
+}

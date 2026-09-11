@@ -1,0 +1,31 @@
+{
+  "id": "e1341792d7d0",
+  "url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%2016%20ATHEXCSD-INFORMATION%20ON%20SECURITIES%20as%20of%2029112024.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%2016%20ATHEXCSD-INFORMATION%20ON%20SECURITIES%20as%20of%2029112024.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 22 Jan 2025 14:44:51 GMT",
+  "local_path": "sources/documents/e1341792d7d0-ATHEXCSD-Resolution-16.pdf",
+  "sha256": "a09ee3e22bc6feec7d73cf3354723ed6b4b8694c51ef27fc1cc3762a05b897ed",
+  "bytes": 231416,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/e1341792d7d0.md",
+  "text_characters": 21038,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Dimitra Vasileiadou",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ (PUBLIC)ΕΛΛΗΝΙΚΗ (GREEK)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20241129143145+02'00'",
+    "modDate": "D:20241129143145+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

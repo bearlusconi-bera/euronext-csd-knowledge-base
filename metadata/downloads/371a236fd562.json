@@ -1,0 +1,14 @@
+{
+  "id": "371a236fd562",
+  "url": "https://www.euronext.com/sites/default/files/2026-04/euronext_securities_-_client_test_set_for_tax_belgian_issuer_v02.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-04/euronext_securities_-_client_test_set_for_tax_belgian_issuer_v02.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Fri, 24 Apr 2026 14:50:25 GMT",
+  "local_path": "sources/documents/371a236fd562-Client-test-set-for-Tax-Belgian-issuer-v02.xlsx",
+  "sha256": "7c2c27cae1d4153eaf1b7ae628f5dc43733bdc9c9e30f74c486365d05ed93d1f",
+  "bytes": 20541,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

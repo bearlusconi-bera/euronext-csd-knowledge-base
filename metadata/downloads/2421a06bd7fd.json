@@ -1,0 +1,14 @@
+{
+  "id": "2421a06bd7fd",
+  "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_Business-Rules_Extract_UDFS_UHB_R2026.NOV_20260731.en.zip",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_Business-Rules_Extract_UDFS_UHB_R2026.NOV_20260731.en.zip",
+  "content_type": "application/zip",
+  "last_modified": "Mon, 03 Aug 2026 12:15:54 GMT",
+  "local_path": "sources/documents/2421a06bd7fd-T2S-Business-Rules-Extract-R2026-NOV.zip",
+  "sha256": "a08df20ad428f88887a5a6bf89bd0757b35f6164987604f654b85b78c812862b",
+  "bytes": 2463852,
+  "file_type": "zip",
+  "review_status": "archived-not-substantively-reviewed"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "c924b583bd3b",
+  "url": "https://www.euronext.com/sites/default/files/2025-05/gap_analysis_settlement.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-05/gap_analysis_settlement.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 27 May 2025 14:01:55 GMT",
+  "local_path": "sources/documents/c924b583bd3b-GAP-Analysis-Settlement.pdf",
+  "sha256": "9cb2a44e93d1fda0f43ab63465c3df2f38c0b17f6f1f77e9f2a750c0fe968cc2",
+  "bytes": 300365,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 14,
+  "text_path": "extracted/c924b583bd3b.md",
+  "text_characters": 40066,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "iLovePDF",
+    "creationDate": "",
+    "modDate": "D:20250527135811Z",
+    "trapped": "",
+    "encryption": null
+  }
+}

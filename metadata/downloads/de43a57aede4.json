@@ -1,0 +1,31 @@
+{
+  "id": "de43a57aede4",
+  "url": "https://www.esma.europa.eu/sites/default/files/2024-11/ESA_2024_22_Decision_on_reporting_of_information_for_CTPP_designation.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2024-11/ESA_2024_22_Decision_on_reporting_of_information_for_CTPP_designation.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 29 Jan 2025 11:16:00 GMT",
+  "local_path": "sources/documents/de43a57aede4-ESAs-expect-to-collect-the-DORA-registers-of-information-from-the-competent-authorities.pdf",
+  "sha256": "eb5cea7cef937ea15dbb35cac8a9541f02ccfb1cde93c8e7525328041c91fcdf",
+  "bytes": 259199,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/de43a57aede4.md",
+  "text_characters": 21386,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Antonio Barzachki",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250122095716+01'00'",
+    "modDate": "D:20250122095716+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

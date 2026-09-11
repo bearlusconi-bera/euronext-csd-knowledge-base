@@ -1,0 +1,14 @@
+{
+  "id": "d802038cede0",
+  "url": "https://www.euronext.com/sites/default/files/2026-05/Request%20for%20Services_Issuers-Intermediaries.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-05/Request%20for%20Services_Issuers-Intermediaries.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 08 May 2026 08:17:04 GMT",
+  "local_path": "sources/documents/d802038cede0-Request-for-Services.docx",
+  "sha256": "7c3d6b87158cad4b2352b09baa49898070330b9569d2acab14411db3acca3f37",
+  "bytes": 148666,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

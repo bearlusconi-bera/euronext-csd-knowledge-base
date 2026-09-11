@@ -1,0 +1,31 @@
+{
+  "id": "b25b654da623",
+  "url": "https://www.euronext.com/sites/default/files/2022-12/ES-MIL_Eurobond-Whitepaper.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-12/ES-MIL_Eurobond-Whitepaper.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:32 GMT",
+  "local_path": "sources/documents/b25b654da623-Whitepaper-on-Issuance-o.pdf",
+  "sha256": "be79cca2c2d6257c0870e76c5b9a26321c5b0f705ed13c7381aad5de49e430af",
+  "bytes": 1004295,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 27,
+  "text_path": "extracted/b25b654da623.md",
+  "text_characters": 58927,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Nacim MARSALI",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 22 for Word",
+    "producer": "Adobe PDF Library 22.3.58",
+    "creationDate": "D:20221215111951+01'00'",
+    "modDate": "D:20221215112003+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

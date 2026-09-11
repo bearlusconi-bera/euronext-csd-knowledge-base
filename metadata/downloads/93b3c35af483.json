@@ -1,0 +1,31 @@
+{
+  "id": "93b3c35af483",
+  "url": "https://www.ecb.europa.eu/press/payments-news/ecb.t2shaprrep202602.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/press/payments-news/ecb.t2shaprrep202602.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 03 Feb 2026 12:36:42 GMT",
+  "local_path": "sources/documents/93b3c35af483-16th-T2S-Harmonisation-Progress-Report.pdf",
+  "sha256": "4107794aa7d2c79c3fb9eb08dae8b8616444abf336db49e75a027b2716c50d1e",
+  "bytes": 1368670,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 72,
+  "text_path": "extracted/93b3c35af483.md",
+  "text_characters": 382469,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "16th T2S Harmonisation Progress Report",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260203120611+01'00'",
+    "modDate": "D:20260203121006+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

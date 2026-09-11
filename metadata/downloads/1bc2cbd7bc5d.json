@@ -1,0 +1,31 @@
+{
+  "id": "1bc2cbd7bc5d",
+  "url": "https://www.euronext.com/sites/default/files/2024-04/2024-02-22%20User%20Committee%20-%20Euronext%20Securities%20Oslo%20-%20updated%20version%20of%20mandate%20for%20BoD%20approval%205%20March%202024.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-04/2024-02-22%20User%20Committee%20-%20Euronext%20Securities%20Oslo%20-%20updated%20version%20of%20mandate%20for%20BoD%20approval%205%20March%202024.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:31 GMT",
+  "local_path": "sources/documents/1bc2cbd7bc5d-User-Committee-Mandate.pdf",
+  "sha256": "bd66d2ffd12ebc87b655f680824022b0b8d9979b126d051a36dee4d5dc9af2fb",
+  "bytes": 165512,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 4,
+  "text_path": "extracted/1bc2cbd7bc5d.md",
+  "text_characters": 6968,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20240320153720+01'00'",
+    "modDate": "D:20240320153720+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "bd9984a42f3e",
+  "url": "https://www.euronext.com/sites/default/files/2025-05/Form-to-request-cancellation-of-an%20FTT-Declaration.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-05/Form-to-request-cancellation-of-an%20FTT-Declaration.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 02 May 2025 13:48:17 GMT",
+  "local_path": "sources/documents/bd9984a42f3e-FTT-Cancellation-Form.pdf",
+  "sha256": "f6383afd2db096bee24ae65225b331a3503538da166ebc23e506004f4188916c",
+  "bytes": 204884,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/bd9984a42f3e.md",
+  "text_characters": 984,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Form to request a cancellation of your FTT Declaration",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2013",
+    "producer": "Microsoft® Word 2013",
+    "creationDate": "D:20201123103031+01'00'",
+    "modDate": "D:20201123104312+01'00'",
+    "trapped": "",
+    "encryption": "Standard V5 R6 256-bit AES"
+  }
+}

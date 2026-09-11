@@ -1,0 +1,35 @@
+{
+  "url": "https://www.euronext.com/en/csd/products-services/issuance-services",
+  "retrieved_at": "2026-09-11",
+  "id": "2ad5212cafd4",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/products-services/issuance-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:08:54 GMT",
+  "title": "Issuance Services",
+  "text": "Issuance Services\nWhat we offer\nEuronext Securities offer a wide variety of issuance products and services\nLet Euronext Securities become your trusted partner for comprehensive issuance services. Our goal is to provide seamless, efficient, and secure solutions tailored to meet the needs of issuers across various markets. Here’s how we support your issuance needs:\nFull-Service Issuance Support\nWe offer end-to-end support for all your issuance activities. From the initial planning stages to the final execution, our experienced team is here to ensure a smooth process. Our services include:\nPreparation and Documentation: Guidance on the preparation of necessary documentation and compliance with regulatory requirements.\nCoordination and Liaison: Acting as a liaison with regulatory bodies, financial advisors, and other stakeholders to ensure a coordinated approach.\nEfficient Registration and Listing\nOur platform streamlines the registration and listing process, making it quicker and more efficient. We provide:\nSecure Registration: Secure and accurate registration of new issuances.\nListing Services: Efficient handling of listing applications and documentation for various securities, including equities, bonds, and derivatives.\nCompliance and Regulatory Adherence\nNavigating the complex regulatory landscape is crucial for successful issuance. Euronext Securities ensures compliance through:\nRegulatory Expertise: In-depth knowledge of local and international regulations to ensure your issuance meets all legal requirements.\nAudit and Reporting: Comprehensive audit trails and reporting services to maintain transparency and accountability.\nInvestor Relations and Market Access\nConnecting with the right investors is key to the success of any issuance. Our services include:\nMarket Access: Providing access to a broad network of domestic and international investors. Investment fund order routing capabilities for Subscription and redemption processes.\nCommunication Tools: Tools and platforms to effectively communicate with current and potential investors.\nPost-Issuance Support\nOur commitment to your success continues even after the issuance. We offer:\nOngoing Compliance: Assistance with ongoing regulatory compliance and reporting requirements.\nCorporate Actions Management: Efficient handling of corporate actions such as dividends, stock splits, and more.\nWhy choose Euronext Securities?\nExpertise: Leverage our extensive experience and industry knowledge.\nInnovation: Benefit from our state-of-the-art technology and innovative solutions.\nReliability: Trust in our commitment to security, accuracy, and excellence.\nContact your local sales team to learn more about how we support Issuing Agent Services on our four locations.\nWant to learn more?\nContact\nCopenhagen\nMilan\nPorto",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/about/contacts",
+      "title": "Contact",
+      "context": "Want to learn more? Contact Copenhagen Milan Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen",
+      "title": "Copenhagen",
+      "context": "Want to learn more? Contact Copenhagen Milan Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/milan",
+      "title": "Milan",
+      "context": "Want to learn more? Contact Copenhagen Milan Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/porto",
+      "title": "Porto",
+      "context": "Want to learn more? Contact Copenhagen Milan Porto"
+    }
+  ],
+  "local_html": "sources/pages/2ad5212cafd4.html",
+  "sha256": "e314794c2a6238f1da83f7f35dff4dea1ad115b4169db9467870c420882b64b0"
+}

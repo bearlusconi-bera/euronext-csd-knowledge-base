@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/our-clients/my-interbolsa/how-access",
+  "retrieved_at": "2026-09-11",
+  "id": "57bd66aad9a7",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/our-clients/my-interbolsa/how-access",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:28 GMT",
+  "title": "How to access My Interbolsa",
+  "text": "How to access My Interbolsa\nWho can access My INTERBOLSA?\nFinancial Intermediaries\nor other entities affiliated with Euronext Securities Porto's settlement systems and centralised securities systems.\nIssuers\nwith securities registered in Euronext Securities Porto's centralised systems.\nOther entities\nIncluding financial intermediaries that are not participants of Euronext Securities Porto, who need to send the identification of securities holders in accordance with Shareholders Rights Directive II.\nWhat do I need to do to have access to My INTERBOLSA?\nEnter into a Service Agreement (contract) with Euronext Securities Porto to gain access to its portal.\nAccess the Service Agreement template at the provided link.\nSend the original signed contract to Euronext Securities Porto.\nFill out and sign Annexes I and II, and mail the originals to Euronext Securities Porto.\nAccess codes (User identification code and Activation Key) will be assigned to the client and sent by mail.\nFinancial intermediaries who are not Euronext Securities Porto participants must contact Euronext Securities Porto at centralgi@euronext.com.\nWhat should I do when I receive the Access codes?\nAccess the link indicated on the letter and activate the User, inserting the User identification code and the Activation Key;\nChange the password.\nmedia\nHow can user data be changed?\nBy completing and sending new Annexes, with the new user data;\nThe originals of the Annexes must be sent by mail to Euronext Securities Porto, after being signed.\nUser and password unknown - how shoud I proceed?\nOn the Login screen, select “Recover access data”;\nEnter the User identification code as well as the Activation Key (which was in the letter sent by Euronext Securities Porto, when joining My INTERBOLSA);\nYou will then receive, in your email account a link to reset your password.\nContacts\nMy INTERBOLSA\nHelp Desk\ncsdoperations@euronext.com\nMy INTERBOLSA\nGeneral contact,\nContacto geral\n+351 22 615 84 00\ninterbolsa@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/media/9494",
+      "title": "link",
+      "context": "What do I need to do to have access to My INTERBOLSA? Enter into a Service Agreement (contract) with Euronext Securities Porto to gain access to its portal. Access the Service Agreement template at the provided link. Send the original signed contract to Euronext Securities Porto. Fill out and sign Annexes I and II, and mail the originals to Euronext Securities Porto. Access codes (User identification code and Activation Key) will be assigned to the client and sent by mail. Financial intermediaries who are not Euronext Securities Porto participants must contact Euronext Securities Porto at centralgi@euronext.com. What should I do when I receive the Access codes? Access the link indicated on the letter and activate the User, inserting the User identification code and the Activation Key; Change the password."
+    }
+  ],
+  "local_html": "sources/pages/57bd66aad9a7.html",
+  "sha256": "77f8580d2246f66d3dcc9d9d78406ebb8740c42b79798e61145360bbe11dbb25"
+}

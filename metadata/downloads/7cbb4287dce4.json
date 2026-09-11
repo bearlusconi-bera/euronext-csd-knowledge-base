@@ -1,0 +1,31 @@
+{
+  "id": "7cbb4287dce4",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4227%20-%20P_F028%20Form%20for%20quick%20refund_19%20RFI%20%28Appendix%206%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4227%20-%20P_F028%20Form%20for%20quick%20refund_19%20RFI%20%28Appendix%206%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/7cbb4287dce4-P-F028-Form-for-quick-refund-19-RFI-Appendix-6.pdf",
+  "sha256": "8a957c2b24c6bb52c6adfe33f842f08af23d39b5055cdbdaa37a300c2e32ecf5",
+  "bytes": 35621,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 4,
+  "text_path": "extracted/7cbb4287dce4.md",
+  "text_characters": 24142,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "RDP_Mod_19_2006",
+    "author": "as0480",
+    "subject": "RDP_Mod_19_2006",
+    "keywords": "",
+    "creator": "Adobe PageMaker 7.0",
+    "producer": "Acrobat Distiller 7.0 (Windows)",
+    "creationDate": "D:20060124092626Z",
+    "modDate": "D:20060124092650Z",
+    "trapped": "",
+    "encryption": "Standard V2 R3 128-bit RC4"
+  }
+}

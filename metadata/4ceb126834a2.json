@@ -1,0 +1,35 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services",
+  "retrieved_at": "2026-09-11",
+  "id": "4ceb126834a2",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Settlement Services | Euronext Athens",
+  "text": "EURONEXT SECURITIES ATHENS\nSettlement Services\nCash Settlement Services\nCross Border Settlement Services\nMultilateral & Bilateral Settlement Services\nOTC Settlement Services",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/cash",
+      "title": "Cash Settlement Services",
+      "context": "Cash Settlement Services Cross Border Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/cross-border",
+      "title": "Cross Border Settlement Services",
+      "context": "Cash Settlement Services Cross Border Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/multilateral",
+      "title": "Multilateral & Bilateral Settlement Services",
+      "context": "Cash Settlement Services Cross Border Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/otc",
+      "title": "OTC Settlement Services",
+      "context": "Cash Settlement Services Cross Border Settlement Services Multilateral & Bilateral Settlement Services OTC Settlement Services"
+    }
+  ],
+  "local_html": "sources/pages/4ceb126834a2.html",
+  "sha256": "756ae49c2af3e0a8900f1d2a42663a66c92b827c00d36176b7aabc82c544f234"
+}

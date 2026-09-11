@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/csd-regulation-csdr/settlement-discipline-regime",
+  "retrieved_at": "2026-09-11",
+  "id": "0b654ffb73b2",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/csd-regulation-csdr/settlement-discipline-regime",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:28 GMT",
+  "title": "The Settlement Discipline Regime",
+  "text": "The Settlement Discipline Regime\nThe Settlement Discipline Regime (SDR) is a key requirement of the Central Securities Depository Regulation (CSDR), aimed at enhancing operational efficiency of CSDs and ensuring timely and efficient settlement across the EU.\nUnder this regime, Euronext Securities Porto:\nIntroduced a set of rules and procedures to encourage the settlement of transactions on the intended settlement date;\nAdopted various measures to prevent settlement fails;\nAnalysed the measures foreseen in the CSDR to address settlement fails;\nPromotes dialogue and sharing of relevant information on the subject with the Market;\nProvides its Participants with the essential functionalities required following the regime's entry into force on February 1, 2022.\nDocuments prepared by the ECSDA (European Central Securities Depositories Association) with the aim of harmonisation of rules and procedures related to cash penalties: link\nEuronext Securities Porto SDR Operational Manual\n24/01/2025\nPDF\nEuronext Securities Porto Settlement Discipline Operational Manual\nEnglish\nVersion\nEnglish\n24/01/2025\n24/01/2025\n/sites/default/files/2025-01/Settlement-Discipline_Operational-Manual_.pdf\nEuronext Securities Porto Settlement Discipline Operational Manual\nPenalties Calendar\n24/01/2025\nPDF\nEuronext Securities Porto - Penalties Calendar 2025\nEnglish\nVersion\n/sites/default/files/2025-01/csdr_penalties_calendar_2025_-_es-pto.pdf\n24/01/2025\nEuronext Securities Porto - Penalties Calendar 2025\nEnglish\nmdermes@euronext.com\n24/01/2025\n24/11/2025\nPDF\nEuronext Securities Porto - Penalties Calendar 2026\nEnglish\nVersion\nEnglish\n24/11/2025\n24/11/2025\n/sites/default/files/2025-11/CSDR%20Penalties%20Calendar%202026%20-%20ES-PTO.pdf\nEuronext Securities Porto - Penalties Calendar 2026\nPublic Disclosure on Settlement Fails\nView Settlement Fails for Euronext Securities Porto here",
+  "links": [
+    {
+      "url": "https://ecsda.eu/archives/14977",
+      "title": "link",
+      "context": "The Settlement Discipline Regime (SDR) is a key requirement of the Central Securities Depository Regulation (CSDR), aimed at enhancing operational efficiency of CSDs and ensuring timely and efficient settlement across the EU. Under this regime, Euronext Securities Porto: Introduced a set of rules and procedures to encourage the settlement of transactions on the intended settlement date; Adopted various measures to prevent settlement fails; Analysed the measures foreseen in the CSDR to address settlement fails; Promotes dialogue and sharing of relevant information on the subject with the Market; Provides its Participants with the essential functionalities required following the regime's entry into force on February 1, 2022. Documents prepared by the ECSDA (European Central Securities Depositories Association) with the aim of harmonisation of rules and procedures related to cash penalties: link"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2025-01/Settlement-Discipline_Operational-Manual_.pdf",
+      "title": "Euronext Securities Porto Settlement Discipline Operational Manual",
+      "context": "24/01/2025 PDF Euronext Securities Porto Settlement Discipline Operational Manual English Version English 24/01/2025 24/01/2025 /sites/default/files/2025-01/Settlement-Discipline_Operational-Manual_.pdf Euronext Securities Porto Settlement Discipline Operational Manual"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2025-01/csdr_penalties_calendar_2025_-_es-pto.pdf",
+      "title": "Euronext Securities Porto - Penalties Calendar 2025",
+      "context": "24/01/2025 PDF Euronext Securities Porto - Penalties Calendar 2025 English Version /sites/default/files/2025-01/csdr_penalties_calendar_2025_-_es-pto.pdf 24/01/2025 Euronext Securities Porto - Penalties Calendar 2025 English mdermes@euronext.com 24/01/2025 24/11/2025 PDF Euronext Securities Porto - Penalties Calendar 2026 English Version English 24/11/2025 24/11/2025 /sites/default/files/2025-11/CSDR%20Penalties%20Calendar%202026%20-%20ES-PTO.pdf Euronext Securities Porto - Penalties Calendar 2026"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2025-11/CSDR%20Penalties%20Calendar%202026%20-%20ES-PTO.pdf",
+      "title": "Euronext Securities Porto - Penalties Calendar 2026",
+      "context": "24/01/2025 PDF Euronext Securities Porto - Penalties Calendar 2025 English Version /sites/default/files/2025-01/csdr_penalties_calendar_2025_-_es-pto.pdf 24/01/2025 Euronext Securities Porto - Penalties Calendar 2025 English mdermes@euronext.com 24/01/2025 24/11/2025 PDF Euronext Securities Porto - Penalties Calendar 2026 English Version English 24/11/2025 24/11/2025 /sites/default/files/2025-11/CSDR%20Penalties%20Calendar%202026%20-%20ES-PTO.pdf Euronext Securities Porto - Penalties Calendar 2026"
+    },
+    {
+      "url": "https://www.interbolsa.pt/Cliente/Index.php?Page=DL&Language=EN",
+      "title": "View Settlement Fails for Euronext Securities Porto here",
+      "context": "Public Disclosure on Settlement Fails View Settlement Fails for Euronext Securities Porto here"
+    }
+  ],
+  "local_html": "sources/pages/0b654ffb73b2.html",
+  "sha256": "46a9945da65e4c5da653c3b705bc3cd1a57d05f74c165b56d0b50c4f026aa705"
+}

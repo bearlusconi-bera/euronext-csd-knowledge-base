@@ -1,0 +1,33 @@
+{
+  "id": "d1ee9e760c53",
+  "url": "https://www.euronext.com/sites/default/files/2025-10/02%20Istructions%20CSD_EN_WITH%20EVIDENCE_20251007.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-10/02%20Istructions%20CSD_EN_WITH%20EVIDENCE_20251007.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 08 Oct 2025 14:38:55 GMT",
+  "local_path": "sources/documents/d1ee9e760c53-Instructions-to-the-Regulations-with-evidence-of-the-amendments-as-of-7-October-2025.pdf",
+  "sha256": "e01b4dab6d6e00929b0084498cf0b9add3eb3eb9e9bbd2287df44824a3cf7f1b",
+  "bytes": 1616091,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 168,
+  "text_path": "extracted/d1ee9e760c53.md",
+  "text_characters": 417108,
+  "low_text_pages": [
+    168
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Brian Watson",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251008161712+02'00'",
+    "modDate": "D:20251008161712+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

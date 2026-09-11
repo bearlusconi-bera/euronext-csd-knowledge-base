@@ -1,0 +1,33 @@
+{
+  "id": "a68f245f8337",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/pricing_policy_esmil_11-12-2025_0_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/pricing_policy_esmil_11-12-2025_0_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 09 Feb 2026 09:21:36 GMT",
+  "local_path": "sources/documents/a68f245f8337-Pricing-Policy.pdf",
+  "sha256": "63a5c5a41a53205da04ef8b62b5cbdb33e24e0c5f205cea5bf60a7da4291942b",
+  "bytes": 206355,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 12,
+  "text_path": "extracted/a68f245f8337.md",
+  "text_characters": 19629,
+  "low_text_pages": [
+    12
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Contino, Ida",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 25 for Word",
+    "producer": "Adobe PDF Library 25.1.119",
+    "creationDate": "D:20260129134954+01'00'",
+    "modDate": "D:20260205161914+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

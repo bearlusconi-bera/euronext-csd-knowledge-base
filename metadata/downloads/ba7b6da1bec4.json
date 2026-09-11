@@ -1,0 +1,33 @@
+{
+  "id": "ba7b6da1bec4",
+  "url": "https://www.euronext.com/sites/default/files/2025-10/02%20Istructions%20CSD_EN_WITHOUT%20EVIDENCE_20251007.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-10/02%20Istructions%20CSD_EN_WITHOUT%20EVIDENCE_20251007.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 08 Oct 2025 14:38:05 GMT",
+  "local_path": "sources/documents/ba7b6da1bec4-Instructions-to-the-Regulations-as-of-7-October-2025.pdf",
+  "sha256": "3cd7315dd6ca89c0e6f04eb934106209e60f9430a65f14c2f4af2179505bc256",
+  "bytes": 1591579,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 168,
+  "text_path": "extracted/ba7b6da1bec4.md",
+  "text_characters": 415553,
+  "low_text_pages": [
+    168
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Brian Watson",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251008163748+02'00'",
+    "modDate": "D:20251008163748+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

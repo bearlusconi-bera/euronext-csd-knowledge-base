@@ -1,0 +1,31 @@
+{
+  "id": "d2b05613b6a5",
+  "url": "https://www.euronext.com/sites/default/files/2022-08/DE%20-%20ES-MIL552%20%28Appendix%201%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-08/DE%20-%20ES-MIL552%20%28Appendix%201%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:08 GMT",
+  "local_path": "sources/documents/d2b05613b6a5-DE-ES-MIL552-Appendix-1.pdf",
+  "sha256": "acc97c044fb3cff3fecefcd90045161224f8241b599e92433898de9195a66191",
+  "bytes": 58836,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/d2b05613b6a5.md",
+  "text_characters": 927,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4398 - DE - MT552 (Appendix 1)",
+    "author": "GArdizzon",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® PowerPoint® per Microsoft 365",
+    "producer": "Microsoft® PowerPoint® per Microsoft 365",
+    "creationDate": "D:20220830110436+02'00'",
+    "modDate": "D:20220830110436+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

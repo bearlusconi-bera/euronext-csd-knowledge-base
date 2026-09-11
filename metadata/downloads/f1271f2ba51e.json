@@ -1,0 +1,31 @@
+{
+  "id": "f1271f2ba51e",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/esma70-156-4576_report_to_ec_on_use_of_fintech_by_csds.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/esma70-156-4576_report_to_ec_on_use_of_fintech_by_csds.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 05 Aug 2024 15:02:41 GMT",
+  "local_path": "sources/documents/f1271f2ba51e-Use-of-Fintech-by-CSDs.pdf",
+  "sha256": "80913ce013c16301aa2a654acc5370cc9b25e122d578a2d6d48d9b468fd95487",
+  "bytes": 798888,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 38,
+  "text_path": "extracted/f1271f2ba51e.md",
+  "text_characters": 109642,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ESMA70-156-4576 Report to the European Commission on the Use of FinTech by CSDs",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210806102915+02'00'",
+    "modDate": "D:20240805170222+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

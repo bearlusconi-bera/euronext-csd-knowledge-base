@@ -1,0 +1,40 @@
+{
+  "id": "20377e533dbe",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/ES%20-%20Appendix%2012%20-%20peticion_de_reducion_sweden.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/ES%20-%20Appendix%2012%20-%20peticion_de_reducion_sweden.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:35 GMT",
+  "local_path": "sources/documents/20377e533dbe-ES-Peticion-de-Reduccion-Sweden-Appendix-12.pdf",
+  "sha256": "d7c8cc76a3f06df71989039ed618b73e8438347e78a48e9e0dbc49a051746308",
+  "bytes": 693930,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/20377e533dbe.md",
+  "text_characters": 136,
+  "low_text_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Formulario red. Suecia",
+    "author": "D. Gral. Tributos",
+    "subject": "",
+    "keywords": "",
+    "creator": "AXIS 7000 Network Document Server",
+    "producer": "AXIS 7000 Network Document Server",
+    "creationDate": "D:20050614171720Z",
+    "modDate": "D:20050615110223+02'00'",
+    "trapped": "",
+    "encryption": "Standard V1 R2 40-bit RC4"
+  }
+}

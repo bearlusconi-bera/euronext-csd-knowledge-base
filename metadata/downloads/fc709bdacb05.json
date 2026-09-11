@@ -1,0 +1,31 @@
+{
+  "id": "fc709bdacb05",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_SSIs_SIXSIS_25032024.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_SSIs_SIXSIS_25032024.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 15 Apr 2026 16:48:13 GMT",
+  "local_path": "sources/documents/fc709bdacb05-Euronext-Securities-Athens-SSIs.pdf",
+  "sha256": "e70653b56feedc07b3ac84f0b5e2104f2c9d54292d12f6347a494ccdc1196cd3",
+  "bytes": 191754,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 18,
+  "text_path": "extracted/fc709bdacb05.md",
+  "text_characters": 17123,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Bogdanou, Androniki",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ (PUBLIC)ΑΓΓΛΙΚΗ (ENGLISH)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260415101957+03'00'",
+    "modDate": "D:20260415101957+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

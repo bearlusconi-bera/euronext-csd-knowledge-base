@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/ancillary-services/tax-reporting-services",
+  "retrieved_at": "2026-09-11",
+  "id": "24c21aff6e03",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/ancillary-services/tax-reporting-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:51:05 GMT",
+  "title": "Tax Reporting Services",
+  "text": "Tax Reporting Services\nWe offer fully automated and compliant tax reporting depository services.\nAs an account controller, you are obliged to report specific information concerning your customers’ holdings to the Danish tax authorities. Tax reporting can be a time-consuming and costly matter, as changes to regulation and new reporting requirements set by the Danish tax authorities require ongoing adjustments to systems and processes. VP’s tax reporting comprises a wide range of services and ensures correct calculation of tax, based on existing legislation.\nAnnual Statement\nVP provides an annual statement to all account controllers for all of their respective beneficial account holders’ holdings as at the end of the respective income year. The statement also specifies the interest, dividend and withheld tax amounts. In this way, as an account controller you can use the data to tailor your annual statements to your end-clients.\nTax Reporting\nVP reports holdings in bonds, shares, investment funds and financial contracts, as well as interest, redemption payments and dividend received, to the Danish tax authorities. As an account controller, VP will provide you with a copy of this data.\nYear-end Tax Reporting\nAt year-end, VP takes a snapshot of all holdings on all accounts and applies the correct, harmonised year-end price per paper, in accordance with the model defined by Finance Denmark and the Danish tax authorities. VP also reports details of redemption payments and interest on bonds and financial contracts received by the account owner during the relevant year. Account controllers can subscribe to the service and receive a copy of the data.\nMonthly Tax Reporting\nVP reports dividends concerning VP-registered Danish and foreign shares and investment funds. VP submits details of these payments and the tax withheld per account holder on the last day of each month, when the income payments for the previous month are reported.\nContacts\nKanchana S.\nHansen\nSenior Product Manager & Tax Lead\n+45 2894 0948\nkhansen@euronext.com",
+  "links": [],
+  "local_html": "sources/pages/24c21aff6e03.html",
+  "sha256": "fdc99e6d79618593175f7ac8f33e68b211a200efdd45ccf5ebd65b72213e334c"
+}

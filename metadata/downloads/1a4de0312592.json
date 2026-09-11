@@ -1,0 +1,31 @@
+{
+  "id": "1a4de0312592",
+  "url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%2015%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A3%2012042021.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%2015%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A3%2012042021.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 01 May 2024 11:02:47 GMT",
+  "local_path": "sources/documents/1a4de0312592-ATHEXCSD-Resolution-15.pdf",
+  "sha256": "fc4f33200bded2a704ab1685ea0317bee647684aeb4e0f4f46b8eceacbd5098b",
+  "bytes": 165836,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 7,
+  "text_path": "extracted/1a4de0312592.md",
+  "text_characters": 19969,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Legal",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210402140827+03'00'",
+    "modDate": "D:20210402140827+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

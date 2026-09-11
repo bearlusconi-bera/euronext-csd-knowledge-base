@@ -1,0 +1,31 @@
+{
+  "id": "0e4540a8399c",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_guidelines_for_client_testing_on_portfolio_transfer_-_bearer.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/euronext_securities_-_guidelines_for_client_testing_on_portfolio_transfer_-_bearer.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 22 Jan 2026 15:07:36 GMT",
+  "local_path": "sources/documents/0e4540a8399c-Guidelines-for-client-testing-on-portfolio-transfer-bearer.pdf",
+  "sha256": "bf229f69de748d9b30bfdecbd071786bec38343625a93a879d9d6202a0dee5e3",
+  "bytes": 230306,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 9,
+  "text_path": "extracted/0e4540a8399c.md",
+  "text_characters": 18498,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "Manon Gonnessat",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260122153937+01'00'",
+    "modDate": "D:20260122153937+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

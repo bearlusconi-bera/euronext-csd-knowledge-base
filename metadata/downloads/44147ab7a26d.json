@@ -1,0 +1,35 @@
+{
+  "id": "44147ab7a26d",
+  "url": "https://www.euronext.com/sites/default/files/2025-06/MIL_ES-Remuneration%20Commitee%20Mandate_June%202025.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-06/MIL_ES-Remuneration%20Commitee%20Mandate_June%202025.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 06 Jun 2025 07:38:12 GMT",
+  "local_path": "sources/documents/44147ab7a26d-ES-MIL-Remuneration-Commitee-Mandate-June-2025.pdf",
+  "sha256": "fcd6f23b33bbf434ce9c76cfa55975a3e9407bff1c42b5ba57075003a6e6a648",
+  "bytes": 298745,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 12,
+  "text_path": "extracted/44147ab7a26d.md",
+  "text_characters": 13006,
+  "low_text_pages": [
+    3,
+    5,
+    12
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Microsoft Word - Remuneration Committee Mandate_MT Bod 20  July 2022 final",
+    "author": "VMCarlevaro",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 25 for Word",
+    "producer": "Adobe PDF Library 25.1.250",
+    "creationDate": "D:20250606084946+02'00'",
+    "modDate": "D:20250606084950+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

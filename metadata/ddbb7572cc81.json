@@ -1,0 +1,30 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/isin-cfi-fisn",
+  "retrieved_at": "2026-09-11",
+  "id": "ddbb7572cc81",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/isin-cfi-fisn",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:12 GMT",
+  "title": "ISIN, CFI, FISN",
+  "text": "ISIN, CFI, FISN\nEuronext Securities Oslo is the National Numbering Agency in Norway\nThe service provided offers the requisition of «International securities identification number (ISIN), «Classification of financial instruments» (CFI) and «Financial instruments short name» (FISN) for Norwegian securities.\nThe service is offers a structured and unique identification of all financial instruments that are subject to trading. The service is considered to be a natural part of the process associated with the registration of the issuer and instrument in Euronext Securities Oslo.\nISIN\nInternational Securities Identification Number\nISIN is a structured and unique identification of all financial instruments. The number consists of 12 characters, where the first two digits are the country code of the national number allocator (ISO 3166), the next 9 characters are alphanumeric and the last digit is a control digit.\nRead more\nCFI\nClassification of Financial Instruments\nCFI is an international description that classifies financial instruments, specifically intended for data processing.\nRead more\nFISN\nFinancial Instrument Short Name\nFISN is a standardized short and consistent description of financial instruments. FISN consists of the issuer’s short name and a short characteristic of the financial instrument.\nRead more\nFor more information, please contact us\nContact us",
+  "links": [
+    {
+      "url": "https://www.anna-web.org/standards/isin-iso-6166",
+      "title": "Read more",
+      "context": "ISIN International Securities Identification Number ISIN is a structured and unique identification of all financial instruments. The number consists of 12 characters, where the first two digits are the country code of the national number allocator (ISO 3166), the next 9 characters are alphanumeric and the last digit is a control digit. Read more CFI Classification of Financial Instruments CFI is an international description that classifies financial instruments, specifically intended for data processing. Read more FISN Financial Instrument Short Name FISN is a standardized short and consistent description of financial instruments. FISN consists of the issuer’s short name and a short characteristic of the financial instrument. Read more"
+    },
+    {
+      "url": "https://www.anna-web.org/standards/cfi-iso-10962",
+      "title": "Read more",
+      "context": "ISIN International Securities Identification Number ISIN is a structured and unique identification of all financial instruments. The number consists of 12 characters, where the first two digits are the country code of the national number allocator (ISO 3166), the next 9 characters are alphanumeric and the last digit is a control digit. Read more CFI Classification of Financial Instruments CFI is an international description that classifies financial instruments, specifically intended for data processing. Read more FISN Financial Instrument Short Name FISN is a standardized short and consistent description of financial instruments. FISN consists of the issuer’s short name and a short characteristic of the financial instrument. Read more"
+    },
+    {
+      "url": "http://www.anna-web.org/standards/fisn-iso-18774",
+      "title": "Read more",
+      "context": "ISIN International Securities Identification Number ISIN is a structured and unique identification of all financial instruments. The number consists of 12 characters, where the first two digits are the country code of the national number allocator (ISO 3166), the next 9 characters are alphanumeric and the last digit is a control digit. Read more CFI Classification of Financial Instruments CFI is an international description that classifies financial instruments, specifically intended for data processing. Read more FISN Financial Instrument Short Name FISN is a standardized short and consistent description of financial instruments. FISN consists of the issuer’s short name and a short characteristic of the financial instrument. Read more"
+    }
+  ],
+  "local_html": "sources/pages/ddbb7572cc81.html",
+  "sha256": "079a0821339c21391489227cc9256a0ce2d435800cca873f8b9b3e8576254c05"
+}

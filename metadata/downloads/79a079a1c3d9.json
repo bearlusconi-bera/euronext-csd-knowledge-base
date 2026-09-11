@@ -1,0 +1,31 @@
+{
+  "id": "79a079a1c3d9",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4280%20-%20TEFRA%20D%20Rules%20Certification.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4280%20-%20TEFRA%20D%20Rules%20Certification.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:45 GMT",
+  "local_path": "sources/documents/79a079a1c3d9-TEFRA-D-Rules-Certification.pdf",
+  "sha256": "fb65a8e9374429da01ad91bc4aa121606df54d2f429864679874607005272ca2",
+  "bytes": 83733,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/79a079a1c3d9.md",
+  "text_characters": 899,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Dermes, Maria",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210422121824+02'00'",
+    "modDate": "D:20210422121824+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ed700559735b",
+  "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoDasCSDs.EN_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoDasCSDs.EN_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:04 GMT",
+  "local_path": "sources/documents/ed700559735b-Central-Securities-Depositories-Regulation.pdf",
+  "sha256": "0ff08d45947aa1df58ece16e81a743029b436afaf1ff60d61bbeb8db5f6a0dcf",
+  "bytes": 629898,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/ed700559735b.md",
+  "text_characters": 7074,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign CC 2017 (Windows)",
+    "producer": "Adobe PDF Library 15.0",
+    "creationDate": "D:20170419105203+03'00'",
+    "modDate": "D:20170421094627+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

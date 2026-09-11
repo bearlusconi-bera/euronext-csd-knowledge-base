@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/data-services/investor-figuresold",
+  "retrieved_at": "2026-09-11",
+  "id": "ddd6bc49adca",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/user/login?destination=/en/csd/oslo/data-services/investor-figuresold",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Log in | euronext.com",
+  "text": "Error message\nAccess denied. You must log in to view this page.\nForgot password? Follow this link to reset.\nYou must have JavaScript enabled to use this form.\nLogin by username/email address\nYou can use your username or email address to login.\nPassword",
+  "links": [
+    {
+      "url": "https://www.euronext.com/user/password",
+      "title": "this link",
+      "context": "Forgot password? Follow this link to reset."
+    }
+  ],
+  "local_html": "sources/pages/ddd6bc49adca.html",
+  "sha256": "c307641c65dc3bce640567af06792e4b18e5fba2e5f441a303083992761c6067"
+}

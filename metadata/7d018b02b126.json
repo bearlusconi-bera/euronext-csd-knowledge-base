@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/collateral-management",
+  "retrieved_at": "2026-09-11",
+  "id": "7d018b02b126",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/collateral-management",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:59 GMT",
+  "title": "Collateral Management",
+  "text": "Collateral Management\nOptimise liquidity using embedded features.\nWe cater for T2S Auto-Collateral in both DKK and EUR giving you access to intra-day liquidity for settlement of trades, as well as payment of Corporate Actions in T2S.\nSettlement\nDirect connection to the international securities market.\nRead more\nContacts\nThere are no results found.",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/settlement",
+      "title": "Read more",
+      "context": "Settlement Direct connection to the international securities market. Read more"
+    }
+  ],
+  "local_html": "sources/pages/7d018b02b126.html",
+  "sha256": "c75ed3e22636fd59cd35dfb2f57aabcacf976a1e6b10dcfebc398c03c4f89db0"
+}

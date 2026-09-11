@@ -1,0 +1,33 @@
+{
+  "id": "2b44645a923d",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4430%20-%20The%20Netherlands%20-%20Fiscal%20Operational%20Guide%202022.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4430%20-%20The%20Netherlands%20-%20Fiscal%20Operational%20Guide%202022.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:41 GMT",
+  "local_path": "sources/documents/2b44645a923d-The-Netherlands-Fiscal-Operational-Guide.pdf",
+  "sha256": "0b5d17908d9cb97f3f42af14a754e2fb2793a74d1def292e713b7a593f5f5c2f",
+  "bytes": 326559,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/2b44645a923d.md",
+  "text_characters": 4506,
+  "low_text_pages": [
+    6
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4430 - The Netherlands - Fiscal Operational Guide 2022",
+    "author": "LPacini",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220411180744+02'00'",
+    "modDate": "D:20220411180744+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

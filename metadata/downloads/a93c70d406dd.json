@@ -1,0 +1,31 @@
+{
+  "id": "a93c70d406dd",
+  "url": "https://www.euronext.com/sites/default/files/2023-09/Participation%20Agreement%20with%20third%20party%20Securities%20Account%20Controller.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-09/Participation%20Agreement%20with%20third%20party%20Securities%20Account%20Controller.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:49 GMT",
+  "local_path": "sources/documents/a93c70d406dd-Participation-Agreement-with-third-party-Securities-Account-Controller.pdf",
+  "sha256": "9c1135a970017cbc3fce35bca9b1ad9074e86e3e5cebb58f84a96d3596a85843",
+  "bytes": 157723,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 4,
+  "text_path": "extracted/a93c70d406dd.md",
+  "text_characters": 7150,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Nina Enid With",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20230921125651+02'00'",
+    "modDate": "D:20230921125651+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

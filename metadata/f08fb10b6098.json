@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/events-ca",
+  "retrieved_at": "2026-09-11",
+  "id": "f08fb10b6098",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/documentation/statistics/events-ca",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:32 GMT",
+  "title": "Corporate Action Events",
+  "text": "Corporate Action Events\nCorporate Actions\nType\nMandatory Cash DistributionMandatory Security DistributionMandatory reorganisation (change in underlying security) and distribution of cashMandatory reorganisation (change in underlying security) and distribution of securitiesMandatory reorganisation (change in underlying security) and distribution of cash and securitiesCHOS Cash Distribution (mainly currency options)CHOS ReorganisationVoluntary reorganisationVoluntary DistributionInfomation only - no distribution or change in the underlying securityMeetingCorporate Action event that are not mentioned in SCoRE standard, but have a CAEV according to Swift\nMonth\n- Any -JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember\nYear\n- Any -202420252026\nAugust 2026\nType\nNr. Of Corporate Actions\nValue (€)\nInf. Date\nCapital Distribution\n1\n1,987,726\n31/08/2026\nCapital Gains Distribution\n5\n3,055,588\n31/08/2026\nCash Dividend\n3\n297,916,472\n31/08/2026\nDecrease in Value\n7\n13,199,998\n31/08/2026\nInterest Payment\n182\n126,676,620\n31/08/2026\nPartial Redemption With Pool Factor Reduction\n77\n178,351,749\n31/08/2026\nShares Premium Dividend\n1\n800,000\n31/08/2026",
+  "links": [],
+  "local_html": "sources/pages/f08fb10b6098.html",
+  "sha256": "910fe900ad95bb8bee9cad477ff3c594df72c26db272c7db862a799619efbabf"
+}

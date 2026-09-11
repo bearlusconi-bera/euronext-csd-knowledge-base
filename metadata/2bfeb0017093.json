@@ -1,0 +1,45 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/news-initiatives/market-notices",
+  "retrieved_at": "2026-09-11",
+  "id": "2bfeb0017093",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/news-initiatives/market-notices",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:19 GMT",
+  "title": "Market Notices",
+  "text": "Market Notices\nFilters\nFilters\nReset\nTitle\nFrom\nTo\nShowing 1-5 of 552 Results\nReleased\nTitle\n08/09/2026\nEuronext European Offering: Go-Live confirmation\n20/08/2026\nChanges to fees\n31/07/2026\nCA4U Testing Window Reminder\n13/07/2026\nPricing for Registered Shares\n08/05/2026\nPublication of the updated contractual documentation",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/milan/news-initiatives/market-notices",
+      "title": "Reset",
+      "context": "Filters Reset Title From To"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/notices/monte-titoli/20260903%20Euronext%20Securities%20Milan%20Market%20Notice%20-%20EE_0.pdf ",
+      "title": "Euronext European Offering: Go-Live confirmation",
+      "context": "Released Title 08/09/2026 Euronext European Offering: Go-Live confirmation 20/08/2026 Changes to fees 31/07/2026 CA4U Testing Window Reminder 13/07/2026 Pricing for Registered Shares 08/05/2026 Publication of the updated contractual documentation"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/notices/monte-titoli/ENG_%20Market%20Notice_VariazioniCorrispettivi_settembre26_1.pdf ",
+      "title": "Changes to fees",
+      "context": "Released Title 08/09/2026 Euronext European Offering: Go-Live confirmation 20/08/2026 Changes to fees 31/07/2026 CA4U Testing Window Reminder 13/07/2026 Pricing for Registered Shares 08/05/2026 Publication of the updated contractual documentation"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/notices/monte-titoli/Ca4u%20Testing%20Window%20reminder_%20Market%20Notice.pdf ",
+      "title": "CA4U Testing Window Reminder",
+      "context": "Released Title 08/09/2026 Euronext European Offering: Go-Live confirmation 20/08/2026 Changes to fees 31/07/2026 CA4U Testing Window Reminder 13/07/2026 Pricing for Registered Shares 08/05/2026 Publication of the updated contractual documentation"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/notices/monte-titoli/MN_European%20Offering%20ENG.pdf ",
+      "title": "Pricing for Registered Shares",
+      "context": "Released Title 08/09/2026 Euronext European Offering: Go-Live confirmation 20/08/2026 Changes to fees 31/07/2026 CA4U Testing Window Reminder 13/07/2026 Pricing for Registered Shares 08/05/2026 Publication of the updated contractual documentation"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/notices/monte-titoli/MN_nuovi_contratti%20adv%2Bmg%20%28004%29_AO_%20ENG%2BMG.pdf ",
+      "title": "Publication of the updated contractual documentation",
+      "context": "Released Title 08/09/2026 Euronext European Offering: Go-Live confirmation 20/08/2026 Changes to fees 31/07/2026 CA4U Testing Window Reminder 13/07/2026 Pricing for Registered Shares 08/05/2026 Publication of the updated contractual documentation"
+    }
+  ],
+  "local_html": "sources/pages/2bfeb0017093.html",
+  "sha256": "a6356ceedb9a22e74ff4fe26b474522d49170bf71ce15e2c36ca81f6c8cd3d91"
+}

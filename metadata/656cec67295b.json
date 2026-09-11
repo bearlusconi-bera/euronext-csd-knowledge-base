@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/penalties-calendar",
+  "retrieved_at": "2026-09-11",
+  "id": "656cec67295b",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/penalties-calendar",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:01 GMT",
+  "title": "Penalties calendar",
+  "text": "Penalties calendar\nThe European Central Securities Depositories Association (ECSDA) issues the 2026 calendar, which can be found below.\nPenalty Calendar 2026\n2026\nEnd of appeal\nMonthly reporting on penalties\nPFOD creation\nPenalty payment\nJanuary\n15-01-2026\n21-01-2026\n22-01-2026\n27-01-2026\nFebruary\n13-02-2026\n19-02-2026\n20-02-2026\n25-02-2026\nMarch\n13-03-2026\n19-03-2026\n20-03-2026\n25-03-2026\nApril\n14-04-2026\n20-04-2026\n21-04-2026\n24-04-2026\nMay\n14-05-2026\n20-05-2026\n21-05-2026\n26-05-2026\nJune\n12-06-2026\n18-06-2026\n19-06-2026\n24-06-2026\nJuly\n14-07-2026\n20-07-2026\n21-07-2026\n24-07-2026\nAugust\n14-08-2026\n20-08-2026\n21-08-2026\n26-08-2026\nSeptember\n14-09-2026\n18-09-2026\n21-09-2026\n24-09-2026\nOctober\n14-10-2026\n20-10-2026\n21-10-2026\n26-10-2026\nNovember\n13-11-2026\n19-11-2026\n20-11-2026\n25-11-2026\nDecember\n14-12-2026\n18-12-2026\n21-12-2026\n24-12-2026*\nEnd of appeal period: 10th PBD (Penalty Business Day)\n- Appeals need to be raised in due time prior to the end of appeal in order to be processed.\nMonthly report: 14th PBD\nPayment date: 18th PBD\n*Due to December 24th being a Bank Holiday for DKK, Payment date moves to next business day, December 28th\nDownload the Penalty Calendar for 2026 here:\nPDF\nPenalties Calendar 2026\nEnglish\nVersion\n/sites/default/files/2025-12/Penalty%20Calendar%202026.pdf\nPenalties Calendar 2026\nEnglish\nSHFeddersen@eu…\n31/10/2025\nContacts\nClient Services\nOpening Hours:,\nWeekdays: 8:00 - 16:00 CE(S)T,\nWeekends: Closed,\nDanish Bank Holidays when T2S is closed for FOP: Closed,\nDanish Bank Holidays when T2S is open for FOP: 9:00 - 13:00 CET\n+45 4358 8800\nCPH-clientsupport@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2025-12/Penalty%20Calendar%202026.pdf",
+      "title": "Penalties Calendar 2026",
+      "context": "PDF Penalties Calendar 2026 English Version /sites/default/files/2025-12/Penalty%20Calendar%202026.pdf Penalties Calendar 2026 English SHFeddersen@eu… 31/10/2025"
+    }
+  ],
+  "local_html": "sources/pages/656cec67295b.html",
+  "sha256": "0eb79839b652521197440d194570e1c9ffed0ca3cbbbefdef21eb783b89ca7b3"
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/issues-under-control-month",
+  "retrieved_at": "2026-09-11",
+  "id": "ccf7275d38a2",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/documentation/statistics/issues-under-control-month",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:32 GMT",
+  "title": "Issues under control by Month",
+  "text": "Issues under control by Month\nMonth\n- Any -JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember\nYear\n- Any -20132014201520162017201820192020202120222023202420252026\nAugust 2026\nType\nNr. Of issues\nQuantity in CSD\nValue * (€)\nInf. Date\nCommercial Paper\n14\n0\n219,546,792\n31/08/2026\nParticipation Units\n24\n1,668,755\n114,292,018\n31/08/2026\nWarrants\n135\n34,350,000\n0\n31/08/2026\nBonds\n10\n0\n110,906,031\n31/08/2026\nShares\n1\n50,000\n50,000\n31/08/2026\n(*)Note: The value of the debt issues is calculated based on the nominal value. Issues other than debt are valuated based on the most recent closing price for listed securities or on the nominal value for unlisted securities.For unlisted participation units the value is calculated based on the subscription price. Value is not calculated for warrants, certificates and other similar securities.",
+  "links": [],
+  "local_html": "sources/pages/ccf7275d38a2.html",
+  "sha256": "00df9458ee4e19584eb5b673bc1f472218ccc967ff4a457fb2501afb2fb7f53b"
+}

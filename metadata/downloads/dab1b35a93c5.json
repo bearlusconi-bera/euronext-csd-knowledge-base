@@ -1,0 +1,31 @@
+{
+  "id": "dab1b35a93c5",
+  "url": "https://athens.euronext.com/sites/default/files/2025-04/RESOLUTION_Nr1_ATHEXCSD_31032025_as_of_02042025.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2025-04/RESOLUTION_Nr1_ATHEXCSD_31032025_as_of_02042025.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 02 Apr 2025 12:42:23 GMT",
+  "local_path": "sources/documents/dab1b35a93c5-ATHEXCSD-Resolution-1.pdf",
+  "sha256": "9a9a6ee4f1f002a955b41786a1ad094af1c5a8c405ba2f3fb4bfd3436adf2326",
+  "bytes": 332322,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 24,
+  "text_path": "extracted/dab1b35a93c5.md",
+  "text_characters": 55509,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Apostologlou, Loukas",
+    "subject": "",
+    "keywords": "ΕΣΩΤΕΡΙΚΗΣ ΧΡΗΣΕΩΣ (INTERNAL USE)ΑΓΓΛΙΚΗ (ENGLISH)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250402151222+03'00'",
+    "modDate": "D:20250402151222+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

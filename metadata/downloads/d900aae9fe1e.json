@@ -1,0 +1,31 @@
+{
+  "id": "d900aae9fe1e",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/2016-174-annex_iv_-_impact_assessment_on_csdr_rts_on_settlement_discipline.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/2016-174-annex_iv_-_impact_assessment_on_csdr_rts_on_settlement_discipline.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 23 Jan 2023 13:08:05 GMT",
+  "local_path": "sources/documents/d900aae9fe1e-impact-assessment.pdf",
+  "sha256": "8b858f0052fb48f84ac90ae093f7b819c0edc4928be8c4b0a07488cbec857f97",
+  "bytes": 1454288,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 96,
+  "text_path": "extracted/d900aae9fe1e.md",
+  "text_characters": 269162,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "Frederico Alcantara de Melo",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2010",
+    "producer": "Microsoft® Word 2010",
+    "creationDate": "D:20160129150539+01'00'",
+    "modDate": "D:20160129150539+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

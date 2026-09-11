@@ -1,0 +1,14 @@
+{
+  "id": "f07f33d8af2e",
+  "url": "https://www.euronext.com/sites/default/files/2026-04/Euronext%20Securities%20-%20client%20test%20set%20for%20AGM%20and%20Votaccess%20-%20v02.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-04/Euronext%20Securities%20-%20client%20test%20set%20for%20AGM%20and%20Votaccess%20-%20v02.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Fri, 24 Apr 2026 15:00:32 GMT",
+  "local_path": "sources/documents/f07f33d8af2e-Client-test-set-for-AGM-and-Votaccess-v02.xlsx",
+  "sha256": "2cccfd24ea623ac0034d126d6eefa4202d5cfb9f414768cbed83c0a8225c41ff",
+  "bytes": 22465,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

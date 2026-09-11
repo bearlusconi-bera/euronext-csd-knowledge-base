@@ -1,0 +1,31 @@
+{
+  "id": "c43dbb8e478b",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/esma70-708036281-67_csdr_guidelines_on_substantial_importance_of_a_csd.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/esma70-708036281-67_csdr_guidelines_on_substantial_importance_of_a_csd.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 23 Jan 2023 13:26:12 GMT",
+  "local_path": "sources/documents/c43dbb8e478b-Guidelines.pdf",
+  "sha256": "621353018f82deced0cd4e07135ff798712f96ca34dc34d2b52cb69d0ea9edce",
+  "bytes": 556297,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 12,
+  "text_path": "extracted/c43dbb8e478b.md",
+  "text_characters": 27290,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "Alina Dragomir",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20180524133739+02'00'",
+    "modDate": "D:20180524133739+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

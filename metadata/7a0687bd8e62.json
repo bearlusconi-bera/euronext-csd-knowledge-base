@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/settlement/extended-balance-check-and-sweeping",
+  "retrieved_at": "2026-09-11",
+  "id": "7a0687bd8e62",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/settlement/extended-balance-check-and-sweeping",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:23 GMT",
+  "title": "Extended balance check and sweeping",
+  "text": "Extended balance check and sweeping\nExtended balance check is a service for settlement participants that have their securities on several accounts and would like to see them as a whole when Euronext Securities Oslo carries out the balance checks.\nIf securities required for settlement are not available, extended balance checking can be used to identify securities held on other accounts.\nExtended balance check\nThe service offers better control over the settlement process by allowing the investment firm to seek coverage from five additional accounts.\nThe company may define the order of which the accounts will be prioritized for balance checking.\nSweeping\nSweeping is available to all investment firms that participate in the Euronext Securities Oslo settlement system. Sweeping provides for any residual holdings on a settlement account to be transferred to another account after each settlement cycle.\nThese services can be employed separately.\nContacts\nAnne\nEkeren Bjone\nHead of Nordic Settlement Operations\naebjone@euronext.com",
+  "links": [],
+  "local_html": "sources/pages/7a0687bd8e62.html",
+  "sha256": "e03be65456a6283a5f225accdba15aa13751298b25b915be5983ad45530a89a9"
+}

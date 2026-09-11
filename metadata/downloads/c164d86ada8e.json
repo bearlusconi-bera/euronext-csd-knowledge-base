@@ -1,0 +1,31 @@
+{
+  "id": "c164d86ada8e",
+  "url": "https://www.ecb.europa.eu/pub/pdf/annex/CoverNote_Final_Delivery_T2S_UDFS_R2026.JUN_UHB_R2026.JUN.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/pub/pdf/annex/CoverNote_Final_Delivery_T2S_UDFS_R2026.JUN_UHB_R2026.JUN.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 20 Jan 2026 13:54:12 GMT",
+  "local_path": "sources/documents/c164d86ada8e-Cover-note.pdf",
+  "sha256": "6314140c0d0d0b4ddbea880e18899d006c47b39d1495fe91dae0b0dc462cc45d",
+  "bytes": 280824,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 10,
+  "text_path": "extracted/c164d86ada8e.md",
+  "text_characters": 26272,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Cover note",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260120103514+01'00'",
+    "modDate": "D:20260120103612+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

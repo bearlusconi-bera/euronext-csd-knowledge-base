@@ -1,0 +1,31 @@
+{
+  "id": "62fd17b1ceb1",
+  "url": "https://www.euronext.com/sites/default/files/2026-08/25082026_nna_service_description_es_v5.0_track_changes.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-08/25082026_nna_service_description_es_v5.0_track_changes.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 25 Aug 2026 15:30:34 GMT",
+  "local_path": "sources/documents/62fd17b1ceb1-ISIN-Codification-NNA-Service-Description-V5-0-track-changes-pdf.pdf",
+  "sha256": "73d1b88940bc6529d0589c721ba057175119b4fc48cbbadc40df21b5fd0a78ad",
+  "bytes": 1891670,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 98,
+  "text_path": "extracted/62fd17b1ceb1.md",
+  "text_characters": 219286,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "YG",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260825172257+02'00'",
+    "modDate": "D:20260825172257+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

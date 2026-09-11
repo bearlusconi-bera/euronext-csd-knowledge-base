@@ -1,0 +1,31 @@
+{
+  "id": "26cc62a2d623",
+  "url": "https://www.euronext.com/sites/default/files/2026-09/Struttura_conti_dei_partecipanti_a_T2S%2092026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-09/Struttura_conti_dei_partecipanti_a_T2S%2092026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 07 Sep 2026 09:45:53 GMT",
+  "local_path": "sources/documents/26cc62a2d623-Account-structure-T2S-September-2026.pdf",
+  "sha256": "fda08dd15332b73eaa2009a20a2dd28d8b824a2f0462326377cae43658314202",
+  "bytes": 1029537,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 28,
+  "text_path": "extracted/26cc62a2d623.md",
+  "text_characters": 291875,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Struttura_conti_dei_partecipanti_a_T2S 92026.xlsx",
+    "author": "Alessandra Del Vasto",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20260904170318+02'00'",
+    "modDate": "D:20260904170318+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates/shareholder-register",
+  "retrieved_at": "2026-09-11",
+  "id": "011a4955134f",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates/shareholder-register",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:20 GMT",
+  "title": "Shareholder Register",
+  "text": "Shareholder Register\nUp-to-date overview of current and historical shareholders\nOur shareholder register solution provides you with a streamlined, up-to-date, and easy to access overview over its current and historical shareholders.\nAs a limited liability company, you must hold and maintain a shareholder register – a list of all shareholders registered by name. Registering your company with Euronext Securities Oslo ensures that your company’s shareholder register is updated and compliant with relevant laws and regulations.\nOur shareholder register solution provides you access to a streamlined company portal “Issuer Services”, where you can access an automatically updated overview of current and historical shareholders of your company.\nThe online solution is available 24/7 and is protected under the same standards as the CSD. The interface is designed to meet the needs of general management, corporate legal departments, and IR professionals.\nThe product includes multiple features, enabling you access to:\nCurrent shareholders\nFive years of history of shareholders and transactions\nShareholder statistics and demography\nCorporate action details (on investor-level)\nTax services\nAdditionally, Euronext Securities Oslo can automatically tax report your shareholder register directly to the Norwegian Tax Authorities – ensuring correct tax details while saving you and your shareholders valuable time. Read more about our tax service here.\nTax services\nRegister\nIn order to use our shareholder register service you need to register you company’s shares in Euronext Securities Oslo. Read more about how to become registered here.\nBecome registered here\nContacts\nEuronext Securities Oslo\nBusiness Operations\nosl-clientsupport@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates/corporate-actions",
+      "title": "Corporate action details",
+      "context": "Up-to-date overview of current and historical shareholders Our shareholder register solution provides you with a streamlined, up-to-date, and easy to access overview over its current and historical shareholders. As a limited liability company, you must hold and maintain a shareholder register – a list of all shareholders registered by name. Registering your company with Euronext Securities Oslo ensures that your company’s shareholder register is updated and compliant with relevant laws and regulations. Our shareholder register solution provides you access to a streamlined company portal “Issuer Services”, where you can access an automatically updated overview of current and historical shareholders of your company. The online solution is available 24/7 and is protected under the same standards as the CSD. The interface is designed to meet the needs of general management, corporate legal departments, and IR professionals. The product includes multiple features, enabling you access to: Current shareholders Five years of history of shareholders and transactions Shareholder statistics and demography Corporate action details (on investor-level)"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/tax-services",
+      "title": "Tax services",
+      "context": "Tax services Additionally, Euronext Securities Oslo can automatically tax report your shareholder register directly to the Norwegian Tax Authorities – ensuring correct tax details while saving you and your shareholders valuable time. Read more about our tax service here. Tax services Register In order to use our shareholder register service you need to register you company’s shares in Euronext Securities Oslo. Read more about how to become registered here. Become registered here"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/issuer/become-registered",
+      "title": "Become registered here",
+      "context": "Tax services Additionally, Euronext Securities Oslo can automatically tax report your shareholder register directly to the Norwegian Tax Authorities – ensuring correct tax details while saving you and your shareholders valuable time. Read more about our tax service here. Tax services Register In order to use our shareholder register service you need to register you company’s shares in Euronext Securities Oslo. Read more about how to become registered here. Become registered here"
+    }
+  ],
+  "local_html": "sources/pages/011a4955134f.html",
+  "sha256": "7e2cc880f091f877c444b356759ed3ae05255cf67c9d40257ebf3d6fb9022642"
+}

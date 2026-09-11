@@ -1,0 +1,31 @@
+{
+  "id": "59a1b3eb04fb",
+  "url": "https://www.euronext.com/sites/default/files/2023-01/Board-of-Directors-Audit-Committee-Mandate%20ES-MIL.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-01/Board-of-Directors-Audit-Committee-Mandate%20ES-MIL.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:35 GMT",
+  "local_path": "sources/documents/59a1b3eb04fb-ES-MIL-Audit-Committee-Mandate.pdf",
+  "sha256": "322b36f85cb2869b836247d7650c8d8f77f0d1c791232a09e99738ad0d45028f",
+  "bytes": 1000920,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 7,
+  "text_path": "extracted/59a1b3eb04fb.md",
+  "text_characters": 10176,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - Board-of-Directors-Audit-Committee-Mandate ES-MIL",
+    "author": "VMCarlevaro",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220715152146+02'00'",
+    "modDate": "D:20220715152146+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

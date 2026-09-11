@@ -1,0 +1,31 @@
+{
+  "id": "5f5de847b7ac",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4385%20-%20FTT.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4385%20-%20FTT.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:46 GMT",
+  "local_path": "sources/documents/5f5de847b7ac-FTT.pdf",
+  "sha256": "41ec5dae31cb039a2a442bafb0c7c22a4f27c2c44f42cfd7ff4a1ecb2c4b9db0",
+  "bytes": 424306,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 25,
+  "text_path": "extracted/5f5de847b7ac.md",
+  "text_characters": 185935,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Journal officiel de la République française - N° 64 du 15 mars 2012",
+    "author": "Direction de l'information légale et administrative",
+    "subject": "Lois et décrets",
+    "keywords": "",
+    "creator": "CCI Europe",
+    "producer": "Adobe Servers p026",
+    "creationDate": "D:20120315023043+01'00'",
+    "modDate": "D:20120530144028+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "63349bf425e7",
+  "url": "https://www.euronext.com/sites/default/files/2023-05/TradeLog-Product-Sheet-2022.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-05/TradeLog-Product-Sheet-2022.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:08 GMT",
+  "local_path": "sources/documents/63349bf425e7-Tradelog-Product-Sheet-2022.pdf",
+  "sha256": "1a804f33627322925f67f65c022c21e57d135927c161dd8ad0a5e1c5f09c231e",
+  "bytes": 341247,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/63349bf425e7.md",
+  "text_characters": 5910,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign 17.4 (Windows)",
+    "producer": "Adobe PDF Library 16.0.7",
+    "creationDate": "D:20221116141602+02'00'",
+    "modDate": "D:20221122151939+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

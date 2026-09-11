@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/evaluation-danish-market-migrating-target2-securities",
+  "retrieved_at": "2026-09-11",
+  "id": "3a7d5dbcc886",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/evaluation-danish-market-migrating-target2-securities",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:00 GMT",
+  "title": "Evaluation of the Danish market migrating to TARGET2-Securities",
+  "text": "Evaluation of the Danish market migrating to TARGET2-Securities\nOn Monday 29 October 2018 securities settlement in Danish krone (DKK) was migrated to TARGET2-Securities (T2S). The Danish National Stakeholder Group (DK NSG) has evaluated the migration, concluded on a number of learning points and identified a number of initiatives going forward with the purpose of increasing settlement efficiency even further. The evaluation has been published in a note.\n29/05/2019\nPDF\nThe Danish NSGEvaluation of the Danish market migrating to T2S\nEnglish\nVersion\nEnglish\n29/05/2019\n28/06/2023\nThe Danish NSGEvaluation of the Danish market migrating to T2S\n/sites/default/files/2023-06/the_danish_nsgevaluation_of_the_danish_market_migrating_to_t2s29052019.pdf",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2023-06/the_danish_nsgevaluation_of_the_danish_market_migrating_to_t2s29052019.pdf",
+      "title": "The Danish NSGEvaluation of the Danish market migrating to T2S",
+      "context": "29/05/2019 PDF The Danish NSGEvaluation of the Danish market migrating to T2S English Version English 29/05/2019 28/06/2023 The Danish NSGEvaluation of the Danish market migrating to T2S /sites/default/files/2023-06/the_danish_nsgevaluation_of_the_danish_market_migrating_to_t2s29052019.pdf"
+    }
+  ],
+  "local_html": "sources/pages/3a7d5dbcc886.html",
+  "sha256": "c9cfe0947f38a72aff3cf87af4ec5bef72bab90f85b59bdc3a57493e11a440cf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2f270f2a25f3",
+  "url": "https://www.euronext.com/sites/default/files/2022-05/4252%20-%20PT%20-%20DTA%20Countries%20%28AppendixB%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-05/4252%20-%20PT%20-%20DTA%20Countries%20%28AppendixB%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:46 GMT",
+  "local_path": "sources/documents/2f270f2a25f3-PT-DTA-Countries-Appendix-B.pdf",
+  "sha256": "0027c8b2b790d6510a0bd88f97c45ba08303a6b8ad9b226b98adc26da4cd57a0",
+  "bytes": 293164,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/2f270f2a25f3.md",
+  "text_characters": 3455,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4252 - PT - DTA Countries (AppendixB)",
+    "author": "GArdizzon",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220429173519+02'00'",
+    "modDate": "D:20220429173519+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

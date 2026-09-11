@@ -1,0 +1,14 @@
+{
+  "id": "ac385b0f3106",
+  "url": "https://www.euronext.com/sites/default/files/2026-09/ISINs%20eligible%20for%20settlement%20in%20Euronext%20Securities%20Milan%202026-09-11.xlsx?VersionId=W9q4Cxr4Dog5dqZVMCUwWuDNNnIFGBUR",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-09/ISINs%20eligible%20for%20settlement%20in%20Euronext%20Securities%20Milan%202026-09-11.xlsx?VersionId=W9q4Cxr4Dog5dqZVMCUwWuDNNnIFGBUR",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Fri, 11 Sep 2026 12:07:30 GMT",
+  "local_path": "sources/documents/ac385b0f3106-ISINs-eligible-for-settlement-in-Euronext-Securities-Milan-2026-09-11.xlsx",
+  "sha256": "11176d0710f94c3be8379e56c25c987dc484097cc825b35f8e70bd0504807bfc",
+  "bytes": 207848,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

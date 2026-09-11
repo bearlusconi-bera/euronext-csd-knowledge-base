@@ -1,0 +1,31 @@
+{
+  "id": "4d5e7a75ce11",
+  "url": "https://www.euronext.com/sites/default/files/2025-06/escph_pricing_policy.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-06/escph_pricing_policy.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 11 Jun 2025 13:31:18 GMT",
+  "local_path": "sources/documents/4d5e7a75ce11-Euronext-Securities-Copenhagen-Price-Policy.pdf",
+  "sha256": "9f8697c0f7da93f9a4fd10a3f28207401c96d316f92ad2cd1a82ac3d2d1dd0c9",
+  "bytes": 142440,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/4d5e7a75ce11.md",
+  "text_characters": 1543,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Pernille Ditlevsen",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word til Microsoft 365",
+    "producer": "Microsoft® Word til Microsoft 365",
+    "creationDate": "D:20250611153032+02'00'",
+    "modDate": "D:20250611153032+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

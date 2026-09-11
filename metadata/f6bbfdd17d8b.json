@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/events-ca4u",
+  "retrieved_at": "2026-09-11",
+  "id": "f6bbfdd17d8b",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/documentation/statistics/events-ca4u",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:32 GMT",
+  "title": "Events (Before CA4U)",
+  "text": "Events (Before CA4U)\nMonth\n- Any -JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember\nYear\n- Any -20132014201520162017201820192020202120222023202420252026\nMay 2024Incomes payment\nType\nNr. Of Corporate Actions\nValue (€)\nInf. Date\nCertificates Exercise\n0\n0\n31/05/2024\nDividend Payments / Income\n44\n2,311,118,620\n31/05/2024\nInterest Payments\n153\n220,167,545\n31/05/2024\nRedemptions\n192\n1,142,400,566\n31/05/2024\nRedemptions of Issues\n0\n0\n31/05/2024\nWarrants Exercise\n117\n983,610\n31/05/2024\nCapital changes\nType\nNr. Of Corporate Actions\nValue (€)\nInf. Date\nBonus Issues\n1\n0\n31/05/2024\nDe-Mergers\n0\n0\n31/05/2024\nMergers\n0\n0\n31/05/2024\nReductions of Capital\n4\n500,000\n31/05/2024\nSubscription\n0\n0\n31/05/2024\nOthers\nType\nNr. Of Corporate Actions\nValue (€)\nInf. Date\nSecurities Conversions\n4\n0\n31/05/2024\nSplits\n0\n0\n31/05/2024",
+  "links": [],
+  "local_html": "sources/pages/f6bbfdd17d8b.html",
+  "sha256": "76632995060df26164b3d77c193523641480278d2f96c230f611901e1a96764f"
+}

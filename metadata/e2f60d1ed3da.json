@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/ancillary-services",
+  "retrieved_at": "2026-09-11",
+  "id": "e2f60d1ed3da",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/ancillary-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:50:54 GMT",
+  "title": "Ancillary Services",
+  "text": "Ancillary Services\nTax reporting and Data services For Euronext Securities Copenhagen clients.\nWe offer fully automated and compliant tax reporting depository services.\nVP Securities can provide financial institutions with access to reliable data about their operations and the market. We offer a wide range of data products that can support compliance and regulatory requirements, as well as ensuring adaptation to changing market conditions and staying ahead of the curve.\nTax Services\nTax reporting can be a time-consuming and costly matter, as changes to regulation and new reporting requirements set by the Danish tax authorities require ongoing adjustments to systems and processes.\nLearn here how VP can support you.\nTax reporting services\nData Services\nWeather your seeking circulating amounts of holding, holdings per instrument or investor\nstatistics VP can assist you. Or if you require a high-level and detailed settlement statistics.\nLearn more here on how you can take advantage of VP data.\nData Services\nmedia\nRead more about our data services down below\nArticles\nWhat’s driving the increased trading activity amongst Danish private investors?\nMeeting our customers’ needs for trustworthy data\nVP Securities enters into a sponsored partnership with Copenhagen Fi",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/ancillary-services/tax-reporting-services",
+      "title": "Tax reporting services",
+      "context": "Tax Services Tax reporting can be a time-consuming and costly matter, as changes to regulation and new reporting requirements set by the Danish tax authorities require ongoing adjustments to systems and processes. Learn here how VP can support you. Tax reporting services Data Services Weather your seeking circulating amounts of holding, holdings per instrument or investor statistics VP can assist you. Or if you require a high-level and detailed settlement statistics. Learn more here on how you can take advantage of VP data. Data Services"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/products-services/data-services",
+      "title": "Data Services",
+      "context": "Tax Services Tax reporting can be a time-consuming and costly matter, as changes to regulation and new reporting requirements set by the Danish tax authorities require ongoing adjustments to systems and processes. Learn here how VP can support you. Tax reporting services Data Services Weather your seeking circulating amounts of holding, holdings per instrument or investor statistics VP can assist you. Or if you require a high-level and detailed settlement statistics. Learn more here on how you can take advantage of VP data. Data Services"
+    },
+    {
+      "url": "https://www.euronext.com/news/whats-driving-increased-trading-activity-amongst-danish-private-investors",
+      "title": "What’s driving the increased trading activity amongst Danish private investors?",
+      "context": "Read more about our data services down below Articles What’s driving the increased trading activity amongst Danish private investors? Meeting our customers’ needs for trustworthy data VP Securities enters into a sponsored partnership with Copenhagen Fi"
+    },
+    {
+      "url": "https://www.euronext.com/news/meeting-our-customers-needs-for-trustworthy-data",
+      "title": "Meeting our customers’ needs for trustworthy data",
+      "context": "Read more about our data services down below Articles What’s driving the increased trading activity amongst Danish private investors? Meeting our customers’ needs for trustworthy data VP Securities enters into a sponsored partnership with Copenhagen Fi"
+    },
+    {
+      "url": "https://www.euronext.com/news/vp-securities-enters-sponsored-partnership-copenhagen-fintech",
+      "title": "VP Securities enters into a sponsored partnership with Copenhagen Fi",
+      "context": "Read more about our data services down below Articles What’s driving the increased trading activity amongst Danish private investors? Meeting our customers’ needs for trustworthy data VP Securities enters into a sponsored partnership with Copenhagen Fi"
+    }
+  ],
+  "local_html": "sources/pages/e2f60d1ed3da.html",
+  "sha256": "135e11e0ea8bfcd155638ab41f33f3b7eedcd21f5723e9d9238c6d85f849446f"
+}

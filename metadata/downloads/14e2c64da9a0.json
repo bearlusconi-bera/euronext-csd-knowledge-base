@@ -1,0 +1,31 @@
+{
+  "id": "14e2c64da9a0",
+  "url": "https://www.euronext.com/sites/default/files/2025-12/ES-CPH_table_of_fees_jan_2026_update.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-12/ES-CPH_table_of_fees_jan_2026_update.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 11 Dec 2025 09:38:41 GMT",
+  "local_path": "sources/documents/14e2c64da9a0-Euronext-Securities-Copenhagen-Table-of-fees-per-January-2026.pdf",
+  "sha256": "a423eb8ea3d1ec7108857bd7c083c1c118c66159691d4130dd9fc0f589764e66",
+  "bytes": 554893,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 26,
+  "text_path": "extracted/14e2c64da9a0.md",
+  "text_characters": 60304,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "table of fees_March",
+    "author": "Nina Enid With",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251208114332+01'00'",
+    "modDate": "D:20251208114332+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

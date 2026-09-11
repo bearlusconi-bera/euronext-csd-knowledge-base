@@ -1,0 +1,30 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/who-we-are/private-investors",
+  "retrieved_at": "2026-09-11",
+  "id": "2e0712ebcdee",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/who-we-are/private-investors",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:02 GMT",
+  "title": "Private Investors",
+  "text": "Private Investors\nFor nearly 30 years, VP Securities A/S (Euronext Securities Copenhagen) has been responsible for digital handling and storing of all Danish securities. Therefore, you have probably already received statements sent from VP in relation to the securities you hold with your bank.\nWhen your bank registers your holdings in VP, Danish legislation protects your rights as an investor. This means that your holdings are protected in case of bankruptcy and can be transferred to another bank within days.\nAnnual General Meetings\nThe Investor Services team supports companies with a wide range of services. Both the institutional and private investors as yourself benefit from using the Investor Service platform since our specialised services continue to raise the standard of best practice within its field. If we deliver services to annual general meetings in companies that you have invested in, you can sign up for the AGM’s here.\nCurrent AGM's\nSecurities transactions or holdings\nIf you have any questions regarding your securities transactions or holdings, please contact your own bank. For your own protection we are not permitted to provide information on securities and holdings directly to private investors.\nRight of access\nLink\nUnder the General Data Protection Regulation, anyone may request access to his or her own personal data. Personal data is any information that can be related to you as a person – e.g. your name, address or CPR no.\nRequest insight\ne-Boks\nSubscribe\nReceive your transaction statements electronically.\nSubscribe to e-boks\nContacts\nEuronext Securities Copenhagen\n+45 4358 8888\nvp_postkasse@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/post-trade/euronext-securities/copenhagen/investor-services/current-agms",
+      "title": "Current AGM's",
+      "context": "Annual General Meetings The Investor Services team supports companies with a wide range of services. Both the institutional and private investors as yourself benefit from using the Investor Service platform since our specialised services continue to raise the standard of best practice within its field. If we deliver services to annual general meetings in companies that you have invested in, you can sign up for the AGM’s here. Current AGM's"
+    },
+    {
+      "url": "https://www.euronext.com/en/privacy-statement",
+      "title": "Request insight",
+      "context": "Right of access Link Under the General Data Protection Regulation, anyone may request access to his or her own personal data. Personal data is any information that can be related to you as a person – e.g. your name, address or CPR no. Request insight e-Boks Subscribe Receive your transaction statements electronically. Subscribe to e-boks"
+    },
+    {
+      "url": "https://www.e-boks.com/danmark/da",
+      "title": "Subscribe to e-boks",
+      "context": "Right of access Link Under the General Data Protection Regulation, anyone may request access to his or her own personal data. Personal data is any information that can be related to you as a person – e.g. your name, address or CPR no. Request insight e-Boks Subscribe Receive your transaction statements electronically. Subscribe to e-boks"
+    }
+  ],
+  "local_html": "sources/pages/2e0712ebcdee.html",
+  "sha256": "4447a90f5cc48133cf70ac6ea82ff564db2d84c3f2bd8aa1640dfb3aeac53bdb"
+}

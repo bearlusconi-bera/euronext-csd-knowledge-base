@@ -1,0 +1,31 @@
+{
+  "id": "c9f1f3887153",
+  "url": "https://www.euronext.com/sites/default/files/2024-03/ES-OSL%20Diversity%20Policy.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-03/ES-OSL%20Diversity%20Policy.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:26 GMT",
+  "local_path": "sources/documents/c9f1f3887153-Click-here-to-download-the-policy.pdf",
+  "sha256": "3dc49393c56f4d479509f7a6c1bbc031a129ead046945f1175ac2a5c3f4f7541",
+  "bytes": 219387,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/c9f1f3887153.md",
+  "text_characters": 8135,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Policy template",
+    "author": "Insert Author",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20221021094607+02'00'",
+    "modDate": "D:20240103154202+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

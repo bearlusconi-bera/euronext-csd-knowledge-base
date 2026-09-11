@@ -1,0 +1,31 @@
+{
+  "id": "db06a5d80376",
+  "url": "https://www.euronext.com/en/media/9270/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/9270/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:21 GMT",
+  "local_path": "sources/documents/db06a5d80376-Commission-Delegated-Regulation-EU-2017-390.pdf",
+  "sha256": "6af172f1b184bc7c455a9684d1ec2ae0637b2c099abba79bf0843c7acb12f9c4",
+  "bytes": 608164,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 35,
+  "text_path": "extracted/db06a5d80376.md",
+  "text_characters": 144294,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "COMMISSION  DELEGATED  REGULATION  (EU)  2017/  390  -  of  11  November  2016  -  supplementing  Regulation  (EU)  No 909  /  2014  of  the  European  Parliament  and  of  the  Council  with  regard  to  regulatory  technical  standards  on  certain  prudential  requirements  for  central  securities  depositories  and  designated  credit  institutions  offering  banking-type  ancillary  services",
+    "author": "Publications Office",
+    "subject": "",
+    "keywords": "",
+    "creator": "Arbortext Advanced Print Publisher 11.0.3108/W Unicode-x64",
+    "producer": "PDFlib+PDI 8.0.5p2 (C++/Win64)",
+    "creationDate": "D:20170308105155+01'00'",
+    "modDate": "D:20170308170642+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

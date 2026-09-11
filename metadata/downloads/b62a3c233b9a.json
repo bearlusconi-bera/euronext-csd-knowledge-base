@@ -1,0 +1,31 @@
+{
+  "id": "b62a3c233b9a",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4225%20-%20P_F053%20One%20Time%20Certificate%20%28Appendix%204%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4225%20-%20P_F053%20One%20Time%20Certificate%20%28Appendix%204%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/b62a3c233b9a-P-F053-One-Time-Certificate-Appendix-4.pdf",
+  "sha256": "e7aeaa6c618f9ff0e8a25d01ff98d3bcffc613bf5e59f35357af2edd6c7905f9",
+  "bytes": 121646,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/b62a3c233b9a.md",
+  "text_characters": 7710,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Portugal - P_F053 - One Time Certificate for securities governed by law 83-2013",
+    "author": "",
+    "subject": "P_F053 ",
+    "keywords": "",
+    "creator": "",
+    "producer": "Adobe PDF Library 15.0",
+    "creationDate": "D:20150724155000+02'00'",
+    "modDate": "D:20180614124007+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "9bc2a801a2d2",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/Circular.2016.02.EN_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/Circular.2016.02.EN_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:42 GMT",
+  "local_path": "sources/documents/9bc2a801a2d2-INTERBOLSA-Circular-2-2016.pdf",
+  "sha256": "bab870063f0de40f73aae6669bc1de06b1f4ade885c923f0f005cbd17e897510",
+  "bytes": 115524,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/9bc2a801a2d2.md",
+  "text_characters": 14674,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - 23032016 ITB Circular 2 2016_eng.doc",
+    "author": "HTL",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20160324125203Z",
+    "modDate": "D:20160324125203Z",
+    "trapped": "",
+    "encryption": null
+  }
+}

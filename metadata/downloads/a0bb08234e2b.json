@@ -1,0 +1,31 @@
+{
+  "id": "a0bb08234e2b",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/marketstandardsforcorporateactionsprocessing.revised2012.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/marketstandardsforcorporateactionsprocessing.revised2012.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:34 GMT",
+  "local_path": "sources/documents/a0bb08234e2b-Market-standards-for-corporate-action-processing-CAJWG-Standards-revised-version-2012-Upda.pdf",
+  "sha256": "0b84db0e8746a73e11553bcccf43a4f2f2b9620c5a10af321e22c13d29206ad7",
+  "bytes": 829865,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 51,
+  "text_path": "extracted/a0bb08234e2b.md",
+  "text_characters": 71458,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Outside In (C) Technology",
+    "producer": "PDF Export 8.4.1.0.1304081741",
+    "creationDate": "D:20170725120312+01'00'",
+    "modDate": "D:20170725120312+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

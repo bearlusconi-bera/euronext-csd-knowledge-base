@@ -1,0 +1,31 @@
+{
+  "id": "d1a537a3eb54",
+  "url": "https://www.euronext.com/sites/default/files/2022-05/4253%20-%20PT%20-%20Tax%20Information%20Exchange%20Agrement%20Countries%20%28AppendixC%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-05/4253%20-%20PT%20-%20Tax%20Information%20Exchange%20Agrement%20Countries%20%28AppendixC%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:46 GMT",
+  "local_path": "sources/documents/d1a537a3eb54-PT-Tax-Information-Exchange-Agrement-Countries-Appendix-C.pdf",
+  "sha256": "460cf1dca53c2ca95472183e0f8ff3b7f1b9f71f5f45cfbe366e5fa3f90089cd",
+  "bytes": 102132,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/d1a537a3eb54.md",
+  "text_characters": 515,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4253 - PT - Tax Information Exchange Agrement Countries (AppendixC)",
+    "author": "GArdizzon",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220429173552+02'00'",
+    "modDate": "D:20220429173552+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

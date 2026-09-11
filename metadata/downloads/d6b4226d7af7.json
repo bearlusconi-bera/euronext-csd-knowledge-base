@@ -1,0 +1,34 @@
+{
+  "id": "d6b4226d7af7",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/20251217%20-%20Comit%C3%A9%20de%20Utilizadores.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/20251217%20-%20Comit%C3%A9%20de%20Utilizadores.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 19 Jun 2026 14:38:38 GMT",
+  "local_path": "sources/documents/d6b4226d7af7-User-Committee-of-17-12-2025.pdf",
+  "sha256": "62ac14f9233c4e6853a093f9eb4bfc58857f11cfd0b05a5a6b9e25ff2053b873",
+  "bytes": 1420320,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 36,
+  "text_path": "extracted/d6b4226d7af7.md",
+  "text_characters": 48298,
+  "low_text_pages": [
+    34,
+    35
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® PowerPoint® for Microsoft 365",
+    "producer": "Microsoft® PowerPoint® for Microsoft 365",
+    "creationDate": "D:20251217160749+00'00'",
+    "modDate": "D:20251217160749+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

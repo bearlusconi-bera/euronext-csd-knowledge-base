@@ -1,0 +1,31 @@
+{
+  "id": "d6647e446987",
+  "url": "https://www.euronext.com/sites/default/files/2026-07/European%20Offering%20-%20OTC%20Settlement%20Flows%20English%20Version.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-07/European%20Offering%20-%20OTC%20Settlement%20Flows%20English%20Version.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 08 Jul 2026 13:24:48 GMT",
+  "local_path": "sources/documents/d6647e446987-Presentation-European-Offering-OTC-Settlement-Flows-English-Version-pdf.pdf",
+  "sha256": "9e4cca7be5cc33247dfd2eb171050d774194d34de7a98cf0843c40833d1b948b",
+  "bytes": 933028,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 19,
+  "text_path": "extracted/d6647e446987.md",
+  "text_characters": 31799,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20260708062308-07'00'",
+    "modDate": "D:20260708062308-07'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

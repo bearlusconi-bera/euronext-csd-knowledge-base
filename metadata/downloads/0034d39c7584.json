@@ -1,0 +1,31 @@
+{
+  "id": "0034d39c7584",
+  "url": "https://www.euronext.com/sites/default/files/piano-stripping/IT0005611055.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/piano-stripping/IT0005611055.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 21 Jan 2026 15:57:38 GMT",
+  "local_path": "sources/documents/0034d39c7584-Piano-stripping-IT0005611055.pdf",
+  "sha256": "a65e7ff7c89ae4c7114d721ad1e7dc63859a935658b3b6c4985490dca07f0283",
+  "bytes": 90449,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/0034d39c7584.md",
+  "text_characters": 385,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - IT0005611055",
+    "author": "Vincenzo Forciniti",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20241030165349+01'00'",
+    "modDate": "D:20241030165349+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

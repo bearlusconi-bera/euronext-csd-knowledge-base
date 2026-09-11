@@ -1,0 +1,31 @@
+{
+  "id": "76d986b141e0",
+  "url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005657348.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005657348.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 28 Aug 2025 09:04:42 GMT",
+  "local_path": "sources/documents/76d986b141e0-Piano-Stripping-IT0005657348.pdf",
+  "sha256": "88eda07d6591752840a6546732bd05f08c71103c84faee5ed5e489d3416080d9",
+  "bytes": 49128,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/76d986b141e0.md",
+  "text_characters": 447,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "MEF_PIANO_STRIPPING_TDS_IT0005657348.TXT - Notepad",
+    "author": "Denis Ghielmetti",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20250828105853+02'00'",
+    "modDate": "D:20250828105853+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

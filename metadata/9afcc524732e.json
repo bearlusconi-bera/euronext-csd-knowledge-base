@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/settlement-market-operations",
+  "retrieved_at": "2026-09-11",
+  "id": "9afcc524732e",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/documentation/statistics/settlement-market-operations",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:33 GMT",
+  "title": "Settlement of market operations",
+  "text": "Settlement of market operations\nMonth\n- Any -JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember\nYear\n- Any -20132014201520162017201820192020202120222023202420252026\nAugust 2026\nType\nNr. Of Transactions *\nValue (€)\nInf. Date\nSettled Guaranteed\n27,583\n5,198,113,348\n31/08/2026\nSettled Non Guaranteed\n60\n425,907\n31/08/2026\nUnsettled Guaranteed\n991\n126,109,804\n31/08/2026\nUnsettled Non Guaranteed\n0\n0\n31/08/2026\nPlease note: Already matched instructions by CCP.",
+  "links": [],
+  "local_html": "sources/pages/9afcc524732e.html",
+  "sha256": "75281990337ff427dd8a786dba346880da1902608f13d3a334ea2a3129186c2f"
+}

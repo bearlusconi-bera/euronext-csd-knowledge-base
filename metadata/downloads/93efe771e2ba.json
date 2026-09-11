@@ -1,0 +1,36 @@
+{
+  "id": "93efe771e2ba",
+  "url": "https://www.euronext.com/sites/default/files/2022-09/RelatorioAnual.2018.PT_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-09/RelatorioAnual.2018.PT_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:17 GMT",
+  "local_path": "sources/documents/93efe771e2ba-Relatorio-anual-de-2018.pdf",
+  "sha256": "16cf9f2a78796dd2d208a86bccfa65e7ff1d2aabb9b6eeca3fabc09ecb5efb94",
+  "bytes": 3627505,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 122,
+  "text_path": "extracted/93efe771e2ba.md",
+  "text_characters": 307027,
+  "low_text_pages": [
+    117,
+    118,
+    119,
+    120
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "steve",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Adobe Acrobat Standard DC 18.11.20035",
+    "producer": "Adobe Acrobat Standard DC 18.11.20035",
+    "creationDate": "D:20190410163151+01'00'",
+    "modDate": "D:20190410163151+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

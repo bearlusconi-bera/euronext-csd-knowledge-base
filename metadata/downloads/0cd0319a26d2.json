@@ -1,0 +1,31 @@
+{
+  "id": "0cd0319a26d2",
+  "url": "https://www.euronext.com/media/10566/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/10566/download",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 11 Nov 2025 11:21:54 GMT",
+  "local_path": "sources/documents/0cd0319a26d2-Download-Euronext-Securities-Oslo-Privacy-Statement.pdf",
+  "sha256": "88b20dbe26922e2b9482f6f36572769ddceb94f5b987475861a6ecbffa00073c",
+  "bytes": 397883,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 19,
+  "text_path": "extracted/0cd0319a26d2.md",
+  "text_characters": 49631,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Data Protection Officer – Euronext Group",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251111122110+01'00'",
+    "modDate": "D:20251111122110+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

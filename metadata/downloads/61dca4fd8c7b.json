@@ -1,0 +1,31 @@
+{
+  "id": "61dca4fd8c7b",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/ibregulation.2022.03.en_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/ibregulation.2022.03.en_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:30 GMT",
+  "local_path": "sources/documents/61dca4fd8c7b-INTERBOLSA-Regulation-3-2022.pdf",
+  "sha256": "b700df86305dda062cfb90decdb467440ecf9007a42069260334e156731daabb",
+  "bytes": 80494,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/61dca4fd8c7b.md",
+  "text_characters": 1796,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Helena Teixeira Lopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 22 for Word",
+    "producer": "Adobe PDF Library 22.1.117",
+    "creationDate": "D:20220408162510+01'00'",
+    "modDate": "D:20220408162510+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

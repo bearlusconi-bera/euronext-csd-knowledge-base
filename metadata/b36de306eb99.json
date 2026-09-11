@@ -1,0 +1,35 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services",
+  "retrieved_at": "2026-09-11",
+  "id": "b36de306eb99",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Registry Services | Euronext Athens",
+  "text": "EURONEXT SECURITIES ATHENS\nRegistry Services\nIssuers\nParticipants\nInvestors\nFAQs per Category",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services/issuers",
+      "title": "Issuers",
+      "context": "Issuers Participants Investors FAQs per Category"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services/participants",
+      "title": "Participants",
+      "context": "Issuers Participants Investors FAQs per Category"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services/investors",
+      "title": "Investors",
+      "context": "Issuers Participants Investors FAQs per Category"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services/faqs",
+      "title": "FAQs per Category",
+      "context": "Issuers Participants Investors FAQs per Category"
+    }
+  ],
+  "local_html": "sources/pages/b36de306eb99.html",
+  "sha256": "ffe300ea7d75e1622ff472e9301d41ff8342ceb51f2916194a5019e5552b00a3"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "7a7162a47524",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/2026%20Remuneration%20Policies%20Euronext%20Securities%20Oslo..pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/2026%20Remuneration%20Policies%20Euronext%20Securities%20Oslo..pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 09 Jun 2026 14:54:17 GMT",
+  "local_path": "sources/documents/7a7162a47524-Remuneration-Policy-Oslo.pdf",
+  "sha256": "fd371c8df11fc5cfa8b0d5a2bb56dc74f4470f078077012d355739aa224f4124",
+  "bytes": 414677,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 21,
+  "text_path": "extracted/7a7162a47524.md",
+  "text_characters": 27345,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Henry van Glabbeek",
+    "subject": "",
+    "keywords": "",
+    "creator": "Aspose Pty Ltd.",
+    "producer": "Aspose.PDF for .NET 25.7.0",
+    "creationDate": "D:20251211153510+01'00'",
+    "modDate": "D:20260609134512Z",
+    "trapped": "",
+    "encryption": null
+  }
+}

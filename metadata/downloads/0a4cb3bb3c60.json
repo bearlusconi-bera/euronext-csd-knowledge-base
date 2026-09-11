@@ -1,0 +1,31 @@
+{
+  "id": "0a4cb3bb3c60",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/esma70-151-887_csdr_list_of_relevant_authorities_art_12_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/esma70-151-887_csdr_list_of_relevant_authorities_art_12_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 03 Aug 2026 11:55:19 GMT",
+  "local_path": "sources/documents/0a4cb3bb3c60-List-of-relevant-authorities.pdf",
+  "sha256": "bcae46942e28d4288543eb64ee4486e62ca7223d2e08c914db908348c3415fb8",
+  "bytes": 449900,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 10,
+  "text_path": "extracted/0a4cb3bb3c60.md",
+  "text_characters": 32990,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Relevant authorities for central securities depositories (CSDs) - article 12",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260803135403+02'00'",
+    "modDate": "D:20260803135510+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "28596919dc53",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2017.01.consolidado.en_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2017.01.consolidado.en_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:36 GMT",
+  "local_path": "sources/documents/28596919dc53-INTERBOLSA-Regulation-1-2017.pdf",
+  "sha256": "c7605a693803c29c332926aa1303dc6bc595ae980f0c2feadf00ebee92adef2d",
+  "bytes": 80019,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/28596919dc53.md",
+  "text_characters": 1486,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - IB Regulation_1P2017_EN.docx",
+    "author": "HTL",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20170327113003+01'00'",
+    "modDate": "D:20170327113003+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

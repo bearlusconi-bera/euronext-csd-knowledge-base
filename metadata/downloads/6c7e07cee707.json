@@ -1,0 +1,31 @@
+{
+  "id": "6c7e07cee707",
+  "url": "https://www.esma.europa.eu/sites/default/files/2024-11/JC-GL-2024-36_Guidelines_on_DORA_oversight_cooperation.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2024-11/JC-GL-2024-36_Guidelines_on_DORA_oversight_cooperation.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 06 Nov 2024 09:25:18 GMT",
+  "local_path": "sources/documents/6c7e07cee707-https-www-esma-europa-eu-sites-default-files-2024-11-JC-GL-2024-36-Guidelines-on-DORA-over.pdf",
+  "sha256": "9dad844fb0998e546bae25df423e72fbf071d821ccad578763e159e106e29e66",
+  "bytes": 442688,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 19,
+  "text_path": "extracted/6c7e07cee707.md",
+  "text_characters": 55124,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Greta Di Pierri",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 24 for Word",
+    "producer": "Adobe PDF Library 24.2.23",
+    "creationDate": "D:20241106094841+01'00'",
+    "modDate": "D:20241106094901+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

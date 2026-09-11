@@ -1,0 +1,14 @@
+{
+  "id": "8435d6047879",
+  "url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coupon_Stripping/2026/08/Reports_MEF_20260803.zip",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coupon_Stripping/2026/08/Reports_MEF_20260803.zip",
+  "content_type": "binary/octet-stream",
+  "last_modified": "Tue, 04 Aug 2026 13:05:07 GMT",
+  "local_path": "sources/documents/8435d6047879-Reports-MEF-20260803-zip.zip",
+  "sha256": "9cd91268da4490146b35b1f052a2d6d6fd531a8210023495cbde2d315aca9651",
+  "bytes": 78690,
+  "file_type": "zip",
+  "review_status": "archived-not-substantively-reviewed"
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/safekeeping-services",
+  "retrieved_at": "2026-09-11",
+  "id": "02521b8a1c06",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/safekeeping-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:00 GMT",
+  "title": "Safekeeping Services",
+  "text": "Safekeeping Services\nWe offer full depository services and an unlimited securities account set-up.\nEuronext Securities' depository services comprise a wide range of flexible and fully customisable solutions based on the electronic book-entry of securities. These solutions are supported by expert advisory services, efficient processes and competitive prices.\nIn the Danish market, we have made single-investor securities accounts the market practice since the early 1980s. The single-investor securities account solution offers a number of advantages in relation to direct servicing of e.g. Corporate Actions and tax reporting. Segregated securities accounts also ensure the issuing institutions direct access to information on investors’ registered holdings. This solution helps the issuing institutions to achieve more correct and targeted communication regarding their investor relations activities, AGMs and ballots.\nCustodian banks benefit from our depository services, with Euronext Securities handling all investor-related securities transactions, from book-entry of trades to processing Corporate Actions vis-à-vis end-investors. We provide a free choice of account structure – offering omnibus, segregated and single-investor accounts with no limitation of securities accounts by amount.\nMeeting Services\nLinks\nBe compliant with regulations and meet investor expectations.\nRead more\nElection and voting services\nLinks\nComplete your election with our secure online voting platform.\nRead more\nCorporate Actions\nLink\nSave internal resources with controlled processes and a single point of contact.\nRead more\nSettlement\nLink\nSingle point of access to European and Nordic distribution.\nRead more\nTax Reporting\nLink\nWe offer fully automated and compliant tax reporting depository services.\nRead more\nContacts\nKanchana S.\nHansen\nSenior Product Manager & Tax Lead\n+45 2894 0948\nkhansen@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/meeting-services",
+      "title": "Read more",
+      "context": "Meeting Services Links Be compliant with regulations and meet investor expectations. Read more Election and voting services Links Complete your election with our secure online voting platform. Read more Corporate Actions Link Save internal resources with controlled processes and a single point of contact. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/election-and-voting-services",
+      "title": "Read more",
+      "context": "Meeting Services Links Be compliant with regulations and meet investor expectations. Read more Election and voting services Links Complete your election with our secure online voting platform. Read more Corporate Actions Link Save internal resources with controlled processes and a single point of contact. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/corporate-actions",
+      "title": "Read more",
+      "context": "Meeting Services Links Be compliant with regulations and meet investor expectations. Read more Election and voting services Links Complete your election with our secure online voting platform. Read more Corporate Actions Link Save internal resources with controlled processes and a single point of contact. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/settlement",
+      "title": "Read more",
+      "context": "Settlement Link Single point of access to European and Nordic distribution. Read more Tax Reporting Link We offer fully automated and compliant tax reporting depository services. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/ancillary-services/tax-reporting-services",
+      "title": "Read more",
+      "context": "Settlement Link Single point of access to European and Nordic distribution. Read more Tax Reporting Link We offer fully automated and compliant tax reporting depository services. Read more"
+    }
+  ],
+  "local_html": "sources/pages/02521b8a1c06.html",
+  "sha256": "7e9bface0f18b4fb564ba9a83a9c2d72e7e96ddea1e2f3761de862bd0453beaa"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "8719262f5e8b",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 05 Feb 2026 09:28:24 GMT",
+  "local_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
+  "sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+  "bytes": 793597,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 59,
+  "text_path": "extracted/8719262f5e8b.md",
+  "text_characters": 174222,
+  "low_text_pages": [
+    59
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Rossetti, Chiara",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word per Microsoft 365",
+    "producer": "Microsoft® Word per Microsoft 365",
+    "creationDate": "D:20260204120940+01'00'",
+    "modDate": "D:20260204120940+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

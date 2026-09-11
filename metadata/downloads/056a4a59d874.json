@@ -1,0 +1,14 @@
+{
+  "id": "056a4a59d874",
+  "url": "https://www.esma.europa.eu/sites/default/files/2025-01/ESMA70-155-9768_Art_49_notifications_template.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2025-01/ESMA70-155-9768_Art_49_notifications_template.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Thu, 09 Jan 2025 11:03:53 GMT",
+  "local_path": "sources/documents/056a4a59d874-template.docx",
+  "sha256": "ce8fd22ee4462a735eee137c6dcefb01d2970b847b315047b491f4d84fd34927",
+  "bytes": 365990,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

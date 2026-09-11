@@ -1,0 +1,25 @@
+{
+  "url": "https://www.euronext.com/en/csd/about-euronext-securities",
+  "retrieved_at": "2026-09-11",
+  "id": "85d448e5239c",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/about-euronext-securities",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:08:48 GMT",
+  "title": "About Euronext Securities",
+  "text": "About Euronext Securities\nEuronext Securities is the central securities depository (CSD) network connecting European economies to global capital markets.\nWith CSDs in Athens, Copenhagen, Milan, Oslo, Porto, Euronext Securities is one of the largest CSD operators in Europe.We provide secure and resilient settlement and custody solutions and a portfolio of services to support our clients along the entire value chain.\nOur customers\nEuronext Securities strives to provide a smooth and flawless client experience, making it easy for clients to use our services, leverage our market knowledge and take advantage of our local and global scale.\nLearn what we can offer you:\nIssuers and Investor Relations\nData Vendors\nCompliance and Regulatory Services\nCustodians, Settlement Participants, Account Operators\nMedia\nResearch and students\nCSD\nGovernance\nEuronext Securities encompasses five CSDs in Denmark, Greece, Italy, Norway and Portugal, each with its own licence.\nLearn more about how we manage our CSD business.\nEuronext Securities Gove…\nmedia\nWorking at Euronext Securities\nTake the initiative, share your ideas, and become responsible for exciting projects.Become our colleague at Euronext Securities.\nVacancies",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/about/governance",
+      "title": "Euronext Securities Gove…",
+      "context": "Governance Euronext Securities encompasses five CSDs in Denmark, Greece, Italy, Norway and Portugal, each with its own licence. Learn more about how we manage our CSD business. Euronext Securities Gove…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/about/careers",
+      "title": "Vacancies",
+      "context": "media Working at Euronext Securities Take the initiative, share your ideas, and become responsible for exciting projects.Become our colleague at Euronext Securities. Vacancies"
+    }
+  ],
+  "local_html": "sources/pages/85d448e5239c.html",
+  "sha256": "9858e8199cef0451f9485605440403cd636682beb839996b17a22ab44f63a127"
+}

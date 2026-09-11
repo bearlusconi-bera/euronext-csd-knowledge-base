@@ -1,0 +1,31 @@
+{
+  "id": "a83101d01b5d",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4380%20-%20BE%20-%20DTA%20Countries%20%28Appendix%20A%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4380%20-%20BE%20-%20DTA%20Countries%20%28Appendix%20A%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:40 GMT",
+  "local_path": "sources/documents/a83101d01b5d-BE-DTA-Countries-Appendix-A.pdf",
+  "sha256": "4a91d9f9b64e06eb348fec99dc4f3ad43d6598a8258021da0b875d8854bfa856",
+  "bytes": 367309,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 5,
+  "text_path": "extracted/a83101d01b5d.md",
+  "text_characters": 7257,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4380 - BE - DTA Countries (Appendix A)",
+    "author": "LPacini",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220411160326+02'00'",
+    "modDate": "D:20220411160326+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

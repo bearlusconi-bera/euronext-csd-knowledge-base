@@ -1,0 +1,31 @@
+{
+  "id": "42956768f86b",
+  "url": "https://www.euronext.com/sites/default/files/2023-08/relatoriotrimestral.2015_1.pt_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-08/relatoriotrimestral.2015_1.pt_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:44 GMT",
+  "local_path": "sources/documents/42956768f86b-Relatorio-1o-trimestre-de-2015.pdf",
+  "sha256": "fdd1eb5d3eb22af6335a5099587f5da4371626b9142dea6a16105e31969734fd",
+  "bytes": 252031,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 21,
+  "text_path": "extracted/42956768f86b.md",
+  "text_characters": 41418,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - 20150529_IB_Relatório_Trimestral_Março2015Vfinal.docx",
+    "author": "ARL",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20150529163931+01'00'",
+    "modDate": "D:20150529163931+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

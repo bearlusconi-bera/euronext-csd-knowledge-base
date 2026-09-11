@@ -1,0 +1,30 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/who-we-are",
+  "retrieved_at": "2026-09-11",
+  "id": "41899b50d085",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/who-we-are",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:58:57 GMT",
+  "title": "Who We Are",
+  "text": "Who We Are\nVP became part of Euronext in August 2020, which is the leading pan-European exchange that connects local economies to global capital markets, to accelerate innovation and sustainable growth. As a Copenhagen based central securities depository, we offer you local knowledge of the Nordics along with cross-border securities transactions and services that match the new European environment. Within our range of services, you find secure issuance, clearing & settlement and safekeeping of securities to facilitate the requirements of the financial industry efficiently and reliably.\nAnnual report\nLink\nRead more about key figures for Euronext and the VP group and download our annual reports.\nAnnual Reports\nCorporate Social Responsibility\nLink\nOur policy on Corporate Social Responsibility.\nRead more\nManagement\nContact\nMeet our executives.\nRead more\nContacts\nThere are no results found.",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/who-we-are/annual-reports",
+      "title": "Annual Reports",
+      "context": "Annual report Link Read more about key figures for Euronext and the VP group and download our annual reports. Annual Reports Corporate Social Responsibility Link Our policy on Corporate Social Responsibility. Read more Management Contact Meet our executives. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/who-we-are/corporate-social-responsibility",
+      "title": "Read more",
+      "context": "Annual report Link Read more about key figures for Euronext and the VP group and download our annual reports. Annual Reports Corporate Social Responsibility Link Our policy on Corporate Social Responsibility. Read more Management Contact Meet our executives. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/management",
+      "title": "Read more",
+      "context": "Annual report Link Read more about key figures for Euronext and the VP group and download our annual reports. Annual Reports Corporate Social Responsibility Link Our policy on Corporate Social Responsibility. Read more Management Contact Meet our executives. Read more"
+    }
+  ],
+  "local_html": "sources/pages/41899b50d085.html",
+  "sha256": "b7d929c093b036eeda96fadc0e98f4c0d147e6dc10e3580eaf5fa933b72e175c"
+}

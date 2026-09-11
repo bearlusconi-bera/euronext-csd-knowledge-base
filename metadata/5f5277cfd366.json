@@ -1,0 +1,25 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/contact-euronext-securities-copenhagen",
+  "retrieved_at": "2026-09-11",
+  "id": "5f5277cfd366",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/contact-euronext-securities-copenhagen",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:54 GMT",
+  "title": "Contact Euronext Securities Copenhagen",
+  "text": "Contact Euronext Securities Copenhagen\nPlease find contact information on the different business units in Euronext Securities Copenhagen.\nEuronext Securities Copenhagen Reception\nEuronext Securities Copenhagen\n+45 4358 8888\nvp_postkasse@euronext.com\nBusiness Units\nClient Services\nOpening Hours:,\nWeekdays: 8:00 - 16:00 CE(S)T,\nWeekends: Closed,\nDanish Bank Holidays when T2S is closed for FOP: Closed,\nDanish Bank Holidays when T2S is open for FOP: 9:00 - 13:00 CET\n+45 4358 8800\nCPH-clientsupport@euronext.com\nInvestor Services\nOpening hours: 9:00 - 16:00 CET\n+45 4358 8866\nCPH-investor@euronext.com\nOperations\nOpening hours: Business Days 06:30 - 19:00 CET Critical issues - Sunday 19:00 – Saturday 19:00 CET\n+45 4358 8877\nvp_operation@euronext.com\nClient Relations and Sales\nFind our contact details here\nOur Address\nEuronext SecuritiesNicolai Eigtveds Gade 81402 Copenhagen\nVP Securities A/S | CVR: 21599336\nDirections",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/about/contacts",
+      "title": "Find our contact details here",
+      "context": "Client Relations and Sales Find our contact details here"
+    },
+    {
+      "url": "https://www.google.com/maps/place/Nicolai+Eigtveds+Gade+8,+1402+K%C3%B8benhavn/@55.6728505,12.5842839,17z/data=!4m5!3m4!1s0x4652533e388a3e53:0xf6817e0212e3cbc3!8m2!3d55.6728475!4d12.5864726",
+      "title": "Directions",
+      "context": "Our Address Euronext SecuritiesNicolai Eigtveds Gade 81402 Copenhagen VP Securities A/S | CVR: 21599336 Directions"
+    }
+  ],
+  "local_html": "sources/pages/5f5277cfd366.html",
+  "sha256": "34790a410c42b8ba19752a7485e807786c4fe642d45435140254844021b24576"
+}

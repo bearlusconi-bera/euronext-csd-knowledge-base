@@ -1,0 +1,60 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/otc",
+  "retrieved_at": "2026-09-11",
+  "id": "bbc3385fd9c6",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/otc",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "OTC Settlement Services | Euronext Athens",
+  "text": "EURONEXT SECURITIES ATHENS\nOTC Settlement Services\nTechnical and Procedural Details\nSettlement Days and Hours\nTrading days – The trading days of the DSS according to the trading calendar of Euronext Securities Athens DSS opening hours – 08:15 - 20:00 (local time) 07:15 - 19:00 (Central European Time - CET)\nBilateral Settlement of OTC Transactions Involving Domestic Securities\nBILATERAL SETTLEMENT OF OTC TRANSACTIONS INVOLVING DOMESTIC SECURITIESEntry of instructions by Participants 08:15 - 20:00 (local time)07:15 - 19:00 (CET)Entry of instructions for cash with same-day settlement date (SD) up to:SD 17:10 (local time) SD 16:10 (CET)Entry of instructions without cash movement with same-day settlement date (SD) up to:SD 18:14 (local time) SD 17:14 (CET)Maximum time gap between Entry Date (ED) and requested future Settlement Date (SD)365 calendar daysMaximum time gap between Entry Date (ED) and requested Settlement Date (SD) earlier than today60 business days Maximum time gap between Settlement Date (SD) and Trade Date (TD)No limit (considering the other parameters) INSTRUCTION MATCHINGSettlement instruction Matching Cycles are running either by inserting a new settlement instruction, or by modifying a matching field of an already inserted instruction08:15 - 20:00 (local time)07:15 - 20:00 (CET)Matching tolerance amount2 EUR, for settlement amount up to 100.000 EUR,25 EUR, for settlement amount over 100.000,01 EUR SETTLEMENT Settlement Cycles for cash09:30 - 17:25 (local time) 08:30 - 16:25 (CET)Settlement Cycles executed at 1-hour intervals.Euronext Securities Athens may also run ad hoc cycles.Settlement Cycles without cash09:30 - 18:25 (local time) 08:30 - 17:25 (CET)Maximum number of recycling days for unsettled instructions20 business days for unmatched instructions60 business days for matched instructions counting from the latest between, ISD and the last amended date\nBilateral Settlement of OTC Transactions in the Framework of Links\nENTRY OF SETTLEMENT INSTRUCTIONSEntry of instructions by Participants08:15 - 20:00 (local time)07:15 - 20:00 (CET)Entry of instructions for cash with same-day settlement date (SD) up to:SD 13:00 (local time) SD 12:00 (CET)Entry of instructions without cash movement with same-day settlement date (SD) up to:SD 16:00 (local time) SD 15:00 (CET)Maximum time gap between Entry Date (ED) and requested future Settlement Date (SD)365 calendar daysMaximum time gap between Entry Date (ED) and requested Settlement Date (SD) earlier than today60 business days Maximum time gap between Settlement Date (SD) and Trade Date (TD)No limit (considering the other parameters)\nSettlement on the Instructions of Market Infrastructure Operators\nENTRY OF SETTLEMENT INSTRUCTIONSEntry of instructions for cash with same-day settlement date (SD) up to:SD 17:20 (local time) SD 16:20 (CET)Entry of instructions without cash movement with same-day settlement date (SD) up to:SD 18:10 (local time) SD 17:10 (CET)Maximum time gap between Entry Date (ED) and Trade Date (TD)2 business days (ED - TD <=2)Maximum time gap between Settlement Date (SD) and Entry Date (ED)2 business days (SD - ED <=2)Maximum time gap between Settlement Date (SD) and Trade Date (TD)2 business days (SD - TD <= 2) SETTLEMENT INSTRUCTION MATCHING CYCLESSettlement instruction Matching Cycles are running either by inserting a new settlement instruction, or by modifying a matching field of an already inserted instructionί08:15 - 20:00 (local time)07:15 - 19:00 (CET)Matching tolerance amount2 EUR, for settlement amount up to 100.000 EUR,25 EUR, for settlement amount over 100.000,01 EUR SETTLEMENTSettlement Cycles for cash09:30 - 17:25 (local time)08:30 – 16:25 (CET)Settlement Cycles executed at 1-hour intervals.Euronext Securities Athens may also run ad hoc cycles.Settlement Cycles without cash01:00 - 18:25 (local time)00:00 - 17:25 (CET)Maximum number of recycling days for unsettled instructions 0 business days\nSee Also\nCash Settlement Services\nCross Border Settlement Services\nMultilateral & Bilateral Settlement Services\nPricing & Fees (Resolution 18)\nDisclosure\nSecurities Accounts\nRegistry Services\nClient Accounts\nOTC Transactions in Euronext Athens & Euronext Securities Athens",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/cash",
+      "title": "Cash Settlement Services",
+      "context": "Cash Settlement Services Cross Border Settlement Services Multilateral & Bilateral Settlement Services Pricing & Fees (Resolution 18) Disclosure Securities Accounts Registry Services Client Accounts OTC Transactions in Euronext Athens & Euronext Securities Athens"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/cross-border",
+      "title": "Cross Border Settlement Services",
+      "context": "Cash Settlement Services Cross Border Settlement Services Multilateral & Bilateral Settlement Services Pricing & Fees (Resolution 18) Disclosure Securities Accounts Registry Services Client Accounts OTC Transactions in Euronext Athens & Euronext Securities Athens"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/settlement-services/multilateral",
+      "title": "Multilateral & Bilateral Settlement Services",
+      "context": "Cash Settlement Services Cross Border Settlement Services Multilateral & Bilateral Settlement Services Pricing & Fees (Resolution 18) Disclosure Securities Accounts Registry Services Client Accounts OTC Transactions in Euronext Athens & Euronext Securities Athens"
+    },
+    {
+      "url": "https://athens.euronext.com/en/about/regulatory/athexcsd",
+      "title": "Pricing & Fees (Resolution 18)",
+      "context": "Cash Settlement Services Cross Border Settlement Services Multilateral & Bilateral Settlement Services Pricing & Fees (Resolution 18) Disclosure Securities Accounts Registry Services Client Accounts OTC Transactions in Euronext Athens & Euronext Securities Athens"
+    },
+    {
+      "url": "https://athens.euronext.com/en/about/regulatory/disclosure",
+      "title": "Disclosure",
+      "context": "Cash Settlement Services Cross Border Settlement Services Multilateral & Bilateral Settlement Services Pricing & Fees (Resolution 18) Disclosure Securities Accounts Registry Services Client Accounts OTC Transactions in Euronext Athens & Euronext Securities Athens"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/securities-accounts",
+      "title": "Securities Accounts",
+      "context": "Cash Settlement Services Cross Border Settlement Services Multilateral & Bilateral Settlement Services Pricing & Fees (Resolution 18) Disclosure Securities Accounts Registry Services Client Accounts OTC Transactions in Euronext Athens & Euronext Securities Athens"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/registry-services",
+      "title": "Registry Services",
+      "context": "Cash Settlement Services Cross Border Settlement Services Multilateral & Bilateral Settlement Services Pricing & Fees (Resolution 18) Disclosure Securities Accounts Registry Services Client Accounts OTC Transactions in Euronext Athens & Euronext Securities Athens"
+    },
+    {
+      "url": "https://athens.euronext.com/en/market-data/statistics/csd-client-accounts",
+      "title": "Client Accounts",
+      "context": "Cash Settlement Services Cross Border Settlement Services Multilateral & Bilateral Settlement Services Pricing & Fees (Resolution 18) Disclosure Securities Accounts Registry Services Client Accounts OTC Transactions in Euronext Athens & Euronext Securities Athens"
+    },
+    {
+      "url": "https://athens.euronext.com/en/market-data/statistics/transactions",
+      "title": "OTC Transactions in Euronext Athens & Euronext Securities Athens",
+      "context": "Cash Settlement Services Cross Border Settlement Services Multilateral & Bilateral Settlement Services Pricing & Fees (Resolution 18) Disclosure Securities Accounts Registry Services Client Accounts OTC Transactions in Euronext Athens & Euronext Securities Athens"
+    }
+  ],
+  "local_html": "sources/pages/bbc3385fd9c6.html",
+  "sha256": "ccd5f67fe9741395f6cc5bb4fc62a1093727e4ab57381974b6cc05387cdb792d"
+}

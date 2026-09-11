@@ -1,0 +1,31 @@
+{
+  "id": "99af370d3308",
+  "url": "https://www.euronext.com/sites/default/files/2023-06/es-cph_general-meeting-services_one-pager_190623.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-06/es-cph_general-meeting-services_one-pager_190623.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:15 GMT",
+  "local_path": "sources/documents/99af370d3308-Overview-of-our-Meeting-Services.pdf",
+  "sha256": "dec0b98c74fdacfb734695170b1434349fe14936667ae7d82dc534a9261fa934",
+  "bytes": 219350,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/99af370d3308.md",
+  "text_characters": 3216,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign 18.3 (Windows)",
+    "producer": "Adobe PDF Library 17.0",
+    "creationDate": "D:20230619152433+03'00'",
+    "modDate": "D:20230619152433+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

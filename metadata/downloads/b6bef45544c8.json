@@ -1,0 +1,31 @@
+{
+  "id": "b6bef45544c8",
+  "url": "https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.amiseco202512_corporateevents.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.amiseco202512_corporateevents.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 16 Dec 2025 14:15:45 GMT",
+  "local_path": "sources/documents/b6bef45544c8-Corporate-Events-Compliance-Report.pdf",
+  "sha256": "04b59c4e25ecf326d1c31ca3ce5a639c8e86e1e61865b024a9609f0e184fef1a",
+  "bytes": 3692851,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 137,
+  "text_path": "extracted/b6bef45544c8.md",
+  "text_characters": 636140,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Corporate Events Compliance Report",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "Template updated: 18/10/2022",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251216082602+01'00'",
+    "modDate": "D:20251216091416+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

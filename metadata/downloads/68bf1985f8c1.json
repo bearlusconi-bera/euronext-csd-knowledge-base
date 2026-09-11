@@ -1,0 +1,31 @@
+{
+  "id": "68bf1985f8c1",
+  "url": "https://www.euronext.com/sites/default/files/2024-01/Management%20Report%20-%20Annual%202022.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-01/Management%20Report%20-%20Annual%202022.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:15 GMT",
+  "local_path": "sources/documents/68bf1985f8c1-Management-Report-Annual-2022.pdf",
+  "sha256": "e96e278f64062df91651f3bd4ddec80ebfd0e4606ba15e2fff6f72d2a8573dff",
+  "bytes": 1290439,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 121,
+  "text_path": "extracted/68bf1985f8c1.md",
+  "text_characters": 265721,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Arlinda Moreira",
+    "subject": "",
+    "keywords": ", docId:90B705997AB12879B7C5D067A36C5854",
+    "creator": "Acrobat PDFMaker 23 for Word",
+    "producer": "Adobe PDF Library 23.3.20",
+    "creationDate": "D:20230803224206+01'00'",
+    "modDate": "D:20230803225408+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

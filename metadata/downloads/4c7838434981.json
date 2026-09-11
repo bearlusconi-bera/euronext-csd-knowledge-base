@@ -1,0 +1,31 @@
+{
+  "id": "4c7838434981",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4285_20200127_Service%20Restrictions%20%28ENG%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4285_20200127_Service%20Restrictions%20%28ENG%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:45 GMT",
+  "local_path": "sources/documents/4c7838434981-Restrictions-to-the-activity-of-Intermediaries.pdf",
+  "sha256": "81a7e187c4fdf92168fbc26d81e4a61f7a63208521711e32c0f1f507fc390ccd",
+  "bytes": 90544,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/4c7838434981.md",
+  "text_characters": 5361,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Dermes, Maria",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210415101237+02'00'",
+    "modDate": "D:20210415101237+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

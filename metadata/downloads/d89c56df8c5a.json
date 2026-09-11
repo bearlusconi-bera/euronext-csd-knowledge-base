@@ -1,0 +1,33 @@
+{
+  "id": "d89c56df8c5a",
+  "url": "https://athens.euronext.com/sites/default/files/2026-06/ATHEXCSD_RULEBOOK_7th_Ammendment_383_24.11.2025_FORCE_8.12.2025.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-06/ATHEXCSD_RULEBOOK_7th_Ammendment_383_24.11.2025_FORCE_8.12.2025.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 16 Jun 2026 12:12:27 GMT",
+  "local_path": "sources/documents/d89c56df8c5a-ATHEXCSD-Rulebook-Amendment-8.pdf",
+  "sha256": "d56878f3174be350e6f722be9e21a63f2b3cd64109998a69b6a7dec8f226ef82",
+  "bytes": 1748721,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 217,
+  "text_path": "extracted/d89c56df8c5a.md",
+  "text_characters": 618833,
+  "low_text_pages": [
+    3
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Steve",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ (PUBLIC)ΕΛΛΗΝΙΚΗ (GREEK)",
+    "creator": "Microsoft® Word για το Microsoft 365",
+    "producer": "Microsoft® Word για το Microsoft 365",
+    "creationDate": "D:20260616150758+03'00'",
+    "modDate": "D:20260616150758+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

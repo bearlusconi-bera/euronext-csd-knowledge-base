@@ -1,0 +1,34 @@
+{
+  "id": "cd6c6798015f",
+  "url": "https://www.bis.org/publications/principles-financial-market-infrastructures-disclosure-framework-and-assessment-methodology.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.bis.org/publications/principles-financial-market-infrastructures-disclosure-framework-and-assessment-methodology.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 22 Jan 2026 10:53:53 GMT",
+  "local_path": "sources/documents/cd6c6798015f-PFMI-disclosure-and-assessment-December-2012.pdf",
+  "sha256": "e941d2bb94a69ce9a922003c33e9b0ffc0ca0e7cb4afedafafa971f1a13140c0",
+  "bytes": 611840,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 109,
+  "text_path": "extracted/cd6c6798015f.md",
+  "text_characters": 292201,
+  "low_text_pages": [
+    4,
+    8
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Principles for financial market infrastructure: Disclosure framework and Assessment methodology",
+    "author": "CPSS-IOSCO",
+    "subject": "Abstract of the CPSS-IOSCO report \"Principles for financial market infrastructure: Disclosure framework and Assessment methodology\", December 2012",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 10.1 for Word",
+    "producer": "Adobe PDF Library 10.0",
+    "creationDate": "D:20121213162316+01'00'",
+    "modDate": "D:20121213162731+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

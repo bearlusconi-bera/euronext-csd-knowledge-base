@@ -1,0 +1,31 @@
+{
+  "id": "f30e272ac07d",
+  "url": "https://www.euronext.com/sites/default/files/2026-07/es-pto_july2026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-07/es-pto_july2026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 10 Jul 2026 08:30:37 GMT",
+  "local_path": "sources/documents/f30e272ac07d-Euronext-Securities-PTO-Convergence-Newsletter-July2026-pdf.pdf",
+  "sha256": "2cd007f0b4b365b41bdc4bd3b174db4536f5d55b426997ee7928779c6a6efee5",
+  "bytes": 204202,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 2,
+  "text_path": "extracted/f30e272ac07d.md",
+  "text_characters": 4089,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Anne-Frédérique Madouasse - Contractor",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260709170027+01'00'",
+    "modDate": "D:20260709170027+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

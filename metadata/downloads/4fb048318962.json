@@ -1,0 +1,33 @@
+{
+  "id": "4fb048318962",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/esma70-156-4582_report_to_the_ec_-_csdr_banking_services.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/esma70-156-4582_report_to_the_ec_-_csdr_banking_services.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 23 Jan 2023 13:34:22 GMT",
+  "local_path": "sources/documents/4fb048318962-Provision-of-banking-type-ancillary-services-under-CSDR.pdf",
+  "sha256": "af35554c18be9422e3c1960eea3d37e890f7e8b59a876911186a91adbfe59476",
+  "bytes": 745294,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 42,
+  "text_path": "extracted/4fb048318962.md",
+  "text_characters": 114837,
+  "low_text_pages": [
+    2
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Katharina Peiter",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210709153354+02'00'",
+    "modDate": "D:20210716110739+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

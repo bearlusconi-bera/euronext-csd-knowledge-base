@@ -1,0 +1,31 @@
+{
+  "id": "f9abab9dcd1d",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/ES%20-%20Appendix%2015%20-%20Peticion%20de%20devolucion%20-%20General.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/ES%20-%20Appendix%2015%20-%20Peticion%20de%20devolucion%20-%20General.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:35 GMT",
+  "local_path": "sources/documents/f9abab9dcd1d-ES-Peticion-de-Reduccion-General-Appendix-15.pdf",
+  "sha256": "4ed31bd267b0a3222d3a25c3a4ff3d1972cfc9686823cbdb2d91d7f5d78be7d0",
+  "bytes": 115988,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/f9abab9dcd1d.md",
+  "text_characters": 3666,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Spain - E_F058 - Peticion de devolucion - Santander Investment SA",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign CS5 (7.0)",
+    "producer": "Adobe PDF Library 9.9",
+    "creationDate": "D:20121217133325+01'00'",
+    "modDate": "D:20121217133417+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

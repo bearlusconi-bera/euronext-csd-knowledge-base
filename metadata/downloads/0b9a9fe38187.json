@@ -1,0 +1,31 @@
+{
+  "id": "0b9a9fe38187",
+  "url": "https://www.euronext.com/sites/default/files/2026-08/25082026_nna_service_description_es_v5.0_clean.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-08/25082026_nna_service_description_es_v5.0_clean.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 25 Aug 2026 14:17:01 GMT",
+  "local_path": "sources/documents/0b9a9fe38187-ISIN-Codification-NNA-Service-Description-es-v5-0-clean-pdf.pdf",
+  "sha256": "65619d39ca905756b784aa8e8509feee28ae15c1c291d42efb6fec9856b97c37",
+  "bytes": 2059151,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 97,
+  "text_path": "extracted/0b9a9fe38187.md",
+  "text_characters": 215485,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "YG",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft Word",
+    "producer": "",
+    "creationDate": "D:20260825065731-07'00'",
+    "modDate": "D:20260825065731-07'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

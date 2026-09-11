@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/post-trade/euronext-securities/milan/about-us/corporate-data-and-legal-info",
+  "retrieved_at": "2026-09-11",
+  "id": "543744da8e61",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/about-us/corporate-data-and-legal-info",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:08:34 GMT",
+  "title": "Corporate Data and Legal Info",
+  "text": "Corporate Data and Legal Info\nCorporate Data\nRegistered Office\nPiazza degli Affari, 6 – 20123 Milano\nShare Capital\n€ 16,000,000 fully up paid\nRegistration to Registry of the Enterprises\nno. 03638780159 Milan (Italy)\nLEI Code\n8156009CEEE1B8C7C646\nFiscal Code & Vat number\nno. 03638780159 / IT10977060960\nR.E.A.\nno. 980806 Milan (Italy)\nLegal Info\nPrivacy\n01/09/2023\nPDF\nPrivacy Policy\nEnglish\nVersion\nEnglish\n01/09/2023\n03/03/2021\n/sites/default/files/2023-10/ES%20Milan%20-Privacy%20policy%20EN.pdf\nPrivacy Policy\nGender & Diversity Policy\n24/09/2025\nPDF\nPolicy Gender and Diversity.pdf\nEnglish\nVersion\n/sites/default/files/2025-09/3._annex_3_policy_gender_2023.pdf\n24/09/2025\nPolicy Gender and Diversity.pdf\nEnglish\nmdermes@euronext.com\n24/09/2025\nPrivacy Policy for General Assemblies\n26/04/2023\nPDF\nMT Privacy Statement AGM ENG\nEnglish\nVersion\nEnglish\n26/04/2023\n26/04/2023\n/sites/default/files/2023-04/MT_PrivacyStatement_AGM_2023_ENG_revLeg%20%28002%29.pdf\nMT Privacy Statement AGM ENG\nCode of Conduct\n29/05/2022\nPDF\nCode of Conduct\nEnglish\nVersion\nEnglish\n29/05/2022\n03/03/2021\n/sites/default/files/2022-05/4195_Supplier%20Code%20of%20Conduct%20%20April%202021.pdf\nCode of Conduct\nDPA_List of Third Parties\n12/03/2025\nPDF\nES-MIL DPA_List of third parties\nEnglish\nVersion\nEnglish\n12/03/2025\n18/11/2022\n/sites/default/files/2025-03/DPA_List%20of%20third%20parties_Updated_Mar2025.pdf\nES-MIL DPA_List of third parties",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2023-10/ES%20Milan%20-Privacy%20policy%20EN.pdf",
+      "title": "Privacy Policy",
+      "context": "01/09/2023 PDF Privacy Policy English Version English 01/09/2023 03/03/2021 /sites/default/files/2023-10/ES%20Milan%20-Privacy%20policy%20EN.pdf Privacy Policy"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2025-09/3._annex_3_policy_gender_2023.pdf",
+      "title": "Policy Gender and Diversity.pdf",
+      "context": "24/09/2025 PDF Policy Gender and Diversity.pdf English Version /sites/default/files/2025-09/3._annex_3_policy_gender_2023.pdf 24/09/2025 Policy Gender and Diversity.pdf English mdermes@euronext.com 24/09/2025"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2023-04/MT_PrivacyStatement_AGM_2023_ENG_revLeg%20%28002%29.pdf",
+      "title": "MT Privacy Statement AGM ENG",
+      "context": "26/04/2023 PDF MT Privacy Statement AGM ENG English Version English 26/04/2023 26/04/2023 /sites/default/files/2023-04/MT_PrivacyStatement_AGM_2023_ENG_revLeg%20%28002%29.pdf MT Privacy Statement AGM ENG"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2022-05/4195_Supplier%20Code%20of%20Conduct%20%20April%202021.pdf",
+      "title": "Code of Conduct",
+      "context": "29/05/2022 PDF Code of Conduct English Version English 29/05/2022 03/03/2021 /sites/default/files/2022-05/4195_Supplier%20Code%20of%20Conduct%20%20April%202021.pdf Code of Conduct"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2025-03/DPA_List%20of%20third%20parties_Updated_Mar2025.pdf",
+      "title": "ES-MIL DPA_List of third parties",
+      "context": "12/03/2025 PDF ES-MIL DPA_List of third parties English Version English 12/03/2025 18/11/2022 /sites/default/files/2025-03/DPA_List%20of%20third%20parties_Updated_Mar2025.pdf ES-MIL DPA_List of third parties"
+    }
+  ],
+  "local_html": "sources/pages/543744da8e61.html",
+  "sha256": "9aee49f18bfbf6e7f574b861fc7e579f74f209c588935f01cbad4e4e75d37907"
+}

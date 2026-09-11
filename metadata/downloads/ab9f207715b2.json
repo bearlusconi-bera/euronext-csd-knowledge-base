@@ -1,0 +1,14 @@
+{
+  "id": "ab9f207715b2",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Αίτημα_Ταυτοποίησης_SI_Request.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_%CE%91%CE%AF%CF%84%CE%B7%CE%BC%CE%B1_%CE%A4%CE%B1%CF%85%CF%84%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%CF%82_SI_Request.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Thu, 16 Apr 2026 08:23:56 GMT",
+  "local_path": "sources/documents/ab9f207715b2-identification.xlsx",
+  "sha256": "ab70f33269ae14e8141aa48217cdafb4365382b15508f1d2011caa5d9585dbef",
+  "bytes": 50269,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

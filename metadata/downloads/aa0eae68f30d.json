@@ -1,0 +1,14 @@
+{
+  "id": "aa0eae68f30d",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/4305_BCQ_ENG_3%20%282%29%20%28002%29.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/4305_BCQ_ENG_3%20%282%29%20%28002%29.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Wed, 25 Feb 2026 15:47:08 GMT",
+  "local_path": "sources/documents/aa0eae68f30d-Business-Case-Questionnaire.docx",
+  "sha256": "b5aff45d4b381410c18561b3b967d40385fa2753b141999e81bc8cf56ee39f49",
+  "bytes": 87615,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

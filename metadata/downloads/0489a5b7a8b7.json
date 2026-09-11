@@ -1,0 +1,31 @@
+{
+  "id": "0489a5b7a8b7",
+  "url": "https://www.euronext.com/sites/default/files/2024-09/issuance_of_shares.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-09/issuance_of_shares.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:34:03 GMT",
+  "local_path": "sources/documents/0489a5b7a8b7-Shares.pdf",
+  "sha256": "069434b91740548ddec4224ac7a45b357489c809db5c0da7db7a24272645d6eb",
+  "bytes": 282708,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/0489a5b7a8b7.md",
+  "text_characters": 13118,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Nina Enid With",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word til Microsoft 365",
+    "producer": "Microsoft® Word til Microsoft 365",
+    "creationDate": "D:20240913111611+02'00'",
+    "modDate": "D:20240913111611+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

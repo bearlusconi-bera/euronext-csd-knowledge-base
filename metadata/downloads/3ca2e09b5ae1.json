@@ -1,0 +1,31 @@
+{
+  "id": "3ca2e09b5ae1",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/P_F050%20Statement%20of%20beneficial%20ownership%20for%20Portuguese%20Equities%20%28Appendix%2017%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/P_F050%20Statement%20of%20beneficial%20ownership%20for%20Portuguese%20Equities%20%28Appendix%2017%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:41 GMT",
+  "local_path": "sources/documents/3ca2e09b5ae1-P-F050-Statement-of-beneficial-ownership-for-Portuguese-equities-Appendix-17.pdf",
+  "sha256": "ebcc3061864b5970be90fd3660e8a87fd4ee9d6c445c5ce5964d10714a6818ea",
+  "bytes": 70825,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/3ca2e09b5ae1.md",
+  "text_characters": 3822,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - P_F050 Statement of beneficial ownership for Portuguese Equities (Appendix 15)",
+    "author": "smaida",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.15",
+    "creationDate": "D:20180607091726Z",
+    "modDate": "D:20180614123946+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

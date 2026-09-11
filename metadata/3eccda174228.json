@@ -1,0 +1,50 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd",
+  "retrieved_at": "2026-09-11",
+  "id": "3eccda174228",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Euronext Securities Athens | Euronext Athens",
+  "text": "EURONEXT ATHENS\nEuronext Securities Athens\nJoin Euronext Securities Athens\nEuronext Securities Athens Services\nInitial Recording of Securities\nForced Sales\nParticipants\nPricing & Fees (Resolution 18)\nAGC Questionnaire",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/become-a-participant",
+      "title": "Join Euronext Securities Athens",
+      "context": "Join Euronext Securities Athens Euronext Securities Athens Services Initial Recording of Securities Forced Sales Participants Pricing & Fees (Resolution 18) AGC Questionnaire"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services",
+      "title": "Euronext Securities Athens Services",
+      "context": "Join Euronext Securities Athens Euronext Securities Athens Services Initial Recording of Securities Forced Sales Participants Pricing & Fees (Resolution 18) AGC Questionnaire"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities/listed-issuers",
+      "title": "Initial Recording of Securities",
+      "context": "Join Euronext Securities Athens Euronext Securities Athens Services Initial Recording of Securities Forced Sales Participants Pricing & Fees (Resolution 18) AGC Questionnaire"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/forced-sales",
+      "title": "Forced Sales",
+      "context": "Join Euronext Securities Athens Euronext Securities Athens Services Initial Recording of Securities Forced Sales Participants Pricing & Fees (Resolution 18) AGC Questionnaire"
+    },
+    {
+      "url": "https://athens.euronext.com/en/trade/trading-members/table?field_categories_target_id=3&title=",
+      "title": "Participants",
+      "context": "Join Euronext Securities Athens Euronext Securities Athens Services Initial Recording of Securities Forced Sales Participants Pricing & Fees (Resolution 18) AGC Questionnaire"
+    },
+    {
+      "url": "https://athens.euronext.com/en/about/regulatory/group/athexcsd",
+      "title": "Pricing & Fees (Resolution 18)",
+      "context": "Join Euronext Securities Athens Euronext Securities Athens Services Initial Recording of Securities Forced Sales Participants Pricing & Fees (Resolution 18) AGC Questionnaire"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/due-diligence-information",
+      "title": "AGC Questionnaire",
+      "context": "Join Euronext Securities Athens Euronext Securities Athens Services Initial Recording of Securities Forced Sales Participants Pricing & Fees (Resolution 18) AGC Questionnaire"
+    }
+  ],
+  "local_html": "sources/pages/3eccda174228.html",
+  "sha256": "bdc7b2f6f6877cbd63b810e7d7876afc61b3a2f220d32a808582af770dad9803"
+}

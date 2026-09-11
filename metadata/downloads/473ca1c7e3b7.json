@@ -1,0 +1,33 @@
+{
+  "id": "473ca1c7e3b7",
+  "url": "https://www.esma.europa.eu/sites/default/files/2024-01/ESMA74-2119945925-1568_CSDR_report_on_cross-border_services.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2024-01/ESMA74-2119945925-1568_CSDR_report_on_cross-border_services.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 31 Jan 2024 12:56:37 GMT",
+  "local_path": "sources/documents/473ca1c7e3b7-January-2024.pdf",
+  "sha256": "717cc2523d2952b16d0a220e28a2380251bc4abf90b7b2490433ea0d5340988a",
+  "bytes": 2031536,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 84,
+  "text_path": "extracted/473ca1c7e3b7.md",
+  "text_characters": 193713,
+  "low_text_pages": [
+    49
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ESMA74-2119945925-1568 Report on Provision of cross-border services by CSDs and handling of applications under Article 23 of CSDR from 2020 to 2022",
+    "author": "ESMA",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft Word",
+    "producer": "",
+    "creationDate": "D:20240131044750-08'00'",
+    "modDate": "D:20240131135332+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

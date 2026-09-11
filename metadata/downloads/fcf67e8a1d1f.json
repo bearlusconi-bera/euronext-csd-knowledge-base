@@ -1,0 +1,31 @@
+{
+  "id": "fcf67e8a1d1f",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4237%20-%20P_F041%20PoA%20for%20tax%20reclaim%20process%20follow%20up%20%28Appendix%2013%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4237%20-%20P_F041%20PoA%20for%20tax%20reclaim%20process%20follow%20up%20%28Appendix%2013%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/fcf67e8a1d1f-P-F041-PoA-for-tax-reclaim-process-follow-up-Appendix-13.pdf",
+  "sha256": "1c26fd8bc02dcea85b5ef11b24032944424b08201d5edcb98d531bfa65f4bb19",
+  "bytes": 71412,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/fcf67e8a1d1f.md",
+  "text_characters": 6042,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Portugal - P_F041 - Power of attorney for tax reclaim processing follow-up",
+    "author": "malika",
+    "subject": "P_F041",
+    "keywords": "",
+    "creator": "Adobe InDesign CS5 (7.0)",
+    "producer": "Acrobat Distiller 9.0.0 (Macintosh)",
+    "creationDate": "D:20120717141136+02'00'",
+    "modDate": "D:20180614123752+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

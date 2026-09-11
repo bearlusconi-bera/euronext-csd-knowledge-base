@@ -1,0 +1,6 @@
+{
+  "id": "afb2acf61501",
+  "url": "https://www.euronext.com/sites/default/files/2026-03/Euronext%20Securities%20-%20Place%20of%20Settlement%20change%20guidelines%20-%20V.3%20March%202026.pdf",
+  "retrieved_at": "2026-09-11",
+  "error": "HTTPSConnectionPool(host='www.euronext.com', port=443): Read timed out. (read timeout=50)"
+}

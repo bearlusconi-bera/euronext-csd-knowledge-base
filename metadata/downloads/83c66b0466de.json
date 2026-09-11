@@ -1,0 +1,31 @@
+{
+  "id": "83c66b0466de",
+  "url": "https://www.euronext.com/sites/default/files/2025-12/2026%20calendar.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-12/2026%20calendar.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 09 Dec 2025 13:57:22 GMT",
+  "local_path": "sources/documents/83c66b0466de-FTT-Calendar-2026.pdf",
+  "sha256": "6e039bb01976972739b5f089058a4bd4659169a9caa7e2f4fa657ec2708b8b15",
+  "bytes": 348421,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/83c66b0466de.md",
+  "text_characters": 1064,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 2026 Calendar",
+    "author": "Ivana Marra",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20251204185710+01'00'",
+    "modDate": "D:20251204185710+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

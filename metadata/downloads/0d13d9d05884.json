@@ -1,0 +1,33 @@
+{
+  "id": "0d13d9d05884",
+  "url": "https://www.esma.europa.eu/sites/default/files/2024-01/2024-01-23_DORA_public_hearing.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2024-01/2024-01-23_DORA_public_hearing.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 24 Jan 2024 18:07:44 GMT",
+  "local_path": "sources/documents/0d13d9d05884-Second-joint-ESAs-public-hearing-on-DORA-policy-products-23-January-2024.pdf",
+  "sha256": "cbfcbeb91078e2fb1dd2c8a844b58be6c1f9d280759a4926506984ab184f9b63",
+  "bytes": 1111853,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 61,
+  "text_path": "extracted/0d13d9d05884.md",
+  "text_characters": 75817,
+  "low_text_pages": [
+    60
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Joint ESAs public hearing on the second batch of DORA policy products",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® PowerPoint® for Microsoft 365",
+    "producer": "Microsoft® PowerPoint® for Microsoft 365",
+    "creationDate": "D:20240123183149+01'00'",
+    "modDate": "D:20240124190713+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

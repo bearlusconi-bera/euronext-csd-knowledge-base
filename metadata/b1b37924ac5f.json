@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/csd/about/governance",
+  "retrieved_at": "2026-09-11",
+  "id": "b1b37924ac5f",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/about/governance",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:59:22 GMT",
+  "title": "Governance",
+  "text": "Governance\nEuronext Securities is one brand, but is it not one CSD. We preserve our local presence, licences and relationships with regulators and central banks. As such we will continue to cater to customers’ specific needs in the local market.\nEuronext Securities leadership team\nPierre Davoust\nHead of Euronext Securities\nNiels Hjort Rotendahl\nCEO of Euronext Securities Copenhagen\nKristine Bastøe\nCEO of Euronext Securities Oslo\nOlga Jordão\nCEO of Euronext Securities Milan & Porto\nYianos Kontopoulos\nCEO - Athens Exchange Group\nLegal entities\nThe CSDs in Athens, Copenhagen, Milan, Oslo and Porto operate under their local entities.\nEuronext Securities Copenhagen\nEuronext Securities Copenhagen is the commercial name of VP Securities A/S.\nEuronext Securities Milan\nEuronext Securities Milan is the commercial name of Monte Titoli S.p.A\nEuronext Securities Oslo\nEuronext Securities Oslo is the commercial name of Verdipapirsentralen ASA.\nEuronext Securities Porto\nEuronext Securities Porto is the commercial name of Interbolsa S.A.\nEuronext Securities Athens\nEuronext Securities Athens (formerly AthexCSD) is the commercial name of Hellenic Central Securities Depository S.A.\nIn line with local regulatory requirements each legal entity operates under a local license and is subject to local legislation.\nIn line with local governance requirements each CSD has it's own board, supervision and committees.\nLocal Corporate Governance\nLearn how each location is organised and meeting Corporate Governance standards:\nCopenhagen\nMilan\nOslo\nPorto\nAthens\nmedia\nWe value our customers\nAt Euronext Securities we do not only highly value our customers, we also appreciate their opinion and care for their interests. In line with CSDR requirements we have established User Committees for all of our CSDs to exchange information and gather input and feedback..\nWe consult our User Committees on key topics that impact our customers and business.\nThe User Committees provide independent advice to the Boards of our CSDs.",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance",
+      "title": "Copenhagen",
+      "context": "Local Corporate Governance Learn how each location is organised and meeting Corporate Governance standards: Copenhagen Milan Oslo Porto Athens"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/milan/about-us/governance",
+      "title": "Milan",
+      "context": "Local Corporate Governance Learn how each location is organised and meeting Corporate Governance standards: Copenhagen Milan Oslo Porto Athens"
+    },
+    {
+      "url": "https://www.euronext.com/post-trade/euronext-securities/oslo/about-us/corporate-governance",
+      "title": "Oslo",
+      "context": "Local Corporate Governance Learn how each location is organised and meeting Corporate Governance standards: Copenhagen Milan Oslo Porto Athens"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/porto/about-us",
+      "title": "Porto",
+      "context": "Local Corporate Governance Learn how each location is organised and meeting Corporate Governance standards: Copenhagen Milan Oslo Porto Athens"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/athens",
+      "title": "Athens",
+      "context": "Local Corporate Governance Learn how each location is organised and meeting Corporate Governance standards: Copenhagen Milan Oslo Porto Athens"
+    }
+  ],
+  "local_html": "sources/pages/b1b37924ac5f.html",
+  "sha256": "a9e3ba4980d7ac031631c6a37a7080df74533b8925303a73876cd86d0d95f9eb"
+}

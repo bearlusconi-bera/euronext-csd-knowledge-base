@@ -1,0 +1,40 @@
+{
+  "url": "https://www.euronext.com/en/post-trade/euronext-securities/products-services/tax-services",
+  "retrieved_at": "2026-09-11",
+  "id": "e247f2cb50d3",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/products-services/tax-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:08:55 GMT",
+  "title": "Tax Services",
+  "text": "Tax Services\nWhat we offer\nEuronext Securities offer a wide variety of tax services\nEuronext Securities delivers comprehensive tax reporting services designed to address the evolving needs of issuers, investors, and financial institutions. We understand that tax reporting can be time-consuming and costly due to the ever-evolving regulatory frameworks and new requirements set by local tax authorities. Our mission is to help you navigate these complexities efficiently and accurately.\nComprehensive tax solutions\nOur suite of tax services is crafted to ensure compliance, optimise tax efficiency, and provide clear, actionable guidance tailored to your specific needs.\nGreat accomplishments are within reach when you can spend your time doing what you’re good at. At Euronext Securities, we are good at tax. In fact, so good that major financial service providers in the Nordics are letting us handle their tax reporting.\nTo us, the recipe is simple. We started with a capable team, developed state of the art infrastructure, and implemented an API-strategy that integrates with our customer’s interfaces.\nThe outcome is a complete tax service offering that enables our customers to spend time on what they do best, while letting us handle their tax matters.\nCheck out our comprehensive selection of tax services and find what you need to excel.\nWithholding tax management\nManaging withholding taxes can be intricate, but with Euronext Securities, it becomes straightforward and efficient. We ensure the correct calculation of withholding taxes on dividends, interest, and other income streams based on existing local and international legislation. Our team ensures that these taxes are promptly remitted to the appropriate tax authorities, safeguarding your compliance with all relevant tax regulations.\nTax reclamation services\nOverpaid taxes can be a burden but reclaiming them shouldn’t be. Our tax reclamation services simplify this process by assisting with the preparation and submission of the necessary documentation. We proactively follow up with tax authorities to expedite the process and maximise your refunds. With Euronext Securities, you can reclaim what is rightfully yours with ease.\nTax reporting and documentation\nAccurate and comprehensive tax reporting is vital for compliance. We provide detailed tax reports tailored to your specific needs, encompassing income, capital gains, and other relevant data. Our services ensure that all reporting meets stringent regulatory standards, and we maintain secure records of all tax-related information to support your ongoing compliance efforts.\nAdvisory services\nExpert advice is essential for navigating the ever-changing landscape of tax regulations. Our advisory services help you stay on top of the relevant changes. We keep you informed of the latest regulatory changes and their implications, providing customised advice to address your specific challenges and opportunities.\nCross-border tax services\nIn today’s global market, cross-border tax issues are increasingly common. Euronext Securities provides comprehensive international tax compliance services, guiding you through the complexities of meeting your obligations across multiple jurisdictions. We assist in obtaining relief from double taxation through tax treaties and agreements, ensuring seamless compliance and coordination of tax services worldwide.\nWhy choose Euronext Securities?\nChoosing Euronext Securities means partnering with a team that brings deep expertise and a thorough understanding of tax regulations and industry practices. Our efficient and streamlined tax services save you time and resources, and our commitment to accuracy and client satisfaction ensures that you can rely on us for your tax-related needs.\nContact your local sales team to learn more about how we support Tax Services on our four locations.\nWant to learn more?\nContact us\nCopenhagen\nMilan\nOslo\nPorto",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/about/contacts",
+      "title": "Contact us",
+      "context": "Want to learn more? Contact us Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/copenhagen",
+      "title": "Copenhagen",
+      "context": "Want to learn more? Contact us Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/milan",
+      "title": "Milan",
+      "context": "Want to learn more? Contact us Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/oslo",
+      "title": "Oslo",
+      "context": "Want to learn more? Contact us Copenhagen Milan Oslo Porto"
+    },
+    {
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/porto",
+      "title": "Porto",
+      "context": "Want to learn more? Contact us Copenhagen Milan Oslo Porto"
+    }
+  ],
+  "local_html": "sources/pages/e247f2cb50d3.html",
+  "sha256": "67ae78132c9b26ecb478b0452edcadab5fdd74809db6f46a1cf2f2cf64cb6fe8"
+}

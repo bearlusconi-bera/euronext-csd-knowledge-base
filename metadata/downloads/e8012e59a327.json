@@ -1,0 +1,31 @@
+{
+  "id": "e8012e59a327",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4231%20-%20P_F037%20Mod%2022%20RFI%20%28Appendix%209%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4231%20-%20P_F037%20Mod%2022%20RFI%20%28Appendix%209%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:44 GMT",
+  "local_path": "sources/documents/e8012e59a327-P-F037-Mod-22-RFI-Appendix-9.pdf",
+  "sha256": "707442313e7c04ca23a7b9028565d8edaa5fc30edbb3b55d2073547c650b988d",
+  "bytes": 69898,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/e8012e59a327.md",
+  "text_characters": 356738,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Portugal - P_F037 - Tax relief form Mod. 22-RFI",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2",
+    "producer": "Acrobat Distiller 7.0 (Windows)",
+    "creationDate": "D:20071128104225+01'00'",
+    "modDate": "D:20080130130717+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

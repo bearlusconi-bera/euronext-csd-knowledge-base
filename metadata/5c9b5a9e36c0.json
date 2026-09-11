@@ -1,0 +1,35 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/issuers/issuance-services",
+  "retrieved_at": "2026-09-11",
+  "id": "5c9b5a9e36c0",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/issuers/issuance-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:57:56 GMT",
+  "title": "Issuance Services",
+  "text": "Issuance Services\nWe deliver end-to-end solutions for securities issuance and provide reliable safe-keeping along with an efficient platform for settlement and ownership tracking.\nOur comprehensive Corporate Actions processing for mandatory and voluntary events help issuers manage the entire life cycle of their securities from issuance to redemption. We provide Issuers with regulatory compliance support, including disclosure, reporting and tax-related obligations, assistance with collateral management across various asset classes, including equities, fixed income and derivatives and offer a full set of investor communication services to facilitate transparent and efficient information exchange between Issuers and investors, (proxy voting, meeting services and general investor communication)\nEnabling issuers to steer the complexities of the securities market:\nStandard Issuance Services\nMembership\nISIN admission*\nSecurities digitalisation in the centralised administration system (all assets such as Bonds, ABS, Equities, Certificates, etc)\nSupport for listing on Stock Exchanges\nFull set of notifications to issuers and investors in standard market format\nSwift message announcements to the Issuer's investor base (e.g.: buyback, Dutch auctions, early repayment, etc.)\nSRDII compliant support to General Meetings (from announcement to execution)\nShareholder Identification, FIS and RCC services\nDaily reporting and reconciliation\n*The necessary ISIN code for each security to be centralised must be preventively requested to the Italian Numbering Agency (Bank of Italy).\nValue-Added Solutions\nEuro-MTN Bond Issuance\nCommercial Papers\nYankee Bonds\nPik Notes\nMini-Bonds\nCovered Warrants & Certificates\nABS\nETFs\nIssuing Euro-MTNs and Eurobonds\nBPER Banca issues the first Euro-MTN in full dematerialised form in Italy\nMarco Biale, Head of Structured Finance for Bper Banca explains the decision to issue their first fixed-to-floating Senior Non-Preferred bond in Euronext Securities Milan and the success behind the operation.\nInterview\nContacts\nPierluigi\nDimonopoli\nHead of Sales Corporate Issuers\npdimonopoli@euronext.com\nSimone\nCanova\nSenior Client Relationship Manager\nscanova@euronext.com\nEuronext\nSecurities Milan\nSales & Relationship Management team\nMtsalesteam@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2022-12/ES-MIL_Eurobond-Whitepaper.pdf",
+      "title": "Euro-MTN Bond Issuance",
+      "context": "Euro-MTN Bond Issuance Commercial Papers Yankee Bonds Pik Notes Mini-Bonds Covered Warrants & Certificates ABS ETFs"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2022-10/Yankee%20Bond.pdf",
+      "title": "Yankee Bonds",
+      "context": "Euro-MTN Bond Issuance Commercial Papers Yankee Bonds Pik Notes Mini-Bonds Covered Warrants & Certificates ABS ETFs"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2022-10/PIK%20Notes.pdf",
+      "title": "Pik Notes",
+      "context": "Euro-MTN Bond Issuance Commercial Papers Yankee Bonds Pik Notes Mini-Bonds Covered Warrants & Certificates ABS ETFs"
+    },
+    {
+      "url": "https://www.euronext.com/en/news/bper-banca-success-for-first-euro-mtn-issued-full-dematerialised-form-italy",
+      "title": "Interview",
+      "context": "BPER Banca issues the first Euro-MTN in full dematerialised form in Italy Marco Biale, Head of Structured Finance for Bper Banca explains the decision to issue their first fixed-to-floating Senior Non-Preferred bond in Euronext Securities Milan and the success behind the operation. Interview"
+    }
+  ],
+  "local_html": "sources/pages/5c9b5a9e36c0.html",
+  "sha256": "3edf0fd1667a3f70c952934851a348250cec48d9f5bb3ded2380fe7016d2e595"
+}

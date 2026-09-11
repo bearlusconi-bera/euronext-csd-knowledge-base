@@ -1,0 +1,45 @@
+{
+  "url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities",
+  "retrieved_at": "2026-09-11",
+  "id": "933e66d19743",
+  "status": 200,
+  "final_url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Initial Recording of Securities | Euronext Athens",
+  "text": "EURONEXT SECURITIES ATHENS\nInitial Recording of Securities\nEuronext Securities Athens provides the Initial Recording of Securities service, in the form of dematerialization or immobilization: To Listed IssuersTo Non-Listed IssuersTo Exchange Traded Fund Managers\nServices per Category\nView more information about the Initial Recording of Securities service per category.\nFor Listed Issuers\nFor Non-Listed Issuers\nExchange Traded Fund Managers",
+  "links": [
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities/listed-issuers",
+      "title": "",
+      "context": "For Listed Issuers For Non-Listed Issuers Exchange Traded Fund Managers"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities/listed-issuers",
+      "title": "For Listed Issuers",
+      "context": "For Listed Issuers For Non-Listed Issuers Exchange Traded Fund Managers"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities/non-listed-issuers",
+      "title": "",
+      "context": "For Listed Issuers For Non-Listed Issuers Exchange Traded Fund Managers"
+    },
+    {
+      "url": "https://athens.euronext.com/en/post-trade/csd/services/initial-recording-of-securities/non-listed-issuers",
+      "title": "For Non-Listed Issuers",
+      "context": "For Listed Issuers For Non-Listed Issuers Exchange Traded Fund Managers"
+    },
+    {
+      "url": "https://athens.euronext.com/en/node/939013",
+      "title": "",
+      "context": "For Listed Issuers For Non-Listed Issuers Exchange Traded Fund Managers"
+    },
+    {
+      "url": "https://athens.euronext.com/en/node/939013",
+      "title": "Exchange Traded Fund Managers",
+      "context": "For Listed Issuers For Non-Listed Issuers Exchange Traded Fund Managers"
+    }
+  ],
+  "local_html": "sources/pages/933e66d19743.html",
+  "sha256": "571667aa732b7e88c9f71cddf16fa682c4234b6fecf491e39c601f121cab80d2"
+}

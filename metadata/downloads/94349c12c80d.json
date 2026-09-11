@@ -1,0 +1,31 @@
+{
+  "id": "94349c12c80d",
+  "url": "https://www.euronext.com/sites/default/files/2025-06/EE_Documentation_Service%20Description%20Document%20-%20Post%20Trade%20Confirmation%20System_20250613.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-06/EE_Documentation_Service%20Description%20Document%20-%20Post%20Trade%20Confirmation%20System_20250613.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 13 Jun 2025 11:10:51 GMT",
+  "local_path": "sources/documents/94349c12c80d-Post-Trade-Confirmation-System.pdf",
+  "sha256": "58bda713b529cd7daa91fdf125baa3b9e8a60e106d2a1df0409f6d6a77d3e09d",
+  "bytes": 433563,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 22,
+  "text_path": "extracted/94349c12c80d.md",
+  "text_characters": 43997,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "YG",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft Word",
+    "producer": "",
+    "creationDate": "D:20250613034724-07'00'",
+    "modDate": "D:20250613034724-07'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

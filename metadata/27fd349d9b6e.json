@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/total-issues-under-control",
+  "retrieved_at": "2026-09-11",
+  "id": "27fd349d9b6e",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/documentation/statistics/total-issues-under-control",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:32 GMT",
+  "title": "Total of Issues under Control",
+  "text": "Total of Issues under Control\nMonth\n- Any -JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember\nYear\n- Any -20132014201520162017201820192020202120222023202420252026\nAugust 2026By type of securities\nType\nNr. Of issues\nValue * (€)\nInf. Date\nShares\n428\n138,383,527,911\n31/08/2026\nBonds\n991\n299,489,128,149\n31/08/2026\nParticipation Bonds\n2\n79,103,038\n31/08/2026\nConvertible Securities\n2\n50,266,144\n31/08/2026\nWarrants\n615\n0\n31/08/2026\nCertificates\n118\n0\n31/08/2026\nCommercial Paper\n126\n2,245,390,342\n31/08/2026\nTreasury Bills\n6\n14,032,759,758\n31/08/2026\nParticipation Units\n1,118\n12,012,067,298\n31/08/2026\nBy securities form\nForm\nNr. Of issues\nValue * (€)\nInf. Date\nPhysical\n51\n743,523,295\n31/08/2026\nDematerialized\n3,355\n465,548,719,345\n31/08/2026\n(*)Note: The value of the debt issues is calculated based on the nominal value. Issues other than debt are valuated based on the most recent closing price for listed securities or on the nominal value for unlisted securities.For unlisted participation units the value is calculated based on the subscription price. Value is not calculated for warrants, certificates and other similar securities.",
+  "links": [],
+  "local_html": "sources/pages/27fd349d9b6e.html",
+  "sha256": "d567727fc3bab6a56bbc59d57b2dce3636628ecdf7b3ef0f0c304f1b9c224845"
+}

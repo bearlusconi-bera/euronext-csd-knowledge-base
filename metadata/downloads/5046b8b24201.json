@@ -1,0 +1,14 @@
+{
+  "id": "5046b8b24201",
+  "url": "https://www.euronext.com/sites/default/files/2022-03/4318_General%20Conditions%20Part%20II_Service%20Providers.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-03/4318_General%20Conditions%20Part%20II_Service%20Providers.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Fri, 31 Jan 2025 13:30:32 GMT",
+  "local_path": "sources/documents/5046b8b24201-General-Terms-part-II-Connection-for-Service-Providers-2022.docx",
+  "sha256": "62daf8ea28ac277a23826b2e15cc62d4e6ff5cc779f52dfe88ec1bf214ffd141",
+  "bytes": 64297,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

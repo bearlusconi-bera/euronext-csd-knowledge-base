@@ -1,0 +1,31 @@
+{
+  "id": "b000d6d4f726",
+  "url": "https://www.euronext.com/sites/default/files/2024-11/4208%20Tablemat%20EB_novembre%202024.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-11/4208%20Tablemat%20EB_novembre%202024.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:34:11 GMT",
+  "local_path": "sources/documents/b000d6d4f726-Euroclear-Bank-Tablemat-Quick-Market-Guide.pdf",
+  "sha256": "deb30786134770a167989174a1f4a23291f1c026b4f1cfb6751f70c6d9c1a85f",
+  "bytes": 583294,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/b000d6d4f726.md",
+  "text_characters": 8847,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4208 Tablemat EB_novembre 2024",
+    "author": "Stefania Bacca",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20241104120334+01'00'",
+    "modDate": "D:20241104120334+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

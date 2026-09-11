@@ -1,0 +1,31 @@
+{
+  "id": "aeee1321952a",
+  "url": "https://www.euronext.com/sites/default/files/2026-04/Charter%20of%20the%20User%20Comittee.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-04/Charter%20of%20the%20User%20Comittee.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 15 Apr 2026 07:53:11 GMT",
+  "local_path": "sources/documents/aeee1321952a-Charter-of-the-User-Committee.pdf",
+  "sha256": "b2775a9a46661cc2c64f0d319ad092a6c857057795d09c4ae60a57ca2391c555",
+  "bytes": 203014,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 9,
+  "text_path": "extracted/aeee1321952a.md",
+  "text_characters": 8467,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "Nikolaj Hesselholt Munck",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260414151333+02'00'",
+    "modDate": "D:20260414151333+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

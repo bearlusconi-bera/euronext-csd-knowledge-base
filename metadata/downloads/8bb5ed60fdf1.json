@@ -1,0 +1,40 @@
+{
+  "id": "8bb5ed60fdf1",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/ES%20-%20Appendix%208%20-%20peticion_de_reducion_france.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/ES%20-%20Appendix%208%20-%20peticion_de_reducion_france.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:35 GMT",
+  "local_path": "sources/documents/8bb5ed60fdf1-ES-Peticion-de-Reduccion-France-Appendix-8.pdf",
+  "sha256": "36683a8ae491f73bb31a03aef4a67c62ae6c7622ae778f68be5905751d4cf732",
+  "bytes": 538362,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/8bb5ed60fdf1.md",
+  "text_characters": 136,
+  "low_text_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.3",
+    "title": "Spain - E_F017 - Peticion de reduccion - France",
+    "author": "Tax Project Team",
+    "subject": "E_F017",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20080221083205+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  }
+}

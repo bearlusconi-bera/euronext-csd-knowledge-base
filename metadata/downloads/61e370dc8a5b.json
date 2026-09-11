@@ -1,0 +1,31 @@
+{
+  "id": "61e370dc8a5b",
+  "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_R2026.NOV_revised_20260731.en.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_R2026.NOV_revised_20260731.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 03 Aug 2026 11:54:49 GMT",
+  "local_path": "sources/documents/61e370dc8a5b-T2S-User-Handbook-R2026-NOV-UHB-Version-in-revision-marks.pdf",
+  "sha256": "fa66741fd2768811fe9e1c9495f17157a1c9cd72cba609f7b8e973b0e0a5711f",
+  "bytes": 22853769,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1129,
+  "text_path": "extracted/61e370dc8a5b.md",
+  "text_characters": 3481815,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "UHB R2026.NOV Version in revision marks",
+    "author": "European Central Bank",
+    "subject": "",
+    "keywords": "TargetServices - Scope Defining Documents  ",
+    "creator": "Scroll PDF Exporter / K15t GmbH",
+    "producer": "PDFreactor 12.4.0 (Licensee: K15t GmbH #3945)",
+    "creationDate": "D:20260728122435+02'00'",
+    "modDate": "D:20260803135408+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

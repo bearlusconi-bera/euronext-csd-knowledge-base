@@ -1,0 +1,35 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/issuance/shares-issuance",
+  "retrieved_at": "2026-09-11",
+  "id": "880045f5317c",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/issuance/shares-issuance",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 11:58:27 GMT",
+  "title": "Shares",
+  "text": "Shares\nExperience the efficient and reliable platform for secure settlement of trades.\nFacts\nReliable platform\nSecure settlement\nPart of TARGET2-Securities\nIf your company has electronic shares registered with us, you can benefit from our reliable platform that provides secure settlement of trades in DKK, SEK and EUR.\nMost share-issuing companies have investors all over the world. To make it easier for international investors to invest in the many different shares issued via Euronext Securities, we have been part of the pan-European settlement system, TARGET2-Securities (T2S), since the beginning.\nAnnual dividend payments to investors\nAnnual general meetings and the related dividend payments are the most important event for share-issuing companies. We offer an effective dividend solution which ensures that the right tax is withheld, but most importantly, that investors receive the correct dividend in DKK, SEK or EUR.\nSettlement in T2S\nLink\nDirect connection to the international securities market.\nRead more\nMeeting services\nLink\nBe compliant with regulations and meet investor expectations. VP Investor Services ensures that your AGM runs efficiently, from A to Z.\nRead more\nInitial public offer (IPO)\nLink\nLet VP assist you when you plan and prepare your initial public offering (IPO).\nRead more\nAssignment of ISIN\nLink\nVP Securities is the National Numbering Agency (NNA) for DK ISIN codes.\nRead more\nContacts\nThere are no results found.",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/settlement",
+      "title": "Read more",
+      "context": "Settlement in T2S Link Direct connection to the international securities market. Read more Meeting services Link Be compliant with regulations and meet investor expectations. VP Investor Services ensures that your AGM runs efficiently, from A to Z. Read more Initial public offer (IPO) Link Let VP assist you when you plan and prepare your initial public offering (IPO). Read more Assignment of ISIN Link VP Securities is the National Numbering Agency (NNA) for DK ISIN codes. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/meeting-services",
+      "title": "Read more",
+      "context": "Settlement in T2S Link Direct connection to the international securities market. Read more Meeting services Link Be compliant with regulations and meet investor expectations. VP Investor Services ensures that your AGM runs efficiently, from A to Z. Read more Initial public offer (IPO) Link Let VP assist you when you plan and prepare your initial public offering (IPO). Read more Assignment of ISIN Link VP Securities is the National Numbering Agency (NNA) for DK ISIN codes. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance/initial-public-offer-ipo",
+      "title": "Read more",
+      "context": "Settlement in T2S Link Direct connection to the international securities market. Read more Meeting services Link Be compliant with regulations and meet investor expectations. VP Investor Services ensures that your AGM runs efficiently, from A to Z. Read more Initial public offer (IPO) Link Let VP assist you when you plan and prepare your initial public offering (IPO). Read more Assignment of ISIN Link VP Securities is the National Numbering Agency (NNA) for DK ISIN codes. Read more"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance/assignment-isins",
+      "title": "Read more",
+      "context": "Settlement in T2S Link Direct connection to the international securities market. Read more Meeting services Link Be compliant with regulations and meet investor expectations. VP Investor Services ensures that your AGM runs efficiently, from A to Z. Read more Initial public offer (IPO) Link Let VP assist you when you plan and prepare your initial public offering (IPO). Read more Assignment of ISIN Link VP Securities is the National Numbering Agency (NNA) for DK ISIN codes. Read more"
+    }
+  ],
+  "local_html": "sources/pages/880045f5317c.html",
+  "sha256": "d7bae8a6760baa8a3b89e92cba5d03d555c33b6b24a8166ba925a9884775ebb8"
+}

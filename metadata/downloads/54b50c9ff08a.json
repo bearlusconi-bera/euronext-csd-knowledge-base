@@ -1,0 +1,14 @@
+{
+  "id": "54b50c9ff08a",
+  "url": "https://www.esma.europa.eu/sites/default/files/esma70-155-11763_csdr_relevant_currencies_indicators_template.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/esma70-155-11763_csdr_relevant_currencies_indicators_template.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Mon, 23 Jan 2023 13:32:31 GMT",
+  "local_path": "sources/documents/54b50c9ff08a-reporting-templates.xlsx",
+  "sha256": "b7ed2df4a7f4df10c9b469f9a06496691e63d30b7c05fe87f24bd331e3842dba",
+  "bytes": 71472,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "663c2c3567ed",
+  "url": "https://www.euronext.com/sites/default/files/2026-07/Spain%20-%20Fiscal%20operational%20guide%20-%20Updated%20June%202026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-07/Spain%20-%20Fiscal%20operational%20guide%20-%20Updated%20June%202026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 08 Jul 2026 08:59:00 GMT",
+  "local_path": "sources/documents/663c2c3567ed-Spain-Fiscal-operational-guide-Updated-June-2026.pdf",
+  "sha256": "d15cc40134ffeea280029650503822be6ef3b068fc0ad7f587beba785358b8dd",
+  "bytes": 289089,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 15,
+  "text_path": "extracted/663c2c3567ed.md",
+  "text_characters": 21220,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4404 - Spain - Fiscal operational guide (for PD = 18092017)",
+    "author": "Alice Monti",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260708105849+02'00'",
+    "modDate": "D:20260708105849+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

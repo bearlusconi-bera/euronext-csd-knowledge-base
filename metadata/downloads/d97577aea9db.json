@@ -1,0 +1,31 @@
+{
+  "id": "d97577aea9db",
+  "url": "https://www.euronext.com/sites/default/files/2025-05/ES-OSL%20Participants%20Default%20Procedure.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-05/ES-OSL%20Participants%20Default%20Procedure.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 16 May 2025 08:14:49 GMT",
+  "local_path": "sources/documents/d97577aea9db-Euronext-Securities-Participant-Default-Policy.pdf",
+  "sha256": "d6bbb0c9902bed022b852c37b32ac333a20e11cf09ba2aba3e9cf29bf424df0c",
+  "bytes": 403847,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 29,
+  "text_path": "extracted/d97577aea9db.md",
+  "text_characters": 42344,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Hannah Kang",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250516101432+02'00'",
+    "modDate": "D:20250516101432+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

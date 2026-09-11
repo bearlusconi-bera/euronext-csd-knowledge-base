@@ -1,0 +1,31 @@
+{
+  "id": "348aa567b872",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Communication_Files_with_Issuers_v3_6_EN.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_Communication_Files_with_Issuers_v3_6_EN.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 16 Apr 2026 15:46:19 GMT",
+  "local_path": "sources/documents/348aa567b872-here.pdf",
+  "sha256": "4af95a42973d966294ec1471f9dce28fab2f9591eab61b01b3d86c867ad2fb79",
+  "bytes": 1185963,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 72,
+  "text_path": "extracted/348aa567b872.md",
+  "text_characters": 216346,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ΣΥΣΤΗΜΑ ΑΥΛΩΝ ΤΙΤΛΩΝ",
+    "author": "g.thanasia",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ ΜΕ ΠΝΕΥΜΑΤΙΚΑ ΔΙΚΑΙΩΜΑΤΑ (PUBLIC IPRs)ΕΛΛΗΝΙΚΗ (GREEK)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260416184351+03'00'",
+    "modDate": "D:20260416184351+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/eurostat",
+  "retrieved_at": "2026-09-11",
+  "id": "6a1bb70a005c",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/eurostat",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:11 GMT",
+  "title": "Eurostat",
+  "text": "Eurostat\nJanuary\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nAugust\nSeptember\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n2026\n01-09-2026\nZIP\nEurostat_Definitivo_20260901.zip",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coefficienti_Eurostat/2026/09/Eurostat_Definitivo_20260901.zip",
+      "title": "Eurostat_Definitivo_20260901.zip",
+      "context": "01-09-2026 ZIP Eurostat_Definitivo_20260901.zip"
+    }
+  ],
+  "local_html": "sources/pages/6a1bb70a005c.html",
+  "sha256": "8b64aeee835f6653b46d0207204aba52d0a5fa4ac54bfda36f6570f8d0f97ed1"
+}

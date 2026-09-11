@@ -1,0 +1,31 @@
+{
+  "id": "65019a82c9ca",
+  "url": "https://www.euronext.com/sites/default/files/2021-07/Portfolio%20Transfer%20-%20Italian%20Market%20Practice%20_EN%20_May%202015%20_Amendment%202021%20_CLEAN2.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-07/Portfolio%20Transfer%20-%20Italian%20Market%20Practice%20_EN%20_May%202015%20_Amendment%202021%20_CLEAN2.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:02 GMT",
+  "local_path": "sources/documents/65019a82c9ca-Market-practice-per-Portfolio-Transfer.pdf",
+  "sha256": "b3fa8418084fa56fc2c90e30d05582ab93d8062523fd20388ab2c34cb3f9da67",
+  "bytes": 252319,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 17,
+  "text_path": "extracted/65019a82c9ca.md",
+  "text_characters": 27960,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Explanatory note on the mandate",
+    "author": "DEA",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210730095619+02'00'",
+    "modDate": "D:20210730095619+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

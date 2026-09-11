@@ -1,0 +1,14 @@
+{
+  "id": "b77ed0b36721",
+  "url": "https://www.euronext.com/sites/default/files/2026-03/euronext_securities_-_client_readiness_form_for_end-to-end_settlement_market_flow_v2_160326.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-03/euronext_securities_-_client_readiness_form_for_end-to-end_settlement_market_flow_v2_160326.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Tue, 17 Mar 2026 13:05:38 GMT",
+  "local_path": "sources/documents/b77ed0b36721-Client-readiness-form-for-end-to-end-settlement-market-flow-v3.xlsx",
+  "sha256": "7fe8ae1fe8f481cef8781260aa32f617e585986f9871f7fe1bc036b9771a9cc2",
+  "bytes": 22195,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "e80dc661985b",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/RG%2010%20SWIFT%20access%20specific%20purpose%20agents_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/RG%2010%20SWIFT%20access%20specific%20purpose%20agents_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:41 GMT",
+  "local_path": "sources/documents/e80dc661985b-Power-of-Attorney-Euroclear.pdf",
+  "sha256": "dcdb351552e9aa627391f1266282fd433b4b49b8bb50165c367ca8792acaf42e",
+  "bytes": 347114,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/e80dc661985b.md",
+  "text_characters": 11154,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2013",
+    "producer": "Microsoft® Word 2013",
+    "creationDate": "D:20191007124102+02'00'",
+    "modDate": "D:20200108102434+01'00'",
+    "trapped": "",
+    "encryption": "Standard V4 R4 128-bit AES"
+  }
+}

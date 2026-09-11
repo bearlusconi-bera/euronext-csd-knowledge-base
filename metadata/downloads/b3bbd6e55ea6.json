@@ -1,0 +1,33 @@
+{
+  "id": "b3bbd6e55ea6",
+  "url": "https://www.euronext.com/sites/default/files/2024-07/Format%20Specifications%20v%200.1_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-07/Format%20Specifications%20v%200.1_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:51 GMT",
+  "local_path": "sources/documents/b3bbd6e55ea6-Format-specifications.pdf",
+  "sha256": "67ce85881bcb5e30a1612ae94078fbcf4f58136467e279b8cc7075497fd79a1d",
+  "bytes": 723397,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 33,
+  "text_path": "extracted/b3bbd6e55ea6.md",
+  "text_characters": 109243,
+  "low_text_pages": [
+    33
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "2024_07_03_Documentation Divizend KaFE Interface_v3.2.0",
+    "author": "Andrea Polenta",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word per Microsoft 365",
+    "producer": "Microsoft® Word per Microsoft 365",
+    "creationDate": "D:20240710133948+02'00'",
+    "modDate": "D:20240710133948+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

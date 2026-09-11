@@ -1,0 +1,14 @@
+{
+  "id": "32eeeb002929",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/euronext_securities_-_client_test_set_for_corporate_actions_for_you_ca4u_v02.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/euronext_securities_-_client_test_set_for_corporate_actions_for_you_ca4u_v02.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Mon, 22 Jun 2026 12:39:26 GMT",
+  "local_path": "sources/documents/32eeeb002929-Client-test-set-for-corporate-actions-for-you-CA4U.xlsx",
+  "sha256": "6c4abba25bbefa0efea7d65247a51b11a8f5b4c298c15a1c97c9f265f22f8be3",
+  "bytes": 44722,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

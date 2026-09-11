@@ -1,0 +1,31 @@
+{
+  "id": "04d2e85a98bd",
+  "url": "https://www.euronext.com/sites/default/files/2026-08/Price%20List%20-%20Intermediaries%20-%20%28Effective%201%20September%202026%29_Track%20changes.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-08/Price%20List%20-%20Intermediaries%20-%20%28Effective%201%20September%202026%29_Track%20changes.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 12 Aug 2026 14:45:29 GMT",
+  "local_path": "sources/documents/04d2e85a98bd-Price-List-Intermediaries-Effective-1-September-2026-Track-changes.pdf",
+  "sha256": "daed1693a14902863622d4ed8d1a2c299429b9ab82e267ff17bb8fadc515c3ca",
+  "bytes": 654735,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 44,
+  "text_path": "extracted/04d2e85a98bd.md",
+  "text_characters": 67547,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Crea-ELM",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word per Microsoft 365",
+    "producer": "Microsoft® Word per Microsoft 365",
+    "creationDate": "D:20260812135803+02'00'",
+    "modDate": "D:20260812135803+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/intermediaries",
+  "retrieved_at": "2026-09-11",
+  "id": "cc95896dbd64",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/intermediaries",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:09:06 GMT",
+  "title": "Intermediaries",
+  "text": "Intermediaries\nThrough Euronext Securities Milan Intermediaries can access 96% of T2S financial instruments and 97% of T2S Euro transactions counter-value.\nOur offer includes a tailored structure of customer support. Relationship Managers guarantee Clients’ satisfaction from the initial commitment up to the regular performance of daily operational activities. The Onboarding Managers follow new Clients’ set up and migration activities, the Account Managers and the Executive Account Managers are dedicated to the daily support for all the operational issues and the Client Services team is available to cover any additional requests regarding issues other than operational (connectivity, invoicing, etc.).\nOur commitment is to expand our international footprint, combining the efficiency of the European settlement system with the competitiveness of our fiscal and asset servicing capabilities.\nThe following table shows services and available markets:\n¹Source ECSDA 2022 Data\nRelated Pages\nT2S Gateway\nOther Markets\nCross Market Documents\nStatistics & Operational…\nContacts\nGiovanni\nCostantini\nSenior Relationship Manager\ngcostantini@euronext.com\nDonia\nRouigueb\nHead of CSD Sales\ndrouigueb@euronext.com\nMarco\nSartorello\nSenior Sales & Relationship Manager\nmsartorello@euronext.com\nEuronext\nSecurities Milan\nSales & Relationship Management team\nMtsalesteam@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/t2s-gateway",
+      "title": "T2S Gateway",
+      "context": "Related Pages T2S Gateway Other Markets Cross Market Documents Statistics & Operational…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/other-markets",
+      "title": "Other Markets",
+      "context": "Related Pages T2S Gateway Other Markets Cross Market Documents Statistics & Operational…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/cross-market-documents",
+      "title": "Cross Market Documents",
+      "context": "Related Pages T2S Gateway Other Markets Cross Market Documents Statistics & Operational…"
+    },
+    {
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data",
+      "title": "Statistics & Operational…",
+      "context": "Related Pages T2S Gateway Other Markets Cross Market Documents Statistics & Operational…"
+    }
+  ],
+  "local_html": "sources/pages/cc95896dbd64.html",
+  "sha256": "b72e639a1a1a8884bf1d9d70d08b66ea58bdc007a6f28dc56da1a5b0ca362874"
+}

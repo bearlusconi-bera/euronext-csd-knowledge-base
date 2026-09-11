@@ -1,0 +1,31 @@
+{
+  "id": "987ae9441bb7",
+  "url": "https://www.euronext.com/sites/default/files/2024-06/Circular.2024.01.EN_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-06/Circular.2024.01.EN_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:42 GMT",
+  "local_path": "sources/documents/987ae9441bb7-INTERBOLSA-Circular-1-2024.pdf",
+  "sha256": "2760b59769e793fea03812b2d2f81b4d5190b934c12848e49e97fb3b8837b0b1",
+  "bytes": 148544,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 7,
+  "text_path": "extracted/987ae9441bb7.md",
+  "text_characters": 14348,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "Microsoft Word - IB Circular1 2024_ Dívida_EN__VF",
+    "author": "HLopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 24.0 (Windows)",
+    "creationDate": "D:20240404152815+01'00'",
+    "modDate": "D:20240404152815+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

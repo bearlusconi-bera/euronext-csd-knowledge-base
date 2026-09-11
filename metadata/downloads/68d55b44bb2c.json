@@ -1,0 +1,14 @@
+{
+  "id": "68d55b44bb2c",
+  "url": "https://www.euronext.com/sites/default/files/2025-11/sdd_settlement_october_2025_1.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-11/sdd_settlement_october_2025_1.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Thu, 06 Nov 2025 10:09:11 GMT",
+  "local_path": "sources/documents/68d55b44bb2c-Data-Mapping-Dictionary.xlsx",
+  "sha256": "701dac5db44ce013cd3ce5358489d8f875a75e121c9321eff3fb765775130696",
+  "bytes": 74832,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

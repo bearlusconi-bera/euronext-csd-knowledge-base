@@ -1,0 +1,31 @@
+{
+  "id": "bd071b948bf5",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/InstrucaoIB.2017.01.EN_%20%281%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/InstrucaoIB.2017.01.EN_%20%281%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:43 GMT",
+  "local_path": "sources/documents/bd071b948bf5-INTERBOLSA-Instruction-1-2017.pdf",
+  "sha256": "c800729b9916bd65d32f7b3bf585e65b91151e531381d71f7d141ceac6a7c9e6",
+  "bytes": 186189,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/bd071b948bf5.md",
+  "text_characters": 5727,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - 25092017_INSTRUCTION IB 1_2017.docx",
+    "author": "HTL",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20170925124008+01'00'",
+    "modDate": "D:20170925124008+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

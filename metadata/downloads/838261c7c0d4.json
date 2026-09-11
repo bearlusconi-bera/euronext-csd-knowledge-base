@@ -1,0 +1,31 @@
+{
+  "id": "838261c7c0d4",
+  "url": "https://www.euronext.com/sites/default/files/2025-01/2025-01-13%20-%20ES-OSL%20Registration%20Rules%20-%20back-up%20account%20operator%20-%20final.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-01/2025-01-13%20-%20ES-OSL%20Registration%20Rules%20-%20back-up%20account%20operator%20-%20final.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:34:21 GMT",
+  "local_path": "sources/documents/838261c7c0d4-ES-OSL-Registration-rules-in-force-4-February-2025-pdf.pdf",
+  "sha256": "d40d9a48ee322eea628ff369858ddcd856905774de7cd1259904cabc87946d58",
+  "bytes": 1260779,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 85,
+  "text_path": "extracted/838261c7c0d4.md",
+  "text_characters": 284319,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "Vigdis Diesen",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250121084135+01'00'",
+    "modDate": "D:20250121084135+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

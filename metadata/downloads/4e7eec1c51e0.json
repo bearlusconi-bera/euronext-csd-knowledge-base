@@ -1,0 +1,31 @@
+{
+  "id": "4e7eec1c51e0",
+  "url": "https://www.euronext.com/sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:14 GMT",
+  "local_path": "sources/documents/4e7eec1c51e0-INTERBOLSA-Regulation-2-2016.pdf",
+  "sha256": "720367177a69f72ba1934d50cdc3a80c1ed23c133ee9619a5e3311465c0dae91",
+  "bytes": 354958,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 42,
+  "text_path": "extracted/4e7eec1c51e0.md",
+  "text_characters": 106613,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Helena Teixeira Lopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 23 for Word",
+    "producer": "Adobe PDF Library 23.6.156",
+    "creationDate": "D:20231127000503Z",
+    "modDate": "D:20231127000522Z",
+    "trapped": "",
+    "encryption": null
+  }
+}

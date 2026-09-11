@@ -1,0 +1,31 @@
+{
+  "id": "767659609a7c",
+  "url": "https://www.euronext.com/sites/default/files/2025-06/EE_Documentation_Service%20Description%20Document%20-%20General%20Meetings%20and%20Voting%20Services_20250620.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-06/EE_Documentation_Service%20Description%20Document%20-%20General%20Meetings%20and%20Voting%20Services_20250620.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 20 Jun 2025 11:49:39 GMT",
+  "local_path": "sources/documents/767659609a7c-General-Meetings-and-Voting-Services.pdf",
+  "sha256": "b6258ee0c23dd0a8a4af3a517a33bb1e2f231ed1b15e6c036082a1d44ca6f8d1",
+  "bytes": 484512,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 36,
+  "text_path": "extracted/767659609a7c.md",
+  "text_characters": 60486,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Insert Document Title",
+    "author": "Runar Hunnålvatn Tøn",
+    "subject": "Insert document type or subject",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250620101442+02'00'",
+    "modDate": "D:20250620105200+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

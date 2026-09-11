@@ -1,0 +1,145 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/coupon-stripping",
+  "retrieved_at": "2026-09-11",
+  "id": "e0dc1a338df3",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/coupon-stripping",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "title": "Coupon Stripping",
+  "text": "Coupon Stripping\nTwo types of reports are available:\nReport A (general report), providing the Original Bond total balances for both the already stripped and the not yet stripped quantity, and a date-by-date Stripped Coupon balances\nReport B (specific report), providing a date-by-date list of all the coupon ISIN Codes for all the payment dates until the maturity date, and for each of the given Original Bond ISIN Codes\nReport Coupon stripping\nJanuary\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nAugust\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n2026\n31-08-2026\nZIP\nReports_MEF_20260831.zip\n24-08-2026\nZIP\nReports_MEF_20260824.zip\n17-08-2026\nZIP\nReports_MEF_20260817.zip\n10-08-2026\nZIP\nReports_MEF_20260810.zip\n03-08-2026\nZIP\nReports_MEF_20260803.zip\nStripping Plan\nDate\nTitle\n02/07/2026\nPiano Stripping IT0005706285\n16/06/2026\nPiano Stripping IT0005704868\n05/06/2026\nPiano Stripping IT0005707614\n27/04/2026\nPiano Stripping IT0005694630\n17/03/2026\nPiano Stripping IT0005689994\n03/02/2026\nPiano Stripping IT0005676504\n03/02/2026\nPiano Stripping IT0005647273\n09/12/2025\nPiano Stripping IT0005668238\n21/11/2025\nPiano Stripping IT0005654642\n20/11/2025\nPiano Stripping IT0005668220\n06/10/2025\nPiano Stripping IT0005648149\n28/08/2025\nPiano Stripping IT0005657348\n22/07/2025\nPiano stripping IT0005635583\n22/07/2025\nPiano stripping IT0005647265\n02/07/2025\nPiano Stripping IT0005637399\n03/03/2025\nPiano stripping IT0005631590\n30/10/2024\nPiano stripping IT0005611055\n25/10/2024\nPiano stripping IT0005611741\n30/08/2024\nPiano stripping IT0005607970\n16/07/2024\nPiano stripping IT0005595803\nContacts\nGiovanni\nCostantini\nSenior Relationship Manager\ngcostantini@euronext.com\nDonia\nRouigueb\nHead of CSD Sales\ndrouigueb@euronext.com\nMarco\nSartorello\nSenior Sales & Relationship Manager\nmsartorello@euronext.com\nEuronext\nSecurities Milan\nSales & Relationship Management team\nMtsalesteam@euronext.com\nContact Form\nYou must have JavaScript enabled to use this form.\nEnquiry type\n- Select -Settlement / CustodyAsset ServicingFiscal ServicesIssuer ServicesMembership / Client ServicesTechnology Services / ConnectivityMedia/PressOther\nFirst Name\nLast Name\nJob title (optional)\nEmail\nCompany (optional)\nTelephone\nAdditional info (optional)\nenxgdpr_fs\nI accept to be contacted by Euronext group at the email address entered for marketing purposes\nUpdates on Products and Services\nPromotional and commercial offers\nSurveys\nEvents\nPrivacy Statement.\nLeave this field blank",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coupon_Stripping/2026/08/Reports_MEF_20260831.zip",
+      "title": "Reports_MEF_20260831.zip",
+      "context": "31-08-2026 ZIP Reports_MEF_20260831.zip 24-08-2026 ZIP Reports_MEF_20260824.zip 17-08-2026 ZIP Reports_MEF_20260817.zip 10-08-2026 ZIP Reports_MEF_20260810.zip 03-08-2026 ZIP Reports_MEF_20260803.zip"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coupon_Stripping/2026/08/Reports_MEF_20260824.zip",
+      "title": "Reports_MEF_20260824.zip",
+      "context": "31-08-2026 ZIP Reports_MEF_20260831.zip 24-08-2026 ZIP Reports_MEF_20260824.zip 17-08-2026 ZIP Reports_MEF_20260817.zip 10-08-2026 ZIP Reports_MEF_20260810.zip 03-08-2026 ZIP Reports_MEF_20260803.zip"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coupon_Stripping/2026/08/Reports_MEF_20260817.zip",
+      "title": "Reports_MEF_20260817.zip",
+      "context": "31-08-2026 ZIP Reports_MEF_20260831.zip 24-08-2026 ZIP Reports_MEF_20260824.zip 17-08-2026 ZIP Reports_MEF_20260817.zip 10-08-2026 ZIP Reports_MEF_20260810.zip 03-08-2026 ZIP Reports_MEF_20260803.zip"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coupon_Stripping/2026/08/Reports_MEF_20260810.zip",
+      "title": "Reports_MEF_20260810.zip",
+      "context": "31-08-2026 ZIP Reports_MEF_20260831.zip 24-08-2026 ZIP Reports_MEF_20260824.zip 17-08-2026 ZIP Reports_MEF_20260817.zip 10-08-2026 ZIP Reports_MEF_20260810.zip 03-08-2026 ZIP Reports_MEF_20260803.zip"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coupon_Stripping/2026/08/Reports_MEF_20260803.zip",
+      "title": "Reports_MEF_20260803.zip",
+      "context": "31-08-2026 ZIP Reports_MEF_20260831.zip 24-08-2026 ZIP Reports_MEF_20260824.zip 17-08-2026 ZIP Reports_MEF_20260817.zip 10-08-2026 ZIP Reports_MEF_20260810.zip 03-08-2026 ZIP Reports_MEF_20260803.zip"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005706285.txt",
+      "title": "Piano Stripping IT0005706285",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005704868.TXT",
+      "title": "Piano Stripping IT0005704868",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005707614.TXT",
+      "title": "Piano Stripping IT0005707614",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005694630.TXT",
+      "title": "Piano Stripping IT0005694630",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005689994.txt",
+      "title": "Piano Stripping IT0005689994",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005676504.txt",
+      "title": "Piano Stripping IT0005676504",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005647273.TXT",
+      "title": "Piano Stripping IT0005647273",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/PIANO%20STRIPPING%20IT0005668238.TXT",
+      "title": "Piano Stripping IT0005668238",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/PIANO%20STRIPPING%20IT0005654642.TXT",
+      "title": "Piano Stripping IT0005654642",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/PIANO%20STRIPPING%20IT0005668220.TXT",
+      "title": "Piano Stripping IT0005668220",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/Piano%20Stripping%20IT0005648149.pdf",
+      "title": "Piano Stripping IT0005648149",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005657348.pdf",
+      "title": "Piano Stripping IT0005657348",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005635583.pdf",
+      "title": "Piano stripping IT0005635583",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/MEF_PIANO_STRIPPING_TDS_IT0005647265.pdf",
+      "title": "Piano stripping IT0005647265",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/IT0005637399.pdf",
+      "title": "Piano Stripping IT0005637399",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/IT0005631590.pdf",
+      "title": "Piano stripping IT0005631590",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/IT0005611055.pdf",
+      "title": "Piano stripping IT0005611055",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/IT0005611741.pdf",
+      "title": "Piano stripping IT0005611741",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/IT0005607970.pdf",
+      "title": "Piano stripping IT0005607970",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/piano-stripping/IT0005595803_0.pdf",
+      "title": "Piano stripping IT0005595803",
+      "context": "Date Title 02/07/2026 Piano Stripping IT0005706285 16/06/2026 Piano Stripping IT0005704868 05/06/2026 Piano Stripping IT0005707614 27/04/2026 Piano Stripping IT0005694630 17/03/2026 Piano Stripping IT0005689994 03/02/2026 Piano Stripping IT0005676504 03/02/2026 Piano Stripping IT0005647273 09/12/2025 Piano Stripping IT0005668238 21/11/2025 Piano Stripping IT0005654642 20/11/2025 Piano Stripping IT0005668220 06/10/2025 Piano Stripping IT0005648149 28/08/2025 Piano Stripping IT0005657348 22/07/2025 Piano stripping IT0005635583 22/07/2025 Piano stripping IT0005647265 02/07/2025 Piano Stripping IT0005637399 03/03/2025 Piano stripping IT0005631590 30/10/2024 Piano stripping IT0005611055 25/10/2024 Piano stripping IT0005611741 30/08/2024 Piano stripping IT0005607970 16/07/2024 Piano stripping IT0005595803"
+    },
+    {
+      "url": "https://www.euronext.com/en/privacy-statement",
+      "title": "Privacy Statement.",
+      "context": "You must have JavaScript enabled to use this form. Enquiry type - Select -Settlement / CustodyAsset ServicingFiscal ServicesIssuer ServicesMembership / Client ServicesTechnology Services / ConnectivityMedia/PressOther First Name Last Name Job title (optional) Email Company (optional) Telephone Additional info (optional) enxgdpr_fs I accept to be contacted by Euronext group at the email address entered for marketing purposes Updates on Products and Services Promotional and commercial offers Surveys Events Privacy Statement. Leave this field blank"
+    }
+  ],
+  "local_html": "sources/pages/e0dc1a338df3.html",
+  "sha256": "27662b6207cf88f39ae835b502f553a901a02b60e60a818f0cf9669ca4c28380"
+}

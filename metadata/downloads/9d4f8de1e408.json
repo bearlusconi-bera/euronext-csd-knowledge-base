@@ -1,0 +1,31 @@
+{
+  "id": "9d4f8de1e408",
+  "url": "https://www.euronext.com/en/media/4357/download",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/4357/download",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:32 GMT",
+  "local_path": "sources/documents/9d4f8de1e408-BIC-Code-request-to-SWIFT.pdf",
+  "sha256": "d086f340f7c4015c55bc89b998b75497eb3f3fb2f1419f5d074e10584337d29e",
+  "bytes": 72077,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/9d4f8de1e408.md",
+  "text_characters": 1654,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Chemi, Viola",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20220308154014+01'00'",
+    "modDate": "D:20220308154014+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

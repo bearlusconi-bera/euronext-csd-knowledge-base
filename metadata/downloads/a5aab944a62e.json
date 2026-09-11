@@ -1,0 +1,31 @@
+{
+  "id": "a5aab944a62e",
+  "url": "https://www.euronext.com/sites/default/files/2025-05/SWIFT%2020022%20messages%20Issuer%20Agent_Paying%20Agent%20Corporate%20Actions_P2.pdf?VersionId=Tp0043qrfsXI2CvrCB1mF25kvWEGyiLF",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-05/SWIFT%2020022%20messages%20Issuer%20Agent_Paying%20Agent%20Corporate%20Actions_P2.pdf?VersionId=Tp0043qrfsXI2CvrCB1mF25kvWEGyiLF",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 29 May 2025 14:07:56 GMT",
+  "local_path": "sources/documents/a5aab944a62e-SWIFT-20022-messages-Issuer-Agent-Paying-Agent-Corporate-Actions.pdf",
+  "sha256": "fb162fd533fa4a3d790ced19f1fc74f2d94cf4b7701b32a0b916619ed681ed72",
+  "bytes": 627829,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 7,
+  "text_path": "extracted/a5aab944a62e.md",
+  "text_characters": 7619,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Davide Ren",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 25 for Word",
+    "producer": "Adobe PDF Library 25.1.250",
+    "creationDate": "D:20250502160121+02'00'",
+    "modDate": "D:20250505092144+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/other-account-movements",
+  "retrieved_at": "2026-09-11",
+  "id": "fb1016a68997",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/documentation/statistics/other-account-movements",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:33 GMT",
+  "title": "Other Account Movements",
+  "text": "Other Account Movements\nMonth\n- Any -JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember\nYear\n- Any -20132014201520162017201820192020202120222023202420252026\nAugust 2026\nType\nNr. Of Movements\nInf. Date\nDeposits\n0\n31/08/2026\nWithdrawals\n1\n31/08/2026\nInternal transfers\n8,384\n31/08/2026\nPlease Note: “Internal Transfers” refers only to movements of values in the same participant accounts via local systems. As of April 2016 Deposits/ Withdrawals movements do not include Global Notes.",
+  "links": [],
+  "local_html": "sources/pages/fb1016a68997.html",
+  "sha256": "779eb88d71f89d86e22b42b94407904c73cc6b01a70682ad0d4c17390c415ad8"
+}

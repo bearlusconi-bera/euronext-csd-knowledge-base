@@ -1,0 +1,31 @@
+{
+  "id": "daee3c010a06",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_G502_12042024_Guidelines_for_required_documents_needed_for_providing_information_regarding_the_deceased_portfolio.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_G502_12042024_Guidelines_for_required_documents_needed_for_providing_information_regarding_the_deceased_portfolio.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 16 Apr 2026 16:24:03 GMT",
+  "local_path": "sources/documents/daee3c010a06-G502.pdf",
+  "sha256": "6907bb5166a4706eef217027d1d4ac44517ddfad05c44c612a6f68444c9b7ecc",
+  "bytes": 135372,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 4,
+  "text_path": "extracted/daee3c010a06.md",
+  "text_characters": 8308,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Kapourani, Gianitsa",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ ΜΕ ΠΝΕΥΜΑΤΙΚΑ ΔΙΚΑΙΩΜΑΤΑ (PUBLIC IPRs)ΑΓΓΛΙΚΗ (ENGLISH)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260416163035+03'00'",
+    "modDate": "D:20260416163035+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

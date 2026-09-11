@@ -1,0 +1,35 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/services/centralised-systems/issues-registration-control-and-cancellation",
+  "retrieved_at": "2026-09-11",
+  "id": "3fe0dc90c23a",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/services/centralised-systems/issues-registration-control-and-cancellation",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:29 GMT",
+  "title": "Issues: Registration, Control and Cancellation",
+  "text": "Issues: Registration, Control and Cancellation\nThe Registration, Control and Cancellation of Securities is a service provided to the Issuers.\nHow to register Securities\nThis is the process for requesting registration of securities:\n(This does not dispense with consulting INTERBOLSA Regulation no. 2/2016 - General operating rules for centralized securities systems and settlement systems managed by INTERBOLSA).\nDocuments required\nFull identification of the Issuer, including the LEI code (Legal Entity Identifier);\nUpdated copy of the by-laws or the organic law of the Issuer;\nCommercial registration certificate\nDepending on the type of securities you will need to provide:\nCertified copy of the minutes containing the decision to approve the issuance, if applicable;\nInformative Note\nProspectus\nTerm sheet\nManagement Regulation\nInformation on the amount of securities issued, respective nominal value, form of representation (certificate/book-entry), potential special rights and obligations or privileges of the respective security category;\nIn the case of securities represented in certificate form, copy of each title specimen and distribution of the specimens by numbering\nIdentification of the securities to be credited in the Financial Intermediaries' accounts opened in Euronext Securities Porto\nEuronext Securities Porto analyzes the documents sent in order to assign the following codes:\nCVM (local code, of the CSD)\nISIN, CFI, FISN codes, according to ANNA guidelines and ISO standards\nSecurities successfully credited in the Financial Intermediaries' account in Euronext Securities Porto\nSecurities Control\nFor securities registered in the Centralised Systems, Euronext Securities Porto ensures that the amount recorded in the Issue Control Account always corresponds to the total sum of the amounts/units recorded in the securities accounts of Financial Intermediary Participants managed by Euronext Securities Porto.\nCancellation / Withdrawal of Securities\nThe issuer of securities registered with Euronext Securities Porto may request the cancellation of a securities issue, provided that the securities are not admitted to trading on a regulated market. For book-entry securities, cancellation can only be effected by transferring the securities to another registry system.In such cases, the cancellation must be coordinated with the corresponding operation in the new registry system chosen by the issuer. Euronext Securities Porto may undertake certain procedures to regularise the necessary records in the future registry system.\nThe cancellation of the registration is done by debiting the securities from the financial intermediaries’ accounts. For securities in certificate form, the process involves the delivery of the respective certificates.\nSupport Documentation\nPDF\nINTERBOLSA Regulation 2/2016\nEnglish\nVersion\n/sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf\nINTERBOLSA Regulation 2/2016\nEnglish\nniamh.smith@de…\n26/04/2022\nPDF\nManual Operativo da INTERBOLSA\nPortuguese\nVersion\n/sites/default/files/2024-05/Manual%20Operativo_V41_PT.pdf\nManual Operativo da INTERBOLSA\nPortuguese\nnmarsali@euron…\n11/07/2023\nLINKS:\nSecurities code\nCMVM Regulation 14/2000",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf",
+      "title": "INTERBOLSA Regulation 2/2016",
+      "context": "PDF INTERBOLSA Regulation 2/2016 English Version /sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf INTERBOLSA Regulation 2/2016 English niamh.smith@de… 26/04/2022 PDF Manual Operativo da INTERBOLSA Portuguese Version /sites/default/files/2024-05/Manual%20Operativo_V41_PT.pdf Manual Operativo da INTERBOLSA Portuguese nmarsali@euron… 11/07/2023"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2024-05/Manual%20Operativo_V41_PT.pdf",
+      "title": "Manual Operativo da INTERBOLSA",
+      "context": "PDF INTERBOLSA Regulation 2/2016 English Version /sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf INTERBOLSA Regulation 2/2016 English niamh.smith@de… 26/04/2022 PDF Manual Operativo da INTERBOLSA Portuguese Version /sites/default/files/2024-05/Manual%20Operativo_V41_PT.pdf Manual Operativo da INTERBOLSA Portuguese nmarsali@euron… 11/07/2023"
+    },
+    {
+      "url": "https://www.euronext.com/en/node/1932734",
+      "title": "Securities code",
+      "context": "LINKS: Securities code CMVM Regulation 14/2000"
+    },
+    {
+      "url": "https://www.cmvm.pt/PInstitucional/Content?Input=AA24B9C38DE18959B37CEB6A348BC11F4D9B2E552618EE319D682A0121994DA8",
+      "title": "CMVM Regulation 14/2000",
+      "context": "LINKS: Securities code CMVM Regulation 14/2000"
+    }
+  ],
+  "local_html": "sources/pages/3fe0dc90c23a.html",
+  "sha256": "6140926bfedda07ac5a38a28141eb6c7efa83ecd871fffb19f1f2904a6a66641"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "826857d812ea",
+  "url": "https://www.euronext.com/sites/default/files/2025-11/FAQ%20ESM%202025.11.20.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-11/FAQ%20ESM%202025.11.20.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Wed, 26 Nov 2025 11:49:19 GMT",
+  "local_path": "sources/documents/826857d812ea-FAQ-xlsx.xlsx",
+  "sha256": "0e3b634b57c75309cdf4e381c12731e043340c65e40e23f9cee6f0360e0f9b5c",
+  "bytes": 41652,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

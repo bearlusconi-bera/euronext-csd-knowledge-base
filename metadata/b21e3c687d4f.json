@@ -1,0 +1,25 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/about-us/corporate-governance/user-committee",
+  "retrieved_at": "2026-09-11",
+  "id": "b21e3c687d4f",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/about-us/corporate-governance/user-committee",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:26 GMT",
+  "title": "User Committee in Euronext Securities Oslo",
+  "text": "User Committee in Euronext Securities Oslo\nUser Committee\nPDF\nUser Committee - Mandate\nEnglish\nVersion\nEnglish\n02/04/2024\nUser Committee - Mandate\n/sites/default/files/2024-04/2024-02-22%20User%20Committee%20-%20Euronext%20Securities%20Oslo%20-%20updated%20version%20of%20mandate%20for%20BoD%20approval%205%20March%202024.pdf\nUser Committee Introduction\nPDF\nUser Committee - Introduction\nEnglish\nVersion\nEnglish\n02/04/2024\nUser Committee - Introduction\n/sites/default/files/2026-06/2026-06-01%20Composition%20of%20ES-OSL%20User%20Committee%202026.pdf",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2024-04/2024-02-22%20User%20Committee%20-%20Euronext%20Securities%20Oslo%20-%20updated%20version%20of%20mandate%20for%20BoD%20approval%205%20March%202024.pdf",
+      "title": "User Committee - Mandate",
+      "context": "PDF User Committee - Mandate English Version English 02/04/2024 User Committee - Mandate /sites/default/files/2024-04/2024-02-22%20User%20Committee%20-%20Euronext%20Securities%20Oslo%20-%20updated%20version%20of%20mandate%20for%20BoD%20approval%205%20March%202024.pdf"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2026-06/2026-06-01%20Composition%20of%20ES-OSL%20User%20Committee%202026.pdf",
+      "title": "User Committee - Introduction",
+      "context": "PDF User Committee - Introduction English Version English 02/04/2024 User Committee - Introduction /sites/default/files/2026-06/2026-06-01%20Composition%20of%20ES-OSL%20User%20Committee%202026.pdf"
+    }
+  ],
+  "local_html": "sources/pages/b21e3c687d4f.html",
+  "sha256": "986d21be6aad2d2795166147fbdba8fba267a47ba4ed9b5e552d88d4b16e8664"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "72ea67dda551",
+  "url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coefficienti_Francia/2026/09/Inflazione_Francese_20260901.zip",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/MONTE_TITOLI/Coefficienti_Francia/2026/09/Inflazione_Francese_20260901.zip",
+  "content_type": "binary/octet-stream",
+  "last_modified": "Tue, 18 Aug 2026 07:05:06 GMT",
+  "local_path": "sources/documents/72ea67dda551-Inflazione-Francese-20260901-zip.zip",
+  "sha256": "b177bc5f0edacc190da0bbe7da3321a8f1dd227bd18fdf6267fcd9ef811b1863",
+  "bytes": 119365,
+  "file_type": "zip",
+  "review_status": "archived-not-substantively-reviewed"
+}

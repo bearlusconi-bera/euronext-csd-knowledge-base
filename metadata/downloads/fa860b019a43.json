@@ -1,0 +1,31 @@
+{
+  "id": "fa860b019a43",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/notice.2021.0611.timetables.en_.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/notice.2021.0611.timetables.en_.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:34 GMT",
+  "local_path": "sources/documents/fa860b019a43-INTERBOLSA-Notice-0611-2021.pdf",
+  "sha256": "eed013c9f4bea4d4dc7b1c3786cb9d9dcce0c4b5e0025d4bad1132cb3153aa73",
+  "bytes": 190048,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/fa860b019a43.md",
+  "text_characters": 6771,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Helena Lopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210614154458+01'00'",
+    "modDate": "D:20210614154458+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

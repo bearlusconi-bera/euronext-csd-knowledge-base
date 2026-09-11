@@ -1,0 +1,14 @@
+{
+  "id": "53cea0a79d43",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP007_APPLICATION_FOR_PROVIDING_INFORMATION_20240412.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP007_APPLICATION_FOR_PROVIDING_INFORMATION_20240412.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Thu, 16 Apr 2026 08:24:27 GMT",
+  "local_path": "sources/documents/53cea0a79d43-here-APP007.docx",
+  "sha256": "7765c784fe09432fd8355b78b128d8375e4e251d38321a77660e5aad75eb3ef6",
+  "bytes": 92391,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "4d31da9c9a56",
+  "url": "https://www.esma.europa.eu/sites/default/files/2023-07/2023-07-13_DORA_public_hearing.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2023-07/2023-07-13_DORA_public_hearing.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 17 Jul 2023 08:36:47 GMT",
+  "local_path": "sources/documents/4d31da9c9a56-First-joint-ESAs-public-hearing-on-DORA-policy-products-13-July-2023.pdf",
+  "sha256": "7ce08c2328795cc8944087a6fd7ecc69276bebc41c378bfe84829dc2d5b9e9f3",
+  "bytes": 1425243,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 50,
+  "text_path": "extracted/4d31da9c9a56.md",
+  "text_characters": 78743,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® PowerPoint® for Microsoft 365",
+    "producer": "Microsoft® PowerPoint® for Microsoft 365",
+    "creationDate": "D:20230714102511+02'00'",
+    "modDate": "D:20230717103613+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

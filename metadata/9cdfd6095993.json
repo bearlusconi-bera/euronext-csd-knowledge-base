@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/opening-days",
+  "retrieved_at": "2026-09-11",
+  "id": "9cdfd6095993",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/opening-days",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:00 GMT",
+  "title": "Opening days",
+  "text": "Opening days\nBy joining T2S, all participating CSDs and markets are obliged to follow the harmonised settlement calendar. Thus, ES-CPH is open for settlement, depending on the currency and type of trade, in accordance with the schedule below.\nPDF\nES-CPH | Opening Days\nEnglish\nVersion\nEnglish\n22/10/2024\n/sites/default/files/2026-08/ES-CPH%20Opening%20Days.pdf\nES-CPH | Opening Days\nContacts\nClient Services\nOpening Hours:,\nWeekdays: 8:00 - 16:00 CE(S)T,\nWeekends: Closed,\nDanish Bank Holidays when T2S is closed for FOP: Closed,\nDanish Bank Holidays when T2S is open for FOP: 9:00 - 13:00 CET\n+45 4358 8800\nCPH-clientsupport@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2026-08/ES-CPH%20Opening%20Days.pdf",
+      "title": "ES-CPH | Opening Days",
+      "context": "PDF ES-CPH | Opening Days English Version English 22/10/2024 /sites/default/files/2026-08/ES-CPH%20Opening%20Days.pdf ES-CPH | Opening Days"
+    }
+  ],
+  "local_html": "sources/pages/9cdfd6095993.html",
+  "sha256": "defa0f6ae2590b98430092b7102cd7a62ddcbbb97a0bc35c2ade3f892441c95e"
+}

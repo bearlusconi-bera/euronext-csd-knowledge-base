@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/issuers/srl-dematerialisation",
+  "retrieved_at": "2026-09-11",
+  "id": "3f85586cea4c",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/issuers/srl-dematerialisation",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:17 GMT",
+  "title": "S.r.l. Dematerialisation",
+  "text": "S.r.l. Dematerialisation\nDematerialising ownership shares enables the transition from paper to digitial form, simplifying transactions between investors and improving the inflow of capital to non-listed companies.\nS.r.l. shares thus become akin to securities and shareholders will be able to deposit their shares alongside other securities in their bank's securities account, with the operations related to the management and exchange of shares between financial intermediaries centralised at Euronext Securities Milan.\nDownload SRL brochurE**only available in Italian\nEuronext Securities Milan manages the entire process, facilitating the ease of share circulation.\nBenefits\nThe dematerialisation of shares offers several advantages for both companies and investors, including:\nGreater security and transparency: Dematerialised shares are more easily traceable and verifiable, reducing the risks of loss, forgery, or dispute.\nReduced bureaucracy and costs: Dematerialised shares eliminate the need to keep and exchange paper documents, simplifying procedures and reducing the time and expenses associated with transactions.\nIncreased liquidity and accessibility: Dematerialised shares can be traded more easily and quickly, expanding market opportunities and investment for SMEs and their shareholders.\nImmediate access to company information and greater operational efficiency.\nContacts\nPierluigi\nDimonopoli\nHead of Sales Corporate Issuers\npdimonopoli@euronext.com\nSimone\nCanova\nSenior Client Relationship Manager\nscanova@euronext.com\nEuronext\nSecurities Milan\nSales & Relationship Management team\nMtsalesteam@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2024-08/ES-MIL_SRL_Ebook_110624%20Final.pdf",
+      "title": "Download SRL brochurE*",
+      "context": "Dematerialising ownership shares enables the transition from paper to digitial form, simplifying transactions between investors and improving the inflow of capital to non-listed companies. S.r.l. shares thus become akin to securities and shareholders will be able to deposit their shares alongside other securities in their bank's securities account, with the operations related to the management and exchange of shares between financial intermediaries centralised at Euronext Securities Milan. Download SRL brochurE**only available in Italian Euronext Securities Milan manages the entire process, facilitating the ease of share circulation."
+    }
+  ],
+  "local_html": "sources/pages/3f85586cea4c.html",
+  "sha256": "979cb4a99d2d3ce18cf40b7f149e34d70019be5cd7ea294cf5724a2005c531b8"
+}

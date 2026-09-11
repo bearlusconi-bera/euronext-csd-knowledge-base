@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/settlement/vps-clearing-and-settlement",
+  "retrieved_at": "2026-09-11",
+  "id": "b0c01395dd5b",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/settlement/vps-clearing-and-settlement",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:22 GMT",
+  "title": "VPS Clearing and Settlement",
+  "text": "VPS Clearing and Settlement\nVPS Clearing and Settlement is a service for investment firms and settlement agents that participate in the Norwegian central securities settlement\nThe service facilitates registration of transactions to be settled in the central securities settlement system. It is easy to make registrations and queries, and the user-friendly interface requires only a minimum of training for new user. The service is also a valuable tool for liquidity banks and asset managers.\nKey features\nRegistration of transactions\nTransfers between VPS-accounts\nCancellation of transactions and conditions\nEstablish and re-deliver bilateral securities loans\nAdministration of market claims (FLUB)\nRegistering base- and additional liquidity\nQuery functions\nInformation on all transactions registered on a VPS account together with details and conditions for individual transactions.\nList of pending transactions.\nInformation on current and future holdings, checking balances for sufficient cover, holdings at the last year-end and market claims (FLUB).\nDetails on all account holders, their individual accounts, rights and dividends from securities held on the account.\nInformation on current and historic mandates to view/operate accounts.\nContacts\nAnne\nEkeren Bjone\nHead of Nordic Settlement Operations\naebjone@euronext.com",
+  "links": [],
+  "local_html": "sources/pages/b0c01395dd5b.html",
+  "sha256": "6282e240e830dd320c7cf22237c327cdb299dee69292d09a4769681b3e657c58"
+}

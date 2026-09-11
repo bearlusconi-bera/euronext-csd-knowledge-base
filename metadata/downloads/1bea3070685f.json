@@ -1,0 +1,31 @@
+{
+  "id": "1bea3070685f",
+  "url": "https://www.euronext.com/sites/default/files/2022-04/4401%20-%20DE%20-%20DTAs%20Countries%20%28Appendix%20A%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-04/4401%20-%20DE%20-%20DTAs%20Countries%20%28Appendix%20A%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:40 GMT",
+  "local_path": "sources/documents/1bea3070685f-DE-DTAs-Countries-Appendix-A.pdf",
+  "sha256": "d453e795927cc93b292ab63bb0fce19b88a74b2bfdc5a3a3dba2a9dabc4f3b64",
+  "bytes": 426808,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 5,
+  "text_path": "extracted/1bea3070685f.md",
+  "text_characters": 8562,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4401 - DE - DTAs Countries (Appendix A)",
+    "author": "GArdizzon",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20220422162903+02'00'",
+    "modDate": "D:20220422162903+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

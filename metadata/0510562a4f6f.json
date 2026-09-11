@@ -1,0 +1,30 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/services/settlement-systems/non-euro-currency-settlement-system",
+  "retrieved_at": "2026-09-11",
+  "id": "0510562a4f6f",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/services/settlement-systems/non-euro-currency-settlement-system",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:30 GMT",
+  "title": "Non-euro Currency Settlement System",
+  "text": "Non-euro Currency Settlement System\nEuronext Securities Porto provides to its Financial Intermediaries and other similar Entities the Non-Euro Currency Settlement System (SLME) which uses a “Commercial Bank Money” Foreign Currency Payment System, operated by Caixa Geral de Depósitos S.A. (SPME), for the purpose of financial settlement.\nType of transactions settled through SLME\nPayment of income, interest and redemption;\nThe settlement of instructions registered in the Real Time Settlement System, (OTC “Non-cleareble” market instructions, among others).\nSettlement procedure\nThe settlement instructions in foreign currency, not eligible for T2S, are processed as follows:\nThe physical settlement is processed in T2S, conditioned to its financial settlement outside the T2S platform;\nThe payment instructions resulting from the settlement carried out by SLME are processed by the Foreign Currency Payment System (SPME), operated by Caixa Geral de Depósitos (CGD).\nAvailable Currencies and Matching Tolerance\nCurrency\nDesignation\nSettlement Amount\nTolerance Amount\nAUD\nAustralian Dollar\n<=170.000>170.000\n444\nCAD\nCanadian Dollar\n<=150.000>150.000\n340\nCHF\nSwiss Franc\n<=90.000>90.000\n223\nCNY\nChinese yuan renminbi*\n<=760.000>760.000\n16206\nGBP\nPound Sterling\n<=80.000>80.000\n222\nJPY\nJapanese Yen\n<=16.310.000>16.310.000\n3684.602\nNOK\nNorwegian krone\n<=1.180.000>1.180.000\n24296\nSEK\nSwedish krona\n<=1.150.000>1.150.000\n22271\nUSD\nUnited States Dollar\n<=100.000>100.000\n229\n*Chinese yuan renminbi offshore (CNH), but for technical reasons it is used CNY\nSupport Documentation\nPDF\nINTERBOLSA Regulation 2/2016\nEnglish\nVersion\n/sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf\nINTERBOLSA Regulation 2/2016\nEnglish\nniamh.smith@de…\n26/04/2022\nPDF\nINTERBOLSA Circular 4/2016\nEnglish\nVersion\n/sites/default/files/2023-07/circular.2016.04.en_.pdf\nINTERBOLSA Circular 4/2016\nEnglish\nnmarsali@euron…\n13/07/2023\nPDF\nManual Operativo da INTERBOLSA\nPortuguese\nVersion\n/sites/default/files/2024-05/Manual%20Operativo_V41_PT.pdf\nManual Operativo da INTERBOLSA\nPortuguese\nnmarsali@euron…\n11/07/2023",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf",
+      "title": "INTERBOLSA Regulation 2/2016",
+      "context": "PDF INTERBOLSA Regulation 2/2016 English Version /sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf INTERBOLSA Regulation 2/2016 English niamh.smith@de… 26/04/2022 PDF INTERBOLSA Circular 4/2016 English Version /sites/default/files/2023-07/circular.2016.04.en_.pdf INTERBOLSA Circular 4/2016 English nmarsali@euron… 13/07/2023 PDF Manual Operativo da INTERBOLSA Portuguese Version /sites/default/files/2024-05/Manual%20Operativo_V41_PT.pdf Manual Operativo da INTERBOLSA Portuguese nmarsali@euron… 11/07/2023"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2016.04.en_.pdf",
+      "title": "INTERBOLSA Circular 4/2016",
+      "context": "PDF INTERBOLSA Regulation 2/2016 English Version /sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf INTERBOLSA Regulation 2/2016 English niamh.smith@de… 26/04/2022 PDF INTERBOLSA Circular 4/2016 English Version /sites/default/files/2023-07/circular.2016.04.en_.pdf INTERBOLSA Circular 4/2016 English nmarsali@euron… 13/07/2023 PDF Manual Operativo da INTERBOLSA Portuguese Version /sites/default/files/2024-05/Manual%20Operativo_V41_PT.pdf Manual Operativo da INTERBOLSA Portuguese nmarsali@euron… 11/07/2023"
+    },
+    {
+      "url": "https://www.euronext.com/sites/default/files/2024-05/Manual%20Operativo_V41_PT.pdf",
+      "title": "Manual Operativo da INTERBOLSA",
+      "context": "PDF INTERBOLSA Regulation 2/2016 English Version /sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf INTERBOLSA Regulation 2/2016 English niamh.smith@de… 26/04/2022 PDF INTERBOLSA Circular 4/2016 English Version /sites/default/files/2023-07/circular.2016.04.en_.pdf INTERBOLSA Circular 4/2016 English nmarsali@euron… 13/07/2023 PDF Manual Operativo da INTERBOLSA Portuguese Version /sites/default/files/2024-05/Manual%20Operativo_V41_PT.pdf Manual Operativo da INTERBOLSA Portuguese nmarsali@euron… 11/07/2023"
+    }
+  ],
+  "local_html": "sources/pages/0510562a4f6f.html",
+  "sha256": "910bd9e05a580f11c0ca459b59f2a50106ef993fa617d689bbda0b5d358c6de2"
+}

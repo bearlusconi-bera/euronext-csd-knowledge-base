@@ -1,0 +1,14 @@
+{
+  "id": "817c405c6bb4",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP004_APPLICATION_FOR_CHANGING_DATA_OF_THE_BENEFICIARY_SHARE_AND_SECURITIES_ACCOUNT_20240412.docx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_APP004_APPLICATION_FOR_CHANGING_DATA_OF_THE_BENEFICIARY_SHARE_AND_SECURITIES_ACCOUNT_20240412.docx",
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "last_modified": "Thu, 16 Apr 2026 08:24:16 GMT",
+  "local_path": "sources/documents/817c405c6bb4-APP004.docx",
+  "sha256": "e3cce092ea6571bf0d8f76983000ce60fcbca71fb11c6a8d71c78d347436d536",
+  "bytes": 91420,
+  "file_type": "docx",
+  "review_status": "archived-not-substantively-reviewed"
+}

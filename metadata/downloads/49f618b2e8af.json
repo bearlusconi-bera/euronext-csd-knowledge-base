@@ -1,0 +1,33 @@
+{
+  "id": "49f618b2e8af",
+  "url": "https://www.euronext.com/sites/default/files/2021-05/4350_ENG_04%20Instructions%20rcc%20service_189122019.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-05/4350_ENG_04%20Instructions%20rcc%20service_189122019.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:53 GMT",
+  "local_path": "sources/documents/49f618b2e8af-Instructions-for-the-RCC-Service.pdf",
+  "sha256": "f0c6d19a68d6dbe3f5dc3f6116681a3acad6e70e1a8faade294ae2d8fd874a2f",
+  "bytes": 492138,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 35,
+  "text_path": "extracted/49f618b2e8af.md",
+  "text_characters": 60067,
+  "low_text_pages": [
+    35
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Brian Watson",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20210429175757+02'00'",
+    "modDate": "D:20210429175757+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

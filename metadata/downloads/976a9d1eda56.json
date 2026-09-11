@@ -1,0 +1,31 @@
+{
+  "id": "976a9d1eda56",
+  "url": "https://www.euronext.com/sites/default/files/2025-10/Euronext%20Securities%20-%20Issuance%20services%20for%20Dutch%20securities%20-%20Service%20Description%20Document%20-%20v.2.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-10/Euronext%20Securities%20-%20Issuance%20services%20for%20Dutch%20securities%20-%20Service%20Description%20Document%20-%20v.2.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 16 Oct 2025 14:13:07 GMT",
+  "local_path": "sources/documents/976a9d1eda56-Issuance-Services-for-Dutch-Securities-v-2.pdf",
+  "sha256": "bbf9ecddf107dfe7abff3d58bec56619be6a381d1c9b4f0f981bf4b294aed176",
+  "bytes": 450264,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 18,
+  "text_path": "extracted/976a9d1eda56.md",
+  "text_characters": 34319,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251016161023+02'00'",
+    "modDate": "D:20251016161023+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

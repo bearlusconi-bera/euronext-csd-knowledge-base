@@ -1,0 +1,31 @@
+{
+  "id": "7d7459da360f",
+  "url": "https://www.euronext.com/sites/default/files/2021-04/4258%20-%20SK%20-%20Declaration%20of%20beneficial%20owner%20%28Appendix%203%29.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-04/4258%20-%20SK%20-%20Declaration%20of%20beneficial%20owner%20%28Appendix%203%29.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:45 GMT",
+  "local_path": "sources/documents/7d7459da360f-SK-Declaration-of-beneficial-owner-Appendix-3.pdf",
+  "sha256": "e8e7c3f134d9540f5d129776c898da077c89bc313e4613c1ccb2d67786d53e6a",
+  "bytes": 47137,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 1,
+  "text_path": "extracted/7d7459da360f.md",
+  "text_characters": 3574,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "SK_F003.indd",
+    "author": "ESDEAD",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign CS3 (5.0)",
+    "producer": "Acrobat Distiller 8.0.0 (Macintosh)",
+    "creationDate": "D:20090312144329+01'00'",
+    "modDate": "D:20120525170023+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

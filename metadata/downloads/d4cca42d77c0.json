@@ -1,0 +1,31 @@
+{
+  "id": "d4cca42d77c0",
+  "url": "https://www.euronext.com/sites/default/files/2025-10/SWIFT%2020022%20messages%20Participants_Corporate%20Actions%20-%20C.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-10/SWIFT%2020022%20messages%20Participants_Corporate%20Actions%20-%20C.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 17 Oct 2025 08:14:05 GMT",
+  "local_path": "sources/documents/d4cca42d77c0-SWIFT-20022-messages-Participants-Corporate-Actions.pdf",
+  "sha256": "d253b29a842b01e0e1b31eabecf766614053ece7f904f95efadae4fe2a1de121",
+  "bytes": 481271,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 8,
+  "text_path": "extracted/d4cca42d77c0.md",
+  "text_characters": 8905,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Davide Ren",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251014134146+02'00'",
+    "modDate": "D:20251014135749+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

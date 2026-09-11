@@ -1,0 +1,31 @@
+{
+  "id": "a4ac45283449",
+  "url": "https://www.euronext.com/sites/default/files/2024-03/US-Form%20W-9.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-03/US-Form%20W-9.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:33:28 GMT",
+  "local_path": "sources/documents/a4ac45283449-US-Form-W-9.pdf",
+  "sha256": "2d420cbb4123dcf1fb82595b2359cfbb5d81f00b9df9d359fcc7af361d093f53",
+  "bytes": 140815,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/a4ac45283449.md",
+  "text_characters": 51679,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Form W-9 (Rev. March 2024)",
+    "author": "SE:W:CAR:MP",
+    "subject": "Request for Taxpayer Identification Number and Certification",
+    "keywords": "Fillable",
+    "creator": "Designer 6.5",
+    "producer": "Designer 6.5",
+    "creationDate": "D:20240306081813-05'00'",
+    "modDate": "D:20240306081813-05'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

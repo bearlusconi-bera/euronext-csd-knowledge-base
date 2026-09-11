@@ -1,0 +1,31 @@
+{
+  "id": "05b157889a5e",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/Euronext%20Securities%20-%20Service%20Description%20Document%20-%20Connectivity%20-%20v03.3.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/Euronext%20Securities%20-%20Service%20Description%20Document%20-%20Connectivity%20-%20v03.3.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 10 Jun 2026 09:50:30 GMT",
+  "local_path": "sources/documents/05b157889a5e-Connectivity-v03-3.pdf",
+  "sha256": "033438e0d32561dcb61e27559fd494fc6377316a1c5ef8e6d5254d86eafd1f88",
+  "bytes": 778803,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 49,
+  "text_path": "extracted/05b157889a5e.md",
+  "text_characters": 108107,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word pour Microsoft 365",
+    "producer": "Microsoft® Word pour Microsoft 365",
+    "creationDate": "D:20260610100547+02'00'",
+    "modDate": "D:20260610100547+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

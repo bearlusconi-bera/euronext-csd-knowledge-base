@@ -1,0 +1,33 @@
+{
+  "id": "91ba64d8c922",
+  "url": "https://www.esma.europa.eu/sites/default/files/2025-02/ESMA74-2119945925-2141_CSDR_Refit_Final_Report_on_third-country_CSDs.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2025-02/ESMA74-2119945925-2141_CSDR_Refit_Final_Report_on_third-country_CSDs.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 20 Feb 2025 10:26:31 GMT",
+  "local_path": "sources/documents/91ba64d8c922-Final-report.pdf",
+  "sha256": "40983a4c07e8cfad7f2541ddba7dc22aed25e841fe6e75c7f8a9dca0a2d12d5a",
+  "bytes": 420367,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 31,
+  "text_path": "extracted/91ba64d8c922.md",
+  "text_characters": 64951,
+  "low_text_pages": [
+    31
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ESMA74-2119945925-2141 Final Report on the Draft RTS on the information notified by third-country CSDs",
+    "author": "ESMA",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250220112524+01'00'",
+    "modDate": "D:20250220112609+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

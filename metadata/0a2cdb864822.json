@@ -1,0 +1,25 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/issuers/issuer-services",
+  "retrieved_at": "2026-09-11",
+  "id": "0a2cdb864822",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/issuers/issuer-services",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:17 GMT",
+  "title": "Issuer Services",
+  "text": "Issuer Services\nEuronext Securities Milan offers \"tailor-made\" services to help Issuers with complex transactions.\nOur services include:\nSupport for M​&A operations\nGlobal Coordinator in Public Tender Offers (OPA/OPS) in Italy\nSupport for all non-standard market transactions.\nCovered Warrants & Certificates - Paying agent and 871m services\nDual or multiple listing\nFerretti Group Dual Listing Case Study\nEuronext Securities helps Ferretti Group achieve dual listing in Europe and Asia\nWe can povide a unique cross model to help Issuers access a wider range of international markets.\nRead the Case Study\nNew Data Service for Issuers\nEuronext Securities Milan's HOLDINGS REPORT\nThe service provides clients with enhanced transparency and control over their issuances and investor base.",
+  "links": [
+    {
+      "url": "https://www.euronext.com/sites/default/files/2022-09/Global%20Coordinator.pdf",
+      "title": "OPA/OPS",
+      "context": "Euronext Securities Milan offers \"tailor-made\" services to help Issuers with complex transactions. Our services include: Support for M​&A operations Global Coordinator in Public Tender Offers (OPA/OPS) in Italy Support for all non-standard market transactions. Covered Warrants & Certificates - Paying agent and 871m services Dual or multiple listing"
+    },
+    {
+      "url": "https://www.euronext.com/en/media/10254/download",
+      "title": "Read the Case Study",
+      "context": "Euronext Securities helps Ferretti Group achieve dual listing in Europe and Asia We can povide a unique cross model to help Issuers access a wider range of international markets. Read the Case Study"
+    }
+  ],
+  "local_html": "sources/pages/0a2cdb864822.html",
+  "sha256": "a377d411fdd7a6f479c3cfc42ca9cd2dfca5ae0dcc4a1feb9743596556e6b869"
+}

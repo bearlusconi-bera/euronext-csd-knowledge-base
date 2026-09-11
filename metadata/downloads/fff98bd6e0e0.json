@@ -1,0 +1,31 @@
+{
+  "id": "fff98bd6e0e0",
+  "url": "https://www.euronext.com/sites/default/files/2024-09/Euronext%20Securities%20Porto%20Circular%201_2022_VF_EN_consolidated.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-09/Euronext%20Securities%20Porto%20Circular%201_2022_VF_EN_consolidated.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:34:01 GMT",
+  "local_path": "sources/documents/fff98bd6e0e0-INTERBOLSA-Circular-n-o-1-2022.pdf",
+  "sha256": "43f0d1b1a7c8eb4cab5b698a5c7f7bc280b829e447ca2eb6ea991497596686a1",
+  "bytes": 189994,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 6,
+  "text_path": "extracted/fff98bd6e0e0.md",
+  "text_characters": 12829,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Helena Teixeira Lopes",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 24 for Word",
+    "producer": "Adobe PDF Library 24.3.86",
+    "creationDate": "D:20240902100648+01'00'",
+    "modDate": "D:20240902100650+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "8a7594d0bba8",
+  "url": "https://www.euronext.com/sites/default/files/2022-05/ES-MIL_Register-AGM-Services_Brochure.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-05/ES-MIL_Register-AGM-Services_Brochure.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:30:48 GMT",
+  "local_path": "sources/documents/8a7594d0bba8-Download-the-Register-AGM-Brochure.pdf",
+  "sha256": "0a317bc3bdaddf8b4313b864560f865dffc3070b68c9e10348400def0970867a",
+  "bytes": 1210820,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/8a7594d0bba8.md",
+  "text_characters": 8508,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign 17.2 (Windows)",
+    "producer": "Adobe PDF Library 16.0.7",
+    "creationDate": "D:20220503143239+03'00'",
+    "modDate": "D:20220503143242+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

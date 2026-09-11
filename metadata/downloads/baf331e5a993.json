@@ -1,0 +1,31 @@
+{
+  "id": "baf331e5a993",
+  "url": "https://www.euronext.com/sites/default/files/2022-08/Service-Level-Agreement-to-Registration-Rules-in-force-under-CSDR.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2022-08/Service-Level-Agreement-to-Registration-Rules-in-force-under-CSDR.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:31:09 GMT",
+  "local_path": "sources/documents/baf331e5a993-Service-Level-Agreement-to-Registration-Rules-in-force-under-CSDR.pdf",
+  "sha256": "e66aa7fef318adea42abee3e60ffc0696b3d3fbb9e83f702d9bfd60fcc154721",
+  "bytes": 231564,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 4,
+  "text_path": "extracted/baf331e5a993.md",
+  "text_characters": 20946,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Service Level Agreement til Euronext VPS regelverk.docx",
+    "author": "Sissel Bakker",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20211119132158+01'00'",
+    "modDate": "D:20211119132158+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

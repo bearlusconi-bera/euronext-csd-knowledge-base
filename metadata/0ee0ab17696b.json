@@ -1,0 +1,20 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/complaints",
+  "retrieved_at": "2026-09-11",
+  "id": "0ee0ab17696b",
+  "status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/complaints",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 11 Sep 2026 12:10:05 GMT",
+  "title": "Complaints",
+  "text": "Complaints\nAny entity with a legal interest in filing a complaint may file a formal complaint about matters associated with the activities of Euronext Securities Copenhagen. Euronext Securities have established transparent rules and procedures for the handling of complaints.\nFor further information please see our Euronext Securities complaints page\nContacts\nRisk & Compliance\nVP_riskcompliance@euronext.com",
+  "links": [
+    {
+      "url": "https://www.euronext.com/en/csd/about/governance/complaints",
+      "title": "Euronext Securities complaints page",
+      "context": "Any entity with a legal interest in filing a complaint may file a formal complaint about matters associated with the activities of Euronext Securities Copenhagen. Euronext Securities have established transparent rules and procedures for the handling of complaints. For further information please see our Euronext Securities complaints page"
+    }
+  ],
+  "local_html": "sources/pages/0ee0ab17696b.html",
+  "sha256": "61b8dba460f1b9024502cc69e537a8fcf3960a68a2ca0357b16051f0a2f9cb44"
+}

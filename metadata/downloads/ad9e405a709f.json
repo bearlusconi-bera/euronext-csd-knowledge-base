@@ -1,0 +1,31 @@
+{
+  "id": "ad9e405a709f",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/Euronext%20Securities%20-%20Service%20Description%20Document%20-%20Belgian%20Registered%20Shares%20and%20Dematerialisation%20-%20v.4%20Track%20Changes.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/Euronext%20Securities%20-%20Service%20Description%20Document%20-%20Belgian%20Registered%20Shares%20and%20Dematerialisation%20-%20v.4%20Track%20Changes.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 27 Feb 2026 16:45:14 GMT",
+  "local_path": "sources/documents/ad9e405a709f-Belgian-Registered-Shares-and-Dematerialisation-v-4-Track-changes.pdf",
+  "sha256": "73620885d9b726a84bb160daea1bdbbb2384db7de06a62742d223358a1452efc",
+  "bytes": 818925,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 27,
+  "text_path": "extracted/ad9e405a709f.md",
+  "text_characters": 56677,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Laurean Crasto",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word pour Microsoft 365",
+    "producer": "Microsoft® Word pour Microsoft 365",
+    "creationDate": "D:20260227174026+01'00'",
+    "modDate": "D:20260227174026+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

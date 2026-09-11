@@ -1,0 +1,31 @@
+{
+  "id": "565259ed37b2",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_G508_16072014_Stock_option_plan.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/Euronext_Securities_Athens_G508_16072014_Stock_option_plan.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 16 Apr 2026 08:29:09 GMT",
+  "local_path": "sources/documents/565259ed37b2-here-508.pdf",
+  "sha256": "8ecc09a4842f182d8ba73dc8877d2cb3b13fb7a3f86e806538b1d283b2c47e1b",
+  "bytes": 107443,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/565259ed37b2.md",
+  "text_characters": 4901,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ΕΠΙΣΤΟΛΟΧΑΡΤΟ ΕΧΑΕ",
+    "author": "mikonomi",
+    "subject": "",
+    "keywords": "ΔΗΜΟΣΙΟ (PUBLIC)ΑΓΓΛΙΚΗ (ENGLISH)",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20260415105839+03'00'",
+    "modDate": "D:20260415105839+03'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

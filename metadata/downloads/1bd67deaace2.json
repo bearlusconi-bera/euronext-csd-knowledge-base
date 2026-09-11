@@ -1,0 +1,31 @@
+{
+  "id": "1bd67deaace2",
+  "url": "https://www.euronext.com/sites/default/files/2026-04/T2S%20GATEWAY%20-%20ES%20MIL%20Settlement%20links%20-%20Web%20site%20review%20May%202026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-04/T2S%20GATEWAY%20-%20ES%20MIL%20Settlement%20links%20-%20Web%20site%20review%20May%202026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Thu, 30 Apr 2026 09:40:17 GMT",
+  "local_path": "sources/documents/1bd67deaace2-T2S-GATEWAY-Euronext-Securities-Milan-Settlement-Links-Valid-from-1st-May-2026.pdf",
+  "sha256": "db6a69edf91f0c4fedc0459d94041c7b7b5841a4f5d73d0ead4c69521425f88c",
+  "bytes": 2717606,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 112,
+  "text_path": "extracted/1bd67deaace2.md",
+  "text_characters": 154023,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Sartorello, Marco;Stefano Gandini",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word per Microsoft 365",
+    "producer": "Microsoft® Word per Microsoft 365",
+    "creationDate": "D:20260430100653+02'00'",
+    "modDate": "D:20260430100653+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

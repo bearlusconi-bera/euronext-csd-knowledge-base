@@ -1,0 +1,31 @@
+{
+  "id": "a04ed6cfacb6",
+  "url": "https://www.euronext.com/sites/default/files/2025-10/Euronext%20Securities%20-%20Fiscal%20Guide%20Belgium%20-%20Issuer%20CSD.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-10/Euronext%20Securities%20-%20Fiscal%20Guide%20Belgium%20-%20Issuer%20CSD.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 15 Oct 2025 15:16:05 GMT",
+  "local_path": "sources/documents/a04ed6cfacb6-Fiscal-Guide-Belgium-Issuer-CSD.pdf",
+  "sha256": "62e2e80c0c77d2b220390c919a96bd13de7ae230455764a2c0bcda5062397365",
+  "bytes": 327437,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 16,
+  "text_path": "extracted/a04ed6cfacb6.md",
+  "text_characters": 36364,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - 4390 - France - Fiscal Operational Guide JAN2022",
+    "author": "LPacini",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251015171523+02'00'",
+    "modDate": "D:20251015171523+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

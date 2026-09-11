@@ -1,0 +1,14 @@
+{
+  "id": "71e51b06221f",
+  "url": "https://athens.euronext.com/sites/default/files/2025-04/RESOLUTIONS_Nr8_ATHEXCSD.zip",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2025-04/RESOLUTIONS_Nr8_ATHEXCSD.zip",
+  "content_type": "application/zip",
+  "last_modified": "Tue, 29 Apr 2025 14:44:08 GMT",
+  "local_path": "sources/documents/71e51b06221f-View-previous-versions.zip",
+  "sha256": "0af801044fa3e122ea4165a65c523571754c4f8955938517d6df875a28eaf70e",
+  "bytes": 1283501,
+  "file_type": "zip",
+  "review_status": "archived-not-substantively-reviewed"
+}

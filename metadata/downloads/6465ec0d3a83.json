@@ -1,0 +1,35 @@
+{
+  "id": "6465ec0d3a83",
+  "url": "https://www.euronext.com/sites/default/files/2021-03/1%20-%20nuoovosistematariffariofebbraio2012%281%29_0.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2021-03/1%20-%20nuoovosistematariffariofebbraio2012%281%29_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:29:28 GMT",
+  "local_path": "sources/documents/6465ec0d3a83-Sistema-tariffario-per-Corporate-Actions.pdf",
+  "sha256": "379035a6004f36ddaa7ddc439697296f29503b4ec02bded0fd892e29b6ce4982",
+  "bytes": 170334,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 3,
+  "text_path": "extracted/6465ec0d3a83.md",
+  "text_characters": 51,
+  "low_text_pages": [
+    1,
+    2,
+    3
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "PFU ScanSnap Manager 3.0.20",
+    "producer": "Adobe PDF Scan Library 2.2",
+    "creationDate": "D:20120127172136+01'00'",
+    "modDate": "D:20120206154540+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

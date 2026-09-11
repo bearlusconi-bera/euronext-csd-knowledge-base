@@ -1,0 +1,31 @@
+{
+  "id": "a721b40f1d5c",
+  "url": "https://www.euronext.com/sites/default/files/2025-11/24-11-2025_es-pto_testing_guide_principles_v1.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-11/24-11-2025_es-pto_testing_guide_principles_v1.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 24 Nov 2025 12:16:55 GMT",
+  "local_path": "sources/documents/a721b40f1d5c-Testing-Guide-Principles.pdf",
+  "sha256": "0cddb241d873b7be43c016c4109637279c8c8472acee6d5f4cbd1f0eb859de25",
+  "bytes": 968570,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 43,
+  "text_path": "extracted/a721b40f1d5c.md",
+  "text_characters": 75861,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "YG",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20251123155114+00'00'",
+    "modDate": "D:20251123155114+00'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

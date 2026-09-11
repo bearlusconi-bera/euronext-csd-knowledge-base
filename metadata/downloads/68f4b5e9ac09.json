@@ -1,0 +1,31 @@
+{
+  "id": "68f4b5e9ac09",
+  "url": "https://www.euronext.com/sites/default/files/2023-06/the_danish_nsgevaluation_of_the_danish_market_migrating_to_t2s29052019.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-06/the_danish_nsgevaluation_of_the_danish_market_migrating_to_t2s29052019.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 31 Jan 2025 13:32:17 GMT",
+  "local_path": "sources/documents/68f4b5e9ac09-The-Danish-NSGEvaluation-of-the-Danish-market-migrating-to-T2S.pdf",
+  "sha256": "9a9e1fcdc19fd1a0af5d7a7fbb9a463819abdcd4f323e4e4c150a915647168fe",
+  "bytes": 98675,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 4,
+  "text_path": "extracted/68f4b5e9ac09.md",
+  "text_characters": 13275,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "DRAFT - The Danish market joining Target2-Securities with DKK",
+    "author": "Jørn Strunge",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 19 til Word",
+    "producer": "Adobe PDF Library 19.12.66",
+    "creationDate": "D:20190529084522+02'00'",
+    "modDate": "D:20190529084523+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "resolved_links": {
+    "52205a5ee3b2": "1ae6d477d17b",
+    "6a958a5dd1b4": "cd6c6798015f",
+    "17e57c257fc3": "c9c0534ea3f5",
+    "8129428a55c6": "b731011d5941"
+  },
+  "registry_structured_extract": "extracted/535f6a23062a-rows.json",
+  "esma_statement_reviewed_pages": [
+    1,
+    2
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "fe3c345129d8",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/esma70-155-11634_csdr_national_corporate_laws_art_49.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/esma70-155-11634_csdr_national_corporate_laws_art_49.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 17 Feb 2025 16:50:02 GMT",
+  "local_path": "sources/documents/fe3c345129d8-List-of-key-relevant-provisions-of-the-corporate-or-similar-law-of-Member-States.pdf",
+  "sha256": "41a2d99372bcba247d868a3b54681f60805dbc0ea42366e43c3eff118f8a5f45",
+  "bytes": 2231913,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 198,
+  "text_path": "extracted/fe3c345129d8.md",
+  "text_characters": 512857,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "ESMA70-155-11634 Key relevant provisions of national corporate or similar law - Article 49 CSDR",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creationDate": "D:20250217173253+01'00'",
+    "modDate": "D:20250217173600+01'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

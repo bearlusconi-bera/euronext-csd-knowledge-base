@@ -1,0 +1,14 @@
+{
+  "id": "86cb9da38c88",
+  "url": "https://www.euronext.com/sites/default/files/2026-05/euronext_securities_-_isins_for_mq_connectivity_130526_0.xlsx",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-05/euronext_securities_-_isins_for_mq_connectivity_130526_0.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Wed, 13 May 2026 14:18:58 GMT",
+  "local_path": "sources/documents/86cb9da38c88-ISINs-for-MQ-connectivity.xlsx",
+  "sha256": "5aa310896ab7f7d58a4c0866aef69be47c61aface275ad6ed4c417d90e9cd71c",
+  "bytes": 20447,
+  "file_type": "xlsx",
+  "review_status": "archived-not-substantively-reviewed"
+}

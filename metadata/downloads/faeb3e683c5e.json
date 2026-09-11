@@ -1,0 +1,31 @@
+{
+  "id": "faeb3e683c5e",
+  "url": "https://www.esma.europa.eu/sites/default/files/library/2015/11/2015-esma-1219_-_final_report_csdr_ta_incl_cba_for_ec.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/library/2015/11/2015-esma-1219_-_final_report_csdr_ta_incl_cba_for_ec.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 23 Jan 2023 13:02:44 GMT",
+  "local_path": "sources/documents/faeb3e683c5e-Technical-advice.pdf",
+  "sha256": "b87ea0cf920f2b7c71406b4666b22d5455bd42d0c059ac1a25aaf0b789f17c1d",
+  "bytes": 769415,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 79,
+  "text_path": "extracted/faeb3e683c5e.md",
+  "text_characters": 204361,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "Frederico Alcantara de Melo",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word 2010",
+    "producer": "Microsoft® Word 2010",
+    "creationDate": "D:20150804180817+02'00'",
+    "modDate": "D:20150804181143+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

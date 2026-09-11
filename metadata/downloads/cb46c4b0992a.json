@@ -1,0 +1,31 @@
+{
+  "id": "cb46c4b0992a",
+  "url": "https://www.euronext.com/sites/default/files/2026-05/euronext_securities_-_french_registered_securities_-_sdd_-_data_dictionary_-_V2.2.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-05/euronext_securities_-_french_registered_securities_-_sdd_-_data_dictionary_-_V2.2.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 26 May 2026 14:42:39 GMT",
+  "local_path": "sources/documents/cb46c4b0992a-French-Registered-Shares-Message-data-dictionary-V2-2.pdf",
+  "sha256": "642c3ac29d1698a2ca6e2d69adb6c79ec7eaae943348197918d2dc7b9ba580d8",
+  "bytes": 1885012,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 111,
+  "text_path": "extracted/cb46c4b0992a.md",
+  "text_characters": 199781,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word pour Microsoft 365",
+    "producer": "Microsoft® Word pour Microsoft 365",
+    "creationDate": "D:20260526104637+02'00'",
+    "modDate": "D:20260526104637+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}

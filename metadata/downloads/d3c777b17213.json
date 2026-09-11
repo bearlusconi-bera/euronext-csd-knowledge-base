@@ -1,0 +1,31 @@
+{
+  "id": "d3c777b17213",
+  "url": "https://www.euronext.com/sites/default/files/2026-05/ES-CPH%20Mandate%202026.pdf",
+  "retrieved_at": "2026-09-11",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-05/ES-CPH%20Mandate%202026.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 29 May 2026 09:52:20 GMT",
+  "local_path": "sources/documents/d3c777b17213-ES-CPH-Charter-of-the-Remuneration-Committee.pdf",
+  "sha256": "c5b41584d3c1be82cf88976de3fea57b975d548404409ece49a2bf7ffe7cf158",
+  "bytes": 220025,
+  "file_type": "pdf",
+  "review_status": "text-extracted-not-substantively-reviewed",
+  "pages": 7,
+  "text_path": "extracted/d3c777b17213.md",
+  "text_characters": 11872,
+  "low_text_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Henry van Glabbeek",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 26 for Word",
+    "producer": "Adobe PDF Library 26.1.59",
+    "creationDate": "D:20260521163135+02'00'",
+    "modDate": "D:20260521163137+02'00'",
+    "trapped": "",
+    "encryption": null
+  }
+}
