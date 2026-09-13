@@ -353,6 +353,7 @@ The library contains **800 original document files**, with **84 prioritised docu
 | Find the requirements for operators, participants and issuers | {f('REQUIREMENTS-MAP.md','Requirements map')} |
 | Read the most useful, latest-found documents | {f('READING-GUIDE.md','Prioritised reading guide')} |
 | Search the complete collected inventory | {f('SOURCE-CATALOGUE.md','Full source catalogue')} |
+| See every document in one list, including sources used in this conversation | {f('FULL-DOCUMENT-LIST.md','Full document list')} |
 | Check versions, future dates and conflicting sources | {f('CURRENTNESS-REGISTER.md','Currentness register')} |
 | Build a retrieval knowledge base | {f('KNOWLEDGE-BASE-DESIGN.md','Ingestion and evaluation guide')} |
 | Understand coverage and remaining gaps | {f('COVERAGE-AND-CAVEATS.md','Coverage and caveats')} |

@@ -1,0 +1,91 @@
+{
+  "prepared_on": "2026-09-13",
+  "original_library_snapshot": "2026-09-11",
+  "scope": "Retrospective source list for this conversation, not a refreshed document sweep.",
+  "main_discussion_documents": [
+    {
+      "id": "71233aed41e7",
+      "role": "Main Euronext source for investor-CSD links, matching and message flows. Convergence document; used with the current T2S specification for platform mechanics.",
+      "review": "Selected passages substantively read; not a full-document review.",
+      "page_references": [
+        12,
+        20,
+        28,
+        29,
+        33,
+        36,
+        37,
+        40,
+        41,
+        42,
+        44,
+        50,
+        83
+      ]
+    },
+    {
+      "id": "aa3d5a3b94c9",
+      "role": "Main current-release T2S source for business-day timing, realignment, instruction processing and message types.",
+      "review": "Selected passages substantively read and table of contents checked; not a full-document review.",
+      "page_references": [
+        87,
+        157,
+        160,
+        162,
+        163,
+        165,
+        168,
+        171,
+        373,
+        374,
+        375,
+        376,
+        385,
+        386,
+        387,
+        753,
+        778,
+        1370
+      ]
+    }
+  ],
+  "additional_discussion_sources": [
+    {
+      "title": "ECB Payments and Markets Glossary — investor CSD and issuer CSD",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7i.en.html",
+      "role": "Definitions of investor CSD, issuer CSD and their relationship."
+    },
+    {
+      "title": "ECSDA Frequently Asked Questions",
+      "url": "https://ecsda.eu/faq",
+      "role": "The same CSD can act as issuer or investor CSD for different securities."
+    },
+    {
+      "title": "ECB — What is T2S?",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/html/index.en.html",
+      "role": "Delivery versus payment, central-bank cash and participant access."
+    },
+    {
+      "title": "T2S Framework Agreement — October 2025 edition",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/shared/pdf/2025-10_T2S_Framework_Agreement_internet_published.pdf",
+      "role": "Matching requirements and permitted settlement-amount tolerances; consulted online, not saved as an original in the initial 800-file archive."
+    },
+    {
+      "title": "ESMA — Finalise preparations ahead of T+1 settlement deadlines",
+      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-calls-firms-finalise-preparations-ahead-t1-settlement-deadlines",
+      "role": "EU T+1 transition date and earlier preparation milestones; underlying statement is also archived."
+    },
+    {
+      "title": "ECB — T2S Scope Defining Documents",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/html/index.en.html",
+      "role": "Version check distinguishing the R2026.JUN final set from R2026.NOV market-review drafts."
+    }
+  ],
+  "user_attachment": {
+    "title": "Euronext Securities Settlement Service Description Document v1.5 — November 2025",
+    "local_path": "/Users/mattiadalessandra/Downloads/service_description_document_-_settlement_services_v1.5 (2).pdf",
+    "pages": 108,
+    "review": "Attachment cover/version and SHA-256 compared with the library. It was not the primary basis for the settlement explanations.",
+    "sha256": "6a49ab91bce38b2687a9daf88cbc8279fff28ff65d6eeb4cb1aeaf2e0401bb90"
+  }
+}

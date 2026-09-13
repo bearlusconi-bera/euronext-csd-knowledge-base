@@ -12,6 +12,7 @@ The library contains **800 original document files**, with **84 prioritised docu
 | Find the requirements for operators, participants and issuers | [Requirements map](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/REQUIREMENTS-MAP.md>) |
 | Read the most useful, latest-found documents | [Prioritised reading guide](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/READING-GUIDE.md>) |
 | Search the complete collected inventory | [Full source catalogue](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/SOURCE-CATALOGUE.md>) |
+| See every document in one list, including sources used in this conversation | [Full document list](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/FULL-DOCUMENT-LIST.md>) |
 | Check versions, future dates and conflicting sources | [Currentness register](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/CURRENTNESS-REGISTER.md>) |
 | Build a retrieval knowledge base | [Ingestion and evaluation guide](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/KNOWLEDGE-BASE-DESIGN.md>) |
 | Understand coverage and remaining gaps | [Coverage and caveats](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/COVERAGE-AND-CAVEATS.md>) |
