@@ -1,0 +1,25 @@
+HTTP/2 200 
+date: Mon, 14 Sep 2026 08:53:28 GMT
+content-type: application/pdf
+content-length: 4189891
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+last-modified: Tue, 16 Jun 2026 12:10:56 GMT
+etag: "3feec3-6545dd5d9d2d0"
+cache-control: max-age=14400
+expires: Mon, 14 Sep 2026 09:03:28 GMT
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+content-security-policy: default-src 'self'; connect-src 'self' *.google-analytics.com https://cookie-cdn.cookiepro.com https://geolocation.onetrust.com https://iblir.inbroker.com https://status.athexgroup.gr ; script-src 'self' 'unsafe-inline' https://iblir.inbroker.com https://cookie-cdn.cookiepro.com https://cdn.cookielaw.org https://privacyportal.onetrust.com https://geolocation.onetrust.com https://www.googletagmanager.com https://www.gstatic.com https://fonts.gstatic.com  https://athexbot.athexgroup.gr https://athensassistant.euronext.com https://website-widgets.pages.dev https://www.google.com; style-src 'self' 'unsafe-inline' https://cookie-cdn.cookiepro.com https://cdn.cookielaw.org https://fonts.googleapis.com https://www.gstatic.com https://fonts.gstatic.com https://fonts.googleapis.com; img-src 'self' data: https://cookie-cdn.cookiepro.com https://www.googletagmanager.com; frame-src 'self' https://fast.wistia.net https://www.google.com https://iblir.inbroker.com https://consent.cookiepro.com https://youtube.com https://www.youtube.com https://athensassistant.euronext.com https://athexbot.athexgroup.gr https://ubitech.queue-it.net; font-src 'self' https://fonts.gstatic.com data: ; object-src 'none'; base-uri 'self'; form-action 'self';
+strict-transport-security: max-age=31536000; includeSubDomains
+x-cache-status: MISS
+x-status: RUNNING
+accept-ranges: bytes
+cf-cache-status: REVALIDATED
+set-cookie: __cf_bm=aVDVYxQXDs5cjyJ25.n8L.x9GzdZIDV.j9VZXdGMGNo-1789376007.9276128-1.0.1.1-VPyDRN7qe_shhddGkttKBhOL6iqKexgCkif4ujo77dect0f4DUCNsA0S3npTjjdb5fnoqJRMiljwE7u9GL0vjj70k3vTstSiWYeeSImh66X935eoJyPgtnDpF9Ga.Uf7; HttpOnly; SameSite=None; Secure; Path=/; Domain=athens.euronext.com; Expires=Mon, 14 Sep 2026 09:23:28 GMT
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DE%2FKV8MkLdh6K1ISqiPwRsGCgkSgE4HJM5QpAci2j6xm1ZxAa%2BAbjeujw%2BiLyVHThQi%2BEp%2FG3h2NHJP2oudoeTHlHGccTzOYL%2FSMU0lz2t413nnXVDPKPgpbDT807lKduaKOolZt"}]}
+server: cloudflare
+cf-ray: a3ae29518b355249-MXP
+alt-svc: h3=":443"; ma=86400
+

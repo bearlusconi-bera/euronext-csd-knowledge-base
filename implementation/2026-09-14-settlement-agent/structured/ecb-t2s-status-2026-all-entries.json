@@ -1,0 +1,1325 @@
+{
+  "source_url": "https://www.ecb.europa.eu/paym/target/html/t2s_history_2026_include.en.html",
+  "captured_file": "implementation/2026-09-14-settlement-agent/hubs/ecb-t2s-status-2026.html",
+  "captured_sha256": "3377fac2c74fa893d9c8ebac5233cedd29ad73ab94fe911caa299c3ed7a24ec8",
+  "captured_on": "2026-09-14",
+  "timezone_note": "Displayed ECB timestamps preserved; time zone not stated on the page; UTC conversion not verified.",
+  "business_date_note": "calendar_date is the displayed date. T2S business date for evening entries (after 18:45) may be the following settlement day per UDFS §1.4; any such attribution is a labelled inference, not source text.",
+  "entries": [
+    {
+      "calendar_date": "2026-09-14",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-09-12",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-09-11",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-09-10",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-09-09",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-09-08",
+      "published_time_as_displayed": "20:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-09-08",
+      "published_time_as_displayed": "18:55:00",
+      "original_text": "T2S is operating normally. The previous incident impacting the ICBO event (Intraday CBO cut-off) has been resolved. The IFOP event (Intraday FoP cut-off) closed at 18:39."
+    },
+    {
+      "calendar_date": "2026-09-08",
+      "published_time_as_displayed": "18:10:00",
+      "original_text": "T2S is currently facing an incident impacting the ICBO event (Intraday CBO cut-off). As a result of the incident, the operating day is blocked and the IFOP event (Intraday FoP cut-off) did not start. The incident does not have any impact on any other T2S functionality. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 19:00."
+    },
+    {
+      "calendar_date": "2026-09-08",
+      "published_time_as_displayed": "15:30:00",
+      "original_text": "There is currently no incident in T2S. However, the operating day schedule has been changed, due to a request by a Central Securities Depository. The start of the EUR delivery versus payment cut-off (event IDVP) has been postponed by 60 minutes (from 16:00 to 17:00). Consequently, the Reimbursement of Auto-collateralisation instructions (event RMIC) and the Optional Cash Sweep (event OCSW) have also been delayed and will take place 15 minutes after closure of the delivery-versus-payment cut-off. The second optional cash sweep (event OCS2) to CLM remains at 17:45 and the; free of payment cut-off (event IFOP) remains at 18:00."
+    },
+    {
+      "calendar_date": "2026-09-08",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-09-07",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-09-05",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-09-04",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-09-03",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-09-02",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-09-01",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-31",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-29",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-08-28",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-27",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-26",
+      "published_time_as_displayed": "17:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-26",
+      "published_time_as_displayed": "16:40:00",
+      "original_text": "T2S is operating normally and the earlier incident on Penalty Mechanism processing was resolved. The incident did not impact the operating day schedule."
+    },
+    {
+      "calendar_date": "2026-08-26",
+      "published_time_as_displayed": "16:35:00",
+      "original_text": "T2S is operating normally and the earlier incident on Penalty Mechanism processing was resolved. The incident did not impact the operating day schedule."
+    },
+    {
+      "calendar_date": "2026-08-26",
+      "published_time_as_displayed": "15:10:00",
+      "original_text": "T2S is currently facing an incident impacting Penalty Mechanism processing. The incident does not have any impact on any other T2S functionality. There is no foreseen impact on the operating day schedule. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 17:30."
+    },
+    {
+      "calendar_date": "2026-08-26",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-25",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-24",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-22",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-08-21",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-20",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-19",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-18",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-17",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-15",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-08-14",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-13",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-12",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-11",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-10",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-08",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-08-07",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-06",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-05",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-04",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-03",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-08-01",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-07-31",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-30",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-29",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-28",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-27",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-25",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-07-24",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-23",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-22",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-21",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-20",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-18",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-07-17",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-16",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-15",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-14",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-13",
+      "published_time_as_displayed": "21:00:00",
+      "original_text": "T2S is operating normally and the earlier issue was resolved i.e. Night Time Settlement started at 20:56."
+    },
+    {
+      "calendar_date": "2026-07-13",
+      "published_time_as_displayed": "20:20:00",
+      "original_text": "T2S is currently facing an incident impacting the timely start of Night Time Settlement. The incident does not have any impact on any other T2S functionality. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 21:30."
+    },
+    {
+      "calendar_date": "2026-07-12",
+      "published_time_as_displayed": "23:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-11",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed. The T2S operator is performing internal testing activities in the production environment during the weekend maintenance window of 11 â 12 July. Normally, during the maintenance window, instructions are queued. Due to the testing activities, messages via SWIFT towards T2S during the testing period between Saturday at 05:00 CEST until, maximum, to Sunday at 13:00 CEST, will be rejected with the NACK status. T2S Actors will need to resend any rejected messages to T2S once the maintenance window has closed with the early reopening on Sunday, 12 July at 23:00 CEST."
+    },
+    {
+      "calendar_date": "2026-07-10",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-09",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-08",
+      "published_time_as_displayed": "15:00:00",
+      "original_text": "T2S is operating normally. The T2S operator will perform internal testing activities in the production environment during the weekend maintenance window of 11 â 12 July. Normally, during the maintenance window, instructions are queued. Due to the testing activities, messages via SWIFT towards T2S during the testing period between Saturday at 05:00 CEST until, maximum, to Sunday at 13:00 CEST, will be rejected with the NACK status. T2S Actors will need to resend any rejected messages to T2S once the maintenance window has closed with the early reopening on Sunday, 12 July at 23:00 CEST."
+    },
+    {
+      "calendar_date": "2026-07-08",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-07",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-05",
+      "published_time_as_displayed": "21:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-04",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-07-03",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-02",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-01",
+      "published_time_as_displayed": "17:25:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-07-01",
+      "published_time_as_displayed": "13:25:00",
+      "original_text": "T2S is operating normally and the earlier incident impacting the sending of Billing invoices for CSDs for June 2026 was resolved. The incident did not impact the operating day schedule."
+    },
+    {
+      "calendar_date": "2026-07-01",
+      "published_time_as_displayed": "11:25:00",
+      "original_text": "T2S is currently facing an incident impacting the timely sending of Billing invoices for CSDs for June 2026. There is no impact on any other T2S functionality. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 14:30."
+    },
+    {
+      "calendar_date": "2026-07-01",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-30",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-28",
+      "published_time_as_displayed": "21:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-27",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-06-26",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-25",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-24",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-23",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-22",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-20",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-06-19",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-18",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-17",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-16",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-15",
+      "published_time_as_displayed": "11:15:00",
+      "original_text": "T2S is operating normally and the earlier incident impacting one Graphical User Interface Screen (Cash account postings) was resolved."
+    },
+    {
+      "calendar_date": "2026-06-15",
+      "published_time_as_displayed": "10:15:00",
+      "original_text": "T2S is currently facing an incident impacting one Graphical User Interface Screen (Cash account postings). However, all other screens remain available. Application-to-Application (A2A) Connectivity to ESMIG is not impacted by the incident and is working normally. There is no impact on any other T2S functionality. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 12:00."
+    },
+    {
+      "calendar_date": "2026-06-15",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-14",
+      "published_time_as_displayed": "15:00:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-06-14",
+      "published_time_as_displayed": "14:40:00",
+      "original_text": "T2S June 2026 Release deployment has been completed successfully and the A2A channels have been reopened. T2S is operating normally and will enter the Maintenance Window at 15:00 CEST until 02:30 CEST on Monday, 15 June 2026."
+    },
+    {
+      "calendar_date": "2026-06-14",
+      "published_time_as_displayed": "01:40:00",
+      "original_text": "T2S June 2026 Release deployment has been completed successfully and the A2A channels have been reopened. T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-12",
+      "published_time_as_displayed": "20:05:00",
+      "original_text": "T2S is closed due to ongoing activities relating to the deployment of T2S June 2026 Release."
+    },
+    {
+      "calendar_date": "2026-06-12",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-11",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-10",
+      "published_time_as_displayed": "17:25:00",
+      "original_text": "T2S is operating normally and the earlier incident on Penalty Mechanism processing was resolved. The incident did not impact the operating day schedule."
+    },
+    {
+      "calendar_date": "2026-06-10",
+      "published_time_as_displayed": "15:25:00",
+      "original_text": "T2S is currently facing an incident impacting Penalty Mechanism processing. The incident does not have any impact on any other T2S functionality. There is no foreseen impact on the operating day schedule. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 17:30."
+    },
+    {
+      "calendar_date": "2026-06-10",
+      "published_time_as_displayed": "08:50:00",
+      "original_text": "T2S is operating normally and the earlier incident on Application-to-Application (A2A) and User-to-Application (U2A) Connectivity was resolved 08:35. Instructions in T2S are processed normally. The incident did not impact the operating day schedule."
+    },
+    {
+      "calendar_date": "2026-06-10",
+      "published_time_as_displayed": "07:30:00",
+      "original_text": "T2S is currently facing an incident impacting Application-to-Application (A2A) Connectivity and User-to-Application (U2A) Connectivity. Some instructions may not be processed in T2S. The incident does not have any impact on any other T2S functionality. There is no foreseen impact on the operating day schedule. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 09:00"
+    },
+    {
+      "calendar_date": "2026-06-10",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-09",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-08",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-06",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-06-05",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-04",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-03",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-02",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-06-01",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-30",
+      "published_time_as_displayed": "07:00:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-05-30",
+      "published_time_as_displayed": "06:00:00",
+      "original_text": "T2S is operating normally. However, the operating day schedule has been changed, due to a request by a Central Securities Depository. The start of the weekend Maintenance Window has been postponed from 02:30 to 07:00 CEST. Updated information will be provided at the latest by 07:00 CEST."
+    },
+    {
+      "calendar_date": "2026-05-30",
+      "published_time_as_displayed": "01:00:00",
+      "original_text": "T2S is operating normally. However, the operating day schedule has been changed, due to a request by a Central Securities Depository. The start of the weekend Maintenance Windows has been postponed and will not start at 02:30 CEST. Updated information will be provided at the latest by 06:00 CEST."
+    },
+    {
+      "calendar_date": "2026-05-29",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-28",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-27",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-26",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-25",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-23",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-05-22",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-21",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-20",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-19",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-18",
+      "published_time_as_displayed": "19:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-18",
+      "published_time_as_displayed": "13:40:00",
+      "original_text": "T2S is operating normally. The previous incident regarding the NRO functionality has been resolved."
+    },
+    {
+      "calendar_date": "2026-05-18",
+      "published_time_as_displayed": "12:40:00",
+      "original_text": "T2S CRDM is currently facing an incident impacting the usage of the Non-Repudiation of Origin (NRO) functionality for the signing of actions in the CRDM Graphical Users Interface. There is no impact on any other T2S functionality. There is no foreseen impact on the operating day schedule. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 14:30."
+    },
+    {
+      "calendar_date": "2026-05-18",
+      "published_time_as_displayed": "11:30:00",
+      "original_text": "T2S CRDM is currently facing an incident impacting the usage of the Non-Repudiation of Origin (NRO) functionality for the signing of actions in the CRDM Graphical Users Interface. There is no impact on any other T2S functionality. There is no foreseen impact on the operating day schedule. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 13:00."
+    },
+    {
+      "calendar_date": "2026-05-18",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-16",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-05-15",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-14",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-13",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-12",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-11",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-09",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-05-08",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-07",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-06",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-05",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-04",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-05-02",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-05-01",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-30",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-29",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-28",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-26",
+      "published_time_as_displayed": "21:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-25",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-04-24",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-23",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-22",
+      "published_time_as_displayed": "16:35:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-22",
+      "published_time_as_displayed": "11:15:00",
+      "original_text": "T2S is operating normally. However due to a configuration issue, the monthly reporting for the Penalty Mechanism was sent twice - on 20 April 2026 and on 22 April 2026."
+    },
+    {
+      "calendar_date": "2026-04-22",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-21",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-21",
+      "published_time_as_displayed": "00:20:00",
+      "original_text": "T2S is operating normally. The earlier incident blocking the Night-Time Settlement phase was resolved at 00:07."
+    },
+    {
+      "calendar_date": "2026-04-21",
+      "published_time_as_displayed": "00:05:00",
+      "original_text": "T2S is currently facing an incident impacting the Night-Time Settlement phase. As a result of the incident, the Cycle 1 Sequence 2 event is blocked. The incident does not have any impact on any other T2S functionality. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 00:45."
+    },
+    {
+      "calendar_date": "2026-04-20",
+      "published_time_as_displayed": "23:10:00",
+      "original_text": "T2S is currently facing an incident impacting the Night-Time Settlement phase. As a result of the incident, the Cycle 1 Sequence 2 event is blocked. The incident does not have any impact on any other T2S functionality. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 00:00."
+    },
+    {
+      "calendar_date": "2026-04-20",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-18",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-04-17",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-16",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-15",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-14",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-13",
+      "published_time_as_displayed": "23:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-13",
+      "published_time_as_displayed": "22:55:00",
+      "original_text": "There is currently no incident in T2S. However, the operating day schedule has been changed, due to a request by a Central Securities Depository, affecting the overall duration of one Night-Time Settlement phase. Updated information will follow by 23:45."
+    },
+    {
+      "calendar_date": "2026-04-13",
+      "published_time_as_displayed": "22:05:00",
+      "original_text": "T2S is operating normally and the earlier incident impacting the Start-of-day phase has been resolved. As a result of the incident, the T2S night-time settlement phase started with a delay at 22:02."
+    },
+    {
+      "calendar_date": "2026-04-13",
+      "published_time_as_displayed": "21:30:00",
+      "original_text": "T2S is currently facing a long duration of the Start of Day phase. As a result of the incident, the Night-Time Settlement phase has been impacted and has not started yet. The incident does not have any impact on any other T2S functionality. There is no foreseen impact on the operating day schedule. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 22:45."
+    },
+    {
+      "calendar_date": "2026-04-13",
+      "published_time_as_displayed": "20:35:00",
+      "original_text": "T2S is currently facing a long duration of the Start of Day phase. As a result of the incident, the Night-Time Settlement phase has been impacted and has not started yet. The incident does not have any impact on Connectivity / Life Cycle Management and Matching / Settlement / Penalty Mechanism processing / Reference Data Management. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 21:30."
+    },
+    {
+      "calendar_date": "2026-04-13",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-11",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-04-10",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-09",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-08",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-07",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-06",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-04-04",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-04-03",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-04-02",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-04-01",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-31",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-29",
+      "published_time_as_displayed": "21:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-28",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-03-27",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-26",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-25",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-24",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-22",
+      "published_time_as_displayed": "21:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-21",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-03-20",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-19",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-18",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-17",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-15",
+      "published_time_as_displayed": "21:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-14",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-03-13",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-12",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-11",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-10",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-09",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-07",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-03-06",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-05",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-04",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-03",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-03-02",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-28",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-02-28",
+      "published_time_as_displayed": "00:25:00",
+      "original_text": "T2S is operating normally. The night-time settlement (NTS) phase was completed at 00:19, and the real-time settlement phase started at 00:19."
+    },
+    {
+      "calendar_date": "2026-02-27",
+      "published_time_as_displayed": "23:30:00",
+      "original_text": "T2S is operating normally. Due to an earlier incident in T2S the closure of night-time settlement will be delayed. Updated information will be provided at the latest by 00:30."
+    },
+    {
+      "calendar_date": "2026-02-27",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-26",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-24",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-23",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-21",
+      "published_time_as_displayed": "16:00:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-02-20",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-19",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-18",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-17",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-16",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-14",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-02-13",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-12",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-11",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-10",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-08",
+      "published_time_as_displayed": "21:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-07",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-02-06",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-05",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-04",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-03",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-02-02",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-31",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-01-30",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-29",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-28",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-27",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-25",
+      "published_time_as_displayed": "21:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-24",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-01-23",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-22",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-21",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-20",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-18",
+      "published_time_as_displayed": "21:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-17",
+      "published_time_as_displayed": "13:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-01-16",
+      "published_time_as_displayed": "18:45:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-16",
+      "published_time_as_displayed": "15:10:00",
+      "original_text": "T2S is operating normally and the earlier incident with U2A and A2A access to CRDM and BDM has now been solved. The incident did not impact the operating day schedule."
+    },
+    {
+      "calendar_date": "2026-01-16",
+      "published_time_as_displayed": "14:30:00",
+      "original_text": "T2S is currently facing an incident impacting User-to-Application (U2A) and Application-to-Application (A2A) access to CRDM, as well as to BDM. The incident does not have any impact on any other T2S functionality. There is no foreseen impact on the operating day schedule. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 16:00."
+    },
+    {
+      "calendar_date": "2026-01-16",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-15",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-14",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-13",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-12",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-10",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-01-09",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-08",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-07",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-06",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-05",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-03",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    },
+    {
+      "calendar_date": "2026-01-02",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is operating normally."
+    },
+    {
+      "calendar_date": "2026-01-01",
+      "published_time_as_displayed": "02:30:00",
+      "original_text": "T2S is closed and will reopen in accordance with its schedule."
+    }
+  ]
+}

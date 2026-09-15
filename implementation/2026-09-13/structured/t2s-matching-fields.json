@@ -1,0 +1,198 @@
+{
+  "source_id": "aa3d5a3b94c9",
+  "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+  "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+  "release": "R2026.JUN",
+  "verified_as_of": "2026-09-13",
+  "actual_content_language": "en",
+  "review": "All rows, diagram notes and footnote 194 visually inspected; PDF 271 tolerance narrative read.",
+  "scope": "Functional matching-field diagrams, not production XML paths, XSD validation or complete message usage rules.",
+  "transaction_headers_verbatim": [
+    "DVP/DWP",
+    "FOP"
+  ],
+  "rows": [
+    {
+      "field": "Payment Type",
+      "diagram": 55,
+      "pdf_page": 269,
+      "DVP/DWP": "mandatory",
+      "FOP": "mandatory"
+    },
+    {
+      "field": "Securities Movement Type",
+      "diagram": 55,
+      "pdf_page": 269,
+      "DVP/DWP": "mandatory",
+      "FOP": "mandatory"
+    },
+    {
+      "field": "ISIN Code",
+      "diagram": 55,
+      "pdf_page": 269,
+      "DVP/DWP": "mandatory",
+      "FOP": "mandatory"
+    },
+    {
+      "field": "Trade Date",
+      "diagram": 55,
+      "pdf_page": 269,
+      "DVP/DWP": "mandatory",
+      "FOP": "mandatory"
+    },
+    {
+      "field": "Settlement Quantity",
+      "diagram": 55,
+      "pdf_page": 269,
+      "DVP/DWP": "mandatory",
+      "FOP": "mandatory"
+    },
+    {
+      "field": "Intended Settlement Date",
+      "diagram": 55,
+      "pdf_page": 269,
+      "DVP/DWP": "mandatory",
+      "FOP": "mandatory"
+    },
+    {
+      "field": "Delivering Party BIC",
+      "diagram": 55,
+      "pdf_page": 269,
+      "DVP/DWP": "mandatory",
+      "FOP": "mandatory"
+    },
+    {
+      "field": "Receiving Party BIC",
+      "diagram": 55,
+      "pdf_page": 269,
+      "DVP/DWP": "mandatory",
+      "FOP": "mandatory"
+    },
+    {
+      "field": "CSD of the Delivering Party",
+      "diagram": 55,
+      "pdf_page": 269,
+      "DVP/DWP": "mandatory",
+      "FOP": "mandatory"
+    },
+    {
+      "field": "CSD of the Receiving Party",
+      "diagram": 55,
+      "pdf_page": 269,
+      "DVP/DWP": "mandatory",
+      "FOP": "mandatory"
+    },
+    {
+      "field": "Currency",
+      "diagram": 55,
+      "pdf_page": 269,
+      "DVP/DWP": "mandatory",
+      "FOP": "n/a"
+    },
+    {
+      "field": "Settlement Amount",
+      "diagram": 55,
+      "pdf_page": 269,
+      "DVP/DWP": "mandatory",
+      "FOP": "n/a"
+    },
+    {
+      "field": "Credit/Debit",
+      "diagram": 55,
+      "pdf_page": 269,
+      "DVP/DWP": "mandatory",
+      "FOP": "n/a"
+    },
+    {
+      "field": "Opt-out ISO transaction condition indicator",
+      "diagram": 56,
+      "pdf_page": 270,
+      "DVP/DWP": "additional",
+      "FOP": "additional"
+    },
+    {
+      "field": "CUM/EX Indicator",
+      "diagram": 56,
+      "pdf_page": 270,
+      "DVP/DWP": "additional",
+      "FOP": "additional"
+    },
+    {
+      "field": "Currency",
+      "diagram": 56,
+      "pdf_page": 270,
+      "DVP/DWP": "n/a",
+      "FOP": "additional"
+    },
+    {
+      "field": "Settlement Amount",
+      "diagram": 56,
+      "pdf_page": 270,
+      "DVP/DWP": "n/a",
+      "FOP": "additional"
+    },
+    {
+      "field": "Credit/Debit",
+      "diagram": 56,
+      "pdf_page": 270,
+      "DVP/DWP": "n/a",
+      "FOP": "additional"
+    },
+    {
+      "field": "Common Trade Reference",
+      "diagram": 57,
+      "pdf_page": 270,
+      "DVP/DWP": "optional",
+      "FOP": "optional"
+    },
+    {
+      "field": "Client of delivering CSD participant",
+      "diagram": 57,
+      "pdf_page": 270,
+      "DVP/DWP": "optional",
+      "FOP": "optional"
+    },
+    {
+      "field": "Client of receiving CSD participant",
+      "diagram": 57,
+      "pdf_page": 270,
+      "DVP/DWP": "optional",
+      "FOP": "optional"
+    },
+    {
+      "field": "Securities account of the delivering party",
+      "diagram": 57,
+      "pdf_page": 270,
+      "DVP/DWP": "optional",
+      "FOP": "optional"
+    },
+    {
+      "field": "Securities account of the receiving party",
+      "diagram": 57,
+      "pdf_page": 270,
+      "DVP/DWP": "optional",
+      "FOP": "optional"
+    }
+  ],
+  "conditions": [
+    "Mandatory values match, except opposing Credit/Debit and Securities Movement Type values; settlement amount may use the stated tolerance. The paragraph mentions DVP/PFOD; the diagram header itself reads DVP/DWP. Do not silently normalise these labels into a certified schema mapping.",
+    "Additional: a value supplied on either side must also be supplied and match on the other side; blank/blank matches. Credit/Debit matches opposite values.",
+    "Optional: one filled and one blank can match; if both are filled they must match.",
+    "Footnote 194: upper- and lower-case letters are considered different when comparing values. Do not case-normalise identifiers before comparing.",
+    "Diagram 56 note 1: CUM/EX matching considers only ExCoupon and CumCoupon; other values are considered blank.",
+    "Diagram 56 note 2: Currency, Settlement Amount and Credit/Debit are additional FOP fields to reduce mismatching risk for non-T2S-currency cash legs submitted as FOP (Payment Flag FREE) with CoSD used to ensure DVP.",
+    "Diagram 57 note: client fields match BICs or proprietary codes. Proprietary code matching uses Identification, Issuer and Scheme Name. A BIC does not match a proprietary code.",
+    "PDF 270-271: EUR amount tolerance is EUR 2 for cash countervalue <= EUR 100,000 and EUR 25 above EUR 100,000. Currency-specific configuration applies; do not generalise EUR bands to other currencies.",
+    "PDF 271: among candidates choose the smallest amount difference, then closest entry time if amounts are the same; the deliverer's amount becomes the matched settlement amount."
+  ],
+  "counts": {
+    "mandatory_diagram_rows": 13,
+    "additional_diagram_rows": 5,
+    "optional_diagram_rows": 5
+  },
+  "images": [
+    "audits/2026-09-13/evidence/aa3d5a3b94c9-p269.png",
+    "implementation/2026-09-13/evidence/t2s-p270.png"
+  ],
+  "production_schema_validated": false
+}

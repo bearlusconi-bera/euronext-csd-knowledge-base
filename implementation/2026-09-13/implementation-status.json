@@ -1,0 +1,170 @@
+{
+  "implemented_on": "2026-09-14",
+  "evidence_as_of": "2026-09-13",
+  "findings": [
+    {
+      "id": "F01",
+      "status": "Mitigated; authority gap remains",
+      "implementation": "Quarantined the English/Italian Milan clock passages. Platform schedule is separately scoped; exact Milan participant cut-offs are blocked pending G01."
+    },
+    {
+      "id": "F02",
+      "status": "Implemented for the reviewed event date",
+      "implementation": "Ingested all displayed 8 September events; separated announced IDVP, actual IFOP and superseding incident updates. Other dates/currencies require evidence."
+    },
+    {
+      "id": "F03",
+      "status": "Implemented",
+      "implementation": "Disabled whole-workbook admission; preserved all extracted cells/merges and scoped Introduction evidence. Future place columns do not establish universal current eligibility."
+    },
+    {
+      "id": "F04",
+      "status": "Implemented",
+      "implementation": "Disabled every whole-document default. Added 30 section decisions, hash-bound exports, scope/mode/date filters, dependencies and local retrieval. Historical builders cannot overwrite controls."
+    },
+    {
+      "id": "F05",
+      "status": "Critical repairs implemented; wider extraction remains scoped",
+      "implementation": "Visually repaired Diagrams 55–57 (23 rows plus notes). Staged 162 members from 14 containers; XML/import inspection does not grant schema admission. Unreviewed diagrams/tables remain outside their permitted propositions."
+    },
+    {
+      "id": "F06",
+      "status": "English evidence repaired; reporting chain incomplete",
+      "implementation": "Tagged original DORA body French and added the English OJ replacement. Only Articles 2/64 admitted; full reporting RTS/ITS/national chain remains G06."
+    },
+    {
+      "id": "F07",
+      "status": "Interpretation corrected; approval gap remains",
+      "implementation": "Narrowed Athens warning to probable edition/amendment labelling, explicitly an inference. Kept history-only admission; independent HCMC/Gazette verification remains G08."
+    },
+    {
+      "id": "F08",
+      "status": "Mitigated; approval gap remains",
+      "implementation": "Retained Oslo edition reservation and forced it to accompany reference-mode liquidity descriptions. Unconditional approval/current duties remain blocked."
+    },
+    {
+      "id": "F09",
+      "status": "Implemented",
+      "implementation": "Kept November drafts, adopted T+1 law and Commission future-stage text separate. Publication/application/deployment are distinct; clock rollover does not promote a source."
+    },
+    {
+      "id": "F10",
+      "status": "Implemented metadata controls; some authority gaps remain",
+      "implementation": "Preserved cover/footer/file/upload distinctions, unknown Porto effective date and tariff periods. Exact fee amounts require a reviewed row. Added Porto underlying timetable/calendar notices."
+    },
+    {
+      "id": "F11",
+      "status": "Implemented",
+      "implementation": "Confirmed the full Interbolsa LEI with GLEIF and checksum. Preserved malformed ESMA C25; separately sourced normalisation and decision rows prevent identity/permission conflation."
+    },
+    {
+      "id": "F12",
+      "status": "Controls and dependency register implemented; broader coverage incomplete",
+      "implementation": "Mapped all 17 dependencies, reviewed additional public provisions and blocked unsupported production questions. No client portal or firm entitlements were assumed."
+    }
+  ],
+  "dependencies": [
+    {
+      "id": "G01",
+      "status": "Open: public authority not located",
+      "material": "Applicable Milan participant timetable/amendment chain",
+      "detail": "Current English/Italian clock conflict remains. Fresh operational-notice hub and targeted public searches did not resolve it."
+    },
+    {
+      "id": "G02",
+      "status": "Resolved for one reviewed date",
+      "material": "Dated ECB operational event set",
+      "detail": "8 September 2026 EUR overlay implemented. Every other dated operational query remains evidence-dependent."
+    },
+    {
+      "id": "G03",
+      "status": "Access-dependent",
+      "material": "Current production X-TRM A2A/RNI standard",
+      "detail": "MT-X documentation named in ON_36/2026; future November notice cannot establish current fields."
+    },
+    {
+      "id": "G04",
+      "status": "Transaction-dependent",
+      "material": "ISIN/link/account/currency static data and MT23",
+      "detail": "Public Gateway manual retained. No actual transaction supplied, so no instrument route or entitlement is certified."
+    },
+    {
+      "id": "G05",
+      "status": "Functional repair complete; production dependency separate",
+      "material": "UDFS matching diagrams and notes",
+      "detail": "All three diagrams on PDF 269–270 repaired. Production message mapping still requires G14."
+    },
+    {
+      "id": "G06",
+      "status": "Partial",
+      "material": "DORA English base law and reporting implementation chain",
+      "detail": "English Articles 2/64 repaired; full RTS/ITS/national operational reporting chain not reviewed."
+    },
+    {
+      "id": "G07",
+      "status": "Open: approval evidence not located",
+      "material": "Oslo edition-specific approval or unconditional successor",
+      "detail": "System approval and the edition reservation remain separate. Unconditional legal-status questions blocked."
+    },
+    {
+      "id": "G08",
+      "status": "Open: independent authority chain",
+      "material": "HCMC 1/1074 and Gazette B 6784/16 December 2025",
+      "detail": "Greek/English history preserved; independent decision/Gazette not obtained from reviewed official routes."
+    },
+    {
+      "id": "G09",
+      "status": "Public notices obtained; binding/time-zone scope qualified",
+      "material": "Porto 25/1162 calendar and 394/2024 timetable",
+      "detail": "Underlying notices fetched and read. Calendar FoP exception admitted. Timetable translation is nonbinding; preserve original clock values, Portuguese authority and dated-event dependencies."
+    },
+    {
+      "id": "G10",
+      "status": "Partial; exact service guide required",
+      "material": "Copenhagen DCP User Guidelines and accepted tests",
+      "detail": "Part 5 §§1–3 admitted for published admission duties. Exact production guide/version/entitlements not inspected."
+    },
+    {
+      "id": "G11",
+      "status": "Access/version-dependent",
+      "material": "Oslo current user interfaces and operational runbooks",
+      "detail": "Qualified published liquidity sections admitted; no current MyVPS production specifications or complete default/incident runbooks certified."
+    },
+    {
+      "id": "G12",
+      "status": "Partial; exact technical set required",
+      "material": "Athens DSS technical notices/formats/cycles",
+      "detail": "Resolution 5 cash scope and Resolution 2 certification/exemptions admitted as qualified English reference. Production technical notices remain a gap."
+    },
+    {
+      "id": "G13",
+      "status": "Partial public review",
+      "material": "Porto STD v58 and ISO15022 v9",
+      "detail": "Reviewed message overview, MT535/MT536 selected pages and TCN layout. Only report-family propositions admitted; full schemas/conditional fields are not certified. Preserve source anomalies semt.07 and YYYTMMDD."
+    },
+    {
+      "id": "G14",
+      "status": "Usage/schema validation required",
+      "material": "T2S R2026.JUN MyStandards usage and XSD dependencies",
+      "detail": "Native message overview and functional matching repaired; schema containers never substitute for validated usage rules and entitlements."
+    },
+    {
+      "id": "G15",
+      "status": "Unverified final publication/deployment",
+      "material": "T2S R2026.NOV final release chain",
+      "detail": "Official SDD hub still listed market-review drafts at the 13 September check. A planned publication date is not evidence of release."
+    },
+    {
+      "id": "G16",
+      "status": "Incomplete capture; excluded",
+      "material": "CMVM Regulation 5/2018 amended by 4/2025",
+      "detail": "Official Gazette HTTP 200 response contained only an application shell (2,346 bytes), not complete law. Not admitted; need full official text and amendment chain."
+    },
+    {
+      "id": "G17",
+      "status": "Partial; specific service documents needed",
+      "material": "CLIMP/MyEuronext guides and fee/tax/disclosure procedures",
+      "detail": "Existing forms and public materials retained. Exact production entitlements and complete pricing/tax/onboarding procedures require topic-specific review."
+    }
+  ]
+}

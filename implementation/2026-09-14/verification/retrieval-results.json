@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "E01",
+    "question": "For Milan, does “T2S matched” prove that securities and cash moved?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "matching_concept",
+      "entity": "Milan",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "milan-finality",
+      "t2s-matching",
+      "t2s-posting"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "milan-finality",
+      "t2s-matching",
+      "t2s-posting"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "8719262f5e8b",
+        "title": "Regulations as of 26 January 2026",
+        "source_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+        "source_sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+        "source_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
+        "locator": "Articles 69–71 and 72(1)–(3), retaining 70(2); PDF 50–51, printed 49–50",
+        "pdf_pages": [
+          50,
+          51
+        ],
+        "body_language": "en",
+        "authoritative_language": "it",
+        "translation_status": "translation; authoritative language differs",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "26 January 2026",
+        "publication_date": null,
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§1.6.1.2; PDF 267–271; Diagrams 55–57 and footnote 194",
+        "pdf_pages": [
+          267,
+          268,
+          269,
+          270,
+          271
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "Visually checked Diagrams 55–57; original PDF 269–271",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§1.6.1.8.1 and first overview paragraph; PDF 303–304",
+        "pdf_pages": [
+          303,
+          304
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E02",
+    "question": "Can a Milan matched instruction always be cancelled unilaterally?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "cancellation_rules",
+      "entity": "Milan",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "milan-finality"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "milan-finality"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "8719262f5e8b",
+        "title": "Regulations as of 26 January 2026",
+        "source_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+        "source_sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+        "source_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
+        "locator": "Articles 69–71 and 72(1)–(3), retaining 70(2); PDF 50–51, printed 49–50",
+        "pdf_pages": [
+          50,
+          51
+        ],
+        "body_language": "en",
+        "authoritative_language": "it",
+        "translation_status": "translation; authoritative language differs",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "26 January 2026",
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E03",
+    "question": "Can instructions match before ISD, and does realignment generation move securities immediately?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "realignment_mechanism",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "t2s-matching",
+      "t2s-realignment",
+      "t2s-posting"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "t2s-matching",
+      "t2s-posting",
+      "t2s-realignment"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§1.6.1.2; PDF 267–271; Diagrams 55–57 and footnote 194",
+        "pdf_pages": [
+          267,
+          268,
+          269,
+          270,
+          271
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "Visually checked Diagrams 55–57; original PDF 269–271",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§1.6.1.8.1 and first overview paragraph; PDF 303–304",
+        "pdf_pages": [
+          303,
+          304
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§1.6.1.10; concepts and reference-data requirements; PDF 373–376",
+        "pdf_pages": [
+          373,
+          374,
+          375,
+          376
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E04",
+    "question": "Two T2S CSDs, both banks ICP, seller at issuer CSD and buyer at linked investor CSD: what messages flow?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "cross_csd_message_flow",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant",
+      "release": "R2026.JUN",
+      "access_model": "ICP",
+      "currency": "EUR",
+      "link_model": "direct-both-in-T2S"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "t2s-messages",
+      "t2s-realignment",
+      "t2s-posting"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "t2s-messages",
+      "t2s-posting",
+      "t2s-realignment"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§2.3 realignment dialogue; PDF 753",
+        "pdf_pages": [
+          753
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§2.3.8 inbound/outbound messages; PDF 778",
+        "pdf_pages": [
+          778
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§1.6.1.8.1 and first overview paragraph; PDF 303–304",
+        "pdf_pages": [
+          303,
+          304
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§1.6.1.10; concepts and reference-data requirements; PDF 373–376",
+        "pdf_pages": [
+          373,
+          374,
+          375,
+          376
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E05",
+    "question": "Does a valid ECB DCP certificate alone admit me to Copenhagen settlement?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "dcp_admission",
+      "entity": "Copenhagen",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "copenhagen-dcp"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "copenhagen-dcp"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "a7e4ccfb2933",
+        "title": "Part 5 - DCP Service Rules (PDF)",
+        "source_url": "https://www.euronext.com/sites/default/files/2023-08/Rule%20Book%20Part%205%20T2S%20DCP%20Service%20Rules.pdf",
+        "source_sha256": "4ab78c08eb5434df2533c68b055a01f2342c91620ccf70279aaed5c61b2d2586",
+        "source_path": "sources/documents/a7e4ccfb2933-Part-5-DCP-Service-Rules-PDF.pdf",
+        "locator": "Part 5 §§1–3; PDF 2–3",
+        "pdf_pages": [
+          2,
+          3
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "Part 5 DCP rules: published August 2023; still linked in current rulebook.",
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E06",
+    "question": "In Milan, is a participant with a settlement cash agent exempt from having a securities account?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "settlement_access",
+      "entity": "Milan",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "milan-access"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "milan-access"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "8719262f5e8b",
+        "title": "Regulations as of 26 January 2026",
+        "source_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+        "source_sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+        "source_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
+        "locator": "Articles 60–61; PDF 44–45, printed 43–44",
+        "pdf_pages": [
+          44,
+          45
+        ],
+        "body_language": "en",
+        "authoritative_language": "it",
+        "translation_status": "translation; authoritative language differs",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "26 January 2026",
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E07",
+    "question": "For the current T2S baseline, is NTS at 19:30 and are there two partial windows?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "t2s_baseline_schedule",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "t2s-schedule"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "t2s-schedule"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§1.4.2 and exception conditions; PDF 156–158",
+        "pdf_pages": [
+          156,
+          157,
+          158
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "Table 37; PDF 160–163",
+        "pdf_pages": [
+          160,
+          161,
+          162,
+          163
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§1.4.4.1; PDF 163",
+        "pdf_pages": [
+          163
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E08",
+    "question": "What was the announced EUR DvP cut-off on 8 September 2026?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "dated_t2s_schedule",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant",
+      "business_date": "2026-09-08",
+      "currency": "EUR"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "t2s-events-sep08",
+      "t2s-schedule"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "t2s-events-sep08",
+      "t2s-schedule"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "ecb-status-2026",
+        "title": "ecb-status-2026",
+        "source_url": "https://www.ecb.europa.eu/paym/target/html/t2s_history_2026_include.en.html",
+        "source_sha256": "7ab1d605dfa6f966301369c97347df0046262dcf7bf9cdd504ff49ecfdb1c8eb",
+        "source_path": "implementation/2026-09-13/sources/ecb-status-2026.html",
+        "locator": "8 September 2026 updates: 15:30,18:10,18:55 and same-day status notices",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": null,
+        "publication_date": null,
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§1.4.2 and exception conditions; PDF 156–158",
+        "pdf_pages": [
+          156,
+          157,
+          158
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "Table 37; PDF 160–163",
+        "pdf_pages": [
+          160,
+          161,
+          162,
+          163
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§1.4.4.1; PDF 163",
+        "pdf_pages": [
+          163
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E09",
+    "question": "A Monday trade is T+2: does the Wednesday T2S business day first start Wednesday morning?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "business_day_timeline",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "t2s-schedule"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "t2s-schedule"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§1.4.2 and exception conditions; PDF 156–158",
+        "pdf_pages": [
+          156,
+          157,
+          158
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "Table 37; PDF 160–163",
+        "pdf_pages": [
+          160,
+          161,
+          162,
+          163
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      },
+      {
+        "source_id": "aa3d5a3b94c9",
+        "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+        "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+        "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+        "locator": "§1.4.4.1; PDF 163",
+        "pdf_pages": [
+          163
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.JUN",
+        "publication_date": "2026-01-22",
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E10",
+    "question": "Is every EU securities trade required to use T+2 on 13 September 2026?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "settlement_cycle",
+      "entity": "EU",
+      "mode": "current",
+      "service": "regulatory",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "csdr-5"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "csdr-5"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "02014R0909-20260117",
+        "title": "CSDR: consolidated 17 January 2026",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117",
+        "source_sha256": "b299e08ef15e62d70ccc8b1b3f86113d6e59d1c1660f35fd2077639fd57c64ee",
+        "source_path": "extracted/02014R0909-20260117-browser.txt",
+        "locator": "CSDR Article 5; consolidation 17 January 2026",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": "EU official languages",
+        "translation_status": "original or official-language text",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": null,
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E11",
+    "question": "Is EU T+1 still a proposal, and when does it apply?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "future_t1",
+      "entity": "EU",
+      "mode": "future",
+      "service": "regulatory",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "t1-law"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "t1-law"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "32025R2075",
+        "title": "T+1 amendment 2025/2075",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075",
+        "source_sha256": "73251948900388a1eb0f56958b2f2b1661f48fb3bc8d82e48cea5530aababa3c",
+        "source_path": "extracted/32025R2075-browser.txt",
+        "locator": "Regulation 2025/2075 Article 1",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": null,
+        "publication_date": null,
+        "revision_date": null
+      },
+      {
+        "source_id": "32025R2075",
+        "title": "T+1 amendment 2025/2075",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075",
+        "source_sha256": "73251948900388a1eb0f56958b2f2b1661f48fb3bc8d82e48cea5530aababa3c",
+        "source_path": "extracted/32025R2075-browser.txt",
+        "locator": "Article 2",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": null,
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E12",
+    "question": "May I promote the November T2S UDFS because the final-publication target was 11 September?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "release_status",
+      "entity": "T2S",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "november-release"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "november-release"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "7244cf50f753",
+        "title": "T2S Draft Scope Defining Documents for R2026.NOV - Market Review",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/CoverNote_Draft_Delivery_T2S_UDFS_R2026.NOV_UHB_R2026.NOV.en.pdf",
+        "source_sha256": "06d90912597eda03b34e4197491e123bca5318a16be5ee9e5ddac526332a07e7",
+        "source_path": "sources/documents/7244cf50f753-T2S-Draft-Scope-Defining-Documents-for-R2026-NOV-Market-Review.pdf",
+        "locator": "R2026.NOV market-review cover note; PDF 1–2",
+        "pdf_pages": [
+          1,
+          2
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "R2026.NOV documents published 3 August 2026 for market review.",
+        "publication_date": null,
+        "revision_date": null
+      },
+      {
+        "source_id": "ecb-sdd-hub",
+        "title": "ecb-sdd-hub",
+        "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/html/index.en.html",
+        "source_sha256": "e8644b0db5d646a11354c9f9685895698328696c946e2b4d929e036c9a430446",
+        "source_path": "implementation/2026-09-13/sources/ecb-sdd-hub.html",
+        "locator": "Live SDD hub release listings, 13 September 2026",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": null,
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E13",
+    "question": "On 13 September, does the daily eligible ISIN sheet prove BE0003809267’s new designated CSD is already operational?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "isin_scope",
+      "entity": "Milan",
+      "mode": "reference",
+      "service": "reference",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "offering-workbook-scope"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "offering-workbook-scope"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "ac385b0f3106",
+        "title": "ISINs eligible for settlement in Euronext Securities Milan 2026-09-11",
+        "source_url": "https://www.euronext.com/sites/default/files/2026-09/ISINs%20eligible%20for%20settlement%20in%20Euronext%20Securities%20Milan%202026-09-11.xlsx?VersionId=W9q4Cxr4Dog5dqZVMCUwWuDNNnIFGBUR",
+        "source_sha256": "11176d0710f94c3be8379e56c25c987dc484097cc825b35f8e70bd0504807bfc",
+        "source_path": "sources/documents/ac385b0f3106-ISINs-eligible-for-settlement-in-Euronext-Securities-Milan-2026-09-11.xlsx",
+        "locator": "Introduction B5:B8 and full Introduction; 11 September workbook",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "Eligible ISIN list: daily snapshot 11 September 2026.",
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E14",
+    "question": "Can the Convergence v1.6 flow establish the current Athens production interface?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "athens_production_interface",
+      "entity": "Athens",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "blocked",
+    "required_section_ids": [],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "blocked",
+    "retrieved_section_ids": [],
+    "retrieved_citations": [],
+    "outcome": "PASS",
+    "reason": "Current DSS technical notices and exact interface specifications required.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E15",
+    "question": "Does the Athens “Amendment 8” hub label prove a conflict with the seven-amendment PDF?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "document_identity",
+      "entity": "Athens",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "athens-edition"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "athens-edition"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "d89c56df8c5a",
+        "title": "ATHEXCSD Rulebook - Amendment 8",
+        "source_url": "https://athens.euronext.com/sites/default/files/2026-06/ATHEXCSD_RULEBOOK_7th_Ammendment_383_24.11.2025_FORCE_8.12.2025.pdf",
+        "source_sha256": "d56878f3174be350e6f722be9e21a63f2b3cd64109998a69b6a7dec8f226ef82",
+        "source_path": "sources/documents/d89c56df8c5a-ATHEXCSD-Rulebook-Amendment-8.pdf",
+        "locator": "English master amendment history; PDF 2",
+        "pdf_pages": [
+          2
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "Hub says Amendment 8; filename and internal history indicate 7th amendment, with late-2025 dates.",
+        "publication_date": null,
+        "revision_date": null
+      },
+      {
+        "source_id": "athens-greek-master",
+        "title": "athens-greek-master",
+        "source_url": "https://athens.euronext.com/sites/default/files/2026-06/%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3_%CE%9B%CE%95%CE%99%CE%A4%CE%9F%CE%A5%CE%A1%CE%93%CE%99%CE%91%CE%A3_%CE%95%CE%9B%CE%9A%CE%91%CE%A4_7%CE%B7_%CE%A4%CF%81%CE%BF%CF%80%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7_383_24.11.2025_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_8.12.2025.pdf",
+        "source_sha256": "55c319194d12ab734319cd32aaf16578db3cbfbbb54c5fe7e5f5ea0425d6debd",
+        "source_path": "audits/2026-09-13/sources/athens-greek-master.pdf",
+        "locator": "Greek master amendment history; PDF 2",
+        "pdf_pages": [
+          2
+        ],
+        "body_language": "el",
+        "authoritative_language": "el",
+        "translation_status": "original or official-language text",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": null,
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E16",
+    "question": "Can we remove the Oslo subject-to-approval warning because Finanstilsynet approved VPO NOK?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "approval_status",
+      "entity": "Oslo",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "oslo-edition"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "oslo-edition"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "14dc34b8e54e",
+        "title": "ES-OSL VPS NOK Rules.pdf",
+        "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+        "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+        "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+        "locator": "VPO NOK Rules cover, 2 September 2024",
+        "pdf_pages": [
+          1
+        ],
+        "body_language": "en",
+        "authoritative_language": "no",
+        "translation_status": "translation; authoritative language differs",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E17",
+    "question": "Does an Oslo substitute liquidity bank have the primary bank’s mandatory funding duty?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "liquidity_duties",
+      "entity": "Oslo",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "oslo-liquidity",
+      "oslo-edition"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "oslo-edition",
+      "oslo-liquidity"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "14dc34b8e54e",
+        "title": "ES-OSL VPS NOK Rules.pdf",
+        "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+        "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+        "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+        "locator": "VPO NOK Rules cover, 2 September 2024",
+        "pdf_pages": [
+          1
+        ],
+        "body_language": "en",
+        "authoritative_language": "no",
+        "translation_status": "translation; authoritative language differs",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+        "publication_date": null,
+        "revision_date": null
+      },
+      {
+        "source_id": "14dc34b8e54e",
+        "title": "ES-OSL VPS NOK Rules.pdf",
+        "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+        "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+        "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+        "locator": "VPO NOK Rules §§9–10; PDF 17–18",
+        "pdf_pages": [
+          17,
+          18
+        ],
+        "body_language": "en",
+        "authoritative_language": "no",
+        "translation_status": "translation; authoritative language differs",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E18",
+    "question": "What fee applies to a Copenhagen trade on 20 September versus 20 November 2026?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "fee_amount",
+      "entity": "Copenhagen",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "blocked",
+    "required_section_ids": [],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "blocked",
+    "retrieved_section_ids": [],
+    "retrieved_citations": [],
+    "outcome": "PASS",
+    "reason": "Exact tariff row, service, charging basis, currency and transaction date must be reviewed.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E19",
+    "question": "Are Copenhagen VP and T2S business-day boundaries the same?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "business_day_timeline",
+      "entity": "Copenhagen",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "copenhagen-day"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "copenhagen-day"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "3d76a327339b",
+        "title": "Part 4 - Settlement Rules (PDF)",
+        "source_url": "https://www.euronext.com/sites/default/files/2025-05/es-cph_rule_book_part_4_settlement_rules.pdf",
+        "source_sha256": "3d0aa6ae592cbd924203c7ac8d529666ecdc00903876579ea43262a48c4e716c",
+        "source_path": "sources/documents/3d76a327339b-Part-4-Settlement-Rules-PDF.pdf",
+        "locator": "Part 4 §§1–2.2.6; PDF 3",
+        "pdf_pages": [
+          3
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "Part 4 Settlement Rules: 1 May 2025.",
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E20",
+    "question": "Does Porto DCP replace the legal relationship with INTERBOLSA?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "dcp_relationship",
+      "entity": "Porto",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "porto-dcp"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "porto-dcp"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "fcbc69b0fc35",
+        "title": "INTERBOLSA Regulation 1/2016",
+        "source_url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.01.consolidado.en_.pdf",
+        "source_sha256": "c14808b47f9ef15c3b68b51622dd6f14e8dda6d61f6b1c25ad1ac8ff24e13c85",
+        "source_path": "sources/documents/fcbc69b0fc35-INTERBOLSA-Regulation-1-2016.pdf",
+        "locator": "Regulation 1/2016 Article 2, including 2(4); PDF 1–2",
+        "pdf_pages": [
+          1,
+          2
+        ],
+        "body_language": "en",
+        "authoritative_language": "pt",
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "Regulation 1/2016, consolidated through amendments listed on its cover, including 3/2022. Posted July 2023.",
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E21",
+    "question": "What are Porto daily reconciliation/report families for a participant?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "reconciliation_reports",
+      "entity": "Porto",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "porto-report-families"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "porto-report-families"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "089b7aaef991",
+        "title": "Operational Manual of INTERBOLSA",
+        "source_url": "https://www.euronext.com/sites/default/files/2026-04/20260216_Manual%20Operativo_V43_EN.pdf",
+        "source_sha256": "95c924da7de39631e51a58e4a0a3ec998994c6021a7d02b36c6883f4af2479ec",
+        "source_path": "sources/documents/089b7aaef991-Operational-Manual-of-INTERBOLSA.pdf",
+        "locator": "Operational Manual §7.1; PDF 66, printed 65",
+        "pdf_pages": [
+          66
+        ],
+        "body_language": "en",
+        "authoritative_language": "pt",
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "Operational Manual V43. Internal date 26 January 2026; filename 16 February 2026; posted April 2026.",
+        "publication_date": null,
+        "revision_date": null
+      },
+      {
+        "source_id": "04b490f176fe",
+        "title": "Layouts ISO 15022 Messages Specifications",
+        "source_url": "https://www.euronext.com/sites/default/files/2026-01/20260126_ISO%2015022%20Messages_EN_v9.pdf",
+        "source_sha256": "1f695984eab8e8a9658728b942dc30d8b3c736a8f3bcd8addd765610cf3f43d0",
+        "source_path": "sources/documents/04b490f176fe-Layouts-ISO-15022-Messages-Specifications.pdf",
+        "locator": "ISO15022 v9 reconciliation-message overview; PDF 3",
+        "pdf_pages": [
+          3
+        ],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "ISO 15022 manual V9: 26 January 2026.",
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E22",
+    "question": "Is Porto completely closed on 1 May 2026?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "porto_calendar",
+      "entity": "Porto",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant",
+      "business_date": "2026-05-01",
+      "payment_type": "FOP"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "porto-calendar"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "porto-calendar"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "porto-calendar-notice",
+        "title": "porto-calendar-notice",
+        "source_url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162",
+        "source_sha256": "011c306c60c6c03c690028ed8b25840f20eec484a2583d6895b15199e83a4054",
+        "source_path": "implementation/2026-09-13/sources/porto-calendar-notice.html",
+        "locator": "Notice 25/1162, dated 17 November 2025; 2026 calendar",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": null,
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E23",
+    "question": "Do Athens EUR and non-EUR settlement cash arrangements use the same bank and account?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "cash_arrangements",
+      "entity": "Athens",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "athens-cash"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "athens-cash"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "410859953fce",
+        "title": "ATHEXCSD Resolution 5",
+        "source_url": "https://athens.euronext.com/sites/default/files/2025-12/RESOLUTION_Nr5-ATHEXCSD_383_24.11.2025_FORCE%208.12.2025.DOC.pdf",
+        "source_sha256": "4ebc4905414cd0ce1bbdfd92a44c4d42c72a1f898ab8d6c0a0d2c22a2139f56e",
+        "source_path": "sources/documents/410859953fce-ATHEXCSD-Resolution-5.pdf",
+        "locator": "Resolution 5 purpose/scope and §§1.1–1.2; PDF 2–4",
+        "pdf_pages": [
+          2,
+          3,
+          4
+        ],
+        "body_language": "en",
+        "authoritative_language": "el",
+        "translation_status": "translation; authoritative language differs",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "Resolution 5: effective 8 December 2025.",
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E24",
+    "question": "Does Athens staff certification mean every participant must have the same CSA requirements without exceptions?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "staff_certification",
+      "entity": "Athens",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "athens-csa"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "athens-csa"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "513a8da7c0ad",
+        "title": "ATHEXCSD Resolution 2",
+        "source_url": "https://athens.euronext.com/sites/default/files/2026-07/RESOLUTION_Nr_2_ATHEXCSD_30062026_FORCE_20072026.pdf",
+        "source_sha256": "29cb65764016439aa3d9b93cf7231ef73e9368e2be68cdf74bee26244892fda7",
+        "source_path": "sources/documents/513a8da7c0ad-ATHEXCSD-Resolution-2.pdf",
+        "locator": "Resolution 2 §§1 and 2.1(1), including exemptions and effect footnote; PDF 1–2",
+        "pdf_pages": [
+          1,
+          2
+        ],
+        "body_language": "en",
+        "authoritative_language": "el",
+        "translation_status": "translation; authoritative language differs",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "Resolution 2: effective 20 July 2026, confirmed by PDF footnote.",
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E25",
+    "question": "Is daily issue reconciliation a duty only on the participant?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "reconciliation_duties",
+      "entity": "EU",
+      "mode": "current",
+      "service": "regulatory",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "csdr-37"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "csdr-37"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "02014R0909-20260117",
+        "title": "CSDR: consolidated 17 January 2026",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117",
+        "source_sha256": "b299e08ef15e62d70ccc8b1b3f86113d6e59d1c1660f35fd2077639fd57c64ee",
+        "source_path": "extracted/02014R0909-20260117-browser.txt",
+        "locator": "CSDR Article 37; consolidation 17 January 2026",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": "EU official languages",
+        "translation_status": "original or official-language text",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": null,
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E26",
+    "question": "Who must offer omnibus and individual client segregation?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "segregation_duties",
+      "entity": "EU",
+      "mode": "current",
+      "service": "regulatory",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "csdr-38"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "csdr-38"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "02014R0909-20260117",
+        "title": "CSDR: consolidated 17 January 2026",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117",
+        "source_sha256": "b299e08ef15e62d70ccc8b1b3f86113d6e59d1c1660f35fd2077639fd57c64ee",
+        "source_path": "extracted/02014R0909-20260117-browser.txt",
+        "locator": "CSDR Article 38; consolidation 17 January 2026",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": "EU official languages",
+        "translation_status": "original or official-language text",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": null,
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E27",
+    "question": "Give an exact English quote from DORA using the archived English-labelled consolidated capture.",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "dora_scope",
+      "entity": "EU",
+      "mode": "current",
+      "service": "regulatory",
+      "role": "csd_operator"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "dora-scope"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "dora-scope"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "dora-english-oj",
+        "title": "Regulation - 2022/2554 - EN - DORA - EUR-Lex Log in English",
+        "source_url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng",
+        "source_sha256": "ab6a69009048a936ae5bda807d2516d66eca3df98772612ee0476e28aaa54c75",
+        "source_path": "audits/2026-09-13/sources/dora-english-oj.html",
+        "locator": "Regulation 2022/2554 Article 2, including exclusions",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": "EU official languages",
+        "translation_status": "original or official-language text",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "OJ Regulation (EU) 2022/2554",
+        "publication_date": null,
+        "revision_date": null
+      },
+      {
+        "source_id": "dora-english-oj",
+        "title": "Regulation - 2022/2554 - EN - DORA - EUR-Lex Log in English",
+        "source_url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng",
+        "source_sha256": "ab6a69009048a936ae5bda807d2516d66eca3df98772612ee0476e28aaa54c75",
+        "source_path": "audits/2026-09-13/sources/dora-english-oj.html",
+        "locator": "Article 64",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": "EU official languages",
+        "translation_status": "original or official-language text",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "OJ Regulation (EU) 2022/2554",
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E28",
+    "question": "Give the complete production matching-field list from the current plain-text extraction.",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "production_matching_fields",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "blocked",
+    "required_section_ids": [],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "blocked",
+    "retrieved_section_ids": [],
+    "retrieved_citations": [],
+    "outcome": "PASS",
+    "reason": "Functional diagrams repaired; production MyStandards/XSD usage dependencies not validated.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E29",
+    "question": "What is INTERBOLSA’s LEI? Can I join directly on the ESMA cell?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "entity_identity",
+      "entity": "Porto",
+      "mode": "reference",
+      "service": "reference",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "interbolsa-identity"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "interbolsa-identity"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "gleif-interbolsa",
+        "title": "gleif-interbolsa",
+        "source_url": "https://api.gleif.org/api/v1/lei-records/529900LG70TCAGWCXT47",
+        "source_sha256": "3c4c6b08263c31f71d59224ab3d7075f78843209a2f6491aa793ea81baad27fe",
+        "source_path": "implementation/2026-09-13/sources/gleif-interbolsa.json",
+        "locator": "GLEIF lei/legalName/registration JSON fields; ESMA C25 separately",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": null,
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E30",
+    "question": "Does the Milan July 2026 ESMA extension establish a new general settlement permission?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "register_decision_type",
+      "entity": "Milan",
+      "mode": "reference",
+      "service": "reference",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "esma-decision"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "esma-decision"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "535f6a23062a",
+        "title": "CSD Register",
+        "source_url": "https://www.esma.europa.eu/sites/default/files/2025-10/ESMA74-1194755578-334_CSDR_Register_Art_21_58.xlsx",
+        "source_sha256": "b68c232b0d21f8ddec067adb619f90c48efdb08cde4d7c9de0b9abf6a361e54d",
+        "source_path": "sources/documents/535f6a23062a-CSD-Register.xlsx",
+        "locator": "0- Info B12 and 1- CSD authorisations rows 23 and 36",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": "ESMA register: 2 September 2026, confirmed in 0- Info!B12 and HTTP Last-Modified.",
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E31",
+    "question": "Does the DvP 100-share/EUR1000 cross-CSD example prove an atomic swap of two different securities?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "securities_swap_atomicity",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "blocked",
+    "required_section_ids": [],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "blocked",
+    "retrieved_section_ids": [],
+    "retrieved_citations": [],
+    "outcome": "PASS",
+    "reason": "Two-security structure, actual eligible links and supported instruction linkage require separate evidence.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E32",
+    "question": "Which November X-TRM market identifier must I send now for Vorvel?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "production_xtrm_fields",
+      "entity": "Milan",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "blocked",
+    "required_section_ids": [],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "blocked",
+    "retrieved_section_ids": [],
+    "retrieved_citations": [],
+    "outcome": "PASS",
+    "reason": "Current production X-TRM standard and service entitlements required; future notice is not a payload specification.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E33",
+    "question": "Do all changes in Commission C(2026)4640 apply on 7 December 2026?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "future_rts_dates",
+      "entity": "EU",
+      "mode": "future",
+      "service": "regulatory",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "future-rts-dates"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "evidence_only",
+    "retrieved_section_ids": [
+      "future-rts-dates"
+    ],
+    "retrieved_citations": [
+      {
+        "source_id": "591deafae0a9",
+        "title": "EUR-Lex - C(2026)4640 - EN - EUR-Lex Log in English",
+        "source_url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640",
+        "source_sha256": "c7dcebf908e250de08221a059767b4de56072b43e91e3233dfe26ddeaf18b992",
+        "source_path": "audits/2026-09-13/sources/591deafae0a9.html",
+        "locator": "C(2026)4640 final, Article 2",
+        "pdf_pages": [],
+        "body_language": "en",
+        "authoritative_language": null,
+        "translation_status": "not independently established",
+        "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+        "source_verified_as_of": "2026-09-13",
+        "document_version": null,
+        "publication_date": null,
+        "revision_date": null
+      }
+    ],
+    "outcome": "PASS",
+    "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  },
+  {
+    "id": "E34",
+    "question": "Can the four-CSD corporate-events guide answer an Athens tax deadline?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "athens_tax_deadline",
+      "entity": "Athens",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "blocked",
+    "required_section_ids": [],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers.",
+    "actual_status": "blocked",
+    "retrieved_section_ids": [],
+    "retrieved_citations": [],
+    "outcome": "PASS",
+    "reason": "The four-CSD handbook does not establish Athens tax deadlines.",
+    "llm_answer_evaluation": "NOT_RUN",
+    "actual_model_answer": null
+  }
+]

@@ -1,0 +1,17 @@
+HTTP/2 200 
+content-type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+content-length: 169303
+date: Mon, 14 Sep 2026 08:53:32 GMT
+x-age: 591
+x-content-type-options: nosniff
+last-modified: Wed, 02 Sep 2026 07:02:04 GMT
+etag: "29557-65a7a9ce27a30"
+accept-ranges: bytes
+x-fpfis: 2470096082 2472681785
+strict-transport-security: max-age=31536000; includeSubDomains; preload;
+cache-control: public, max-age=300, s-maxage=300
+x-cache: Miss from cloudfront
+via: 1.1 be572a72d8dfb46597055559d40f5b42.cloudfront.net (CloudFront)
+x-amz-cf-pop: MXP63-P5
+x-amz-cf-id: __nCDL03GG2qLz3FI_D2LeVMKpvn25eAdHuG45eoLKEuFDmdZbhmaw==
+

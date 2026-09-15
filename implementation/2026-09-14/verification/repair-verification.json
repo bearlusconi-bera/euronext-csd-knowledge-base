@@ -1,0 +1,134 @@
+{
+  "summary": {
+    "adversarial_cases": 31,
+    "adversarial_passed": 31,
+    "repair_checks": 30,
+    "repair_checks_passed": 30,
+    "changed_historical_files": [],
+    "build_manifest_sha256": "070d9793e16f9a3d074f724e4e3ac5e1a52037cfc2f4cf304f566f186182a7d6",
+    "failures": [],
+    "llm_answer_evaluation": "NOT_RUN"
+  },
+  "checks": [
+    {
+      "name": "Original 31 case definitions unchanged",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Date supplied on baseline route defaults to actual and includes overlay",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Explicit nominal baseline stays usable and labelled",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Actual question cannot silently change into baseline",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Actual scope requires a business date",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Actual scope requires currency",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Unknown schedule scope rejected",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Local actual schedule cannot inherit T2S overlay",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Schedule reached through a dependency also requires an event overlay",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Empty business date rejected",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Compact ISO date rejected",
+      "outcome": "PASS"
+    },
+    {
+      "name": "14 September query selects only final-publication evidence",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Reported evidence date matches scoped review",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Final-publication source provenance is dated 14 September",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Final publication is not production deployment",
+      "outcome": "PASS"
+    },
+    {
+      "name": "13 September query retains its historical draft evidence",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Later publication source cannot leak into older query",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Unknown release blocked in new review date",
+      "outcome": "PASS"
+    },
+    {
+      "name": "New publication review does not refresh operational evidence",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Final November text cannot enter current operational mode",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Copenhagen current evidence is explicitly a publication description",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Copenhagen publication description does not establish historical duties",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Porto current evidence is explicitly a publication description",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Porto publication description does not establish historical duties",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Summary CLI preserves authoritative language and translation",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Missing structured derivative blocks without an exception",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Tested build binds retrieval implementation bytes",
+      "outcome": "PASS"
+    },
+    {
+      "name": "Date-partitioned exports contain only their exact review date",
+      "outcome": "PASS"
+    },
+    {
+      "name": "14 September current-operational export is deliberately empty",
+      "outcome": "PASS"
+    },
+    {
+      "name": "All historical audit/evaluation files preserved",
+      "outcome": "PASS"
+    }
+  ]
+}

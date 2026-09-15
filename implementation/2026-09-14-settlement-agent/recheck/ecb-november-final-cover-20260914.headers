@@ -1,0 +1,13 @@
+HTTP/2 200 
+server: myracloud
+date: Mon, 14 Sep 2026 08:53:32 GMT
+content-type: application/pdf
+content-length: 282627
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=63072000; includeSubDomains
+last-modified: Fri, 11 Sep 2026 14:14:27 GMT
+x-xss-protection: 1; mode=block
+expires: Mon, 14 Sep 2026 09:53:32 GMT
+cache-control: max-age=3600
+accept-ranges: bytes
+

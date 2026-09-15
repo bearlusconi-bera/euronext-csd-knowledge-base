@@ -1,0 +1,18 @@
+HTTP/2 200 
+server: CloudFront
+content-type: application/pdf
+content-length: 416385
+date: Mon, 14 Sep 2026 08:53:28 GMT
+last-modified: Fri, 31 Jan 2025 13:33:59 GMT
+etag: "279af4e66840ba23b3483875dcd0f67c"
+x-amz-server-side-encryption: aws:kms
+x-amz-server-side-encryption-bucket-key-enabled: true
+x-amz-version-id: 3oeWrp7N.p06cUO9r7HVi7FxIp5zc1N.
+accept-ranges: bytes
+via: 1.1 9bfcf7f1602818c6cf84c928b179817e.cloudfront.net (CloudFront)
+alt-svc: h3=":443"; ma=86400
+content-disposition: attachment
+x-cache: Miss from cloudfront
+x-amz-cf-pop: MXP63-P6
+x-amz-cf-id: 23bJw97LzrtHHfSmM61bZnS9F5k-xYlkAMny4UCPzCREiIcwtWCxlA==
+

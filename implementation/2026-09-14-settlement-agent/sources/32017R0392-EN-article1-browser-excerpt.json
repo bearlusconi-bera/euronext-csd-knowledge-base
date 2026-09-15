@@ -1,0 +1,13 @@
+{
+  "id": "32017R0392-en-article1",
+  "title": "Commission Delegated Regulation (EU) 2017/392 — English OJ text, Article 1 definitions (browser excerpt)",
+  "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0392",
+  "captured_on": "2026-09-14",
+  "method": "in-app browser innerText; excerpt saved verbatim; full-page hash recorded",
+  "full_page_innerText_length": 211290,
+  "full_page_innerText_sha256": "23b00ba08bdb260f37dd428bbe9cab029f5b69f282ff4681d54f6a17f4c8d655",
+  "excerpt_sha256": "c3c8b3defce8898147f35d4df64e61334cb3b1aadb2259a166367418bffa861a",
+  "language": "en",
+  "authoritative_language": "EU official languages",
+  "anomaly": "Library capture 02017R0392-20170310-browser.txt (labelled EN consolidated) contains German operative text; EUR-Lex served DE for the EN consolidated URL on 2026-09-14."
+}

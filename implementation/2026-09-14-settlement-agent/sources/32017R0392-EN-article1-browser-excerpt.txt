@@ -1,0 +1,87 @@
+# Browser capture excerpt — Commission Delegated Regulation (EU) 2017/392, English Official Journal text (CELEX 32017R0392)
+# Source URL: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0392
+# Captured 2026-09-14 via the in-app browser (document.body.innerText); direct HTTP to EUR-Lex returns a 202 challenge in this environment.
+# Full page innerText length 211290 characters; SHA-256 of full innerText 23b00ba08bdb260f37dd428bbe9cab029f5b69f282ff4681d54f6a17f4c8d655.
+# This file stores ONLY the excerpt from 'HAS ADOPTED THIS REGULATION' to the end of Article 2 (Chapter I definitions), exactly as captured. Footnote markers (4),(5) refer to OJ footnotes not included.
+# The consolidated EN page (CELEX 02017R0392-20170310) displayed German text on 2026-09-14 ('The document is unavailable in your User interface language'); the library's earlier capture of that page (extracted/02017R0392-20170310-browser.txt) is therefore German-language, not English.
+
+HAS ADOPTED THIS REGULATION:
+
+CHAPTER I
+
+GENERAL PROVISIONS
+
+Article 1
+
+Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(a)
+
+	
+
+‘review period’ means the period under review beginning on the day following the end of the previous review and evaluation period;
+
+(b)
+
+	
+
+‘settlement instruction’ means a transfer order as defined in point (i) of Article 2 of Directive 98/26/EC of the European Parliament and of the Council (4);
+
+(c)
+
+	
+
+‘settlement restriction’ means the blocking, reservation or earmarking of securities that make them unavailable for settlement, or the blocking or reservation of cash that make it unavailable for settlement;
+
+(d)
+
+	
+
+‘exchange-traded fund’ (ETF) means a fund as defined in point (46) of Article 4(1) of Directive 2014/65/EU of the European Parliament and of the Council (5);
+
+(e)
+
+	
+
+‘issuer CSD’ means a CSD which provides the core service referred to in point 1 or 2 of Section A of the Annex to Regulation (EU) No 909/2014 in relation to a securities issue;
+
+(f)
+
+	
+
+‘investor CSD’ means a CSD that either is a participant in the securities settlement system operated by another CSD or that uses a third party or an intermediary that is a participant in the securities settlement system operated by another CSD in relation to a securities issue;
+
+(g)
+
+	
+
+‘durable medium’ means any instrument which enables the storage of information in a way that is accessible for future reference for a period of time adequate for the purposes of the information, and allows the unchanged reproduction of the information stored.
+
+CHAPTER II
+
+DETERMINATION OF THE MOST RELEVANT CURRENCIES AND PRACTICAL ARRANGEMENTS FOR THE CONSULTATION OF THE RELEVANT COMPETENT AUTHORITIES
+
+(Article 12(1)(b) and (c) of Regulation (EU) No 909/2014)
+
+Article 2
+
+Determination of most relevant currencies
+
+1.   The most relevant currencies referred to in point (b) of Article 12(1) of Regulation (EU) No 909/2014 shall be identified according to either of the following calculations:
+
+(a)
+
+	
+
+the relative share of each Union currency in the total value of the settlement by a CSD of settlement instructions against payment, calculated over a period of one year, provided that each individual share exceeds 1 %;
+
+(b)
+
+	
+
+the relative share of settlement instructions against payment settled by a CSD in a Union currency compared to the total value of settlement instructions against payment settled in that currency across all CSDs in the Union, calculated over a period of one year, provided that each individual share exceeds 10 %.
+
+2.   The calculations referred to in paragraph 1 shall be done on an annual basis by the competent authority of each CSD.
+

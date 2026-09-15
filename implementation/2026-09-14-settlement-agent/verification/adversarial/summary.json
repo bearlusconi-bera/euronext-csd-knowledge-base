@@ -1,0 +1,25 @@
+{
+  "audit_date": "2026-09-14",
+  "knowledge_snapshot": "2026-09-13",
+  "existing_routing_passed": 34,
+  "existing_routing_total": 34,
+  "new_adversarial_passed": 31,
+  "new_adversarial_total": 31,
+  "failures_by_finding": {},
+  "whole_document_defaults": {
+    "before": {
+      "documents": 49,
+      "legal_texts": 12
+    },
+    "after": {
+      "documents": 0,
+      "legal_texts": 0
+    }
+  },
+  "originals_unchanged": 800,
+  "changed_original_ids": [],
+  "reviewed_artifacts_unchanged": true,
+  "protected_file_count": 21,
+  "answer_quality_score": null,
+  "limits": "Purpose-built adversarial probes, not a population failure rate or independent LLM benchmark. Before-state comparison is corpus exposure, not an executed old answer service."
+}

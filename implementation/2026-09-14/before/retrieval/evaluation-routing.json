@@ -1,0 +1,584 @@
+[
+  {
+    "id": "E01",
+    "question": "For Milan, does “T2S matched” prove that securities and cash moved?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "matching_concept",
+      "entity": "Milan",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "milan-finality",
+      "t2s-matching",
+      "t2s-posting"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E02",
+    "question": "Can a Milan matched instruction always be cancelled unilaterally?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "cancellation_rules",
+      "entity": "Milan",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "milan-finality"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E03",
+    "question": "Can instructions match before ISD, and does realignment generation move securities immediately?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "realignment_mechanism",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "t2s-matching",
+      "t2s-realignment",
+      "t2s-posting"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E04",
+    "question": "Two T2S CSDs, both banks ICP, seller at issuer CSD and buyer at linked investor CSD: what messages flow?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "cross_csd_message_flow",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant",
+      "release": "R2026.JUN",
+      "access_model": "ICP",
+      "currency": "EUR",
+      "link_model": "direct-both-in-T2S"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "t2s-messages",
+      "t2s-realignment",
+      "t2s-posting"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E05",
+    "question": "Does a valid ECB DCP certificate alone admit me to Copenhagen settlement?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "dcp_admission",
+      "entity": "Copenhagen",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "copenhagen-dcp"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E06",
+    "question": "In Milan, is a participant with a settlement cash agent exempt from having a securities account?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "settlement_access",
+      "entity": "Milan",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "milan-access"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E07",
+    "question": "For the current T2S baseline, is NTS at 19:30 and are there two partial windows?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "t2s_baseline_schedule",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "t2s-schedule"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E08",
+    "question": "What was the announced EUR DvP cut-off on 8 September 2026?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "dated_t2s_schedule",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant",
+      "business_date": "2026-09-08",
+      "currency": "EUR"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "t2s-events-sep08",
+      "t2s-schedule"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E09",
+    "question": "A Monday trade is T+2: does the Wednesday T2S business day first start Wednesday morning?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "business_day_timeline",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "t2s-schedule"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E10",
+    "question": "Is every EU securities trade required to use T+2 on 13 September 2026?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "settlement_cycle",
+      "entity": "EU",
+      "mode": "current",
+      "service": "regulatory",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "csdr-5"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E11",
+    "question": "Is EU T+1 still a proposal, and when does it apply?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "future_t1",
+      "entity": "EU",
+      "mode": "future",
+      "service": "regulatory",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "t1-law"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E12",
+    "question": "May I promote the November T2S UDFS because the final-publication target was 11 September?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "release_status",
+      "entity": "T2S",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "november-release"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E13",
+    "question": "On 13 September, does the daily eligible ISIN sheet prove BE0003809267’s new designated CSD is already operational?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "isin_scope",
+      "entity": "Milan",
+      "mode": "reference",
+      "service": "reference",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "offering-workbook-scope"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E14",
+    "question": "Can the Convergence v1.6 flow establish the current Athens production interface?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "athens_production_interface",
+      "entity": "Athens",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "blocked",
+    "required_section_ids": [],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E15",
+    "question": "Does the Athens “Amendment 8” hub label prove a conflict with the seven-amendment PDF?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "document_identity",
+      "entity": "Athens",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "athens-edition"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E16",
+    "question": "Can we remove the Oslo subject-to-approval warning because Finanstilsynet approved VPO NOK?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "approval_status",
+      "entity": "Oslo",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "oslo-edition"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E17",
+    "question": "Does an Oslo substitute liquidity bank have the primary bank’s mandatory funding duty?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "liquidity_duties",
+      "entity": "Oslo",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "oslo-liquidity",
+      "oslo-edition"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E18",
+    "question": "What fee applies to a Copenhagen trade on 20 September versus 20 November 2026?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "fee_amount",
+      "entity": "Copenhagen",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "blocked",
+    "required_section_ids": [],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E19",
+    "question": "Are Copenhagen VP and T2S business-day boundaries the same?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "business_day_timeline",
+      "entity": "Copenhagen",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "copenhagen-day"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E20",
+    "question": "Does Porto DCP replace the legal relationship with INTERBOLSA?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "dcp_relationship",
+      "entity": "Porto",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "porto-dcp"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E21",
+    "question": "What are Porto daily reconciliation/report families for a participant?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "reconciliation_reports",
+      "entity": "Porto",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "porto-report-families"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E22",
+    "question": "Is Porto completely closed on 1 May 2026?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "porto_calendar",
+      "entity": "Porto",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant",
+      "business_date": "2026-05-01",
+      "payment_type": "FOP"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "porto-calendar"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E23",
+    "question": "Do Athens EUR and non-EUR settlement cash arrangements use the same bank and account?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "cash_arrangements",
+      "entity": "Athens",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "athens-cash"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E24",
+    "question": "Does Athens staff certification mean every participant must have the same CSA requirements without exceptions?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "staff_certification",
+      "entity": "Athens",
+      "mode": "reference",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "athens-csa"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E25",
+    "question": "Is daily issue reconciliation a duty only on the participant?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "reconciliation_duties",
+      "entity": "EU",
+      "mode": "current",
+      "service": "regulatory",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "csdr-37"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E26",
+    "question": "Who must offer omnibus and individual client segregation?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "segregation_duties",
+      "entity": "EU",
+      "mode": "current",
+      "service": "regulatory",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "csdr-38"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E27",
+    "question": "Give an exact English quote from DORA using the archived English-labelled consolidated capture.",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "dora_scope",
+      "entity": "EU",
+      "mode": "current",
+      "service": "regulatory",
+      "role": "csd_operator"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "dora-scope"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E28",
+    "question": "Give the complete production matching-field list from the current plain-text extraction.",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "production_matching_fields",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "blocked",
+    "required_section_ids": [],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E29",
+    "question": "What is INTERBOLSA’s LEI? Can I join directly on the ESMA cell?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "entity_identity",
+      "entity": "Porto",
+      "mode": "reference",
+      "service": "reference",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "interbolsa-identity"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E30",
+    "question": "Does the Milan July 2026 ESMA extension establish a new general settlement permission?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "register_decision_type",
+      "entity": "Milan",
+      "mode": "reference",
+      "service": "reference",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "esma-decision"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E31",
+    "question": "Does the DvP 100-share/EUR1000 cross-CSD example prove an atomic swap of two different securities?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "securities_swap_atomicity",
+      "entity": "T2S",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "blocked",
+    "required_section_ids": [],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E32",
+    "question": "Which November X-TRM market identifier must I send now for Vorvel?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "production_xtrm_fields",
+      "entity": "Milan",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "blocked",
+    "required_section_ids": [],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E33",
+    "question": "Do all changes in Commission C(2026)4640 apply on 7 December 2026?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "future_rts_dates",
+      "entity": "EU",
+      "mode": "future",
+      "service": "regulatory",
+      "role": "participant"
+    },
+    "expected_status": "evidence_only",
+    "required_section_ids": [
+      "future-rts-dates"
+    ],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  },
+  {
+    "id": "E34",
+    "question": "Can the four-CSD corporate-events guide answer an Athens tax deadline?",
+    "context": {
+      "as_of": "2026-09-13",
+      "question_type": "athens_tax_deadline",
+      "entity": "Athens",
+      "mode": "current",
+      "service": "settlement",
+      "role": "participant"
+    },
+    "expected_status": "blocked",
+    "required_section_ids": [],
+    "routing_note": "Explicit human-defined question category; this test does not evaluate natural-language classification or generated answers."
+  }
+]

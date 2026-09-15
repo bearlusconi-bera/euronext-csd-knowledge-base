@@ -1,0 +1,42 @@
+{
+  "source_id": "ac385b0f3106",
+  "source_sha256": "11176d0710f94c3be8379e56c25c987dc484097cc825b35f8e70bd0504807bfc",
+  "source_url": "https://www.euronext.com/sites/default/files/2026-09/ISINs%20eligible%20for%20settlement%20in%20Euronext%20Securities%20Milan%202026-09-11.xlsx?VersionId=W9q4Cxr4Dog5dqZVMCUwWuDNNnIFGBUR",
+  "scope": "European Offering listing snapshot; not universal Milan settlement eligibility",
+  "snapshot_date": "2026-09-11",
+  "data_through": "2026-09-10",
+  "designated_and_alternative_place_columns_apply_from": "2026-09-21",
+  "column_date_evidence": "Introduction B5:B8; preserve each sheet's header cells and all alternative columns",
+  "default_retrieval": false,
+  "review_scope": "Introduction, column headers and audit sample only; rows mechanically extracted, not individually validated",
+  "sheets": [
+    {
+      "name": "Introduction",
+      "max_row": 8,
+      "max_column": 21,
+      "merged_ranges": [
+        "B5:K5",
+        "B6:K6",
+        "B8:K8"
+      ],
+      "cells": [
+        {
+          "address": "B5",
+          "value": "EUROPEAN OFFERING\nISINs eligible for settlement in Euronext Securities Milan"
+        },
+        {
+          "address": "B6",
+          "value": "This file includes three lists: equities listed on the Euronext Amsterdam, Brussels and Paris markets; ETFs, ETNs and ETCs listed on the Euronext Amsterdam, Brussels and Paris markets; and international ETFs listed on the Euronext Amsterdam and Paris markets. The data covers listings up until 10th of September 2026 and excludes instruments settled in a non-euro currency.\n\nThis file aims at listing the alternative options that have been reviewed and verified by Euronext. These options have been assessed as compliant with the applicable operational framework and regulatory requirements, and we are confident that they can be effectively implemented.\n\nThe following information are included in the file: (i) the Designated place of settlement, being the designated place of settlement applicable from 21 September onward; (ii) the Alternative settlement systems, being the alternative CSD option(s) that may be appointed through the dedicated forms; and (iii) the Main Depositary, indicating how the <MainDepositary> field will be populated in the Euronext cash standing data files, noting that, for technical reasons, in certain exception cases this field may not be populated with the Designated Settlement System; in such cases, the Designated place of settlement will instead appear with an asterisk, e.g. “Euronext Securities*”.\n\nAny request for alternative options not included in this table will be subject to further assessment and will be reviewed on a case-by-case basis in accordance with applicable laws, regulations, and internal governance processes.\n\nThe instruments list will be updated on a regular basis with newly listed or delisted securities. \n\nShould you have any questions or require further information, please contact your sales and relationship management representative."
+        },
+        {
+          "address": "U6",
+          "value": "  "
+        },
+        {
+          "address": "B8",
+          "value": "*This publication is for information purposes only and is not intended to serve as professional advice or a recommendation to engage in business activities with Euronext. This publication should not be considered a final commitment for the future provision of specific services or products, and represents the views of Euronext at the time of publication and may be subject to change or modification at any time without notice. This publication is provided without representation or warranty of any kind. Whilst all reasonable care has been taken to ensure the accuracy of the content, Euronext does not guarantee its accuracy, completeness or suitability for any purpose of any kind. The information presented in this publication should not be construed as endorsement or recommendation of specific services or strategies. Decisions made based on the content of this publication is the sole responsibility of the recipient and Euronext disclaim any liability for actions taken or not taken as a result of reliance on the information presented. Euronext will not be held liable for any loss or damages of any nature arising from or in connection with using, trusting or actions taken or not taken in reliance on the information presented. No information set out or referred to in this publication shall be interpreted as a contractual obligation or form the basis of a contract. All rights and interests in or connected with this publication shall vest in Euronext or the third party owner. No part of it may be redistributed or reproduced in any form without the prior written permission of the legitimate owner. \nBy accessing and reading this publication, the recipient acknowledges and agrees to the terms of this disclaimer. Euronext refers to Euronext N.V. and its affiliates. Information on trademarks and intellectual property rights of Euronext can be found at www.euronext.com/terms-use."
+        }
+      ]
+    }
+  ]
+}

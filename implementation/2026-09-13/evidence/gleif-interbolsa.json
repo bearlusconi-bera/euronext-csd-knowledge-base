@@ -1,0 +1,135 @@
+{
+  "id": "gleif-interbolsa",
+  "url": "https://api.gleif.org/api/v1/lei-records/529900LG70TCAGWCXT47",
+  "retrieved_at": "2026-09-13T21:53:49.695827+00:00",
+  "http_status": 200,
+  "final_url": "https://api.gleif.org/api/v1/lei-records/529900LG70TCAGWCXT47",
+  "content_type": "application/vnd.api+json",
+  "local_path": "implementation/2026-09-13/sources/gleif-interbolsa.json",
+  "sha256": "3c4c6b08263c31f71d59224ab3d7075f78843209a2f6491aa793ea81baad27fe",
+  "bytes": 3589,
+  "data_preview": {
+    "lei": "529900LG70TCAGWCXT47",
+    "entity": {
+      "legalName": {
+        "name": "Interbolsa - Sociedade Gestora de Sistemas de Liquidação e de Sistemas Centralizados de Valores Mobiliários, S.A.",
+        "language": "pt"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [
+        {
+          "name": "INTERBOLSA SOCIEDADE GESTORA DE SISTEMAS DE LIQUIDACAO E DE SISTEMAS CENTRALIZADOS DE VALORES MOBILIARIOS SA",
+          "language": "pt",
+          "type": "PREFERRED_ASCII_TRANSLITERATED_LEGAL_NAME"
+        }
+      ],
+      "legalAddress": {
+        "language": "pt",
+        "addressLines": [
+          "Rua Aníbal Cunha, nº 218"
+        ],
+        "addressNumber": null,
+        "addressNumberWithinBuilding": null,
+        "mailRouting": null,
+        "city": "Porto",
+        "region": "PT-13",
+        "country": "PT",
+        "postalCode": "4050-047"
+      },
+      "headquartersAddress": {
+        "language": "pt",
+        "addressLines": [
+          "Rua Aníbal Cunha, nº 218"
+        ],
+        "addressNumber": null,
+        "addressNumberWithinBuilding": null,
+        "mailRouting": null,
+        "city": "Porto",
+        "region": "PT-13",
+        "country": "PT",
+        "postalCode": "4050-047"
+      },
+      "registeredAt": {
+        "id": "RA000487",
+        "other": null
+      },
+      "registeredAs": "502962275",
+      "jurisdiction": "PT",
+      "category": "GENERAL",
+      "legalForm": {
+        "id": "DFE5",
+        "other": null
+      },
+      "associatedEntity": {
+        "lei": null,
+        "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+        "date": null,
+        "reason": null
+      },
+      "successorEntity": {
+        "lei": null,
+        "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2016-02-23T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+        {
+          "groupType": "STANDALONE",
+          "events": [
+            {
+              "validationDocuments": "SUPPORTING_DOCUMENTS",
+              "validationReference": "https://publicacoes.mj.pt/DetalhePublicacao.aspx",
+              "effectiveDate": "2026-02-11T08:00:00Z",
+              "recordedDate": "2026-02-11T14:07:49Z",
+              "type": "CHANGE_LEGAL_ADDRESS",
+              "status": "COMPLETED"
+            }
+          ]
+        },
+        {
+          "groupType": "STANDALONE",
+          "events": [
+            {
+              "validationDocuments": "SUPPORTING_DOCUMENTS",
+              "validationReference": "https://publicacoes.mj.pt/DetalhePublicacao.aspx",
+              "effectiveDate": "2026-02-11T08:00:00Z",
+              "recordedDate": "2026-02-11T14:08:25Z",
+              "type": "CHANGE_HQ_ADDRESS",
+              "status": "COMPLETED"
+            }
+          ]
+        }
+      ]
+    },
+    "registration": {
+      "initialRegistrationDate": "2016-02-23T00:00:00Z",
+      "lastUpdateDate": "2026-02-23T00:00:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-02-23T00:00:00Z",
+      "managingLou": "635400DZBUIMTBCXGA12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+        "id": "RA000487",
+        "other": null
+      },
+      "validatedAs": "502962275",
+      "otherValidationAuthorities": []
+    },
+    "bic": [
+      "IBLSPTPPXXX"
+    ],
+    "mic": null,
+    "ocid": null,
+    "qcc": null,
+    "gem": null,
+    "spglobal": [
+      "38446804"
+    ],
+    "conformityFlag": "CONFORMING"
+  }
+}

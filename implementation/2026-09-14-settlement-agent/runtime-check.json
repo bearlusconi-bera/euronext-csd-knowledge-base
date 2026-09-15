@@ -1,0 +1,12 @@
+{
+  "checked_at_utc": "2026-09-14T09:03:06.153190+00:00",
+  "runtime": "claude CLI 2.1.76 headless (-p, --tools '')",
+  "outcome": "UNAVAILABLE",
+  "evidence": [
+    "2026-09-14T08:59:41.524Z [ERROR] API error (attempt 1/11): 401 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"OAuth access token has expired. Re-authenticate to continue.\"},\"request_id\":null}",
+    "2026-09-14T08:59:42.945Z [ERROR] API error (attempt 2/11): 401 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"OAuth access token has expired. Re-authenticate to continue.\"},\"request_id\":null}",
+    "2026-09-14T08:59:44.986Z [ERROR] API error (attempt 3/11): 401 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"OAuth access token has expired. Re-authenticate to continue.\"},\"request_id\":null}"
+  ],
+  "interpretation": "The standalone CLI credential store holds an expired OAuth token; the CLI retried 11 times and hung until the 90/150 s timeouts. No ANTHROPIC_API_KEY is set and the anthropic Python SDK is not installed. Model-based generation in this environment therefore cannot use the CLI or API runtimes until the user re-authenticates (claude auth login) or supplies an API key.",
+  "fallback_used_for_evaluation": "Claude Code session subagents (Agent tool) acting as responder and judge; recorded separately in the evaluation report."
+}

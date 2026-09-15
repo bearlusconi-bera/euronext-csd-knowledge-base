@@ -1,0 +1,11 @@
+{
+  "id": "porto-timetable-notice",
+  "url": "https://www.euronext.com/en/media/11820/download",
+  "retrieved_at": "2026-09-13T21:53:49.695735+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/media/11820/download",
+  "content_type": "application/pdf",
+  "local_path": "implementation/2026-09-13/sources/porto-timetable-notice.pdf",
+  "sha256": "100d69725552e101460151d8619c9b8a6dd4551512400033a20d499f9ba5b979",
+  "bytes": 187311
+}

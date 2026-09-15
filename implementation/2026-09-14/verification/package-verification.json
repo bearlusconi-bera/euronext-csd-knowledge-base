@@ -1,0 +1,34 @@
+{
+  "outcome": "PASS",
+  "archive": "reviewed-evidence-pack.zip",
+  "sha256": "79a8dd0ece209070b62154fccce021ccd3cad0818bad72f19064810705186786",
+  "bytes": 493429,
+  "member_count": 18,
+  "distinct_sections": 31,
+  "sections_by_mode": {
+    "current": 17,
+    "reference": 12,
+    "future": 5
+  },
+  "sections_by_review_date_and_mode": {
+    "2026-09-13": {
+      "current": 17,
+      "reference": 11,
+      "future": 4
+    },
+    "2026-09-14": {
+      "current": 0,
+      "reference": 1,
+      "future": 1
+    }
+  },
+  "checks": [
+    "Successful current-build verification",
+    "Build artifact hashes",
+    "Mode/date/dependency containment",
+    "Section-set coverage",
+    "ZIP CRC",
+    "Archive membership",
+    "Every member hash"
+  ]
+}

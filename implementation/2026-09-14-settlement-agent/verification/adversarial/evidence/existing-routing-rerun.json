@@ -1,0 +1,270 @@
+[
+  {
+    "id": "E01",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "milan-finality",
+      "t2s-matching",
+      "t2s-posting"
+    ]
+  },
+  {
+    "id": "E02",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "milan-finality"
+    ]
+  },
+  {
+    "id": "E03",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "t2s-matching",
+      "t2s-posting",
+      "t2s-realignment"
+    ]
+  },
+  {
+    "id": "E04",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "t2s-messages",
+      "t2s-posting",
+      "t2s-realignment"
+    ]
+  },
+  {
+    "id": "E05",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "copenhagen-dcp"
+    ]
+  },
+  {
+    "id": "E06",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "milan-access"
+    ]
+  },
+  {
+    "id": "E07",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "t2s-schedule"
+    ]
+  },
+  {
+    "id": "E08",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "t2s-events-sep08",
+      "t2s-schedule"
+    ]
+  },
+  {
+    "id": "E09",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "t2s-schedule"
+    ]
+  },
+  {
+    "id": "E10",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "csdr-5"
+    ]
+  },
+  {
+    "id": "E11",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "t1-law"
+    ]
+  },
+  {
+    "id": "E12",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "november-release"
+    ]
+  },
+  {
+    "id": "E13",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "offering-workbook-scope"
+    ]
+  },
+  {
+    "id": "E14",
+    "outcome": "PASS",
+    "status": "blocked",
+    "sections": []
+  },
+  {
+    "id": "E15",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "athens-edition"
+    ]
+  },
+  {
+    "id": "E16",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "oslo-edition"
+    ]
+  },
+  {
+    "id": "E17",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "oslo-edition",
+      "oslo-liquidity"
+    ]
+  },
+  {
+    "id": "E18",
+    "outcome": "PASS",
+    "status": "blocked",
+    "sections": []
+  },
+  {
+    "id": "E19",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "copenhagen-day"
+    ]
+  },
+  {
+    "id": "E20",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "porto-dcp"
+    ]
+  },
+  {
+    "id": "E21",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "porto-report-families"
+    ]
+  },
+  {
+    "id": "E22",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "porto-calendar"
+    ]
+  },
+  {
+    "id": "E23",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "athens-cash"
+    ]
+  },
+  {
+    "id": "E24",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "athens-csa"
+    ]
+  },
+  {
+    "id": "E25",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "csdr-37"
+    ]
+  },
+  {
+    "id": "E26",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "csdr-38"
+    ]
+  },
+  {
+    "id": "E27",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "dora-scope"
+    ]
+  },
+  {
+    "id": "E28",
+    "outcome": "PASS",
+    "status": "blocked",
+    "sections": []
+  },
+  {
+    "id": "E29",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "interbolsa-identity"
+    ]
+  },
+  {
+    "id": "E30",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "esma-decision"
+    ]
+  },
+  {
+    "id": "E31",
+    "outcome": "PASS",
+    "status": "blocked",
+    "sections": []
+  },
+  {
+    "id": "E32",
+    "outcome": "PASS",
+    "status": "blocked",
+    "sections": []
+  },
+  {
+    "id": "E33",
+    "outcome": "PASS",
+    "status": "evidence_only",
+    "sections": [
+      "future-rts-dates"
+    ]
+  },
+  {
+    "id": "E34",
+    "outcome": "PASS",
+    "status": "blocked",
+    "sections": []
+  }
+]

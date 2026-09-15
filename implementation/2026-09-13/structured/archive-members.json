@@ -1,0 +1,1560 @@
+[
+  {
+    "source_id": "80076c62fcba",
+    "source_sha256": "4e0ceab8084c63a74f6e15932c76634b9d45581be3bda920f4b6224253292e46",
+    "members": [
+      {
+        "name": "GRDECISION18ELKATCHARGES22022021POWER12042021N.pdf",
+        "bytes": 1036833,
+        "admitted": false,
+        "sha256": "9edd1a6ee5163a941ec21b18a78a92c2a8c66854f232490fda64294b61748d7d",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/9edd1a6ee5163a941ec21b18a78a92c2a8c66854f232490fda64294b61748d7d.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "GRDECISION18ELKATPRICELISTOFCHARGES26042021.pdf",
+        "bytes": 1275761,
+        "admitted": false,
+        "sha256": "4ef7b9f1933cae7a1d89426262d30534ff7c6318d213488c17752b6d4d1dd479",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/4ef7b9f1933cae7a1d89426262d30534ff7c6318d213488c17752b6d4d1dd479.pdf",
+        "status": "staged-not-semantically-reviewed"
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "zip"
+  },
+  {
+    "source_id": "2421a06bd7fd",
+    "source_sha256": "a08df20ad428f88887a5a6bf89bd0757b35f6164987604f654b85b78c812862b",
+    "members": [
+      {
+        "name": "T2S_Business-Rules_Extract_UDFS_UHB_R2026.NOV_20260731.xlsx",
+        "bytes": 16884887,
+        "admitted": false,
+        "sha256": "39128aa75193ea2784c7e01c54bed5dde4298e9e13846d31e12876da17485f8f",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/39128aa75193ea2784c7e01c54bed5dde4298e9e13846d31e12876da17485f8f.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "zip"
+  },
+  {
+    "source_id": "992625fe4b82",
+    "source_sha256": "f6d836313ceb74b46ecc3a67d877c8d57d4ca8903ce30a94ce0bc1bad0c7e689",
+    "members": [
+      {
+        "name": "DE0001030559.pdf",
+        "bytes": 118215,
+        "admitted": false,
+        "sha256": "61e8e804e474adf1ad116d28e367f57e67b3219f003f8820e63a8571fd520550",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/61e8e804e474adf1ad116d28e367f57e67b3219f003f8820e63a8571fd520550.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "DE0001030559.xlsx",
+        "bytes": 13710,
+        "admitted": false,
+        "sha256": "e2d3a39331a7ed23f8be1b855094f86ec34e6ae62a633ad58f0db2d65ccc04d6",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/e2d3a39331a7ed23f8be1b855094f86ec34e6ae62a633ad58f0db2d65ccc04d6.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "DE0001030575.pdf",
+        "bytes": 120500,
+        "admitted": false,
+        "sha256": "ab3035a64617720899fc35e6c34eb8d81658c76a0cd260b6aab318aa811abb07",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/ab3035a64617720899fc35e6c34eb8d81658c76a0cd260b6aab318aa811abb07.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "DE0001030575.xlsx",
+        "bytes": 13726,
+        "admitted": false,
+        "sha256": "06f9995a3791018f173bbe3415c3ffe36b71f7d70ef855417eb54afbd1a25054",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/06f9995a3791018f173bbe3415c3ffe36b71f7d70ef855417eb54afbd1a25054.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "DE0001030583.pdf",
+        "bytes": 115947,
+        "admitted": false,
+        "sha256": "afc450d131e4c9e1fa0b3fd92667b955afbe46a030997acf9aaf23f948e989ad",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/afc450d131e4c9e1fa0b3fd92667b955afbe46a030997acf9aaf23f948e989ad.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "DE0001030583.xlsx",
+        "bytes": 13740,
+        "admitted": false,
+        "sha256": "068cae1cbbea249091e878e09b7b060a06b63f9766987c057b0e07e64237944d",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/068cae1cbbea249091e878e09b7b060a06b63f9766987c057b0e07e64237944d.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "ES00000127C8.pdf",
+        "bytes": 118500,
+        "admitted": false,
+        "sha256": "f2a7175d9a3374d8e318122e41d8b27fa05c678431536c61a5f0a6cf8c8350b2",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/f2a7175d9a3374d8e318122e41d8b27fa05c678431536c61a5f0a6cf8c8350b2.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "ES00000127C8.xlsx",
+        "bytes": 13678,
+        "admitted": false,
+        "sha256": "404bc9d45bc85f7a094dc7efcdce35e91a9bb8255b4c5dc78c6853f02783cf7d",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/404bc9d45bc85f7a094dc7efcdce35e91a9bb8255b4c5dc78c6853f02783cf7d.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "ES00000128S2.pdf",
+        "bytes": 117766,
+        "admitted": false,
+        "sha256": "ede45354dc76935e623c0bfabd236fd53c5df3568eb61e34dc5c5c29449da62e",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/ede45354dc76935e623c0bfabd236fd53c5df3568eb61e34dc5c5c29449da62e.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "ES00000128S2.xlsx",
+        "bytes": 13702,
+        "admitted": false,
+        "sha256": "5470803950e5afc1f1479a661ae4e72cd722b7cbe07718900d22b8ee60bef7d0",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/5470803950e5afc1f1479a661ae4e72cd722b7cbe07718900d22b8ee60bef7d0.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "ES0000012C12.pdf",
+        "bytes": 118005,
+        "admitted": false,
+        "sha256": "443cfd79da19eb2dbd2862dfb84ebc61cbba863c8cc7a2919c4134448b476ae5",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/443cfd79da19eb2dbd2862dfb84ebc61cbba863c8cc7a2919c4134448b476ae5.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "ES0000012C12.xlsx",
+        "bytes": 13722,
+        "admitted": false,
+        "sha256": "35c5dfa48b0f0393857a2a4d2121db92045698732a2d99845a5d5ede11d64e6f",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/35c5dfa48b0f0393857a2a4d2121db92045698732a2d99845a5d5ede11d64e6f.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "ES0000012M69.pdf",
+        "bytes": 117854,
+        "admitted": false,
+        "sha256": "2a88b1d322aa218359b02bab6fe467a6ae2c42e536d7ec4ae2d122a7c878b7ee",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/2a88b1d322aa218359b02bab6fe467a6ae2c42e536d7ec4ae2d122a7c878b7ee.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "ES0000012M69.xlsx",
+        "bytes": 13748,
+        "admitted": false,
+        "sha256": "006f341d51ca2d9544b18f84ca3140753e722791065dcc2c3ed6dbfbd0ebed00",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/006f341d51ca2d9544b18f84ca3140753e722791065dcc2c3ed6dbfbd0ebed00.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "ES0000012O18.pdf",
+        "bytes": 118344,
+        "admitted": false,
+        "sha256": "d4d8d86c10b8a14afcd27cce6759b2432c288158c7ccf66e38bb8ad5ab5d3ff4",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/d4d8d86c10b8a14afcd27cce6759b2432c288158c7ccf66e38bb8ad5ab5d3ff4.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "ES0000012O18.xlsx",
+        "bytes": 13741,
+        "admitted": false,
+        "sha256": "0eff999db3bcc5fc806d475d4ffbd83ac2663275e751c6c2e28e718537e4a2fa",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/0eff999db3bcc5fc806d475d4ffbd83ac2663275e751c6c2e28e718537e4a2fa.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0000188799.pdf",
+        "bytes": 118039,
+        "admitted": false,
+        "sha256": "3a7e22e2f18672b9aa600637a50868cdc3cd8b0c251da758249823ed912d81d7",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/3a7e22e2f18672b9aa600637a50868cdc3cd8b0c251da758249823ed912d81d7.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0000188799.xlsx",
+        "bytes": 13772,
+        "admitted": false,
+        "sha256": "f7f828e8fb31893ffe678a309e9f661377a16f1b6d215993d9c61a2367693892",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/f7f828e8fb31893ffe678a309e9f661377a16f1b6d215993d9c61a2367693892.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0010447367.pdf",
+        "bytes": 119265,
+        "admitted": false,
+        "sha256": "00ecbae0b4562d59c8bde1eba1860660be44927f7bb4320132dff34f346d0f9c",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/00ecbae0b4562d59c8bde1eba1860660be44927f7bb4320132dff34f346d0f9c.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0010447367.xlsx",
+        "bytes": 13794,
+        "admitted": false,
+        "sha256": "c2bf8f0a551bf9c3a5779edd401fa03e4debf3289a5e6e6e951a45675e9c8311",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/c2bf8f0a551bf9c3a5779edd401fa03e4debf3289a5e6e6e951a45675e9c8311.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0011008705.pdf",
+        "bytes": 118381,
+        "admitted": false,
+        "sha256": "f9881e9a5ec1b1ac2eed7dd04e57bc03ebc07c7ecbbc0836931f9b03698c45c0",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/f9881e9a5ec1b1ac2eed7dd04e57bc03ebc07c7ecbbc0836931f9b03698c45c0.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0011008705.xlsx",
+        "bytes": 13763,
+        "admitted": false,
+        "sha256": "7960be9ff97d54f4be82b550da348bdc510b052ce82aebb1e2a15ce5b2155bf9",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/7960be9ff97d54f4be82b550da348bdc510b052ce82aebb1e2a15ce5b2155bf9.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0011982776.pdf",
+        "bytes": 120594,
+        "admitted": false,
+        "sha256": "b938aa64caee72d9fdea3da48aa3d08fc8f9e0722e4f9d73e281241449fe56de",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/b938aa64caee72d9fdea3da48aa3d08fc8f9e0722e4f9d73e281241449fe56de.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0011982776.xlsx",
+        "bytes": 13726,
+        "admitted": false,
+        "sha256": "6d10033e36268430e0981134d49fb52316d49688f804a689540a04dd86de5202",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/6d10033e36268430e0981134d49fb52316d49688f804a689540a04dd86de5202.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0013209871.pdf",
+        "bytes": 118866,
+        "admitted": false,
+        "sha256": "0426a7545631f521b58fafa9d9a6c8a956c61071f0a2fee7326369892e5e8ca5",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/0426a7545631f521b58fafa9d9a6c8a956c61071f0a2fee7326369892e5e8ca5.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0013209871.xlsx",
+        "bytes": 13724,
+        "admitted": false,
+        "sha256": "7acd999cdfcd89f8815eef5279cd8125606b45a349d23a940b9826589dd1b615",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/7acd999cdfcd89f8815eef5279cd8125606b45a349d23a940b9826589dd1b615.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0013327491.pdf",
+        "bytes": 119781,
+        "admitted": false,
+        "sha256": "3acfc588f3b33f5fad46b3f4a6a09e0c628276f15e225670f06b80a8c1386472",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/3acfc588f3b33f5fad46b3f4a6a09e0c628276f15e225670f06b80a8c1386472.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0013327491.xlsx",
+        "bytes": 13760,
+        "admitted": false,
+        "sha256": "5179314ca01eae90183453f9901ea9f0757bd58a6df26f9de078678f36bfce53",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/5179314ca01eae90183453f9901ea9f0757bd58a6df26f9de078678f36bfce53.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0013410552.pdf",
+        "bytes": 116991,
+        "admitted": false,
+        "sha256": "b4fe52eb46c5cd1c2767fdb378cf9e72d75b2513c45fa5c00e156ab26620c187",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/b4fe52eb46c5cd1c2767fdb378cf9e72d75b2513c45fa5c00e156ab26620c187.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0013410552.xlsx",
+        "bytes": 13749,
+        "admitted": false,
+        "sha256": "b9aff3d056c289b3fc35a009381a65cb46d95353e2c28cd86fe14cf48d6cb3d7",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/b9aff3d056c289b3fc35a009381a65cb46d95353e2c28cd86fe14cf48d6cb3d7.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0014001N38.pdf",
+        "bytes": 116842,
+        "admitted": false,
+        "sha256": "d2d9e73a140d9d2a2396f3cb420d99d42948fe4c06206d12cdc34fa58e65194b",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/d2d9e73a140d9d2a2396f3cb420d99d42948fe4c06206d12cdc34fa58e65194b.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0014001N38.xlsx",
+        "bytes": 13746,
+        "admitted": false,
+        "sha256": "2ddbd2f4920601786b4313ee7d3019e00dab3173edfa04cdbc56f2b685130f92",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/2ddbd2f4920601786b4313ee7d3019e00dab3173edfa04cdbc56f2b685130f92.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR001400AQH0 - FR0014008181.pdf",
+        "bytes": 119245,
+        "admitted": false,
+        "sha256": "80a72b5cf4afff88519592f14f774e8af1444b162cb4d968faac32cb9024d2e1",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/80a72b5cf4afff88519592f14f774e8af1444b162cb4d968faac32cb9024d2e1.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR001400AQH0 - FR0014008181.xlsx",
+        "bytes": 13808,
+        "admitted": false,
+        "sha256": "7f52cf8953709b9055fe9cbf6a75298250ad959fcaf4c2c5d6ca365eae93f04a",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/7f52cf8953709b9055fe9cbf6a75298250ad959fcaf4c2c5d6ca365eae93f04a.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR001400JI88.pdf",
+        "bytes": 117727,
+        "admitted": false,
+        "sha256": "01ac116fefcc9791d9da4864f5b258cd1f7d4b7d93cbfc703a592f9ef44ebe33",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/01ac116fefcc9791d9da4864f5b258cd1f7d4b7d93cbfc703a592f9ef44ebe33.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR001400JI88.xlsx",
+        "bytes": 13770,
+        "admitted": false,
+        "sha256": "35291d9bfafc646f2054777bff22b6ef5b7769ba50b0f71988bf12c6b35fb5a4",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/35291d9bfafc646f2054777bff22b6ef5b7769ba50b0f71988bf12c6b35fb5a4.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR001400QCA1.pdf",
+        "bytes": 118587,
+        "admitted": false,
+        "sha256": "5aeba5c4df890ce8330bd6ada3e3770c601f0daef6c528a27b80374371b5e503",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/5aeba5c4df890ce8330bd6ada3e3770c601f0daef6c528a27b80374371b5e503.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR001400QCA1.xlsx",
+        "bytes": 13736,
+        "admitted": false,
+        "sha256": "4ca6d2dba8b96a31bd2b9743517a8bb8bd0492a406a3f075e3d528c30d7ff2b0",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/4ca6d2dba8b96a31bd2b9743517a8bb8bd0492a406a3f075e3d528c30d7ff2b0.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0003745541.pdf",
+        "bytes": 120217,
+        "admitted": false,
+        "sha256": "a7fbb9c54f5352eaf2d9d7d3d866091e0034fb51a0ad3ae8cbcc537a6252dc14",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/a7fbb9c54f5352eaf2d9d7d3d866091e0034fb51a0ad3ae8cbcc537a6252dc14.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0003745541.xlsx",
+        "bytes": 13753,
+        "admitted": false,
+        "sha256": "61fd83c734649fe837ab1ebc6c1ef46d509d314261a3cbbbdbbaf968b42bca67",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/61fd83c734649fe837ab1ebc6c1ef46d509d314261a3cbbbdbbaf968b42bca67.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0004545890.pdf",
+        "bytes": 117196,
+        "admitted": false,
+        "sha256": "e54b5fa58e5e62843fc433f991cee3cc49f4e278756dae789200290e5f897179",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/e54b5fa58e5e62843fc433f991cee3cc49f4e278756dae789200290e5f897179.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0004545890.xlsx",
+        "bytes": 13744,
+        "admitted": false,
+        "sha256": "3790b9edffac5f40d104cb4bbcb900e5ffb2939b84456db578dbb0ac74c6ac05",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/3790b9edffac5f40d104cb4bbcb900e5ffb2939b84456db578dbb0ac74c6ac05.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0004735152.pdf",
+        "bytes": 120332,
+        "admitted": false,
+        "sha256": "2e0b44757eae1534d22145af74dae283e060433bf42e7a1d3232b29d68babe8b",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/2e0b44757eae1534d22145af74dae283e060433bf42e7a1d3232b29d68babe8b.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0004735152.xlsx",
+        "bytes": 13750,
+        "admitted": false,
+        "sha256": "89f18e67d5344b3ac86e3c3662d807144e46ec222a440a20167eb51277b465b4",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/89f18e67d5344b3ac86e3c3662d807144e46ec222a440a20167eb51277b465b4.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005138828.pdf",
+        "bytes": 119237,
+        "admitted": false,
+        "sha256": "bd0a757dd6f134ebcbd21d8f8adda424bd1bdf8a5c35a36fc3306fe67d526e53",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/bd0a757dd6f134ebcbd21d8f8adda424bd1bdf8a5c35a36fc3306fe67d526e53.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005138828.xlsx",
+        "bytes": 13699,
+        "admitted": false,
+        "sha256": "34efe155dcb7b9f08933d288ceb6e6c02c720fe44e90af5285dd0416de06c5f1",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/34efe155dcb7b9f08933d288ceb6e6c02c720fe44e90af5285dd0416de06c5f1.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005246134.pdf",
+        "bytes": 119029,
+        "admitted": false,
+        "sha256": "e5fa8b3b35c31dfd5d7cba0ff43b40f01c4c7c8e72d47505def5916996421943",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/e5fa8b3b35c31dfd5d7cba0ff43b40f01c4c7c8e72d47505def5916996421943.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005246134.xlsx",
+        "bytes": 13697,
+        "admitted": false,
+        "sha256": "6c9c49772a6242db16d4495c3a4998a2d68373bf9a82d5a23e5e7903738c6aeb",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/6c9c49772a6242db16d4495c3a4998a2d68373bf9a82d5a23e5e7903738c6aeb.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005387052.pdf",
+        "bytes": 119460,
+        "admitted": false,
+        "sha256": "79ad450edfc498fc1019a7c80a64a3abc26f958df0494a89989c2c4b7786dbf5",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/79ad450edfc498fc1019a7c80a64a3abc26f958df0494a89989c2c4b7786dbf5.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005387052.xlsx",
+        "bytes": 13757,
+        "admitted": false,
+        "sha256": "f3ab9138048cb4c36c355aa6535ea7232c589475d0e53e52ad2b500d03fefcae",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/f3ab9138048cb4c36c355aa6535ea7232c589475d0e53e52ad2b500d03fefcae.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005436701.pdf",
+        "bytes": 118188,
+        "admitted": false,
+        "sha256": "35f82031861ce0270ef4b8e34db96bb9af1e53e85349f18321cb2863b397af33",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/35f82031861ce0270ef4b8e34db96bb9af1e53e85349f18321cb2863b397af33.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005436701.xlsx",
+        "bytes": 13741,
+        "admitted": false,
+        "sha256": "0326dd51160ea25cea3a398aa74a4caa6a9406b843f389e82df4d5f5d7810140",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/0326dd51160ea25cea3a398aa74a4caa6a9406b843f389e82df4d5f5d7810140.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005482994.pdf",
+        "bytes": 119163,
+        "admitted": false,
+        "sha256": "f17b8d2149c6af1869b34f6b5530cfbc5dcba653f06fdd02a4c93c2f3b8f9b04",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/f17b8d2149c6af1869b34f6b5530cfbc5dcba653f06fdd02a4c93c2f3b8f9b04.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005482994.xlsx",
+        "bytes": 13727,
+        "admitted": false,
+        "sha256": "efcffe9b1394d5cb4e4d40fd9206309239aa8ec36a19496a1feb31b5e31bb003",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/efcffe9b1394d5cb4e4d40fd9206309239aa8ec36a19496a1feb31b5e31bb003.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005543803.pdf",
+        "bytes": 119160,
+        "admitted": false,
+        "sha256": "dcde9db77d47c99754285a4b258948f2c0c05c8f38ec7753b48d82bc182703ef",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/dcde9db77d47c99754285a4b258948f2c0c05c8f38ec7753b48d82bc182703ef.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005543803.xlsx",
+        "bytes": 13766,
+        "admitted": false,
+        "sha256": "3dc423a5432a22d26a7dd96da6ea0422bb97a62531ed786c88608f5ebc27e508",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/3dc423a5432a22d26a7dd96da6ea0422bb97a62531ed786c88608f5ebc27e508.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005547812.pdf",
+        "bytes": 119538,
+        "admitted": false,
+        "sha256": "f462ad64a4704ceb4139d315c418848e6ee7ae9713570d054a7ae792e9701591",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/f462ad64a4704ceb4139d315c418848e6ee7ae9713570d054a7ae792e9701591.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005547812.xlsx",
+        "bytes": 13754,
+        "admitted": false,
+        "sha256": "e902a327c9c84c48c68049358d03055dd8a282b858813f6daedf3c6a3ba3f74c",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/e902a327c9c84c48c68049358d03055dd8a282b858813f6daedf3c6a3ba3f74c.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005588881.pdf",
+        "bytes": 119504,
+        "admitted": false,
+        "sha256": "d40e1f5432a36f83b148781c9e1c170b3049c2bd63c007d36a19bb3ae8d25140",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/d40e1f5432a36f83b148781c9e1c170b3049c2bd63c007d36a19bb3ae8d25140.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005588881.xlsx",
+        "bytes": 13745,
+        "admitted": false,
+        "sha256": "5a6ec7c82f0fa1038742b3692f0ef9c4f7c101d95ea1ac45c236a1d02d7101ae",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/5a6ec7c82f0fa1038742b3692f0ef9c4f7c101d95ea1ac45c236a1d02d7101ae.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005647273.pdf",
+        "bytes": 117802,
+        "admitted": false,
+        "sha256": "aee2bee0f5d1bdf1d028e47bbf4741cd17ca6dd4f0a82794d165d09d8d942469",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/aee2bee0f5d1bdf1d028e47bbf4741cd17ca6dd4f0a82794d165d09d8d942469.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005647273.xlsx",
+        "bytes": 13754,
+        "admitted": false,
+        "sha256": "4c5b74f40eebedc69d021f6510a4e1648417d76035bd6d4cfb2a8e52123344c1",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/4c5b74f40eebedc69d021f6510a4e1648417d76035bd6d4cfb2a8e52123344c1.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005657348.pdf",
+        "bytes": 118839,
+        "admitted": false,
+        "sha256": "462db9515bc77f000a229b011342964fea628d3b9c573164a6623178636ff550",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/462db9515bc77f000a229b011342964fea628d3b9c573164a6623178636ff550.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005657348.xlsx",
+        "bytes": 13775,
+        "admitted": false,
+        "sha256": "be16db915ff2753a6776b9b6b998c840ac8632ad85bc8136df6ca07ebb6f261c",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/be16db915ff2753a6776b9b6b998c840ac8632ad85bc8136df6ca07ebb6f261c.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005706293.pdf",
+        "bytes": 118648,
+        "admitted": false,
+        "sha256": "b8070cb6544e7e153b21962cf9eeccb489173eb63e44a855edfcfa53ff738d3a",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/b8070cb6544e7e153b21962cf9eeccb489173eb63e44a855edfcfa53ff738d3a.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005706293.xlsx",
+        "bytes": 13763,
+        "admitted": false,
+        "sha256": "d33da7ef28fe4514fe4ba698418a1ed808e21b13c68f34e2b7a8d94d7bc6acdf",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/d33da7ef28fe4514fe4ba698418a1ed808e21b13c68f34e2b7a8d94d7bc6acdf.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005725160.pdf",
+        "bytes": 117938,
+        "admitted": false,
+        "sha256": "d3f61b5baf07fbde5851695ecee6a249b88c215b8b6a36225dd69c6df3fc9520",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/d3f61b5baf07fbde5851695ecee6a249b88c215b8b6a36225dd69c6df3fc9520.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005725160.xlsx",
+        "bytes": 13796,
+        "admitted": false,
+        "sha256": "a851bc4d433c24aec957fde21f3830fbc8b26360e9f9f50b6734c5840d034b52",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/a851bc4d433c24aec957fde21f3830fbc8b26360e9f9f50b6734c5840d034b52.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "zip"
+  },
+  {
+    "source_id": "13c224af6fa2",
+    "source_sha256": "9c8991c1cade51eccb4b2fb785f8d3ae2681b5be1f32b61ced45592e91debe5f",
+    "members": [
+      {
+        "name": "CSDR-_Settlement_Fails-_Article_7_Reporting_CSDR-_Settlement_Fails-_Article_7_Reporting-_BusinessApplicationHeaderV01_hea_20200205_1052_iso15enriched.xsd",
+        "bytes": 19099,
+        "admitted": false,
+        "sha256": "b0603194524fbd8585967b2ced20294f489c0a808f609c147cd9fe78adbb7f9f",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/b0603194524fbd8585967b2ced20294f489c0a808f609c147cd9fe78adbb7f9f.xsd",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "CSDR-_Settlement_Fails-_Article_7_Reporting_CSDR-_Settlement_Fails-_Article_7_Reporting-_FinancialInstrumentReportingStat_20200205_1052_iso15enriched.xsd",
+        "bytes": 13998,
+        "admitted": false,
+        "sha256": "5b6d6324ebe32a8afc49347063add3af1492e452a9b9bfa96c9b222b352139ad",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/5b6d6324ebe32a8afc49347063add3af1492e452a9b9bfa96c9b222b352139ad.xsd",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "CSDR-_Settlement_Fails-_Article_7_Reporting_CSDR-_Settlement_Fails-_Article_7_Reporting-_SettlementFailsAnnualReportV01_a_20200205_1052_iso15enriched.xsd",
+        "bytes": 36257,
+        "admitted": false,
+        "sha256": "8d384b27a7671be1d651116f68891ad641ff1453919c81d855f72d7be612abfc",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/8d384b27a7671be1d651116f68891ad641ff1453919c81d855f72d7be612abfc.xsd",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "CSDR-_Settlement_Fails-_Article_7_Reporting_CSDR-_Settlement_Fails-_Article_7_Reporting-_SettlementFailsMonthlyReportV01__20200205_1052_iso15enriched.xsd",
+        "bytes": 77290,
+        "admitted": false,
+        "sha256": "711319f6443c3ea08ce72a8fbd0d9293b878334c5e3e3da48026ee08d1301ae6",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/711319f6443c3ea08ce72a8fbd0d9293b878334c5e3e3da48026ee08d1301ae6.xsd",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "head.003.001.01.xsd",
+        "bytes": 1462,
+        "admitted": false,
+        "sha256": "e7594a78d2932ee137af9693860adeb457ca45c06b53f8b9649b2cec0b4ff54e",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/e7594a78d2932ee137af9693860adeb457ca45c06b53f8b9649b2cec0b4ff54e.xsd",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "NCAFR_DATMSF_CSDR7_549300CYHJSH00I6XY51FR02-2021-01_0001.xml",
+        "bytes": 21586422,
+        "admitted": false,
+        "sha256": "6670c2b56157012040591e92f5a66bdc40c0b5c4f4d4713d8a5191cd378e1c2f",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/6670c2b56157012040591e92f5a66bdc40c0b5c4f4d4713d8a5191cd378e1c2f.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "NCAIT_DATASF_CSDR7_8156000B4AE6EC975390IT01-2021_0001.xml",
+        "bytes": 2216,
+        "admitted": false,
+        "sha256": "cd9e9d38d4a9900b49700a48b409a8b85b2a63a1e60531e0eda663bab7dcaaa6",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/cd9e9d38d4a9900b49700a48b409a8b85b2a63a1e60531e0eda663bab7dcaaa6.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "zip"
+  },
+  {
+    "source_id": "1b3a82a58d1a",
+    "source_sha256": "5eda215a08d5ad8e9e4550e9f5ade4422fd45764d781046316b6efb6290cac43",
+    "members": [
+      {
+        "name": "BusinessApplicationHeaderV01_head.001.001.01.xsd",
+        "bytes": 19087,
+        "admitted": false,
+        "sha256": "907b9103fe63df0862dddf02d1526899a1015a2e66caf64fe1aa35e6c5a79bc7",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/907b9103fe63df0862dddf02d1526899a1015a2e66caf64fe1aa35e6c5a79bc7.xsd",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "CSDR-_Internalised_Settlement_Reporting_CSDR-_Internalised_Settlement_Reporting_FinancialInstrumentReportingStatusAdvic_20190327_1554_iso15enriched.xsd",
+        "bytes": 13477,
+        "admitted": false,
+        "sha256": "43b6618bcc997202a4935ab306c4068a91138b78193b28b78a28881cc7b9f330",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/43b6618bcc997202a4935ab306c4068a91138b78193b28b78a28881cc7b9f330.xsd",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "head.003.001.01.xsd",
+        "bytes": 1462,
+        "admitted": false,
+        "sha256": "e7594a78d2932ee137af9693860adeb457ca45c06b53f8b9649b2cec0b4ff54e",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/e7594a78d2932ee137af9693860adeb457ca45c06b53f8b9649b2cec0b4ff54e.xsd",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "SettlementInternaliserReportV01_auth.072.001.01_sample.xml",
+        "bytes": 50054,
+        "admitted": false,
+        "sha256": "ac2df1fe7b84b1974faded6c5a3825ceaae72c247b8acd1b18144efbbb981de3",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/ac2df1fe7b84b1974faded6c5a3825ceaae72c247b8acd1b18144efbbb981de3.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "SettlementInternaliserReportV01_auth_072.001.01.xsd",
+        "bytes": 44664,
+        "admitted": false,
+        "sha256": "34b81d8a3f64cb8b306f0adbd0ade12f0bddf93d6e614ac70dcd784405a9e6bf",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/34b81d8a3f64cb8b306f0adbd0ade12f0bddf93d6e614ac70dcd784405a9e6bf.xsd",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "StatusAdvice_auth031.001.01_sample.xml",
+        "bytes": 3324,
+        "admitted": false,
+        "sha256": "66de7e126a802e8b4b3b62bd3ca0e07c5224630b17815611c69202383cbe136b",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/66de7e126a802e8b4b3b62bd3ca0e07c5224630b17815611c69202383cbe136b.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "zip"
+  },
+  {
+    "source_id": "b571f91083d6",
+    "source_sha256": "bc99c8a819637351877dd83a4c026b71c7e2b02d9add611dac6bb49dfc51b677",
+    "members": [
+      {
+        "name": "[Content_Types].xml",
+        "bytes": 2111,
+        "admitted": false,
+        "sha256": "ea82b49d07e28ff0c2111aecf4d1c34a289f7cb7a152b35218c1855ed0312019",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/ea82b49d07e28ff0c2111aecf4d1c34a289f7cb7a152b35218c1855ed0312019.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "_rels/.rels",
+        "bytes": 735,
+        "admitted": false,
+        "sha256": "ad78dfe44ec71f967f96e95bdf6baf2545c39e1a5e4413e7b8e9413eb95fd922",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/ad78dfe44ec71f967f96e95bdf6baf2545c39e1a5e4413e7b8e9413eb95fd922",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "xl/workbook.xml",
+        "bytes": 2299,
+        "admitted": false,
+        "sha256": "a737d94b27d5e4e8bcd466091d4605ef766bce8660e7dd104e52f3d2384131cb",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/a737d94b27d5e4e8bcd466091d4605ef766bce8660e7dd104e52f3d2384131cb.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "xl/_rels/workbook.xml.rels",
+        "bytes": 1265,
+        "admitted": false,
+        "sha256": "30cb419d42c737389e286a68a0f9ed44e93d2b1a8f7eeda45d2c0372a5bee289",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/30cb419d42c737389e286a68a0f9ed44e93d2b1a8f7eeda45d2c0372a5bee289.rels",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "xl/worksheets/sheet1.xml",
+        "bytes": 5390,
+        "admitted": false,
+        "sha256": "2d7278b80005d551e2cc2d11d648eb96f3b714915197ef40c07e0bd427d4f4b1",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/2d7278b80005d551e2cc2d11d648eb96f3b714915197ef40c07e0bd427d4f4b1.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "xl/worksheets/sheet2.xml",
+        "bytes": 3802,
+        "admitted": false,
+        "sha256": "2f382882985ada9a8b24e8b0cc971ad85d05141afe9a98c73f0c6feaee112680",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/2f382882985ada9a8b24e8b0cc971ad85d05141afe9a98c73f0c6feaee112680.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "xl/theme/theme1.xml",
+        "bytes": 6797,
+        "admitted": false,
+        "sha256": "310c23ab8db48d6438ee5483fd918b22dfb9109a010d0b2bc378c7b734b829a8",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/310c23ab8db48d6438ee5483fd918b22dfb9109a010d0b2bc378c7b734b829a8.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "xl/styles.xml",
+        "bytes": 10680,
+        "admitted": false,
+        "sha256": "c8f34c445bad45d363f907855381ee16d6df2fdbaab4a6f3ba61ade475705930",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/c8f34c445bad45d363f907855381ee16d6df2fdbaab4a6f3ba61ade475705930.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "xl/sharedStrings.xml",
+        "bytes": 3184,
+        "admitted": false,
+        "sha256": "52c39aebb2c020309c1eb0a3bc41444058619391f69dcf2ef49c5ea4f5a70a59",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/52c39aebb2c020309c1eb0a3bc41444058619391f69dcf2ef49c5ea4f5a70a59.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "xl/drawings/drawing1.xml",
+        "bytes": 1196,
+        "admitted": false,
+        "sha256": "78f16bd96962cdf08a330da20e06651c8f0cb42c07d3158ff1d030089edb4b1c",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/78f16bd96962cdf08a330da20e06651c8f0cb42c07d3158ff1d030089edb4b1c.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "xl/media/image1.png",
+        "bytes": 10004,
+        "admitted": false,
+        "sha256": "6752bfa098b620e454562538d3aca586f13a1b93310cf2c9c35baa22eab6efaf",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/6752bfa098b620e454562538d3aca586f13a1b93310cf2c9c35baa22eab6efaf.png",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "xl/worksheets/_rels/sheet1.xml.rels",
+        "bytes": 464,
+        "admitted": false,
+        "sha256": "046f319d2b01bf9529da901ae33cb1cf8c7c7d06395167875fa0c4add6bf34c3",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/046f319d2b01bf9529da901ae33cb1cf8c7c7d06395167875fa0c4add6bf34c3.rels",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "xl/drawings/_rels/drawing1.xml.rels",
+        "bytes": 292,
+        "admitted": false,
+        "sha256": "15a140b2ab9e3d49a7b49f824413744cc4959bc34c427cf50f7d6016697293c0",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/15a140b2ab9e3d49a7b49f824413744cc4959bc34c427cf50f7d6016697293c0.rels",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "xl/printerSettings/printerSettings1.bin",
+        "bytes": 4840,
+        "admitted": false,
+        "sha256": "9520a555a43314c06cf0c59e5bc9e7f4c65ede01d4ae2f33eb40e3ae638eeca4",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/9520a555a43314c06cf0c59e5bc9e7f4c65ede01d4ae2f33eb40e3ae638eeca4.bin",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "customXml/item1.xml",
+        "bytes": 219,
+        "admitted": false,
+        "sha256": "5efcaf9ad70d9c29f406ee438f8f428b021a881d2c5afff0e53b00b1f67ae51e",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/5efcaf9ad70d9c29f406ee438f8f428b021a881d2c5afff0e53b00b1f67ae51e.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "customXml/itemProps1.xml",
+        "bytes": 335,
+        "admitted": false,
+        "sha256": "70d3658c2579562e2afc553893cac42220c7c394d5f6a115dfc1079c29af50ec",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/70d3658c2579562e2afc553893cac42220c7c394d5f6a115dfc1079c29af50ec.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "customXml/item2.xml",
+        "bytes": 10389,
+        "admitted": false,
+        "sha256": "6f649e410e97a0c279d34cd33934dd34e531bbb3e607305b4f7cc4e0e1b4d6ac",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/6f649e410e97a0c279d34cd33934dd34e531bbb3e607305b4f7cc4e0e1b4d6ac.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [
+          "http://dublincore.org/schemas/xmls/qdc/2003/04/02/dc.xsd",
+          "http://dublincore.org/schemas/xmls/qdc/2003/04/02/dcterms.xsd"
+        ],
+        "schema_validated": false,
+        "unresolved_schema_references": [
+          "http://dublincore.org/schemas/xmls/qdc/2003/04/02/dc.xsd",
+          "http://dublincore.org/schemas/xmls/qdc/2003/04/02/dcterms.xsd"
+        ]
+      },
+      {
+        "name": "customXml/itemProps2.xml",
+        "bytes": 1088,
+        "admitted": false,
+        "sha256": "cefc7ffc96db97e4d55dcdffae3399fcf0486d4b0fb22eb82fe66b0bba9eb687",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/cefc7ffc96db97e4d55dcdffae3399fcf0486d4b0fb22eb82fe66b0bba9eb687.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "customXml/item3.xml",
+        "bytes": 655,
+        "admitted": false,
+        "sha256": "58bd65d73c13dbbd5e2803e61dfc716df37e08e4d4a0b768243a6ff2817efb29",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/58bd65d73c13dbbd5e2803e61dfc716df37e08e4d4a0b768243a6ff2817efb29.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "customXml/itemProps3.xml",
+        "bytes": 486,
+        "admitted": false,
+        "sha256": "37faa5dd2b82ba32c7c530bd29868e3d32a6bc0744109c12cecc209fb963a377",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/37faa5dd2b82ba32c7c530bd29868e3d32a6bc0744109c12cecc209fb963a377.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "docProps/core.xml",
+        "bytes": 833,
+        "admitted": false,
+        "sha256": "8823004c862d953b469538118a2257b9a79a6c6cd99fece77cc5715084f7abc0",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/8823004c862d953b469538118a2257b9a79a6c6cd99fece77cc5715084f7abc0.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "docProps/app.xml",
+        "bytes": 906,
+        "admitted": false,
+        "sha256": "0e601d3f3e0c74c834aab37ace600906f57e46b1a0c3d150bbee6402fcf10ee6",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/0e601d3f3e0c74c834aab37ace600906f57e46b1a0c3d150bbee6402fcf10ee6.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "docProps/custom.xml",
+        "bytes": 1677,
+        "admitted": false,
+        "sha256": "0bc70bb9733c87b7845c777a7d1682e98542622c04d5687def6986c04ba259f5",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/0bc70bb9733c87b7845c777a7d1682e98542622c04d5687def6986c04ba259f5.xml",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "customXml/_rels/item1.xml.rels",
+        "bytes": 296,
+        "admitted": false,
+        "sha256": "80482f86e196171d66001e0e74d1900408a3aaf2463e54005d251b5f2db9a0b0",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/80482f86e196171d66001e0e74d1900408a3aaf2463e54005d251b5f2db9a0b0.rels",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "customXml/_rels/item2.xml.rels",
+        "bytes": 296,
+        "admitted": false,
+        "sha256": "2a6aee4c8a9714223a3568077411a0c82d11b484b1c9ab93a19d50b99c57baa5",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/2a6aee4c8a9714223a3568077411a0c82d11b484b1c9ab93a19d50b99c57baa5.rels",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      },
+      {
+        "name": "customXml/_rels/item3.xml.rels",
+        "bytes": 296,
+        "admitted": false,
+        "sha256": "3aa4054f7f463c6d441102c960783aa7f937d6945a0a885b624a66aafaeedb6c",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/3aa4054f7f463c6d441102c960783aa7f937d6945a0a885b624a66aafaeedb6c.rels",
+        "status": "staged-not-semantically-reviewed",
+        "xml_well_formed": true,
+        "schema_references": [],
+        "schema_validated": false,
+        "unresolved_schema_references": []
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "xlsx"
+  },
+  {
+    "source_id": "72ea67dda551",
+    "source_sha256": "b177bc5f0edacc190da0bbe7da3321a8f1dd227bd18fdf6267fcd9ef811b1863",
+    "members": [
+      {
+        "name": "FR0000186413.pdf",
+        "bytes": 122119,
+        "admitted": false,
+        "sha256": "7bb841910bcf36efc29ee7045042ffd57eb4d58603f5be80a4faf1f482e6c3ca",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/7bb841910bcf36efc29ee7045042ffd57eb4d58603f5be80a4faf1f482e6c3ca.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "FR0000186413.xlsx",
+        "bytes": 13765,
+        "admitted": false,
+        "sha256": "a533dc58e5594de83b62e25f9d4a44f1f8569eb652e822125db37c9c8290fe35",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/a533dc58e5594de83b62e25f9d4a44f1f8569eb652e822125db37c9c8290fe35.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "zip"
+  },
+  {
+    "source_id": "26d5b3ba4d4a",
+    "source_sha256": "ef715dd2843b87a043a3549c6612920715397ecfdb26f449a8f3decfc1fde87c",
+    "members": [
+      {
+        "name": "IT0005388175.pdf",
+        "bytes": 120162,
+        "admitted": false,
+        "sha256": "f854b1fd79c119653a339ff244854469ad379fcbba83af966d878e03ddcdb7dc",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/f854b1fd79c119653a339ff244854469ad379fcbba83af966d878e03ddcdb7dc.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005388175.xlsx",
+        "bytes": 13718,
+        "admitted": false,
+        "sha256": "58a7e6ff07ae9fa9dea53ad7903b3e5e85a9845adf0d413cdb98f39177d294be",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/58a7e6ff07ae9fa9dea53ad7903b3e5e85a9845adf0d413cdb98f39177d294be.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005497000.pdf",
+        "bytes": 119785,
+        "admitted": false,
+        "sha256": "8536132cfd6aca192f61a067db350ace5bc29171b797d768d1cc3bc53b7cc02e",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/8536132cfd6aca192f61a067db350ace5bc29171b797d768d1cc3bc53b7cc02e.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005497000.xlsx",
+        "bytes": 13727,
+        "admitted": false,
+        "sha256": "9859db3788c3c063808e11b5aab0426e0b1339734d9255ced82ec713ff59bceb",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/9859db3788c3c063808e11b5aab0426e0b1339734d9255ced82ec713ff59bceb.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005517195.pdf",
+        "bytes": 117744,
+        "admitted": false,
+        "sha256": "c34e35e0c15403b3c240e92f56dcd41d36691504e04ccfae6b4ff5f5ae82ba91",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/c34e35e0c15403b3c240e92f56dcd41d36691504e04ccfae6b4ff5f5ae82ba91.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005517195.xlsx",
+        "bytes": 13698,
+        "admitted": false,
+        "sha256": "6874bc62037b45fab8a25b749b6ab6a84e3e1ddc4e96231941efd8c2d380cda1",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/6874bc62037b45fab8a25b749b6ab6a84e3e1ddc4e96231941efd8c2d380cda1.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005532723.pdf",
+        "bytes": 118563,
+        "admitted": false,
+        "sha256": "586283c1cd3354e844f764e93847e4064b1dcd002932aec546dad9846738563e",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/586283c1cd3354e844f764e93847e4064b1dcd002932aec546dad9846738563e.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005532723.xlsx",
+        "bytes": 13782,
+        "admitted": false,
+        "sha256": "68ee81771ac1e8b7e5938d136fdecf424694791120eac694ecde15f43d11adcf",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/68ee81771ac1e8b7e5938d136fdecf424694791120eac694ecde15f43d11adcf.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005648255.pdf",
+        "bytes": 117667,
+        "admitted": false,
+        "sha256": "d2d12421993230695c12332af358953f99ea2d557f43cae61cf31d77ef8af463",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/d2d12421993230695c12332af358953f99ea2d557f43cae61cf31d77ef8af463.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005648255.xlsx",
+        "bytes": 13713,
+        "admitted": false,
+        "sha256": "a4bcf1f97b9da8dac763f00b068f30d9920424358b9e19f249a66e0f8732c97c",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/a4bcf1f97b9da8dac763f00b068f30d9920424358b9e19f249a66e0f8732c97c.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005713547.pdf",
+        "bytes": 119150,
+        "admitted": false,
+        "sha256": "b692dbcfd8ac3dfcf77df7d02a5dbb3d8a316857be1fa4116dca9669dfcd15cd",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/b692dbcfd8ac3dfcf77df7d02a5dbb3d8a316857be1fa4116dca9669dfcd15cd.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "IT0005713547.xlsx",
+        "bytes": 13741,
+        "admitted": false,
+        "sha256": "1ff7c3ba0858dcd858b57d11cea7ea14ceceb9bb31c02b4f0fddf116d3f6cbf7",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/1ff7c3ba0858dcd858b57d11cea7ea14ceceb9bb31c02b4f0fddf116d3f6cbf7.xlsx",
+        "status": "staged-not-semantically-reviewed"
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "zip"
+  },
+  {
+    "source_id": "71e51b06221f",
+    "source_sha256": "0af801044fa3e122ea4165a65c523571754c4f8955938517d6df875a28eaf70e",
+    "members": [
+      {
+        "name": "RESOLUTION Nr 8 ATHEXCSD 29072024 FORCE 05082024.pdf",
+        "bytes": 487295,
+        "admitted": false,
+        "sha256": "a77cac52faa2d3d14b95789e06152341723fd4fb8edd870b1db1ce3529a978e0",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/a77cac52faa2d3d14b95789e06152341723fd4fb8edd870b1db1ce3529a978e0.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "RESOLUTION Nr 8 ATHEXcsd 18122023 as of 12042021.pdf",
+        "bytes": 483591,
+        "admitted": false,
+        "sha256": "85250f47d43ef341686e77f78f1ca934fcb1ace71b8ad44c12828e92dd3354d7",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/85250f47d43ef341686e77f78f1ca934fcb1ace71b8ad44c12828e92dd3354d7.pdf",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "RESOLUTION Nr 8 ATHEXCSD - Technical terms and procedures for the provision of the Registry Corporate and Other Related Actions Service 21102024 FORCE 02122024.pdf",
+        "bytes": 454724,
+        "admitted": false,
+        "sha256": "7e382c703e6bb0464202bd5cf15ab425aaaa54ebddf09d7c975bd5c7c617ef15",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/7e382c703e6bb0464202bd5cf15ab425aaaa54ebddf09d7c975bd5c7c617ef15.pdf",
+        "status": "staged-not-semantically-reviewed"
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "zip"
+  },
+  {
+    "source_id": "69bf4ca1ae8b",
+    "source_sha256": "71da386384413dd626f03df6f3993402e5826cb96d8cfbb08444fc83990db065",
+    "members": [
+      {
+        "name": "20260831_Report2_MEF_01_07.csv",
+        "bytes": 185,
+        "admitted": false,
+        "sha256": "9fe007bb7ced806c04e342120a19f7fabf272fd5757c2963eaad07d4a8754a9c",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/9fe007bb7ced806c04e342120a19f7fabf272fd5757c2963eaad07d4a8754a9c.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260831_Report2_MEF_02_08.csv",
+        "bytes": 243553,
+        "admitted": false,
+        "sha256": "4594455e0323a4f247d1628e9e61709e8fefaba97835f3e20579a4ac67023b65",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/4594455e0323a4f247d1628e9e61709e8fefaba97835f3e20579a4ac67023b65.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260831_Report2_MEF_03_09.csv",
+        "bytes": 780362,
+        "admitted": false,
+        "sha256": "cffa1731f2425895fb45c77808143c38689590dc94f50f942c4f4313f9372c87",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/cffa1731f2425895fb45c77808143c38689590dc94f50f942c4f4313f9372c87.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260831_Report2_MEF_04_10.csv",
+        "bytes": 158563,
+        "admitted": false,
+        "sha256": "6224d4075c0879ea8bde6457e9712db32558d07b8ba93e782cce26811796efdb",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/6224d4075c0879ea8bde6457e9712db32558d07b8ba93e782cce26811796efdb.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260831_Report2_MEF_05_11.csv",
+        "bytes": 216612,
+        "admitted": false,
+        "sha256": "8670e97a381423da3accbb6a005fda78c224711846463b3faa2b77f9bc663600",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/8670e97a381423da3accbb6a005fda78c224711846463b3faa2b77f9bc663600.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260831_Report2_MEF_06_12.csv",
+        "bytes": 8635,
+        "admitted": false,
+        "sha256": "56d2ccd44b18ae70c3680f935dc1cb8b7f79505814e00ff41568fdb879f14d67",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/56d2ccd44b18ae70c3680f935dc1cb8b7f79505814e00ff41568fdb879f14d67.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260831_Report1_MEF.csv",
+        "bytes": 102764,
+        "admitted": false,
+        "sha256": "09f1658abdd13fedabe19d227a6da338d469cee89aecefa87e79e4b4e51f7eac",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/09f1658abdd13fedabe19d227a6da338d469cee89aecefa87e79e4b4e51f7eac.csv",
+        "status": "staged-not-semantically-reviewed"
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "zip"
+  },
+  {
+    "source_id": "2cdfe7ee0393",
+    "source_sha256": "4f33aadfd2dd62aa2085a353b77dac118be38f6ef08b4933b999618592428f27",
+    "members": [
+      {
+        "name": "20260824_Report2_MEF_01_07.csv",
+        "bytes": 185,
+        "admitted": false,
+        "sha256": "9fe007bb7ced806c04e342120a19f7fabf272fd5757c2963eaad07d4a8754a9c",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/9fe007bb7ced806c04e342120a19f7fabf272fd5757c2963eaad07d4a8754a9c.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260824_Report2_MEF_02_08.csv",
+        "bytes": 243167,
+        "admitted": false,
+        "sha256": "cab80bca2a4b8cec5dd73a7a5592427b40b6f920a5269fb46d7fe0b0872f758c",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/cab80bca2a4b8cec5dd73a7a5592427b40b6f920a5269fb46d7fe0b0872f758c.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260824_Report2_MEF_03_09.csv",
+        "bytes": 780362,
+        "admitted": false,
+        "sha256": "cffa1731f2425895fb45c77808143c38689590dc94f50f942c4f4313f9372c87",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/cffa1731f2425895fb45c77808143c38689590dc94f50f942c4f4313f9372c87.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260824_Report2_MEF_04_10.csv",
+        "bytes": 158252,
+        "admitted": false,
+        "sha256": "5aabef1721e5e0795040c1ac873a2f24558c897bfbc436f39889eefacf6f0836",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/5aabef1721e5e0795040c1ac873a2f24558c897bfbc436f39889eefacf6f0836.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260824_Report2_MEF_05_11.csv",
+        "bytes": 215645,
+        "admitted": false,
+        "sha256": "eb0eb05da64d9267d7a0d11ebb2c063f0db9fffeb5137e812833206a2c269ee2",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/eb0eb05da64d9267d7a0d11ebb2c063f0db9fffeb5137e812833206a2c269ee2.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260824_Report2_MEF_06_12.csv",
+        "bytes": 8635,
+        "admitted": false,
+        "sha256": "56d2ccd44b18ae70c3680f935dc1cb8b7f79505814e00ff41568fdb879f14d67",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/56d2ccd44b18ae70c3680f935dc1cb8b7f79505814e00ff41568fdb879f14d67.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260824_Report1_MEF.csv",
+        "bytes": 102740,
+        "admitted": false,
+        "sha256": "b624f8d95a0ad9b695ebf01e3abafd44d1c45869df5dfa1762af98f8b38826df",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/b624f8d95a0ad9b695ebf01e3abafd44d1c45869df5dfa1762af98f8b38826df.csv",
+        "status": "staged-not-semantically-reviewed"
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "zip"
+  },
+  {
+    "source_id": "c12d66dbc419",
+    "source_sha256": "5fd175b22743ecb28707719d1413bc7fd7225e58b987283026e436bd61f7c075",
+    "members": [
+      {
+        "name": "20260817_Report2_MEF_01_07.csv",
+        "bytes": 185,
+        "admitted": false,
+        "sha256": "9fe007bb7ced806c04e342120a19f7fabf272fd5757c2963eaad07d4a8754a9c",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/9fe007bb7ced806c04e342120a19f7fabf272fd5757c2963eaad07d4a8754a9c.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260817_Report2_MEF_02_08.csv",
+        "bytes": 242994,
+        "admitted": false,
+        "sha256": "1d1051e74a16e7002a238e8d678ed94710ce693395039ac1204ef73f964e5c4c",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/1d1051e74a16e7002a238e8d678ed94710ce693395039ac1204ef73f964e5c4c.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260817_Report2_MEF_03_09.csv",
+        "bytes": 779754,
+        "admitted": false,
+        "sha256": "ebe6750319f03163713a8a5141c1cce174263acca57e28928e515d13c0070863",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/ebe6750319f03163713a8a5141c1cce174263acca57e28928e515d13c0070863.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260817_Report2_MEF_04_10.csv",
+        "bytes": 157158,
+        "admitted": false,
+        "sha256": "eddf9ca2145c43e7f6c52640957dad5792dbad9fecfa317a7a1a80d22a2b3d09",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/eddf9ca2145c43e7f6c52640957dad5792dbad9fecfa317a7a1a80d22a2b3d09.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260817_Report2_MEF_05_11.csv",
+        "bytes": 215210,
+        "admitted": false,
+        "sha256": "f5e26dc02674df075190386ce9d9ebdad3d3935bd216e0dfe04330fe1143fdf9",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/f5e26dc02674df075190386ce9d9ebdad3d3935bd216e0dfe04330fe1143fdf9.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260817_Report2_MEF_06_12.csv",
+        "bytes": 8635,
+        "admitted": false,
+        "sha256": "56d2ccd44b18ae70c3680f935dc1cb8b7f79505814e00ff41568fdb879f14d67",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/56d2ccd44b18ae70c3680f935dc1cb8b7f79505814e00ff41568fdb879f14d67.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260817_Report1_MEF.csv",
+        "bytes": 102740,
+        "admitted": false,
+        "sha256": "26efc1bf98f62eed39b6088aa12a087fcc9fbaecdd48e7b523631e5eab6d93e4",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/26efc1bf98f62eed39b6088aa12a087fcc9fbaecdd48e7b523631e5eab6d93e4.csv",
+        "status": "staged-not-semantically-reviewed"
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "zip"
+  },
+  {
+    "source_id": "c4e251a89eae",
+    "source_sha256": "25c5b6800becfba334497ac9dfb7932751c539996378cd99e4fb09fe7026d80f",
+    "members": [
+      {
+        "name": "20260810_Report2_MEF_01_07.csv",
+        "bytes": 185,
+        "admitted": false,
+        "sha256": "9fe007bb7ced806c04e342120a19f7fabf272fd5757c2963eaad07d4a8754a9c",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/9fe007bb7ced806c04e342120a19f7fabf272fd5757c2963eaad07d4a8754a9c.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260810_Report2_MEF_02_08.csv",
+        "bytes": 244843,
+        "admitted": false,
+        "sha256": "2df9e74f3c959bd8a0e6422b19c6a9b421e3c55349aef65ce977fc8cbd1fcdc0",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/2df9e74f3c959bd8a0e6422b19c6a9b421e3c55349aef65ce977fc8cbd1fcdc0.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260810_Report2_MEF_03_09.csv",
+        "bytes": 778827,
+        "admitted": false,
+        "sha256": "613ccc0f85500a81da7bf0cfb77aecd4f4266b0a9a48547301f79af8318d307d",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/613ccc0f85500a81da7bf0cfb77aecd4f4266b0a9a48547301f79af8318d307d.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260810_Report2_MEF_04_10.csv",
+        "bytes": 152928,
+        "admitted": false,
+        "sha256": "4fadff344d56511d8fc11f9f1728b711a1a848799aebad2d4a779e1fde4b64d6",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/4fadff344d56511d8fc11f9f1728b711a1a848799aebad2d4a779e1fde4b64d6.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260810_Report2_MEF_05_11.csv",
+        "bytes": 214431,
+        "admitted": false,
+        "sha256": "75b85cee69ec7a10256bb5dad80901acfe541ecd15399fddb60c85cd00f1e210",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/75b85cee69ec7a10256bb5dad80901acfe541ecd15399fddb60c85cd00f1e210.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260810_Report2_MEF_06_12.csv",
+        "bytes": 8536,
+        "admitted": false,
+        "sha256": "99ccaf99b082711a2c2d9c132b52b651298a4eb17a7b7a5123ed8273f4583483",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/99ccaf99b082711a2c2d9c132b52b651298a4eb17a7b7a5123ed8273f4583483.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260810_Report1_MEF.csv",
+        "bytes": 102798,
+        "admitted": false,
+        "sha256": "41c0ce84d98d69f9fdc407aea7ee76c6a2fe803cb8bc121ce33ce1f29efab415",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/41c0ce84d98d69f9fdc407aea7ee76c6a2fe803cb8bc121ce33ce1f29efab415.csv",
+        "status": "staged-not-semantically-reviewed"
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "zip"
+  },
+  {
+    "source_id": "8435d6047879",
+    "source_sha256": "9cd91268da4490146b35b1f052a2d6d6fd531a8210023495cbde2d315aca9651",
+    "members": [
+      {
+        "name": "20260803_Report2_MEF_01_07.csv",
+        "bytes": 185,
+        "admitted": false,
+        "sha256": "9fe007bb7ced806c04e342120a19f7fabf272fd5757c2963eaad07d4a8754a9c",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/9fe007bb7ced806c04e342120a19f7fabf272fd5757c2963eaad07d4a8754a9c.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260803_Report2_MEF_02_08.csv",
+        "bytes": 244843,
+        "admitted": false,
+        "sha256": "2df9e74f3c959bd8a0e6422b19c6a9b421e3c55349aef65ce977fc8cbd1fcdc0",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/2df9e74f3c959bd8a0e6422b19c6a9b421e3c55349aef65ce977fc8cbd1fcdc0.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260803_Report2_MEF_03_09.csv",
+        "bytes": 776919,
+        "admitted": false,
+        "sha256": "4e3c4b82ab9b1c496975f327de963f9f4383f048752c8adbede9aaaa548cee1a",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/4e3c4b82ab9b1c496975f327de963f9f4383f048752c8adbede9aaaa548cee1a.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260803_Report2_MEF_04_10.csv",
+        "bytes": 152358,
+        "admitted": false,
+        "sha256": "1f8d9851a3f22ac5a638e1d9b55c510502c3a99e5670bbc5303ca64ee2e896e1",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/1f8d9851a3f22ac5a638e1d9b55c510502c3a99e5670bbc5303ca64ee2e896e1.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260803_Report2_MEF_05_11.csv",
+        "bytes": 212673,
+        "admitted": false,
+        "sha256": "cf18e6a463f0fcebdf4692c9e4664282328cd1a11e57676bd0f5a4cb2f263437",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/cf18e6a463f0fcebdf4692c9e4664282328cd1a11e57676bd0f5a4cb2f263437.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260803_Report2_MEF_06_12.csv",
+        "bytes": 8430,
+        "admitted": false,
+        "sha256": "105c170a6718fb215a01c50dd205e196b49165547574aabdbcbcd2cf1c6014a2",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/105c170a6718fb215a01c50dd205e196b49165547574aabdbcbcd2cf1c6014a2.csv",
+        "status": "staged-not-semantically-reviewed"
+      },
+      {
+        "name": "20260803_Report1_MEF.csv",
+        "bytes": 102686,
+        "admitted": false,
+        "sha256": "ecec058d9a1ff608433eb28b4c618fd794dba434e752616e072b99244e590ed4",
+        "staged_path": "implementation/2026-09-13/staged-archive-members/ecec058d9a1ff608433eb28b4c618fd794dba434e752616e072b99244e590ed4.csv",
+        "status": "staged-not-semantically-reviewed"
+      }
+    ],
+    "default_retrieval": false,
+    "detected_type": "zip"
+  }
+]

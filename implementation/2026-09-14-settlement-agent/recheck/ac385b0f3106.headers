@@ -1,0 +1,18 @@
+HTTP/2 200 
+server: CloudFront
+content-type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+content-length: 207848
+date: Mon, 14 Sep 2026 08:53:31 GMT
+last-modified: Fri, 11 Sep 2026 12:07:30 GMT
+etag: "9a00c3520b55a1c1005eb3861e2613e0"
+x-amz-server-side-encryption: aws:kms
+x-amz-server-side-encryption-bucket-key-enabled: true
+cache-control: public, max-age=300, s-maxage=300
+x-amz-version-id: W9q4Cxr4Dog5dqZVMCUwWuDNNnIFGBUR
+accept-ranges: bytes
+via: 1.1 6754b7c33e16b66e27716eabddff9c00.cloudfront.net (CloudFront)
+alt-svc: h3=":443"; ma=86400
+x-cache: Miss from cloudfront
+x-amz-cf-pop: MXP63-P6
+x-amz-cf-id: YQ2phXAIwzoyf73kvoNU613CWocPSFzT8wic66I55DjwPuGdUAAPUQ==
+

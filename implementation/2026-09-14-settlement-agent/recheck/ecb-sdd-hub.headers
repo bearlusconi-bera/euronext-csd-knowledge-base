@@ -1,0 +1,11 @@
+HTTP/2 200 
+server: myracloud
+date: Mon, 14 Sep 2026 08:53:26 GMT
+content-type: text/html; charset=UTF-8
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=63072000; includeSubDomains
+x-xss-protection: 1; mode=block
+expires: Mon, 14 Sep 2026 08:54:26 GMT
+cache-control: max-age=60
+etag: "myra-5cc83d90"
+

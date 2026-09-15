@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-09-13",
+  "section_count": 30,
+  "source_count": 24,
+  "whole_document_admission": false,
+  "files": {
+    "retrieval/admitted-sections.jsonl": "b8ce7ba0b2c60279489385954c6df6a7236dada78587e880815a1b45530073b3",
+    "retrieval/section-decisions.json": "efe3d6a36989d15e35f7435068970c6fd8851e10cd8f4afd09a6f6f54a3fec9c",
+    "retrieval/source-register.json": "ef945cb37975d92cb390b4d5ccea583a9ef0c823a98143d766172d978628e1a2",
+    "retrieval/exports/current.jsonl": "6210da7b96869c1c976b1ae2f3cc0a409abe1cde64fe9ec585a1787cad9294ca",
+    "retrieval/exports/future.jsonl": "e6c31fccd1e849575c93ce6e059a22570b856a79574ede23d1b13e154f6577d5",
+    "retrieval/exports/reference.jsonl": "0f6c575a0dac68c12a0a2bdd4ed7bf1ddb5da6dcd447e864bbc93893e7499c7f"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "entity": "Interbolsa - Sociedade Gestora de Sistemas de Liquidação e de Sistemas Centralizados de Valores Mobiliários, S.A.",
+  "normalised_lei": "529900LG70TCAGWCXT47",
+  "normalised_lei_source": "https://api.gleif.org/api/v1/lei-records/529900LG70TCAGWCXT47",
+  "source_sha256": "3c4c6b08263c31f71d59224ab3d7075f78843209a2f6491aa793ea81baad27fe",
+  "json_pointers": [
+    "/data/attributes/lei",
+    "/data/attributes/entity/legalName",
+    "/data/attributes/registration"
+  ],
+  "entity_status": "ACTIVE",
+  "registration_status": "ISSUED",
+  "last_update_date": "2026-02-23T00:00:00Z",
+  "retrieved_as_of": "2026-09-13",
+  "raw_esma_cell": {
+    "source_id": "535f6a23062a",
+    "sheet": "1- CSD authorisations",
+    "cell": "C25",
+    "value": "529900LG70TCA",
+    "usable_for_identity_join": false
+  },
+  "checksum_valid": true,
+  "note": "Normalisation is independently sourced; original ESMA workbook and cell extract remain unchanged."
+}

@@ -1,0 +1,153 @@
+{
+  "source_id": "dd1cf7cb930b",
+  "source_title": "Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025",
+  "source_sha256": "see source register",
+  "verified_as_of": "2026-09-14",
+  "actual_content_language": "en",
+  "authoritative_language": "it",
+  "translation_note": "English version; the Italian text prevails (cover, PDF 1).",
+  "review": "Transcribed from the rendered page images (110 dpi) implementation/2026-09-14-settlement-agent/evidence/dd1cf7cb930b-p37-37.png and p39–p41; text extraction of these tables was column-garbled, so the images are the reference.",
+  "locator": "§3.4.1 Table 2 (X-TRM fields vs T2S fields), PDF 39–41 (printed 35–37)",
+  "type_semantics": {
+    "Mandatory": "mandatory information (if not specified can assume default values)",
+    "Additional": "if specified by a counterparty, considered mandatory feedback fields and therefore must also be specified by the other party",
+    "Optional": "considered feedback fields required only if specified by both counterparties"
+  },
+  "rows": [
+    {
+      "xtrm_field": "Issuer",
+      "t2s_field": "Delivering / Receiving Party BIC (based on Securities Movement Type)",
+      "type": "Mandatory",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Counterparty",
+      "t2s_field": "Delivering / Receiving Party BIC (based on Securities Movement Type)",
+      "type": "Mandatory",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Code of System Custody Issuer",
+      "t2s_field": "CSD of Delivering / Receiving Party (based on Securities Movement Type)",
+      "type": "Mandatory",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Code of System Custody Counterparty (footnote 1 marker)",
+      "t2s_field": "CSD of Delivering / Receiving Party (based on Securities Movement Type)",
+      "type": "Mandatory",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Settlement Date",
+      "t2s_field": "Intended Settlement Date",
+      "type": "Mandatory",
+      "default": "(blank as printed)"
+    },
+    {
+      "xtrm_field": "Data Executed",
+      "t2s_field": "Trade Date",
+      "type": "Mandatory",
+      "default": "Date of release of the contract in X-TRM"
+    },
+    {
+      "xtrm_field": "Object Code Negotiated",
+      "t2s_field": "ISIN",
+      "type": "Mandatory",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Quantity",
+      "t2s_field": "Settlement Quantity",
+      "type": "Mandatory",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Countervalue",
+      "t2s_field": "Settlement Amount",
+      "type": "Mandatory",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Settlement Currency",
+      "t2s_field": "Currency",
+      "type": "Mandatory",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Mark",
+      "t2s_field": "Securities Movement Type",
+      "type": "Mandatory",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Countervalue Verse",
+      "t2s_field": "Credit / Debit Indicator",
+      "type": "Mandatory",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "n.a.",
+      "t2s_field": "Payment Type (this field will be fill… — cell text truncated in the original layout)",
+      "type": "Mandatory",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Settlement Transaction Condition (footnote 1 marker)",
+      "t2s_field": "Settlement Transaction Condition (Opt Out)",
+      "type": "Additional",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Trade Transaction Condition",
+      "t2s_field": "Trade Transaction Condition (CUM / Ex — cell text truncated in the original layout)",
+      "type": "Additional",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Beneficiary Issuer Code BIC",
+      "t2s_field": "Client of Delivering / Receiving Party (based on Securities Movement Type)",
+      "type": "Optional",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Beneficiary Counterpart Code BIC",
+      "t2s_field": "Client of Delivering / Receiving Party (based on Securities Movement Type)",
+      "type": "Optional",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Common Trade Reference",
+      "t2s_field": "Common Trade Reference",
+      "type": "Optional",
+      "default": "NO"
+    },
+    {
+      "xtrm_field": "Counterpart Settlement Securities Account",
+      "t2s_field": "Securities Account of Delivering / Receiving Party (based on Securities Movement Type)",
+      "type": "Optional",
+      "default": "NO"
+    }
+  ],
+  "additional_information_fields": [
+    "ISO code of the operation",
+    "partial settlement indicator",
+    "priority settlement indicator",
+    "indicator for the connection of settlement Instructions",
+    "indicator of the changeability of settlement instructions",
+    "identification code of the pool of settlement (Pool reference ID)",
+    "identification code of the settlement Instructions associates (Reference ID for Settlement Instructions)",
+    "identification code of settlement restrictions (Reference ID for Settlement Restrictions)",
+    "identification code for the suspension, cancellation, modification of settlement instruction"
+  ],
+  "anomalies": [
+    "Footnote marker (1) appears on two rows; the footnote text was not located on PDF 39–41 in the text extraction or the rendered images.",
+    "Two T2S-field cells are visibly truncated in the original page layout ('this fields will be fill…', 'CUM / Ex…'); the truncated wording is preserved as an anomaly, not completed."
+  ],
+  "counts": {
+    "mandatory": 13,
+    "additional": 2,
+    "optional": 4
+  },
+  "scope": "Functional field correspondence as published by Milan for ICP/X-TRM users. Not the client-only Standard for X-TRM Users message layouts; not a production XSD; not certification of T2S message paths."
+}

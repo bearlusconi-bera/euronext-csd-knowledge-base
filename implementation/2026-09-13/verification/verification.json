@@ -1,0 +1,215 @@
+{
+  "summary": {
+    "evidence_as_of": "2026-09-13",
+    "build_manifest_sha256": "bb0153a69ffeb4c4a0811981cefc21f9f8e51225a92379db8667d91deeaa6dbc",
+    "routing_cases": 34,
+    "routing_passed": 34,
+    "routing_actual_statuses": {
+      "evidence_only": 28,
+      "blocked": 6
+    },
+    "integrity_checks": 39,
+    "integrity_passed": 39,
+    "originals_verified_unchanged": 800,
+    "failures": [],
+    "llm_answer_evaluation": "NOT_RUN — no language-model answer service is deployed",
+    "scope": "Manual question routing, actual local evidence selection and controls. Not semantic answer accuracy or production readiness."
+  },
+  "checks": [
+    {
+      "check": "Missing scope requests context",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Non-object context handled",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Malformed question type handled",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Pre-effective business date blocked",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Future business date not silently current",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Cross-market leakage blocked",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Wrong actor role blocked",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Wrong service blocked",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Calendar rollover does not certify currency",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Historical as-of is not inferred",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Invalid business date rejected",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Wrong platform release blocked",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Missing native release requests context",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Future law excluded from current mode",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Unreviewed dated events block nominal answer",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "EUR event does not migrate to DKK",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Local timetable cannot use platform label",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Unspecified cross-CSD chain requests context",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Oslo approval dependency follows liquidity description",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "SF2 retains bilateral cancellation exception",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "English DORA selects English OJ, not French capture",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Functional matching preserves FOP cash-field distinction",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All three visually reviewed matching diagrams retained",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Announced IDVP and actual IFOP remain distinct",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "No broad document defaults remain",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Current export contains no future-only or reference-only sections",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "French capture correctly tagged",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All 800 original documents preserved",
+      "outcome": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "All 14 containers staged without admission",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Mislabelled XLSX identified by content",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Staged members match their content hashes",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Historical writer guarded: finalize_library.py",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Historical writer guarded: write_research.py",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Historical writer guarded: collect_sources.py",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Historical writer guarded: build_library.py",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Historical writer guarded: supplement_library.py",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Historical writer guarded: list_sources_in_use.py",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Changed export rejected",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Changed selected original blocks retrieval",
+      "outcome": "PASS",
+      "detail": ""
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "source_id": "dd1cf7cb930b",
+  "source_title": "Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025",
+  "source_sha256": "see source register",
+  "verified_as_of": "2026-09-14",
+  "actual_content_language": "en",
+  "authoritative_language": "it",
+  "translation_note": "English version; the Italian text prevails (cover, PDF 1).",
+  "review": "Transcribed from the rendered page images (110 dpi) implementation/2026-09-14-settlement-agent/evidence/dd1cf7cb930b-p37-37.png and p39–p41; text extraction of these tables was column-garbled, so the images are the reference.",
+  "locator": "§3.3 Access method, PDF 37 (printed 33)",
+  "table": "TECHNICAL TERMS OF USE",
+  "columns": [
+    "RNI M.S.",
+    "RNI F.T.",
+    "SWIFT FIN e/o InterAct",
+    "SWIFT FileAct",
+    "MT-X/X-TRM On-line"
+  ],
+  "rows": [
+    {
+      "feature": "Acquisition/changing transactions",
+      "RNI M.S.": [
+        "X",
+        "G52",
+        "G53"
+      ],
+      "RNI F.T.": [
+        "X",
+        "G50",
+        "G51"
+      ],
+      "SWIFT FIN e/o InterAct": [
+        "X",
+        "MT540",
+        "MT541",
+        "MT542",
+        "MT543",
+        "MT548"
+      ],
+      "SWIFT FileAct": [
+        "X",
+        "G50",
+        "G51"
+      ],
+      "MT-X/X-TRM On-line": [
+        "X"
+      ]
+    },
+    {
+      "feature": "Results of operations transmission (ROM/ACB)",
+      "RNI M.S.": [],
+      "RNI F.T.": [
+        "X",
+        "G56"
+      ],
+      "SWIFT FIN e/o InterAct": [],
+      "SWIFT FileAct": [
+        "X",
+        "G56"
+      ],
+      "MT-X/X-TRM On-line": [
+        "X"
+      ]
+    },
+    {
+      "feature": "Alignment on-line system user",
+      "RNI M.S.": [
+        "X",
+        "G57",
+        "G58"
+      ],
+      "RNI F.T.": [],
+      "SWIFT FIN e/o InterAct": [
+        "X",
+        "MT598",
+        "MT548"
+      ],
+      "SWIFT FileAct": [],
+      "MT-X/X-TRM On-line": []
+    }
+  ],
+  "notes": [
+    "Codes are reproduced as printed (RNI message codes G50–G58; SWIFT MT540–MT543, MT548, MT598). Their field-level layouts are in the client-only 'Standard for X-TRM Users' (A2A MT / RNI, VER.01.09 per ON_20/2026), which is not in the library.",
+    "An 'X' marks availability of the feature on that channel as printed."
+  ]
+}

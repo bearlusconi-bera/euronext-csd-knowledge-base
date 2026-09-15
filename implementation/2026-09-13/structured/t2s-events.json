@@ -1,0 +1,94 @@
+{
+  "coverage": {
+    "2026-09-08": "All displayed updates for this date retained and read"
+  },
+  "verified_as_of": "2026-09-13",
+  "events": [
+    {
+      "id": "t2s-20260908-050000",
+      "business_date": "2026-09-08",
+      "published_time_as_displayed": "05:00:00",
+      "timestamp_timezone": null,
+      "timezone_note": "Preserve displayed ECB timestamp; UTC conversion not verified",
+      "original_text": "T2S is operating normally.",
+      "source_id": "ecb-status-2026",
+      "source_sha256": "7ab1d605dfa6f966301369c97347df0046262dcf7bf9cdd504ff49ecfdb1c8eb",
+      "source_url": "https://www.ecb.europa.eu/paym/target/html/t2s_history_2026_include.en.html",
+      "reviewed": true
+    },
+    {
+      "id": "t2s-20260908-153000",
+      "business_date": "2026-09-08",
+      "published_time_as_displayed": "15:30:00",
+      "timestamp_timezone": null,
+      "timezone_note": "Preserve displayed ECB timestamp; UTC conversion not verified",
+      "original_text": "There is currently no incident in T2S. However, the operating day schedule has been changed, due to a request by a Central Securities Depository. The start of the EUR delivery versus payment cut-off (event IDVP) has been postponed by 60 minutes (from 16:00 to 17:00). Consequently, the Reimbursement of Auto-collateralisation instructions (event RMIC) and the Optional Cash Sweep (event OCSW) have also been delayed and will take place 15 minutes after closure of the delivery-versus-payment cut-off. The second optional cash sweep (event OCS2) to CLM remains at 17:45 and the; free of payment cut-off (event IFOP) remains at 18:00.",
+      "source_id": "ecb-status-2026",
+      "source_sha256": "7ab1d605dfa6f966301369c97347df0046262dcf7bf9cdd504ff49ecfdb1c8eb",
+      "source_url": "https://www.ecb.europa.eu/paym/target/html/t2s_history_2026_include.en.html",
+      "reviewed": true,
+      "event_type": "announced_schedule_change",
+      "currency": "EUR",
+      "event": "IDVP",
+      "original_time": "16:00",
+      "announced_time": "17:00",
+      "actual_completion_time": null,
+      "baseline_time_convention": "CET as stated in UDFS; no UTC conversion",
+      "scope": "EUR DvP cutoff on this business date only",
+      "dependent_events": [
+        "RMIC and OCSW 15 minutes after IDVP closure"
+      ],
+      "supersedes_event_ids": []
+    },
+    {
+      "id": "t2s-20260908-181000",
+      "business_date": "2026-09-08",
+      "published_time_as_displayed": "18:10:00",
+      "timestamp_timezone": null,
+      "timezone_note": "Preserve displayed ECB timestamp; UTC conversion not verified",
+      "original_text": "T2S is currently facing an incident impacting the ICBO event (Intraday CBO cut-off). As a result of the incident, the operating day is blocked and the IFOP event (Intraday FoP cut-off) did not start.\n \nThe incident does not have any impact on any other T2S functionality.\n \nThe Eurosystem is taking all measures necessary to resolve the incident as soon as possible.\n \nUpdated information will be provided at the latest by 19:00.",
+      "source_id": "ecb-status-2026",
+      "source_sha256": "7ab1d605dfa6f966301369c97347df0046262dcf7bf9cdd504ff49ecfdb1c8eb",
+      "source_url": "https://www.ecb.europa.eu/paym/target/html/t2s_history_2026_include.en.html",
+      "reviewed": true,
+      "event_type": "incident_update",
+      "currency": null,
+      "event": "ICBO/IFOP",
+      "scope": "Operating day blocked; IFOP had not started",
+      "supersedes_event_ids": []
+    },
+    {
+      "id": "t2s-20260908-185500",
+      "business_date": "2026-09-08",
+      "published_time_as_displayed": "18:55:00",
+      "timestamp_timezone": null,
+      "timezone_note": "Preserve displayed ECB timestamp; UTC conversion not verified",
+      "original_text": "T2S is operating normally. The previous incident impacting the ICBO event (Intraday CBO cut-off) has been resolved. The IFOP event (Intraday FoP cut-off) closed at 18:39.",
+      "source_id": "ecb-status-2026",
+      "source_sha256": "7ab1d605dfa6f966301369c97347df0046262dcf7bf9cdd504ff49ecfdb1c8eb",
+      "source_url": "https://www.ecb.europa.eu/paym/target/html/t2s_history_2026_include.en.html",
+      "reviewed": true,
+      "event_type": "incident_resolution",
+      "currency": null,
+      "event": "IFOP",
+      "actual_completion_time": "18:39",
+      "scope": "ICBO incident resolved; IFOP closure reported",
+      "supersedes_event_ids": [
+        "t2s-20260908-181000"
+      ]
+    },
+    {
+      "id": "t2s-20260908-200000",
+      "business_date": "2026-09-08",
+      "published_time_as_displayed": "20:00:00",
+      "timestamp_timezone": null,
+      "timezone_note": "Preserve displayed ECB timestamp; UTC conversion not verified",
+      "original_text": "T2S is operating normally.",
+      "source_id": "ecb-status-2026",
+      "source_sha256": "7ab1d605dfa6f966301369c97347df0046262dcf7bf9cdd504ff49ecfdb1c8eb",
+      "source_url": "https://www.ecb.europa.eu/paym/target/html/t2s_history_2026_include.en.html",
+      "reviewed": true
+    }
+  ],
+  "policy": "Apply only to matching business date/currency/event. Later general normal-status messages do not erase earlier historical exceptions. No evidence for unreviewed dates."
+}

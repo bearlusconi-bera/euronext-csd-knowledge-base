@@ -1,0 +1,18 @@
+HTTP/2 200 
+date: Mon, 14 Sep 2026 08:53:30 GMT
+content-type: application/vnd.api+json
+cache-control: private, must-revalidate
+pragma: no-cache
+expires: -1
+content-security-policy: default-src 'self' 'unsafe-inline' https://*.gleif.org;
+x-content-security: default-src 'self' 'unsafe-inline' https://*.gleif.org;
+x-webkit-csp: default-src 'self' 'unsafe-inline' https://*.gleif.org;
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-permitted-cross-domain-policies: none
+x-robots-tag: all
+x-download-options: noopen
+set-cookie: DYNSRV=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+alt-svc: h3=":443"; ma=60
+

@@ -1,0 +1,46 @@
+{
+  "free_text": {
+    "question_is_consumed": false,
+    "same_evidence_with_adversarial_question": true,
+    "answer_generated": false,
+    "interpretation": "No demonstrated hallucinated answer; semantic routing/claim control is outside this engine."
+  },
+  "portable_pack": {
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dated_t2s_schedule",
+      "business_date": "2026-09-09",
+      "currency": "DKK"
+    },
+    "minimal_metadata_selected": [
+      "t2s-schedule",
+      "t2s-events-sep08",
+      "t2s-schedule-r2",
+      "t2s-events-2026-01-16",
+      "t2s-events-2026-03-02",
+      "t2s-events-2026-04-14",
+      "t2s-events-2026-04-21",
+      "t2s-events-2026-04-22",
+      "t2s-events-2026-05-18",
+      "t2s-events-2026-05-30",
+      "t2s-events-2026-06-10",
+      "t2s-events-2026-06-12",
+      "t2s-events-2026-06-14",
+      "t2s-events-2026-06-15",
+      "t2s-events-2026-07-01",
+      "t2s-events-2026-07-08",
+      "t2s-events-2026-07-11",
+      "t2s-events-2026-07-14",
+      "t2s-events-2026-08-26",
+      "t2s-events-2026-09-08",
+      "t2s-status-routine-2026"
+    ],
+    "local_command_status": "blocked",
+    "runtime_code_in_pack": false,
+    "interpretation": "Expected deployment gap: prose limitations and local Python predicates must also be implemented. ZIP upload/metadata presence alone is insufficient."
+  }
+}

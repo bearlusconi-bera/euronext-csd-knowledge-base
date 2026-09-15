@@ -1,0 +1,44 @@
+{
+  "source_id": "ecb-status-2026-20260914",
+  "source_url": "https://www.ecb.europa.eu/paym/target/html/t2s_history_2026_include.en.html",
+  "captured_on": "2026-09-14",
+  "captured_file": "implementation/2026-09-14-settlement-agent/hubs/ecb-t2s-status-2026.html",
+  "captured_sha256": "3377fac2c74fa893d9c8ebac5233cedd29ad73ab94fe911caa299c3ed7a24ec8",
+  "timezone_note": "Displayed ECB timestamps preserved; time zone not stated on the page; UTC conversion not verified.",
+  "attribution_note": "t2s_business_date follows the rule in attribution_basis. Evening entries about night processes are attributed to the next T2S settlement day; this is a labelled inference from the UDFS schedule, not source text. Weekend calendar dates carry closure/maintenance statements and are not T2S business days.",
+  "business_date": "2026-04-21",
+  "is_weekday": true,
+  "currency_scope": "ALL",
+  "currency_note": "ECB entries are not currency-specific unless the text names a currency (see currency_mentioned per entry); scope ALL means the statement concerns the operating day as a whole.",
+  "schedule_impact": "stated: schedule changed or delayed",
+  "entries": [
+    {
+      "calendar_date": "2026-04-20",
+      "published_time_as_displayed": "23:10:00",
+      "original_text": "T2S is currently facing an incident impacting the Night-Time Settlement phase. As a result of the incident, the Cycle 1 Sequence 2 event is blocked. The incident does not have any impact on any other T2S functionality. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 00:00.",
+      "attribution_basis": "inferred: evening entry about night-time/start-of-day processing attributed to the following T2S settlement day (UDFS §1.4: the settlement day opens at SOD 18:45 the previous evening); not stated by the source",
+      "currency_mentioned": null
+    },
+    {
+      "calendar_date": "2026-04-21",
+      "published_time_as_displayed": "00:05:00",
+      "original_text": "T2S is currently facing an incident impacting the Night-Time Settlement phase. As a result of the incident, the Cycle 1 Sequence 2 event is blocked. The incident does not have any impact on any other T2S functionality. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 00:45.",
+      "attribution_basis": "inferred: after-midnight entry about night-time processing attributed to the settlement day whose NTS was running (calendar date if a weekday, otherwise the next weekday); not stated by the source",
+      "currency_mentioned": null
+    },
+    {
+      "calendar_date": "2026-04-21",
+      "published_time_as_displayed": "00:20:00",
+      "original_text": "T2S is operating normally. The earlier incident blocking the Night-Time Settlement phase was resolved at 00:07.",
+      "attribution_basis": "inferred: after-midnight entry about night-time processing attributed to the settlement day whose NTS was running (calendar date if a weekday, otherwise the next weekday); not stated by the source",
+      "currency_mentioned": null
+    },
+    {
+      "calendar_date": "2026-04-21",
+      "published_time_as_displayed": "05:00:00",
+      "original_text": "T2S is operating normally.",
+      "attribution_basis": "calendar date used as business date (daytime entry, or routine/closure status)",
+      "currency_mentioned": null
+    }
+  ]
+}

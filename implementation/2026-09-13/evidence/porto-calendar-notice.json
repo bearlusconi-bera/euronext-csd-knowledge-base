@@ -1,0 +1,4174 @@
+{
+  "id": "porto-calendar-notice",
+  "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162",
+  "retrieved_at": "2026-09-13T21:53:49.695329+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162",
+  "content_type": "text/html; charset=UTF-8",
+  "local_path": "implementation/2026-09-13/sources/porto-calendar-notice.html",
+  "sha256": "011c306c60c6c03c690028ed8b25840f20eec484a2583d6895b15199e83a4054",
+  "bytes": 389312,
+  "links": [
+    {
+      "title": "Skip to main content",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162#main-content"
+    },
+    {
+      "title": "Investor Relations",
+      "url": "https://www.euronext.com/en/investor-relations"
+    },
+    {
+      "title": "Media centre",
+      "url": "https://www.euronext.com/en/about/media-centre"
+    },
+    {
+      "title": "Careers",
+      "url": "https://www.euronext.com/en/about/careers"
+    },
+    {
+      "title": "Euronext websites",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Live Markets",
+      "url": "https://live.euronext.com"
+    },
+    {
+      "title": "Connect - client portal",
+      "url": "https://connect2.euronext.com"
+    },
+    {
+      "title": "Live Markets",
+      "url": "https://live.euronext.com"
+    },
+    {
+      "title": "Open",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Amsterdam",
+      "url": "https://live.euronext.com/en/markets/amsterdam"
+    },
+    {
+      "title": "Athens",
+      "url": "https://athens.euronext.com/en/market-data"
+    },
+    {
+      "title": "Brussels",
+      "url": "https://live.euronext.com/en/markets/brussels"
+    },
+    {
+      "title": "Dublin",
+      "url": "https://live.euronext.com/en/markets/dublin"
+    },
+    {
+      "title": "Lisbon",
+      "url": "https://live.euronext.com/en/markets/lisbon"
+    },
+    {
+      "title": "Milan",
+      "url": "https://live.euronext.com/en/markets/milan"
+    },
+    {
+      "title": "Oslo",
+      "url": "https://live.euronext.com/en/markets/oslo"
+    },
+    {
+      "title": "Paris",
+      "url": "https://live.euronext.com/en/markets/paris"
+    },
+    {
+      "title": "Toggle navigation",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162#off-canvas"
+    },
+    {
+      "title": "",
+      "url": "https://www.euronext.com/en"
+    },
+    {
+      "title": "Search",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162#header-search-forms-mobile-container-menu"
+    },
+    {
+      "title": "Live Markets",
+      "url": "https://live.euronext.com"
+    },
+    {
+      "title": "Open",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Amsterdam",
+      "url": "https://live.euronext.com/en/markets/amsterdam"
+    },
+    {
+      "title": "Athens",
+      "url": "https://athens.euronext.com/en/market-data"
+    },
+    {
+      "title": "Brussels",
+      "url": "https://live.euronext.com/en/markets/brussels"
+    },
+    {
+      "title": "Dublin",
+      "url": "https://live.euronext.com/en/markets/dublin"
+    },
+    {
+      "title": "Lisbon",
+      "url": "https://live.euronext.com/en/markets/lisbon"
+    },
+    {
+      "title": "Milan",
+      "url": "https://live.euronext.com/en/markets/milan"
+    },
+    {
+      "title": "Oslo",
+      "url": "https://live.euronext.com/en/markets/oslo"
+    },
+    {
+      "title": "Paris",
+      "url": "https://live.euronext.com/en/markets/paris"
+    },
+    {
+      "title": "Listing",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/listing"
+    },
+    {
+      "title": "Raise capital",
+      "url": "https://www.euronext.com/en/listing/raise-capital"
+    },
+    {
+      "title": "Why go public?",
+      "url": "https://www.euronext.com/en/listing/raise-capital/why-go-public"
+    },
+    {
+      "title": "How to go public",
+      "url": "https://www.euronext.com/en/listing/raise-capital/how-go-public"
+    },
+    {
+      "title": "IPOready",
+      "url": "https://www.euronext.com/en/listing/raise-capital/ipoready"
+    },
+    {
+      "title": "Life as a listed company",
+      "url": "https://www.euronext.com/en/listing/raise-capital/life-listed-company"
+    },
+    {
+      "title": "Euronext Tech Leaders",
+      "url": "https://www.euronext.com/en/listing/raise-capital/euronext-tech-leaders"
+    },
+    {
+      "title": "Sector-focused listing solutions",
+      "url": "https://www.euronext.com/en/listing/raise-capital/sector-focused-listing-solutions"
+    },
+    {
+      "title": "International listings",
+      "url": "https://www.euronext.com/en/listing/raise-capital/international-listings"
+    },
+    {
+      "title": "Bonds",
+      "url": "https://www.euronext.com/en/listing/bonds"
+    },
+    {
+      "title": "One connected fixed income ecosystem",
+      "url": "https://www.euronext.com/en/connecting-europes-fixed-income-markets"
+    },
+    {
+      "title": "Bond Financing",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-financing"
+    },
+    {
+      "title": "Listing process",
+      "url": "https://www.euronext.com/en/listing/bonds/listing-process"
+    },
+    {
+      "title": "Bond types",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-types/asset-backed-securities"
+    },
+    {
+      "title": "Bond Listing Newsletter",
+      "url": "https://www.euronext.com/en/listing/bonds/debt-listing-newsletter"
+    },
+    {
+      "title": "ETFs",
+      "url": "https://www.euronext.com/en/listing/etfs"
+    },
+    {
+      "title": "List ETFs on Euronext Dublin",
+      "url": "https://www.euronext.com/en/listing/etfs/how-list-etfs-euronext-dublin"
+    },
+    {
+      "title": "Listing process",
+      "url": "https://www.euronext.com/en/listing/etfs/listing-process"
+    },
+    {
+      "title": "Funds",
+      "url": "https://www.euronext.com/en/listing/funds"
+    },
+    {
+      "title": "List on Euronext Amsterdam",
+      "url": "https://www.euronext.com/en/list-products/funds/list-investment-funds-euronext-amsterdam"
+    },
+    {
+      "title": "List on Euronext Dublin",
+      "url": "https://www.euronext.com/en/listing/funds/list-investment-funds-euronext-dublin"
+    },
+    {
+      "title": "Warrants & Certificates",
+      "url": "https://www.euronext.com/en/listing/warrants-certificates"
+    },
+    {
+      "title": "Structured Notes",
+      "url": "https://www.euronext.com/en/listing/structured-notes"
+    },
+    {
+      "title": "ESG for issuers",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers"
+    },
+    {
+      "title": "My ESG Profile",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers/my-esg-profile"
+    },
+    {
+      "title": "ESG Bonds",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers/esg-bonds"
+    },
+    {
+      "title": "ESG Bond Barometer",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers/esg-bond-barometer"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/connecting-europes-fixed-income-markets"
+    },
+    {
+      "title": "Trading",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/trading"
+    },
+    {
+      "title": "Membership",
+      "url": "https://www.euronext.com/en/trading/membership"
+    },
+    {
+      "title": "Admission Process and Application",
+      "url": "https://www.euronext.com/en/trading/membership/admission-process-and-application"
+    },
+    {
+      "title": "Regulatory Framework",
+      "url": "https://www.euronext.com/en/trading/membership/regulatory-framework"
+    },
+    {
+      "title": "Liquidity Provision",
+      "url": "https://www.euronext.com/en/trading/membership/liquidity-provision"
+    },
+    {
+      "title": "Trading Hours & Holidays",
+      "url": "https://www.euronext.com/en/trading/trading-hours-holidays"
+    },
+    {
+      "title": "Fees & Charges",
+      "url": "https://www.euronext.com/en/trading/fees-charges"
+    },
+    {
+      "title": "Market Quality",
+      "url": "https://www.euronext.com/en/trading/market-quality"
+    },
+    {
+      "title": "Research & Studies",
+      "url": "https://www.euronext.com/en/trading/market-quality/research-studies"
+    },
+    {
+      "title": "Access & software",
+      "url": "https://www.euronext.com/en/trading/access-software"
+    },
+    {
+      "title": "Trading Platform",
+      "url": "https://www.euronext.com/en/trading/access-software/trading-platform"
+    },
+    {
+      "title": "Euronext Market Services",
+      "url": "https://www.euronext.com/en/trading/access-software/euronext-market-services"
+    },
+    {
+      "title": "Trading Services",
+      "url": "https://www.euronext.com/en/trading/trading-services"
+    },
+    {
+      "title": "ESG Trading",
+      "url": "https://www.euronext.com/en/trading/esg-trading"
+    },
+    {
+      "title": "ESG profiles",
+      "url": "https://www.euronext.com/en/trading/esg-trading/esg-profiles"
+    },
+    {
+      "title": "ESG Indices",
+      "url": "https://www.euronext.com/en/trading/esg-trading/esg-indices"
+    },
+    {
+      "title": "ESG Funds",
+      "url": "https://www.euronext.com/en/trading/esg-trading/esg-funds"
+    },
+    {
+      "title": "ESG Derivatives",
+      "url": "https://www.euronext.com/en/trading/esg-trading/esg-derivatives"
+    },
+    {
+      "title": "London office",
+      "url": "https://www.euronext.com/en/trade/london"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/connecting-europes-fixed-income-markets"
+    },
+    {
+      "title": "Clearing",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/clearing"
+    },
+    {
+      "title": "Repo Clearing",
+      "url": "https://www.euronext.com/en/clearing/repo-clearing"
+    },
+    {
+      "title": "About",
+      "url": "https://www.euronext.com/en/clearing/about"
+    },
+    {
+      "title": "Clearing Services",
+      "url": "https://www.euronext.com/en/clearing/about/clearing-services"
+    },
+    {
+      "title": "Governance",
+      "url": "https://www.euronext.com/en/clearing/about/governance"
+    },
+    {
+      "title": "Annual Reports & Financial Statements",
+      "url": "https://www.euronext.com/en/clearing/about/annual-reports-financial-statements"
+    },
+    {
+      "title": "Statistics",
+      "url": "https://www.euronext.com/en/clearing/about/statistics"
+    },
+    {
+      "title": "Legal Data",
+      "url": "https://www.euronext.com/en/clearing/about/legal-data"
+    },
+    {
+      "title": "Due Diligence FAQ",
+      "url": "https://www.euronext.com/en/clearing/about/due-diligence-faq"
+    },
+    {
+      "title": "Operations",
+      "url": "https://www.euronext.com/en/clearing/operations"
+    },
+    {
+      "title": "Physical Delivery - Commodities",
+      "url": "https://www.euronext.com/en/clearing/operations/physical-delivery-commodities"
+    },
+    {
+      "title": "IT Infrastructure",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure"
+    },
+    {
+      "title": "BCS (Bit Clearing Station)",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure/bcs-bit-clearing-station"
+    },
+    {
+      "title": "ICWS (Internet Clearing WorkStation)",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure/icws-internet-clearing-workstation"
+    },
+    {
+      "title": "ISO Certification",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure/iso-certification"
+    },
+    {
+      "title": "Business Continuity Plan",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure/business-continuity-plan"
+    },
+    {
+      "title": "Risk Management",
+      "url": "https://www.euronext.com/en/clearing/risk-management"
+    },
+    {
+      "title": "Methodologies",
+      "url": "https://www.euronext.com/en/clearing/risk-management/methodologies"
+    },
+    {
+      "title": "Parameters",
+      "url": "https://www.euronext.com/en/clearing/risk-management/parameters"
+    },
+    {
+      "title": "Risk Disclosure",
+      "url": "https://www.euronext.com/en/clearing/risk-management/risk-disclosure"
+    },
+    {
+      "title": "Risk Array",
+      "url": "https://www.euronext.com/en/clearing/risk-management/risk-array"
+    },
+    {
+      "title": "Investment Policy",
+      "url": "https://www.euronext.com/en/clearing/risk-management/investment-policy"
+    },
+    {
+      "title": "Model Validation",
+      "url": "https://www.euronext.com/en/clearing/risk-management/model-validation"
+    },
+    {
+      "title": "Operational Risk",
+      "url": "https://www.euronext.com/en/clearing/risk-management/operational-risk"
+    },
+    {
+      "title": "Basel III Reporting",
+      "url": "https://www.euronext.com/en/clearing/risk-management/basel-iii-reporting"
+    },
+    {
+      "title": "Risk Simulation Tool",
+      "url": "https://www.euronext.com/en/clearing/clearsim"
+    },
+    {
+      "title": "Membership",
+      "url": "https://www.euronext.com/en/clearing/membership"
+    },
+    {
+      "title": "MyEuronext Membership Application",
+      "url": "https://www.euronext.com/en/clearing/membership/myeuronext-clearing-membership-application"
+    },
+    {
+      "title": "Rules and Regulations",
+      "url": "https://www.euronext.com/en/clearing/rules-and-regulations"
+    },
+    {
+      "title": "Notices",
+      "url": "https://www.euronext.com/en/clearing/notices"
+    },
+    {
+      "title": "News",
+      "url": "https://www.euronext.com/en/clearing/news"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://www.euronext.com/en/clearing/contact-us"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/connecting-europes-fixed-income-markets"
+    },
+    {
+      "title": "CSD",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/csd"
+    },
+    {
+      "title": "Strategic projects",
+      "url": "https://www.euronext.com/en/csd/strategic-projects"
+    },
+    {
+      "title": "European Offering",
+      "url": "https://www.euronext.com/en/csd/strategic-projects/european-offering"
+    },
+    {
+      "title": "Convergence programme",
+      "url": "https://www.euronext.com/en/csd/strategic-projects/convergence-programme"
+    },
+    {
+      "title": "Corporate Events Service",
+      "url": "https://www.euronext.com/en/csd/strategic-projects/corporate-events-service"
+    },
+    {
+      "title": "About",
+      "url": "https://www.euronext.com/en/csd/about-euronext-securities"
+    },
+    {
+      "title": "Governance",
+      "url": "https://www.euronext.com/en/csd/about/governance"
+    },
+    {
+      "title": "Key figures and Statistics",
+      "url": "https://www.euronext.com/en/csd/about/key-figures-and-statistics"
+    },
+    {
+      "title": "News",
+      "url": "https://www.euronext.com/en/csd/about/euronext-securities-news"
+    },
+    {
+      "title": "Careers",
+      "url": "https://www.euronext.com/en/csd/about/careers"
+    },
+    {
+      "title": "Contacts",
+      "url": "https://www.euronext.com/en/csd/about/contacts"
+    },
+    {
+      "title": "Regulatory Environment",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment"
+    },
+    {
+      "title": "CSDR",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment/csdr"
+    },
+    {
+      "title": "SRD II",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment/shareholder-rights-directive-ii"
+    },
+    {
+      "title": "CMH",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment/collateral-management-harmonisation"
+    },
+    {
+      "title": "Products & services",
+      "url": "https://www.euronext.com/en/csd/products-services"
+    },
+    {
+      "title": "Issuing Agent Services",
+      "url": "https://www.euronext.com/en/csd/products-services/issuing-agent-services"
+    },
+    {
+      "title": "Safekeeping, Custody, and Asset Services",
+      "url": "https://www.euronext.com/en/csd/products-services/safekeeping-custody-and-asset-services"
+    },
+    {
+      "title": "Settlement & Client Connectivity Services",
+      "url": "https://www.euronext.com/en/csd/products-services/settlement-client-connectivity-services"
+    },
+    {
+      "title": "Register and Meeting services",
+      "url": "https://www.euronext.com/en/csd/products-services/register-and-meeting-services"
+    },
+    {
+      "title": "Issuance Services",
+      "url": "https://www.euronext.com/en/csd/products-services/issuance-services"
+    },
+    {
+      "title": "Data Services",
+      "url": "https://www.euronext.com/en/csd/products-services/data-services"
+    },
+    {
+      "title": "Tax Services",
+      "url": "https://www.euronext.com/en/csd/products-services/tax-services"
+    },
+    {
+      "title": "Athens",
+      "url": "https://www.euronext.com/en/csd/athens"
+    },
+    {
+      "title": "Copenhagen",
+      "url": "https://www.euronext.com/en/csd/copenhagen"
+    },
+    {
+      "title": "Issuance",
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance"
+    },
+    {
+      "title": "Post Trade Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services"
+    },
+    {
+      "title": "Investor Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services"
+    },
+    {
+      "title": "Ancillary Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/ancillary-services"
+    },
+    {
+      "title": "News & Insights",
+      "url": "https://www.euronext.com/en/csd/copenhagen/news-insights"
+    },
+    {
+      "title": "Who We Are",
+      "url": "https://www.euronext.com/en/csd/copenhagen/who-we-are"
+    },
+    {
+      "title": "Career",
+      "url": "https://www.euronext.com/en/csd/copenhagen/career"
+    },
+    {
+      "title": "Corporate Governance",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance"
+    },
+    {
+      "title": "Legal Framework",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework"
+    },
+    {
+      "title": "Current AGMs",
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/current-agms"
+    },
+    {
+      "title": "Contact",
+      "url": "https://www.euronext.com/en/csd/copenhagen/contact-euronext-securities-copenhagen"
+    },
+    {
+      "title": "Milan",
+      "url": "https://www.euronext.com/en/csd/milan"
+    },
+    {
+      "title": "About Us",
+      "url": "https://www.euronext.com/en/csd/milan/about-us"
+    },
+    {
+      "title": "Regulatory Landscape",
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape"
+    },
+    {
+      "title": "Data Solutions",
+      "url": "https://www.euronext.com/en/csd/milan/data-solutionsold"
+    },
+    {
+      "title": "Intermediaries",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries"
+    },
+    {
+      "title": "Issuers",
+      "url": "https://www.euronext.com/en/csd/milan/issuers"
+    },
+    {
+      "title": "Membership",
+      "url": "https://www.euronext.com/en/csd/milan/membership"
+    },
+    {
+      "title": "News & Initiatives",
+      "url": "https://www.euronext.com/en/csd/milan/news-initiatives"
+    },
+    {
+      "title": "Contacts",
+      "url": "https://www.euronext.com/en/csd/milan/contacts"
+    },
+    {
+      "title": "Oslo",
+      "url": "https://www.euronext.com/en/csd/oslo"
+    },
+    {
+      "title": "Login",
+      "url": "https://www.euronext.com/en/csd/oslo/login"
+    },
+    {
+      "title": "Equities and Equity Certificates",
+      "url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates"
+    },
+    {
+      "title": "Debt, Funds and ETPs",
+      "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps"
+    },
+    {
+      "title": "Settlement",
+      "url": "https://www.euronext.com/en/csd/oslo/settlement"
+    },
+    {
+      "title": "Safekeeping and Asset Servicing",
+      "url": "https://www.euronext.com/en/csd/oslo/safekeeping-and-asset-servicing"
+    },
+    {
+      "title": "Tax Services",
+      "url": "https://www.euronext.com/en/csd/oslo/tax-services"
+    },
+    {
+      "title": "Data Services",
+      "url": "https://www.euronext.com/en/csd/oslo/data-servicesold"
+    },
+    {
+      "title": "ISIN, CFI, FISN",
+      "url": "https://www.euronext.com/en/csd/oslo/isin-cfi-fisn"
+    },
+    {
+      "title": "Career",
+      "url": "https://www.euronext.com/en/csd/oslo/career"
+    },
+    {
+      "title": "Information for",
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/investor"
+    },
+    {
+      "title": "About us",
+      "url": "https://www.euronext.com/en/csd/oslo/about-us"
+    },
+    {
+      "title": "Contacts",
+      "url": "https://www.euronext.com/en/csd/oslo/contact-us"
+    },
+    {
+      "title": "Porto",
+      "url": "https://www.euronext.com/en/csd/porto"
+    },
+    {
+      "title": "About us",
+      "url": "https://www.euronext.com/en/csd/porto/about-us"
+    },
+    {
+      "title": "Our Clients",
+      "url": "https://www.euronext.com/en/csd/porto/our-clients"
+    },
+    {
+      "title": "Legislation and Regulation",
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation"
+    },
+    {
+      "title": "Services",
+      "url": "https://www.euronext.com/en/csd/porto/services"
+    },
+    {
+      "title": "Documentation",
+      "url": "https://www.euronext.com/en/csd/porto/documentation"
+    },
+    {
+      "title": "Contact us",
+      "url": "https://www.euronext.com/en/csd/porto/contact-us"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/csd/strategic-projects"
+    },
+    {
+      "title": "Technology",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/technology"
+    },
+    {
+      "title": "Colocation Services",
+      "url": "https://www.euronext.com/en/technology/colocation-services"
+    },
+    {
+      "title": "Connectivity solutions",
+      "url": "https://www.euronext.com/en/technology/connectivity-solutions"
+    },
+    {
+      "title": "Trading Solutions",
+      "url": "https://www.euronext.com/en/technology/trading-solutions"
+    },
+    {
+      "title": "Traderpath and Algo Trading",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/traderpath-and-algo-trading"
+    },
+    {
+      "title": "Euronext Trader",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/euronext-trader"
+    },
+    {
+      "title": "HFTS",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/hfts"
+    },
+    {
+      "title": "Regpath",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/regpath"
+    },
+    {
+      "title": "Data management systems",
+      "url": "https://www.euronext.com/en/technology/data-management-systems"
+    },
+    {
+      "title": "Euronext Solutions",
+      "url": "https://www.euronext.com/en/technology/euronext-solutions"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/hfts"
+    },
+    {
+      "title": "Data",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/data"
+    },
+    {
+      "title": "Data products",
+      "url": "https://www.euronext.com/en/data/data-products"
+    },
+    {
+      "title": "Real-time",
+      "url": "https://www.euronext.com/en/products-services/euronext-real-time-data"
+    },
+    {
+      "title": "Reasonable Commercial Basis",
+      "url": "https://www.euronext.com/en/data/real-time/reasonable-commercial-basis"
+    },
+    {
+      "title": "Cloud Solutions",
+      "url": "https://www.euronext.com/en/data/cloud-solutions"
+    },
+    {
+      "title": "Data Solutions",
+      "url": "https://www.euronext.com/en/data/data-products"
+    },
+    {
+      "title": "Corporate actions data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5933"
+    },
+    {
+      "title": "Historical data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5935"
+    },
+    {
+      "title": "Mutual funds services",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5989"
+    },
+    {
+      "title": "Oslo products",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=6002"
+    },
+    {
+      "title": "Quant products",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5938"
+    },
+    {
+      "title": "Reference data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5940"
+    },
+    {
+      "title": "Index data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5934"
+    },
+    {
+      "title": "CSD data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5932&product_service%5B1%5D=5941&product_service%5B2%5D=5942&combine=&custom_action=/en/data/data-products"
+    },
+    {
+      "title": "MTS data",
+      "url": "https://www.euronext.com/en/products-services/mts-data"
+    },
+    {
+      "title": "Nord Pool data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=6004"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/data/data-products"
+    },
+    {
+      "title": "Indices",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/euronext-indices"
+    },
+    {
+      "title": "Custom index creation",
+      "url": "https://www.euronext.com/en/euronext-indices/custom-index-creation"
+    },
+    {
+      "title": "Index licensing for products",
+      "url": "https://www.euronext.com/en/euronext-indices/index-licensing-products"
+    },
+    {
+      "title": "Index licensing for benchmarking",
+      "url": "https://www.euronext.com/en/euronext-indices/index-licensing-for-benchmarking"
+    },
+    {
+      "title": "Index data",
+      "url": "https://www.euronext.com/en/euronext-indices/index-data"
+    },
+    {
+      "title": "Index products",
+      "url": "https://www.euronext.com/en/euronext-indices/index-products"
+    },
+    {
+      "title": "Euronext press releases",
+      "url": "https://www.euronext.com/en/euronext-indices/press-releases"
+    },
+    {
+      "title": "Index spotlight",
+      "url": "https://www.euronext.com/en/euronext-indices/index-spotlight"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/news/index-themes-shaping-2026-and-beyond"
+    },
+    {
+      "title": "Regulation",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/regulation"
+    },
+    {
+      "title": "Euronext Regulated Markets",
+      "url": "https://www.euronext.com/en/regulation/euronext-regulated-markets"
+    },
+    {
+      "title": "MTFs operated by Euronext",
+      "url": "https://www.euronext.com/en/regulation/mtfs-operated-euronext"
+    },
+    {
+      "title": "Euronext ABM",
+      "url": "https://www.euronext.com/en/regulation/euronext-abm"
+    },
+    {
+      "title": "Oslo Regulation news",
+      "url": "https://www.euronext.com/en/regulation/oslo-regulation-news"
+    },
+    {
+      "title": "Government Affairs",
+      "url": "https://www.euronext.com/en/regulation/government-affairs"
+    },
+    {
+      "title": "Digital Operational Resilience Act",
+      "url": "https://www.euronext.com/en/regulation/digital-operational-resilience-act-dora"
+    },
+    {
+      "title": "T+1 programme",
+      "url": "https://www.euronext.com/en/regulation/t1-programme"
+    },
+    {
+      "title": "About Euronext",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "About",
+      "url": "https://www.euronext.com/en/about"
+    },
+    {
+      "title": "Our Journey",
+      "url": "https://www.euronext.com/en/about/our-journey"
+    },
+    {
+      "title": "Our Business",
+      "url": "https://www.euronext.com/en/about/our-business"
+    },
+    {
+      "title": "Our Organisation",
+      "url": "https://www.euronext.com/en/about/our-organisation"
+    },
+    {
+      "title": "Innovate for Growth 2027",
+      "url": "https://www.euronext.com/en/innovate-for-growth-2027"
+    },
+    {
+      "title": "News & Insights",
+      "url": "https://www.euronext.com/en/about/news-insights"
+    },
+    {
+      "title": "Euronext Annual Conference",
+      "url": "https://www.euronext.com/en/euronext-annual-conference"
+    },
+    {
+      "title": "Investor Relations",
+      "url": "https://www.euronext.com/en/investor-relations"
+    },
+    {
+      "title": "Share Price",
+      "url": "https://www.euronext.com/en/investor-relations/share-price"
+    },
+    {
+      "title": "Financial Calendar",
+      "url": "https://www.euronext.com/en/investor-relations/financial-calendar"
+    },
+    {
+      "title": "Investor Day 2024",
+      "url": "https://www.euronext.com/en/investor-day-2024"
+    },
+    {
+      "title": "Financial Information",
+      "url": "https://www.euronext.com/en/investor-relations/financial-information"
+    },
+    {
+      "title": "Analyst Coverage",
+      "url": "https://www.euronext.com/en/investor-relations/analyst-coverage"
+    },
+    {
+      "title": "Debt and Bond",
+      "url": "https://www.euronext.com/en/investor-relations/debt-and-bond"
+    },
+    {
+      "title": "Corporate Governance",
+      "url": "https://www.euronext.com/en/investor-relations/corporate-governance"
+    },
+    {
+      "title": "Capital and Shareholding",
+      "url": "https://www.euronext.com/en/investor-relations/capital-and-shareholding"
+    },
+    {
+      "title": "Shareholder meetings",
+      "url": "https://www.euronext.com/en/investor-relations/shareholder-meetings"
+    },
+    {
+      "title": "Empowering Sustainable Growth",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth"
+    },
+    {
+      "title": "Sustainability Week",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth/sustainability-week"
+    },
+    {
+      "title": "ESG News",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth/esg-news"
+    },
+    {
+      "title": "Euronext Foundation",
+      "url": "https://www.euronext.com/en/about/esg-empowering-sustainable-growth/euronext-foundation"
+    },
+    {
+      "title": "Euronext Blue Challenge",
+      "url": "https://www.euronext.com/en/about/esg-empowering-sustainable-growth/blue-challenge"
+    },
+    {
+      "title": "Client satisfaction",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth/client-satisfaction"
+    },
+    {
+      "title": "ESG Policies & Statements",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth/euronext-esg-policies-statements"
+    },
+    {
+      "title": "Sustainable Supply Chain",
+      "url": "https://www.euronext.com/en/about/esg-empowering-sustainable-growth/sustainable-supply-chain"
+    },
+    {
+      "title": "Diversity and Inclusion",
+      "url": "https://www.euronext.com/en/about-euronext/empowering-sustainable-growth/diversity-and-inclusion"
+    },
+    {
+      "title": "Media",
+      "url": "https://www.euronext.com/en/about/media-centre"
+    },
+    {
+      "title": "Euronext Press Releases",
+      "url": "https://www.euronext.com/en/about/media-centre/euronext-press-releases"
+    },
+    {
+      "title": "All News & Insights articles",
+      "url": "https://www.euronext.com/en/about/media-centre/euronext-news"
+    },
+    {
+      "title": "Bell and Gong Ceremony",
+      "url": "https://www.euronext.com/en/about/media-centre/bell-ceremony-archive"
+    },
+    {
+      "title": "Careers",
+      "url": "https://www.euronext.com/en/about/careers"
+    },
+    {
+      "title": "ESG & Diversity",
+      "url": "https://www.euronext.com/en/about/careers/esg-diversity"
+    },
+    {
+      "title": "Early Careers at Euronext",
+      "url": "https://www.euronext.com/en/about/careers/early-careers-euronext"
+    },
+    {
+      "title": "Internship at Borsa Italiana",
+      "url": "https://www.euronext.com/en/about/careers/internship-borsa-italiana"
+    },
+    {
+      "title": "Open positions",
+      "url": "https://www.euronext.com/en/about/careers/open-positions"
+    },
+    {
+      "title": "Athens",
+      "url": "https://www.euronext.com/en/about-euronext/markets/athens"
+    },
+    {
+      "title": "Amsterdam",
+      "url": "https://www.euronext.com/en/markets/amsterdam"
+    },
+    {
+      "title": "Brussels",
+      "url": "https://www.euronext.com/en/about-euronext/markets/brussels"
+    },
+    {
+      "title": "Dublin",
+      "url": "https://www.euronext.com/en/about-euronext/markets/dublin"
+    },
+    {
+      "title": "Lisbon",
+      "url": "https://www.euronext.com/en/markets/lisbon"
+    },
+    {
+      "title": "Milan",
+      "url": "https://www.euronext.com/en/markets/milan"
+    },
+    {
+      "title": "Oslo",
+      "url": "https://www.euronext.com/en/markets/oslo"
+    },
+    {
+      "title": "Paris",
+      "url": "https://www.euronext.com/en/about-euronext/markets/paris"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/innovate-for-growth-2027"
+    },
+    {
+      "title": "Listing",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/listing"
+    },
+    {
+      "title": "Raise capital",
+      "url": "https://www.euronext.com/en/listing/raise-capital"
+    },
+    {
+      "title": "Why go public?",
+      "url": "https://www.euronext.com/en/listing/raise-capital/why-go-public"
+    },
+    {
+      "title": "How to go public",
+      "url": "https://www.euronext.com/en/listing/raise-capital/how-go-public"
+    },
+    {
+      "title": "IPOready",
+      "url": "https://www.euronext.com/en/listing/raise-capital/ipoready"
+    },
+    {
+      "title": "Life as a listed company",
+      "url": "https://www.euronext.com/en/listing/raise-capital/life-listed-company"
+    },
+    {
+      "title": "Euronext Tech Leaders",
+      "url": "https://www.euronext.com/en/listing/raise-capital/euronext-tech-leaders"
+    },
+    {
+      "title": "Sector-focused listing solutions",
+      "url": "https://www.euronext.com/en/listing/raise-capital/sector-focused-listing-solutions"
+    },
+    {
+      "title": "International listings",
+      "url": "https://www.euronext.com/en/listing/raise-capital/international-listings"
+    },
+    {
+      "title": "Bonds",
+      "url": "https://www.euronext.com/en/listing/bonds"
+    },
+    {
+      "title": "One connected fixed income ecosystem",
+      "url": "https://www.euronext.com/en/connecting-europes-fixed-income-markets"
+    },
+    {
+      "title": "Bond Financing",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-financing"
+    },
+    {
+      "title": "Listing process",
+      "url": "https://www.euronext.com/en/listing/bonds/listing-process"
+    },
+    {
+      "title": "Bond types",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-types/asset-backed-securities"
+    },
+    {
+      "title": "Bond Listing Newsletter",
+      "url": "https://www.euronext.com/en/listing/bonds/debt-listing-newsletter"
+    },
+    {
+      "title": "ETFs",
+      "url": "https://www.euronext.com/en/listing/etfs"
+    },
+    {
+      "title": "List ETFs on Euronext Dublin",
+      "url": "https://www.euronext.com/en/listing/etfs/how-list-etfs-euronext-dublin"
+    },
+    {
+      "title": "Listing process",
+      "url": "https://www.euronext.com/en/listing/etfs/listing-process"
+    },
+    {
+      "title": "Funds",
+      "url": "https://www.euronext.com/en/listing/funds"
+    },
+    {
+      "title": "List on Euronext Amsterdam",
+      "url": "https://www.euronext.com/en/list-products/funds/list-investment-funds-euronext-amsterdam"
+    },
+    {
+      "title": "List on Euronext Dublin",
+      "url": "https://www.euronext.com/en/listing/funds/list-investment-funds-euronext-dublin"
+    },
+    {
+      "title": "Warrants & Certificates",
+      "url": "https://www.euronext.com/en/listing/warrants-certificates"
+    },
+    {
+      "title": "Structured Notes",
+      "url": "https://www.euronext.com/en/listing/structured-notes"
+    },
+    {
+      "title": "ESG for issuers",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers"
+    },
+    {
+      "title": "My ESG Profile",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers/my-esg-profile"
+    },
+    {
+      "title": "ESG Bonds",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers/esg-bonds"
+    },
+    {
+      "title": "ESG Bond Barometer",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers/esg-bond-barometer"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/connecting-europes-fixed-income-markets"
+    },
+    {
+      "title": "Trading",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/trading"
+    },
+    {
+      "title": "Membership",
+      "url": "https://www.euronext.com/en/trading/membership"
+    },
+    {
+      "title": "Admission Process and Application",
+      "url": "https://www.euronext.com/en/trading/membership/admission-process-and-application"
+    },
+    {
+      "title": "Regulatory Framework",
+      "url": "https://www.euronext.com/en/trading/membership/regulatory-framework"
+    },
+    {
+      "title": "Liquidity Provision",
+      "url": "https://www.euronext.com/en/trading/membership/liquidity-provision"
+    },
+    {
+      "title": "Trading Hours & Holidays",
+      "url": "https://www.euronext.com/en/trading/trading-hours-holidays"
+    },
+    {
+      "title": "Fees & Charges",
+      "url": "https://www.euronext.com/en/trading/fees-charges"
+    },
+    {
+      "title": "Market Quality",
+      "url": "https://www.euronext.com/en/trading/market-quality"
+    },
+    {
+      "title": "Research & Studies",
+      "url": "https://www.euronext.com/en/trading/market-quality/research-studies"
+    },
+    {
+      "title": "Access & software",
+      "url": "https://www.euronext.com/en/trading/access-software"
+    },
+    {
+      "title": "Trading Platform",
+      "url": "https://www.euronext.com/en/trading/access-software/trading-platform"
+    },
+    {
+      "title": "Euronext Market Services",
+      "url": "https://www.euronext.com/en/trading/access-software/euronext-market-services"
+    },
+    {
+      "title": "Trading Services",
+      "url": "https://www.euronext.com/en/trading/trading-services"
+    },
+    {
+      "title": "ESG Trading",
+      "url": "https://www.euronext.com/en/trading/esg-trading"
+    },
+    {
+      "title": "ESG profiles",
+      "url": "https://www.euronext.com/en/trading/esg-trading/esg-profiles"
+    },
+    {
+      "title": "ESG Indices",
+      "url": "https://www.euronext.com/en/trading/esg-trading/esg-indices"
+    },
+    {
+      "title": "ESG Funds",
+      "url": "https://www.euronext.com/en/trading/esg-trading/esg-funds"
+    },
+    {
+      "title": "ESG Derivatives",
+      "url": "https://www.euronext.com/en/trading/esg-trading/esg-derivatives"
+    },
+    {
+      "title": "London office",
+      "url": "https://www.euronext.com/en/trade/london"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/connecting-europes-fixed-income-markets"
+    },
+    {
+      "title": "Clearing",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/clearing"
+    },
+    {
+      "title": "Repo Clearing",
+      "url": "https://www.euronext.com/en/clearing/repo-clearing"
+    },
+    {
+      "title": "About",
+      "url": "https://www.euronext.com/en/clearing/about"
+    },
+    {
+      "title": "Clearing Services",
+      "url": "https://www.euronext.com/en/clearing/about/clearing-services"
+    },
+    {
+      "title": "Governance",
+      "url": "https://www.euronext.com/en/clearing/about/governance"
+    },
+    {
+      "title": "Annual Reports & Financial Statements",
+      "url": "https://www.euronext.com/en/clearing/about/annual-reports-financial-statements"
+    },
+    {
+      "title": "Statistics",
+      "url": "https://www.euronext.com/en/clearing/about/statistics"
+    },
+    {
+      "title": "Legal Data",
+      "url": "https://www.euronext.com/en/clearing/about/legal-data"
+    },
+    {
+      "title": "Due Diligence FAQ",
+      "url": "https://www.euronext.com/en/clearing/about/due-diligence-faq"
+    },
+    {
+      "title": "Operations",
+      "url": "https://www.euronext.com/en/clearing/operations"
+    },
+    {
+      "title": "Physical Delivery - Commodities",
+      "url": "https://www.euronext.com/en/clearing/operations/physical-delivery-commodities"
+    },
+    {
+      "title": "IT Infrastructure",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure"
+    },
+    {
+      "title": "BCS (Bit Clearing Station)",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure/bcs-bit-clearing-station"
+    },
+    {
+      "title": "ICWS (Internet Clearing WorkStation)",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure/icws-internet-clearing-workstation"
+    },
+    {
+      "title": "ISO Certification",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure/iso-certification"
+    },
+    {
+      "title": "Business Continuity Plan",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure/business-continuity-plan"
+    },
+    {
+      "title": "Risk Management",
+      "url": "https://www.euronext.com/en/clearing/risk-management"
+    },
+    {
+      "title": "Methodologies",
+      "url": "https://www.euronext.com/en/clearing/risk-management/methodologies"
+    },
+    {
+      "title": "Parameters",
+      "url": "https://www.euronext.com/en/clearing/risk-management/parameters"
+    },
+    {
+      "title": "Risk Disclosure",
+      "url": "https://www.euronext.com/en/clearing/risk-management/risk-disclosure"
+    },
+    {
+      "title": "Risk Array",
+      "url": "https://www.euronext.com/en/clearing/risk-management/risk-array"
+    },
+    {
+      "title": "Investment Policy",
+      "url": "https://www.euronext.com/en/clearing/risk-management/investment-policy"
+    },
+    {
+      "title": "Model Validation",
+      "url": "https://www.euronext.com/en/clearing/risk-management/model-validation"
+    },
+    {
+      "title": "Operational Risk",
+      "url": "https://www.euronext.com/en/clearing/risk-management/operational-risk"
+    },
+    {
+      "title": "Basel III Reporting",
+      "url": "https://www.euronext.com/en/clearing/risk-management/basel-iii-reporting"
+    },
+    {
+      "title": "Risk Simulation Tool",
+      "url": "https://www.euronext.com/en/clearing/clearsim"
+    },
+    {
+      "title": "Membership",
+      "url": "https://www.euronext.com/en/clearing/membership"
+    },
+    {
+      "title": "MyEuronext Membership Application",
+      "url": "https://www.euronext.com/en/clearing/membership/myeuronext-clearing-membership-application"
+    },
+    {
+      "title": "Rules and Regulations",
+      "url": "https://www.euronext.com/en/clearing/rules-and-regulations"
+    },
+    {
+      "title": "Notices",
+      "url": "https://www.euronext.com/en/clearing/notices"
+    },
+    {
+      "title": "News",
+      "url": "https://www.euronext.com/en/clearing/news"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://www.euronext.com/en/clearing/contact-us"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/connecting-europes-fixed-income-markets"
+    },
+    {
+      "title": "CSD",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/csd"
+    },
+    {
+      "title": "Strategic projects",
+      "url": "https://www.euronext.com/en/csd/strategic-projects"
+    },
+    {
+      "title": "European Offering",
+      "url": "https://www.euronext.com/en/csd/strategic-projects/european-offering"
+    },
+    {
+      "title": "Convergence programme",
+      "url": "https://www.euronext.com/en/csd/strategic-projects/convergence-programme"
+    },
+    {
+      "title": "Corporate Events Service",
+      "url": "https://www.euronext.com/en/csd/strategic-projects/corporate-events-service"
+    },
+    {
+      "title": "About",
+      "url": "https://www.euronext.com/en/csd/about-euronext-securities"
+    },
+    {
+      "title": "Governance",
+      "url": "https://www.euronext.com/en/csd/about/governance"
+    },
+    {
+      "title": "Key figures and Statistics",
+      "url": "https://www.euronext.com/en/csd/about/key-figures-and-statistics"
+    },
+    {
+      "title": "News",
+      "url": "https://www.euronext.com/en/csd/about/euronext-securities-news"
+    },
+    {
+      "title": "Careers",
+      "url": "https://www.euronext.com/en/csd/about/careers"
+    },
+    {
+      "title": "Contacts",
+      "url": "https://www.euronext.com/en/csd/about/contacts"
+    },
+    {
+      "title": "Regulatory Environment",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment"
+    },
+    {
+      "title": "CSDR",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment/csdr"
+    },
+    {
+      "title": "SRD II",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment/shareholder-rights-directive-ii"
+    },
+    {
+      "title": "CMH",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment/collateral-management-harmonisation"
+    },
+    {
+      "title": "Products & services",
+      "url": "https://www.euronext.com/en/csd/products-services"
+    },
+    {
+      "title": "Issuing Agent Services",
+      "url": "https://www.euronext.com/en/csd/products-services/issuing-agent-services"
+    },
+    {
+      "title": "Safekeeping, Custody, and Asset Services",
+      "url": "https://www.euronext.com/en/csd/products-services/safekeeping-custody-and-asset-services"
+    },
+    {
+      "title": "Settlement & Client Connectivity Services",
+      "url": "https://www.euronext.com/en/csd/products-services/settlement-client-connectivity-services"
+    },
+    {
+      "title": "Register and Meeting services",
+      "url": "https://www.euronext.com/en/csd/products-services/register-and-meeting-services"
+    },
+    {
+      "title": "Issuance Services",
+      "url": "https://www.euronext.com/en/csd/products-services/issuance-services"
+    },
+    {
+      "title": "Data Services",
+      "url": "https://www.euronext.com/en/csd/products-services/data-services"
+    },
+    {
+      "title": "Tax Services",
+      "url": "https://www.euronext.com/en/csd/products-services/tax-services"
+    },
+    {
+      "title": "Athens",
+      "url": "https://www.euronext.com/en/csd/athens"
+    },
+    {
+      "title": "Copenhagen",
+      "url": "https://www.euronext.com/en/csd/copenhagen"
+    },
+    {
+      "title": "Issuance",
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance"
+    },
+    {
+      "title": "Post Trade Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services"
+    },
+    {
+      "title": "Investor Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services"
+    },
+    {
+      "title": "Ancillary Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/ancillary-services"
+    },
+    {
+      "title": "News & Insights",
+      "url": "https://www.euronext.com/en/csd/copenhagen/news-insights"
+    },
+    {
+      "title": "Who We Are",
+      "url": "https://www.euronext.com/en/csd/copenhagen/who-we-are"
+    },
+    {
+      "title": "Career",
+      "url": "https://www.euronext.com/en/csd/copenhagen/career"
+    },
+    {
+      "title": "Corporate Governance",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance"
+    },
+    {
+      "title": "Legal Framework",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework"
+    },
+    {
+      "title": "Current AGMs",
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/current-agms"
+    },
+    {
+      "title": "Contact",
+      "url": "https://www.euronext.com/en/csd/copenhagen/contact-euronext-securities-copenhagen"
+    },
+    {
+      "title": "Milan",
+      "url": "https://www.euronext.com/en/csd/milan"
+    },
+    {
+      "title": "About Us",
+      "url": "https://www.euronext.com/en/csd/milan/about-us"
+    },
+    {
+      "title": "Regulatory Landscape",
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape"
+    },
+    {
+      "title": "Data Solutions",
+      "url": "https://www.euronext.com/en/csd/milan/data-solutionsold"
+    },
+    {
+      "title": "Intermediaries",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries"
+    },
+    {
+      "title": "Issuers",
+      "url": "https://www.euronext.com/en/csd/milan/issuers"
+    },
+    {
+      "title": "Membership",
+      "url": "https://www.euronext.com/en/csd/milan/membership"
+    },
+    {
+      "title": "News & Initiatives",
+      "url": "https://www.euronext.com/en/csd/milan/news-initiatives"
+    },
+    {
+      "title": "Contacts",
+      "url": "https://www.euronext.com/en/csd/milan/contacts"
+    },
+    {
+      "title": "Oslo",
+      "url": "https://www.euronext.com/en/csd/oslo"
+    },
+    {
+      "title": "Login",
+      "url": "https://www.euronext.com/en/csd/oslo/login"
+    },
+    {
+      "title": "Equities and Equity Certificates",
+      "url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates"
+    },
+    {
+      "title": "Debt, Funds and ETPs",
+      "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps"
+    },
+    {
+      "title": "Settlement",
+      "url": "https://www.euronext.com/en/csd/oslo/settlement"
+    },
+    {
+      "title": "Safekeeping and Asset Servicing",
+      "url": "https://www.euronext.com/en/csd/oslo/safekeeping-and-asset-servicing"
+    },
+    {
+      "title": "Tax Services",
+      "url": "https://www.euronext.com/en/csd/oslo/tax-services"
+    },
+    {
+      "title": "Data Services",
+      "url": "https://www.euronext.com/en/csd/oslo/data-servicesold"
+    },
+    {
+      "title": "ISIN, CFI, FISN",
+      "url": "https://www.euronext.com/en/csd/oslo/isin-cfi-fisn"
+    },
+    {
+      "title": "Career",
+      "url": "https://www.euronext.com/en/csd/oslo/career"
+    },
+    {
+      "title": "Information for",
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/investor"
+    },
+    {
+      "title": "About us",
+      "url": "https://www.euronext.com/en/csd/oslo/about-us"
+    },
+    {
+      "title": "Contacts",
+      "url": "https://www.euronext.com/en/csd/oslo/contact-us"
+    },
+    {
+      "title": "Porto",
+      "url": "https://www.euronext.com/en/csd/porto"
+    },
+    {
+      "title": "About us",
+      "url": "https://www.euronext.com/en/csd/porto/about-us"
+    },
+    {
+      "title": "Our Clients",
+      "url": "https://www.euronext.com/en/csd/porto/our-clients"
+    },
+    {
+      "title": "Legislation and Regulation",
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation"
+    },
+    {
+      "title": "Services",
+      "url": "https://www.euronext.com/en/csd/porto/services"
+    },
+    {
+      "title": "Documentation",
+      "url": "https://www.euronext.com/en/csd/porto/documentation"
+    },
+    {
+      "title": "Contact us",
+      "url": "https://www.euronext.com/en/csd/porto/contact-us"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/csd/strategic-projects"
+    },
+    {
+      "title": "Technology",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/technology"
+    },
+    {
+      "title": "Colocation Services",
+      "url": "https://www.euronext.com/en/technology/colocation-services"
+    },
+    {
+      "title": "Connectivity solutions",
+      "url": "https://www.euronext.com/en/technology/connectivity-solutions"
+    },
+    {
+      "title": "Trading Solutions",
+      "url": "https://www.euronext.com/en/technology/trading-solutions"
+    },
+    {
+      "title": "Traderpath and Algo Trading",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/traderpath-and-algo-trading"
+    },
+    {
+      "title": "Euronext Trader",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/euronext-trader"
+    },
+    {
+      "title": "HFTS",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/hfts"
+    },
+    {
+      "title": "Regpath",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/regpath"
+    },
+    {
+      "title": "Data management systems",
+      "url": "https://www.euronext.com/en/technology/data-management-systems"
+    },
+    {
+      "title": "Euronext Solutions",
+      "url": "https://www.euronext.com/en/technology/euronext-solutions"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/hfts"
+    },
+    {
+      "title": "Data",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/data"
+    },
+    {
+      "title": "Data products",
+      "url": "https://www.euronext.com/en/data/data-products"
+    },
+    {
+      "title": "Real-time",
+      "url": "https://www.euronext.com/en/products-services/euronext-real-time-data"
+    },
+    {
+      "title": "Reasonable Commercial Basis",
+      "url": "https://www.euronext.com/en/data/real-time/reasonable-commercial-basis"
+    },
+    {
+      "title": "Cloud Solutions",
+      "url": "https://www.euronext.com/en/data/cloud-solutions"
+    },
+    {
+      "title": "Data Solutions",
+      "url": "https://www.euronext.com/en/data/data-products"
+    },
+    {
+      "title": "Corporate actions data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5933"
+    },
+    {
+      "title": "Historical data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5935"
+    },
+    {
+      "title": "Mutual funds services",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5989"
+    },
+    {
+      "title": "Oslo products",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=6002"
+    },
+    {
+      "title": "Quant products",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5938"
+    },
+    {
+      "title": "Reference data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5940"
+    },
+    {
+      "title": "Index data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5934"
+    },
+    {
+      "title": "CSD data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5932&product_service%5B1%5D=5941&product_service%5B2%5D=5942&combine=&custom_action=/en/data/data-products"
+    },
+    {
+      "title": "MTS data",
+      "url": "https://www.euronext.com/en/products-services/mts-data"
+    },
+    {
+      "title": "Nord Pool data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=6004"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/data/data-products"
+    },
+    {
+      "title": "Indices",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/euronext-indices"
+    },
+    {
+      "title": "Custom index creation",
+      "url": "https://www.euronext.com/en/euronext-indices/custom-index-creation"
+    },
+    {
+      "title": "Index licensing for products",
+      "url": "https://www.euronext.com/en/euronext-indices/index-licensing-products"
+    },
+    {
+      "title": "Index licensing for benchmarking",
+      "url": "https://www.euronext.com/en/euronext-indices/index-licensing-for-benchmarking"
+    },
+    {
+      "title": "Index data",
+      "url": "https://www.euronext.com/en/euronext-indices/index-data"
+    },
+    {
+      "title": "Index products",
+      "url": "https://www.euronext.com/en/euronext-indices/index-products"
+    },
+    {
+      "title": "Euronext press releases",
+      "url": "https://www.euronext.com/en/euronext-indices/press-releases"
+    },
+    {
+      "title": "Index spotlight",
+      "url": "https://www.euronext.com/en/euronext-indices/index-spotlight"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/news/index-themes-shaping-2026-and-beyond"
+    },
+    {
+      "title": "Regulation",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Overview",
+      "url": "https://www.euronext.com/en/regulation"
+    },
+    {
+      "title": "Euronext Regulated Markets",
+      "url": "https://www.euronext.com/en/regulation/euronext-regulated-markets"
+    },
+    {
+      "title": "MTFs operated by Euronext",
+      "url": "https://www.euronext.com/en/regulation/mtfs-operated-euronext"
+    },
+    {
+      "title": "Euronext ABM",
+      "url": "https://www.euronext.com/en/regulation/euronext-abm"
+    },
+    {
+      "title": "Oslo Regulation news",
+      "url": "https://www.euronext.com/en/regulation/oslo-regulation-news"
+    },
+    {
+      "title": "Government Affairs",
+      "url": "https://www.euronext.com/en/regulation/government-affairs"
+    },
+    {
+      "title": "Digital Operational Resilience Act",
+      "url": "https://www.euronext.com/en/regulation/digital-operational-resilience-act-dora"
+    },
+    {
+      "title": "T+1 programme",
+      "url": "https://www.euronext.com/en/regulation/t1-programme"
+    },
+    {
+      "title": "About Euronext",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "About",
+      "url": "https://www.euronext.com/en/about"
+    },
+    {
+      "title": "Our Journey",
+      "url": "https://www.euronext.com/en/about/our-journey"
+    },
+    {
+      "title": "Our Business",
+      "url": "https://www.euronext.com/en/about/our-business"
+    },
+    {
+      "title": "Our Organisation",
+      "url": "https://www.euronext.com/en/about/our-organisation"
+    },
+    {
+      "title": "Innovate for Growth 2027",
+      "url": "https://www.euronext.com/en/innovate-for-growth-2027"
+    },
+    {
+      "title": "News & Insights",
+      "url": "https://www.euronext.com/en/about/news-insights"
+    },
+    {
+      "title": "Euronext Annual Conference",
+      "url": "https://www.euronext.com/en/euronext-annual-conference"
+    },
+    {
+      "title": "Investor Relations",
+      "url": "https://www.euronext.com/en/investor-relations"
+    },
+    {
+      "title": "Share Price",
+      "url": "https://www.euronext.com/en/investor-relations/share-price"
+    },
+    {
+      "title": "Financial Calendar",
+      "url": "https://www.euronext.com/en/investor-relations/financial-calendar"
+    },
+    {
+      "title": "Investor Day 2024",
+      "url": "https://www.euronext.com/en/investor-day-2024"
+    },
+    {
+      "title": "Financial Information",
+      "url": "https://www.euronext.com/en/investor-relations/financial-information"
+    },
+    {
+      "title": "Analyst Coverage",
+      "url": "https://www.euronext.com/en/investor-relations/analyst-coverage"
+    },
+    {
+      "title": "Debt and Bond",
+      "url": "https://www.euronext.com/en/investor-relations/debt-and-bond"
+    },
+    {
+      "title": "Corporate Governance",
+      "url": "https://www.euronext.com/en/investor-relations/corporate-governance"
+    },
+    {
+      "title": "Capital and Shareholding",
+      "url": "https://www.euronext.com/en/investor-relations/capital-and-shareholding"
+    },
+    {
+      "title": "Shareholder meetings",
+      "url": "https://www.euronext.com/en/investor-relations/shareholder-meetings"
+    },
+    {
+      "title": "Empowering Sustainable Growth",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth"
+    },
+    {
+      "title": "Sustainability Week",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth/sustainability-week"
+    },
+    {
+      "title": "ESG News",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth/esg-news"
+    },
+    {
+      "title": "Euronext Foundation",
+      "url": "https://www.euronext.com/en/about/esg-empowering-sustainable-growth/euronext-foundation"
+    },
+    {
+      "title": "Euronext Blue Challenge",
+      "url": "https://www.euronext.com/en/about/esg-empowering-sustainable-growth/blue-challenge"
+    },
+    {
+      "title": "Client satisfaction",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth/client-satisfaction"
+    },
+    {
+      "title": "ESG Policies & Statements",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth/euronext-esg-policies-statements"
+    },
+    {
+      "title": "Sustainable Supply Chain",
+      "url": "https://www.euronext.com/en/about/esg-empowering-sustainable-growth/sustainable-supply-chain"
+    },
+    {
+      "title": "Diversity and Inclusion",
+      "url": "https://www.euronext.com/en/about-euronext/empowering-sustainable-growth/diversity-and-inclusion"
+    },
+    {
+      "title": "Media",
+      "url": "https://www.euronext.com/en/about/media-centre"
+    },
+    {
+      "title": "Euronext Press Releases",
+      "url": "https://www.euronext.com/en/about/media-centre/euronext-press-releases"
+    },
+    {
+      "title": "All News & Insights articles",
+      "url": "https://www.euronext.com/en/about/media-centre/euronext-news"
+    },
+    {
+      "title": "Bell and Gong Ceremony",
+      "url": "https://www.euronext.com/en/about/media-centre/bell-ceremony-archive"
+    },
+    {
+      "title": "Careers",
+      "url": "https://www.euronext.com/en/about/careers"
+    },
+    {
+      "title": "ESG & Diversity",
+      "url": "https://www.euronext.com/en/about/careers/esg-diversity"
+    },
+    {
+      "title": "Early Careers at Euronext",
+      "url": "https://www.euronext.com/en/about/careers/early-careers-euronext"
+    },
+    {
+      "title": "Internship at Borsa Italiana",
+      "url": "https://www.euronext.com/en/about/careers/internship-borsa-italiana"
+    },
+    {
+      "title": "Open positions",
+      "url": "https://www.euronext.com/en/about/careers/open-positions"
+    },
+    {
+      "title": "Athens",
+      "url": "https://www.euronext.com/en/about-euronext/markets/athens"
+    },
+    {
+      "title": "Amsterdam",
+      "url": "https://www.euronext.com/en/markets/amsterdam"
+    },
+    {
+      "title": "Brussels",
+      "url": "https://www.euronext.com/en/about-euronext/markets/brussels"
+    },
+    {
+      "title": "Dublin",
+      "url": "https://www.euronext.com/en/about-euronext/markets/dublin"
+    },
+    {
+      "title": "Lisbon",
+      "url": "https://www.euronext.com/en/markets/lisbon"
+    },
+    {
+      "title": "Milan",
+      "url": "https://www.euronext.com/en/markets/milan"
+    },
+    {
+      "title": "Oslo",
+      "url": "https://www.euronext.com/en/markets/oslo"
+    },
+    {
+      "title": "Paris",
+      "url": "https://www.euronext.com/en/about-euronext/markets/paris"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/innovate-for-growth-2027"
+    },
+    {
+      "title": "Home",
+      "url": "https://www.euronext.com/en"
+    },
+    {
+      "title": "Clearing",
+      "url": "https://www.euronext.com/en/clearing"
+    },
+    {
+      "title": "EN",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "PT",
+      "url": "https://www.euronext.com/pt/node/3230375"
+    },
+    {
+      "title": "Back",
+      "url": "javascript: history.back()"
+    },
+    {
+      "title": "Empowering Sustainable Growth",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth"
+    },
+    {
+      "title": "About",
+      "url": "https://www.euronext.com/en/about"
+    },
+    {
+      "title": "Innovate for Growth 2027",
+      "url": "https://www.euronext.com/en/innovate-for-growth-2027"
+    },
+    {
+      "title": "Investor Relations",
+      "url": "https://www.euronext.com/en/investor-relations"
+    },
+    {
+      "title": "Careers",
+      "url": "https://www.euronext.com/en/about/careers"
+    },
+    {
+      "title": "News & Insights",
+      "url": "https://www.euronext.com/en/about/news-insights"
+    },
+    {
+      "title": "Media centre",
+      "url": "https://www.euronext.com/en/about/media-centre"
+    },
+    {
+      "title": "Contact us",
+      "url": "https://www.euronext.com/en/contact-us"
+    },
+    {
+      "title": "Amsterdam",
+      "url": "https://www.euronext.com/en/markets/amsterdam"
+    },
+    {
+      "title": "Athens",
+      "url": "https://www.euronext.com/en/about-euronext/markets/athens"
+    },
+    {
+      "title": "Brussels",
+      "url": "https://www.euronext.com/en/about-euronext/markets/brussels"
+    },
+    {
+      "title": "Dublin",
+      "url": "https://www.euronext.com/en/about-euronext/markets/dublin"
+    },
+    {
+      "title": "Lisbon",
+      "url": "https://www.euronext.com/en/markets/lisbon"
+    },
+    {
+      "title": "Milan",
+      "url": "https://www.euronext.com/en/markets/milan"
+    },
+    {
+      "title": "Oslo",
+      "url": "https://www.euronext.com/en/markets/oslo"
+    },
+    {
+      "title": "Paris",
+      "url": "https://www.euronext.com/en/about-euronext/markets/paris"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/company/euronext"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://x.com/euronext"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/euronextgroup"
+    },
+    {
+      "title": "Privacy Statement",
+      "url": "https://www.euronext.com/en/privacy-statement"
+    },
+    {
+      "title": "Terms of Use",
+      "url": "https://www.euronext.com/en/terms-use"
+    },
+    {
+      "title": "Cookie policy",
+      "url": "https://www.euronext.com/en/cookie-policy"
+    },
+    {
+      "title": "en",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "fr",
+      "url": "https://www.euronext.com/fr/node/3230375"
+    },
+    {
+      "title": "nl",
+      "url": "https://www.euronext.com/nl/node/3230375"
+    },
+    {
+      "title": "it",
+      "url": "https://www.euronext.com/it/node/3230375"
+    },
+    {
+      "title": "pt",
+      "url": "https://www.euronext.com/pt/node/3230375"
+    },
+    {
+      "title": "nb",
+      "url": "https://www.euronext.com/nb/node/3230375"
+    },
+    {
+      "title": "zh-hans",
+      "url": "https://www.euronext.com/zh/node/3230375"
+    },
+    {
+      "title": "el",
+      "url": "https://www.euronext.com/el/node/3230375"
+    },
+    {
+      "title": "中文",
+      "url": "https://www.euronext.com/"
+    },
+    {
+      "title": "Deutsche",
+      "url": "http://example.com"
+    },
+    {
+      "title": "Listing",
+      "url": "https://www.euronext.com/en/listing"
+    },
+    {
+      "title": "Raise capital",
+      "url": "https://www.euronext.com/en/listing/raise-capital"
+    },
+    {
+      "title": "Why go public?",
+      "url": "https://www.euronext.com/en/listing/raise-capital/why-go-public"
+    },
+    {
+      "title": "How to go public",
+      "url": "https://www.euronext.com/en/listing/raise-capital/how-go-public"
+    },
+    {
+      "title": "Types of Listing",
+      "url": "https://www.euronext.com/en/listing/raise-capital/how-go-public/types-listing"
+    },
+    {
+      "title": "Choosing a Market",
+      "url": "https://www.euronext.com/en/listing/raise-capital/how-go-public/choosing-market"
+    },
+    {
+      "title": "IPO journey",
+      "url": "https://www.euronext.com/en/listing/raise-capital/how-go-public/ipo-journey"
+    },
+    {
+      "title": "Choosing advisors",
+      "url": "https://www.euronext.com/en/listing/raise-capital/how-go-public/choosing-advisors"
+    },
+    {
+      "title": "Rules, Fees and Forms",
+      "url": "https://www.euronext.com/en/listing/raise-capital/how-go-public/rules-fees-and-forms"
+    },
+    {
+      "title": "IPOready",
+      "url": "https://www.euronext.com/en/listing/raise-capital/ipoready"
+    },
+    {
+      "title": "Life as a listed company",
+      "url": "https://www.euronext.com/en/listing/raise-capital/life-listed-company"
+    },
+    {
+      "title": "Euronext Tech Leaders",
+      "url": "https://www.euronext.com/en/listing/raise-capital/euronext-tech-leaders"
+    },
+    {
+      "title": "Sector-focused listing solutions",
+      "url": "https://www.euronext.com/en/listing/raise-capital/sector-focused-listing-solutions"
+    },
+    {
+      "title": "Real estate investment trusts (REITs)",
+      "url": "https://www.euronext.com/en/listing/raise-capital/sector-focused-listing-solutions/real-estate-investment-trusts-reits"
+    },
+    {
+      "title": "SME",
+      "url": "https://www.euronext.com/en/listing/raise-capital/sector-focused-listing-solutions/sme"
+    },
+    {
+      "title": "IPOgo",
+      "url": "https://www.euronext.com/en/listing/raise-capital/sector-focused-listing-solutions/sme/ipogo"
+    },
+    {
+      "title": "Aerospace and defence",
+      "url": "https://www.euronext.com/en/listing/raise-capital/sector-focused-listing-solutions/aerospace-and-defence"
+    },
+    {
+      "title": "Tech",
+      "url": "https://www.euronext.com/en/listing/raise-capital/sector-focused-listing-solutions/tech"
+    },
+    {
+      "title": "Family Business",
+      "url": "https://www.euronext.com/en/listing/raise-capital/sector-focused-listing-solutions/family-business"
+    },
+    {
+      "title": "Energy, shipping and seafood",
+      "url": "https://www.euronext.com/en/listing/raise-capital/sector-focused-listing-solutions/energy-shipping-and-seafood"
+    },
+    {
+      "title": "International listings",
+      "url": "https://www.euronext.com/en/listing/raise-capital/international-listings"
+    },
+    {
+      "title": "Bonds",
+      "url": "https://www.euronext.com/en/listing/bonds"
+    },
+    {
+      "title": "One connected fixed income ecosystem",
+      "url": "https://www.euronext.com/en/connecting-europes-fixed-income-markets"
+    },
+    {
+      "title": "Bond Financing",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-financing"
+    },
+    {
+      "title": "Listing process",
+      "url": "https://www.euronext.com/en/listing/bonds/listing-process"
+    },
+    {
+      "title": "List on Euronext Dublin",
+      "url": "https://www.euronext.com/en/listing/bonds/listing-process/how-list-euronext-dublin"
+    },
+    {
+      "title": "List on Global Exchange Market (GEM)",
+      "url": "https://www.euronext.com/en/listing/bonds/listing-process/how-list-global-exchange-market-gem"
+    },
+    {
+      "title": "List on Euronext",
+      "url": "https://www.euronext.com/en/listing/bonds/listing-process/how-list-euronext"
+    },
+    {
+      "title": "List on Euronext Growth & Euronext Access",
+      "url": "https://www.euronext.com/en/listing/bonds/listing-process/how-list-euronext-growth-euronext-access"
+    },
+    {
+      "title": "List on Euronext Access Milan",
+      "url": "https://www.euronext.com/en/listing/bonds/listing-process/how-list-euronext-access-milan"
+    },
+    {
+      "title": "List on MOT Milan",
+      "url": "https://www.euronext.com/en/listing/bonds/listing-process/how-list-mot-milan"
+    },
+    {
+      "title": "List on EuroTLX Milan",
+      "url": "https://www.euronext.com/en/listing/bonds/listing-process/how-list-eurotlx-milan"
+    },
+    {
+      "title": "List on Euronext Oslo Børs",
+      "url": "https://www.euronext.com/en/listing/bonds/listing-process/list-euronext-oslo-bors"
+    },
+    {
+      "title": "List on Nordic ABM",
+      "url": "https://www.euronext.com/en/listing/bonds/listing-process/list-euronext-abm"
+    },
+    {
+      "title": "Bond types",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-types/asset-backed-securities"
+    },
+    {
+      "title": "Asset-Backed Securities",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-types/asset-backed-securities"
+    },
+    {
+      "title": "Commercial Papers",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-types/commercial-papers"
+    },
+    {
+      "title": "Corporate Bonds",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-types/corporate-bonds"
+    },
+    {
+      "title": "Covered Bonds",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-types/covered-bonds"
+    },
+    {
+      "title": "European Defence Bonds",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-types/european-defence-bonds"
+    },
+    {
+      "title": "ESG Bonds",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers/esg-bonds"
+    },
+    {
+      "title": "High Yield Bonds",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-types/high-yield-bonds"
+    },
+    {
+      "title": "Medium Term Notes",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-types/medium-term-notes"
+    },
+    {
+      "title": "Sovereign Bonds",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-types/sovereign-bonds"
+    },
+    {
+      "title": "Sukuk",
+      "url": "https://www.euronext.com/en/listing/bonds/bond-types/sukuk-listing"
+    },
+    {
+      "title": "Bond Listing Newsletter",
+      "url": "https://www.euronext.com/en/listing/bonds/debt-listing-newsletter"
+    },
+    {
+      "title": "ETFs",
+      "url": "https://www.euronext.com/en/listing/etfs"
+    },
+    {
+      "title": "List ETFs on Euronext Dublin",
+      "url": "https://www.euronext.com/en/listing/etfs/how-list-etfs-euronext-dublin"
+    },
+    {
+      "title": "Listing process",
+      "url": "https://www.euronext.com/en/listing/etfs/listing-process"
+    },
+    {
+      "title": "Funds",
+      "url": "https://www.euronext.com/en/listing/funds"
+    },
+    {
+      "title": "List on Euronext Amsterdam",
+      "url": "https://www.euronext.com/en/list-products/funds/list-investment-funds-euronext-amsterdam"
+    },
+    {
+      "title": "List on Euronext Dublin",
+      "url": "https://www.euronext.com/en/listing/funds/list-investment-funds-euronext-dublin"
+    },
+    {
+      "title": "Warrants & Certificates",
+      "url": "https://www.euronext.com/en/listing/warrants-certificates"
+    },
+    {
+      "title": "Structured Notes",
+      "url": "https://www.euronext.com/en/listing/structured-notes"
+    },
+    {
+      "title": "ESG for issuers",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers"
+    },
+    {
+      "title": "My ESG Profile",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers/my-esg-profile"
+    },
+    {
+      "title": "ESG Bonds",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers/esg-bonds"
+    },
+    {
+      "title": "SBTi 1.5° ESG Bonds Issuers",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers/esg-bonds/sbti-15deg-esg-bonds-issuers"
+    },
+    {
+      "title": "ESG Bond Barometer",
+      "url": "https://www.euronext.com/en/listing/esg-for-issuers/esg-bond-barometer"
+    },
+    {
+      "title": "Trading",
+      "url": "https://www.euronext.com/en/trading"
+    },
+    {
+      "title": "Membership",
+      "url": "https://www.euronext.com/en/trading/membership"
+    },
+    {
+      "title": "Admission Process and Application",
+      "url": "https://www.euronext.com/en/trading/membership/admission-process-and-application"
+    },
+    {
+      "title": "Regulatory Framework",
+      "url": "https://www.euronext.com/en/trading/membership/regulatory-framework"
+    },
+    {
+      "title": "Liquidity Provision",
+      "url": "https://www.euronext.com/en/trading/membership/liquidity-provision"
+    },
+    {
+      "title": "Trading Hours & Holidays",
+      "url": "https://www.euronext.com/en/trading/trading-hours-holidays"
+    },
+    {
+      "title": "Fees & Charges",
+      "url": "https://www.euronext.com/en/trading/fees-charges"
+    },
+    {
+      "title": "Market Quality",
+      "url": "https://www.euronext.com/en/trading/market-quality"
+    },
+    {
+      "title": "Research & Studies",
+      "url": "https://www.euronext.com/en/trading/market-quality/research-studies"
+    },
+    {
+      "title": "Access & software",
+      "url": "https://www.euronext.com/en/trading/access-software"
+    },
+    {
+      "title": "Trading Platform",
+      "url": "https://www.euronext.com/en/trading/access-software/trading-platform"
+    },
+    {
+      "title": "ISVs, ASPs and other suppliers",
+      "url": "https://www.euronext.com/en/trading/access-software/trading-platform/isvs-asps-and-other-suppliers"
+    },
+    {
+      "title": "Euronext Market Services",
+      "url": "https://www.euronext.com/en/trading/access-software/euronext-market-services"
+    },
+    {
+      "title": "Trading Services",
+      "url": "https://www.euronext.com/en/trading/trading-services"
+    },
+    {
+      "title": "ESG Trading",
+      "url": "https://www.euronext.com/en/trading/esg-trading"
+    },
+    {
+      "title": "ESG profiles",
+      "url": "https://www.euronext.com/en/trading/esg-trading/esg-profiles"
+    },
+    {
+      "title": "ESG Indices",
+      "url": "https://www.euronext.com/en/trading/esg-trading/esg-indices"
+    },
+    {
+      "title": "ESG Funds",
+      "url": "https://www.euronext.com/en/trading/esg-trading/esg-funds"
+    },
+    {
+      "title": "ESG Derivatives",
+      "url": "https://www.euronext.com/en/trading/esg-trading/esg-derivatives"
+    },
+    {
+      "title": "London office",
+      "url": "https://www.euronext.com/en/trade/london"
+    },
+    {
+      "title": "Clearing",
+      "url": "https://www.euronext.com/en/clearing"
+    },
+    {
+      "title": "Repo Clearing",
+      "url": "https://www.euronext.com/en/clearing/repo-clearing"
+    },
+    {
+      "title": "About",
+      "url": "https://www.euronext.com/en/clearing/about"
+    },
+    {
+      "title": "Clearing Services",
+      "url": "https://www.euronext.com/en/clearing/about/clearing-services"
+    },
+    {
+      "title": "Governance",
+      "url": "https://www.euronext.com/en/clearing/about/governance"
+    },
+    {
+      "title": "Board of Directors",
+      "url": "https://www.euronext.com/en/clearing/about/governance/board-directors"
+    },
+    {
+      "title": "Committees",
+      "url": "https://www.euronext.com/en/clearing/about/governance/committees"
+    },
+    {
+      "title": "Statutory Auditors",
+      "url": "https://www.euronext.com/en/clearing/about/governance/statutory-auditors"
+    },
+    {
+      "title": "Annual Reports & Financial Statements",
+      "url": "https://www.euronext.com/en/clearing/about/annual-reports-financial-statements"
+    },
+    {
+      "title": "Statistics",
+      "url": "https://www.euronext.com/en/clearing/about/statistics"
+    },
+    {
+      "title": "Legal Data",
+      "url": "https://www.euronext.com/en/clearing/about/legal-data"
+    },
+    {
+      "title": "Due Diligence FAQ",
+      "url": "https://www.euronext.com/en/clearing/about/due-diligence-faq"
+    },
+    {
+      "title": "Operations",
+      "url": "https://www.euronext.com/en/clearing/operations"
+    },
+    {
+      "title": "Physical Delivery - Commodities",
+      "url": "https://www.euronext.com/en/clearing/operations/physical-delivery-commodities"
+    },
+    {
+      "title": "IT Infrastructure",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure"
+    },
+    {
+      "title": "BCS (Bit Clearing Station)",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure/bcs-bit-clearing-station"
+    },
+    {
+      "title": "ICWS (Internet Clearing WorkStation)",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure/icws-internet-clearing-workstation"
+    },
+    {
+      "title": "ISO Certification",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure/iso-certification"
+    },
+    {
+      "title": "Business Continuity Plan",
+      "url": "https://www.euronext.com/en/clearing/it-infrastructure/business-continuity-plan"
+    },
+    {
+      "title": "Risk Management",
+      "url": "https://www.euronext.com/en/clearing/risk-management"
+    },
+    {
+      "title": "Methodologies",
+      "url": "https://www.euronext.com/en/clearing/risk-management/methodologies"
+    },
+    {
+      "title": "Parameters",
+      "url": "https://www.euronext.com/en/clearing/risk-management/parameters"
+    },
+    {
+      "title": "Risk Disclosure",
+      "url": "https://www.euronext.com/en/clearing/risk-management/risk-disclosure"
+    },
+    {
+      "title": "Risk Array",
+      "url": "https://www.euronext.com/en/clearing/risk-management/risk-array"
+    },
+    {
+      "title": "Investment Policy",
+      "url": "https://www.euronext.com/en/clearing/risk-management/investment-policy"
+    },
+    {
+      "title": "Model Validation",
+      "url": "https://www.euronext.com/en/clearing/risk-management/model-validation"
+    },
+    {
+      "title": "Operational Risk",
+      "url": "https://www.euronext.com/en/clearing/risk-management/operational-risk"
+    },
+    {
+      "title": "Basel III Reporting",
+      "url": "https://www.euronext.com/en/clearing/risk-management/basel-iii-reporting"
+    },
+    {
+      "title": "Risk Simulation Tool",
+      "url": "https://www.euronext.com/en/clearing/clearsim"
+    },
+    {
+      "title": "Membership",
+      "url": "https://www.euronext.com/en/clearing/membership"
+    },
+    {
+      "title": "MyEuronext Membership Application",
+      "url": "https://www.euronext.com/en/clearing/membership/myeuronext-clearing-membership-application"
+    },
+    {
+      "title": "Rules and Regulations",
+      "url": "https://www.euronext.com/en/clearing/rules-and-regulations"
+    },
+    {
+      "title": "Notices",
+      "url": "https://www.euronext.com/en/clearing/notices"
+    },
+    {
+      "title": "News",
+      "url": "https://www.euronext.com/en/clearing/news"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://www.euronext.com/en/clearing/contact-us"
+    },
+    {
+      "title": "CSD",
+      "url": "https://www.euronext.com/en/csd"
+    },
+    {
+      "title": "Strategic projects",
+      "url": "https://www.euronext.com/en/csd/strategic-projects"
+    },
+    {
+      "title": "European Offering",
+      "url": "https://www.euronext.com/en/csd/strategic-projects/european-offering"
+    },
+    {
+      "title": "Convergence programme",
+      "url": "https://www.euronext.com/en/csd/strategic-projects/convergence-programme"
+    },
+    {
+      "title": "Corporate Events Service",
+      "url": "https://www.euronext.com/en/csd/strategic-projects/corporate-events-service"
+    },
+    {
+      "title": "About",
+      "url": "https://www.euronext.com/en/csd/about-euronext-securities"
+    },
+    {
+      "title": "Governance",
+      "url": "https://www.euronext.com/en/csd/about/governance"
+    },
+    {
+      "title": "Risk Management",
+      "url": "https://www.euronext.com/en/csd/about/governance/risk-management"
+    },
+    {
+      "title": "Complaints",
+      "url": "https://www.euronext.com/en/csd/about/governance/complaints"
+    },
+    {
+      "title": "Key figures and Statistics",
+      "url": "https://www.euronext.com/en/csd/about/key-figures-and-statistics"
+    },
+    {
+      "title": "News",
+      "url": "https://www.euronext.com/en/csd/about/euronext-securities-news"
+    },
+    {
+      "title": "Careers",
+      "url": "https://www.euronext.com/en/csd/about/careers"
+    },
+    {
+      "title": "Contacts",
+      "url": "https://www.euronext.com/en/csd/about/contacts"
+    },
+    {
+      "title": "Regulatory Environment",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment"
+    },
+    {
+      "title": "CSDR",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment/csdr"
+    },
+    {
+      "title": "Client segregation",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment/csdr/client-segregation"
+    },
+    {
+      "title": "SDR",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment/csdr/settlement-discipline-regime"
+    },
+    {
+      "title": "SRD II",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment/shareholder-rights-directive-ii"
+    },
+    {
+      "title": "CMH",
+      "url": "https://www.euronext.com/en/csd/regulatory-environment/collateral-management-harmonisation"
+    },
+    {
+      "title": "Products & services",
+      "url": "https://www.euronext.com/en/csd/products-services"
+    },
+    {
+      "title": "Issuing Agent Services",
+      "url": "https://www.euronext.com/en/csd/products-services/issuing-agent-services"
+    },
+    {
+      "title": "Safekeeping, Custody, and Asset Services",
+      "url": "https://www.euronext.com/en/csd/products-services/safekeeping-custody-and-asset-services"
+    },
+    {
+      "title": "Settlement & Client Connectivity Services",
+      "url": "https://www.euronext.com/en/csd/products-services/settlement-client-connectivity-services"
+    },
+    {
+      "title": "Register and Meeting services",
+      "url": "https://www.euronext.com/en/csd/products-services/register-and-meeting-services"
+    },
+    {
+      "title": "Issuance Services",
+      "url": "https://www.euronext.com/en/csd/products-services/issuance-services"
+    },
+    {
+      "title": "Data Services",
+      "url": "https://www.euronext.com/en/csd/products-services/data-services"
+    },
+    {
+      "title": "Tax Services",
+      "url": "https://www.euronext.com/en/csd/products-services/tax-services"
+    },
+    {
+      "title": "Athens",
+      "url": "https://www.euronext.com/en/csd/athens"
+    },
+    {
+      "title": "Copenhagen",
+      "url": "https://www.euronext.com/en/csd/copenhagen"
+    },
+    {
+      "title": "Issuance",
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance"
+    },
+    {
+      "title": "Bonds",
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance/bonds-issuance"
+    },
+    {
+      "title": "Shares",
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance/shares-issuance"
+    },
+    {
+      "title": "Structured Investment Products",
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance/structured-investment-products-issuance"
+    },
+    {
+      "title": "Investment Funds",
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance/investment-funds-issuance"
+    },
+    {
+      "title": "FundHub",
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance/investment-funds/fundhub"
+    },
+    {
+      "title": "Clearable ISINs in FundHub",
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance/investment-funds/fundhub/clearable-isins-fundhub"
+    },
+    {
+      "title": "Issuing Agent Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance/issuing-agent-services"
+    },
+    {
+      "title": "Assignment of ISINs",
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance/assignment-isins"
+    },
+    {
+      "title": "Initial public offer (IPO)",
+      "url": "https://www.euronext.com/en/csd/copenhagen/issuance/initial-public-offer-ipo"
+    },
+    {
+      "title": "Post Trade Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services"
+    },
+    {
+      "title": "Settlement",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/settlement"
+    },
+    {
+      "title": "Communication Formats",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/communication-formats"
+    },
+    {
+      "title": "Collateral Management",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/collateral-management"
+    },
+    {
+      "title": "Asset Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/asset-services"
+    },
+    {
+      "title": "Collateral Accounts",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/collateral-accounts"
+    },
+    {
+      "title": "Corporate Actions",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/corporate-actions"
+    },
+    {
+      "title": "Safekeeping Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/safekeeping-services"
+    },
+    {
+      "title": "Opening days",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/opening-days"
+    },
+    {
+      "title": "Evaluation of the Danish market migrating to TARGET2-Securities",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/evaluation-danish-market-migrating-target2-securities"
+    },
+    {
+      "title": "Conditional Securities",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/conditional-securities"
+    },
+    {
+      "title": "Penalties calendar",
+      "url": "https://www.euronext.com/en/csd/copenhagen/post-trade-services/penalties-calendar"
+    },
+    {
+      "title": "Investor Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services"
+    },
+    {
+      "title": "Shareholder Register Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/shareholder-register-services"
+    },
+    {
+      "title": "Meeting Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/meeting-services"
+    },
+    {
+      "title": "Virtual General Meeting",
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/virtual-general-meeting"
+    },
+    {
+      "title": "Election and Voting Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/election-and-voting-services"
+    },
+    {
+      "title": "InvestorPortal",
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/investorportal"
+    },
+    {
+      "title": "Corporate Solutions",
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/corporate-solutions"
+    },
+    {
+      "title": "Current AGM's",
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/current-agms"
+    },
+    {
+      "title": "Ancillary Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/ancillary-services"
+    },
+    {
+      "title": "TradeLog",
+      "url": "https://www.euronext.com/en/csd/copenhagen/ancillary-services/tradelog"
+    },
+    {
+      "title": "Tax Reporting Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/ancillary-services/tax-reporting-services"
+    },
+    {
+      "title": "News & Insights",
+      "url": "https://www.euronext.com/en/csd/copenhagen/news-insights"
+    },
+    {
+      "title": "News list",
+      "url": "https://www.euronext.com/en/csd/copenhagen/news-insights/news-list"
+    },
+    {
+      "title": "Imagebank & Press Contact",
+      "url": "https://www.euronext.com/en/csd/copenhagen/news-insights/imagebank-press-contact"
+    },
+    {
+      "title": "Who We Are",
+      "url": "https://www.euronext.com/en/csd/copenhagen/who-we-are"
+    },
+    {
+      "title": "Our Business Areas and Services",
+      "url": "https://www.euronext.com/en/csd/copenhagen/who-we-are/our-business-areas-and-services"
+    },
+    {
+      "title": "Annual Reports",
+      "url": "https://www.euronext.com/en/csd/copenhagen/who-we-are/annual-reports"
+    },
+    {
+      "title": "Corporate Social Responsibility",
+      "url": "https://www.euronext.com/en/csd/copenhagen/who-we-are/corporate-social-responsibility"
+    },
+    {
+      "title": "Private Investors",
+      "url": "https://www.euronext.com/en/csd/copenhagen/who-we-are/private-investors"
+    },
+    {
+      "title": "Career",
+      "url": "https://www.euronext.com/en/csd/copenhagen/career"
+    },
+    {
+      "title": "Available Jobs",
+      "url": "https://www.euronext.com/en/csd/copenhagen/career/available-jobs"
+    },
+    {
+      "title": "Data Protection Policy for Applicants",
+      "url": "https://www.euronext.com/en/csd/copenhagen/career/data-protection-policy-for-applicants"
+    },
+    {
+      "title": "Corporate Governance",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance"
+    },
+    {
+      "title": "Board of Directors",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/board-directors"
+    },
+    {
+      "title": "Board Committees",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/board-directors/board-committees"
+    },
+    {
+      "title": "User Committee",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/user-committee"
+    },
+    {
+      "title": "Management",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/management"
+    },
+    {
+      "title": "Niels Hjort Rotendahl",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/management/niels-siggard-rotendahl"
+    },
+    {
+      "title": "Sille Sterner Pedersen",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/management/sille-sterner-pedersen"
+    },
+    {
+      "title": "Henrik Ohlsen",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/management/henrik-ohlsen"
+    },
+    {
+      "title": "Geir Anders Malmén",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/management/geir-anders-malmen"
+    },
+    {
+      "title": "Thomas Metier",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/management/thomas-metier"
+    },
+    {
+      "title": "Anne Kaas Hammer",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/management/anne-kaas-hammer"
+    },
+    {
+      "title": "Annette Klynge",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/management/annette-klynge"
+    },
+    {
+      "title": "Articles of Association",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/articles-association"
+    },
+    {
+      "title": "Complaints",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/complaints"
+    },
+    {
+      "title": "Whistleblowing",
+      "url": "https://www.euronext.com/en/csd/copenhagen/corporate-governance/whistleblowing"
+    },
+    {
+      "title": "Legal Framework",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework"
+    },
+    {
+      "title": "Regulation",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/regulation"
+    },
+    {
+      "title": "Supervision",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/supervision"
+    },
+    {
+      "title": "CPMI IOSCO Report",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/cpmi-iosco-report"
+    },
+    {
+      "title": "VP Rule Book",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/euronext-securities-copenhagen-rule-book"
+    },
+    {
+      "title": "How To Become a Customer",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/how-become-customer"
+    },
+    {
+      "title": "Participation Agreement",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/participation-agreement"
+    },
+    {
+      "title": "Prices and Fees",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/prices-and-fees"
+    },
+    {
+      "title": "Segregation of Securities",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/segregation-securities"
+    },
+    {
+      "title": "Insolvency",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/insolvency"
+    },
+    {
+      "title": "Personal Data Protection",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/personal-data-protection"
+    },
+    {
+      "title": "Disclaimer",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/disclaimer"
+    },
+    {
+      "title": "Current AGMs",
+      "url": "https://www.euronext.com/en/csd/copenhagen/investor-services/current-agms"
+    },
+    {
+      "title": "Contact",
+      "url": "https://www.euronext.com/en/csd/copenhagen/contact-euronext-securities-copenhagen"
+    },
+    {
+      "title": "Milan",
+      "url": "https://www.euronext.com/en/csd/milan"
+    },
+    {
+      "title": "About Us",
+      "url": "https://www.euronext.com/en/csd/milan/about-us"
+    },
+    {
+      "title": "Governance",
+      "url": "https://www.euronext.com/en/csd/milan/about-us/governance"
+    },
+    {
+      "title": "Board of Directors",
+      "url": "https://www.euronext.com/en/csd/milan/about-us/governance/board-directors"
+    },
+    {
+      "title": "Committees",
+      "url": "https://www.euronext.com/en/csd/milan/about-us/governance/board-directors/committees"
+    },
+    {
+      "title": "Board of Statutory Auditors",
+      "url": "https://www.euronext.com/en/csd/milan/about-us/governance/board-statutory-auditors"
+    },
+    {
+      "title": "Corporate Data and Legal",
+      "url": "https://www.euronext.com/en/csd/milan/about-us/corporate-data-and-legal-info"
+    },
+    {
+      "title": "Regulatory Landscape",
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape"
+    },
+    {
+      "title": "Report Bail In External Execution",
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/report-bail-external-execution"
+    },
+    {
+      "title": "CSDR",
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr"
+    },
+    {
+      "title": "What CSDR means for Euronext Securities Milan",
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr/what-csdr-means-for-euronext-securities-milan"
+    },
+    {
+      "title": "What CSDR means for our Clients",
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr/what-csdr-means-for-our-clients"
+    },
+    {
+      "title": "User Committee",
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr/user-committee"
+    },
+    {
+      "title": "The Settlement Discipline Regime",
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/csdr/settlement-discipline-regime"
+    },
+    {
+      "title": "Shareholder Rights Directive II",
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/shareholder-rights-directive-ii"
+    },
+    {
+      "title": "CMH - Corporate Actions Standards",
+      "url": "https://www.euronext.com/en/csd/milan/regulatory-landscape/cmh-corporate-actions-and-billing-standards"
+    },
+    {
+      "title": "Data Solutions",
+      "url": "https://www.euronext.com/en/csd/milan/data-solutionsold"
+    },
+    {
+      "title": "Intermediaries",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries"
+    },
+    {
+      "title": "T2S Gateway",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/t2s-gateway"
+    },
+    {
+      "title": "Other Markets",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/other-markets"
+    },
+    {
+      "title": "Cross Market Documents",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/cross-market-documents"
+    },
+    {
+      "title": "Statistics & Operational Data",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data"
+    },
+    {
+      "title": "Settlement Efficiency",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/settlement-efficiency"
+    },
+    {
+      "title": "Questionnaires",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/questionnaires"
+    },
+    {
+      "title": "Settlement Outcomes",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/settlement-outcomes"
+    },
+    {
+      "title": "T2S Collateral Eligible Securities",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/t2s-collateral-eligible-securities"
+    },
+    {
+      "title": "Eurostat",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/eurostat"
+    },
+    {
+      "title": "Istat",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/istat"
+    },
+    {
+      "title": "French Inflation",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/french-inflation"
+    },
+    {
+      "title": "Coupon Stripping",
+      "url": "https://www.euronext.com/en/csd/milan/intermediaries/statistics-operational-data/coupon-stripping"
+    },
+    {
+      "title": "Issuers",
+      "url": "https://www.euronext.com/en/csd/milan/issuers"
+    },
+    {
+      "title": "Register & AGM Services",
+      "url": "https://www.euronext.com/en/csd/milan/issuers/register-agm-services"
+    },
+    {
+      "title": "Issuance Services",
+      "url": "https://www.euronext.com/en/csd/milan/issuers/issuance-services"
+    },
+    {
+      "title": "Issuer Services",
+      "url": "https://www.euronext.com/en/csd/milan/issuers/issuer-services"
+    },
+    {
+      "title": "S.r.l. Dematerialisation",
+      "url": "https://www.euronext.com/en/csd/milan/issuers/srl-dematerialisation"
+    },
+    {
+      "title": "Membership",
+      "url": "https://www.euronext.com/en/csd/milan/membership"
+    },
+    {
+      "title": "Contracts and Fees",
+      "url": "https://www.euronext.com/en/csd/milan/membership/contracts-and-fees"
+    },
+    {
+      "title": "Connectivity",
+      "url": "https://www.euronext.com/en/csd/milan/membership/connectivity"
+    },
+    {
+      "title": "Rules & Instructions",
+      "url": "https://www.euronext.com/en/csd/milan/membership/rules-instructions"
+    },
+    {
+      "title": "News & Initiatives",
+      "url": "https://www.euronext.com/en/csd/milan/news-initiatives"
+    },
+    {
+      "title": "Market Notices",
+      "url": "https://www.euronext.com/en/csd/milan/news-initiatives/market-notices"
+    },
+    {
+      "title": "Operational Notices",
+      "url": "https://www.euronext.com/en/csd/milan/news-initiatives/operational-notices"
+    },
+    {
+      "title": "News",
+      "url": "https://www.euronext.com/en/csd/milan/news-initiatives/news"
+    },
+    {
+      "title": "Events",
+      "url": "https://www.euronext.com/en/csd/milan/news-initiatives/events"
+    },
+    {
+      "title": "Contacts",
+      "url": "https://www.euronext.com/en/csd/milan/contacts"
+    },
+    {
+      "title": "Oslo",
+      "url": "https://www.euronext.com/en/csd/oslo"
+    },
+    {
+      "title": "Login",
+      "url": "https://www.euronext.com/en/csd/oslo/login"
+    },
+    {
+      "title": "Equities and Equity Certificates",
+      "url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates"
+    },
+    {
+      "title": "Shareholder Register",
+      "url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates/shareholder-register"
+    },
+    {
+      "title": "General meetings",
+      "url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates/general-meetings"
+    },
+    {
+      "title": "Employee Share Savings",
+      "url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates/employee-share-savings"
+    },
+    {
+      "title": "Corporate Actions",
+      "url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates/corporate-actions"
+    },
+    {
+      "title": "Registration and Administration",
+      "url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates/registration"
+    },
+    {
+      "title": "VPS Issuer Services",
+      "url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates/vps-issuer-services"
+    },
+    {
+      "title": "Virtual General Meeting",
+      "url": "https://www.euronext.com/en/csd/oslo/equities-and-equity-certificates/virtual-general-meeting"
+    },
+    {
+      "title": "Debt, Funds and ETPs",
+      "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps"
+    },
+    {
+      "title": "Registration and Administration",
+      "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/registration-and-administration"
+    },
+    {
+      "title": "Bondholder Meeting",
+      "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/bondholder-meeting"
+    },
+    {
+      "title": "Corporate Actions",
+      "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/corporate-actions"
+    },
+    {
+      "title": "Funds",
+      "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/funds"
+    },
+    {
+      "title": "Investor Communication",
+      "url": "https://www.euronext.com/en/csd/oslo/debt-funds-and-etps/investor-communication"
+    },
+    {
+      "title": "Settlement",
+      "url": "https://www.euronext.com/en/csd/oslo/settlement"
+    },
+    {
+      "title": "VPS Clearing and Settlement",
+      "url": "https://www.euronext.com/en/csd/oslo/settlement/vps-clearing-and-settlement"
+    },
+    {
+      "title": "Extended balance check and sweeping",
+      "url": "https://www.euronext.com/en/csd/oslo/settlement/extended-balance-check-and-sweeping"
+    },
+    {
+      "title": "VPS Settlement Benchmark",
+      "url": "https://www.euronext.com/en/csd/oslo/settlement/vps-settlement-benchmark"
+    },
+    {
+      "title": "Message Exchange ISO 15022 and ISO 20022",
+      "url": "https://www.euronext.com/en/csd/oslo/settlement/message-exchange-iso-15022-and-iso-20022"
+    },
+    {
+      "title": "Safekeeping and Asset Servicing",
+      "url": "https://www.euronext.com/en/csd/oslo/safekeeping-and-asset-servicing"
+    },
+    {
+      "title": "Client- and account administration",
+      "url": "https://www.euronext.com/en/csd/oslo/safekeeping-and-asset-servicing/client-and-account-administration"
+    },
+    {
+      "title": "Safekeeping",
+      "url": "https://www.euronext.com/en/csd/oslo/safekeeping-and-asset-servicing/safekeeping"
+    },
+    {
+      "title": "Investor Portal",
+      "url": "https://www.euronext.com/en/csd/oslo/safekeeping-and-asset-servicing/investor-portal"
+    },
+    {
+      "title": "Tax Services",
+      "url": "https://www.euronext.com/en/csd/oslo/tax-services"
+    },
+    {
+      "title": "Share Savings Account (SSA)",
+      "url": "https://www.euronext.com/en/csd/oslo/tax-services/share-savings-account-ssa"
+    },
+    {
+      "title": "Tax Reporting other depot",
+      "url": "https://www.euronext.com/en/csd/oslo/tax-services/tax-reporting-other-depot"
+    },
+    {
+      "title": "Reporting FATCA and CRS",
+      "url": "https://www.euronext.com/en/csd/oslo/tax-services/reporting-fatca-and-crs"
+    },
+    {
+      "title": "Data Services",
+      "url": "https://www.euronext.com/en/csd/oslo/data-servicesold"
+    },
+    {
+      "title": "ISIN, CFI, FISN",
+      "url": "https://www.euronext.com/en/csd/oslo/isin-cfi-fisn"
+    },
+    {
+      "title": "Career",
+      "url": "https://www.euronext.com/en/csd/oslo/career"
+    },
+    {
+      "title": "Meet our employees",
+      "url": "https://www.euronext.com/en/csd/oslo/career/meet-our-employees"
+    },
+    {
+      "title": "Information for",
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/investor"
+    },
+    {
+      "title": "Investor",
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/investor"
+    },
+    {
+      "title": "Issuer",
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/issuer"
+    },
+    {
+      "title": "Become registered",
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/issuer/become-registered"
+    },
+    {
+      "title": "Account operator",
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator"
+    },
+    {
+      "title": "How to become an Account Operator",
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/how-become-account-operator"
+    },
+    {
+      "title": "Find an Account operator",
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/find-account-operator"
+    },
+    {
+      "title": "Account Operator Investor",
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/find-account-operator/account-operator-investor"
+    },
+    {
+      "title": "Account Operators for shares and bonds",
+      "url": "https://www.euronext.com/en/csd/oslo/information-for/account-operator/find-account-operator/account-operators-for-shares-and"
+    },
+    {
+      "title": "About us",
+      "url": "https://www.euronext.com/en/csd/oslo/about-us"
+    },
+    {
+      "title": "Corporate Governance",
+      "url": "https://www.euronext.com/en/csd/oslo/about-us/corporate-governance"
+    },
+    {
+      "title": "Board of Directors",
+      "url": "https://www.euronext.com/en/csd/oslo/about-us/corporate-governance/board-directors-euronext-securities-oslo"
+    },
+    {
+      "title": "Management Group",
+      "url": "https://www.euronext.com/en/csd/oslo/about-us/corporate-governance/euronext-securities-oslo-management-group"
+    },
+    {
+      "title": "Board Committees",
+      "url": "https://www.euronext.com/en/csd/oslo/about-us/corporate-governance/board-committees"
+    },
+    {
+      "title": "User Committee",
+      "url": "https://www.euronext.com/en/csd/oslo/about-us/corporate-governance/user-committee"
+    },
+    {
+      "title": "Client Relations",
+      "url": "https://www.euronext.com/en/csd/oslo/about-us/client-relations"
+    },
+    {
+      "title": "Legal framework",
+      "url": "https://www.euronext.com/en/csd/oslo/about-us/legal-framework"
+    },
+    {
+      "title": "News",
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/oslo/about-us/news"
+    },
+    {
+      "title": "Vulnerability Reporting",
+      "url": "https://www.euronext.com/en/post-trade/euronext-securities/oslo/about-us/vulnerability-reporting"
+    },
+    {
+      "title": "Privacy Statement",
+      "url": "https://www.euronext.com/en/csd/oslo/about-us/privacy-statement"
+    },
+    {
+      "title": "Contacts",
+      "url": "https://www.euronext.com/en/csd/oslo/contact-us"
+    },
+    {
+      "title": "Porto",
+      "url": "https://www.euronext.com/en/csd/porto"
+    },
+    {
+      "title": "About us",
+      "url": "https://www.euronext.com/en/csd/porto/about-us"
+    },
+    {
+      "title": "Organisational Structure",
+      "url": "https://www.euronext.com/en/csd/porto/about-us/organisational-structure"
+    },
+    {
+      "title": "Board Committees",
+      "url": "https://www.euronext.com/en/csd/porto/about-us/board-committees"
+    },
+    {
+      "title": "User Committee",
+      "url": "https://www.euronext.com/en/csd/porto/about-us/user-committee"
+    },
+    {
+      "title": "Management Reports & By-Laws",
+      "url": "https://www.euronext.com/en/csd/porto/about-us/management-reports-laws"
+    },
+    {
+      "title": "Working Days & Operating hours",
+      "url": "https://www.euronext.com/en/csd/porto/about-us/working-days-operating-hours"
+    },
+    {
+      "title": "Handling of complaints",
+      "url": "https://www.euronext.com/en/csd/porto/about-us/handling-complaints"
+    },
+    {
+      "title": "Our Clients",
+      "url": "https://www.euronext.com/en/csd/porto/our-clients"
+    },
+    {
+      "title": "List of Issuers",
+      "url": "https://www.euronext.com/en/csd/porto/our-clients/list-issuers"
+    },
+    {
+      "title": "List of Participants",
+      "url": "https://www.euronext.com/en/csd/porto/our-clients/list-participants"
+    },
+    {
+      "title": "How to become a member",
+      "url": "https://www.euronext.com/en/csd/porto/our-clients/how-become-member"
+    },
+    {
+      "title": "My Interbolsa",
+      "url": "https://www.euronext.com/en/csd/porto/our-clients/my-interbolsa"
+    },
+    {
+      "title": "Advantages of My INTERBOLSA",
+      "url": "https://www.euronext.com/en/csd/porto/our-clients/my-interbolsa/advantages-accessing-my-interbolsa"
+    },
+    {
+      "title": "How to access",
+      "url": "https://www.euronext.com/en/csd/porto/our-clients/my-interbolsa/how-access"
+    },
+    {
+      "title": "How to register",
+      "url": "https://www.euronext.com/en/csd/porto/our-clients/my-interbolsa/how-register"
+    },
+    {
+      "title": "Legislation and Regulation",
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation"
+    },
+    {
+      "title": "CSD Regulation (CSDR)",
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/csd-regulation-csdr"
+    },
+    {
+      "title": "Settlement Discipline",
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/csd-regulation-csdr/settlement-discipline-regime"
+    },
+    {
+      "title": "Our rules",
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/our-rules"
+    },
+    {
+      "title": "Complementary Legislation",
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/complementary-legislation"
+    },
+    {
+      "title": "Securities code",
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/securities-code"
+    },
+    {
+      "title": "Guarantee Fund",
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/guarantee-fund"
+    },
+    {
+      "title": "Shareholders Rights Directive",
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/srd"
+    },
+    {
+      "title": "Identification of Beneficial Holders",
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/shareholders-rights-directive/srd-ii-identification-beneficial"
+    },
+    {
+      "title": "General Meetings",
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/shareholders-rights-directive/srd-ii-general-meetings"
+    },
+    {
+      "title": "SRD II – Timeline",
+      "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/shareholders-rights-directive/srd-ii-timeline"
+    },
+    {
+      "title": "Services",
+      "url": "https://www.euronext.com/en/csd/porto/services"
+    },
+    {
+      "title": "Centralised Systems",
+      "url": "https://www.euronext.com/en/csd/porto/services/centralised-systems/issues-registration-control-and-cancellation"
+    },
+    {
+      "title": "Issues Registration, Control and Cancellation",
+      "url": "https://www.euronext.com/en/csd/porto/services/centralised-systems/issues-registration-control-and-cancellation"
+    },
+    {
+      "title": "Securities Transfer",
+      "url": "https://www.euronext.com/en/csd/porto/services/centralised-systems/securities-transfer"
+    },
+    {
+      "title": "Exercise of ownership",
+      "url": "https://www.euronext.com/en/csd/porto/services/centralised-systems/exercise-ownership"
+    },
+    {
+      "title": "Settlement Systems",
+      "url": "https://www.euronext.com/en/csd/porto/services/settlement-systems/real-time-settlement-system"
+    },
+    {
+      "title": "Real Time Settlement System",
+      "url": "https://www.euronext.com/en/csd/porto/services/settlement-systems/real-time-settlement-system"
+    },
+    {
+      "title": "Non-euro Currency Settlement System",
+      "url": "https://www.euronext.com/en/csd/porto/services/settlement-systems/non-euro-currency-settlement-system"
+    },
+    {
+      "title": "Other Systems",
+      "url": "https://www.euronext.com/en/csd/porto/services/other-systems/national-numbering-agency"
+    },
+    {
+      "title": "National Numbering Agency",
+      "url": "https://www.euronext.com/en/csd/porto/services/other-systems/national-numbering-agency"
+    },
+    {
+      "title": "Investment Funds Service",
+      "url": "https://www.euronext.com/en/csd/porto/services/other-systems/investment-funds-service-order-routing"
+    },
+    {
+      "title": "Securities Lending Service",
+      "url": "https://www.euronext.com/en/csd/porto/services/other-systems/securities-lending-service"
+    },
+    {
+      "title": "Identification of Securities Holders",
+      "url": "https://www.euronext.com/en/csd/porto/services/other-systems/identification-securities-holders"
+    },
+    {
+      "title": "Corporate Actions Notification",
+      "url": "https://www.euronext.com/en/csd/porto/services/other-systems/corporate-actions-notification"
+    },
+    {
+      "title": "CSD Links",
+      "url": "https://www.euronext.com/en/csd/porto/services/other-systems/csd-links"
+    },
+    {
+      "title": "Documentation",
+      "url": "https://www.euronext.com/en/csd/porto/documentation"
+    },
+    {
+      "title": "Notices",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/notices"
+    },
+    {
+      "title": "Fee Books",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/fee-books"
+    },
+    {
+      "title": "Operational documentation",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/operational-documentation"
+    },
+    {
+      "title": "Highlights",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/highlights"
+    },
+    {
+      "title": "Securities Under Custody",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/securities-under-custody"
+    },
+    {
+      "title": "Statistics",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics"
+    },
+    {
+      "title": "Total of Issues under Control",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/total-issues-under-control"
+    },
+    {
+      "title": "Issues under control by Month",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/issues-under-control-month"
+    },
+    {
+      "title": "Cancelled Issues by Month",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/cancelled-issues-month"
+    },
+    {
+      "title": "Events CA",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/events-ca"
+    },
+    {
+      "title": "Events (Before CA4U)",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/events-ca4u"
+    },
+    {
+      "title": "Real Time Settlement System",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/real-time-settlement-system"
+    },
+    {
+      "title": "Settlement of market operations",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/settlement-market-operations"
+    },
+    {
+      "title": "ISIN Codes",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/isin-codes"
+    },
+    {
+      "title": "Other Account Movements",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/statistics/other-account-movements"
+    },
+    {
+      "title": "Other documents",
+      "url": "https://www.euronext.com/en/csd/porto/documentation/other-documents"
+    },
+    {
+      "title": "Contact us",
+      "url": "https://www.euronext.com/en/csd/porto/contact-us"
+    },
+    {
+      "title": "Technology",
+      "url": "https://www.euronext.com/en/technology"
+    },
+    {
+      "title": "Colocation Services",
+      "url": "https://www.euronext.com/en/technology/colocation-services"
+    },
+    {
+      "title": "Connectivity solutions",
+      "url": "https://www.euronext.com/en/technology/connectivity-solutions"
+    },
+    {
+      "title": "Trading Solutions",
+      "url": "https://www.euronext.com/en/technology/trading-solutions"
+    },
+    {
+      "title": "Traderpath and Algo Trading",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/traderpath-and-algo-trading"
+    },
+    {
+      "title": "Euronext Trader",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/euronext-trader"
+    },
+    {
+      "title": "HFTS",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/hfts"
+    },
+    {
+      "title": "Regpath",
+      "url": "https://www.euronext.com/en/technology/trading-solutions/regpath"
+    },
+    {
+      "title": "Data management systems",
+      "url": "https://www.euronext.com/en/technology/data-management-systems"
+    },
+    {
+      "title": "Euronext Solutions",
+      "url": "https://www.euronext.com/en/technology/euronext-solutions"
+    },
+    {
+      "title": "Data",
+      "url": "https://www.euronext.com/en/data"
+    },
+    {
+      "title": "Data products",
+      "url": "https://www.euronext.com/en/data/data-products"
+    },
+    {
+      "title": "Real-time",
+      "url": "https://www.euronext.com/en/products-services/euronext-real-time-data"
+    },
+    {
+      "title": "Reasonable Commercial Basis",
+      "url": "https://www.euronext.com/en/data/real-time/reasonable-commercial-basis"
+    },
+    {
+      "title": "Cloud Solutions",
+      "url": "https://www.euronext.com/en/data/cloud-solutions"
+    },
+    {
+      "title": "Data Solutions",
+      "url": "https://www.euronext.com/en/data/data-products"
+    },
+    {
+      "title": "Corporate actions data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5933"
+    },
+    {
+      "title": "Historical data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5935"
+    },
+    {
+      "title": "Mutual funds services",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5989"
+    },
+    {
+      "title": "Oslo products",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=6002"
+    },
+    {
+      "title": "Quant products",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5938"
+    },
+    {
+      "title": "Reference data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5940"
+    },
+    {
+      "title": "Index data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5934"
+    },
+    {
+      "title": "CSD data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=5932&product_service%5B1%5D=5941&product_service%5B2%5D=5942&combine=&custom_action=/en/data/data-products"
+    },
+    {
+      "title": "MTS data",
+      "url": "https://www.euronext.com/en/products-services/mts-data"
+    },
+    {
+      "title": "Nord Pool data",
+      "url": "https://www.euronext.com/en/data/data-products?product_service%5B0%5D=6004"
+    },
+    {
+      "title": "Indices",
+      "url": "https://www.euronext.com/en/euronext-indices"
+    },
+    {
+      "title": "Custom index creation",
+      "url": "https://www.euronext.com/en/euronext-indices/custom-index-creation"
+    },
+    {
+      "title": "Index licensing for products",
+      "url": "https://www.euronext.com/en/euronext-indices/index-licensing-products"
+    },
+    {
+      "title": "Index licensing for benchmarking",
+      "url": "https://www.euronext.com/en/euronext-indices/index-licensing-for-benchmarking"
+    },
+    {
+      "title": "Index data",
+      "url": "https://www.euronext.com/en/euronext-indices/index-data"
+    },
+    {
+      "title": "Index products",
+      "url": "https://www.euronext.com/en/euronext-indices/index-products"
+    },
+    {
+      "title": "Euronext press releases",
+      "url": "https://www.euronext.com/en/euronext-indices/press-releases"
+    },
+    {
+      "title": "Index spotlight",
+      "url": "https://www.euronext.com/en/euronext-indices/index-spotlight"
+    },
+    {
+      "title": "Regulation",
+      "url": "https://www.euronext.com/en/regulation"
+    },
+    {
+      "title": "Euronext Regulated Markets",
+      "url": "https://www.euronext.com/en/regulation/euronext-regulated-markets"
+    },
+    {
+      "title": "MTFs operated by Euronext",
+      "url": "https://www.euronext.com/en/regulation/mtfs-operated-euronext"
+    },
+    {
+      "title": "Euronext ABM",
+      "url": "https://www.euronext.com/en/regulation/euronext-abm"
+    },
+    {
+      "title": "Oslo Regulation news",
+      "url": "https://www.euronext.com/en/regulation/oslo-regulation-news"
+    },
+    {
+      "title": "Government Affairs",
+      "url": "https://www.euronext.com/en/regulation/government-affairs"
+    },
+    {
+      "title": "Digital Operational Resilience Act",
+      "url": "https://www.euronext.com/en/regulation/digital-operational-resilience-act-dora"
+    },
+    {
+      "title": "T+1 programme",
+      "url": "https://www.euronext.com/en/regulation/t1-programme"
+    },
+    {
+      "title": "About",
+      "url": "https://www.euronext.com/en/about"
+    },
+    {
+      "title": "Our Journey",
+      "url": "https://www.euronext.com/en/about/our-journey"
+    },
+    {
+      "title": "Our Business",
+      "url": "https://www.euronext.com/en/about/our-business"
+    },
+    {
+      "title": "Euronext Group websites",
+      "url": "https://www.euronext.com/en/about-euronext/about/our-business/euronext-group-websites"
+    },
+    {
+      "title": "Our Organisation",
+      "url": "https://www.euronext.com/en/about/our-organisation"
+    },
+    {
+      "title": "Innovate for Growth 2027",
+      "url": "https://www.euronext.com/en/innovate-for-growth-2027"
+    },
+    {
+      "title": "News & Insights",
+      "url": "https://www.euronext.com/en/about/news-insights"
+    },
+    {
+      "title": "Euronext Annual Conference",
+      "url": "https://www.euronext.com/en/euronext-annual-conference"
+    },
+    {
+      "title": "Investor Relations",
+      "url": "https://www.euronext.com/en/investor-relations"
+    },
+    {
+      "title": "Share Price",
+      "url": "https://www.euronext.com/en/investor-relations/share-price"
+    },
+    {
+      "title": "Financial Calendar",
+      "url": "https://www.euronext.com/en/investor-relations/financial-calendar"
+    },
+    {
+      "title": "Investor Day 2024",
+      "url": "https://www.euronext.com/en/investor-day-2024"
+    },
+    {
+      "title": "Financial Information",
+      "url": "https://www.euronext.com/en/investor-relations/financial-information"
+    },
+    {
+      "title": "Regulated Information and Investor News",
+      "url": "https://www.euronext.com/en/investor-relations/financial-information/news"
+    },
+    {
+      "title": "Financial presentations",
+      "url": "https://www.euronext.com/en/investor-relations/financial-information/financial-presentations"
+    },
+    {
+      "title": "Quarterly financial information and reports",
+      "url": "https://www.euronext.com/en/investor-relations/financial-information/quarterly-financial-information-and-reports"
+    },
+    {
+      "title": "Financial reports",
+      "url": "https://www.euronext.com/en/investor-relations/financial-information/financial-reports"
+    },
+    {
+      "title": "Analyst Coverage",
+      "url": "https://www.euronext.com/en/investor-relations/analyst-coverage"
+    },
+    {
+      "title": "Debt and Bond",
+      "url": "https://www.euronext.com/en/investor-relations/debt-and-bond"
+    },
+    {
+      "title": "Corporate Governance",
+      "url": "https://www.euronext.com/en/investor-relations/corporate-governance"
+    },
+    {
+      "title": "Supervisory Board",
+      "url": "https://www.euronext.com/en/investor-relations/corporate-governance/supervisory-board"
+    },
+    {
+      "title": "Supervisory Board Committees",
+      "url": "https://www.euronext.com/en/investor-relations/corporate-governance/supervisory-board-committees"
+    },
+    {
+      "title": "Managing Board",
+      "url": "https://www.euronext.com/en/investor-relations/corporate-governance/managing-board"
+    },
+    {
+      "title": "Management transactions",
+      "url": "https://www.euronext.com/en/investor-relations/corporate-governance/management-transactions"
+    },
+    {
+      "title": "Capital and Shareholding",
+      "url": "https://www.euronext.com/en/investor-relations/capital-and-shareholding"
+    },
+    {
+      "title": "Share Buyback Program",
+      "url": "https://www.euronext.com/en/investor-relations/capital-and-shareholding/share-buyback-program"
+    },
+    {
+      "title": "Liquidity Provider",
+      "url": "https://www.euronext.com/en/investor-relations/capital-and-shareholding/liquidity-provider"
+    },
+    {
+      "title": "Shareholder meetings",
+      "url": "https://www.euronext.com/en/investor-relations/shareholder-meetings"
+    },
+    {
+      "title": "Empowering Sustainable Growth",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth"
+    },
+    {
+      "title": "Sustainability Week",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth/sustainability-week"
+    },
+    {
+      "title": "Events",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth/sustainability-week/events"
+    },
+    {
+      "title": "ESG News",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth/esg-news"
+    },
+    {
+      "title": "Euronext Foundation",
+      "url": "https://www.euronext.com/en/about/esg-empowering-sustainable-growth/euronext-foundation"
+    },
+    {
+      "title": "INSEAD Euronext scholarship",
+      "url": "https://www.euronext.com/en/about-euronext/empowering-sustainable-growth/euronext-foundation/insead-euronext-scholarship"
+    },
+    {
+      "title": "Euronext Blue Challenge",
+      "url": "https://www.euronext.com/en/about/esg-empowering-sustainable-growth/blue-challenge"
+    },
+    {
+      "title": "Client satisfaction",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth/client-satisfaction"
+    },
+    {
+      "title": "ESG Policies & Statements",
+      "url": "https://www.euronext.com/en/about/empowering-sustainable-growth/euronext-esg-policies-statements"
+    },
+    {
+      "title": "Sustainable Supply Chain",
+      "url": "https://www.euronext.com/en/about/esg-empowering-sustainable-growth/sustainable-supply-chain"
+    },
+    {
+      "title": "Guidance and resources",
+      "url": "https://www.euronext.com/en/about/esg-empowering-sustainable-growth/sustainable-supply-chain/guidance-and-resources"
+    },
+    {
+      "title": "Diversity and Inclusion",
+      "url": "https://www.euronext.com/en/about-euronext/empowering-sustainable-growth/diversity-and-inclusion"
+    },
+    {
+      "title": "Media",
+      "url": "https://www.euronext.com/en/about/media-centre"
+    },
+    {
+      "title": "Euronext Press Releases",
+      "url": "https://www.euronext.com/en/about/media-centre/euronext-press-releases"
+    },
+    {
+      "title": "All News & Insights articles",
+      "url": "https://www.euronext.com/en/about/media-centre/euronext-news"
+    },
+    {
+      "title": "Bell and Gong Ceremony",
+      "url": "https://www.euronext.com/en/about/media-centre/bell-ceremony-archive"
+    },
+    {
+      "title": "Careers",
+      "url": "https://www.euronext.com/en/about/careers"
+    },
+    {
+      "title": "ESG & Diversity",
+      "url": "https://www.euronext.com/en/about/careers/esg-diversity"
+    },
+    {
+      "title": "Early Careers at Euronext",
+      "url": "https://www.euronext.com/en/about/careers/early-careers-euronext"
+    },
+    {
+      "title": "Internship at Borsa Italiana",
+      "url": "https://www.euronext.com/en/about/careers/internship-borsa-italiana"
+    },
+    {
+      "title": "Open positions",
+      "url": "https://www.euronext.com/en/about/careers/open-positions"
+    },
+    {
+      "title": "Athens",
+      "url": "https://www.euronext.com/en/about-euronext/markets/athens"
+    },
+    {
+      "title": "Amsterdam",
+      "url": "https://www.euronext.com/en/markets/amsterdam"
+    },
+    {
+      "title": "Amsterdam Exchange Experience",
+      "url": "https://www.euronext.com/en/about-euronext/markets/amsterdam/amsterdam-exchange-experience"
+    },
+    {
+      "title": "Brussels",
+      "url": "https://www.euronext.com/en/about-euronext/markets/brussels"
+    },
+    {
+      "title": "Dublin",
+      "url": "https://www.euronext.com/en/about-euronext/markets/dublin"
+    },
+    {
+      "title": "The Market Floor",
+      "url": "https://www.euronext.com/en/about-euronext/markets/dublin/market-floor"
+    },
+    {
+      "title": "Lisbon",
+      "url": "https://www.euronext.com/en/markets/lisbon"
+    },
+    {
+      "title": "Euronext Lisbon Newsletter",
+      "url": "https://www.euronext.com/en/markets/lisbon/euronext-lisbon-newsletter"
+    },
+    {
+      "title": "Lisbon Awards",
+      "url": "https://www.euronext.com/en/node/1815629"
+    },
+    {
+      "title": "Milan",
+      "url": "https://www.euronext.com/en/markets/milan"
+    },
+    {
+      "title": "Oslo",
+      "url": "https://www.euronext.com/en/markets/oslo"
+    },
+    {
+      "title": "Courses and seminars",
+      "url": "https://www.euronext.com/en/markets/oslo/courses-seminars"
+    },
+    {
+      "title": "Oslo Børs Senior Management",
+      "url": "https://www.euronext.com/en/markets/oslo/oslo-bors-senior-management"
+    },
+    {
+      "title": "Paris",
+      "url": "https://www.euronext.com/en/about-euronext/markets/paris"
+    },
+    {
+      "title": "Investor Relations",
+      "url": "https://www.euronext.com/en/investor-relations"
+    },
+    {
+      "title": "Media centre",
+      "url": "https://www.euronext.com/en/about/media-centre"
+    },
+    {
+      "title": "Careers",
+      "url": "https://www.euronext.com/en/about/careers"
+    }
+  ],
+  "text_path": "implementation/2026-09-13/sources/porto-calendar-notice.txt"
+}

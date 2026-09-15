@@ -1,0 +1,22 @@
+{
+  "reviewed-evidence-pack.zip": "c7cbdebfcc44f0bb7bb8d308d706553d865cb62295a9e7f05b33b31dc2e90353",
+  "retrieval/README.md": "834540a93f0e24cd5625f6e4140505dd76785748506386ca74ef6049c1914759",
+  "retrieval/admitted-sections.jsonl": "13e6f1aebed70b3e9c4fac5fcb318f856589edcf2ec1aa8c0d59f1f3d9b38217",
+  "retrieval/build-manifest.json": "070d9793e16f9a3d074f724e4e3ac5e1a52037cfc2f4cf304f566f186182a7d6",
+  "retrieval/evaluation-routing.json": "76ee34b302dc345b525c46d8f40c7f68898d61733722e2e5a9ac5ff2186f713e",
+  "retrieval/exports/2026-09-13/current.jsonl": "125df8aaedf2b67ff356941204ed908d472b809a7afa15664279d860abcc6cb5",
+  "retrieval/exports/2026-09-13/future.jsonl": "bfa04d83acd248f6193245deca240829d844ac8f5a5af07b445c9a84ea1a71df",
+  "retrieval/exports/2026-09-13/reference.jsonl": "59b665088bbe24cb2ec8f3e1ea2970a55f3e626d466641d705fa60496ac64789",
+  "retrieval/exports/2026-09-14/current.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "retrieval/exports/2026-09-14/future.jsonl": "75794558149bfe88e6c5a26af017d207efd0579f1292c5a33bffbbfabcb5f24f",
+  "retrieval/exports/2026-09-14/reference.jsonl": "75794558149bfe88e6c5a26af017d207efd0579f1292c5a33bffbbfabcb5f24f",
+  "retrieval/exports/current.jsonl": "125df8aaedf2b67ff356941204ed908d472b809a7afa15664279d860abcc6cb5",
+  "retrieval/exports/future.jsonl": "bebc5c0a20d47de74aa8f519ed1e94dcc212afdbc76992d3c85307878720040e",
+  "retrieval/exports/reference.jsonl": "7ff17c477f1f9a430724b9457a36f021db6d8ff16431a9385329c9d474c379d3",
+  "retrieval/section-decisions.json": "97688ee53acf4cc0931069576a779c0ac3819e7a8352ee7662cd9daff552a0f4",
+  "retrieval/source-register.json": "bc242f3ce74c2028760810f8b9147316d073e341966b05fbe20013bb1a4e6c9a",
+  "scripts/retrieve_evidence.py": "9cc9ff83914c523274fd57635b53b6138c63bcba9db612ad3772d3de3b2b8238",
+  "scripts/build_retrieval.py": "3884d7123b10078c5e27a815bd333f3de425fdaeeb9967b0adbcd6749a49b481",
+  "catalogue.json": "afd78aad282b9735b1cf729a68fa3e0b623e5b3d629d733208f6eeb801f6c864",
+  "curated-manifest.json": "6350292b157add52c9cd9a086f52b0f2794fe0dba6aa4b50493f5d8d87bd146e"
+}

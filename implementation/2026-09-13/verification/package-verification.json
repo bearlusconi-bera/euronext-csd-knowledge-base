@@ -1,0 +1,22 @@
+{
+  "outcome": "PASS",
+  "archive": "reviewed-evidence-pack.zip",
+  "sha256": "c7cbdebfcc44f0bb7bb8d308d706553d865cb62295a9e7f05b33b31dc2e90353",
+  "bytes": 425956,
+  "member_count": 11,
+  "distinct_sections": 30,
+  "sections_by_mode": {
+    "current": 17,
+    "reference": 11,
+    "future": 4
+  },
+  "checks": [
+    "Successful current-build verification",
+    "Build artifact hashes",
+    "Mode/dependency containment",
+    "Section-set coverage",
+    "ZIP CRC",
+    "Archive membership",
+    "Every member hash"
+  ]
+}
