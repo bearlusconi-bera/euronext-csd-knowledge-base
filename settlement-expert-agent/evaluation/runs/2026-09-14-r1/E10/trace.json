@@ -1,0 +1,27 @@
+{
+  "case_id": "E10",
+  "category": "adversarial-malformed-date",
+  "question": "What was the T2S schedule on 2026-W37-2 for EUR?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dated_t2s_schedule",
+      "business_date": "2026-W37-2",
+      "currency": "EUR"
+    }
+  ],
+  "router_notes": {
+    "router": "case-override"
+  },
+  "statuses": [
+    "needs_context"
+  ],
+  "retrieved_sections": [],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

@@ -1,0 +1,8 @@
+{
+  "runtime": "claude-code-subagent",
+  "model": "claude-opus-5 (alias opus)",
+  "rerouted": false,
+  "reroute_reason": "Routing was already correct: the multi-intent question needs Milan finality (route latest_review_date 2026-09-13, matching the as_of used), EU csdr_definitions and EU sfd_entry_irrevocability (both latest_review_date 2026-09-14, matching the as_of used). All three retrievals returned evidence_only.",
+  "checker_failures_after_fix": [],
+  "notes": "Answer separates the EU duty (SFD Article 3(3) moment of entry, Article 5 moment of irrevocability, Article 3(4)/Article 5 second paragraph for interoperable systems, Article 3(1) insolvency effect) from Monte Titoli's implementation (Article 72(1)-(3) SF1/SF2/SF3 with Articles 69-71 mechanics). Qualifications kept: Italian text prevails for the Milan translation; review dates 13 September 2026 (Milan) and 14 September 2026 (EU) stated separately; SF2 expressly retains Article 70(2) bilateral cancellation; SF3 is the cash debit or, for FoP, the securities debit; no insolvency runbook, legal opinion or unreviewed Article 72 remainder admitted; national transposition and system designation not admitted, so Legislative Decree 210/2001 is named but not relied on as evidence. Matched-is-not-settled distinction stated as a labelled inference. Checker: 9/9 passed on the first run."
+}

@@ -1,0 +1,8 @@
+{
+  "runtime": "claude-code-subagent",
+  "model": "claude-opus-5 (alias opus)",
+  "rerouted": false,
+  "reroute_reason": "Bundle was correctly routed: the blocked topic securities_swap_atomicity (GAP G04) is the legitimate controlled block for this question, and the retriever already added the two narrower supported routes (realignment_mechanism, t2s_linked_instructions). No obvious missing route in topic-index.json.",
+  "checker_failures_after_fix": [],
+  "notes": "Answer refuses the requested confirmation, discloses the blocked retrieval and GAP G04, separates the documented WITH all-or-none link semantics and the T2S-generated-realignment all-or-none rule from any claim of two-security atomicity, and flags that Table 71 (PDF 448) and Table 79 (PDF 534) are referenced but not admitted. Review dates stated per section (13 September 2026 for t2s-matching/t2s-posting/t2s-realignment; section record 14 September 2026 with 13 September source review for t2s-linked-instructions). Checker: 9/9 PASS on first run; no fix needed."
+}

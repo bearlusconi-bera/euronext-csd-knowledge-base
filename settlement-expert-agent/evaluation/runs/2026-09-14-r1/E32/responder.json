@@ -1,0 +1,8 @@
+{
+  "runtime": "claude-code-subagent",
+  "model": "claude-opus-5 (alias opus)",
+  "rerouted": false,
+  "reroute_reason": "Checked the index and did not reroute. dated_t2s_schedule/T2S/settlement/current is the only route that carries dated event overlays, and its latest_review_date is 2026-09-14, which is the as_of already used; the 2026-04-14 overlay is reviewed only at 2026-09-14, so moving the knowledge date to 2026-09-13 would have blocked with a weaker reason. The block is genuine: the reviewed current-mode T2S baseline schedule section is verified for an effective interval that starts after 14 April 2026, and that section is an unavoidable candidate for the topic, so no listed context can unblock the date. Relabelling the actual-date question as a nominal baseline request is expressly refused by the retriever and would have misrepresented baseline evidence as an operational record.",
+  "checker_failures_after_fix": [],
+  "notes": "Single retrieval, status blocked, no sections and no gap id. Answer refuses to state either that something unusual happened or that the day was routine, discloses the blocked status and the retriever's verbatim reason, marks the explanation as a reasoned inference from the status reason, and lists the sources that would establish an answer (reviewed ECB T2S status record for 2026-04-14 plus a baseline verified as effective for that date) with the official public route. First check run failed all_citations_in_bundle only because the prose contained the literal placeholder token for a section reference; the placeholder was reworded and the re-run passed 9/9. No other content was changed."
+}

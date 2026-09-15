@@ -1,0 +1,46 @@
+{
+  "case_id": "E01",
+  "category": "explanation",
+  "question": "In plain terms, what is the difference between an issuer CSD and an investor CSD, and can Monte Titoli be both at the same time?",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "investor_csd_definition"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_cross_csd_rule"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan"
+    ],
+    "topic_hits": [
+      "investor_csd_definition",
+      "milan_cross_csd_rule"
+    ],
+    "blocked_hits": [],
+    "dates": []
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "milan-cross-csd-disclosure",
+    "t2s-posting",
+    "t2s-realignment"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

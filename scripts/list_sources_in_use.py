@@ -4,6 +4,8 @@ from pathlib import Path
 from collections import defaultdict
 
 R=Path(__file__).resolve().parents[1]
+from snapshot_guard import refuse_audited_snapshot
+refuse_audited_snapshot(R)
 C=json.loads((R/'catalogue.json').read_text())
 M=json.loads((R/'curated-manifest.json').read_text())
 B={x['id']:x for x in C}

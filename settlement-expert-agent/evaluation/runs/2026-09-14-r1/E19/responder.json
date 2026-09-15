@@ -1,0 +1,8 @@
+{
+  "runtime": "claude-code-subagent",
+  "model": "claude-opus-5 (alias opus)",
+  "rerouted": true,
+  "reroute_reason": "The question asks for a fee amount, but the router recorded blocked_hits=[] and routed only to milan_cross_csd_rule and milan_settlement_service_scope, neither of which touches pricing. fee_amount is a listed blocked question type in topic-index.json (gap G17), so the obvious route was missing. Rerouted to [fee_amount, milan_cross_csd_rule, milan_settlement_service_scope] (Milan/settlement/current/participant, as_of 2026-09-14), keeping the two original evidence_only contexts for the structural part of the answer.",
+  "checker_failures_after_fix": [],
+  "notes": "Checker 10/10 on first run. Final statuses: blocked (fee_amount, G17), evidence_only, evidence_only. Answer refuses to quote any amount, discloses the block and G17, keeps Italian-prevails and no-whole-edition-approval qualifications, carries the per-ISIN link non-certification LIMITATION and the quarantine of Settlement Service Instructions section 1.3.1, and names the tariff document generically (no invented title, version or effective date)."
+}

@@ -1,0 +1,259 @@
+{
+  "generated_at_utc": "2026-09-14T11:58:12.924955+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Athens",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "athens_instruction_content_matching"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "athens-instruction-content",
+          "title": "Participant settlement instructions: operation reasons, mandatory and optional data, acceptance windows (60/365 days), matching and tolerance (Part 4 §§4.1–4.3)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Athens"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Informational English translation; the Greek text prevails. Resolution 5 codified to 24 November 2025 (effective 8 December 2025).",
+            "Annex II operation reasons and the tolerance values are outside the excerpt."
+          ],
+          "citations": [
+            {
+              "source_id": "410859953fce",
+              "title": "ATHEXCSD Resolution 5",
+              "source_url": "https://athens.euronext.com/sites/default/files/2025-12/RESOLUTION_Nr5-ATHEXCSD_383_24.11.2025_FORCE%208.12.2025.DOC.pdf",
+              "source_sha256": "4ebc4905414cd0ce1bbdfd92a44c4d42c72a1f898ab8d6c0a0d2c22a2139f56e",
+              "source_path": "sources/documents/410859953fce-ATHEXCSD-Resolution-5.pdf",
+              "locator": "Resolution 5 Part 4 §§4.1–4.3(3) with footnotes 17–28; PDF 9–12",
+              "pdf_pages": [
+                9,
+                10,
+                11,
+                12
+              ],
+              "body_language": "en",
+              "authoritative_language": "el",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "Resolution 5: effective 8 December 2025.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "410859953fce",
+              "locator": "Resolution 5 Part 4 §§4.1–4.3(3) with footnotes 17–28; PDF 9–12",
+              "text": "PART 4. Settlement of transactions on the instructions of Participants\n\n4.1 General provisions\nFor the settlement of transactions on the instructions of Participants, the terms of Part 5, Section V of the\nRulebook shall apply.\n\n\n4.2 Operation Reason\nThe available Operation Reasons as mandatory data of settlement instructions in accordance with point iv,\npar. 1, article 5.2, Part 5, Section V of the Rulebook are those set out in Annex II hereof, which is attached\nhereto and forms an integral part hereof (hereinafter “Annex  II”). By stating the Operation Reason,\nParticipants indicate the type of transaction in their settlement instructions, in compliance with the terms\nof paragraph 4, article 5, Regulation (EU) 2018/122917, with the exception of reason Market Claim «f- of\nAppendix II, which is used by ATHEXCSD exclusively, when creating settlement instructions due to the\napplication of Market Claims procedures. 18\n\nIf the operation reason given is “No Change Beneficiary Owner” (NCBO) of Annex II of this Resolution, the\nbeneficiary (full name or BIC – Business Identification Code) must be stated in the relevant settlement\ninstructions. For such instructions to be accepted for settlement, one of the respective instructions must\nrelate to Securities kept in a Clients Securities Account.\n\nIf the operation reason is “Transfer between Securities Accounts of the same Share” of Annex II of this\nResolution, for such settlement instructions to be accepted, both instructions must relate to Securities\nAccounts of the same Share. The previous sentence does not apply when the settlement instructions come\nfrom a System Operator. In this case, the transfer of Securities is carried out only through the settlement\ninstruction of the System Operator or delegated Member or Participant that implements the transfer to\nsettle the relevant arrears.\n\nIf the operation reason is “Transfer of Securities between Client Securities Accounts of different Shares of\nthe same Client for the purpose of consolidating those Shares in the DSS” of Annex II of this Resolution, for\n\n\n\n\n\n17 The first paragraph of article 4.2 was replaced as above by virtue of decision 325/31.01.2022 of the Board of\nDirectors with effect as of 01.02.2022.\n18 The paragraph 1 of article 4.2 was amended as above by virtue of decision 383/24.11.2025 of the Board of\nDirectors of ATHEXCSD with effect as of 8.12.2025.\n\n\nResolution 5 (24/11/2025)                 9                        www.athexgroup.gr\n\n\n\n[PDF page 10]\n\nsuch settlement instructions to be accepted, the identity of that same Client must be established on the\nresponsibility of the Participants involved in accordance with the procedures of ATHEXCSD.\n\nIf the operation reason is “Transfer of Securities between Securities Accounts of the same beneficiary as\nMarket Maker Participant at the commencement or cessation of Market Making”, for such settlement\ninstructions to be accepted, the identity of that same beneficiary as Market Maker must be established on\nthe responsibility of the Participants involved in accordance with the procedures of ATHEXCSD.\n\nIf the operation reason is “Transfer of Securities between Fund Shares of the same Fund”, the aforesaid\ntransfer of Securities must be carried out between Shares of the same Fund in compliance with the terms\nof par. 4.9.2, Section III of the Rulebook, and the relevant settlement instructions must contain the legal\nname or Business Identifier Code (BIC) of the Fund19.\n\n4.3 Requirements for accepting a settlement instruction - Date of settlement of the\n   settlement instruction – Matching20 - Tolerance levels – Cancellation or\n    Transformation21 of the settlement instruction – Informational balancesi22 -\n   Creation of settlement instructions due to application of Market Claims\n   procedure23\n 1.  24Mandatory and optional matching fields of a settlement instruction\n   Α.  In accordance with the terms of par. 1, article 5.2 of Section V of the Rulebook, in order for a\n      settlement instruction that is entered in the DSS to be accepted for execution and settled through\n      the DSS, it must at the time of its entry, to include the following mandatory data:\n\n             i. Data on the Settlement Counterparties: These are data that enable identification of the\n       Participants participating in the settlement of the transaction.\n\n              ii. Instruction type: Data that determine whether the settlement instruction relates to delivery or\n       receipt of the Security.\n\n              iii. The specific settlement method, such as, in particular, delivery versus payment (DVP) or free of\n     payment (FOP) or payment free of delivery (PFOD) or other method in accordance with Commission\n      Delegated Regulation (EU) 2017/392 and Commission Implementing Regulation (EU) 2017/394.\n\n\n\n19 The last paragraph of article 4.2 was repealed as above by virtue of decision 374/26.05.2025 of the Board of\nDirectors of ATHEXCSD with effect as of 30.06.2025.\n20 The title of article 4.3 was amended as above by virtue of decision 374/26.05.2025 of the Board of Directors\nwith effect as of 30.06.2025.\n21 The title of article 4.3 was amended as above by virtue of decision 367/21.10.2024 of the Board of Directors\nwith effect as of 02.12.2024.\n22 The title of article 4.3 was amended as above by virtue of decision 378/29.09.2025 of the Board of Directors\nwith effect as of 30.09.2025.\n23 The title of article 4.3 was amended as above by virtue of decision 383/24.11.2025 of the Board of Directors\nwith effect as of 8.12.2025.\n24 A new paragraph 1 has been added to Article 4.3 and the article was worded as above by virtue of decision\n374/26.05.2025 of the Board of Directors with effect as of 30.06.2025.\n\n\n\nResolution 5 (24/11/2025)                    10                        www.athexgroup.gr\n\n\n\n[PDF page 11]\n\n          iv. Operation reason: Data that denote the type of transaction for settlement. The available\n      operation reasons in the DSS are determined by the current Decision.\n\n        v. Cash value: The value that determines the monetary amount for settlement, which is expressed\n        in euro. The cash value may be zero when the transaction is settled with the free of payment method.\n\n          vi. Transaction date: Data that indicate the day on which the transaction was concluded.\n\n           vii. Intended settlement date: Data that indicate the day on which the transaction will be settled.\n\n           viii. ISIN: The unique identification code of the Security to be settled (ISIN: International Securities\n       Identification Number).\n\n          ix. Quantity: The quantity of Securities to be settled. Such quantity is expressed in number of\n       Securities or, alternatively, by stating the nominal value of the Security as appropriate, as in the case\n       of bonds.\n\n        x. Currency\n\n          xi. Identifier of the CSD of the Participant’s counterparty, in the case of Direct and Indirect Links of\n     ATHEXCSD, including also the cases referred to in paragraph 5, article 30 of Regulation (EU)\n      909/2014.\n\n          xii. Place of Settlement: The system through which settlement is to take place.\n\n           xiii. Securities Settlement Account: Data identifying the Securities Account, including Transitory\n      Accounts and Provisional Settlement Accounts, through which the delivery or receipt of the\n       Securities to be settled will take place.\n\n        xiv. “Hold” or “Release” Condition: Conditions as defined in article 5.4 of the Rulebook.\n\n   Β.  In accordance with the terms of article 5.3, a settlement instruction entered in the DSS for execution\n      may, in addition to the mandatory data of instance a), par. 1 of article 5.2, include one or more of the\n       following optional data:\n\n       a) External matching code: The code entered, following agreement, by the counterparty\n       Participants for the purpose of distinguishing a pair of settlement instructions from others with\n        similar content.\n\n      b) Place of trade: Data identifying where the transaction to be settled was concluded.\n\n       c) Participant's reference code: Data entered by the Participant in order to facilitate communication\n       within its systems.\n\n      d) Unit price: The price at which the transaction to be settled was concluded.\n\n      e) Participant End Client: These are the details identifying the entitled Client of the Participant.\n\n        f) Counterparty End Client: These are the details identifying the entitled Client of the Counterparty\n       Participant.25\n\n25 Points (e) and (f) of B) of paragraph 1 of Article 4.3 \"Participant's Entity Customer\" and \"Counterparty's Entity\nCustomer\" respectively were added as above by the decision of the Board of Directors 374/26.05.2025 with\n\n\nResolution 5 (24/11/2025)                          11                        www.athexgroup.gr\n\n\n\n[PDF page 12]\n\n      g) Comments: Data that further specify the settlement instructions.\n\nOther data or conditions pertaining to the settlement instructions which are determined by ATHEXCSD.\n\n\n 2.  26Terms of accepting a settlement instruction\n     In order for a settlement instruction to be accepted, it must fulfil the following specific terms,\n    according to par.1, article 5.2 of Section V of the Rulebook:\n\na. The intended settlement date of the settlement instruction must not precede the date of its entry by\nmore than 60 calendar days.\n\nb. The intended settlement date of the settlement instruction must not exceed the date of its entry by more\nthan 365 calendar days.\n\nc. There is no specific time limit between the intended settlement date of the settlement instruction and\nthe transaction date.27\n\n\n\n 3.  Matching – Tolerance levels28\nIn implementation of the provisions mentioned in case c), par. 1, article 5.5 of the Rulebook on matching of\nsettlement instructions, the mandatory data of sub-cases of i) through xii) of item A), par. 1, of the current\narticle, as well as the data of a) and b), par. 1 of the current article, must coincide in content, provided that\nthe element provided for in the respective case has been entered.\nSpecifically for data of cases e) and f) of item B of the current article, matching is achieved provided that\nthe data specified in those cases have been entered by both counterparties. Matching of settlement\ninstructions can still be achieved even if the above data have been entered only by one counterparty or by\nneither of them. Exceptionally, in cases where the reason for the movement is declared as 'NCBO – No\nChange Beneficiary Owner’, 'Transfer of Securities between Fund Shares of the same Fund' and 'Transfer of\nSecurities from an Issuer Share to the Securities Account of the same beneficiary’, as described in Annex II\nof the current Resolution, in order for the instruction to be accepted, the end client (full name or BIC –\nBusiness Identification Code) or the name or BIC of the Fund, must be declared in the relevant settlement\ninstructions. In addition, the above end client details must be the same, in order to be matched.\n\n\nIn implementation of paragraph 2, article 5.5 of the Rulebook on tolerance levels, the following shall apply:\n\n       a) Matching of settlement instructions is achieved even if their respective ‘cash value’ fields do not\n       match, provided that the cash value difference does not exceed the tolerance level as defined in\n\n\neffect as of the day following the announcement of ATHEXCSD on the successful completion of the relevant\ntechnical transition and in any case until 29.9.2025.\n26 Paragraph 2 of article 4.3 was amended as above by virtue of decision 374/26.05.2025 of the Board of\nDirectors with effect as of 30.06.2025.\n27 Points b) and c) of paragraph 1 of article 4.3 were amended as above by virtue of decision 374/26.05.2025 of\nthe Board of Directors with effect as of 30.06.2025\n28 A new paragraph 3 was added to Article 4.3 and the article was worded as above by virtue of decision\n374/26.05.2025 of the Board of Directors with effect as of 30.06.2025.\n\n\n\nResolution 5 (24/11/2025)                     12                        www.athexgroup.gr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Athens",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "athens_settlement_methods"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "athens-settlement-methods",
+          "title": "Settlement methods, cash blocking and delegation of technical details to DSS announcements (Part 2)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Athens"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Informational English translation; the Greek text prevails. Resolution 5 codified to 24 November 2025 (effective 8 December 2025).",
+            "Business hours, cycles and algorithm specifics are announced through the DSS and are not in the library (gap G12)."
+          ],
+          "citations": [
+            {
+              "source_id": "410859953fce",
+              "title": "ATHEXCSD Resolution 5",
+              "source_url": "https://athens.euronext.com/sites/default/files/2025-12/RESOLUTION_Nr5-ATHEXCSD_383_24.11.2025_FORCE%208.12.2025.DOC.pdf",
+              "source_sha256": "4ebc4905414cd0ce1bbdfd92a44c4d42c72a1f898ab8d6c0a0d2c22a2139f56e",
+              "source_path": "sources/documents/410859953fce-ATHEXCSD-Resolution-5.pdf",
+              "locator": "Resolution 5 Part 2 §§2.1–2.2; PDF 4",
+              "pdf_pages": [
+                4
+              ],
+              "body_language": "en",
+              "authoritative_language": "el",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "Resolution 5: effective 8 December 2025.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "410859953fce",
+              "locator": "Resolution 5 Part 2 §§2.1–2.2; PDF 4",
+              "text": "PART 2. Settlement Methods\n\n2.1 Settlement methods\nATHEXCSD settles transactions on the basis of the settlement methods laid down in Section V of the\nRulebook and the provisions of Commission Delegated Regulation (EU) 2017/392 and Commission\nImplementing Regulation (EU) 2017/394.\n\nFor the purposes of cash settlement, ATHEXCSD blocks cash balances in the Cash Settlement Accounts.\nSpecifically in the case of cash settlement carried out in TARGET-GR with the participation of Settlement\nBanks, the aforesaid balances are blocked through TARGET-GR in the respective Sub-accounts kept by\nSettlement Banks for Participants.\n\n\n2.2 Technical details\nAny procedural or technical details relating to settlement operations, as set forth in the Rulebook and this\nResolution, for instance with respect to settlement methods, the business hours and performance of\nsettlement, the particular specifications of the settlement algorithm, or the number and duration of\nsettlement cycles, shall be determined in accordance with the technical procedures of ATHEXCSD which\nare announced by ATHEXCSD to Participants through the DSS or by any other appropriate means of\nnotifying and communicating with them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Athens",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "athens_production_interface"
+      },
+      "router_notes": {},
+      "status": "blocked",
+      "reason": "Current DSS technical notices and exact interface specifications required.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": [
+        "G12"
+      ],
+      "topic_review_dates": null,
+      "evidence": []
+    },
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "Athens",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "document_identity"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "athens-edition",
+          "title": "Athens edition versus amendment evidence",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Athens"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Probable edition/amendment label mismatch is an inference. Independent HCMC/Gazette chain remains incomplete."
+          ],
+          "citations": [
+            {
+              "source_id": "d89c56df8c5a",
+              "title": "ATHEXCSD Rulebook - Amendment 8",
+              "source_url": "https://athens.euronext.com/sites/default/files/2026-06/ATHEXCSD_RULEBOOK_7th_Ammendment_383_24.11.2025_FORCE_8.12.2025.pdf",
+              "source_sha256": "d56878f3174be350e6f722be9e21a63f2b3cd64109998a69b6a7dec8f226ef82",
+              "source_path": "sources/documents/d89c56df8c5a-ATHEXCSD-Rulebook-Amendment-8.pdf",
+              "locator": "English master amendment history; PDF 2",
+              "pdf_pages": [
+                2
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "Hub says Amendment 8; filename and internal history indicate 7th amendment, with late-2025 dates.",
+              "publication_date": null,
+              "revision_date": null
+            },
+            {
+              "source_id": "athens-greek-master",
+              "title": "athens-greek-master",
+              "source_url": "https://athens.euronext.com/sites/default/files/2026-06/%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3_%CE%9B%CE%95%CE%99%CE%A4%CE%9F%CE%A5%CE%A1%CE%93%CE%99%CE%91%CE%A3_%CE%95%CE%9B%CE%9A%CE%91%CE%A4_7%CE%B7_%CE%A4%CF%81%CE%BF%CF%80%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7_383_24.11.2025_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_8.12.2025.pdf",
+              "source_sha256": "55c319194d12ab734319cd32aaf16578db3cbfbbb54c5fe7e5f5ea0425d6debd",
+              "source_path": "audits/2026-09-13/sources/athens-greek-master.pdf",
+              "locator": "Greek master amendment history; PDF 2",
+              "pdf_pages": [
+                2
+              ],
+              "body_language": "el",
+              "authoritative_language": "el",
+              "translation_status": "original or official-language text",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": null,
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "d89c56df8c5a",
+              "locator": "English master amendment history; PDF 2",
+              "text": "[PDF page 2]\n\n  In accordance with article 3 of Law 4569/2018 (Government Gazette Α/179/11.10.2018),\n\n             decision 311/22.02.2021 of the Board of Directors of ATHEXCSD\n\n                     and approval decision 6/904/26.2.2021\n\n                    of the Hellenic Capital Market Commission (HCMC)\n\n                    (Government Gazette Β/1007/16.03.2021)\n\n\n\n\n\n                       AMENDMENTS:\n\n1.  Decision  324/28.01.2022  of  the  Board  of  Directors  of ATHEXCSD  (decision\n   944/31.01.2022 of the Board of Directors of the Hellenic Capital Market Commission,\n   Government Gazette B/1064/10.03.2022).\n2.  Decision  352/25.09.2023  of  the  Board  of  Directors  of ATHEXCSD  (decision\n   3/1000/31.10.2023 of the Board of Directors of the Hellenic Capital Market Commission,\n   Government Gazette B/6249/31.10.2023)\n3.  Decision  362/29.07.2024  of  the  Board  of  Directors  of ATHEXCSD  (decision\n   1030/22.8.2024 of the Board of Directors of the Hellenic Capital Market Commission,\n   Government Gazette B/5036/04.09.2024)\n4.  Decision  365/04.09.2024  of  the  Board  of  Directors  of ATHEXCSD  (decision\n   1032/4.9.2024 of the Board of Directors of the Hellenic Capital Market Commission,\n   Government Gazette B/5225/17.09.2024)\n5.  Decision  367/21.10.2024  of  the  Board  of  Directors  of ATHEXCSD  (decision\n   7/1040/28.11.2024 of the Board of Directors of the Hellenic Capital Market Commission,\n   Government Gazette Β/1398/21.03.2025)\n6.  Decision  374/26.05.2025  of  the  Board  of  Directors  of ATHEXCSD  (decision\n   1057/26.6.2025 of the Board of Directors of the Hellenic Capital Market Commission,\n   Government Gazette Β/4140/30.07.2025)\n7.  Decision  383/24.11.2025  of  the  Board  of  Directors  of ATHEXCSD  (decision\n   1/1074/4.12.2025 of the Board of Directors of the Hellenic Capital Market Commission,\n   Government Gazette Β/6784/16.12.2025)\n\n\n\n\n\n                                                                        2\n\n\n\n                                      PRIVATE"
+            },
+            {
+              "source_id": "athens-greek-master",
+              "locator": "Greek master amendment history; PDF 2",
+              "text": "[PDF page 2]\n     σύμφωνα με το άρθρο 3 του ν.4569/2018 (ΦΕΚ Α/179/11.10.2018)\n\n    την από 22.02.2021 απόφαση του Διοικητικού Συμβουλίου της ΕΛ.Κ.Α.Τ.\n\n                      και την υπ’αριθμ. 6/904/26.2.2021\n\n               εγκριτική απόφαση της Επιτροπής Κεφαλαιαγοράς\n\n                    ΦΕΚ Β/1007/16.03.2021\n\n\n\n\n\n                           ΤΡΟΠΟΠΟΙΗΣΕΙΣ:\n\n\n\n1.  324/28.01.2022 απόφαση του Διοικητικού Συμβουλίου της ΕΛ.Κ.Α.Τ. και την υπ’ αριθμ.\n\n     1a/944/31.01.2022 εγκριτική απόφαση της Επιτροπής Κεφαλαιαγοράς\n\n                    ΦΕΚ Β/1064/10.03.2022\n\n2.  352/25.09.2023 απόφαση του Διοικητικού Συμβουλίου της ΕΛ.Κ.Α.Τ. και την υπ’ αριθμ.\n           3/1000/31.10.2023 εγκριτική απόφαση της Επιτροπής Κεφαλαιαγοράς\n\n                        ΦΕΚ Β/6249/31.10.2023\n\n3.  362/29.07.2024 απόφαση του Διοικητικού Συμβουλίου της ΕΛ.Κ.Α.Τ. και την υπ’ αριθμ.\n            1030/22.8.2024 εγκριτική απόφαση της Επιτροπής Κεφαλαιαγοράς\n\n                        ΦΕΚ Β/5036/04.09.2024\n\n4.  365/04.09.2024 απόφαση του Διοικητικού Συμβουλίου της ΕΛ.Κ.Α.Τ. και την υπ’ αριθμ.\n             1032/4.9.2024 εγκριτική απόφαση της Επιτροπής Κεφαλαιαγοράς\n\n                        ΦΕΚ Β/5225/17.09.2024\n\n5.  367/21.10.2024 απόφαση του Διοικητικού Συμβουλίου της ΕΛ.Κ.Α.Τ. και την υπ’ αριθμ.\n          7/1040/28.11.2024  εγκριτική απόφαση της Επιτροπής Κεφαλαιαγοράς\n\n                        ΦΕΚ Β/ 1398/21.03.2025\n\n6.  374/26.05.2025 απόφαση του Διοικητικού Συμβουλίου της ΕΛ.Κ.Α.Τ. και την υπ’ αριθμ.\n            1057/26.6.2025  εγκριτική απόφαση της Επιτροπής Κεφαλαιαγοράς\n\n                        ΦΕΚ Β/4140/30.07.2025\n\n7.  383/24.11.2025 απόφαση του Διοικητικού Συμβουλίου της ΕΛ.Κ.Α.Τ. και την υπ’ αριθμ.\n         1/1074/4.12.2025 εγκριτική απόφαση της Επιτροπής Κεφαλαιαγοράς ΦΕΚ\n                                 Β6784/16.12.2025\n\n\n\n\n\n                                PRIVATE\n                                                                  2 από 206"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

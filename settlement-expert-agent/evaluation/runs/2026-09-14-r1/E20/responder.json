@@ -1,0 +1,8 @@
+{
+  "runtime": "claude-code-subagent",
+  "model": "claude-opus-5 (alias opus)",
+  "rerouted": true,
+  "reroute_reason": "The question asks for the enumerated test cases inside the non-public Copenhagen DCP User Guidelines, but the router recorded blocked_hits=[] and routed only to dcp_admission and copenhagen_t2s_settlement. copenhagen_dcp_entitlements is a listed blocked question type (gap G10: 'Copenhagen DCP User Guidelines and accepted service tests are not public; Part 5 states requirements only') and is the obviously relevant route. Added it in front of the two original contexts, keeping dcp_admission at its original as_of 2026-09-13 so it stayed evidence_only.",
+  "checker_failures_after_fix": [],
+  "notes": "Checker 10/10 on first run. Final statuses: blocked (copenhagen_dcp_entitlements, G10), evidence_only, evidence_only. No test case is named or counted. Part 5's publication_description basis is disclosed (published August 2023, Version 01, operative effective date not established), the Danish-law/no-authoritative-language-statement limitation on Part 4 is carried, and the outdated T2S UHB v2.1 (2015) link limitation is attached to the terminology analysis. Flagged that 'User Guidelines' has two referents (T2S UDFS/UHB in Part 4 section 11.1.1 vs VP's own guidelines in Part 5), so the question's premise that a VP test-case catalogue exists is itself unverified."
+}

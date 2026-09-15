@@ -1,0 +1,207 @@
+{
+  "case_id": "E16",
+  "category": "wrong-release",
+  "question": "Under T2S release R2026.NOV, what does the UDFS say about the building blocks of the sese.023 settlement instruction?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_message_sese023_scope",
+      "release": "R2026.NOV"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "native_message_overview",
+      "release": "R2026.NOV"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_message_sese023_scope",
+      "release": "R2026.JUN"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "native_message_overview",
+      "release": "R2026.JUN"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "release_status",
+      "release": "R2026.NOV"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "november_text_comparison"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "future",
+      "question_type": "milan_t2s_release_plan_nov"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "T2S"
+    ],
+    "topic_hits": [
+      "native_message_overview",
+      "release_status",
+      "t2s_hold_release_process",
+      "t2s_message_sese023_scope"
+    ],
+    "blocked_hits": [],
+    "dates": [],
+    "responder_reroute": {
+      "previous_contexts": null,
+      "applied": true
+    }
+  },
+  "statuses": [
+    "blocked",
+    "blocked",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "milan-r2026nov-plan",
+    "november-final-release",
+    "november-text-comparison",
+    "t2s-messages",
+    "t2s-posting",
+    "t2s-realignment",
+    "t2s-sese023-scope"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null,
+  "original_contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_message_sese023_scope",
+      "release": "R2026.NOV"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "native_message_overview",
+      "release": "R2026.NOV"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_message_sese023_scope",
+      "release": "R2026.JUN"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "native_message_overview",
+      "release": "R2026.JUN"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "release_status",
+      "release": "R2026.NOV"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "november_text_comparison"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "future",
+      "question_type": "milan_t2s_release_plan_nov"
+    }
+  ],
+  "original_contexts_recovered": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_hold_release_process"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "native_message_overview",
+      "release": "R2026.NOV"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_message_sese023_scope",
+      "release": "R2026.NOV"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "release_status",
+      "release": "R2026.NOV"
+    }
+  ],
+  "original_contexts_note": "Recovered post hoc by the maintainer on 2026-09-14: reroute_case.py recorded original_contexts after overwriting contexts, so the stored original_contexts equals the rerouted contexts. Recovered via deterministic_route(question) with the unchanged topic index (build manifest f9493d10a6f6)."
+}

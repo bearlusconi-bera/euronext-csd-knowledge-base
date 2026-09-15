@@ -1,0 +1,76 @@
+{
+  "case_id": "E24",
+  "category": "ambiguity-needs-context",
+  "question": "What's the settlement schedule for tomorrow?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_baseline_schedule"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dated_t2s_schedule"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "T2S"
+    ],
+    "topic_hits": [
+      "t2s_baseline_schedule"
+    ],
+    "blocked_hits": [],
+    "dates": [],
+    "responder_reroute": {
+      "previous_contexts": null,
+      "applied": true
+    }
+  },
+  "statuses": [
+    "evidence_only",
+    "needs_context"
+  ],
+  "retrieved_sections": [
+    "t2s-schedule-r2"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null,
+  "original_contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_baseline_schedule"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dated_t2s_schedule"
+    }
+  ],
+  "original_contexts_recovered": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_baseline_schedule"
+    }
+  ],
+  "original_contexts_note": "Recovered post hoc by the maintainer on 2026-09-14: reroute_case.py recorded original_contexts after overwriting contexts, so the stored original_contexts equals the rerouted contexts. Recovered via deterministic_route(question) with the unchanged topic index (build manifest f9493d10a6f6)."
+}

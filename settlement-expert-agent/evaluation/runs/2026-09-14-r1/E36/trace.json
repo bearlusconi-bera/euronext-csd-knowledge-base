@@ -1,0 +1,38 @@
+{
+  "case_id": "E36",
+  "category": "dated-calendar",
+  "question": "Could a Monte Titoli participant settle a FOP instruction on 1 May 2026, and a DvP in EUR on that day?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_calendar_exception",
+      "payment_type": "FOP",
+      "business_date": "2026-05-01"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan"
+    ],
+    "topic_hits": [
+      "milan_calendar_exception"
+    ],
+    "blocked_hits": [],
+    "dates": [
+      "2026-05-01"
+    ]
+  },
+  "statuses": [
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "milan-may1-2026"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

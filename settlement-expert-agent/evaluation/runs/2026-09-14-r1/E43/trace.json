@@ -1,0 +1,57 @@
+{
+  "case_id": "E43",
+  "category": "explanation",
+  "question": "What can I amend on a settlement instruction after it has matched in T2S, and what about a partially settled one?",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_instruction_amendment"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_partial_settlement"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "T2S"
+    ],
+    "topic_hits": [
+      "matching_concept",
+      "t2s_instruction_amendment",
+      "t2s_partial_settlement"
+    ],
+    "blocked_hits": [],
+    "dates": []
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "t2s-amendment",
+    "t2s-matching",
+    "t2s-partial-settlement",
+    "t2s-posting"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

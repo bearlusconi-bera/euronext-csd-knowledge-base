@@ -1,0 +1,8 @@
+{
+  "runtime": "claude-code-subagent",
+  "model": "claude-opus-5 (alias opus)",
+  "rerouted": false,
+  "reroute_reason": "Bundle contained one retrieval (EU / regulatory / participant / current / sdr_matching_fields) with status evidence_only and section [[sdr-matching-fields]] covering Regulation 2018/1229 Articles 5 and 6 — exactly the question asked. No mis-routing or missing route.",
+  "checker_failures_after_fix": [],
+  "notes": "8/8 deterministic checks passed on the first run; no fix pass needed. Single retrieval, all evidence_only, so no blocked/needs_context/needs_refresh disclosure applied. Answer states the 2026-09-14 review date, the Consolidated 2 September 2024 version, the EU-official-languages authoritative status (original/official-language text, not a translation), the approval reservation (source identity checked, no independent whole-edition supervisory approval certification) and both LIMITATION lines (EU legal context only, not local procedures or Norway incorporation, future amendments separate; Article 5(3)(l) open category with T2S and local field lists as separate sections). Labels used: Documented requirement for Articles 5(1)-(2), 5(3)(a)-(l), 5(4) and 6; Reasoned inference for the FoP carve-out consequence and the floor-not-ceiling reading of 5(3)(l); Unresolved requirement for T2S/local field lists, Norway incorporation, post-2024 amendments, message mapping and the missing-ECB-rate case. No message versions, clock times, XML or non-evidence amounts were introduced."
+}

@@ -1,0 +1,174 @@
+{
+  "generated_at_utc": "2026-09-15T09:18:14.916605+00:00",
+  "build_manifest_sha256": "ed577c2eb315cf1592c3809547ea83f309034d3ac955896540fc39d5b0ebbf91",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "future",
+        "question_type": "european_offering_go_live"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-european-offering-golive",
+          "title": "European Offering go-live confirmed for 21 September 2026: scope, MICs, alternative CSD choice and first ISD 23 September",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "future"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Operational/market notices are English communications by Euronext Securities Milan; they are not the Service Regulations or Instructions, and several carry a PRIVATE or INTERNAL USE ONLY footer despite public publication.",
+            "Announced go-live, not proof of live operation; place-of-settlement details for individual instruments require the programme documents."
+          ],
+          "citations": [
+            {
+              "source_id": "milan-mn-european-offering-golive",
+              "title": "MN_07/2026 Euronext European Offering: go-live confirmation (8 September 2026)",
+              "source_url": "https://www.euronext.com/sites/default/files/notices/monte-titoli/20260903%20Euronext%20Securities%20Milan%20Market%20Notice%20-%20EE_0.pdf",
+              "source_sha256": "4cbe6eee6484fb4e4176cc43b8b468555107d2135714956c3c2063cc93234f47",
+              "source_path": "implementation/2026-09-14-settlement-agent/sources/milan-mn-european-offering-golive.pdf",
+              "locator": "MN_07/2026 PDF 1–2",
+              "pdf_pages": [
+                1,
+                2
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": null,
+              "publication_date": "2026-09-08",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "milan-mn-european-offering-golive",
+              "locator": "MN_07/2026 PDF 1–2",
+              "text": "[PDF page 1]\n\n08 September 2026\nMN_07/2026\n\nEuronext European Offering: Go-Live\nconfirmation\n   To the attention of:                           All Participants\n\n\n   Priority:                                      High\n\n\n   Topic:                                         Euronext European Offering: Go-Live\n                                                   confirmation\n\n\n\n\nDear Client\n\nFurther to the Market Notice \"Euronext Securities to be designated as settlement\norganisation for Euronext equities and ETFs\" and the subsequent market\ncommunications issued throughout the implementation programme, Euronext\nSecurities Milan confirms that the go-live of the Euronext European Offering will\ntake place as planned on 21 September 2026.\n\nThis milestone represents a significant step in Euronext's strategy to further\nharmonise post-trade services across its markets, reduce settlement fragmentation\nand enhance the efficiency of the European post-trade infrastructure.\n\nScope:\n\nAs of this date, Euronext Securities Milan will become the designated place of\nsettlement for:\n\n     •    Equity trades executed on Euronext Amsterdam, Brussels and Paris markets;\n          and\n     •    ETP trades denominated in euro executed on Euronext Amsterdam and Paris\n          markets.\nThis publication is for information purposes only and is not a recommendation to engage in investment activities. This publication is\nprovided “as is” without representation or warranty of any kind. Whilst all reasonable care has been taken to ensure the accuracy of\nthe content, Euronext does not guarantee its accuracy or completeness. Euronext will not be held liable for any loss or damag es of\nany nature ensuing from using, trusting or acting on information provided. No information set out or referred to in this publication\nshall form the basis of any contract. The creation of rights and obligations in respect of financial products that are traded on the\nexchanges operated by Euronext’s subsidiaries shall depend solely on the applicable rules of the market operator. All proprietary\nrights and interest in or connected with this publication shall vest in Euronext. No part of it may be redistributed or reproduced in any\nform without the prior written permission of Euronext.\nEuronext refers to Euronext N.V. and its affiliates. Information regarding trademarks and intellectual property rights of Euronext is\nlocated at https://www.euronext.com/terms-use.\n© 2022, Euronext N.V. - All rights reserved.\n\n\n\n| 1 of 2\n\n\n\n[PDF page 2]\n\nThe migration applies to Equity and ETP transactions executed on the following\nMICs:\n   •   XAMS\n   •   XBRU\n   •   XPAR\n   •   MLXB\n   •   XMLI\n   •   ALXB\n   •   ALXP\nFor ETPs, the scope is limited to instruments traded in euro.\n\nTrading Members may designate an alternative settlement system in place of\nEuronext Securities Milan, as further described by Euronext Markets.\n\nTransactions executed on or after 21 September 2026 under the new model will\nhave 23 September 2026 as their first intended settlement date (ISD).\n\nSettlement agents should ensure that all required operational and settlement\narrangements are in place ahead of the migration date.\n\nFor physically settled equity derivatives, the place of settlement will remain aligned\nwith the underlying instrument and, where applicable, the resulting settlement will\nbe processed through Euronext Securities Milan.\n\nThe settlement arrangements applicable to other Euronext markets and to other\nasset classes, including bonds, certificates and warrants, remain unchanged.\n\nFurther information:\n\nFor further information, please contact your Relationship Manager or the Client\nOnboarding team.\n\n\nClient Onboarding Team\nE: CSD.Onboarding@euronext.com\n\n\nSales & Relationship Management\nE: MTsalesteam@euronext.com\n\n\n\n\n| 2 of 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "future",
+        "question_type": "release_status"
+      },
+      "router_notes": {
+        "_note": "future business date: release status retrieved for planned changes"
+      },
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "november-final-release",
+          "title": "November final publication confirmed on 14 September; deployment unverified",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference",
+            "future"
+          ],
+          "entities": [
+            "T2S"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": "final_published",
+          "subject_release": "R2026.NOV",
+          "platform_release": null,
+          "limitations": [
+            "Final publication is established; November production deployment is not verified.",
+            "The 14 September cover/listing, 11 September UDFS date and earlier target are separate facts.",
+            "Only cover-page statements are admitted. No November operational provisions, payloads or changed message versions are admitted."
+          ],
+          "citations": [
+            {
+              "source_id": "ecb-november-final-cover-20260914",
+              "title": "Cover Note",
+              "source_url": "https://www.ecb.europa.eu/pub/pdf/annex/Cover_Note_Final_Delivery_T2S_UDFS_R2026.NOV_UHB_R2026.NOV.en.pdf?1d8ee68f0593cb88571835efb7cd5ed8",
+              "source_sha256": "c2635fb5a57ed5c87c6a34985b1dfeea2df42972a4139e801c950371a7ef160b",
+              "source_path": "implementation/2026-09-14/sources/november-final-cover.pdf",
+              "locator": "PDF page 1: final-publication statement, dated 14 September 2026",
+              "pdf_pages": [
+                1
+              ],
+              "body_language": "en",
+              "authoritative_language": "en",
+              "translation_status": "original or official-language text",
+              "approval_status": "Final document delivery confirmed; production deployment not verified",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "R2026.NOV final publication; no production-deployment certification",
+              "publication_date": "2026-09-14",
+              "revision_date": "2026-09-14"
+            },
+            {
+              "source_id": "ecb-november-final-udfs-20260914",
+              "title": "T2S User Detailed Functional Specifications R2026.NOV (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.NOV_clean_20260911.en.pdf?8a61e1a06ea669f708ba50ac84a842a0",
+              "source_sha256": "9ae8f93c2019262a8efc5268a4d99e7fff2856186831ffc15c523732532f8d91",
+              "source_path": "implementation/2026-09-14/sources/november-final-udfs.pdf",
+              "locator": "PDF page 1: document identity/date, 11 September 2026",
+              "pdf_pages": [
+                1
+              ],
+              "body_language": "en",
+              "authoritative_language": "en",
+              "translation_status": "original or official-language text",
+              "approval_status": "Final document delivery confirmed; production deployment not verified",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "R2026.NOV final publication; no production-deployment certification",
+              "publication_date": "2026-09-14",
+              "revision_date": "2026-09-11"
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "ecb-november-final-cover-20260914",
+              "locator": "PDF page 1: final-publication statement, dated 14 September 2026",
+              "text": "[PDF page 1]\n              \n                 \n \n \n \n \nECB-PUBLIC \n \n14 September 2026 \n \nDelivery of the T2S UDFS R2026.NOV and UHB R2026.NOV \nAs envisaged in the T2S Plan, we have published final versions of the: \n• \nT2S User Detailed Functional Specifications R2026.NOV (UDFS R2026.NOV) \n• \nT2S User Handbook R2026.NOV (UHB R2026.NOV) \n• \nT2S General Functional Specifications R2026.NOV (GFS R2026.NOV) \n• \nT2S Data Migration Tool R2026.NOV (DMT R2026.NOV) \n• \nT2S User Requirements Document R2026.NOV (URD R2026.NOV) \n• \nT2S Business Functionality for T2S Graphical User Interface R2026.NOV (BFD R2026.NOV) \n• \nBDM User Detailed Functional Specifications R2026.NOV \n• \nBILL User Detailed Functional Specifications R2026.NOV \n• \nCRDM User Detailed Functional Specifications R2026.NOV \n• \nESMIG User Detailed Functional Specifications R2026.NOV \n• \nBDM User Handbook R2026.NOV \n• \nBILL User Handbook R2026.NOV \n• \nCRDM User Handbook Book 1 R2026.NOV \n• \nCRDM User Handbook Book 2 R2026.NOV \n \nFor the convenience of the readers, all changes in the documents were highlighted in revision marks. \nAdditionally, we added the appropriate CR references. \nThe draft intermediate versions of these documents were published on 31 July and were reviewed from 03 \nAugust 2026 to 21 August 2026. The comments from the market participants have been taken into account for \nthe final versions to be published on 11 September 2026. \nScope of the delivery \nThese new versions incorporate Change Requests in the scope of the T2S Release 2026.NOV, including the \neditorial Change Requests approved by the CSD Steering Group (CSG) until 23 July 2026.  \nThe exhaustive list of all Change Requests is provided as Annex A to this cover note.  \nComplementing the information provided in the Service Transition Plans, the Release Notes and the UDFS \nitself, a list containing all the T2S messages with their respective links to MyStandards is provided as Annex \nB to the Cover Note."
+            },
+            {
+              "source_id": "ecb-november-final-udfs-20260914",
+              "locator": "PDF page 1: document identity/date, 11 September 2026",
+              "text": "[PDF page 1]\nAuthor\nVersion\nIdentifier\nDate\n4CB\nR2026.NOV\nT2S UDFS\n11 September 2026\nUser Detailed Functional Specifications"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

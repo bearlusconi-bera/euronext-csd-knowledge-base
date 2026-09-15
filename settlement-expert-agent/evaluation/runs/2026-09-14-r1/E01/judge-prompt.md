@@ -1,0 +1,371 @@
+You are an independent judge for a securities-settlement answering agent. You did not write the answer. Judge it ONLY against the
+retrieved passages reproduced below and the hidden expectations. Do not use your own knowledge of CSD rules as evidence: if a fact is not in
+the passages, the correct behaviour of the answer was to say so.
+
+# Question
+In plain terms, what is the difference between an issuer CSD and an investor CSD, and can Monte Titoli be both at the same time?
+
+# Case category: explanation (positive — evidence should support a useful answer)
+
+# Hidden expectations (never shown to the responder)
+Key points expected:
+[
+  "Issuer CSD provides notary/central-maintenance core service for an issue; investor CSD participates in another CSD's system (RTS 2017/392 Article 1(e)-(f)).",
+  "Roles are per securities issue and relationship; a CSD can be issuer CSD for one ISIN and investor CSD for another.",
+  "In T2S the investor CSD holds through omnibus accounts at a technical issuer CSD (UDFS realignment concept)."
+]
+Fail conditions (must NOT appear):
+[
+  "Treat issuer/investor CSD as fixed labels for an entity.",
+  "Assert a specific ISIN's chain."
+]
+Expected sections (if any): ['rts392-issuer-investor-csd', 't2s-realignment']
+Expected retrieval statuses: ['evidence_only']
+
+# Rubric
+# Evaluation rubric — Settlement Expert Agent
+
+Each end-to-end case is scored on the dimensions below. Three sources of judgement are kept apart and reported separately:
+
+| Source | What it produces | Limits |
+|---|---|---|
+| Deterministic checks (`settlement_agent.py check`) | Citation ids exist in the retrieved bundle; non-`evidence_only` statuses disclosed; governing-language and publication-description qualifications present; review date stated; no clock times, message versions, EUR amounts or XML absent from the bundle | Pattern-based; cannot judge meaning |
+| Independent judge (separate model instance, sees the question, the answer, the actual retrieved passages, the hidden expected points and fail conditions) | Scores 0–2 per dimension with a quoted reason | Same model family as the responder; not a human review |
+| Maintainer inspection | For a sample of cases the maintainer reads the source passages against the answer and records agreement or disagreement with the judge | Same assistant that built the library; not independent |
+
+## Dimensions (judge scores 0 = fail, 1 = partial, 2 = met)
+
+1. **Routing / scope** — Did the answer address the entity, service, date and mode the question implies, split multiple intents, and resolve or explicitly assume ambiguous scope?
+2. **Evidence selection** — Were the right sections used (compared with the expected sections), including dependency/qualification sections (for example Oslo edition reservation, Milan bilateral cancellation)?
+3. **Citation entailment and locator accuracy** — Does each cited passage actually say what the answer attributes to it, with a correct locator (article/section/PDF page) and review date?
+4. **Preserved qualifications** — Authoritative language, translation status, approval reservations, publication-description basis, release identity, currency/date scope, LIMITATION lines.
+5. **Completeness** — Are the expected key points present, and are the unanswerable parts identified with the missing source named?
+6. **No unsupported operational claims** — No invented fields, cardinalities, versions, times, fees, eligibility, deployment or legal effects. Illustrative content labelled.
+7. **Justified abstention** — For negative cases: did it decline/limit correctly without refusing the supportable part? For positive cases: did it avoid blanket refusal when evidence was sufficient?
+8. **Label discipline** — Documented requirement / reasoned inference / proposed design choice / unresolved requirement used where they matter.
+
+A case **passes** when: no dimension scores 0; dimensions 3, 4 and 6 score 2; and every hidden `must_not` condition is absent. A case is **partial** when it has no 0 but at least one of dimensions 3, 4 or 6 scores 1. Otherwise it **fails**.
+
+Judges must quote the passage that supports or contradicts each key point and must not rely on their own knowledge of CSD rules; if the bundle does not contain a fact, the correct behaviour of the answer is to say so.
+
+
+# The answer under review
+<<<ANSWER
+# Issuer CSD, investor CSD, and whether Monte Titoli can be both
+
+## Direct answer
+
+In plain terms: the **issuer CSD** is the CSD where a security was issued and distributed on behalf of the issuer — it is the "home" of that issue. The **investor CSD** is the CSD that holds the security for at least one party to a settlement instruction, on behalf of its own participants, by holding the position in another CSD's books. **Yes — the same CSD can be both**, and the reviewed evidence says so explicitly: a CSD is "both" when it is the CSD in which the security has been issued *and* the CSD of at least one party to the instruction. Crucially, these are **roles per security and per instruction, not permanent titles**: Monte Titoli can be issuer CSD for one ISIN and investor CSD for another at the same moment.
+
+Both retrievals in this bundle returned `evidence_only`; no retrieval was blocked, and none reported missing context or an unreviewed knowledge date. Nothing below rests on memory of rulebooks or T2S documentation.
+
+## The definitions, as documented
+
+**Documented requirement.** For the purposes of the T2S realignment process, a CSD is defined as:
+
+| Role | Definition in the evidence |
+|---|---|
+| Issuer CSD | "the CSD in which the security has been issued and distributed on behalf of the Issuer" |
+| Investor CSD | "the CSD of at least one party of the Settlement Instruction" |
+| Both | "the CSD in which the security has been issued **and** the CSD of at least one party of the Settlement Instruction" |
+
+[[t2s-realignment]] T2S User Detailed Functional Specifications R2026.JUN (UDFS), §1.6.1.10.3 "Role and links between CSDs for cross-CSD and external-CSD settlement", PDF 373–376; version R2026.JUN; reviewed 13 September 2026; body language English, no authoritative language independently established; source identity checked but no independent whole-edition supervisory approval certification. LIMITATION carried with this claim: actual links, accounts and ISIN eligibility require verification; and this section does not establish atomicity of an arbitrary two-security swap, nor does it describe actions taken outside T2S.
+
+**Documented requirement.** How an investor CSD actually holds the security: each investor CSD chooses between opening an omnibus account in the books of the issuer CSD, or opening an omnibus account in the books of any other CSD that is already an investor CSD for the same financial instrument. In both cases the CSD where the omnibus account is opened is the **technical issuer** for the investor CSD for those securities. For one ISIN an investor CSD may define several such investor-type links (several technical issuer CSDs); exactly one is flagged "default" and the others "alternative". Alternative links may only be set up for T2S-in investor CSDs pointing to a T2S-in technical issuer CSD, and the issuer-type link a CSD sets with itself as issuer can never be alternative — it is always default. [[t2s-realignment]] (same locator, version and review date as above).
+
+**Documented requirement.** What this set-up is used for: T2S derives the realignment chain for matched settlement instructions either from both investor CSDs (delivering and receiving) up to the issuer CSD(s) of the traded securities when default links are used, or from the delivering investor CSD up to the receiving investor CSD (or vice versa) when alternative links are used. Realignment instructions are generated automatically from the links in reference data, without further action by T2S actors, and T2S ensures that the generated realignment instructions and their business instructions settle on an **all-or-none** basis. [[t2s-realignment]].
+
+**Reasoned inference** (derived from the three-way definition above plus the per-ISIN link configuration in the same section): because the roles are defined by reference to a particular security and a particular settlement instruction, and because links are configured per investor CSD and per ISIN, a single CSD is necessarily issuer CSD for the issues it holds natively and investor CSD for issues it holds through another CSD — simultaneously, on the same business day. The evidence states the "both" case directly; the "same moment, different ISINs" formulation is my inference from the per-ISIN link configuration, not a sentence in the excerpt.
+
+## What Monte Titoli's own rules add
+
+**Documented requirement.** Where settlement instructions are to be settled between a participant in Monte Titoli (other than another CSD in T2S) and a participant in another CSD in T2S — cross-CSD settlement — T2S automatically carries out the movements between the securities accounts of the participants involved, **of the investor CSDs and of the issuer CSD**. [[milan-cross-csd-disclosure]] Regulations as of 26 January 2026, Article 77(1), PDF 54 (printed page 53); version 26 January 2026; reviewed 14 September 2026 (underlying source reviewed 13 September 2026). This is an English translation and the **Italian text prevails** (cover, PDF 1); source identity checked, with no independent whole-edition supervisory approval certification.
+
+**Documented requirement.** Monte Titoli does not envisage carrying out a cross-CSD settlement on securities if the **issuer CSD is outside T2S**, unless both investor CSDs have a link in place with another CSD in T2S so that realignment with the issuer CSD outside T2S is not necessary. [[milan-cross-csd-disclosure]] Article 77(2), same version, translation and review dates; Italian text prevails. LIMITATION travelling with this claim: the actual links per ISIN are not certified by this evidence.
+
+**Documented requirement.** On request, Monte Titoli makes available the events that change the balance in a participant's securities account, the settlement status of each transaction in real time and the settlement of the whole transaction, through the direct link channel to T2S or through the X-TRM Service; cash balance disclosure is also available on request, in the format and channels indicated in the Services Manuals. [[milan-cross-csd-disclosure]] Article 78, PDF 54; version 26 January 2026; reviewed 14 September 2026; English translation, Italian text prevails.
+
+## One adjacent point, so the roles are not over-read
+
+**Documented requirement.** Generation of realignment instructions is not the same thing as a completed transfer. The posting application process checks whether settlement can be achieved given eligibility to settlement and available resources; only when that check is satisfactory does posting update the cash balance, securities position and limit headroom, "resulting in the irrevocability of the settlement". [[t2s-posting]] T2S UDFS R2026.JUN, §1.6.1.8.1 and the first overview paragraph, PDF 303–304; version R2026.JUN; reviewed 13 September 2026; body language English, no authoritative language independently established.
+
+**Explanation, not a documented requirement** (background wording only, to make the terms readable): "omnibus account" here means one account in the technical issuer's books in which the investor CSD's participants' holdings for that security are reflected collectively; "realignment" means the additional bookings T2S generates so that the chain of holdings between the CSDs stays consistent with the trade between the two participants.
+
+## Open items
+
+- **Unresolved requirement — which ISINs place Monte Titoli in which role.** This bundle defines the roles but certifies no instrument-level facts. The section's own LIMITATION states that actual links, accounts and ISIN eligibility require verification, and Article 77(2)'s carve-out is expressly not certified per ISIN. Establishing source: Monte Titoli's CSD account link / eligible-securities reference data and the Euronext Securities Milan service documentation, via the public documentation hub or the client platform (X-TRM / client documentation service); the CSD account link configuration in T2S reference data would establish the default and alternative links per ISIN.
+- **Unresolved requirement — the statutory definitions.** No CSDR / RTS text defining issuer CSD and investor CSD was retrieved in this bundle; the definitions above are the T2S realignment-process definitions only. Establishing source: the regulatory text itself, not in reviewed evidence here.
+- **Not asserted:** nothing in this bundle establishes atomicity of an arbitrary two-security exchange, nor any cut-off time, fee, account number or link eligibility — none is claimed above.
+- No gap id was named by the bundle for this question, and no retrieval status other than `evidence_only` was returned.
+
+ANSWER>>>
+
+# Actual retrieved evidence (the only admissible evidence)
+EVIDENCE BUNDLE (retriever build f9493d10a6f6, generated 2026-09-14T09:53:11.907359+00:00). Review dates available: 2026-09-13, 2026-09-14.
+
+=== RETRIEVAL 1: context {"as_of": "2026-09-13", "entity": "Milan", "service": "settlement", "role": "participant", "mode": "current", "question_type": "investor_csd_definition"}
+STATUS: evidence_only — Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.
+
+--- SECTION [[t2s-posting]] — Posting checks eligibility and resources before transfer (reviewed 2026-09-13; modes ['current']; entities ['T2S', 'Milan', 'Copenhagen', 'Porto']; basis reviewed_effective_interval; platform release R2026.JUN)
+CITATION: T2S User Detailed Functional Specifications R2026.JUN (UDFS) | §1.6.1.8.1 and first overview paragraph; PDF 303–304 | version R2026.JUN | body language en | authoritative language None | not independently established | approval: Source identity checked; no independent whole-edition supervisory approval certification | source reviewed 2026-09-13 | url https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf
+EXCERPT (§1.6.1.8.1 and first overview paragraph; PDF 303–304):
+1.6.1.8 Posting
+
+
+ 2    1.6.1.8.1 Concept
+
+ 3   The posting application process checks if the settlement of Settlement Instructions, Settlement Restrictions
+ 4   and Liquidity Transfers can be achieved considering their eligibility to settlement and the available resources.
+
+ 5    In case of high concentration of Settlement Instructions on the same resource (i.e. debiting the same DCA,
+ 6    debiting or crediting the same SAC not allowed to be negative), the Settlement Instructions could be
+ 7   grouped without any business links between one another.
+
+ 8     It may resort to the optimising application process if needed for the settlement (See section Optimising
+ 9    [ 335]).
+
+10   When the check is satisfactory, the posting application process updates the cash balance, securities position
+11   and limit headroom, resulting in the irrevocability of the settlement.
+
+12                           DIAGRAM 81 - SETTLEMENT APPLICATION PROCESSES / POSTING
+
+
+
+
+
+13
+
+14    1.6.1.8.2 Overview
+
+15    Settlement Instructions, Settlement Restrictions and Liquidity Transfers, sent by the T2S Actors or automati-
+16     cally generated by T2S, are submitted to the posting application process at the Intended Settlement Date.
+
+
+
+
+                                                                                            Page 303 of 2017
+
+
+
+[PDF page 304]
+
+                                                                   T2S User Detailed Functional Specifications
+                                                                                               General Features of T2S
+                                                                                                 Application Processes Description
+
+ 1
+
+--- SECTION [[t2s-realignment]] — Realignment generation, CSD roles and all-or-none relationship (reviewed 2026-09-13; modes ['current']; entities ['T2S', 'Milan', 'Copenhagen', 'Porto']; basis reviewed_effective_interval; platform release R2026.JUN)
+CITATION: T2S User Detailed Functional Specifications R2026.JUN (UDFS) | §1.6.1.10; concepts and reference-data requirements; PDF 373–376 | version R2026.JUN | body language en | authoritative language None | not independently established | approval: Source identity checked; no independent whole-edition supervisory approval certification | source reviewed 2026-09-13 | url https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf
+LIMITATION: Actual links/accounts and ISIN eligibility require verification.
+LIMITATION: Does not establish atomicity of an arbitrary two-security swap or describe every action outside T2S.
+EXCERPT (§1.6.1.10; concepts and reference-data requirements; PDF 373–376):
+1.6.1.10 Realignment
+
+
+ 2    1.6.1.10.1 Concept
+
+ 3   The realignment application process handles the cases of:
+
+ 4         l  Cross-CSD settlements, i.e. settlements between T2S Actors of different CSDs, the latter being in T2S;
+
+ 5         l  External-CSD settlements, i.e. settlements between T2S Actors of different CSDs, with some of the CSDs
+ 6        involved in the settlement being external to T2S.
+
+ 7    Cross-CSD settlement is achieved in T2S with the simultaneous booking of cash and securities for Settlement
+ 8    Instructions between participants of different CSDs. Once incoming Settlement Instructions are matched (or
+ 9    validated for already matched incoming Settlement Instructions), the realignment application process creates
+10    automatically all the requested Settlement Instructions between the involved CSDs, referred hereafter as
+11   T2S generated realignment Settlement Instructions. This automatic generation relies on links set in the ref-
+
+
+                                                                                            Page 373 of 2017
+
+
+
+[PDF page 374]
+
+                                                                   T2S User Detailed Functional Specifications
+                                                                                               General Features of T2S
+                                                                                                 Application Processes Description
+
+ 1    erence data between the relevant CSDs and does not request from the T2S Actors any other action. It takes
+ 2    place immediately following either the validation of already matched Settlement Instructions, or the match-
+ 3    ing of Settlement Instructions matching in T2S.
+
+ 4    Realignment application process is also applied for external-CSD settlement.
+
+ 5    This section details the parameters required from T2S Actors to manage the realignment in T2S for cross-
+ 6   CSD and external-CSD settlement. It also details the resulting realignment chain with the description of the
+ 7   T2S generated realignment Settlement Instructions reported to the involved T2S Actors.
+
+ 8    For external-CSD settlement, only the process applying to the Settlement Instructions actually submitted to
+ 9   T2S is described. All actions required by the realignment but without interaction with T2S are not described.
+
+10                               DIAGRAM 85 - REALIGNMENT APPLICATION PROCESS
+
+
+
+
+
+11
+
+12    1.6.1.10.2 Overview
+
+13   Upon the matching of Settlement Instructions, or upon the validation of already matched Settlement Instruc-
+14    tions, the realignment application process verifies if the incoming business Settlement Instructions are re-
+15    quiring realignment Settlement Instructions on securities accounts other than those of the submitting T2S
+16    Actors (e.g. on the accounts of the issuer CSD).
+
+
+
+
+
+                                                                                            Page 374 of 2017
+
+
+
+[PDF page 375]
+
+                                                                   T2S User Detailed Functional Specifications
+                                                                                               General Features of T2S
+                                                                                                 Application Processes Description
+
+ 1   When the need to realign is identified, the realignment application process creates automatically the T2S
+ 2    generated realignment Settlement Instructions, based on the cross-CSD links set by CSDs in the reference
+ 3    data.
+
+ 4   The T2S generated realignment Settlement Instructions are then validated, and linked to the initial underly-
+ 5    ing Settlement Instructions through two links INFO providing the references of both business Settlement
+ 6    Instructions for information purposes. T2S ensures that the T2S generated realignment Settlement Instruc-
+ 7    tions and their business Settlement Instructions settle on an all-or-none basis.
+
+
+ 8    1.6.1.10.3 Realignment process
+
+ 9   Parametersnecessaryforrealignment
+
+10    Role and links between CSDs for cross-CSD and external-CSD settlement
+
+11    Irrespective of whether it is a cross-CSD or an external-CSD settlement, a CSD is defined for the realignment
+12    process as:
+
+13         l  The issuer CSD, when it is the CSD in which the security has been issued and distributed on behalf of
+14       the Issuer;
+
+15         l  The investor CSD, when it is the CSD of at least one party of the Settlement Instruction;
+
+16         l  Or both, when it is the CSD in which the security has been issued and the CSD of at least one party of
+17       the Settlement Instruction.
+
+18   To manage the cross-CSD and external-CSD settlements, each investor CSD has the choice between:
+
+19         l  Opening an omnibus account (see section below) in the books of the issuer CSD to reflect the holdings
+20        of its participants for the securities, or;
+
+21         l  Opening an omnibus account in the books of any other CSD being already an investor CSD for the same
+22         financial instrument.
+
+23    In both cases, the CSD where the omnibus account is opened is defined as the technical issuer of the inves-
+24    tor CSD for the given securities. For a given ISIN, an investor CSD can define several such investor-type CSD
+25     links, meaning that it can define several technical issuer CSDs for a given ISIN. However, one of those links
+26    (and only one) should be given the preference for settlement under simple configurations (all CSDs in T2S,
+27   no multi-issuance), this is the “default” link. Under more complex configurations (external CSD configuration,
+28    multi-issuance), the preference should go first to one of the other “alternative” links, more specifically the
+29   one pointing to the counterpart CSD, in case it is set up in the reference data. If T2S cannot find an alterna-
+30     tive link to the counterparty CSD or if such an alternative link is found, but unusable due to a missing static
+31    data (i.e. invalid or incomplete configuration of CSD Account Links), T2S reverts back to the valid default
+32     links should be used also under those complex configurations.
+
+33    Only one link, whether default or alternative, can be set up towards a given technical issuer CSD for a given
+34    investor CSD and a given ISIN at the same point in time.
+
+35   The issuer-type CSD link cannot be an alternative link, it has always to be defined as a “default” link. Only
+36    investor-type links can be flagged “alternative”. Those links cannot be defined for an investor CSD outside
+37   T2S and they cannot point to a technical issuer CSD outside T2S.
+
+
+
+                                                                                            Page 375 of 2017
+
+
+
+[PDF page 376]
+
+                                                                   T2S User Detailed Functional Specifications
+                                                                                               General Features of T2S
+                                                                                                 Application Processes Description
+
+ 1   To that purpose, CSDs are required to configure the following set-up in the reference data:
+ 2
+
+               PARAMETERS                                      DEFINITION
+
+        Security CSD links                   Each investor CSD has to define at least one technical issuer CSD per securities
+                                                                            it intends to set as eligible for settlement (See section Securities reference data
+                                              [ 71]). This results in the creation of one or several links between the investor
+                                   CSD and its technical issuer CSD(s) for a given financial instrument.
+
+                                  Among those links, one (and only one) should be flagged “default”, the other
+                                         ones being considered “alternative”.
+
+                                      The alternative links can only be set up for T2S-in investor CSDs, pointing to a
+                                             T2S-in technical issuer CSD.
+
+                                             For a given investor CSD and a given ISIN, only one link (either default or al-
+                                                  ternative) should point to a given technical issuer CSD.
+
+                                             For a given investor CSD, the technical issuer CSD may be different for each
+                                                    security. It is in most cases the issuer CSD of the security.
+
+                                      The issuer CSD sets a CSD link with itself as issuer. This link cannot be an al-
+                                                 ternative one, it is always a default one.
+
+                                           (See section Configuration of securities accounts for cross-CSD settlement and
+                                                external CSD settlement [ 97])
+
+ 3    This set-up is used by T2S to derive the realignment chain applicable to matched Settlement Instructions
+ 4    starting either from both investor CSDs (delivering and receiving) up to the issuer CSD(s) of the traded secu-
+ 5     rities when default links are used, or from the delivering investor CSD up to the receiving investor CSD (or
+ 6    vice versa) when alternative links are used.
+
+ 7
+
+=== RETRIEVAL 2: context {"as_of": "2026-09-14", "entity": "Milan", "service": "settlement", "role": "participant", "mode": "current", "question_type": "milan_cross_csd_rule"}
+STATUS: evidence_only — Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.
+
+--- SECTION [[milan-cross-csd-disclosure]] — Cross-CSD settlement rule and disclosure of settlement progress (Articles 77–78) (reviewed 2026-09-14; modes ['current']; entities ['Milan']; basis reviewed_effective_interval)
+CITATION: Regulations as of 26 January 2026 | Articles 77–78 with footnote 8; PDF 54, printed 53 | version 26 January 2026 | body language en | authoritative language it | translation; authoritative language differs | approval: Source identity checked; no independent whole-edition supervisory approval certification | source reviewed 2026-09-13 | url https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf
+LIMITATION: Italian text prevails (cover, PDF 1). English translation excerpt.
+LIMITATION: Article 77(2) excludes cross-CSD settlement when the issuer CSD is outside T2S unless both investor CSDs hold a link avoiding realignment with it; actual links per ISIN are not certified.
+EXCERPT (Articles 77–78 with footnote 8; PDF 54, printed 53):
+Article 77 – Cross CSD Settlement
+
+1.  If the settlement Instructions are to be settled between a Participant in Monte
+    Titoli, different from another CSD in T2S and a participant in another CSD in
+   T2S (cross CSD), T2S shall automatically carry out the movements between
+   the securities accounts of the participants involved, of the Investor CSDs and
+   of the Issuer CSD.
+2. Monte Titoli does not envisage the possibility of carrying out a cross CSD
+   settlement on securities  if the Issuer CSD  is outside of T2S, unless both
+   investor CSDs have in place a link with another CSD in T2S so that the
+   realignment with the Issuer CSD outside T2S is not necessary.
+
+Article 78 – Disclosure regarding the progress of the process
+
+1.  If requested by the Participants, Monte Titoli makes available the events that
+   change the balance in their securities account, supplying in real time the
+   settlement status of each transaction being processed,  all the information
+   useful for monitoring it, as well as the settlement of the whole transaction. This
+   disclosure is made available through the direct link channel to T2S, or through
+   the X-TRM Service.
+2.  If requested by the participants, Monte Titoli also makes available to the
+   participants and/or to their agent bank the cash balance disclosure. This
+   disclosure is processed and made available, according to the format and with
+   the channels indicated in the Services Manuals.8
+
+# Output
+Return ONLY a JSON object with this shape (scores 0, 1 or 2):
+{"scores": {"routing_scope": n, "evidence_selection": n, "citation_entailment_locators": n, "preserved_qualifications": n, "completeness": n, "no_unsupported_claims": n, "justified_abstention": n, "label_discipline": n},
+ "must_not_violations": ["..."], "key_points_missing": ["..."], "citation_problems": [{"citation": "...", "problem": "...", "passage_quote": "..."}],
+ "unsupported_claims": ["..."], "verdict": "pass|partial|fail", "reason": "two or three sentences quoting the decisive passage"}

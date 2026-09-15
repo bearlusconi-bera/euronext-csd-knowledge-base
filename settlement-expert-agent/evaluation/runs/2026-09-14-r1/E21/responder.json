@@ -1,0 +1,8 @@
+{
+  "runtime": "claude-code-subagent",
+  "model": "claude-opus-5 (alias opus)",
+  "rerouted": false,
+  "reroute_reason": "Routing was correct: T2S/settlement/current/matching_concept is the route whose sections are exactly t2s-matching and t2s-posting, which carry both halves of the matched-versus-settled distinction the question turns on. No blocked topic and no missing entity applies.",
+  "checker_failures_after_fix": [],
+  "notes": "Checker 8/8 on first run. Single retrieval, evidence_only. Answer says no, grounds the transfer in the posting process (eligibility plus available resources, update of cash balance, securities position and limit headroom, irrevocability), notes posting happens at the Intended Settlement Date, and adds the already-matched-at-entry and non-matching-instruction-type cases. Deliberately did NOT assert the common bilateral-cancellation-after-matching rule: the Instruction Cancellation section is referenced by the excerpt but was not retrieved, so it is listed as unresolved. Tolerance figures (EUR 2 / EUR 25 bands, deliverer's amount prevails) quoted only with the functional-matrix-only, currency-specific and DVP/DWP-vs-DVP/PFOD label limitations attached. Allegement and auto-cancellation waiting periods left unquantified as the excerpt does not give them."
+}

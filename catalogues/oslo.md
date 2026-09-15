@@ -1,3 +1,5 @@
+> Historical discovery index, not a retrieval allowlist. Whole-document defaults are disabled. Use the [reviewed section index](../retrieval/README.md) and [implementation report](../IMPLEMENTATION-REPORT.md) for scope, currentness and unresolved gaps.
+
 # oslo: source catalogue
 
 Dated public-source snapshot. Documents can appear under multiple scopes. “Archived” means a local original exists; it does not mean current or fully reviewed.

@@ -1,5 +1,9 @@
 # Full source catalogue
 
+**14 September source addition:** the November final-delivery cover and final UDFS are retained separately; only their cover-page identity/publication statements are admitted. See [the repair report](ADVERSARIAL-REPAIRS.md) and [source register](retrieval/source-register.json).
+
+**Audit implementation update:** whole-document retrieval is disabled. The original inventory remains intact; reviewed sections and additional sources are listed in [the implementation report](IMPLEMENTATION-REPORT.md) and [the section register](retrieval/README.md). Historical counts below describe the original collection; the English DORA replacement is an additional legal capture.
+
 Snapshot: 11 September 2026. 918 discovered document URLs; not all were downloaded or reviewed. Start with the curated reading guide. Automatic topic/date labels in the JSON are discovery aids, not verified applicability.
 
 [Curated reading guide](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/READING-GUIDE.md>)

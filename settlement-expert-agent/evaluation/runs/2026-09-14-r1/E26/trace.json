@@ -1,0 +1,67 @@
+{
+  "case_id": "E26",
+  "category": "explanation",
+  "question": "How does a Porto ICP put an instruction on hold and then partially release it, and which STD or ISO messages carry the status?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "Porto",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_hold_release_process"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Porto",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_status_model"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Porto",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "porto_hold_release_amendment"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Porto",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "porto_settlement_processing_partial"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Porto"
+    ],
+    "topic_hits": [
+      "porto_hold_release_amendment",
+      "porto_settlement_processing_partial",
+      "t2s_hold_release_process",
+      "t2s_status_model"
+    ],
+    "blocked_hits": [],
+    "dates": []
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "porto-hold-release-amend",
+    "porto-settlement-processing",
+    "t2s-hold-release",
+    "t2s-status-management"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

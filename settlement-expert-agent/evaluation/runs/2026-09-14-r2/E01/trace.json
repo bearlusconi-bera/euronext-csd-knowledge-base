@@ -1,0 +1,70 @@
+{
+  "case_id": "E01",
+  "category": "explanation",
+  "question": "In plain terms, what is the difference between an issuer CSD and an investor CSD, and can Monte Titoli be both at the same time?",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "investor_csd_definition"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_cross_csd_rule"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "november_text_comparison",
+      "_note": "T2S platform route used because no route for the named CSD covers this topic"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "EU",
+      "service": "regulatory",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "issuer_investor_csd_definitions",
+      "_note": "EU legal definitions added to the platform definition"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan"
+    ],
+    "topic_hits": [
+      "investor_csd_definition",
+      "milan_cross_csd_rule",
+      "november_text_comparison"
+    ],
+    "blocked_hits": [],
+    "dates": [],
+    "router_revision": "v1.1"
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "milan-cross-csd-disclosure",
+    "november-text-comparison",
+    "rts392-issuer-investor-csd",
+    "t2s-posting",
+    "t2s-realignment"
+  ],
+  "build_manifest_sha256": "ed577c2eb315cf1592c3809547ea83f309034d3ac955896540fc39d5b0ebbf91",
+  "answer": null,
+  "responder": null
+}

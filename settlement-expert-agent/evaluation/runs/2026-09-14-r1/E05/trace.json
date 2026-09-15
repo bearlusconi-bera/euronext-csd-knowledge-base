@@ -1,0 +1,388 @@
+{
+  "case_id": "E05",
+  "category": "specification",
+  "question": "Specify the settlement flow, messages and timing for a DvP in EUR between a Monte Titoli participant selling as ICP and a buyer at another T2S CSD with a direct link, on release R2026.JUN. Include what is not verified.",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "cross_csd_message_flow",
+      "release": "R2026.JUN",
+      "access_model": "ICP",
+      "currency": "EUR",
+      "link_model": "direct-both-in-T2S"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "realignment_mechanism"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_cross_csd_rule"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_cross_csd_link_guide"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_connectivity_and_static_data"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_xtrm_lifecycle_maintenance"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_message_sese023_scope",
+      "release": "R2026.JUN"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_message_sese024_usages",
+      "release": "R2026.JUN"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_allegement_rules"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_status_model"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_hold_release_process"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_linked_instructions"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_baseline_schedule"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_partial_windows_and_cutoffs"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_partial_settlement"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan",
+      "T2S"
+    ],
+    "topic_hits": [
+      "milan_connectivity_and_static_data",
+      "milan_t2s_release_deployment",
+      "milan_xtrm_lifecycle_maintenance",
+      "t2s_hold_release_process",
+      "t2s_linked_instructions"
+    ],
+    "blocked_hits": [],
+    "dates": [],
+    "responder_reroute": {
+      "previous_contexts": null,
+      "applied": true
+    }
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "milan-connectivity-static-data",
+    "milan-cross-csd-disclosure",
+    "milan-finality",
+    "milan-gateway-links-guide",
+    "milan-xtrm-lifecycle",
+    "t2s-allegement",
+    "t2s-hold-release",
+    "t2s-linked-instructions",
+    "t2s-matching",
+    "t2s-messages",
+    "t2s-partial-settlement",
+    "t2s-posting",
+    "t2s-realignment",
+    "t2s-rts-phase",
+    "t2s-schedule-r2",
+    "t2s-sese023-scope",
+    "t2s-sese024-usages",
+    "t2s-status-management"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null,
+  "original_contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "cross_csd_message_flow",
+      "release": "R2026.JUN",
+      "access_model": "ICP",
+      "currency": "EUR",
+      "link_model": "direct-both-in-T2S"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "realignment_mechanism"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_cross_csd_rule"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_cross_csd_link_guide"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_connectivity_and_static_data"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_xtrm_lifecycle_maintenance"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_message_sese023_scope",
+      "release": "R2026.JUN"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_message_sese024_usages",
+      "release": "R2026.JUN"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_allegement_rules"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_status_model"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_hold_release_process"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_linked_instructions"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_baseline_schedule"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_partial_windows_and_cutoffs"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_partial_settlement"
+    }
+  ],
+  "original_contexts_recovered": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_hold_release_process"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_hold_release_process"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_linked_instructions"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_linked_instructions"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_connectivity_and_static_data"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_xtrm_lifecycle_maintenance"
+    }
+  ],
+  "original_contexts_note": "Recovered post hoc by the maintainer on 2026-09-14: reroute_case.py recorded original_contexts after overwriting contexts, so the stored original_contexts equals the rerouted contexts. Recovered via deterministic_route(question) with the unchanged topic index (build manifest f9493d10a6f6)."
+}

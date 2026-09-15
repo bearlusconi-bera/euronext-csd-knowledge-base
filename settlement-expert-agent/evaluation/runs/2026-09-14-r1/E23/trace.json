@@ -1,0 +1,148 @@
+{
+  "case_id": "E23",
+  "category": "ambiguity",
+  "question": "I want to swap an asset with my counterparty in Milan. What is the flow?",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "securities_swap_atomicity"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "realignment_mechanism"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_linked_instructions"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_instruction_processing_rules"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan"
+    ],
+    "topic_hits": [],
+    "blocked_hits": [],
+    "dates": [],
+    "responder_reroute": {
+      "previous_contexts": null,
+      "applied": true
+    }
+  },
+  "statuses": [
+    "blocked",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "milan-finality",
+    "milan-instruction-processing",
+    "t2s-linked-instructions",
+    "t2s-matching",
+    "t2s-posting",
+    "t2s-realignment"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null,
+  "original_contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "securities_swap_atomicity"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "realignment_mechanism"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_linked_instructions"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_instruction_processing_rules"
+    }
+  ],
+  "original_contexts_recovered": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "securities_swap_atomicity"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "realignment_mechanism",
+      "_note": "narrower supported mechanism (all-or-none realignment chain) retrieved alongside the blocked swap topic"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_linked_instructions",
+      "_note": "actor-specified WITH links are the closest supported construct"
+    }
+  ],
+  "original_contexts_note": "Recovered post hoc by the maintainer on 2026-09-14: reroute_case.py recorded original_contexts after overwriting contexts, so the stored original_contexts equals the rerouted contexts. Recovered via deterministic_route(question) with the unchanged topic index (build manifest f9493d10a6f6)."
+}

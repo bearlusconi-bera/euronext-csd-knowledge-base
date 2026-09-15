@@ -1,0 +1,36 @@
+{
+  "case_id": "E32",
+  "category": "dated-event",
+  "question": "Did anything unusual happen in T2S on 14 April 2026, in EUR?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dated_t2s_schedule",
+      "currency": "EUR",
+      "business_date": "2026-04-14"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "T2S"
+    ],
+    "topic_hits": [
+      "dated_t2s_schedule"
+    ],
+    "blocked_hits": [],
+    "dates": [
+      "2026-04-14"
+    ]
+  },
+  "statuses": [
+    "blocked"
+  ],
+  "retrieved_sections": [],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

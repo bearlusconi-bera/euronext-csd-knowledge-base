@@ -1,0 +1,35 @@
+{
+  "case_id": "E28",
+  "category": "explanation",
+  "question": "In Oslo's VPO NOK, when can a matched settlement instruction no longer be revoked, and what changes if it has been put on hold?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "Oslo",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "oslo_finality_moments"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Oslo"
+    ],
+    "topic_hits": [
+      "oslo_finality_moments"
+    ],
+    "blocked_hits": [],
+    "dates": []
+  },
+  "statuses": [
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "oslo-edition-r2",
+    "oslo-finality-moments"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

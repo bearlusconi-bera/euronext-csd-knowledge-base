@@ -1,6 +1,6 @@
 # Requirements map
 
-As of **11 September 2026**. “CSD requirements” has three meanings: requirements for the infrastructure operator, requirements to participate, and requirements for an issuer/service user. Store these as separate roles. The tables below are research navigation and evidence checklists; they are not a complete application dossier for an unspecified business.
+Research map as of **11 September 2026**, corrected after the 13 September audit. This remains a navigation map, not a retrieval allowlist. Use [reviewed sections](retrieval/README.md) and the [implementation/gap report](IMPLEMENTATION-REPORT.md). “CSD requirements” has three meanings: requirements for the infrastructure operator, requirements to participate, and requirements for an issuer/service user. Store these as separate roles. The tables below are research navigation and evidence checklists; they are not a complete application dossier for an unspecified business.
 
 ## 1. Operating a CSD
 
@@ -20,7 +20,7 @@ As of **11 September 2026**. “CSD requirements” has three meanings: requirem
 
 Read the actual articles and referenced instruments in [CSDR, consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117). Saved complete texts and links are in the [reading guide](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/READING-GUIDE.md>). The selected CSDR provisions were reviewed, but the complete capital calculation, national transpositions and every implementing requirement were not assessed.
 
-**DORA is part of the operating framework.** CSDR Article 45 now explicitly references it for ICT risk and recovery. A knowledge base focused only on connectivity specifications would omit incident handling, resilience testing and ICT third-party dependencies. [DORA consolidated text](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R2554-20221227).
+**DORA is part of the operating framework.** CSDR Article 45 now explicitly references it for ICT risk and recovery. A knowledge base focused only on connectivity specifications would omit incident handling, resilience testing and ICT third-party dependencies. [DORA English OJ text](https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng), reviewed Articles 2 and 64. The archived English-labelled consolidated capture has French operative text and is excluded from English quotations. The full incident-reporting RTS/ITS and national procedure chain remains unreviewed.
 
 Use the PFMI as a cross-cutting control taxonomy, then map it to binding rules and local evidence. Porto’s WFC questionnaire and Athens’ PFMI self-assessment provide examples of disclosed controls; their dates matter, and disclosure is not independent proof that a control remains effective. [PFMI](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/1ae6d477d17b-PFMI-April-2012.pdf>); [Porto WFC 2025](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/2a1af673b358-WFC-Single-Disclosure-Report-2025.pdf>); [Athens December 2023 PFMI assessment](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/3cfbaea6fa93-PFMI-Self-Assessment-Report-IOSCO.pdf>).
 

@@ -7,6 +7,8 @@ import requests
 from lxml import html
 
 ROOT = Path(__file__).resolve().parents[1]
+from snapshot_guard import refuse_audited_snapshot
+refuse_audited_snapshot(ROOT)
 for folder in ['sources/pages','sources/documents','extracted','metadata']:
     (ROOT/folder).mkdir(parents=True,exist_ok=True)
 ASOF='2026-09-11'

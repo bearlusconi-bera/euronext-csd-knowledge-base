@@ -1,0 +1,69 @@
+{
+  "case_id": "E31",
+  "category": "multi-intent",
+  "question": "Legally, what must a CSD define about the moments of entry and irrevocability of transfer orders, and how does Monte Titoli implement those moments?",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "EU",
+      "service": "regulatory",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "csdr_definitions"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "EU",
+      "service": "regulatory",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "sfd_entry_irrevocability"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "EU",
+      "service": "regulatory",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality_and_cash_settlement_law"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan",
+      "EU"
+    ],
+    "topic_hits": [
+      "csdr_definitions",
+      "finality",
+      "finality_and_cash_settlement_law",
+      "sfd_entry_irrevocability"
+    ],
+    "blocked_hits": [],
+    "dates": [],
+    "router_revision": "v1.1"
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "csdr-2-definitions",
+    "csdr-39-40",
+    "milan-finality",
+    "sfd-3-5"
+  ],
+  "build_manifest_sha256": "ed577c2eb315cf1592c3809547ea83f309034d3ac955896540fc39d5b0ebbf91",
+  "answer": null,
+  "responder": null
+}

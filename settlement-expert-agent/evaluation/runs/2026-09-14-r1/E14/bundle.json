@@ -1,0 +1,500 @@
+{
+  "generated_at_utc": "2026-09-14T09:58:16.039532+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "instrument_eligibility"
+      },
+      "router_notes": {},
+      "status": "blocked",
+      "reason": "Current ISIN, CSD-link, account, currency and MT23/static-data evidence required.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": [
+        "G04"
+      ],
+      "topic_review_dates": null,
+      "evidence": []
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_cross_csd_rule"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-cross-csd-disclosure",
+          "title": "Cross-CSD settlement rule and disclosure of settlement progress (Articles 77–78)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Italian text prevails (cover, PDF 1). English translation excerpt.",
+            "Article 77(2) excludes cross-CSD settlement when the issuer CSD is outside T2S unless both investor CSDs hold a link avoiding realignment with it; actual links per ISIN are not certified."
+          ],
+          "citations": [
+            {
+              "source_id": "8719262f5e8b",
+              "title": "Regulations as of 26 January 2026",
+              "source_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+              "source_sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+              "source_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
+              "locator": "Articles 77–78 with footnote 8; PDF 54, printed 53",
+              "pdf_pages": [
+                54
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "26 January 2026",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "8719262f5e8b",
+              "locator": "Articles 77–78 with footnote 8; PDF 54, printed 53",
+              "text": "Article 77 – Cross CSD Settlement\n\n1.  If the settlement Instructions are to be settled between a Participant in Monte\n    Titoli, different from another CSD in T2S and a participant in another CSD in\n   T2S (cross CSD), T2S shall automatically carry out the movements between\n   the securities accounts of the participants involved, of the Investor CSDs and\n   of the Issuer CSD.\n2. Monte Titoli does not envisage the possibility of carrying out a cross CSD\n   settlement on securities  if the Issuer CSD  is outside of T2S, unless both\n   investor CSDs have in place a link with another CSD in T2S so that the\n   realignment with the Issuer CSD outside T2S is not necessary.\n\nArticle 78 – Disclosure regarding the progress of the process\n\n1.  If requested by the Participants, Monte Titoli makes available the events that\n   change the balance in their securities account, supplying in real time the\n   settlement status of each transaction being processed,  all the information\n   useful for monitoring it, as well as the settlement of the whole transaction. This\n   disclosure is made available through the direct link channel to T2S, or through\n   the X-TRM Service.\n2.  If requested by the participants, Monte Titoli also makes available to the\n   participants and/or to their agent bank the cash balance disclosure. This\n   disclosure is processed and made available, according to the format and with\n   the channels indicated in the Services Manuals.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_cross_csd_link_guide"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-gateway-links-guide",
+          "title": "T2S Gateway settlement links guide: link inventory (MT23 codes), how to identify the issuer CSD and instruction rules",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Route-specific SWIFT/XTRM templates (PDF 10–109) are not admitted; the index proves which issuer-CSD/counterparty combinations the guide covers on 1 May 2026, not per-ISIN eligibility.",
+            "Document footers read PRIVATE although the file is on the public T2S Gateway page; ES-MIL disclaims responsibility for instruction correctness."
+          ],
+          "citations": [
+            {
+              "source_id": "1bd67deaace2",
+              "title": "T2S GATEWAY - Euronext Securities Milan Settlement Links - Valid from 1st May 2026",
+              "source_url": "https://www.euronext.com/sites/default/files/2026-04/T2S%20GATEWAY%20-%20ES%20MIL%20Settlement%20links%20-%20Web%20site%20review%20May%202026.pdf",
+              "source_sha256": "db6a69edf91f0c4fedc0459d94041c7b7b5841a4f5d73d0ead4c69521425f88c",
+              "source_path": "sources/documents/1bd67deaace2-T2S-GATEWAY-Euronext-Securities-Milan-Settlement-Links-Valid-from-1st-May-2026.pdf",
+              "locator": "Table of contents, Introduction, §1 and §1.1.1 notes; PDF 2–9",
+              "pdf_pages": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "T2S Gateway settlement links, valid from 1 May 2026",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "1bd67deaace2",
+              "locator": "Table of contents, Introduction, §1 and §1.1.1 notes; PDF 2–9",
+              "text": "TABLE OF CONTENTS\n\n\n\n\n INTRODUCTION ............................................................................................. 5\n\n  1.    Settlement overview ............................................................................ 6\n\n    1.1.1 How to use this Document and further instructions .................................... 7\n\n  2. Issuer CSD: SWITZERLAND - (MT23 81551) .............................................. 9\n\n    Counterparty in Switzerland (SIX SIS – INSECHZZXXX) ..................................... 9\n\n    Counterparty in Austria (OEKB CSD – OCSDATWWXXX) .................................... 10\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) ............................................... 11\n\n    Counterparty in Euroclear Bank (EOC – MGTCBEBEECL) .................................... 12\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ......................................... 13\n\n  3. Issuer CSD: GREECE (MT23 85679) ......................................................... 14\n\n    Counterparty in Greece (BOGS – BNGRGRAASSS) ............................................ 14\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) ............................................... 15\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ......................................... 16\n\n  4. Issuer CSD: BELGIUM NBB (MT23 85680) ............................................... 17\n\n    Counterparty in Switzerland (SIX SIS – INSECHZZXXX) .................................... 17\n\n    Counterparty in Austria (OEKB CSD – OCSDATWWXXX) .................................... 18\n\n    Counterparty in Belgium (NBB – NBBEBEBB216) .............................................. 19\n\n    Counterparty in France (ESES FR – SICVFRPPXXX) ........................................... 20\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) ............................................... 21\n\n    Counterparty Euroclear Bank (EOC – MGTCBEBEECL) ....................................... 22\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ......................................... 23\n\n  5.    Issuer CSD: BELGIUM ESES (MT23 85668) ........................................ 24\n\n    Counterparty in Switzerland (SIX SIS – INSECHZZXXX) .................................... 24\n\n    Counterparty in Belgium Eses (ESES BE – CIKBBEBBCLR) ................................. 25\n\n    Counterparty in Germany (CEU Clearstream Europe – DAKVDEFFXXX) ................ 26\n\n    Counterparty in Austria (OEKB CSD – OCSDATWWXXX) .................................... 27\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) ............................................... 28\n\n    Counterparty in Euroclear Bank (EOC – MGTCBEBEECL) .................................... 29\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ......................................... 30\n\n\n1\n\n\n                                        PRIVATE\n\n\n\n[PDF page 3]\n\n  6.    Issuer CSD: NETHERLAND (MT23 81501) ........................................... 31\n\n    Counterparty in Switzerland (SIX SIS – INSECHZZXXX) .................................... 31\n\n    Counterparty in Netherland (ESES NL – NECINL2AXXX) .................................... 32\n\n    Counterparty in Germany (CEU – DAKVDEFFXXX) ............................................ 33\n\n    Counterparty in Austria (OEKB CSD – OCSDATWWXXX) .................................... 34\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) ............................................... 35\n\n    Counterparty in Spain (IBERCLEAR – IBRCESMMXXX) ....................................... 36\n\n    Counterparty in Euroclear Bank (EOC – MGTCBEBEECL) .................................... 37\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ......................................... 38\n\n  7. Issuer CSD : FRANCE (MT23 81346) ........................................................ 39\n\n    Counterparty in France (ESES FR – SICVFRPPXXX) ........................................... 39\n\n    Counterparty in Germany (CEU – DAKVDEFFXXX) ............................................ 40\n\n    Counterprty in Austria (OEKB CSD – OCSDATWWXXX) ...................................... 41\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) ............................................... 42\n\n    Counterparty in Spain (IBERCLEAR – IBRCESMMXXX) ...................................... 43\n\n    Counterparty in Euroclear Bank (EOC – MGTCBEBEECL) .................................... 44\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ......................................... 45\n\n  8. Issuer CSD : GERMANY (MT23 81318) ..................................................... 46\n\n    Counterparty in France (ESES FR – SICVFRPPXXX) ........................................... 46\n\n    Counterparty in Germany (CEU – DAKVDEFFXXX) ............................................ 47\n\n    Counterparty in Austria (OEKB CSD – OCSDATWWXXX) .................................... 48\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) ............................................... 49\n\n    Counterparty in Euroclear Bank (EOC – MGTCBEBEECL) .................................... 50\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ......................................... 51\n\n  9. Issuer CSD : AUSTRIA (MT23 81451) ...................................................... 52\n\n    Counterparty in Austria (OEKB CSD – OCSDATWWXXX) .................................... 52\n\n    Counterparty in ITALY (ES-MIL – MOTIITMMXXX) ............................................. 53\n\n    Counterparty in Euroclear Bank (EOC – MGTCBEBEECL) .................................... 54\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ......................................... 55\n\n  10. Issuer CSD: ITALY ................................................................................. 56\n\n    Counterparty in France – Bonds, Exor and Euronext equities- (ESES FR –\n    SICVFRPPXXX) ............................................................................................. 56\n\n    Counterparty in France – Equities only - FOP ONLY - (ESES FR – SICVFRPPXXX) .. 57\n\n    Counterparty in Netherland – Equities only - FOP ONLY - (ESES NL – NECINL2AXXX)\n          58\n\n2\n\n\n                                        PRIVATE\n\n\n\n[PDF page 4]\n\n    Counterparty in Germany (CEU – DAKVDEFEXXX) ............................................ 59\n\n    Counterparty in Austria (OEKB CSD – OCSDATWWXXX) .................................... 60\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) ............................................... 61\n\n    Counterparty in Spain (IBERCLEAR – IBRCESMMXXX) ....................................... 62\n\n    Counterparty in Euroclear Bank (EOC – MGTCBEBEECL) .................................... 63\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ......................................... 64\n\n    Counterparty in Norway (VPS – VPSNNOKKXXX) .............................................. 65\n\n  11. Issuer CSD : SPAIN (MT23: 81488)- Bonds Only ................................... 66\n\n    Counterparty in France (ESES FR – SICVFRPPXXX) ........................................... 66\n\n    Counterparty in Germany (CEU – DAKVDEFFXXX) ............................................ 67\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) ............................................... 68\n\n    Counterparty in Spain (IBERCLEAR – IBRCESMMXXX) ....................................... 69\n\n    Counterparty in Euroclear Bank (EOC – MGTCBEBEECL) .................................... 70\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ......................................... 71\n\n  12. Issuer CSD: UNITED STATES – DTCC       (MT23 : 81626) US Securities\n  held in DTCC ................................................................................................ 72\n\n    Counterparty in Netherland - DELIVER FREE ONLY - (ESES NL – NECINL2AXXX) .. 72\n\n    Counterparty in France - DELIVER FREE ONLY - (ESES FR – SICVFRPPXXX) DO NOT\n   USE FOR STELLANTIS ................................................................................... 73\n\n    Counterparty in France STELLANTIS shares via T2S cross csd (ESES FR –\n    SICVFRPPXXX) ............................................................................................. 74\n\n    Counterparty in Germany - DELIVER FREE ONLY - (CEU – DAKVDEFEXXX) .......... 75\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) .............................................. 76\n\n    Counterparty in United States – DELIVER FREE ONLY (DTCC – DTCYUS33XXX) .... 77\n\n    Counterparty in Euroclear Bank – DELIVER FREE ONLY - (EOC - MGTCBEBEECL) .. 78\n\n    Counterparty in Clearstream - DELIVER FREE ONLY - (CBL – CEDELULLXXX) ....... 79\n\n  13. Issuer CSD: UNITED STATES – EOC (MT23: 12934) US Securities held in\n  Euroclear Bank ............................................................................................ 80\n\n    Counterparty in Germany - FOP ONLY - (CEU – DAKVDEFFXXX) ......................... 80\n\n    Counterparty in Switzerland - FOP ONLY - (SIX SIS – INSECHZZXXX) ................. 81\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) ............................................... 82\n\n    Counterparty in United States - FOP ONLY - (DTCC –DTCYUS33XXX) .................. 83\n\n    Counterparty in Euroclear Bank (EOC – MGTCBEBEECL) .................................... 84\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ......................................... 85\n\n  14. Issuer ICSD: EUROCLEAR BANK (MT23: 12934) .................................... 86\n\n\n3\n\n\n                                        PRIVATE\n\n\n\n[PDF page 5]\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) ............................................... 86\n\n    Counterparty in Euroclear Bank (EOC - MGTCBEBEECL) .................................... 87\n\n    Counterparty in Germany (CEU – DAKVDEFFXXX) ............................................ 88\n\n    Counterparty in UK (EOC UK & Ireland – CREST) .............................................. 89\n\n    Counterparty in Switzerland (SIX SIS – INSECHZZXXX) .................................... 90\n\n    Counterparty in Netherland (ESES NL – NECINL2AXXX) .................................... 91\n\n    Counterparty in France (ESES FR – SICVFRPPXXX) ........................................... 92\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ......................................... 93\n\n    Counterparty in Portugal (ES-PTO – IBLSPTPPXXX) ........................................... 94\n\n    Counterparty in EOC Finland (APKE CSD – APKEFIHHXXX) ................................. 95\n\n  15. Issuer CSD: CLEARSTREAM (MT23: 12932) ........................................... 96\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ......................................... 96\n\n    Counterparty in Euroclear Bank (EOC - MGTCBEBEECL) .................................... 97\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) ............................................... 98\n\n    Counterparty in Switzerland (SIX SIS – INSECHZZXXX) International Funds Only 99\n\n    Counterparty in Germany (CEU – DAKVDEFFXXX) International Funds Only ....... 100\n\n    Counterparty in France (ESES FR – SICVFRPPXXX)  International Funds Only ... 101\n\n  16. Issuer CSD:UNITED KINGDOM (MT23: 85667) .................................... 102\n\n    Counterparty in Italy (ES-MIL – MOTIITMMXXX) ............................................. 102\n\n    Counterparty in Euroclear Bank (EOC - MGTCBEBEECL) .................................. 103\n\n    Counterparty in Clearstream (CBL – CEDELULLXXX) ....................................... 104\n\n    Counterparty in UK (EOC UK & Ireland – CREST) ............................................ 105\n\n    Counterparty in Switzerland (SIX SIS – INSECHZZXXX) .................................. 106\n\n    Counterparty in Germany (CEU – DAKVDEFFXXX) .......................................... 107\n\n    Counterparty in Netherland (ESES NL – NECINL2AXXX) .................................. 108\n\n    Counterparty in France (ESES FR – SICVFRPPXXX) ......................................... 109\n\n\n\n\n\n4\n\n\n                                        PRIVATE\n\n\n\n[PDF page 6]\n\nINTRODUCTION\n\n\n\n\nClients of Euronext Securities Milan (ES-MIL) are allowed to move securities between\ntheir ES-MIL’s account and an account on a different CSD through the links that ES-MIL\nhas established with several foreign CSDs, in T2S and outside T2S.\n\nWhile T2S helped to standardize cross csd instructions, there are still several cases,\nespecially on external transactions, which may require the usage of specific settlement\nformats.\n\nIn addition, ES-MIL’s Clients, also need to provide their counterparties with their correct\nSSI (Securities Settlement Instructions) in order to settle a transaction.\n\nThis document is designed with the aim to provide Client’s with a useful tool that\nsummarizes all the information needed to execute a transfer from/to ES-MIL, versus\nanother CSD, in a single page.\n\nThis Document contains:\n\n    •  Information on how to identify the CSD where ES-MIL holds a foreign security\n    •  Templates for allowed external settlement instructions in Swift 15022 and XTRM\n    •  Templates for T2S allowed cross csd settlement instructions in Swift 15022 and\n     XTRM\n    •  Settlement restrictions\n    •  SSI to be shared with Counterparties to help them matching ES-MIL’s Clients\n       instructions where applicable\n\nWe aim to keep this Document updated reflecting the latest changes in the market.\n\nES-MIL is not responsible for the correctness of your settlement instruction, the\ncounterparty will always have to provide you with their most updated SSI, we kindly ask\nyou to get in touch with ES-MIL in case of doubts.\n\n\n\n\n\n5\n\n\n                                        PRIVATE\n\n\n\n[PDF page 7]\n\n 1. Settlement overview\n\n\n\n\nSecurities can be settled by ES-MIL’s Clients against counterparties:\n\n    •   In ES-MIL : such transactions are defined Intra CSD settlement\n\nES-MIL’s Client will instruct against a counterparty in ES-MIL and the counterparty will do\nthe same\n\n\n\n    •   In another T2S CSD: such transactions are defined Cross CSD settlement\n\nES-MIL’s Client will instruct against a counterparty’s CSD different from ES-MIL but\nparticipating in T2S and the counterparty will instruct from the other CSD against ES-MIL\n\n\n\n    •   In another CSD outside T2S: such transactions are defined External CSD\n       settlement\n\nES-MIL’s Client will instruct against a counterparty’s CSD based on the links between ES-\nMIL and the other CSD outside T2S and the counterparty will instruct from the other CSD\nagainst ES-MIL\n\n\n\n\n\n6\n\n\n                                        PRIVATE\n\n\n\n[PDF page 8]\n\n  1.1.1 How to use this Document and\n  further instructions\n\n\n\n\nThe correct page for retrieving the format for your instruction can be found in the Table\nof Contents of this document, following the next steps:\n\n\n\n   1.  Identify where ES-MIL holds the security and select the correspondent chapter\n        in the Table of Contents of this Document\n\n\nThis information can be found in MTX → Lists → MT23 List of Financial Instruments →\nSearch ISIN\n\nWhen the value in the column issuer/Investor is “Investor” then the value in the\nIssuer Code column identifies the Issuer CSD. If the value is “Issuer” then the\nIssuer CSD is ES-MIL. This is where ES-MIL holds the mentioned security.\n\nThe same value can be found in the Table of Contents of this document and is used to\nidentify the correct chapter.\n\nAs reported in Euronext Clearing Migration FAQ, Operational Notice 22/2023 published on\nJuly 17th and Operational Notice 28/2023, certain Financial Instruments have been\ntransferred from the home issuer CSD to the technical issuer ESES CSDs. With\nOperational Notice 07/2024 the Austrian Bonds have been moved back to OeKB as Issuer\nCSD therefore chapter 9 of this guide can be used for all indicated counterparty’s CSD,\nthe following sentence does not apply to Austrian Bonds.\nClients should remind that those securities can be transferred, according to the Issuer\nCSD chapter of reference in this Guide, as Intra or Cross CSD between ESMIL and the\nTechnical issuer CSD.\n\nThe gateway has been updated on 31st October 2025 in order to reflect the new\ndenomination of Cleastream Banking Frankfurt in Cleastream Europe.\n\n\n\n\n\n   2. Determine the CSD of your counterparty and select the appropriate Issuer\n      CSD/Counterparty combination from the Table of Contents of this\n      Document\n\n\nThis information is based on your counterparty’s SSI and will be used to find the correct\nsettlement combination in the Table of Contents of this document.\n\nPLEASE NOTE:\n\n\n\n7\n\n\n                                        PRIVATE\n\n\n\n[PDF page 9]\n\n    •   For each settlement combination we have also included the SSI that you will share\n       with your counterparty\n    •  Each page will also specify whether the transaction can be executed only FOP or if\n       the market executes DUMP trades\n    •   Please always use 11 digits bic codes when instructing trades\n    •   Please note that Party 2 in T2S is optional and if populated in one of the two\n       instructions involved in a securities transaction then it becomes a matching\n        criteria and has to be quoted on both instructions\n    •   Delivery Swift instructions should always contain also the field DEAG (15022 or\n       corresponding MT20022 field)\n    •  Receive Swift instructions should always contain also the field REAG (15022 or\n       corresponding MT20022 field)\n    •  XTRM Cross-csd and External instructions should always be instructed using the\n      BIC code in the field “Trading member code”\n    •   External instructions can not be instructed with HOLD/RELEASE indicators\n    •   If a client will incorrectly instruct a security not available in the MT23, please be\n      aware that any possible fail and related CSDR penalties will not be cancel and\n       they will be computed as current procedure described\n    •  XTRM Cross-csd should always be instructed with a “Ctrp Settl. Account” filled in\n      where “Cod. Ctrp” is filled in with a no default BIC\n    •  Cross-csd and External settlement instruction when searched, will have the CTRP\n       cod. field populated by the internal code (SIA/CED) instead of the BIC used in the\n       input function\n    •   External Settlement is subject to CoSD rule in the following case: prepositioning\n      (DFOP and DVP) and prefunding (RVP). More information could be find in the\n        Istruzioni al Servizio di Liquidazione\n\n\n\n\n\n8\n\n\n                                        PRIVATE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_settlement_service_scope"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-service-scope",
+          "title": "Settlement Service scope: intra-CSD and cross-CSD, ICP versus DCP processing (§1.3 excluding the operational-day clock table)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Italian text prevails (cover, PDF 1). English translation excerpt with uneven wording; quoted terms follow the source.",
+            "§1.3.1 (PDF 12–16) is quarantined: its clock values (NTS 19:30, two partial windows) conflict with the deployed R2026.JUN schedule; use the T2S schedule sections and the notice chain instead."
+          ],
+          "citations": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "title": "Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025",
+              "source_url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf",
+              "source_sha256": "8c3b43dd7293906ee4915606dbe265ef1a446a6a6d85ea5448e5010b3cca7306",
+              "source_path": "sources/documents/dd1cf7cb930b-Instructions-to-Settlement-Service-and-related-instrumental-activities-in-force-as-of-30-J.pdf",
+              "locator": "§1.3 opening; PDF 12, printed 8",
+              "pdf_pages": [
+                12
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Settlement Service Instructions in force as of 30 June 2025 (MN_10/2025)",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "locator": "§1.3 opening; PDF 12, printed 8",
+              "text": "1.3 OPERATION OF THE SETTLEMENT SERVICE\n\nThe Settlement Service is operated by the T2S platform and enables settlement\nof transactions:\n\n    •  between two Participants in Monte Titoli (cd. Intra CSD Settlement);\n\n    •  between a Participant in Monte Titoli and a participant in another CSD in\n     T2S (cross-CSD settlement), within the limits laid down in Article 27 of the\n      Operating Rules;\n\nParticipants may enter settlement instructions to be settled in modality intra and\ncross CSD through connectivity models directly or indirectly.\n\nSettlement Instructions entered through indirect connection, before forwarding\nto T2S shall be subject to the processes specified in the subsequent chapter\nrelating to the X-TRM Service.\n\nSettlement Instructions entered through a direct connection are subject only to\nthe processes provided by T2S platform.\n\nAlthough not expressly specified or detailed in this document, with reference to\nthe acquisition mode, matching and settlement of transactions, please refer to\nDocument Operating T2S User Requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_external_settlement"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-external-settlement",
+          "title": "Foreign Settlement Service (external settlement): channels, cancellation, pre-positioning/pre-funding with CoSD, routing and reporting (Title 2)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Italian text prevails (cover, PDF 1). English translation excerpt with uneven wording; quoted terms follow the source.",
+            "Per-system Operating Documents and their cut-offs are not admitted."
+          ],
+          "citations": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "title": "Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025",
+              "source_url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf",
+              "source_sha256": "8c3b43dd7293906ee4915606dbe265ef1a446a6a6d85ea5448e5010b3cca7306",
+              "source_path": "sources/documents/dd1cf7cb930b-Instructions-to-Settlement-Service-and-related-instrumental-activities-in-force-as-of-30-J.pdf",
+              "locator": "Title 2 §§2.1–2.3.6 (PDF 29 is blank); PDF 28–35, printed 24–31",
+              "pdf_pages": [
+                28,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Settlement Service Instructions in force as of 30 June 2025 (MN_10/2025)",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "locator": "Title 2 §§2.1–2.3.6 (PDF 29 is blank); PDF 28–35, printed 24–31",
+              "text": "2 IMPLEMENTING PROVISIONS OF\nREGULATION OF FOREIGN SERVICE\n(EXTERNAL SETTLEMENT)\n\n2.1 GENERAL PROVISIONS\n\n\n    2.1.1 OPERATIVE Documentation\n\nMonte Titoli operates within the Foreign Settlement Services pursuant to their\ncorresponding regulations.\n\nMonte  Titoli also provides  for the Operating Documents, which contain the\noperating provisions regarding each Foreign Settlement System.\n\nSuch Operating Documents shall be read together with these provisions and are\navailable to the participants through publication in the dedicated  section of\nMonte Titoli’s web site (www.montetitoli.it).\n\n\n\n    2.1.2 Relationship between Monte Titoli and Participants\n\nParticipants  to the Service   provide,  directly  or  indirectly, the information\nregarding  their  clients and the transactions carried out on their behalf,     if\nrequired by the Foreign Settlement Systems in which Monte Titoli participates, or\nby any other authority/body entitled to request such information.\n\nWhereas the Foreign Settlement  Systems connected to Monte  Titoli apply\npenalties (including but not limited to:  failing settlement when due, or late\nmatching with respect to time limits envisaged by the Cross-Border System),\nMonte  Titoli reiterates the charge of the Foreign Settlement System on the\naccount of the intermediary to whom the penalty is to be applied. If the penalty\nis in currencies other than Euro, Monte Titoli charges as a matter of course the\naccount  of  the  intermediary  for  the  corresponding amount based on  the\nexchange rate in force at the charging date6. Penalties will be charged to the\nintermediaries’ accounts without any further charge, and  upon prior notice by\nMonte Titoli, based on the penalties charged from time to time by the Foreign\nSettlement System.\n\nAs  for the fees  for the  provision  of the Service  applies the provisions  of\nparagraph 1.2.4\n\n\n6 The exchange rate is the market exchange rate, as of the closing of the accounting day preceding the charging date.\n\n\n\n\n24\n\n\n\n[PDF page 30]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\n     2.1.3 Agent Bank\n\nIf the participant uses an Agent Bank for cash settlement, the participant  is\nrequired to:\n\na. appoint the same Agent Bank appointed  for the  settlement  within the\n   Settlement Service;\nb. request  the Agent Bank to communicate Monte Titoli the acceptance of its\n   appointment as Agent Bank, also with reference to the Foreign Settlement\n   Service;\nc.  in case  of withdrawal, exclusion or suspension  of the Agent Bank from\n  TARGET 2, arrange for prompt substitution, notifying Monte Titoli in a timely\n   manner.\n\n\n2.2 SERVICE FUNCTIONALITIES AND COMMUNICATIONS\nCHANNELS\n\nThe Service requires Monte  Titoli to operate within the Foreign Settlement\nSystems, on behalf of its participants, in compliance with the functioning rules of\nthe relevant Foreign Settlement Systems.\n\nThe Service functions are made available through the X-TRM Service or through\nRNI.\n\nIf the participant is unable to input the transactions through the above specified\ntelematics channels due to contingent situations, the participant is required to\nimmediately  notify Monte  Titoli.  In such a  case, Monte  Titoli accepts the\ninstructions submitted in a written form, for the time required to restore the\nconnection.\n\nWhereas Monte  Titoli communicates a contingency situation, participants are\nrequired to operate in compliance with the guidance provided from time to time\nby Monte Titoli.\n\n\n\n    2.2.1 Operational Communications\n\nMonte Titoli communicates to participants, through the information posted on its\nwebsite, any operational aspects related to the ordinary management of the\nService.\nCommunications regarding extraordinary events may be transmitted by Monte\n\n\n\n\n26\n\n\n\n[PDF page 31]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\nTitoli  through  telematics  channels  (including,  but  not  limited  to:  e-mail\nmessages, RNI 097 free narrative messages, broadcast through the X-TRM On-\nLine Service).\nThe procedures and the timing for the notifications depend on their content and\non the urgency with which they must be disclosed.\n\n\n\n\n\n27\n\n\n\n[PDF page 32]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\n2.3 OPERATION OF CROSS-BORDER SETTLEMENT SERVICE\n\n2.3.1 Transactions input\n\nParticipants to the Service must enter instructions to be settled in the Foreign\nSettlement Systems (that do not use the T2S platform) via the X-TRM Service.\n\nDVP  transactions are disposed by entering  transfer orders  into the X-TRM\nService. FOP transactions are disposed by entering transfer orders into the X-\nTRM Service or, for securities delivery transactions, also through RNI messages.\n\nThe  specific procedures  for entering the transactions used  for each Foreign\nSettlement System are illustrated in the Operating Documents.\n\nDVP and FOP transactions entered via X-TRM:\n\n       a. may not be modified;\n      b. may envisage an ISD preceding the date of entering into the Service.\n\n\n2.3.2 Cancellation of settlement Instruction\n\nCancellation of transactions which are not matched on ISD or not settled on ISD\nmay be requested by participants in accordance to the rules of the Foreign\nSettlement System to which such instructions have been routed for settlement.\n\nCancellation of instructions entered via X-TRM may be sent to Monte Titoli (for\nsubsequent  routing  to Foreign Settlement Systems)  if compatible with the\ndeadlines indicated in the Operating Documents.\n\nRequests for cancellations of non-matched instructions must be sent via X-TRM.\n\nRequests for cancellations of settlement instructions already matched in the\nForeign Settlement Systems and of settlement instructions not-matched can be\nperformed  if provided by the Foreign Settlement Systems, on the participant's\nrequest and on condition that the counterparty matches the cancellation.\n\n\n\n2.3.3 Pre-positioning / Pre-funding\n\nSettlement Instructions are forwarded to the Foreign Settlement Systems that do\nnot use  the T2S  platform,  after  the  creation  of  securities  funding  (pre-\npositioning) or cash funding (pre-funding) by the Participants respectively in the\nParticipants securities accounts in Monte Titoli or in the DCA cash accounts .\n\n\n\n\n\n28\n\n\n\n[PDF page 33]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\nFor securities deliveries (DVP or FOP), the funding of securities (pre-positioning)\nis created through the use of the  functionality of the T2S platform \"CoSD\nSecurities Blocking\" in the accounts of the Participant in delivery.\n\nFor securities receipt (RVP) the settlement is managed sending two settlement\ninstructions: a receive-free-of payment (RFP) for the securities and a payment\nfree-of-delivery (PFOD) to debit the cash on the DCA account of the Participant\nwho buy the  securities and to  credit the Monte  Titoli cash account  . The\nsettlement  of  this Instruction  is subject to regulation  of the corresponding\nInstruction receive-free-of-payment (RFP) of the original operation in receipt.\n\nThe processes of pre-funding and pre-positioning are performed at 7 am (CET)\non the settlement date. These processes are entirely managed by Monte Titoli\nthat provides full information to the participants through the X-TRM.\n\nThe process is put on hold by Monte Titoli until ISD and released to the Foreign\nSettlement System for settlement at ISD, only on condition that the coverage is\nmade available and taken into account the opening hours of the relevant Foreign\nSettlement System.\n\nThe  availability of securities or cash on the participants’ accounts does not\nensure the settlement of the transaction, since, should the counterparty not\nmatch the transactions in due time, or should it not provide the cash or securities\nrequired  for the settlement, the transaction  will remain pending within the\nForeign Settlement System.\n\nThe provision of securities or cash remains blocked  until settlement of the\ntransaction. If the participant wishes to make use of the funding  it is necessary\nto cancel the transaction.\n\nThe cancellation request may be input by the participant, in compliance with the\noperating  rules  of  the  Foreign  Settlement  System  and  as  provided  for\ncancellation requests sent through X-TRM.\n\n\n\n2.3.4 Routing of transactions to the Cross-Border Settlement Systems.\n\nThe transactions input into the Service are final and irrevocable according to\ntimings and rules in force within the Foreign Settlement Systems within which\nthe transactions are to be settled.\n\nThe transactions are routed   to the Foreign Settlement Systems  for  their\nsettlement at ISD.\n\n\n\n\n\n29\n\n\n\n[PDF page 34]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\nIn case of unavailability of  the balance on the accounts, the transaction will be\nput on hold and re-processed daily until the until the creation of the balance on\nthe account.\n\nThe instructions with a deferred ISD will be put on hold when entered into Monte\nTitoli service.\n\nInstructions  received  at  ISD  after  the  hours  specified  in  the  Operating\nDocuments sent  to the  Foreign Settlement System  for  settlement on  the\nfollowing business day. Instructions received after the hours specified in the\nOperating Documents, to be settled the same day may nonetheless be routed by\nMonte Titoli to the Foreign Settlement System, if this is allowed by the automatic\nrouting procedures.\n\nThe partial execution of transactions (so-called partial delivery)  is possible  if\nallowed by the rules of the Foreign Settlement Systems, and the corresponding\nprocedures are set out in the Operating Documents.\n\nTransactions are managed individually, i.e. without netting.\n\nDVP transactions can only be settled in Euro.\n\nIf the transfer of cash related to settlement of a securities selling transaction, or\nto the  cancellation  of a purchase  transaction  already sent  to the  Foreign\nSettlement System but still awaiting settlement cannot be carried out within the\nsettlement/cancellation accounting day due to expiry of the Service cut-off times,\ncash  will be  transferred on  the  following  business day  without  overnight\ninterests.\n\nThe Service does not carry out any verification regarding holding restrictions or\nthe enforceability of rights deriving from the possession of financial instruments\nwhich may be envisaged by the issuers.\n\n\n\n2.3.5 Reporting on the transactions submitted for settlement\n\nThe  Service  provides the  reporting regarding the  capturing, matching and\nsettlement of the transactions and movements on securities accounts through\nthe same channels used by participants to input the transactions.\n\nCash settlement reporting is transmitted by T2S.\n\nThe reporting referring to the cancellation of transaction is provided through the\nsame channels used by the participants to submit the transactions.\n\n\n\n\n\n30\n\n\n\n[PDF page 35]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\n2.3.6 DVP and FOP  transactions  related  to  financial  instruments\nundergoing corporate actions\n\nIn case of transactions related to financial instruments undergoing corporate\nactions, Monte  Titoli may  apply  time  limits  (cut-off). Such  limits  will be\ncommunicated from time to time through Service Notices.\n\nIn case of transactions traded “cum”,  for which the settlement is carried out\n“ex”, the related claim will be managed by the counterparties, unless Monte Titoli\nis involved in the processing of the market claim carried out by the Foreign\nSettlement System.\n\n\n\n\n\n31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "investor_csd_definition"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "t2s-posting",
+          "title": "Posting checks eligibility and resources before transfer",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.1.8.1 and first overview paragraph; PDF 303–304",
+              "pdf_pages": [
+                303,
+                304
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.1.8.1 and first overview paragraph; PDF 303–304",
+              "text": "1.6.1.8 Posting\n\n\n 2    1.6.1.8.1 Concept\n\n 3   The posting application process checks if the settlement of Settlement Instructions, Settlement Restrictions\n 4   and Liquidity Transfers can be achieved considering their eligibility to settlement and the available resources.\n\n 5    In case of high concentration of Settlement Instructions on the same resource (i.e. debiting the same DCA,\n 6    debiting or crediting the same SAC not allowed to be negative), the Settlement Instructions could be\n 7   grouped without any business links between one another.\n\n 8     It may resort to the optimising application process if needed for the settlement (See section Optimising\n 9    [ 335]).\n\n10   When the check is satisfactory, the posting application process updates the cash balance, securities position\n11   and limit headroom, resulting in the irrevocability of the settlement.\n\n12                           DIAGRAM 81 - SETTLEMENT APPLICATION PROCESSES / POSTING\n\n\n\n\n\n13\n\n14    1.6.1.8.2 Overview\n\n15    Settlement Instructions, Settlement Restrictions and Liquidity Transfers, sent by the T2S Actors or automati-\n16     cally generated by T2S, are submitted to the posting application process at the Intended Settlement Date.\n\n\n\n\n                                                                                            Page 303 of 2017\n\n\n\n[PDF page 304]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1"
+            }
+          ]
+        },
+        {
+          "id": "t2s-realignment",
+          "title": "Realignment generation, CSD roles and all-or-none relationship",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [
+            "Actual links/accounts and ISIN eligibility require verification.",
+            "Does not establish atomicity of an arbitrary two-security swap or describe every action outside T2S."
+          ],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.1.10; concepts and reference-data requirements; PDF 373–376",
+              "pdf_pages": [
+                373,
+                374,
+                375,
+                376
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.1.10; concepts and reference-data requirements; PDF 373–376",
+              "text": "1.6.1.10 Realignment\n\n\n 2    1.6.1.10.1 Concept\n\n 3   The realignment application process handles the cases of:\n\n 4         l  Cross-CSD settlements, i.e. settlements between T2S Actors of different CSDs, the latter being in T2S;\n\n 5         l  External-CSD settlements, i.e. settlements between T2S Actors of different CSDs, with some of the CSDs\n 6        involved in the settlement being external to T2S.\n\n 7    Cross-CSD settlement is achieved in T2S with the simultaneous booking of cash and securities for Settlement\n 8    Instructions between participants of different CSDs. Once incoming Settlement Instructions are matched (or\n 9    validated for already matched incoming Settlement Instructions), the realignment application process creates\n10    automatically all the requested Settlement Instructions between the involved CSDs, referred hereafter as\n11   T2S generated realignment Settlement Instructions. This automatic generation relies on links set in the ref-\n\n\n                                                                                            Page 373 of 2017\n\n\n\n[PDF page 374]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1    erence data between the relevant CSDs and does not request from the T2S Actors any other action. It takes\n 2    place immediately following either the validation of already matched Settlement Instructions, or the match-\n 3    ing of Settlement Instructions matching in T2S.\n\n 4    Realignment application process is also applied for external-CSD settlement.\n\n 5    This section details the parameters required from T2S Actors to manage the realignment in T2S for cross-\n 6   CSD and external-CSD settlement. It also details the resulting realignment chain with the description of the\n 7   T2S generated realignment Settlement Instructions reported to the involved T2S Actors.\n\n 8    For external-CSD settlement, only the process applying to the Settlement Instructions actually submitted to\n 9   T2S is described. All actions required by the realignment but without interaction with T2S are not described.\n\n10                               DIAGRAM 85 - REALIGNMENT APPLICATION PROCESS\n\n\n\n\n\n11\n\n12    1.6.1.10.2 Overview\n\n13   Upon the matching of Settlement Instructions, or upon the validation of already matched Settlement Instruc-\n14    tions, the realignment application process verifies if the incoming business Settlement Instructions are re-\n15    quiring realignment Settlement Instructions on securities accounts other than those of the submitting T2S\n16    Actors (e.g. on the accounts of the issuer CSD).\n\n\n\n\n\n                                                                                            Page 374 of 2017\n\n\n\n[PDF page 375]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1   When the need to realign is identified, the realignment application process creates automatically the T2S\n 2    generated realignment Settlement Instructions, based on the cross-CSD links set by CSDs in the reference\n 3    data.\n\n 4   The T2S generated realignment Settlement Instructions are then validated, and linked to the initial underly-\n 5    ing Settlement Instructions through two links INFO providing the references of both business Settlement\n 6    Instructions for information purposes. T2S ensures that the T2S generated realignment Settlement Instruc-\n 7    tions and their business Settlement Instructions settle on an all-or-none basis.\n\n\n 8    1.6.1.10.3 Realignment process\n\n 9   Parametersnecessaryforrealignment\n\n10    Role and links between CSDs for cross-CSD and external-CSD settlement\n\n11    Irrespective of whether it is a cross-CSD or an external-CSD settlement, a CSD is defined for the realignment\n12    process as:\n\n13         l  The issuer CSD, when it is the CSD in which the security has been issued and distributed on behalf of\n14       the Issuer;\n\n15         l  The investor CSD, when it is the CSD of at least one party of the Settlement Instruction;\n\n16         l  Or both, when it is the CSD in which the security has been issued and the CSD of at least one party of\n17       the Settlement Instruction.\n\n18   To manage the cross-CSD and external-CSD settlements, each investor CSD has the choice between:\n\n19         l  Opening an omnibus account (see section below) in the books of the issuer CSD to reflect the holdings\n20        of its participants for the securities, or;\n\n21         l  Opening an omnibus account in the books of any other CSD being already an investor CSD for the same\n22         financial instrument.\n\n23    In both cases, the CSD where the omnibus account is opened is defined as the technical issuer of the inves-\n24    tor CSD for the given securities. For a given ISIN, an investor CSD can define several such investor-type CSD\n25     links, meaning that it can define several technical issuer CSDs for a given ISIN. However, one of those links\n26    (and only one) should be given the preference for settlement under simple configurations (all CSDs in T2S,\n27   no multi-issuance), this is the “default” link. Under more complex configurations (external CSD configuration,\n28    multi-issuance), the preference should go first to one of the other “alternative” links, more specifically the\n29   one pointing to the counterpart CSD, in case it is set up in the reference data. If T2S cannot find an alterna-\n30     tive link to the counterparty CSD or if such an alternative link is found, but unusable due to a missing static\n31    data (i.e. invalid or incomplete configuration of CSD Account Links), T2S reverts back to the valid default\n32     links should be used also under those complex configurations.\n\n33    Only one link, whether default or alternative, can be set up towards a given technical issuer CSD for a given\n34    investor CSD and a given ISIN at the same point in time.\n\n35   The issuer-type CSD link cannot be an alternative link, it has always to be defined as a “default” link. Only\n36    investor-type links can be flagged “alternative”. Those links cannot be defined for an investor CSD outside\n37   T2S and they cannot point to a technical issuer CSD outside T2S.\n\n\n\n                                                                                            Page 375 of 2017\n\n\n\n[PDF page 376]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1   To that purpose, CSDs are required to configure the following set-up in the reference data:\n 2\n\n               PARAMETERS                                      DEFINITION\n\n        Security CSD links                   Each investor CSD has to define at least one technical issuer CSD per securities\n                                                                            it intends to set as eligible for settlement (See section Securities reference data\n                                              [ 71]). This results in the creation of one or several links between the investor\n                                   CSD and its technical issuer CSD(s) for a given financial instrument.\n\n                                  Among those links, one (and only one) should be flagged “default”, the other\n                                         ones being considered “alternative”.\n\n                                      The alternative links can only be set up for T2S-in investor CSDs, pointing to a\n                                             T2S-in technical issuer CSD.\n\n                                             For a given investor CSD and a given ISIN, only one link (either default or al-\n                                                  ternative) should point to a given technical issuer CSD.\n\n                                             For a given investor CSD, the technical issuer CSD may be different for each\n                                                    security. It is in most cases the issuer CSD of the security.\n\n                                      The issuer CSD sets a CSD link with itself as issuer. This link cannot be an al-\n                                                 ternative one, it is always a default one.\n\n                                           (See section Configuration of securities accounts for cross-CSD settlement and\n                                                external CSD settlement [ 97])\n\n 3    This set-up is used by T2S to derive the realignment chain applicable to matched Settlement Instructions\n 4    starting either from both investor CSDs (delivering and receiving) up to the issuer CSD(s) of the traded secu-\n 5     rities when default links are used, or from the delivering investor CSD up to the receiving investor CSD (or\n 6    vice versa) when alternative links are used.\n\n 7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "EU",
+        "service": "regulatory",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "issuer_investor_csd_definitions"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "rts392-issuer-investor-csd",
+          "title": "RTS 2017/392 Article 1 definitions: issuer CSD and investor CSD (English OJ text)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "EU"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Legal context, not local procedures or Norway incorporation. Future amendments remain separate.",
+            "Partial browser capture of the original act; the consolidated EN page returned German text on 14 September 2026, so the library's consolidated capture is language-mislabelled.",
+            "Roles depend on the security and relationship: one CSD can be issuer CSD for one issue and investor CSD for another."
+          ],
+          "citations": [
+            {
+              "source_id": "32017R0392-en-article1",
+              "title": "Commission Delegated Regulation (EU) 2017/392 — English OJ text, Article 1 definitions (browser excerpt)",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0392",
+              "source_sha256": "c3c8b3defce8898147f35d4df64e61334cb3b1aadb2259a166367418bffa861a",
+              "source_path": "implementation/2026-09-14-settlement-agent/sources/32017R0392-EN-article1-browser-excerpt.txt",
+              "locator": "Regulation 2017/392 Article 1(a)–(g); OJ L 65, 10.3.2017; browser excerpt",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": "EU official languages",
+              "translation_status": "original or official-language text",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "OJ L 65, 10.3.2017",
+              "publication_date": "2017-03-10",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "32017R0392-en-article1",
+              "locator": "Regulation 2017/392 Article 1(a)–(g); OJ L 65, 10.3.2017; browser excerpt",
+              "text": "Article 1\n\nDefinitions\n\nFor the purposes of this Regulation, the following definitions apply:\n\n(a)\n\n\t\n\n‘review period’ means the period under review beginning on the day following the end of the previous review and evaluation period;\n\n(b)\n\n\t\n\n‘settlement instruction’ means a transfer order as defined in point (i) of Article 2 of Directive 98/26/EC of the European Parliament and of the Council (4);\n\n(c)\n\n\t\n\n‘settlement restriction’ means the blocking, reservation or earmarking of securities that make them unavailable for settlement, or the blocking or reservation of cash that make it unavailable for settlement;\n\n(d)\n\n\t\n\n‘exchange-traded fund’ (ETF) means a fund as defined in point (46) of Article 4(1) of Directive 2014/65/EU of the European Parliament and of the Council (5);\n\n(e)\n\n\t\n\n‘issuer CSD’ means a CSD which provides the core service referred to in point 1 or 2 of Section A of the Annex to Regulation (EU) No 909/2014 in relation to a securities issue;\n\n(f)\n\n\t\n\n‘investor CSD’ means a CSD that either is a participant in the securities settlement system operated by another CSD or that uses a third party or an intermediary that is a participant in the securities settlement system operated by another CSD in relation to a securities issue;\n\n(g)\n\n\t\n\n‘durable medium’ means any instrument which enables the storage of information in a way that is accessible for future reference for a period of time adequate for the purposes of the information, and allows the unchanged reproduction of the information stored."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

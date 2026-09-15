@@ -1,0 +1,45 @@
+{
+  "case_id": "E37",
+  "category": "participation",
+  "question": "Which categories of entity may participate in the Monte Titoli settlement service, and can one of my clients be recognised as an indirect participant?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_settlement_scope_and_participants"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_connectivity_and_static_data"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan"
+    ],
+    "topic_hits": [
+      "milan_connectivity_and_static_data",
+      "milan_settlement_scope_and_participants"
+    ],
+    "blocked_hits": [],
+    "dates": []
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "milan-connectivity-static-data",
+    "milan-settlement-characteristics"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

@@ -1,0 +1,126 @@
+{
+  "generated_at_utc": "2026-09-14T09:53:15.317812+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Oslo",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "oslo_finality_moments"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "oslo-edition-r2",
+          "title": "VPO NOK Rules cover: edition approval reservation (14 September re-verification)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Oslo"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Same page as the 13 September section oslo-edition; hub link and hash unchanged on 14 September 2026.",
+            "System approval is not edition-specific approval. Independent edition approval remains unresolved (gap G07)."
+          ],
+          "citations": [
+            {
+              "source_id": "14dc34b8e54e",
+              "title": "ES-OSL VPS NOK Rules.pdf",
+              "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+              "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+              "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+              "locator": "VPO NOK Rules cover, 2 September 2024",
+              "pdf_pages": [
+                1
+              ],
+              "body_language": "en",
+              "authoritative_language": "no",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "14dc34b8e54e",
+              "locator": "VPO NOK Rules cover, 2 September 2024",
+              "text": "[PDF page 1]\n\n   EURONEXT SECURITIES OSLO\n\n\n\n\n\n        VPO NOK RULES\n\n\n\n\n\nTHIS DOCUMENT IS A TRANSLATION FROM THE ORIGINAL NORWEGIAN VERSION. IN THE EVENT OF ANY\n\nDISCREPANCIES, THE ORIGINAL NORWEGIAN DOCUMENT WILL PREVAIL.\n\n\n\n\n\nENTERED  INTO  FORCE ON  02.09.2024.  SUBJECT  TO  APPROVAL  BY\n\nFINANSTILSYNET.\n\n\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                          1 of 58"
+            }
+          ]
+        },
+        {
+          "id": "oslo-finality-moments",
+          "title": "VPO NOK: irrevocability on matching, CCP close-out exception, hold provisions and the moment of entry (§§23.1–23.3)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Oslo"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "English translation; Norwegian text governs and the edition's approval reservation applies.",
+            "VPO NOK is a Norwegian netting system outside T2S; T2S lifecycle rules do not apply."
+          ],
+          "citations": [
+            {
+              "source_id": "14dc34b8e54e",
+              "title": "ES-OSL VPS NOK Rules.pdf",
+              "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+              "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+              "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+              "locator": "VPO NOK Rules §§23.1–23.3; PDF 36–37",
+              "pdf_pages": [
+                36,
+                37
+              ],
+              "body_language": "en",
+              "authoritative_language": "no",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "14dc34b8e54e",
+              "locator": "VPO NOK Rules §§23.1–23.3; PDF 36–37",
+              "text": "23 PROCESSING OF SETTLEMENT INSTRUCTIONS\n\n\n23.1 WHEN SETTLEMENT INSTRUCTIONS CAN NO LONGER REVOKED\n\nOnce a Settlement Instruction has been Matched, it cannot be revoked unless both the Participants\ninvolved in the trade in question send instructions to cancel their respective Settlement Instructions\n(the moment of irrevocability, cf. Article 39, item 2, of the CSDR). This takes place by means of\none Participant submitting a cancellation instruction that is then confirmed by the other Participant\ninvolved. The other Participant’s confirmation of the cancellation must be received prior to the Start\nof the Settlement cycle in which the Settlement Instruction in question was to be processed.\n\nA Settlement Instruction for a transfer between a Participant and a Participant approved as a Central\nCounterparty, and between two participants approved as Central Counterparties may be cancelled\nunilaterally by the Central Counterparty, even after the transaction has been submitted. The first\nsentence only applies if this is connected with the Central Counterparty carrying out a close-out of\nthe Participant in question on the basis of an agreement on the pledging of financial collateral\nbetween the Participant and the Central Counterparty, cf. the Act on Financial Collateral of 26\nMarch 2004 No. 17. Close-out has the effect that the Participant's duties to deliver financial\ninstruments and cash (liquidity) pursuant to Settlement Instructions that have been submitted are\ncancelled with immediate effect, and are replaced by the calculation and netting of the monetary\namounts denominated in Norwegian kroner that the Participant is due to pay to/receive from the\nCentral Counterparty.\n\nSettlement Instructions that do not require Matching, i.e. Settlement Instructions for transactions\nwith parties other than Participants in VPO NOK, cannot be revoked after the Start of Settlement in\nwhich the Settlement Instruction in question is to be processed.\n\n\n\n\n23.2 SPECIAL PREVISIONS ON TRANSACTIONS THAT ARE OR HAVE BEEN PUT\n   ON HOLD\n\nA Settlement Instruction can be put on Hold by the participant who submitted the Settlement\nInstruction. This can be done also after the Settlement Instruction has been Matched.\n\nA Settlement Instruction that has been put on Hold will not be settled until the Participant that\nsubmitted it marks it as Released.\n\nThe rules in Section 23.1 regarding when a Settlement Instruction can no longer be revoked also\napply to Settlement Instructions that have been put on Hold by one or both Participants involved.\n\n\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                         36 of 58\n\n\n\n[PDF page 37]\n\n23.3  THE POINT IN TIME WHEN A SETTLEMENT INSTRUCTION IS DEEMED TO\n    HAVE BEEN ENTERED INTO VPO NOK (THE MOMENT OF ENTRY INTO THE\n     SYSTEM, CF. THE CSDR, ARTICLE 39, ITEM 2).\n\nA Settlement Instruction has the status of being entered into the system once it has been Matched.\nThis does not, however, apply to Settlement Instructions that have been put on Hold by one or both\nof the Participants involved either before or after Matching. A Settlement Instruction that is put on\nHold by one or both Participants is first considered to be entered into the system once both\nParticipants have marked it as Released.\n\nSettlement Instructions that do not require Matching, i.e. Settlement Instructions for transactions\nwith parties other than Participants in VPO NOK, are considered to have been entered into the\nsystem from the Start of Settlement in which the Settlement Instruction in question is to be\nprocessed, provided it has not been put on Hold."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

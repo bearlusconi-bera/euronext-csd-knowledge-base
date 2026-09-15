@@ -1,0 +1,47 @@
+{
+  "question": "Once T2S says matched, is my Milan client's DvP settled?",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan",
+      "T2S"
+    ],
+    "topic_hits": [
+      "matching_concept"
+    ],
+    "blocked_hits": [],
+    "dates": []
+  },
+  "runtime": "manual",
+  "model": null,
+  "statuses": [
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "milan-finality",
+    "t2s-matching",
+    "t2s-posting"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "started_utc": "20260914T094749Z",
+  "answer": null,
+  "instructions": "Manual/agent runtime: compose the answer from prompt.user.md under prompt.system.md, save it as answer.md in this folder, then run: settlement_agent.py check --answer answer.md --bundle bundle.json --question '...' --out checks.json"
+}

@@ -1,0 +1,27 @@
+{
+  "as_of": "2026-09-13",
+  "section_count": 124,
+  "source_count": 51,
+  "whole_document_admission": false,
+  "review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "verification_output_dir": "implementation/2026-09-14-settlement-agent/verification",
+  "files": {
+    "retrieval/admitted-sections.jsonl": "ce825deff6f246793852e48944b8e76146a4bc8cf392c1a3a7fbcd4cce1b6338",
+    "retrieval/section-decisions.json": "8adfc2e9571540e0d960a6453e83e46b394f074a656bea4e50fae83c2be35512",
+    "retrieval/source-register.json": "91be63a8fdee033fb83e75dbe38b16fecb036b8920c7cbb67cf4b01ae4fd19fb",
+    "scripts/retrieve_evidence.py": "d466550a8bfeecce7fc18ba853e011c12cb4d36a003c65e70026903d3d8a059a",
+    "scripts/build_retrieval.py": "3884d7123b10078c5e27a815bd333f3de425fdaeeb9967b0adbcd6749a49b481",
+    "retrieval/exports/2026-09-13/current.jsonl": "125df8aaedf2b67ff356941204ed908d472b809a7afa15664279d860abcc6cb5",
+    "retrieval/exports/2026-09-13/future.jsonl": "bfa04d83acd248f6193245deca240829d844ac8f5a5af07b445c9a84ea1a71df",
+    "retrieval/exports/2026-09-13/reference.jsonl": "59b665088bbe24cb2ec8f3e1ea2970a55f3e626d466641d705fa60496ac64789",
+    "retrieval/exports/2026-09-14/current.jsonl": "ab254bc1ab4bbe0f7ae88101417c4dc6fc27584560b3a5f77e5e50619884602f",
+    "retrieval/exports/2026-09-14/future.jsonl": "9c9e2bf3d126efe01b721ffe395d67636f76d66bd80652939671b42333c2f9cb",
+    "retrieval/exports/2026-09-14/reference.jsonl": "60bc9573e002006c028c553d3295db9c1e4be9e24cf3bbcd3761f332c0ec4e16",
+    "retrieval/exports/current.jsonl": "9517c87077f6ac6abb2aa3e8018c4802cd765b353a0a0f2436bae0def52889ac",
+    "retrieval/exports/future.jsonl": "81a08cd3a51aefad84b7e883e28b11961a617f32277bc3170a1d348f079a5921",
+    "retrieval/exports/reference.jsonl": "4e0d42930624d683f0d28d2b529cdf707562e6cf1520c4c6cbb6c083dc71c808"
+  }
+}

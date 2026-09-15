@@ -1,0 +1,7 @@
+{"scores": {"routing_scope": 2, "evidence_selection": 2, "citation_entailment_locators": 2, "preserved_qualifications": 2, "completeness": 2, "no_unsupported_claims": 2, "justified_abstention": 2, "label_discipline": 2},
+ "must_not_violations": [],
+ "key_points_missing": [],
+ "citation_problems": [],
+ "unsupported_claims": [],
+ "verdict": "pass",
+ "reason": "The answer opens with 'There is no evidence reviewed as of 15 September 2026' and reproduces the needs_refresh status verbatim ('No reviewed evidence for this knowledge date. Revalidate the relevant sources before advancing their review date'), refusing to relabel the 14 September snapshot. The supportable part is answered from Table 37 (PDF 160-161), which reads '20:00 - 3:00 | Night-time settlement (NTS)', with every quoted clock time (18:45, 20:00, 3:00, 5:00, 18:00, 20:20, 00:00) present in the passage and the 20:00 figure labelled as the planned/baseline time under the three-time model of 1.4.2 ('The planned time corresponds to the standard schedule applied by default by T2S for every settlement day'). All three LIMITATION lines ('Nominal schedule is not guaranteed execution or a local participant cut-off...', 'CET is the source convention; no UTC conversion', 'Same pages as the 13 September section t2s-schedule; source bytes re-fetched and hash-identical on 14 September 2026'), release R2026.JUN, the 14 September section review with 13 September source review, 'authoritative language None' and the approval reservation are all preserved; the MOP is correctly named as not in the bundle."}

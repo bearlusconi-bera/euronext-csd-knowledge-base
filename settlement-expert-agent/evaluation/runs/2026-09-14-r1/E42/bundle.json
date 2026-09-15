@@ -1,0 +1,99 @@
+{
+  "generated_at_utc": "2026-09-14T09:57:23.617566+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "Athens",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "athens_dss_technical_cycles"
+      },
+      "router_notes": {},
+      "status": "blocked",
+      "reason": "DSS technical announcements defining cycles, cut-offs and formats are not in reviewed evidence.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": [
+        "G12"
+      ],
+      "topic_review_dates": null,
+      "evidence": []
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Athens",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "athens_settlement_methods"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "athens-settlement-methods",
+          "title": "Settlement methods, cash blocking and delegation of technical details to DSS announcements (Part 2)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Athens"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Informational English translation; the Greek text prevails. Resolution 5 codified to 24 November 2025 (effective 8 December 2025).",
+            "Business hours, cycles and algorithm specifics are announced through the DSS and are not in the library (gap G12)."
+          ],
+          "citations": [
+            {
+              "source_id": "410859953fce",
+              "title": "ATHEXCSD Resolution 5",
+              "source_url": "https://athens.euronext.com/sites/default/files/2025-12/RESOLUTION_Nr5-ATHEXCSD_383_24.11.2025_FORCE%208.12.2025.DOC.pdf",
+              "source_sha256": "4ebc4905414cd0ce1bbdfd92a44c4d42c72a1f898ab8d6c0a0d2c22a2139f56e",
+              "source_path": "sources/documents/410859953fce-ATHEXCSD-Resolution-5.pdf",
+              "locator": "Resolution 5 Part 2 §§2.1–2.2; PDF 4",
+              "pdf_pages": [
+                4
+              ],
+              "body_language": "en",
+              "authoritative_language": "el",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "Resolution 5: effective 8 December 2025.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "410859953fce",
+              "locator": "Resolution 5 Part 2 §§2.1–2.2; PDF 4",
+              "text": "PART 2. Settlement Methods\n\n2.1 Settlement methods\nATHEXCSD settles transactions on the basis of the settlement methods laid down in Section V of the\nRulebook and the provisions of Commission Delegated Regulation (EU) 2017/392 and Commission\nImplementing Regulation (EU) 2017/394.\n\nFor the purposes of cash settlement, ATHEXCSD blocks cash balances in the Cash Settlement Accounts.\nSpecifically in the case of cash settlement carried out in TARGET-GR with the participation of Settlement\nBanks, the aforesaid balances are blocked through TARGET-GR in the respective Sub-accounts kept by\nSettlement Banks for Participants.\n\n\n2.2 Technical details\nAny procedural or technical details relating to settlement operations, as set forth in the Rulebook and this\nResolution, for instance with respect to settlement methods, the business hours and performance of\nsettlement, the particular specifications of the settlement algorithm, or the number and duration of\nsettlement cycles, shall be determined in accordance with the technical procedures of ATHEXCSD which\nare announced by ATHEXCSD to Participants through the DSS or by any other appropriate means of\nnotifying and communicating with them."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

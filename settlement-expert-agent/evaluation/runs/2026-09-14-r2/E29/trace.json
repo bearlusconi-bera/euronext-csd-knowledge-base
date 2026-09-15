@@ -1,0 +1,46 @@
+{
+  "case_id": "E29",
+  "category": "explanation",
+  "question": "Which data must an Athens (ATHEXCSD) participant include in a DSS settlement instruction, and how far in the past or future may the intended settlement date be?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "Athens",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "athens_instruction_content_matching"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Athens",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "athens_settlement_methods"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Athens"
+    ],
+    "topic_hits": [
+      "athens_instruction_content_matching",
+      "athens_settlement_methods"
+    ],
+    "blocked_hits": [],
+    "dates": [],
+    "router_revision": "v1.1"
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "athens-instruction-content",
+    "athens-settlement-methods"
+  ],
+  "build_manifest_sha256": "ed577c2eb315cf1592c3809547ea83f309034d3ac955896540fc39d5b0ebbf91",
+  "answer": null,
+  "responder": null
+}

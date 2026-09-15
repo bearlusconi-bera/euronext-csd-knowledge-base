@@ -1,6 +1,6 @@
 # How Euronext’s CSDs work
 
-Research synthesis, **11 September 2026**. Read this with the linked local rules. It explains the architecture and the practical questions a knowledge base should answer; it is not a determination of a particular firm’s permissions.
+Research synthesis, **11 September 2026**, corrected after the 13 September audit. **This is a derivative learning guide; only named sections in [the evidence register](retrieval/README.md) are admitted for retrieval.** Read this with the linked local rules. It explains the architecture and the practical questions a knowledge base should answer; it is not a determination of a particular firm’s permissions.
 
 ## Five CSDs, with separate local operating rules
 
@@ -16,7 +16,7 @@ Euronext’s current CSD group includes Athens, Copenhagen, Milan, Oslo and Port
 
 Sources: [Athens Resolution 5, PDF pp. 3–4](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/410859953fce-ATHEXCSD-Resolution-5.pdf>); [Copenhagen Part 4, PDF pp. 3–6](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/3d76a327339b-Part-4-Settlement-Rules-PDF.pdf>); [Milan Service Regulations](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf>); [Oslo VPO NOK, PDF pp. 13–19](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf>); [Porto Operational Manual, PDF pp. 15–17](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/089b7aaef991-Operational-Manual-of-INTERBOLSA.pdf>). Oslo’s linked English VPO copy retains an approval qualification; see the currentness register.
 
-For authorisation questions, consult the **ESMA register dated 2 September 2026**, especially the authorisations, links and passports tabs. Some CSDs have several decision rows. Do not collapse those rows to a single initial authorisation. The workbook identifies recent Milan extensions, including a July 2026 decision. [Saved ESMA register](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/535f6a23062a-CSD-Register.xlsx>) and [official register landing page](https://www.esma.europa.eu/document/csd-register).
+For authorisation questions, consult the **ESMA register dated 2 September 2026**, especially the authorisations, links and passports tabs. Some CSDs have several decision rows. Do not collapse those rows to a single initial authorisation. The July 2026 Milan row concerns the UK Stamp Duty ancillary service; it does not establish a new general settlement permission. [Saved ESMA register](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/535f6a23062a-CSD-Register.xlsx>) and [official register landing page](https://www.esma.europa.eu/document/csd-register).
 
 ## The three core functions
 
@@ -41,7 +41,7 @@ Operational source trail: [Milan Settlement Instructions](</Users/mattiadalessan
 
 CSDR favours the relevant central-bank accounts where practical and available, while providing a framework for other cash arrangements. A technical connection does not itself provide cash, credit or a settlement-bank relationship. Treat currency, cash account, provider and funding responsibility as separate data fields. [CSDR, consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117), Articles 40 and 54.
 
-In Oslo, the reviewed rules describe settlement participants, liquidity banks and substitute arrangements. A substitute-liquidity-bank declaration is expressly not a funding guarantee. In Porto, affiliation procedures include appropriate cash-settlement account arrangements. These are concrete reasons to model liquidity dependencies in a participant knowledge base. [Oslo VPO NOK, PDF pp. 16–19](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf>); [Porto Manual, PDF pp. 15–17](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/089b7aaef991-Operational-Manual-of-INTERBOLSA.pdf>).
+In Oslo, the reviewed rules describe settlement participants, liquidity banks and substitute arrangements. The published substitute-liquidity-bank declaration does not itself impose a duty to make cash available. This description is qualified by the unresolved approval reservation on the particular VPO NOK edition; it is not a certification of binding current duties. In Porto, affiliation procedures include appropriate cash-settlement account arrangements. These are concrete reasons to model liquidity dependencies in a participant knowledge base. [Oslo VPO NOK, PDF pp. 16–19](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf>); [Porto Manual, PDF pp. 15–17](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/089b7aaef991-Operational-Manual-of-INTERBOLSA.pdf>).
 
 ## Accounts, segregation and ownership
 
@@ -56,6 +56,9 @@ Corporate events include cash or securities distributions, reorganisations and e
 The July 2026 T+1 corporate-events guide is particularly useful for understanding how a shorter cycle changes key dates, market claims, transformations and buyer protection. Its purpose is future implementation. [AMI-SeCo T+1 Corporate Events Guide, PDF pp. 1–5](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/a46c6c66a0e4-T-1-Corporate-Events-Harmonised-Implementation-Guide.pdf>).
 
 ## T2S and cross-border links
+
+For the reviewed actor/message sequence, use [the bounded cross-CSD explanation](CROSS-CSD-FLOW.md). Matching is distinct from transfer, but has the SF2 legal effect described in Milan Article 72(2), qualified by bilateral cancellation under Article 70(2). The conflicting Milan timetable passages are quarantined; T2S baseline times are not local participant submission deadlines.
+
 
 T2S provides common settlement infrastructure. The local CSD relationship, account responsibilities and applicable rules still matter. Porto’s manual distinguishes directly connected participants (DCPs) from indirectly connected participants (ICPs). Direct technical access does not remove the CSD’s oversight. [Porto Manual, PDF pp. 15–17](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/sources/documents/089b7aaef991-Operational-Manual-of-INTERBOLSA.pdf>).
 

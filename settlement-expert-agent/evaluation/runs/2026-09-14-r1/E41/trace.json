@@ -1,0 +1,104 @@
+{
+  "case_id": "E41",
+  "category": "future-programme",
+  "question": "From 21 September 2026, where do Euronext Paris equity trades settle and what is the first intended settlement date under the new model?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "future",
+      "question_type": "european_offering_go_live"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "future",
+      "question_type": "milan_securities_migration_event"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "EU",
+      "service": "regulatory",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "settlement_cycle"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "EU",
+      "service": "regulatory",
+      "role": "participant",
+      "mode": "future",
+      "question_type": "future_t1"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "T2S"
+    ],
+    "topic_hits": [],
+    "blocked_hits": [],
+    "dates": [
+      "2026-09-21"
+    ],
+    "responder_reroute": {
+      "previous_contexts": null,
+      "applied": true
+    }
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "csdr-5",
+    "milan-european-offering-golive",
+    "milan-securities-migration-sep23",
+    "t1-law"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null,
+  "original_contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "future",
+      "question_type": "european_offering_go_live"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "future",
+      "question_type": "milan_securities_migration_event"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "EU",
+      "service": "regulatory",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "settlement_cycle"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "EU",
+      "service": "regulatory",
+      "role": "participant",
+      "mode": "future",
+      "question_type": "future_t1"
+    }
+  ],
+  "original_contexts_recovered": [],
+  "original_contexts_note": "Recovered post hoc by the maintainer on 2026-09-14: reroute_case.py recorded original_contexts after overwriting contexts, so the stored original_contexts equals the rerouted contexts. Recovered via deterministic_route(question) with the unchanged topic index (build manifest f9493d10a6f6)."
+}

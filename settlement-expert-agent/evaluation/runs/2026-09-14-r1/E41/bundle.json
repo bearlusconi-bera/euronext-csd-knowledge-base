@@ -1,0 +1,297 @@
+{
+  "generated_at_utc": "2026-09-14T11:56:42.134374+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "future",
+        "question_type": "european_offering_go_live"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-european-offering-golive",
+          "title": "European Offering go-live confirmed for 21 September 2026: scope, MICs, alternative CSD choice and first ISD 23 September",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "future"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Operational/market notices are English communications by Euronext Securities Milan; they are not the Service Regulations or Instructions, and several carry a PRIVATE or INTERNAL USE ONLY footer despite public publication.",
+            "Announced go-live, not proof of live operation; place-of-settlement details for individual instruments require the programme documents."
+          ],
+          "citations": [
+            {
+              "source_id": "milan-mn-european-offering-golive",
+              "title": "MN_07/2026 Euronext European Offering: go-live confirmation (8 September 2026)",
+              "source_url": "https://www.euronext.com/sites/default/files/notices/monte-titoli/20260903%20Euronext%20Securities%20Milan%20Market%20Notice%20-%20EE_0.pdf",
+              "source_sha256": "4cbe6eee6484fb4e4176cc43b8b468555107d2135714956c3c2063cc93234f47",
+              "source_path": "implementation/2026-09-14-settlement-agent/sources/milan-mn-european-offering-golive.pdf",
+              "locator": "MN_07/2026 PDF 1–2",
+              "pdf_pages": [
+                1,
+                2
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": null,
+              "publication_date": "2026-09-08",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "milan-mn-european-offering-golive",
+              "locator": "MN_07/2026 PDF 1–2",
+              "text": "[PDF page 1]\n\n08 September 2026\nMN_07/2026\n\nEuronext European Offering: Go-Live\nconfirmation\n   To the attention of:                           All Participants\n\n\n   Priority:                                      High\n\n\n   Topic:                                         Euronext European Offering: Go-Live\n                                                   confirmation\n\n\n\n\nDear Client\n\nFurther to the Market Notice \"Euronext Securities to be designated as settlement\norganisation for Euronext equities and ETFs\" and the subsequent market\ncommunications issued throughout the implementation programme, Euronext\nSecurities Milan confirms that the go-live of the Euronext European Offering will\ntake place as planned on 21 September 2026.\n\nThis milestone represents a significant step in Euronext's strategy to further\nharmonise post-trade services across its markets, reduce settlement fragmentation\nand enhance the efficiency of the European post-trade infrastructure.\n\nScope:\n\nAs of this date, Euronext Securities Milan will become the designated place of\nsettlement for:\n\n     •    Equity trades executed on Euronext Amsterdam, Brussels and Paris markets;\n          and\n     •    ETP trades denominated in euro executed on Euronext Amsterdam and Paris\n          markets.\nThis publication is for information purposes only and is not a recommendation to engage in investment activities. This publication is\nprovided “as is” without representation or warranty of any kind. Whilst all reasonable care has been taken to ensure the accuracy of\nthe content, Euronext does not guarantee its accuracy or completeness. Euronext will not be held liable for any loss or damag es of\nany nature ensuing from using, trusting or acting on information provided. No information set out or referred to in this publication\nshall form the basis of any contract. The creation of rights and obligations in respect of financial products that are traded on the\nexchanges operated by Euronext’s subsidiaries shall depend solely on the applicable rules of the market operator. All proprietary\nrights and interest in or connected with this publication shall vest in Euronext. No part of it may be redistributed or reproduced in any\nform without the prior written permission of Euronext.\nEuronext refers to Euronext N.V. and its affiliates. Information regarding trademarks and intellectual property rights of Euronext is\nlocated at https://www.euronext.com/terms-use.\n© 2022, Euronext N.V. - All rights reserved.\n\n\n\n| 1 of 2\n\n\n\n[PDF page 2]\n\nThe migration applies to Equity and ETP transactions executed on the following\nMICs:\n   •   XAMS\n   •   XBRU\n   •   XPAR\n   •   MLXB\n   •   XMLI\n   •   ALXB\n   •   ALXP\nFor ETPs, the scope is limited to instruments traded in euro.\n\nTrading Members may designate an alternative settlement system in place of\nEuronext Securities Milan, as further described by Euronext Markets.\n\nTransactions executed on or after 21 September 2026 under the new model will\nhave 23 September 2026 as their first intended settlement date (ISD).\n\nSettlement agents should ensure that all required operational and settlement\narrangements are in place ahead of the migration date.\n\nFor physically settled equity derivatives, the place of settlement will remain aligned\nwith the underlying instrument and, where applicable, the resulting settlement will\nbe processed through Euronext Securities Milan.\n\nThe settlement arrangements applicable to other Euronext markets and to other\nasset classes, including bonds, certificates and warrants, remain unchanged.\n\nFurther information:\n\nFor further information, please contact your Relationship Manager or the Client\nOnboarding team.\n\n\nClient Onboarding Team\nE: CSD.Onboarding@euronext.com\n\n\nSales & Relationship Management\nE: MTsalesteam@euronext.com\n\n\n\n\n| 2 of 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "future",
+        "question_type": "milan_securities_migration_event"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-securities-migration-sep23",
+          "title": "ETP issuer-CSD migration on 23 September 2026 and handling of pending cross-CSD/external instructions",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "future"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Operational/market notices are English communications by Euronext Securities Milan; they are not the Service Regulations or Instructions, and several carry a PRIVATE or INTERNAL USE ONLY footer despite public publication.",
+            "The ISIN list referenced by the notice is not admitted."
+          ],
+          "citations": [
+            {
+              "source_id": "milan-on-securities-migration-3107",
+              "title": "ON_31/2026 Securities migration on 23 September 2026 (31 July 2026)",
+              "source_url": "https://www.euronext.com/sites/default/files/notices/monte-titoli/EE_ON%20pubblicazione_31.07%20v.%200.1%20ENG_1.pdf",
+              "source_sha256": "016b691a9d4d25342c947e1f03e50de14cf0ae4a06c86d05471af221b890b08d",
+              "source_path": "implementation/2026-09-14-settlement-agent/sources/milan-on-securities-migration-3107.pdf",
+              "locator": "ON_31/2026 PDF 1–2",
+              "pdf_pages": [
+                1,
+                2
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": null,
+              "publication_date": "2026-07-31",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "milan-on-securities-migration-3107",
+              "locator": "ON_31/2026 PDF 1–2",
+              "text": "[PDF page 1]\n\n31 July 2026\nON_31/2026\n\n\n\nSecurities migration\n\n\n   To the attention of:                           Intermediaries\n\n\n   Priority:                                      High\n\n\n   Topic:                                         Securities migration\n\n\n\nDear client,\n\nWe would like to inform you that on 23rd September 2026, the ETPs instruments listed in the\nfollowing ISINs list will be migrated as described below. The migration will take effect from the\nopening of business on Wednesday 23rd September 2026.\n\nSpecifically, the following migrations will apply only to the ETPs ISINs for which the Issuer CSD\nindicated in Column H of the above linked document corresponds to the values below:\n\n     •    Issuer CSD Euroclear Sweden: from Euroclear Bank to Euroclear France\n     •    Issuer CSD SIX-SIS: from Euroclear Bank to SIX-SIS\n     •    Issuer CSD Euroclear UK&I: from Euroclear Bank to Euroclear UK&I\n     •    Issuer CSD DTCC: from Euroclear Bank to DTCC\n\nThe following are the guidelines for managing settlement instructions relating to the migrated\nsecurities.\n\n     •    In T2S: Only Cross-CSD instructions sent to T2S by the migration date and which are\n          pending on 22nd September 2026, will be deleted from the T2S system without any action\n          by the client.\n     •    External: For transactions sent for settlement by the migration date and which are\n          pending on 22nd September 2026, and for transactions not sent for settlement by the\n          migration date, a cancellation request will be sent by Euronext Securities Milan.\nThis publication is for information purposes only and is not a recommendation to engage in investment activities. This publication is\nprovided “as is” without representation or warranty of any kind. Whilst all reasonable care has been taken to ensure the accuracy of\nthe content, Euronext does not guarantee its accuracy or completeness. Euronext will not be held liable for any loss or damag es of\nany nature ensuing from using, trusting or acting on information provided. No information set out or referred to in this publication\nshall form the basis of any contract. The creation of rights and obligations in respect of financial products that are traded on the\nexchanges operated by Euronext’s subsidiaries shall depend solely on the applicable rules of the market operator. All proprietary\nrights and interest in or connected with this publication shall vest in Euronext. No part of it may be redistributed or reproduced in any\nform without the prior written permission of Euronext.\nEuronext refers to Euronext N.V. and its affiliates. Information regarding trademarks and intellectual property rights of Euronext is\nlocated at https://www.euronext.com/terms-use.\n© 2022, Euronext N.V. - All rights reserved.\n\n\n\n| 1 of 2\n\n                                                             PRIVATE\n\n\n\n[PDF page 2]\n\nIt is the customer's responsibility to re-enter the instruction, which must be done from 23rd\nSeptember 2026 onward to allow the proper routing to the settlement system (T2S/ICSD) based\non the related SSI.\n\n\n\nFor support or clarification, please send an email to the following address:\n\nEmail: eam@euronext.com\n\n\n\n\n| 2 of 2\n\n\n                                            PRIVATE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "EU",
+        "service": "regulatory",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "settlement_cycle"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "csdr-5",
+          "title": "Settlement-cycle ceiling and exceptions",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "EU"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Legal context, not local procedures or Norway incorporation. Future amendments remain separate."
+          ],
+          "citations": [
+            {
+              "source_id": "02014R0909-20260117",
+              "title": "CSDR: consolidated 17 January 2026",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117",
+              "source_sha256": "b299e08ef15e62d70ccc8b1b3f86113d6e59d1c1660f35fd2077639fd57c64ee",
+              "source_path": "extracted/02014R0909-20260117-browser.txt",
+              "locator": "CSDR Article 5; consolidation 17 January 2026",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": "EU official languages",
+              "translation_status": "original or official-language text",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": null,
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "02014R0909-20260117",
+              "locator": "CSDR Article 5; consolidation 17 January 2026",
+              "text": "Article 5\n\nIntended settlement date\n\n1.   Any participant in a securities settlement system that settles in that system on its own account or on behalf of a third party transactions in transferable securities, money-market instruments, units in collective investment undertakings and emission allowances shall settle such transactions on the intended settlement date.\n2.   As regards transactions in transferable securities referred to in paragraph 1 which are executed on trading venues, the intended settlement date shall be no later than on the second business day after the trading takes place. That requirement shall not apply to transactions which are negotiated privately but executed on a trading venue, to transactions which are executed bilaterally but reported to a trading venue or to the first transaction where the transferable securities concerned are subject to initial recording in book-entry form pursuant to Article 3(2).\n3.   The competent authorities shall ensure that paragraph 1 is applied.\n\nThe authorities competent for the supervision of trading venues shall ensure that paragraph 2 is applied.\n\nCHAPTER III\n\nSettlement discipline"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "EU",
+        "service": "regulatory",
+        "role": "participant",
+        "mode": "future",
+        "question_type": "future_t1"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "t1-law",
+          "title": "Adopted T+1 amendment with future application",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "future"
+          ],
+          "entities": [
+            "EU"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Adopted law; future application on 11 October 2027. Never auto-promote by date."
+          ],
+          "citations": [
+            {
+              "source_id": "32025R2075",
+              "title": "T+1 amendment 2025/2075",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075",
+              "source_sha256": "73251948900388a1eb0f56958b2f2b1661f48fb3bc8d82e48cea5530aababa3c",
+              "source_path": "extracted/32025R2075-browser.txt",
+              "locator": "Regulation 2025/2075 Article 1",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": null,
+              "publication_date": null,
+              "revision_date": null
+            },
+            {
+              "source_id": "32025R2075",
+              "title": "T+1 amendment 2025/2075",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075",
+              "source_sha256": "73251948900388a1eb0f56958b2f2b1661f48fb3bc8d82e48cea5530aababa3c",
+              "source_path": "extracted/32025R2075-browser.txt",
+              "locator": "Article 2",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": null,
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "32025R2075",
+              "locator": "Regulation 2025/2075 Article 1",
+              "text": "Article 1\n\nAmendments to Regulation (EU) No 909/2014\n\nRegulation (EU) No 909/2014 is amended as follows:\n\n(1)\n\n\t\n\nin Article 5, paragraph 2 is replaced by the following:\n\n‘2.   As regards transactions in transferable securities referred to in paragraph 1 which are executed on trading venues, the intended settlement date shall be no later than on the first business day after the trading takes place.\n\nThe requirement laid down in the first subparagraph shall not apply to any of the following:\n\n(a)\n\n\t\n\ntransactions which are negotiated privately but executed on a trading venue;\n\n(b)\n\n\t\n\ntransactions which are executed bilaterally but reported to a trading venue;\n\n(c)\n\n\t\n\nthe first transaction where the transferable securities concerned are subject to initial recording in book-entry form pursuant to Article 3(2);\n\n(d)\n\n\t\n\nthe following securities financing transactions, provided that they are documented as single transactions composed of two linked operations:\n\n(i)\n\n\t\n\nsecurities lending or securities borrowing as defined in Article 3, point (7), of Regulation (EU) 2015/2365 of the European Parliament and of the Council (*1);\n\n(ii)\n\n\t\n\nbuy-sell back transactions or sell-buy back transactions as defined in Article 3, point (8), of Regulation (EU) 2015/2365;\n\n(iii)\n\n\t\n\nrepurchase transactions as defined in Article 3, point (9), of Regulation (EU) 2015/2365.\n\n(*1)  Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012 (OJ L 337, 23.12.2015, p. 1, ELI: http://data.europa.eu/eli/reg/2015/2365/oj).’;\"\n\n(2)\n\n\t\n\nArticle 74 is amended as follows:\n\n(a)\n\n\t\n\nin paragraph 1, point (a), the following point is inserted:\n\n‘(ia)\n\n\t\n\nthe categories of transactions, the intended settlement date of the transactions and whether the transactions are executed on trading venues;’\n\n;\n\n(b)\n\n\t\n\nin paragraph 2, first subparagraph, point (d) is replaced by the following:\n\n‘(d)\n\n\t\n\nupon request from the Commission, for the reports referred to in paragraph 1, point (a)(ia) and points (e), (h), (j) and (k).’\n\n;\n\n(3)\n\n\t\n\nin Article 75, first paragraph, the following point is inserted:\n\n‘(aa)\n\n\t\n\nthe market impact of, and the justification for, the exemption for certain types of securities financing transactions from the requirement to settle no later than on the first business day after the trading takes place as laid down in Article 5(2);’."
+            },
+            {
+              "source_id": "32025R2075",
+              "locator": "Article 2",
+              "text": "Article 2\n\nEntry into force and application\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 11 October 2027.\n\nThis Regulation shall be binding in its entirety and directly applicable in all Member States."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

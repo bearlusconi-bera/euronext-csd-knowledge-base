@@ -2,6 +2,8 @@
 import json,zipfile
 from pathlib import Path
 R=Path(__file__).resolve().parents[1]
+from snapshot_guard import refuse_audited_snapshot
+refuse_audited_snapshot(R)
 C=json.loads((R/'catalogue.json').read_text()); B={d['id']:d for d in C}
 M=json.loads((R/'curated-manifest.json').read_text());stats=json.loads((R/'verification/library-stats.json').read_text())
 def f(p,label=None):return f'[{label or p}](<{R/p}>)'

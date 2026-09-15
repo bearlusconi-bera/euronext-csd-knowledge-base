@@ -17,12 +17,15 @@
         15,
         16
       ],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
       "local_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
       "text_path": "extracted/8719262f5e8b.md",
       "pages": 59,
-      "sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d"
+      "sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "ba7b6da1bec4",
@@ -33,12 +36,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2025-10/02%20Istructions%20CSD_EN_WITHOUT%20EVIDENCE_20251007.pdf",
       "local_path": "sources/documents/ba7b6da1bec4-Instructions-to-the-Regulations-as-of-7-October-2025.pdf",
       "text_path": "extracted/ba7b6da1bec4.md",
       "pages": 168,
-      "sha256": "3cd7315dd6ca89c0e6f04eb934106209e60f9430a65f14c2f4af2179505bc256"
+      "sha256": "3cd7315dd6ca89c0e6f04eb934106209e60f9430a65f14c2f4af2179505bc256",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "dd1cf7cb930b",
@@ -49,12 +55,20 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf",
       "local_path": "sources/documents/dd1cf7cb930b-Instructions-to-Settlement-Service-and-related-instrumental-activities-in-force-as-of-30-J.pdf",
       "text_path": "extracted/dd1cf7cb930b.md",
       "pages": 88,
-      "sha256": "8c3b43dd7293906ee4915606dbe265ef1a446a6a6d85ea5448e5010b3cca7306"
+      "sha256": "8c3b43dd7293906ee4915606dbe265ef1a446a6a6d85ea5448e5010b3cca7306",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json",
+      "quarantined_locators": [
+        "PDF 13 / printed 9: NTS 19:30",
+        "PDF 15 / printed 11: two partial windows"
+      ],
+      "conflict_note": "English and Italian clock passages conflict with R2026.JUN UDFS 20:00/five windows. Current Milan notice chain unresolved; remaining sections require separate review."
     },
     {
       "id": "1bd67deaace2",
@@ -65,12 +79,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-04/T2S%20GATEWAY%20-%20ES%20MIL%20Settlement%20links%20-%20Web%20site%20review%20May%202026.pdf",
       "local_path": "sources/documents/1bd67deaace2-T2S-GATEWAY-Euronext-Securities-Milan-Settlement-Links-Valid-from-1st-May-2026.pdf",
       "text_path": "extracted/1bd67deaace2.md",
       "pages": 112,
-      "sha256": "db6a69edf91f0c4fedc0459d94041c7b7b5841a4f5d73d0ead4c69521425f88c"
+      "sha256": "db6a69edf91f0c4fedc0459d94041c7b7b5841a4f5d73d0ead4c69521425f88c",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "a68f245f8337",
@@ -81,28 +98,35 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-02/pricing_policy_esmil_11-12-2025_0_0.pdf",
       "local_path": "sources/documents/a68f245f8337-Pricing-Policy.pdf",
       "text_path": "extracted/a68f245f8337.md",
       "pages": 12,
-      "sha256": "63a5c5a41a53205da04ef8b62b5cbdb33e24e0c5f205cea5bf60a7da4291942b"
+      "sha256": "63a5c5a41a53205da04ef8b62b5cbdb33e24e0c5f205cea5bf60a7da4291942b",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "ac385b0f3106",
-      "group": "Milan",
+      "group": "European Offering",
       "title": "ISINs eligible for settlement in Euronext Securities Milan 2026-09-11",
-      "version_date_evidence": "Eligible ISIN list: daily snapshot 11 September 2026.",
-      "why_read": "Instrument eligibility changes independently of rulebook versions. Workbook archived; rows not analysed.",
-      "knowledge_layer": "reference",
-      "review_scope": "Version/source listing inspected; no complete substantive review.",
+      "version_date_evidence": "Workbook snapshot 11 September 2026; listing data through 10 September; designated/alternative columns apply from 21 September.",
+      "why_read": "European Offering listing scope and future designated/alternative places; not universal Milan instrument eligibility.",
+      "knowledge_layer": "programme-scoped-reference",
+      "review_scope": "Introduction, headers and sampled rows checked. All cells preserved mechanically; per-ISIN eligibility not validated.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-09/ISINs%20eligible%20for%20settlement%20in%20Euronext%20Securities%20Milan%202026-09-11.xlsx?VersionId=W9q4Cxr4Dog5dqZVMCUwWuDNNnIFGBUR",
       "local_path": "sources/documents/ac385b0f3106-ISINs-eligible-for-settlement-in-Euronext-Securities-Milan-2026-09-11.xlsx",
       "text_path": null,
       "pages": null,
-      "sha256": "11176d0710f94c3be8379e56c25c987dc484097cc825b35f8e70bd0504807bfc"
+      "sha256": "11176d0710f94c3be8379e56c25c987dc484097cc825b35f8e70bd0504807bfc",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json",
+      "structured_extract_path": "implementation/2026-09-13/structured/european-offering-workbook.json"
     },
     {
       "id": "de2d312169fc",
@@ -120,13 +144,16 @@
       "local_path": "sources/documents/de2d312169fc-Update-Standard-for-XTRM-Users-for-Vorvel-Certificates-TLX-and-IPO-markets.pdf",
       "text_path": "extracted/de2d312169fc.md",
       "pages": 1,
-      "sha256": "3d5e48ae83b0c4b602438a569406bc6f10d52cdb674d084ba31e684eda3013ca"
+      "sha256": "3d5e48ae83b0c4b602438a569406bc6f10d52cdb674d084ba31e684eda3013ca",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "cbdf3c1f8b51",
       "group": "Copenhagen",
       "title": "Part 2 - General Terms and Conditions (PDF)",
-      "version_date_evidence": "Part 2 General Terms: 3 August 2026. Internal footers show inconsistent version numbers.",
+      "version_date_evidence": "Cover 3 August 2026; conflicting footer version labels 12/13 retained. Identify by cover and hash.",
       "why_read": "Eligibility, LEI, legal opinions, user permissions and issuer-agent responsibilities.",
       "knowledge_layer": "current-local",
       "review_scope": "Cover and admission/participant provisions read. Use date plus hash, not an invented single footer version.",
@@ -137,12 +164,15 @@
         4,
         5
       ],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-08/es_cph_rule_book_part_2_General_Terms_and_Conditions.pdf",
       "local_path": "sources/documents/cbdf3c1f8b51-Part-2-General-Terms-and-Conditions-PDF.pdf",
       "text_path": "extracted/cbdf3c1f8b51.md",
       "pages": 21,
-      "sha256": "a7b71cfd16a5090d802e4972fa969307b6e3785c4daefb952c86eade427a5efa"
+      "sha256": "a7b71cfd16a5090d802e4972fa969307b6e3785c4daefb952c86eade427a5efa",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "16ded02d7a65",
@@ -153,12 +183,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-08/es_cph_rule_book_part_%203_Book-entry%20Rules.pdf",
       "local_path": "sources/documents/16ded02d7a65-Part-3-Book-entry-Rules-PDF.pdf",
       "text_path": "extracted/16ded02d7a65.md",
       "pages": 28,
-      "sha256": "af3a4f2ba230a27f0d48707d77a0ac6465b6070bed42ba3901d927dc536d9bc7"
+      "sha256": "af3a4f2ba230a27f0d48707d77a0ac6465b6070bed42ba3901d927dc536d9bc7",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "3d76a327339b",
@@ -175,12 +208,15 @@
         5,
         6
       ],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2025-05/es-cph_rule_book_part_4_settlement_rules.pdf",
       "local_path": "sources/documents/3d76a327339b-Part-4-Settlement-Rules-PDF.pdf",
       "text_path": "extracted/3d76a327339b.md",
       "pages": 17,
-      "sha256": "3d0aa6ae592cbd924203c7ac8d529666ecdc00903876579ea43262a48c4e716c"
+      "sha256": "3d0aa6ae592cbd924203c7ac8d529666ecdc00903876579ea43262a48c4e716c",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "30b6aea9c856",
@@ -191,12 +227,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2025-03/es-cph_rule_book_part_1_definitions.pdf",
       "local_path": "sources/documents/30b6aea9c856-Part-1-Definitions-PDF.pdf",
       "text_path": "extracted/30b6aea9c856.md",
       "pages": 7,
-      "sha256": "82cfaf2c70ebf9bf550a9eabe7640ea639f622bc5c6f46c8f90d32f20678e837"
+      "sha256": "82cfaf2c70ebf9bf550a9eabe7640ea639f622bc5c6f46c8f90d32f20678e837",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "a7e4ccfb2933",
@@ -207,12 +246,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2023-08/Rule%20Book%20Part%205%20T2S%20DCP%20Service%20Rules.pdf",
       "local_path": "sources/documents/a7e4ccfb2933-Part-5-DCP-Service-Rules-PDF.pdf",
       "text_path": "extracted/a7e4ccfb2933.md",
       "pages": 6,
-      "sha256": "4ab78c08eb5434df2533c68b055a01f2342c91620ccf70279aaed5c61b2d2586"
+      "sha256": "4ab78c08eb5434df2533c68b055a01f2342c91620ccf70279aaed5c61b2d2586",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "2b4a3465e7d6",
@@ -223,12 +265,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2024-03/part_6_-_fundhub_rules.pdf",
       "local_path": "sources/documents/2b4a3465e7d6-Part-6-FundHub-Rules-pdf.pdf",
       "text_path": "extracted/2b4a3465e7d6.md",
       "pages": 10,
-      "sha256": "43ad1546ba66a21dc99c1db2941767382614d574f31a4af9687ba1eb32accedf"
+      "sha256": "43ad1546ba66a21dc99c1db2941767382614d574f31a4af9687ba1eb32accedf",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "14e2c64da9a0",
@@ -239,12 +284,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2025-12/ES-CPH_table_of_fees_jan_2026_update.pdf",
       "local_path": "sources/documents/14e2c64da9a0-Euronext-Securities-Copenhagen-Table-of-fees-per-January-2026.pdf",
       "text_path": "extracted/14e2c64da9a0.md",
       "pages": 26,
-      "sha256": "a423eb8ea3d1ec7108857bd7c083c1c118c66159691d4130dd9fc0f589764e66"
+      "sha256": "a423eb8ea3d1ec7108857bd7c083c1c118c66159691d4130dd9fc0f589764e66",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "cdd34eb011e9",
@@ -260,7 +308,10 @@
       "local_path": "sources/documents/cdd34eb011e9-Euronext-Securities-Copenhagen-Table-of-fees-per-November-2026.pdf",
       "text_path": "extracted/cdd34eb011e9.md",
       "pages": 26,
-      "sha256": "bee69210c9372b60c29fc59ffb0670f34dc15d75ea9a82d0ac839ff6981ca8ae"
+      "sha256": "bee69210c9372b60c29fc59ffb0670f34dc15d75ea9a82d0ac839ff6981ca8ae",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "838261c7c0d4",
@@ -271,12 +322,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Cover/version and contents inspected. Norwegian text prevails.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2025-01/2025-01-13%20-%20ES-OSL%20Registration%20Rules%20-%20back-up%20account%20operator%20-%20final.pdf",
       "local_path": "sources/documents/838261c7c0d4-ES-OSL-Registration-rules-in-force-4-February-2025-pdf.pdf",
       "text_path": "extracted/838261c7c0d4.md",
       "pages": 85,
-      "sha256": "d40d9a48ee322eea628ff369858ddcd856905774de7cd1259904cabc87946d58"
+      "sha256": "d40d9a48ee322eea628ff369858ddcd856905774de7cd1259904cabc87946d58",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "14dc34b8e54e",
@@ -285,7 +339,7 @@
       "version_date_evidence": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
       "why_read": "VPS securities leg, Norges Bank cash leg, membership and liquidity banks.",
       "knowledge_layer": "needs-validation",
-      "review_scope": "Selected participation, settlement-bank and liquidity-bank rules read; approval qualification remains unresolved.",
+      "review_scope": "Qualified cover/identity evidence only admitted; do not infer unconditional operative status.",
       "reviewed_pdf_pages": [
         1,
         5,
@@ -302,7 +356,11 @@
       "local_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
       "text_path": "extracted/14dc34b8e54e.md",
       "pages": 58,
-      "sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be"
+      "sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json",
+      "approval_status": "Edition-specific reservation unresolved in both English and Norwegian covers; system approval is not edition approval."
     },
     {
       "id": "c9c0534ea3f5",
@@ -313,18 +371,21 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-09/ES-OSL-Fee-Schedule-January-2026.pdf",
       "local_path": "sources/documents/c9c0534ea3f5-Euronext-Securities-Oslo-Fee-Schedule-January-2026.pdf",
       "text_path": "extracted/c9c0534ea3f5.md",
       "pages": 44,
-      "sha256": "19d5dd4f1f3888403946a84843e67e2ca9df2dea43ec089b5a03bd7f375a1b8b"
+      "sha256": "19d5dd4f1f3888403946a84843e67e2ca9df2dea43ec089b5a03bd7f375a1b8b",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "089b7aaef991",
       "group": "Porto",
       "title": "Operational Manual of INTERBOLSA",
-      "version_date_evidence": "Operational Manual V43. Internal date 26 January 2026; filename 16 February 2026; posted April 2026.",
+      "version_date_evidence": "V43; internal 26 January 2026, filename 16 February, upload April. Operative effective date not established.",
       "why_read": "Broadest local operating manual: onboarding, accounts, settlement and asset servicing.",
       "knowledge_layer": "current-local",
       "review_scope": "Cover, contents and participant-admission section read; the several date signals are retained separately.",
@@ -334,12 +395,19 @@
         16,
         17
       ],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-04/20260216_Manual%20Operativo_V43_EN.pdf",
       "local_path": "sources/documents/089b7aaef991-Operational-Manual-of-INTERBOLSA.pdf",
       "text_path": "extracted/089b7aaef991.md",
       "pages": 248,
-      "sha256": "95c924da7de39631e51a58e4a0a3ec998994c6021a7d02b36c6883f4af2479ec"
+      "sha256": "95c924da7de39631e51a58e4a0a3ec998994c6021a7d02b36c6883f4af2479ec",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json",
+      "effective_from": null,
+      "field_anomalies": [
+        "PDF 66 prints semt.07; exact production identifier not normalised without specification."
+      ]
     },
     {
       "id": "67c9ce673c2a",
@@ -350,12 +418,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-04/20260408_STD%20Layouts%20of%20the%20files%20messages%20available%20to%20Financial%20Intermediaries_v58.pdf",
       "local_path": "sources/documents/67c9ce673c2a-Layouts-of-the-files-messages-available-to-Financial-Intermediaries.pdf",
       "text_path": "extracted/67c9ce673c2a.md",
       "pages": 282,
-      "sha256": "59e82de82ac6f066104110f83ef6577fcd4703e9e4245616917c559d17f158e3"
+      "sha256": "59e82de82ac6f066104110f83ef6577fcd4703e9e4245616917c559d17f158e3",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "04b490f176fe",
@@ -366,12 +437,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-01/20260126_ISO%2015022%20Messages_EN_v9.pdf",
       "local_path": "sources/documents/04b490f176fe-Layouts-ISO-15022-Messages-Specifications.pdf",
       "text_path": "extracted/04b490f176fe.md",
       "pages": 92,
-      "sha256": "1f695984eab8e8a9658728b942dc30d8b3c736a8f3bcd8addd765610cf3f43d0"
+      "sha256": "1f695984eab8e8a9658728b942dc30d8b3c736a8f3bcd8addd765610cf3f43d0",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "fcbc69b0fc35",
@@ -384,12 +458,15 @@
       "reviewed_pdf_pages": [
         1
       ],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.01.consolidado.en_.pdf",
       "local_path": "sources/documents/fcbc69b0fc35-INTERBOLSA-Regulation-1-2016.pdf",
       "text_path": "extracted/fcbc69b0fc35.md",
       "pages": 27,
-      "sha256": "c14808b47f9ef15c3b68b51622dd6f14e8dda6d61f6b1c25ad1ac8ff24e13c85"
+      "sha256": "c14808b47f9ef15c3b68b51622dd6f14e8dda6d61f6b1c25ad1ac8ff24e13c85",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "4e7eec1c51e0",
@@ -402,12 +479,15 @@
       "reviewed_pdf_pages": [
         1
       ],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf",
       "local_path": "sources/documents/4e7eec1c51e0-INTERBOLSA-Regulation-2-2016.pdf",
       "text_path": "extracted/4e7eec1c51e0.md",
       "pages": 42,
-      "sha256": "720367177a69f72ba1934d50cdc3a80c1ed23c133ee9619a5e3311465c0dae91"
+      "sha256": "720367177a69f72ba1934d50cdc3a80c1ed23c133ee9619a5e3311465c0dae91",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "4ed2c4395487",
@@ -420,12 +500,15 @@
       "reviewed_pdf_pages": [
         1
       ],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2018.01.consolidado.en_.pdf",
       "local_path": "sources/documents/4ed2c4395487-INTERBOLSA-Regulation-1-2018.pdf",
       "text_path": "extracted/4ed2c4395487.md",
       "pages": 20,
-      "sha256": "543d7a0ac52e0d5752e1a02749cf98d4ad873a23b81fc088c6bca9e7eb0a8084"
+      "sha256": "543d7a0ac52e0d5752e1a02749cf98d4ad873a23b81fc088c6bca9e7eb0a8084",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "32e563898f54",
@@ -436,12 +519,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-01/Interbolsa%201_2026_%20Corporate%20Events.pdf",
       "local_path": "sources/documents/32e563898f54-INTERBOLSA-Circular-1-2026.pdf",
       "text_path": "extracted/32e563898f54.md",
       "pages": 15,
-      "sha256": "160be1b4656352396768c0af6974646e20aaf285c1db3d6a2a046ce5b774f972"
+      "sha256": "160be1b4656352396768c0af6974646e20aaf285c1db3d6a2a046ce5b774f972",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "269d50884667",
@@ -452,12 +538,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-01/Fee%20-%20Book%20January%202026%20-%20FI%20.pdf",
       "local_path": "sources/documents/269d50884667-Fee-Books-Financial-Intermediaries-Price-list-in-force-from-1-January-2026.pdf",
       "text_path": "extracted/269d50884667.md",
       "pages": 32,
-      "sha256": "e85e5f308d1036d68df89bc09f1a2ed60490b580ddd34847f803dfe444e2a9a0"
+      "sha256": "e85e5f308d1036d68df89bc09f1a2ed60490b580ddd34847f803dfe444e2a9a0",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "7bb6fc64201a",
@@ -468,12 +557,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-02/Fee%20-%20Book%20January%202026%20-IE%20_.pdf",
       "local_path": "sources/documents/7bb6fc64201a-Fee-Books-Issuers-Price-list-in-force-from-1-January-2026.pdf",
       "text_path": "extracted/7bb6fc64201a.md",
       "pages": 28,
-      "sha256": "a0ef3de052b23280dd9aaae74f14d4f86fdc2f3147b22392da9f6d757f935ce3"
+      "sha256": "a0ef3de052b23280dd9aaae74f14d4f86fdc2f3147b22392da9f6d757f935ce3",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "2a1af673b358",
@@ -484,12 +576,15 @@
       "knowledge_layer": "reference",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-05/WFC%202025_0.pdf",
       "local_path": "sources/documents/2a1af673b358-WFC-Single-Disclosure-Report-2025.pdf",
       "text_path": "extracted/2a1af673b358.md",
       "pages": 110,
-      "sha256": "eb4fce5efcc089a98de9c9a678f8369d52de8e4dee2f24f87eee72c584356a64"
+      "sha256": "eb4fce5efcc089a98de9c9a678f8369d52de8e4dee2f24f87eee72c584356a64",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "840c5c3ee312",
@@ -505,7 +600,10 @@
       "local_path": "sources/documents/840c5c3ee312-Euronext-Securities-Porto-CSD-Links.pdf",
       "text_path": "extracted/840c5c3ee312.md",
       "pages": 16,
-      "sha256": "d99e429e0b84061fd5fd92634da16283e7a49e87321fda3f816151a8cb5d7bd1"
+      "sha256": "d99e429e0b84061fd5fd92634da16283e7a49e87321fda3f816151a8cb5d7bd1",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "d89c56df8c5a",
@@ -513,8 +611,8 @@
       "title": "ATHEXCSD Rulebook - Amendment 8",
       "version_date_evidence": "Hub says Amendment 8; filename and internal history indicate 7th amendment, with late-2025 dates.",
       "why_read": "Master rulebook. Preserve the conflict and obtain a reconciled edition before authoritative use.",
-      "knowledge_layer": "needs-validation",
-      "review_scope": "Cover/history page and hub compared; inconsistent numbering/effective-date signals unresolved.",
+      "knowledge_layer": "unresolved-source-identity",
+      "review_scope": "Identity/history only admitted via section register. Operational clauses not automatically admitted.",
       "reviewed_pdf_pages": [
         1,
         2
@@ -524,7 +622,11 @@
       "local_path": "sources/documents/d89c56df8c5a-ATHEXCSD-Rulebook-Amendment-8.pdf",
       "text_path": "extracted/d89c56df8c5a.md",
       "pages": 217,
-      "sha256": "d56878f3174be350e6f722be9e21a63f2b3cd64109998a69b6a7dec8f226ef82"
+      "sha256": "d56878f3174be350e6f722be9e21a63f2b3cd64109998a69b6a7dec8f226ef82",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json",
+      "conflict_note": "Probable edition-versus-amendment labelling (inference), not an established operative-text contradiction. Greek/English sampled histories identify seven amendments; independent approval chain remains incomplete."
     },
     {
       "id": "dab1b35a93c5",
@@ -540,12 +642,15 @@
         3,
         4
       ],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://athens.euronext.com/sites/default/files/2025-04/RESOLUTION_Nr1_ATHEXCSD_31032025_as_of_02042025.pdf",
       "local_path": "sources/documents/dab1b35a93c5-ATHEXCSD-Resolution-1.pdf",
       "text_path": "extracted/dab1b35a93c5.md",
       "pages": 24,
-      "sha256": "9a9a6ee4f1f002a955b41786a1ad094af1c5a8c405ba2f3fb4bfd3436adf2326"
+      "sha256": "9a9a6ee4f1f002a955b41786a1ad094af1c5a8c405ba2f3fb4bfd3436adf2326",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "513a8da7c0ad",
@@ -559,12 +664,15 @@
         1,
         2
       ],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://athens.euronext.com/sites/default/files/2026-07/RESOLUTION_Nr_2_ATHEXCSD_30062026_FORCE_20072026.pdf",
       "local_path": "sources/documents/513a8da7c0ad-ATHEXCSD-Resolution-2.pdf",
       "text_path": "extracted/513a8da7c0ad.md",
       "pages": 7,
-      "sha256": "29cb65764016439aa3d9b93cf7231ef73e9368e2be68cdf74bee26244892fda7"
+      "sha256": "29cb65764016439aa3d9b93cf7231ef73e9368e2be68cdf74bee26244892fda7",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "0afef141bd75",
@@ -575,12 +683,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://athens.euronext.com/sites/default/files/2026-03/RESOLUTION_4_ATHEXCSD-CENTRAL_MAINTENANCE_SERVICE_386_17.02.2026_FORCE_16.03.2026_0.pdf",
       "local_path": "sources/documents/0afef141bd75-ATHEXCSD-Resolution-4.pdf",
       "text_path": "extracted/0afef141bd75.md",
       "pages": 29,
-      "sha256": "c89201e5b045f08b654e95d0c4559166b043a3cf6790b1377a35a8010e87f855"
+      "sha256": "c89201e5b045f08b654e95d0c4559166b043a3cf6790b1377a35a8010e87f855",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "410859953fce",
@@ -594,12 +705,15 @@
         3,
         4
       ],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://athens.euronext.com/sites/default/files/2025-12/RESOLUTION_Nr5-ATHEXCSD_383_24.11.2025_FORCE%208.12.2025.DOC.pdf",
       "local_path": "sources/documents/410859953fce-ATHEXCSD-Resolution-5.pdf",
       "text_path": "extracted/410859953fce.md",
       "pages": 49,
-      "sha256": "4ebc4905414cd0ce1bbdfd92a44c4d42c72a1f898ab8d6c0a0d2c22a2139f56e"
+      "sha256": "4ebc4905414cd0ce1bbdfd92a44c4d42c72a1f898ab8d6c0a0d2c22a2139f56e",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "b43be010e44f",
@@ -610,12 +724,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://athens.euronext.com/sites/default/files/2026-07/RESOLUTION_8_ATHEXCSD-CORPORATE_ACTIONS_392_%2010.07.2026_FORCE_14.07.2026.pdf",
       "local_path": "sources/documents/b43be010e44f-ATHEXCSD-Resolution-8.pdf",
       "text_path": "extracted/b43be010e44f.md",
       "pages": 20,
-      "sha256": "637055ecb12737cbb0e8e291f7461c6fba7d40acf5781ed7b4d5ab0546c0ea86"
+      "sha256": "637055ecb12737cbb0e8e291f7461c6fba7d40acf5781ed7b4d5ab0546c0ea86",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "8b240d87dad0",
@@ -626,12 +743,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://athens.euronext.com/sites/default/files/2026-04/RESOLUTION_14_ATHEXCSD-INFORMATION_TECHNOLOGY_SERVICES_387_31.03.2026_FORCE_01.04.2026.pdf",
       "local_path": "sources/documents/8b240d87dad0-ATHEXCSD-Resolution-14.pdf",
       "text_path": "extracted/8b240d87dad0.md",
       "pages": 19,
-      "sha256": "1f6ba192073a259b43060b2f681a2c35f2251d556c0439536046d38e90c767e7"
+      "sha256": "1f6ba192073a259b43060b2f681a2c35f2251d556c0439536046d38e90c767e7",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "1d7c08130861",
@@ -642,12 +762,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://athens.euronext.com/sites/default/files/2026-06/RESOLUTION_18_ES-ATH_FEE_SCHEDULE_390_08062026_FORCE_15062026.pdf",
       "local_path": "sources/documents/1d7c08130861-ATHEXCSD-Resolution-18.pdf",
       "text_path": "extracted/1d7c08130861.md",
       "pages": 125,
-      "sha256": "a3d77c09b5c74b47495ffd60222cd8197624bd643870d9e939074ccecb7a9c31"
+      "sha256": "a3d77c09b5c74b47495ffd60222cd8197624bd643870d9e939074ccecb7a9c31",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "bbe3343b69ed",
@@ -658,12 +781,15 @@
       "knowledge_layer": "current-local",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://athens.euronext.com/sites/default/files/2026-01/RESOLUTION_19_RULEBOOK_AMENDMENT_COMMITTEE_ATHEXCSD_384_20.01.2026_FORCE_28.01.2026.pdf",
       "local_path": "sources/documents/bbe3343b69ed-ATHEXCSD-Resolution-19.pdf",
       "text_path": "extracted/bbe3343b69ed.md",
       "pages": 5,
-      "sha256": "8ca5887d260a6ae9fe12818c79e885d337ff4955b9de430d38d0512f0a128f96"
+      "sha256": "8ca5887d260a6ae9fe12818c79e885d337ff4955b9de430d38d0512f0a128f96",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "3cfbaea6fa93",
@@ -674,12 +800,15 @@
       "knowledge_layer": "reference",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.athexgroup.gr/documents/10180/7315365/ATHEXCSD+-+PFMI+Disclosure+Framework+-+Dec+2023.pdf/c1b0fa2f-4ebf-42e8-841a-2fb1073fd52d",
       "local_path": "sources/documents/3cfbaea6fa93-PFMI-Self-Assessment-Report-IOSCO.pdf",
       "text_path": "extracted/3cfbaea6fa93.md",
       "pages": 91,
-      "sha256": "d401c23bde59a36e254bfe7bbabbb35dd7ca0da003e052468539343ec8281a5d"
+      "sha256": "d401c23bde59a36e254bfe7bbabbb35dd7ca0da003e052468539343ec8281a5d",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "00a3e1aeba1c",
@@ -699,7 +828,10 @@
       "local_path": "sources/documents/00a3e1aeba1c-Account-Structure-v03.pdf",
       "text_path": "extracted/00a3e1aeba1c.md",
       "pages": 20,
-      "sha256": "6e28c273166aa30d587e4da8ecb898fc7363df81812f9adbedb2e79874ecbd07"
+      "sha256": "6e28c273166aa30d587e4da8ecb898fc7363df81812f9adbedb2e79874ecbd07",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "05b157889a5e",
@@ -718,7 +850,10 @@
       "local_path": "sources/documents/05b157889a5e-Connectivity-v03-3.pdf",
       "text_path": "extracted/05b157889a5e.md",
       "pages": 49,
-      "sha256": "033438e0d32561dcb61e27559fd494fc6377316a1c5ef8e6d5254d86eafd1f88"
+      "sha256": "033438e0d32561dcb61e27559fd494fc6377316a1c5ef8e6d5254d86eafd1f88",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "afb2acf61501",
@@ -734,7 +869,10 @@
       "local_path": "sources/documents/afb2acf61501-Place-of-Settlement-change-guidelines-March-2026-V3.pdf",
       "text_path": "extracted/afb2acf61501.md",
       "pages": 34,
-      "sha256": "985d35447b5aa16a0aba1d169ab51a9b100a8d3e0402953f0a3c64d9f536e3bd"
+      "sha256": "985d35447b5aa16a0aba1d169ab51a9b100a8d3e0402953f0a3c64d9f536e3bd",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "7954e2be7dbe",
@@ -750,7 +888,10 @@
       "local_path": "sources/documents/7954e2be7dbe-French-registered-shares-v06-3.pdf",
       "text_path": "extracted/7954e2be7dbe.md",
       "pages": 131,
-      "sha256": "0b205011c970412ed51fc1f93b27e3fca229830668e50094911ac6ae4a11b55b"
+      "sha256": "0b205011c970412ed51fc1f93b27e3fca229830668e50094911ac6ae4a11b55b",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "8a5f34ddaa95",
@@ -766,7 +907,10 @@
       "local_path": "sources/documents/8a5f34ddaa95-Belgian-Registered-Shares-and-Dematerialisation-v-4.pdf",
       "text_path": "extracted/8a5f34ddaa95.md",
       "pages": 26,
-      "sha256": "5da71f787f7f2255f30325fc1893834ac1b1238762c3af26c75c99502092da08"
+      "sha256": "5da71f787f7f2255f30325fc1893834ac1b1238762c3af26c75c99502092da08",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "4bd4c8173877",
@@ -782,7 +926,10 @@
       "local_path": "sources/documents/4bd4c8173877-IRI-Platform-User-Guide-v02.pdf",
       "text_path": "extracted/4bd4c8173877.md",
       "pages": 73,
-      "sha256": "2d32acdf7b3ad7b87b17a1c622a33bb2cdbbfc1b64bccfb075e1e640a9df2bd1"
+      "sha256": "2d32acdf7b3ad7b87b17a1c622a33bb2cdbbfc1b64bccfb075e1e640a9df2bd1",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "7d682b9f33d3",
@@ -798,7 +945,10 @@
       "local_path": "sources/documents/7d682b9f33d3-Client-test-approach-general-approach-for-Market-Participants-v2.pdf",
       "text_path": "extracted/7d682b9f33d3.md",
       "pages": 12,
-      "sha256": "db18b291dbf5de474edd9df6858e65a9ad5d68b3ff43860172d95f1fef9e369d"
+      "sha256": "db18b291dbf5de474edd9df6858e65a9ad5d68b3ff43860172d95f1fef9e369d",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "71233aed41e7",
@@ -823,7 +973,10 @@
       "local_path": "sources/documents/71233aed41e7-Settlement-Services-Service-Description-Document-v1-6-pdf.pdf",
       "text_path": "extracted/71233aed41e7.md",
       "pages": 110,
-      "sha256": "d88abb7859947ddec4655792f2ff9d4bb18009d4aa993c4ad6328422bb24e37b"
+      "sha256": "d88abb7859947ddec4655792f2ff9d4bb18009d4aa993c4ad6328422bb24e37b",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "0fcc0c30007c",
@@ -848,7 +1001,10 @@
       "local_path": "sources/documents/0fcc0c30007c-connectivity-sdd-v-2-pdf.pdf",
       "text_path": "extracted/0fcc0c30007c.md",
       "pages": 22,
-      "sha256": "462d59102deffd92dc70eefb8b0d857e0974bad48a68cccab82e4bf9cc48e716"
+      "sha256": "462d59102deffd92dc70eefb8b0d857e0974bad48a68cccab82e4bf9cc48e716",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "5be872c2e8e6",
@@ -864,7 +1020,10 @@
       "local_path": "sources/documents/5be872c2e8e6-Client-Master-Data-Account-Management-sdd-v-1-3-pdf.pdf",
       "text_path": "extracted/5be872c2e8e6.md",
       "pages": 86,
-      "sha256": "906cf846757b2de140bbc615872f44b58f748167b43a8d6b3b165ed4b35f6e9f"
+      "sha256": "906cf846757b2de140bbc615872f44b58f748167b43a8d6b3b165ed4b35f6e9f",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "0b9a9fe38187",
@@ -880,7 +1039,10 @@
       "local_path": "sources/documents/0b9a9fe38187-ISIN-Codification-NNA-Service-Description-es-v5-0-clean-pdf.pdf",
       "text_path": "extracted/0b9a9fe38187.md",
       "pages": 97,
-      "sha256": "65619d39ca905756b784aa8e8509feee28ae15c1c291d42efb6fec9856b97c37"
+      "sha256": "65619d39ca905756b784aa8e8509feee28ae15c1c291d42efb6fec9856b97c37",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "0445be6be7bd",
@@ -896,7 +1058,10 @@
       "local_path": "sources/documents/0445be6be7bd-Service-Description-Document-Securities-Management-V2-4.pdf",
       "text_path": "extracted/0445be6be7bd.md",
       "pages": 54,
-      "sha256": "7d5c7f2345f0c0740028678cdb6f1c21567705741ade21a43a1ee6311ceb0b36"
+      "sha256": "7d5c7f2345f0c0740028678cdb6f1c21567705741ade21a43a1ee6311ceb0b36",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "fe5c44a4645e",
@@ -912,7 +1077,10 @@
       "local_path": "sources/documents/fe5c44a4645e-SDD-Name-Registration-V1-2-pdf.pdf",
       "text_path": "extracted/fe5c44a4645e.md",
       "pages": 27,
-      "sha256": "45d1af7decd8bc465117e3516a083d1c1d4a8210674954832a5c65b73a6c967c"
+      "sha256": "45d1af7decd8bc465117e3516a083d1c1d4a8210674954832a5c65b73a6c967c",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "01a10dc8b37c",
@@ -928,7 +1096,10 @@
       "local_path": "sources/documents/01a10dc8b37c-Service-Description-Document-Settlement-Penalties-v1-2.pdf",
       "text_path": "extracted/01a10dc8b37c.md",
       "pages": 22,
-      "sha256": "17631c9eeefd65ec36ac970b5642568d3b3a8f8395ce88920773dbdedbba3aa2"
+      "sha256": "17631c9eeefd65ec36ac970b5642568d3b3a8f8395ce88920773dbdedbba3aa2",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "9e67363e5982",
@@ -944,7 +1115,10 @@
       "local_path": "sources/documents/9e67363e5982-convergence-extended-service-overview-v-3-july2026-pdf.pdf",
       "text_path": "extracted/9e67363e5982.md",
       "pages": 13,
-      "sha256": "36ddf9da7be820a4d529df58cb6b64bbdd6c28801bf372b16ceab2c50df61996"
+      "sha256": "36ddf9da7be820a4d529df58cb6b64bbdd6c28801bf372b16ceab2c50df61996",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "f30e272ac07d",
@@ -963,7 +1137,10 @@
       "local_path": "sources/documents/f30e272ac07d-Euronext-Securities-PTO-Convergence-Newsletter-July2026-pdf.pdf",
       "text_path": "extracted/f30e272ac07d.md",
       "pages": 2,
-      "sha256": "2cd007f0b4b365b41bdc4bd3b174db4536f5d55b426997ee7928779c6a6efee5"
+      "sha256": "2cd007f0b4b365b41bdc4bd3b174db4536f5d55b426997ee7928779c6a6efee5",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "e4ec6d2a8cd3",
@@ -982,7 +1159,10 @@
       "local_path": "sources/documents/e4ec6d2a8cd3-Euronext-Securities-CPH-Convergence-Newsletter-July2026-pdf.pdf",
       "text_path": "extracted/e4ec6d2a8cd3.md",
       "pages": 2,
-      "sha256": "d043564ddb41bd1cbef6dd30c9c91da89e953472294b75f554dd383aaf6c5be5"
+      "sha256": "d043564ddb41bd1cbef6dd30c9c91da89e953472294b75f554dd383aaf6c5be5",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "9a9900fa74db",
@@ -1001,7 +1181,10 @@
       "local_path": "sources/documents/9a9900fa74db-Euronext-Securities-ATH-Convergence-Newsletter-July2026.pdf",
       "text_path": "extracted/9a9900fa74db.md",
       "pages": 2,
-      "sha256": "1a86b3ec913d9a3b77ee4888af2d58d48789578e9ca1edee07e0f6d16ea4b3f9"
+      "sha256": "1a86b3ec913d9a3b77ee4888af2d58d48789578e9ca1edee07e0f6d16ea4b3f9",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "e1354fb2d76a",
@@ -1016,12 +1199,15 @@
         16,
         17
       ],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-05/Euronext%20Securities%20-%20Corporate%20Events%20Service%20-%20CA4U%20Handbook%20SDD%20-%20V05_0.pdf",
       "local_path": "sources/documents/e1354fb2d76a-Corporate-Events-Services-User-Guide-20260507-clean-pdf.pdf",
       "text_path": "extracted/e1354fb2d76a.md",
       "pages": 185,
-      "sha256": "d0a2c11740d4e423c3f9bffe2e297432a1e23b545e8ddf8a8465e191a24dd4e8"
+      "sha256": "d0a2c11740d4e423c3f9bffe2e297432a1e23b545e8ddf8a8465e191a24dd4e8",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "1f1f7d487837",
@@ -1032,12 +1218,15 @@
       "knowledge_layer": "reference",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-06/ca4u_functional_guide_eng_0.pdf",
       "local_path": "sources/documents/1f1f7d487837-ES-CA4U-functional-guide-eng-pdf.pdf",
       "text_path": "extracted/1f1f7d487837.md",
       "pages": 12,
-      "sha256": "42d671ca0eb93e9bb6004e41f175e3f334d6b4c502f276f8f168e126e008e93e"
+      "sha256": "42d671ca0eb93e9bb6004e41f175e3f334d6b4c502f276f8f168e126e008e93e",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "70cf046f2af0",
@@ -1048,12 +1237,15 @@
       "knowledge_layer": "reference",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.euronext.com/sites/default/files/2026-08/Euronext%20Securities%20MyEuronext%20Access%20Form_Client%20Version%20August%202026.pdf",
       "local_path": "sources/documents/70cf046f2af0-MyEuronext-Access-Form-August-2026.pdf",
       "text_path": "extracted/70cf046f2af0.md",
       "pages": 15,
-      "sha256": "62ac20be0b02229c23ce08e238b89b6c3b85b937f7389705908cf6afee4a7a02"
+      "sha256": "62ac20be0b02229c23ce08e238b89b6c3b85b937f7389705908cf6afee4a7a02",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "535f6a23062a",
@@ -1064,13 +1256,22 @@
       "knowledge_layer": "regulatory-baseline",
       "review_scope": "Workbook read without modifying it. Date and Euronext authorisation rows inspected. Porto C25 contains an incomplete LEI; do not use it as validated master data.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.esma.europa.eu/sites/default/files/2025-10/ESMA74-1194755578-334_CSDR_Register_Art_21_58.xlsx",
       "local_path": "sources/documents/535f6a23062a-CSD-Register.xlsx",
       "text_path": null,
       "pages": null,
       "sha256": "b68c232b0d21f8ddec067adb619f90c48efdb08cde4d7c9de0b9abf6a361e54d",
-      "structured_extract_path": "extracted/535f6a23062a-rows.json"
+      "structured_extract_path": "extracted/535f6a23062a-rows.json",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json",
+      "normalised_entity_reference": "implementation/2026-09-13/structured/interbolsa-identity.json",
+      "identity_join_quarantine": {
+        "sheet": "1- CSD authorisations",
+        "cell": "C25",
+        "value": "529900LG70TCA"
+      }
     },
     {
       "id": "1ae6d477d17b",
@@ -1081,12 +1282,15 @@
       "knowledge_layer": "foundational-standard",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.bis.org/publications/principles-financial-market-infrastructures.pdf",
       "local_path": "sources/documents/1ae6d477d17b-PFMI-April-2012.pdf",
       "text_path": "extracted/1ae6d477d17b.md",
       "pages": 188,
-      "sha256": "48b97c7e065b5a3f152e6706e614a662fad4d9908b88c6ffe0f4a011e89478e2"
+      "sha256": "48b97c7e065b5a3f152e6706e614a662fad4d9908b88c6ffe0f4a011e89478e2",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "cd6c6798015f",
@@ -1097,12 +1301,15 @@
       "knowledge_layer": "foundational-standard",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.bis.org/publications/principles-financial-market-infrastructures-disclosure-framework-and-assessment-methodology.pdf",
       "local_path": "sources/documents/cd6c6798015f-PFMI-disclosure-and-assessment-December-2012.pdf",
       "text_path": "extracted/cd6c6798015f.md",
       "pages": 109,
-      "sha256": "e941d2bb94a69ce9a922003c33e9b0ffc0ca0e7cb4afedafafa971f1a13140c0"
+      "sha256": "e941d2bb94a69ce9a922003c33e9b0ffc0ca0e7cb4afedafafa971f1a13140c0",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "bcfcff46ecf4",
@@ -1113,12 +1320,15 @@
       "knowledge_layer": "reference",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://ecsda.eu/wp-content/uploads/2024/09/2024_09_11_ECSDA_Framework_update.pdf",
       "local_path": "sources/documents/bcfcff46ecf4-ECSDA-CSDR-Settlement-Fails-Penalties-Framework-11-September-2024.pdf",
       "text_path": "extracted/bcfcff46ecf4.md",
       "pages": 102,
-      "sha256": "5f0a8e10aa42c113e37ea6c8441e1148b424e47216fd7ce4c9af8a545240d515"
+      "sha256": "5f0a8e10aa42c113e37ea6c8441e1148b424e47216fd7ce4c9af8a545240d515",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "f488a7016d8c",
@@ -1137,7 +1347,10 @@
       "local_path": "sources/documents/f488a7016d8c-statement.pdf",
       "text_path": "extracted/f488a7016d8c.md",
       "pages": 2,
-      "sha256": "3e1bd4ff32349c39626b0aab48a753c35351fe7b2035727bfdcf2e6023ee8ea4"
+      "sha256": "3e1bd4ff32349c39626b0aab48a753c35351fe7b2035727bfdcf2e6023ee8ea4",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "a46c6c66a0e4",
@@ -1159,7 +1372,10 @@
       "local_path": "sources/documents/a46c6c66a0e4-T-1-Corporate-Events-Harmonised-Implementation-Guide.pdf",
       "text_path": "extracted/a46c6c66a0e4.md",
       "pages": 42,
-      "sha256": "89f01272dad56c2e80f5b39959b6d28a2ee1e4de0aa414412d840ec19d79a4ef"
+      "sha256": "89f01272dad56c2e80f5b39959b6d28a2ee1e4de0aa414412d840ec19d79a4ef",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "c164d86ada8e",
@@ -1170,12 +1386,15 @@
       "knowledge_layer": "current-infrastructure",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.ecb.europa.eu/pub/pdf/annex/CoverNote_Final_Delivery_T2S_UDFS_R2026.JUN_UHB_R2026.JUN.en.pdf",
       "local_path": "sources/documents/c164d86ada8e-Cover-note.pdf",
       "text_path": "extracted/c164d86ada8e.md",
       "pages": 10,
-      "sha256": "6314140c0d0d0b4ddbea880e18899d006c47b39d1495fe91dae0b0dc462cc45d"
+      "sha256": "6314140c0d0d0b4ddbea880e18899d006c47b39d1495fe91dae0b0dc462cc45d",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "aa3d5a3b94c9",
@@ -1184,14 +1403,21 @@
       "version_date_evidence": "R2026.JUN final documentation; published 22 January 2026.",
       "why_read": "Detailed settlement system behaviour and messages.",
       "knowledge_layer": "current-infrastructure",
-      "review_scope": "Version/source listing inspected; no complete substantive review.",
+      "review_scope": "Selected matching/posting/realignment/message/day-phase excerpts admitted only via section register; Diagrams 55–57 visually repaired.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
       "local_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
       "text_path": "extracted/aa3d5a3b94c9.md",
       "pages": 2017,
-      "sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99"
+      "sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json",
+      "platform_release": "R2026.JUN",
+      "publication_date": "2026-01-22",
+      "deployment_date": "2026-06-14",
+      "structured_extract_path": "implementation/2026-09-13/structured/t2s-matching-fields.json"
     },
     {
       "id": "06c4d87911f6",
@@ -1202,12 +1428,15 @@
       "knowledge_layer": "current-infrastructure",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UHB_R2026.JUN_clean_20260122.en.pdf",
       "local_path": "sources/documents/06c4d87911f6-T2S-User-Handbook-R2026-JUN-UHB.pdf",
       "text_path": "extracted/06c4d87911f6.md",
       "pages": 1122,
-      "sha256": "bb77f36cd75df3c79ab2ce8a107a1503086481ae1a27942f367cf3181bc71d98"
+      "sha256": "bb77f36cd75df3c79ab2ce8a107a1503086481ae1a27942f367cf3181bc71d98",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "082eda43643a",
@@ -1218,12 +1447,15 @@
       "knowledge_layer": "current-infrastructure",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_GFS_R2026.JUN_clean_20260122.en.pdf",
       "local_path": "sources/documents/082eda43643a-T2S-General-Functional-Specifications-R2026-JUN-GFS.pdf",
       "text_path": "extracted/082eda43643a.md",
       "pages": 714,
-      "sha256": "f8b36e5566c21145eca8d1799693796a1c98becd7edf823342a22fff76dd28dd"
+      "sha256": "f8b36e5566c21145eca8d1799693796a1c98becd7edf823342a22fff76dd28dd",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "3c811cac5943",
@@ -1234,12 +1466,15 @@
       "knowledge_layer": "current-infrastructure",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_URD_R2026.JUN_clean_20260122.en.pdf",
       "local_path": "sources/documents/3c811cac5943-T2S-User-Requirements-Document-R2026-JUN-URD.pdf",
       "text_path": "extracted/3c811cac5943.md",
       "pages": 639,
-      "sha256": "64e6d5c798647fc4247c29cf7aac17603f960f9319ca9dc9774905ad7a500f97"
+      "sha256": "64e6d5c798647fc4247c29cf7aac17603f960f9319ca9dc9774905ad7a500f97",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "0c80b5e41513",
@@ -1250,12 +1485,15 @@
       "knowledge_layer": "current-infrastructure",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_DMT_R2026.JUN_clean_20260122.en.pdf",
       "local_path": "sources/documents/0c80b5e41513-T2S-Data-Migration-Tool-Specification-R2026-JUN-DMT.pdf",
       "text_path": "extracted/0c80b5e41513.md",
       "pages": 62,
-      "sha256": "eecd16bdaf7f5adddd2524f3c3c41d5de233afa65218086af6ede3c978bf23b5"
+      "sha256": "eecd16bdaf7f5adddd2524f3c3c41d5de233afa65218086af6ede3c978bf23b5",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "302a628be94a",
@@ -1266,12 +1504,15 @@
       "knowledge_layer": "current-infrastructure",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_BFD_R2026.JUN_clean_20260122.en.pdf",
       "local_path": "sources/documents/302a628be94a-Business-Functionality-for-T2S-Graphical-User-Interface-R2026-JUN-BFD.pdf",
       "text_path": "extracted/302a628be94a.md",
       "pages": 173,
-      "sha256": "d84e5ddc574d1bb0f4127868b521f056bdaff14e9389ef5b6432c92e717a71b2"
+      "sha256": "d84e5ddc574d1bb0f4127868b521f056bdaff14e9389ef5b6432c92e717a71b2",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "8c1289ebd427",
@@ -1282,12 +1523,15 @@
       "knowledge_layer": "current-infrastructure",
       "review_scope": "Version/source listing inspected; no complete substantive review.",
       "reviewed_pdf_pages": [],
-      "default_retrieval": true,
+      "default_retrieval": false,
       "source_url": "https://www.ecb.europa.eu/pub/pdf/annex/Cross_Reference_T2S_GFS_R2026.JUN_URD_R2026.JUN_clean_20260122.en.pdf",
       "local_path": "sources/documents/8c1289ebd427-GFS-URD-cross-reference.pdf",
       "text_path": "extracted/8c1289ebd427.md",
       "pages": 255,
-      "sha256": "791fdd98b597059b6ff9d77c9f7dacc4ab05ddda8a4542d087b68eaf15f218ab"
+      "sha256": "791fdd98b597059b6ff9d77c9f7dacc4ab05ddda8a4542d087b68eaf15f218ab",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "7244cf50f753",
@@ -1303,7 +1547,10 @@
       "local_path": "sources/documents/7244cf50f753-T2S-Draft-Scope-Defining-Documents-for-R2026-NOV-Market-Review.pdf",
       "text_path": "extracted/7244cf50f753.md",
       "pages": 10,
-      "sha256": "06d90912597eda03b34e4197491e123bca5318a16be5ee9e5ddac526332a07e7"
+      "sha256": "06d90912597eda03b34e4197491e123bca5318a16be5ee9e5ddac526332a07e7",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "8af15d65b18b",
@@ -1319,7 +1566,10 @@
       "local_path": "sources/documents/8af15d65b18b-T2S-User-Detailed-Functional-Specification-R2026-NOV-UDFS-Version-in-revision-marks.pdf",
       "text_path": "extracted/8af15d65b18b.md",
       "pages": 2135,
-      "sha256": "e6d7f9aac37c60550d927ef66774642cc5641ded22da4ded1d3840afdbc26431"
+      "sha256": "e6d7f9aac37c60550d927ef66774642cc5641ded22da4ded1d3840afdbc26431",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "61e370dc8a5b",
@@ -1335,7 +1585,10 @@
       "local_path": "sources/documents/61e370dc8a5b-T2S-User-Handbook-R2026-NOV-UHB-Version-in-revision-marks.pdf",
       "text_path": "extracted/61e370dc8a5b.md",
       "pages": 1129,
-      "sha256": "fa66741fd2768811fe9e1c9495f17157a1c9cd72cba609f7b8e973b0e0a5711f"
+      "sha256": "fa66741fd2768811fe9e1c9495f17157a1c9cd72cba609f7b8e973b0e0a5711f",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "2421a06bd7fd",
@@ -1351,7 +1604,10 @@
       "local_path": "sources/documents/2421a06bd7fd-T2S-Business-Rules-Extract-R2026-NOV.zip",
       "text_path": null,
       "pages": null,
-      "sha256": "a08df20ad428f88887a5a6bf89bd0757b35f6164987604f654b85b78c812862b"
+      "sha256": "a08df20ad428f88887a5a6bf89bd0757b35f6164987604f654b85b78c812862b",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "957c9d2541ed",
@@ -1367,7 +1623,10 @@
       "local_path": "sources/documents/957c9d2541ed-T2S-User-Requirements-Document-R2026-NOV-URD-Version-in-revision-marks.pdf",
       "text_path": "extracted/957c9d2541ed.md",
       "pages": 640,
-      "sha256": "5f0b9ea21dcf4aa0faa47dddcea90f0e9f624fed120995853759cb60f8970c66"
+      "sha256": "5f0b9ea21dcf4aa0faa47dddcea90f0e9f624fed120995853759cb60f8970c66",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "f9ae2481a007",
@@ -1383,7 +1642,10 @@
       "local_path": "sources/documents/f9ae2481a007-T2S-General-Functional-Specifications-R2026-NOV-GFS-Version-in-revision-marks.pdf",
       "text_path": "extracted/f9ae2481a007.md",
       "pages": 818,
-      "sha256": "839b2b015f3e7709aafeafe8488c813cb787f93c73ef843d22dc20708de9a7eb"
+      "sha256": "839b2b015f3e7709aafeafe8488c813cb787f93c73ef843d22dc20708de9a7eb",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "8f537040fd2b",
@@ -1399,7 +1661,10 @@
       "local_path": "sources/documents/8f537040fd2b-T2S-Data-Migration-Tool-Specification-R2026-NOV-DMT-Version-in-revision-marks.pdf",
       "text_path": "extracted/8f537040fd2b.md",
       "pages": 66,
-      "sha256": "7b78ddeb3f6e3994fad2318e6a801fdde7bff54b2eb1d0342e72d0b788cef651"
+      "sha256": "7b78ddeb3f6e3994fad2318e6a801fdde7bff54b2eb1d0342e72d0b788cef651",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "b356057dab22",
@@ -1415,7 +1680,10 @@
       "local_path": "sources/documents/b356057dab22-T2S-Business-Functionality-for-T2S-Graphical-User-Interface-R2026-NOV-BFD-Version-in-revis.pdf",
       "text_path": "extracted/b356057dab22.md",
       "pages": 173,
-      "sha256": "fe999129809f6ab8c253a2e6f997434213370018fa25004ba75fe38cb1bcd855"
+      "sha256": "fe999129809f6ab8c253a2e6f997434213370018fa25004ba75fe38cb1bcd855",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "f4752fd5ae5a",
@@ -1431,7 +1699,10 @@
       "local_path": "sources/documents/f4752fd5ae5a-T2S-UHB-Sitemap-R2026-NOV.pdf",
       "text_path": "extracted/f4752fd5ae5a.md",
       "pages": 31,
-      "sha256": "472891aed7dd42ccb3bd0e1cfe2d1b150fb37dce3e269e4c5524945df0ca7644"
+      "sha256": "472891aed7dd42ccb3bd0e1cfe2d1b150fb37dce3e269e4c5524945df0ca7644",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "1488fb6a3087",
@@ -1447,7 +1718,10 @@
       "local_path": "sources/documents/1488fb6a3087-T2S-GFS-URD-Cross-Reference-R2026-NOV-Version-in-revision-marks.pdf",
       "text_path": "extracted/1488fb6a3087.md",
       "pages": 151,
-      "sha256": "01a4919ed341231730eac16fdd55cc4169834ca8a3ec397cf96cd3f369aee9f0"
+      "sha256": "01a4919ed341231730eac16fdd55cc4169834ca8a3ec397cf96cd3f369aee9f0",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     }
   ],
   "legal_texts": [
@@ -2520,10 +2794,13 @@
       ],
       "review_status": "text-captured-version-list-inspected",
       "why_read": "Core services, authorisation, governance, access, safeguarding, settlement and prudential requirements.",
-      "default_retrieval": true,
+      "default_retrieval": false,
       "knowledge_layer": "regulatory-baseline",
       "review_scope": "Selected Articles 2, 5, 16, 26, 33, 37–48, 54 and Annex reviewed; not all provisions or cross-references reviewed.",
-      "sha256": "b299e08ef15e62d70ccc8b1b3f86113d6e59d1c1660f35fd2077639fd57c64ee"
+      "sha256": "b299e08ef15e62d70ccc8b1b3f86113d6e59d1c1660f35fd2077639fd57c64ee",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "02017R0392-20170310",
@@ -2938,10 +3215,17 @@
       ],
       "review_status": "text-captured-version-list-inspected",
       "why_read": "Authorisation and operational/organisational requirements.",
-      "default_retrieval": true,
-      "knowledge_layer": "regulatory-baseline",
+      "default_retrieval": false,
+      "knowledge_layer": "language-qualified-reference",
       "review_scope": "Complete displayed text captured and version navigation inspected; not a full legal review.",
-      "sha256": "61748cbf944ff205da2a070a7805368cebadd6dc7e63b4f5ecccded0c8a74b9c"
+      "sha256": "61748cbf944ff205da2a070a7805368cebadd6dc7e63b4f5ecccded0c8a74b9c",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json",
+      "actual_content_language": "de",
+      "navigation_language": "en",
+      "capture_issue": "German operative text beneath English navigation (verified in browser 14 September 2026); do not quote as English.",
+      "english_replacement_id": "32017R0392-en-article1"
     },
     {
       "id": "02017R0394-20170310",
@@ -2960,10 +3244,13 @@
       ],
       "review_status": "text-captured-version-list-inspected",
       "why_read": "Standard forms, templates and procedures for authorisation and reporting.",
-      "default_retrieval": true,
+      "default_retrieval": false,
       "knowledge_layer": "regulatory-baseline",
       "review_scope": "Complete displayed text captured and version navigation inspected; not a full legal review.",
-      "sha256": "00a003114546b53eb0dbf8ceec8a1d6237ba4015d6ff44fd3000785b1cc26012"
+      "sha256": "00a003114546b53eb0dbf8ceec8a1d6237ba4015d6ff44fd3000785b1cc26012",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "02017R0390-20170310",
@@ -2982,10 +3269,13 @@
       ],
       "review_status": "text-captured-version-list-inspected",
       "why_read": "Capital and prudential requirements; banking-type services where applicable.",
-      "default_retrieval": true,
+      "default_retrieval": false,
       "knowledge_layer": "regulatory-baseline",
       "review_scope": "Complete displayed text captured and version navigation inspected; not a full legal review.",
-      "sha256": "4ae5a8cf2acfef7e784615d3e7cbdbf139dc8a8ee176d624b2b8b2749c5d6eb2"
+      "sha256": "4ae5a8cf2acfef7e784615d3e7cbdbf139dc8a8ee176d624b2b8b2749c5d6eb2",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "02017R0389-20170310",
@@ -3004,10 +3294,13 @@
       ],
       "review_status": "text-captured-version-list-inspected",
       "why_read": "Penalty parameters and substantial importance.",
-      "default_retrieval": true,
+      "default_retrieval": false,
       "knowledge_layer": "regulatory-baseline",
       "review_scope": "Complete displayed text captured and version navigation inspected; not a full legal review.",
-      "sha256": "09e1958178136dbc25dff21e390f11689f69804a51d7eab30866ebe57999c9d6"
+      "sha256": "09e1958178136dbc25dff21e390f11689f69804a51d7eab30866ebe57999c9d6",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "02018R1229-20240902",
@@ -3466,10 +3759,13 @@
       ],
       "review_status": "text-captured-version-list-inspected",
       "why_read": "Settlement-fail prevention, penalties and related procedures; read with later changes and their application dates.",
-      "default_retrieval": true,
+      "default_retrieval": false,
       "knowledge_layer": "regulatory-baseline",
       "review_scope": "Complete displayed text captured and version navigation inspected; not a full legal review.",
-      "sha256": "4210b20e45553905898e18073556db929a521f6e34302c1b97021984923c05b5"
+      "sha256": "4210b20e45553905898e18073556db929a521f6e34302c1b97021984923c05b5",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "32017R0391",
@@ -3483,10 +3779,13 @@
       "consolidated_links": [],
       "review_status": "text-captured-version-list-inspected",
       "why_read": "Internalised-settlement reporting.",
-      "default_retrieval": true,
+      "default_retrieval": false,
       "knowledge_layer": "regulatory-baseline",
       "review_scope": "Complete displayed text captured and version navigation inspected; not a full legal review.",
-      "sha256": "45265a7a9a79997f504c8ab5abf076b2ce8191ef0f615852469dad861f693ee4"
+      "sha256": "45265a7a9a79997f504c8ab5abf076b2ce8191ef0f615852469dad861f693ee4",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "32017R0393",
@@ -3500,10 +3799,13 @@
       "consolidated_links": [],
       "review_status": "text-captured-version-list-inspected",
       "why_read": "Internalised-settlement reporting templates.",
-      "default_retrieval": true,
+      "default_retrieval": false,
       "knowledge_layer": "regulatory-baseline",
       "review_scope": "Complete displayed text captured and version navigation inspected; not a full legal review.",
-      "sha256": "0401bcf3f078722c46fc1e481445bc4b96d2b50e025a5a90b5739c03fde45140"
+      "sha256": "0401bcf3f078722c46fc1e481445bc4b96d2b50e025a5a90b5739c03fde45140",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "02022R2554-20221227",
@@ -3522,10 +3824,17 @@
       ],
       "review_status": "text-captured-version-list-inspected",
       "why_read": "ICT risk, incident reporting, testing and third-party risk.",
-      "default_retrieval": true,
-      "knowledge_layer": "regulatory-baseline",
+      "default_retrieval": false,
+      "knowledge_layer": "language-qualified-reference",
       "review_scope": "Complete displayed text captured and version navigation inspected; not a full legal review.",
-      "sha256": "3af19e8fa3f6c75f2e2442948d37a11fc15d4a1943ee5395f36133ec9dccd867"
+      "sha256": "3af19e8fa3f6c75f2e2442948d37a11fc15d4a1943ee5395f36133ec9dccd867",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json",
+      "actual_content_language": "fr",
+      "navigation_language": "en",
+      "capture_issue": "French operative text beneath English navigation; do not quote as English.",
+      "english_replacement_id": "dora-english-oj"
     },
     {
       "id": "01998L0026-20240408",
@@ -3564,10 +3873,13 @@
       ],
       "review_status": "text-captured-version-list-inspected",
       "why_read": "Transfer-order finality and insolvency protection; national implementation matters.",
-      "default_retrieval": true,
+      "default_retrieval": false,
       "knowledge_layer": "regulatory-baseline",
       "review_scope": "Complete displayed text captured and version navigation inspected; not a full legal review.",
-      "sha256": "c95b2549c5371ac4682da280161739cee71f73262ce231ab51a90178fc286d61"
+      "sha256": "c95b2549c5371ac4682da280161739cee71f73262ce231ab51a90178fc286d61",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "32018R1212",
@@ -3581,10 +3893,13 @@
       "consolidated_links": [],
       "review_status": "text-captured-version-list-inspected",
       "why_read": "Shareholder identification and transmission of shareholder-rights information.",
-      "default_retrieval": true,
+      "default_retrieval": false,
       "knowledge_layer": "regulatory-baseline",
       "review_scope": "Complete displayed text captured and version navigation inspected; not a full legal review.",
-      "sha256": "90957b95d4a67697185ebc82f0cf40978126231e4df12d148315a5d0dda25930"
+      "sha256": "90957b95d4a67697185ebc82f0cf40978126231e4df12d148315a5d0dda25930",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "32023R2845",
@@ -3598,10 +3913,13 @@
       "consolidated_links": [],
       "review_status": "text-captured-version-list-inspected",
       "why_read": "Amending act; use alongside the consolidated CSDR, not as a substitute.",
-      "default_retrieval": true,
+      "default_retrieval": false,
       "knowledge_layer": "regulatory-baseline",
       "review_scope": "Complete displayed text captured and version navigation inspected; not a full legal review.",
-      "sha256": "fee447f54643def9bbbecefe2aa533956f133c1c3350c8821abf3111609776a7"
+      "sha256": "fee447f54643def9bbbecefe2aa533956f133c1c3350c8821abf3111609776a7",
+      "previous_default_retrieval": true,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "32025R2075",
@@ -3618,7 +3936,10 @@
       "default_retrieval": false,
       "knowledge_layer": "future-release",
       "review_scope": "Complete displayed text captured and version navigation inspected; not a full legal review.",
-      "sha256": "73251948900388a1eb0f56958b2f2b1661f48fb3bc8d82e48cea5530aababa3c"
+      "sha256": "73251948900388a1eb0f56958b2f2b1661f48fb3bc8d82e48cea5530aababa3c",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
     },
     {
       "id": "02022R0858-20220602",
@@ -3640,7 +3961,32 @@
       "default_retrieval": false,
       "knowledge_layer": "specialised-reference",
       "review_scope": "Complete displayed text captured and version navigation inspected; not a full legal review.",
-      "sha256": "9dca28ecf3233bd2254478d79743301acefdf3592c1a14253c5df073e5ca52ae"
+      "sha256": "9dca28ecf3233bd2254478d79743301acefdf3592c1a14253c5df073e5ca52ae",
+      "previous_default_retrieval": false,
+      "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+      "section_decisions_path": "retrieval/section-decisions.json"
+    },
+    {
+      "id": "dora-english-oj",
+      "title": "DORA English OJ text — reviewed Articles 2 and 64",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng",
+      "local_path": "audits/2026-09-13/sources/dora-english-oj.html",
+      "original_sha256": "ab6a69009048a936ae5bda807d2516d66eca3df98772612ee0476e28aaa54c75",
+      "text_path": "audits/2026-09-13/extracted/dora-english-oj.txt",
+      "sha256": "e7e594a9c3b4d3f10f9d34403dacefd5f8901474514c75dd3691c46833ac80ba",
+      "actual_content_language": "en",
+      "retrieved_at": "2026-09-13",
+      "characters": 307857,
+      "complete_text_capture": true,
+      "default_retrieval": false,
+      "knowledge_layer": "bounded-legal-context",
+      "why_read": "English source for CSD inclusion and the general DORA application date.",
+      "review_scope": "Only Articles 2 and 64 substantively admitted; no complete incident-reporting chain.",
+      "section_decisions_path": "retrieval/section-decisions.json"
     }
-  ]
+  ],
+  "retrieval_policy_updated": "2026-09-14",
+  "whole_document_admission": false,
+  "admitted_sections_path": "retrieval/admitted-sections.jsonl",
+  "policy_path": "retrieval/section-decisions.json"
 }

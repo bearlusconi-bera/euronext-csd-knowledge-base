@@ -1,0 +1,798 @@
+{
+  "generated_at_utc": "2026-09-14T10:02:20.658130+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_connectivity_and_static_data"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-connectivity-static-data",
+          "title": "Connectivity models, static data, LEI, indirect participants, account/DCA structure and updating operating conditions (§§1.1–1.2.3)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Italian text prevails (cover, PDF 1). English translation excerpt with uneven wording; quoted terms follow the source.",
+            "CLIMP procedures and forms themselves are not admitted; the mdm@lseg.com address is as printed in the 30 June 2025 edition."
+          ],
+          "citations": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "title": "Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025",
+              "source_url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf",
+              "source_sha256": "8c3b43dd7293906ee4915606dbe265ef1a446a6a6d85ea5448e5010b3cca7306",
+              "source_path": "sources/documents/dd1cf7cb930b-Instructions-to-Settlement-Service-and-related-instrumental-activities-in-force-as-of-30-J.pdf",
+              "locator": "§§1.1–1.2.3; PDF 7–10, printed 3–6",
+              "pdf_pages": [
+                7,
+                8,
+                9,
+                10
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Settlement Service Instructions in force as of 30 June 2025 (MN_10/2025)",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "locator": "§§1.1–1.2.3; PDF 7–10, printed 3–6",
+              "text": "1. IMPLEMENTING PROVISIONS\n OF THE SETTLEMENT SERVICE\n\n1.1 CONNECTIVITY\n\n    1.1.1 Models of connection to the T2S platform\n\nFor the submission  of  transactions  to Settlement  Service,  Participants can\nconnect to T2S platform through:\n\n    •  model  of  direct  connectivity  (Participants  DCP):  using  technological\n      systems  that  interact  directly  with  the T2S  platform  for  forwarding\n      operations, certified by the ECB and authorized by Monte Titoli;\n\n    •  model of indirect connectivity (Participants ICP): using the system for\n      connection  to  the T2S  platform  of Monte  Titoli whose  features  are\n      regulated under the X-TRM Service Rules.\n\nIssuers eligible to participate in the Settlement Service in accordance with Article\n57, paragraph 1 of the Service Regulations, can enter settlement instructions\nrelating to free-of-payment transfers only through X-TRM.\n\n\n\n1.2 ADMISSION CRITERIA\n\n1.2.1 Management of static data\n\nThe management of static data concerns the Participants, their clients and their\nAgent Banks.\n\nThe Participant, and its clients, set up is done by Monte Titoli according to the\ninformation communicated by  the  Participant  itself through  the web base\napplication denominated CLIMP.\n\nFor the interaction with the Settlement Service, the Participants, and the Agent\nBanks, must have a unique LEI code. Failing that, it is not possible to proceed to\nthe configuration of the Participant on the T2S platform and therefore Monte\nTitoli will not allow the start of operations of the same.\n\n\n\n\n\n3\n\n\n\n[PDF page 8]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\nPursuant to the Service Regulations, Participants may request to qualify as\nIndirect Participants  their  clients belonging to the categories referred to  in\nparagraph 1 of the same article1. To this end Participants must:\n\n    a) communicate the name and the associated LEI code of each Indirect\n        Participant;\n    b) associate to each Indirect Participant for which settlements are made,\n      one or more securities accounts to be used exclusively to settling the\n        Indirect Participant’s settlement instructions.\nThe same subject may be qualified as an Indirect Participant in Monte Titoli’s\nSettlement Service by more than one  Participant,  in accordance with the\nconditions indicated above.\n\nThe information will be provided trough CLIMP and the Participant shall kept\nupdate such data.\n\nMonte Titoli keeps encoding Participants currently in use at the domestic level for\ninteracting with its Services:\n\n    •  ABI CODE code assigned by the Bank of Italy/Consob for banks, financial\n      intermediaries, brokers and central counterparties.\n\n    •  CODE MT has the same standard ABI and often it corresponds with it. It\n     may be assigned by Monte Titoli for specific subjects that can not have an\n     ABI code (e.g. non-banks).\n\n    •  CED CODE assigned by SIA or Monte Titoli.\n\n    •  LEI CODE11 assigned by Local Operating Unit (LOU).\n\n\nMonte Titoli manages the correspondence between the LEI codes used for the\nSettlement Service and encodings used for other services offered.\n\n\n\n1 Pursuant to article 6, of the Rules of the Settlement Service, may be qualify as Indirect Participants:\na) Italian, EU and non-EU banks, pursuant to article 1, paragraph 1 of Italian Legislative Decree 385/93;\nb) Italian investment firms (SIM) and EU and non-EU investment firms;\nc) Italian asset management companies (SGR) provided by article 1, paragraph 1 lett. o) of CLF, with the exception of the\nprovisions of article 36 paragraph 2 of CLF;\nd) Stockbrokers entered in the single national roll provided for in article 201 of CLF;\ne) central banks;\nf) foreign CSD entities;\ng) central counterparties;\nh) financial intermediaries entered in the register kept by the Bank of Italy referred to in Article 106 of the CLB and authorized to\nexercise the activities provided for in article 1, paragraph lett. c) and c)-bis of Legislative Decree as well as, to the limited extent\nof the activity on derivatives, authorized to the activity provided for in article 1, paragraph 5, lett. a) and b) of CLF;\ni) Poste Italiane S.p.a.;\nj) Cassa Depositi e Prestiti\nl) Italian Ministry of Finance.\n\n\n\n\n\n4\n\n\n\n[PDF page 9]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\nParticipants may ask Monte  Titoli to change the  static data  in the manner\ndescribed in paragraph 1.2.3.\n\n1.2.2 Structure of Accounts\n\nMonte Titoli opens and maintains securities accounts in the name and on behalf\nof its Participants, regardless of connectivity model which they select (or DCP\nParticipants ICP).\n\nThe securities accounts must be connected to a dedicated account (DCA) for cash\nsettlement in central bank money at the T2S platform and also for the purpose of\nthe processes of self-collateralization.\n\nMonte  Titoli configures connections between DCA and securities accounts  in\naccordance with guidance provided by the Participants.\n\n\n\n1.2.3 Updating the operating conditions of the Participants\n\nParticipants communicate and ask Monte  Titoli changing operating conditions\nspecified by the time of the Settlement Service via web application (CLIMP).\n\nIn case of temporary unavailability of the web application, the Participants may\nsend notices or requests for update via e-mail at mdm@lseg.com\n\nMonte Titoli will update the operating conditions normally within 5 days from the\nmoment the request has been produced complete of all the information needed\nto handle the request, which shall be entered through CLIMP platform. Monte\nTitoli confirms the completeness of the documentation by sending back an e-\nmail. Where the update requires operational interventions particularly complex\n(for example, in cases where the update requires the prior acceptance of or\ninteraction with a third party) or in cases of requests for massive update. Monte\nTitoli reserves the right to apply for a longer term, upon notice to the Participant.\n\nParticipants may also, ask Monte Titoli to modify their operational conditions with\na reduced timing in respect of the one referred to in the preceding paragraph\n(so-called ‘’urgent request’’) (e.g. modification of the DCA account).\n\nIn such case, Monte Titoli confirms to the Participant the operational timing and\ncommunicates the modalities and the fees for the management of the operation.\nMonte Titoli shall reserve itself the right not to proceed with the request with a\nreduced timing for justified operational reasons.\n\n\n\n\n\n5\n\n\n\n[PDF page 10]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\nIn order to facilitate the management of the urgent requests, Monte Titoli may\nestablish  specific  procedures  described  in  the  Operating  Documents  that\nParticipants shall accomplish2.\n\nUrgent requests must be received by Monte Titoli by e-mail at mdm@lseg.com\nby 4 p.m.. Requests received after this deadline shall be deemed as received on\nthe following day.\n\nFees for the management of urgent requests are indicated in the Pricelist.\n\nGiven the requests received by  intermediaries, a the procedure  to update\noperational conditions with a reduced timing is provided upon request (so-called\n\"urgent request\"). With reference to the timing of the standard procedure to\nmanage static data, it is clarified the moment from which 5 days are counted."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_xtrm_service_access"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-xtrm-service",
+          "title": "X-TRM service: operation, communications and access methods (§§3.1–3.4 opening, with the access-method table transcribed from the page image)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Italian text prevails (cover, PDF 1). English translation excerpt with uneven wording; quoted terms follow the source.",
+            "Message codes (G50–G58, MT540–MT548, MT598) are listed as printed; their layouts are in the client-only Standard for X-TRM Users."
+          ],
+          "citations": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "title": "Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025",
+              "source_url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf",
+              "source_sha256": "8c3b43dd7293906ee4915606dbe265ef1a446a6a6d85ea5448e5010b3cca7306",
+              "source_path": "sources/documents/dd1cf7cb930b-Instructions-to-Settlement-Service-and-related-instrumental-activities-in-force-as-of-30-J.pdf",
+              "locator": "§§3.1–3.4.1 opening; PDF 36–38, printed 32–34",
+              "pdf_pages": [
+                36,
+                37,
+                38
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Settlement Service Instructions in force as of 30 June 2025 (MN_10/2025)",
+              "publication_date": null,
+              "revision_date": null
+            },
+            {
+              "source_id": "dd1cf7cb930b",
+              "title": "Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025",
+              "source_url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf",
+              "source_sha256": "8c3b43dd7293906ee4915606dbe265ef1a446a6a6d85ea5448e5010b3cca7306",
+              "source_path": "sources/documents/dd1cf7cb930b-Instructions-to-Settlement-Service-and-related-instrumental-activities-in-force-as-of-30-J.pdf",
+              "locator": "§3.3 access-method table, transcribed from the rendered PDF 37 (text extraction column-garbled)",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Settlement Service Instructions in force as of 30 June 2025 (MN_10/2025)",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "locator": "§§3.1–3.4.1 opening; PDF 36–38, printed 32–34",
+              "text": "3 IMPLEMENTING PROVISIONS OF THE\nSERVICE X-TRM\n\n\n3.1 OPERATION OF THE SERVICE\n\nThe X-TRM provides auxiliary functionality:\n\n    •  settlement of transactions in the Settlement Service (intra and cross-CSD\n      settlement);\n\n    •  settlement of transactions  in the Foreign Settlement Service (external\n      settlement);\n\n    •  forwarding operations to foreign settlement systems (routing)\n\n    •  to the activity of central counterparty\n\n\nThe Service is available on working days as indicated in the TARGET operational\ncalendar.\n\nDates indicated in operations acquired by the X-TRM Service can also refer to\nother  calendars  (e.g.  the  Borsa  calendar)  and  therefore  be  determined\nindependently by the system of origin, but must in any case be compatible with\nthe TARGET calendar.\n\nThe architecture of the Services requires that the relevant operation timetables\ntake account of the availability of the systems that the Service interacts with,\n(i.e. Settlement System or the Foreign Settlement System)\n\n\n\n3.2 COMMUNICATIONS\n\nX-TRM Participants receive communications:\n\n•  through the company website for communications of general nature\n•  by registered post with return receipt, telegram, fax, post or other means\n   that provide documentary evidence  of  receipt  of the communication  for\n   communications of an individual nature\n•  by  telematics means  for  operational-type communications regarding the\n   ordinary administration of the Service.\n\n\n\n\n\n32\n\n\n\n[PDF page 37]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\nMembers of the service communicate with Monte Titoli in writing by registered\nletter with return receipt, telegram, fax, courier or other means that provide\ndocumentary evidence of receipt of the communication. Communications of an\noperational nature may also be sent by electronic means.\n\n\n3.3 ACCESS METHOD\n\n\nMembers may use any  of the  following  interactive methods to access the\nService:\n\n                       TECHNICAL TERMS OF USE\n\n                           RNI                 SWIFT                MT-X/X-   FEATURES\n                                                       TRM   ON-\n                                                            FIN    E/O                              M.S.        F.T.                         FILEACT      LINE\n                                                        INTERACT\n\n    ACQUISITION/CHANGING   X        X         X          X         X\n    TRANSACTIONS\n                        G52      G50       MT540      G50\n                        G53      G51       MT541      G51\n                                            MT542\n                                            MT543\n                                            MT548\n\n    RESULTS         OF            X                    X         X\n   OPERATIONS\n   TRANSMISSION                  G56                  G56\n    (ROM/ACB)\n\n\n\n   ALIGNMENT  ON-LINE    X                  X\n   SYSTEM USER\n                        G57                MT598\n                        G58                MT548\n\n3.4 FUNCTIONALITY OF THE X-TRM SERVICE FOR TRANSACTION TO\nBE SETTLED IN THE SETTLEMENT SERVICE (IN T2S)\n\nIn  relation  to  the  transactions  to be  settled between  participants  to  the\nSettlement Service operated by the T2S platform, the X-TRM provides the\nfollowing features:\n\n    •  acquisition of operations\n        o  validation of settlement instructions\n        o  valorisation of settlement instructions\n\n\n\n\n33\n\n\n\n[PDF page 38]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\n    •  operations Management\n        o  amendment of settlement Instructions\n        o  deletion of settlement instruction\n        o  doubling\n        o  hold/release\n        o  routing to Settlement Service\n        o  post-trading reporting\n\n\n  3.4.1 Acquisition of operations\n\nThe types of operations that can be entered into the X-TRM Service can be\nsummarised as follows:\n\nTABLE 1\n\n                                TRANSAC\n OPERATIONS                                ORIGIN7               ACRONYM          TION\n                                 TYPE\n\n Sale/purchase of                            Guaranteed and unguaranteed\n securities                                    Markets\n                                                   also  on   behalf   of  X-TRM               CVT             DVP/RVP\n                                                    Participants\n\n                                       X-TRM Participants\n\n                                            Guaranteed and unguaranteed\n                                             Markets\n               PCT   (Buy     sell                                                   also  on   behalf   of  X-TRM\n Repurchase       back)                               DVP/RVP  Participants\n agreement\n               PCR (Classic repo)\n\n                                       X-TRM Participants\n\n                                   FOP,                                                  Central Bank\n                              DWP,RV Securities/cash\n               CTC                 P,  RWP,\n transfer                                X-TRM Participants                                 PFOD,\n                                             Automatic\n                               FOP\n\n\nWhen operations are entered into the X-TRM Service, regardless of their origin, a\ncheck is made that counterparty does not thereby assume exclusive mandate for\nrelease to another person. In the latter case, if there is no match between X-TRM\nParticipant photo which the counterparty is associated and the subject who place\nthe operation the operation is rejected.\n\n\n7 The origins listed are those that are valid on the date of publication of this document.\n\n\n\n\n34"
+            },
+            {
+              "source_id": "dd1cf7cb930b",
+              "locator": "§3.3 access-method table, transcribed from the rendered PDF 37 (text extraction column-garbled)",
+              "text": "{\n  \"source_id\": \"dd1cf7cb930b\",\n  \"source_title\": \"Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025\",\n  \"source_sha256\": \"see source register\",\n  \"verified_as_of\": \"2026-09-14\",\n  \"actual_content_language\": \"en\",\n  \"authoritative_language\": \"it\",\n  \"translation_note\": \"English version; the Italian text prevails (cover, PDF 1).\",\n  \"review\": \"Transcribed from the rendered page images (110 dpi) implementation/2026-09-14-settlement-agent/evidence/dd1cf7cb930b-p37-37.png and p39–p41; text extraction of these tables was column-garbled, so the images are the reference.\",\n  \"locator\": \"§3.3 Access method, PDF 37 (printed 33)\",\n  \"table\": \"TECHNICAL TERMS OF USE\",\n  \"columns\": [\n    \"RNI M.S.\",\n    \"RNI F.T.\",\n    \"SWIFT FIN e/o InterAct\",\n    \"SWIFT FileAct\",\n    \"MT-X/X-TRM On-line\"\n  ],\n  \"rows\": [\n    {\n      \"feature\": \"Acquisition/changing transactions\",\n      \"RNI M.S.\": [\n        \"X\",\n        \"G52\",\n        \"G53\"\n      ],\n      \"RNI F.T.\": [\n        \"X\",\n        \"G50\",\n        \"G51\"\n      ],\n      \"SWIFT FIN e/o InterAct\": [\n        \"X\",\n        \"MT540\",\n        \"MT541\",\n        \"MT542\",\n        \"MT543\",\n        \"MT548\"\n      ],\n      \"SWIFT FileAct\": [\n        \"X\",\n        \"G50\",\n        \"G51\"\n      ],\n      \"MT-X/X-TRM On-line\": [\n        \"X\"\n      ]\n    },\n    {\n      \"feature\": \"Results of operations transmission (ROM/ACB)\",\n      \"RNI M.S.\": [],\n      \"RNI F.T.\": [\n        \"X\",\n        \"G56\"\n      ],\n      \"SWIFT FIN e/o InterAct\": [],\n      \"SWIFT FileAct\": [\n        \"X\",\n        \"G56\"\n      ],\n      \"MT-X/X-TRM On-line\": [\n        \"X\"\n      ]\n    },\n    {\n      \"feature\": \"Alignment on-line system user\",\n      \"RNI M.S.\": [\n        \"X\",\n        \"G57\",\n        \"G58\"\n      ],\n      \"RNI F.T.\": [],\n      \"SWIFT FIN e/o InterAct\": [\n        \"X\",\n        \"MT598\",\n        \"MT548\"\n      ],\n      \"SWIFT FileAct\": [],\n      \"MT-X/X-TRM On-line\": []\n    }\n  ],\n  \"notes\": [\n    \"Codes are reproduced as printed (RNI message codes G50–G58; SWIFT MT540–MT543, MT548, MT598). Their field-level layouts are in the client-only 'Standard for X-TRM Users' (A2A MT / RNI, VER.01.09 per ON_20/2026), which is not in the library.\",\n    \"An 'X' marks availability of the feature on that channel as printed.\"\n  ]\n}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_xtrm_field_mapping"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-xtrm-field-mapping",
+          "title": "X-TRM fields versus T2S fields: mandatory, additional and optional matching information (§3.4.1 Table 2, transcribed from the page images)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Italian text prevails (cover, PDF 1). English translation excerpt with uneven wording; quoted terms follow the source.",
+            "Functional correspondence only: not the A2A/RNI message layouts, not a T2S XSD, and two source cells are truncated in the original layout (recorded).",
+            "Footnote (1) referenced in the table was not located on the reviewed pages."
+          ],
+          "citations": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "title": "Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025",
+              "source_url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf",
+              "source_sha256": "8c3b43dd7293906ee4915606dbe265ef1a446a6a6d85ea5448e5010b3cca7306",
+              "source_path": "sources/documents/dd1cf7cb930b-Instructions-to-Settlement-Service-and-related-instrumental-activities-in-force-as-of-30-J.pdf",
+              "locator": "§3.4.1 Table 2 and additional information list; PDF 39–41, printed 35–37",
+              "pdf_pages": [
+                39,
+                40,
+                41
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Settlement Service Instructions in force as of 30 June 2025 (MN_10/2025)",
+              "publication_date": null,
+              "revision_date": null
+            },
+            {
+              "source_id": "dd1cf7cb930b",
+              "title": "Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025",
+              "source_url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf",
+              "source_sha256": "8c3b43dd7293906ee4915606dbe265ef1a446a6a6d85ea5448e5010b3cca7306",
+              "source_path": "sources/documents/dd1cf7cb930b-Instructions-to-Settlement-Service-and-related-instrumental-activities-in-force-as-of-30-J.pdf",
+              "locator": "Table 2 transcription from rendered PDF 39–41 with recorded anomalies",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Settlement Service Instructions in force as of 30 June 2025 (MN_10/2025)",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "locator": "§3.4.1 Table 2 and additional information list; PDF 39–41, printed 35–37",
+              "text": "Operations must contain  all information  indicated  in the  following table as\nmandatory. For convenience the related T2S filed are included\n\nIt  is noted that  for the matching purposes the T2S platform distinguishes\nbetween (see Table 2):\n\n    •  mandatory information (if not specified can assume default values);\n    •  optional information, divided into:\n       o  additional (if specified by a counterparty are considered mandatory\n              fields feedback and therefore must also be specified by the other\n            party);\n       o  optional (considered fields of feedback required only  if specified by\n           both counterparties).\n\n\n\n                                          TYPE            DEFAULT\n      X-TRM FIELDS      T2S FIELDS\n                                         INFORMATION    VALUE\n        Issuer                Delivering    /               NO\n                             Receiving                                             NO\n                              Party     BIC\n        Counterparty        (based     on\n                                Securities\n                        Movement\n                                             NO\n                      CSD         of\n                               Delivering    /       Code  of System\n                             Receiving        Custody Issuer\n                              Party   (based\n                         on   Securities\n                        Movement      Mandatory      NO       Code  of System\n                           Type)        Custody\n         Counterparty(1)\n\n\n                            Intended\n        Settlement Date      Settlement\n                           Date\n\n\n\n                                                        Date of release of       Data Executed       Trade Date\n                                                             the contract  in X-\n                                              TRM\n\n\n\n\n\n35\n\n\n\n[PDF page 40]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\n                                          TYPE            DEFAULT\n      X-TRM FIELDS      T2S FIELDS\n                                         INFORMATION    VALUE\n                                             NO\n\n        Object     Code\n                            ISIN\n        Negotiated\n\n\n                            Settlement                  NO\n        Quantity\n                             Quantity\n                            Settlement                  NO\n        Countervalue\n                        Amount\n        Settlement                                 NO\n                            Currency\n        Currency\n                                Securities                   NO\n       Mark              Movement\n                          Type\n        Countervalue         Credit  / Debit               NO\n        Verse                 Indicator\n                         Payment Type               NO\n         n.a.                    (this fields will\n                          be                 fill\n                                             NO                            Settlement\n        Settlement\n                              Transaction\n        Transaction\n                              Condition\n         Condition(1)\n                            (Opt Out)                                                  Additional\n                           Trade                     NO        Trade\n                              Transaction        Transaction\n                              Condition        Condition\n                       (CUM   /   Ex\n                                 Client        of               NO\n                               Delivering    /         Beneficiary\n                             Receiving        Issuer Code BIC\n                              Party   (based\n         Beneficiary         on   Securities               NO\n                                               Optional        Counterpart Code    Movement\n       BIC                 Type)\n                     Common                   NO\n      Common   Trade\n                           Trade\n        Reference\n                            Reference\n\n\n\n\n\n36\n\n\n\n[PDF page 41]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\n                                          TYPE            DEFAULT\n      X-TRM FIELDS      T2S FIELDS\n                                         INFORMATION    VALUE\n                                Securities                   NO\n                            Account     of\n                               Delivering    /\n        Counterpart\n                             Receiving\n        Settlement\n                              Party\n         Securities\n                            (based     on\n        Account\n                                Securities\n                        Movement\n                           Type)\n\n\nIn addition to the information set out above, in X-TRM it is possible to specify the\nfollowing additional information:\n    •  ISO code of the operation\n    •   partial settlement indicator\n    •   priority settlement indicator\n    •  indicator for the connection of settlement Instructions\n    •  indicator of the changeability of settlement instructions\n    •   identification code of the \"pool\" of settlement ‘’Pool reference ID’’\n    •   identification code of the settlement Instructions associates \"Reference ID\n       for Settlement Instructions\"\n    •   identification code of settlement restrictions ‘’Reference ID for Settlement\n       Restrictions’’\n    •   identification  code  for  the  suspension,  cancellation,  modification  of\n      settlement instruction."
+            },
+            {
+              "source_id": "dd1cf7cb930b",
+              "locator": "Table 2 transcription from rendered PDF 39–41 with recorded anomalies",
+              "text": "{\n  \"source_id\": \"dd1cf7cb930b\",\n  \"source_title\": \"Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025\",\n  \"source_sha256\": \"see source register\",\n  \"verified_as_of\": \"2026-09-14\",\n  \"actual_content_language\": \"en\",\n  \"authoritative_language\": \"it\",\n  \"translation_note\": \"English version; the Italian text prevails (cover, PDF 1).\",\n  \"review\": \"Transcribed from the rendered page images (110 dpi) implementation/2026-09-14-settlement-agent/evidence/dd1cf7cb930b-p37-37.png and p39–p41; text extraction of these tables was column-garbled, so the images are the reference.\",\n  \"locator\": \"§3.4.1 Table 2 (X-TRM fields vs T2S fields), PDF 39–41 (printed 35–37)\",\n  \"type_semantics\": {\n    \"Mandatory\": \"mandatory information (if not specified can assume default values)\",\n    \"Additional\": \"if specified by a counterparty, considered mandatory feedback fields and therefore must also be specified by the other party\",\n    \"Optional\": \"considered feedback fields required only if specified by both counterparties\"\n  },\n  \"rows\": [\n    {\n      \"xtrm_field\": \"Issuer\",\n      \"t2s_field\": \"Delivering / Receiving Party BIC (based on Securities Movement Type)\",\n      \"type\": \"Mandatory\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Counterparty\",\n      \"t2s_field\": \"Delivering / Receiving Party BIC (based on Securities Movement Type)\",\n      \"type\": \"Mandatory\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Code of System Custody Issuer\",\n      \"t2s_field\": \"CSD of Delivering / Receiving Party (based on Securities Movement Type)\",\n      \"type\": \"Mandatory\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Code of System Custody Counterparty (footnote 1 marker)\",\n      \"t2s_field\": \"CSD of Delivering / Receiving Party (based on Securities Movement Type)\",\n      \"type\": \"Mandatory\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Settlement Date\",\n      \"t2s_field\": \"Intended Settlement Date\",\n      \"type\": \"Mandatory\",\n      \"default\": \"(blank as printed)\"\n    },\n    {\n      \"xtrm_field\": \"Data Executed\",\n      \"t2s_field\": \"Trade Date\",\n      \"type\": \"Mandatory\",\n      \"default\": \"Date of release of the contract in X-TRM\"\n    },\n    {\n      \"xtrm_field\": \"Object Code Negotiated\",\n      \"t2s_field\": \"ISIN\",\n      \"type\": \"Mandatory\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Quantity\",\n      \"t2s_field\": \"Settlement Quantity\",\n      \"type\": \"Mandatory\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Countervalue\",\n      \"t2s_field\": \"Settlement Amount\",\n      \"type\": \"Mandatory\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Settlement Currency\",\n      \"t2s_field\": \"Currency\",\n      \"type\": \"Mandatory\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Mark\",\n      \"t2s_field\": \"Securities Movement Type\",\n      \"type\": \"Mandatory\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Countervalue Verse\",\n      \"t2s_field\": \"Credit / Debit Indicator\",\n      \"type\": \"Mandatory\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"n.a.\",\n      \"t2s_field\": \"Payment Type (this field will be fill… — cell text truncated in the original layout)\",\n      \"type\": \"Mandatory\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Settlement Transaction Condition (footnote 1 marker)\",\n      \"t2s_field\": \"Settlement Transaction Condition (Opt Out)\",\n      \"type\": \"Additional\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Trade Transaction Condition\",\n      \"t2s_field\": \"Trade Transaction Condition (CUM / Ex — cell text truncated in the original layout)\",\n      \"type\": \"Additional\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Beneficiary Issuer Code BIC\",\n      \"t2s_field\": \"Client of Delivering / Receiving Party (based on Securities Movement Type)\",\n      \"type\": \"Optional\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Beneficiary Counterpart Code BIC\",\n      \"t2s_field\": \"Client of Delivering / Receiving Party (based on Securities Movement Type)\",\n      \"type\": \"Optional\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Common Trade Reference\",\n      \"t2s_field\": \"Common Trade Reference\",\n      \"type\": \"Optional\",\n      \"default\": \"NO\"\n    },\n    {\n      \"xtrm_field\": \"Counterpart Settlement Securities Account\",\n      \"t2s_field\": \"Securities Account of Delivering / Receiving Party (based on Securities Movement Type)\",\n      \"type\": \"Optional\",\n      \"default\": \"NO\"\n    }\n  ],\n  \"additional_information_fields\": [\n    \"ISO code of the operation\",\n    \"partial settlement indicator\",\n    \"priority settlement indicator\",\n    \"indicator for the connection of settlement Instructions\",\n    \"indicator of the changeability of settlement instructions\",\n    \"identification code of the pool of settlement (Pool reference ID)\",\n    \"identification code of the settlement Instructions associates (Reference ID for Settlement Instructions)\",\n    \"identification code of settlement restrictions (Reference ID for Settlement Restrictions)\",\n    \"identification code for the suspension, cancellation, modification of settlement instruction\"\n  ],\n  \"anomalies\": [\n    \"Footnote marker (1) appears on two rows; the footnote text was not located on PDF 39–41 in the text extraction or the rendered images.\",\n    \"Two T2S-field cells are visibly truncated in the original page layout ('this fields will be fill…', 'CUM / Ex…'); the truncated wording is preserved as an anomaly, not completed.\"\n  ],\n  \"counts\": {\n    \"mandatory\": 13,\n    \"additional\": 2,\n    \"optional\": 4\n  },\n  \"scope\": \"Functional field correspondence as published by Milan for ICP/X-TRM users. Not the client-only Standard for X-TRM Users message layouts; not a production XSD; not certification of T2S message paths.\"\n}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_xtrm_lifecycle_maintenance"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-xtrm-lifecycle",
+          "title": "X-TRM lifecycle for T2S-settled transactions: validation, enrichment, doubling, routing, allegement disclosure, maintenance (modify/cancel/hold-release) and reporting (§§3.4.2–3.4.8)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Italian text prevails (cover, PDF 1). English translation excerpt with uneven wording; quoted terms follow the source.",
+            "Market/CCP-specific maintenance permissions are published in Service Notices, which are not admitted."
+          ],
+          "citations": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "title": "Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025",
+              "source_url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf",
+              "source_sha256": "8c3b43dd7293906ee4915606dbe265ef1a446a6a6d85ea5448e5010b3cca7306",
+              "source_path": "sources/documents/dd1cf7cb930b-Instructions-to-Settlement-Service-and-related-instrumental-activities-in-force-as-of-30-J.pdf",
+              "locator": "§§3.4.2–3.4.8; PDF 41–48, printed 37–44",
+              "pdf_pages": [
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Settlement Service Instructions in force as of 30 June 2025 (MN_10/2025)",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "locator": "§§3.4.2–3.4.8; PDF 41–48, printed 37–44",
+              "text": "3.4.2 Validation in X-TRM Service\n\nValidation is the process specific for each type of operation, which  executes\nformal, logical and congruency checks on the elementary data of each individual\nsettlement instruction.\n\nIf the operation is not validated in X-TRM, the service sends a rejection message\nto the subject that entered it.\n\nIf the operation exceeds correctly the validation process in X-TRM, the Service\nforwards the settlement instruction to the subsequent phases of the process.\n\n\n\n\n\n37\n\n\n\n[PDF page 42]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\n  3.4.3 Valorisation (c.d.“Enrichment”)\n\nThe  valorization  is  the X-TRM  process  that  allows  to add  the  necessary\ninformation to complete the settlement instructions.\n\nThe additional information consist of the data in the database of the X-TRM (e.g.\nrelations between the parties, securities account and other default information)\nand other data calculated according to the algorithm defined.\n\nThe functionality of enhancement allows, according to predefined algorithms, of:\n\n    •  calculate the cash amount of a CVT operation, using the details available\n       in the messages and other information stored in the database of the X-\n     TRM;\n\n    •  create the settlement instructions (\"spot\" and \"forward\") of an operation\n     PCT / PCR valued using data available in the transaction originally entered\n     by the participant.\n\nValorisation  is performed only  if no  errors have been detected during the\nvalidation phase.\n\n\n\n\n\n38\n\n\n\n[PDF page 43]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\nThe valorisation relates to the following fields:\n\n\n                 DEFAULT        NOTE   FIELD\n                 VALUE\n\n   EXPENSES               NO                Entered only for OTC operations\n  AMOUNT\n\n   EXCHANGE                         Represents the conversion ration between the\n                  1   RATE                                 trading currency and the settlement currency.\n\n   PRICE        NO\n\n   TOTAL                          Can be expressed as a total amount or as a\n   COMMISSIO    NO                percentage.   It   is  entered  only   for  OTC\n  N                                     operations.\n\n                      Interest\n   UNIT            accrued   from\n   ACCRUAL         the last coupon\n                   detachment\n\n   TYPE\n               NO\n   OPERATION\n\n\n\nAccounting values (countervalues, interest, etc.) are calculated according to the\ncodified rules for each type of operation.\n\nChapter 5 entitled “METHODS OF CALCULATION” sets out all the formulas for\ndata calculated by the Service.\n\n\n\n  3.4.4 Doubling operations\n\nAll trades sent from markets, central banks and central counterparties, which by\ndefinition are already matched, are submitted to the doubling process.\n\nThe process consists of duplicating individual communications received by the X-\nTRM Service into two matched operations, so that each counterparty can fully\nvisualise their operations.\n\nThe X-TRM Service attributes a reference code to each individual operation.\n\n\n\n\n\n39\n\n\n\n[PDF page 44]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\n  3.4.5 Routing of settlement instructions to the Settlement Service\n\nOnce  completed  the  Valorization  process  the X-TRM  forwards  settlement\ninstructions to the Settlement Service.\n\n\nThe forwarding of operations to the Settlement Service occurs in two different\nmethods:\n\n•  batch method: before the starting of the night-time settlement phase;\n\n•  real-time: at the moment when the instructions are entered, during the\n   opening hours of the X-TRM Service.\n\nSettlement instructions  relating to operations acquired from Markets and/or\nCentral Counterparties are forwarded to the Settlement Service according to the\ntiming agreed respectively with the Central Counterparties and the Markets and\nindicated in the Service Notice.\n\nSettlement Instructions relating to OTC transactions are sent in real time to the\nSettlement Service as they must be subjected to matching.\n\nT2S platform conducts  its own validation applying specific rules to check the\nrequired fields and optional fields and / or additional possibly used.\n\nIf the settlement instruction  is not validated in T2S, X-TRM Service sends a\nrejection message to the subject that entered it.\n\nOnly if the settlement instruction passes also the Validation process in T2S the X-\nTRM Service confers a univocal reference code (reference ID) and sends a\nmessage of acceptance to the person who posted it.\n\n\n\n  3.4.6 Matching Disclosure\n\n\nSubsequently the X-TRM Service provides, the disclosure on the acknowledgment\nof the settlement Instructions (allegement) in T2S platform.\n\nIn particular X-TRM Participants receive the following messages:\n\n    •  allegement notification: is provided to the counterpart of an settlement\n       instruction not found;\n    •  allegement  remove:   if  settlement  instruction   is  matched  by  the\n      counterpart\n\n\n\n\n\n40\n\n\n\n[PDF page 45]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\n    •  allegement cancellation: when the settlement instruction is not matched\n     and has been canceled the counterpart.\n    •  allegment  reporting:  disclosure concerning  all  instructions  waiting  for\n      confirmation\n\nThe operations to be settled intra-CSD entered by the Central Banks, Markets\nand CCP on behalf of  its participants are forwarded to the T2S platform as\nalready matched.\n\n\n\n  3.4.7 Management (Maintenance) of settlement instructions routed to\n  T2S platform.\n\nThe X-TRM allows participants to use the following features of management of\nsettlement instructions routed to T2S:\n\n    •  modification\n    •  cancellation\n    •  hold/release\n\nFor OTC transactions functionality maintenance are made available to X-TRM\nParticipants.\n\nFor  market  operations  not  guaranteed  or  guaranteed  by  the  Central\nCounterparty, the use of the maintenance functionality is subject to the rules of\nMarkets or of the Central Counterparties.\n\nThe Markets and Central Counterparties that allow the use of the functionality of\nmaintenance are indicated in the Communications of Service.\n\n\n   A. MODIFICATION OF SETTLEMENT INSTRUCTION\n\n\nPursuant to the Service Regulations, X-TRM Service allows the editing of the\nsettlement instructions forwarded to the T2S platform in the manner and within\nthe limits specified in the document T2S User Requirements.\n\nIn particular, the Participants to the X-TRM Service can edit only the following\nprocess indicators:\n\n    •   partialisation indicator;\n    •   priorities of Regulation;\n    •  blocks for connections between Settlement Instructions (linkages blocks).\n\n\n\n\n41\n\n\n\n[PDF page 46]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\nThe change  is done by sending a modification instruction. For any change a\nsingle Settlement Instruction have to be entered. Instructions of modification are\naccepted and processed unless:\n\n    •  settlement instruction that must be modified  is not already settled or\n      canceled;\n    •  settlement instruction that must be modified is not identified as ‘’CoSD’’\n\nSettlement instruction partially settled can be changed only with reference to the\nindicator \"priority of regulation.\"\n\nOutside of the cases identified by the T2S User Requirements, any other changes\nof the settlement Instructions must be performed by deleting and re-entering it\nby the X-TRM Participant.\n\nX-TRM Participants can modify operations submitted by Markets and Central\nCounterparties, provided that the management company of the markets and\ncentral counterparties communicate to Monte  Titoli to make this functionality\navailable.\n\nThe modification of operations from the central bank is not allowed to X-TRM\nParticipants and it is allowed only to the systems from which they originate.\n\nModification  instructions  are  subject  to  the  processes  of  validation  and\nvalorization in X-TRM.\n\nThe Service sends the X-TRM  Participant an acceptance message  for each\nformally valid update request or an error message if invalid. In addition to all the\ndata corresponding  to  the  operation,  the  operator must  also  provide  the\nreference code given by the X-TRM Service during the entry phase.\n\n\n   B. CANCELLATION OF OPERATIONS FROM SETTLEMENT SERVICE\n\nThe X-TRM Service allows the cancellation of settlement instructions sent to the\nT2S platform, in the manner and within the limits specified in the document T2S\nUser Requirements.\n\nThe cancellation of the trades originating from the central bank is not allowed to\nX-TRM participants and  it  is allowed only to the systems from which they\noriginate.\n\nThe cancellation  of operations entered by the Markets and by the Central\nCounterparties  it  is possible for X- TRM Participants only  if the management\n\n\n\n\n\n42\n\n\n\n[PDF page 47]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\ncompany of the markets and the central counterparties have communicated to\nMonte Titoli to make this functionality available\n\n\n\n   C. HOLD AND RELEASE FUNCTIONALITY\n\nThe X-TRM Service allows the suspension of settlement instructions sent to the\nSettlement  Service,  in  the manner and  within  the  limits  specified  in  the\ndocument T2S User Requirements.\n\nTo the settlement instructions is attributed to the state of ‘’release’’ unless one of\nthe four indicators \"hold\" provided by the T2S platform (Party Hold, Hold CSD,\nCSD Validation Hold, Hold cOsd) is activated.\n\nThe enabling to the use of H&R functionality can be configured based on the role\n(Party)  of  the  Participant  or  at  the  level  of  securities  account  (default\nconfiguration).\n\n\nThe hold & release functionality is not avaible for settlement instructions entered\nin CoSD modality.\n\nThe change of the indicator may occur during the opening of the X-TRM Service.\n\nThe X-TRM  Service  informs  the  counterparty  of  the  Participant who  has\nrequested the suspension \"hold\" of a settlement instruction, on the ISD and only\nif the corresponding settlement instruction is in the \"release\" state.\n\nThe valorisation of the hold/release indicator for the repurchase agreements\napplies both to the spot and to the forward transactions and  it is possible to\nchange it distinctly for each of the two operations, also after the settlement of\nthe spot transaction.\n\nThe hold and release functionality of operations entered by the Markets and by\nthe Central Counterparties,  it  is possible for X- TRM Participants only  if the\nmanagement  company  of  the  markets  and  central  counterparties  have\ncommunicated to Monte Titoli to make this functionality available.\n\n  3.4.8 Post Trading reporting\n\nPursuant to the Service Regulations, the X-TRM Service makes available upon\nrequest of Participants report regarding operations entered directly by members\nthemselves or originating from markets/central banks/central counterparties, by\nthe following methods:\n\n•  Report on request\n\n\n\n\n\n43\n\n\n\n[PDF page 48]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\n   This is made available at any time of the day during the opening hours of the\n  X-TRM Service.  It enables members to verify the status of  all operations\n   entered during the day or on the preceding days.\n\n   The main criteria that can be used to customise the selection of relevant\n   operations are:\n\n     -  Counterparty code\n     -  Object code traded\n     -  Operation type\n     -  Settlement date\n     -  Execution date\n     -  Date entered\n     -  Status of the operation (valid or cancelled)\n     -  Matching status (matched, outbound, acknowledged)\n     -  Origin (user system, market)\n     -  Settlement system\n     -  Status of the hold/release indicators;\n     -  Status of the bilateral cancellation indicators.\n\n•  Online report\n\n   Enables members of the Service to obtain a real time report on all operations\n   present in the system.\n\n•  Original entry on-screen report\n\n   This  function enables  selected  operations  to be  displayed on-screen  or\n   printed, including the hold/release indicator. In addition to enquiries, the on-\n   screen function allows the operations displayed to be updated or cancelled."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_party2_configuration_rule"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-party2-rule",
+          "title": "Client configurations for T2S settlement: Party 2 BIC population rule (header note of the September 2026 list)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "publication_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Static-data list dated 7 September 2026 that replaces previous versions; the per-participant rows (BIC, CED/ABI codes, SAC T2S accounts) are not admitted.",
+            "Bilingual Italian/English note; the Italian and English texts were both read."
+          ],
+          "citations": [
+            {
+              "source_id": "d548b6c97bae",
+              "title": "Client Configurations T2S - September 2026",
+              "source_url": "https://www.euronext.com/sites/default/files/2026-09/Configurazione%20dei%20clienti%20per%20il%20sistema%20di%20regolamento%20in%20T2S%2092026.pdf",
+              "source_sha256": "5e9abe7c4e4d1440f384848bd04d2ab118ddccf5b6139f3bac462ad081b14e4d",
+              "source_path": "sources/documents/d548b6c97bae-Client-Configurations-T2S-September-2026.pdf",
+              "locator": "Bilingual header note; PDF 1",
+              "pdf_pages": [
+                1
+              ],
+              "body_language": "it",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Client configurations for settlement in T2S, September 2026 edition",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "d548b6c97bae",
+              "locator": "Bilingual header note; PDF 1",
+              "text": "(*) Se il Codice CED (colonna 2) è diverso dal Codice CED (colonna 6), allora il Codice BIC presente in colonna 1 corrisponde nell'istruzione al dato T2S Party 2.\n    ATTENZIONE: se il Codice CED (colonna 2) è uguale al Codice CED (colonna 6),NON utilizzare il valore di colonna 1 come Party2. il campo Party 2 BIC può essere lasciato in bianco oppure valorizzato con un BIC diverso da quello indicato nella colonna 1.\n    Viceversa per un allegement proveniente da T2S se il dato T2S Party 2 è valorizzato ed è riconducibile ad un BIC presente in colonna 1 allora l'operazione è posta in capo al Negoziatore individuato, in tutti gli altri casi è posta in capo al soggetto liquidatore individuato da colonna 6\n (*)  If CED Code (Column 2) differs form CED Code (Column 6), BIC Code in column 1 in the settlement instruction corresponds to T2S Party 2; if it is the same T2S Party 2 is not specified.\n    ATTENTION:  if CED Code (Column 2) is equal to CED Code (Column 6), DO NOT use BIC code in column 1 as Party 2. T2S Party 2 can be blank or valued with a BIC code different from the one specified in column 1\n   When the allegment comes from T2S, if the T2S Party 2 is valued and corresponds to one of the BIC codes in column 1, the settlement instruction is associated to the trading member identified by the BIC code; otherwise it is associated to the settlement agent present in column 6\n La presente versione del documento sostituisce le versioni precedenti/ The current version substitute the previous one"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_instruction_processing_rules"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-instruction-processing",
+          "title": "Acquisition, validation, linked/CoSD instructions, partial settlement, priority, collateral, processing phases and CAoF (Articles 68, 73–76)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Italian text prevails (cover, PDF 1). English translation excerpt.",
+            "Articles 69–72 (matching, cancellation, hold, finality) are the 13 September section milan-finality."
+          ],
+          "citations": [
+            {
+              "source_id": "8719262f5e8b",
+              "title": "Regulations as of 26 January 2026",
+              "source_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+              "source_sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+              "source_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
+              "locator": "Article 68; PDF 49–50, printed 48–49",
+              "pdf_pages": [
+                49,
+                50
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "26 January 2026",
+              "publication_date": null,
+              "revision_date": null
+            },
+            {
+              "source_id": "8719262f5e8b",
+              "title": "Regulations as of 26 January 2026",
+              "source_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+              "source_sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+              "source_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
+              "locator": "Articles 73–76; PDF 52–53, printed 51–52",
+              "pdf_pages": [
+                52,
+                53
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "26 January 2026",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "8719262f5e8b",
+              "locator": "Article 68; PDF 49–50, printed 48–49",
+              "text": "Article 68 – Acquisition of settlement Instructions\n\n1. Settlement instructions are acquired by the Settlement Service regarding:\n      a) individual transactions (DVP or FOP);\n      b) bilateral netting of securities and cash balances;\n       c) securities and cash balances, netted via interposition of a Central\n         Counterparty.\n2. During acquisition, the Settlement Services checks:\n    ▪ the completeness of the settlement instruction and its formal correctness to\n     ensure the ensuing processing by the Service; and\n    ▪ the matching of the settlement instruction data with personal data found in\n     T2S (common static data), as well as with any restrictions, including the\n     matching of the financial instruments involved with the provisions of Article\n      86.\n3. The validated settlement Instructions are forwarded to the subsequent phases\n   of the service. Non-validated Settlement Instructions are rejected.\n4. Settlement Instructions can establish that the settlement:\n    ▪  is connected to the settlement of linked instructions; or\n    ▪  is  conditional on  the  occurrence  of  specific  conditions  outside T2S\n      (Conditional Securities Delivery CoSD7).\n5. Participants may also specify:\n    ▪ the possibility of a partial settlement, within the limits allowed by the T2S\n      system’s functionalities; and\n    ▪ the rule priority of the settlement instruction entered, within the limits\n      allowed by the functionalities of T2S and taking into account that Monte\n       Titoli  assigns  priority  to  the  settlement  Instructions  in  which  the\n      counterparty is the Italian Ministry of Finance, those involving monetary\n\n\n7 Conditional securities delivery in T2S refers to a procedure in which the final posting of securities and/or cash is dependent on\nthe successful completion of an additional action or event external to T2S and confirmed by an administering party.\n\n48    In force as of 26 January 2026\n\n\n\n[PDF page 50]\n\n                                                            SERVICE REGULATIONS\n\n\n      policy transactions and those concerning transfer of collateral by the Bank\n      of  Italy  and,  subsequently,  those coming from Market Management\n     Companies.\n6. Participants are informed of the result of the validation process."
+            },
+            {
+              "source_id": "8719262f5e8b",
+              "locator": "Articles 73–76; PDF 52–53, printed 51–52",
+              "text": "Article 73– Automatic mechanisms for posting Collateral\n\n1.   The participants to the Settlement Service and/or their Agent Banks that\n    have previously communicated their intention to avail themselves of the\n     automatic mechanisms for posting Collateral must, with the methods and\n     time frames provided for in the Instructions, indicate the securities accounts\n     and/or the positions that can be used for collateralisation and the exposure\n      limits to be considered in the settlement process.\n2.   The activation of the collateralisation mechanisms causes the automatic\n     generation  of  settlement  instructions by  the Settlement  Service. The\n     settlement instructions arising from collateralisation are settled jointly with\n     the original Settlement Instructions, relative to which the mechanism for\n     posting Collateral was activated.\n\nArticle 74 – Processing of the settlement Instructions\n\n1. The settlement process includes a night-time phase and a day-time phase. In\n   each phase the Settlement Instructions are processed on a gross basis.\n2. In  each  phase,  according  to  the  eligibility  criteria  of  the  settlement\n   Instructions, Monte Titoli settles:\n      a) the new settlement Instructions entered before each phase during the\n         night-time settlement phase and in real-time during the daytime phase,\n          including the instructions for realignment and those resulting from any\n         corporate actions; and\n      b) the Settlement Instructions that remained unsettled in the previous\n         phase.\n\n51    In force as of 26 January 2026\n\n\n\n[PDF page 53]\n\n                                                            SERVICE REGULATIONS\n\n\n3. The settlement Instructions are processed through the following steps:\n      a) check on the settlement status of the instruction;\n      b) check on the counterparties’ securities and cash account capacities. This\n          includes  verifying whether resources are  available as a  result  of\n           collateralisation, as well as checking any exposure limits set by the\n          Participant or its Agent Bank in the TARGET2 system;\n       c)  if there is securities and cash capacity, T2S settles the securities by\n          debiting the Seller and crediting the Purchaser with the amount of the\n          transaction.\n4.  If a number of settlement instructions are handled jointly in the same phase\n    for reasons of optimisation, T2S makes the checks referred to in letter b) of\n   the previous paragraph, based on the net balance following the relevant\n   settlement Instructions.  If there  is not enough capacity to settle the net\n   balance, T2S identifies the settlement Instructions that cannot be settled and\n   then, taking into account their characteristics:\n        -  checks the possibility of settling them through a collateralisation process,\n         in the event of a cash deficit;\n        -  checks the possibility of partially settling them, in the event of a\n        securities deficit.\n5. Settlement Instructions that have not been settled because of insufficient\n   securities or cash are re-proposed in the subsequent phase of the same\n   settlement day or for settlement on the subsequent day, until they are settled\n   or cancelled in accordance with the Article 70.\n6. Participants may change settlement Instructions that have been proposed\n   again, also partially, but only with regard to the status indicators, on condition\n   that such settlement Instructions have not been entered as non-changeable.\n\nArticle 75 – Sequence in Processing Settlement Instructions\n\n1. To improve  the  efficiency  of  the  settlement  process, TS2 implements\n   optimisation mechanisms aimed at maximising its outcome.\n2.  If several settlement Instructions make use of the resources available on the\n  same securities or cash account, the optimisation process takes into account\n   the priority criteria for the management of settlement Instructions referred to\n    in Article 68, paragraph 5. In the event of equal priority, the settlement\n   Instructions with the  earlier settlement date are settled  first within the\n   functioning limits of the T2S platform.\n\nArticle 76 – Management of non-settled Settlement Instructions\n(Corporate Action of Flow - CAoF)\n\n1. Monte Titoli may change or cancel the settlement Instructions that have not\n   been  settled on  the  established  settlement date and concern  financial\n   instruments involved in corporate actions or, in relation to such Instructions,\n     it may  enter  additional  settlement  Instructions aimed  at  rectifying the\n   distorting impacts of the event. The operating procedures for the management\n   of these settlement Instructions are set out in the Instructions.\n\n\n\n52    In force as of 26 January 2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "finality"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-finality",
+          "title": "Matching, cancellation, hold and SF1/SF2/SF3",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "SF2 retains Article 70(2) bilateral cancellation. SF3 is the relevant cash debit or securities debit for FoP.",
+            "No insolvency runbook, legal opinion or unreviewed Article 72 remainder admitted."
+          ],
+          "citations": [
+            {
+              "source_id": "8719262f5e8b",
+              "title": "Regulations as of 26 January 2026",
+              "source_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+              "source_sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+              "source_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
+              "locator": "Articles 69–71 and 72(1)–(3), retaining 70(2); PDF 50–51, printed 49–50",
+              "pdf_pages": [
+                50,
+                51
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "26 January 2026",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "8719262f5e8b",
+              "locator": "Articles 69–71 and 72(1)–(3), retaining 70(2); PDF 50–51, printed 49–50",
+              "text": "Article 69 – Matching of Settlement Instructions\n\n1. The matching is carried out to check that the information corresponds to the\n   settlement instructions entered.\n2. The T2S system supplies the participants with complete disclosure regarding\n   the  status  of  the  settlement  instructions  entered and  the  settlement\n   instructions entered by the counterparty awaiting matching (alledgement).\n3. The matching checks referred to in paragraph 1 cover mandatory matching\n    fields, but may also regard the non-mandatory matching fields.\n4. Unmatched settlement instructions may be changed by the Participants, but\n   only as regards status indicators.\n\nArticle 70 - Cancellation of the settlement Instructions\n\n1. Settlement Instructions may be unilaterally cancelled by the Participant which\n   entered them up to the time of the matching, on condition that such Settlement\n   Instructions were not entered as non-changeable.\n2. Matched settlement Instructions may be cancelled bilaterally, with the consent\n   of both Participants, or upon request of an entity acting on their behalf, subject\n   to the prior submission to Monte Titoli of the relevant mandate.\n3. Cancellations are sent by the Participants with the methods and the time\n   frames provided for in the Instructions. They then go through the acquisition\n   phase and,  if referring to matched settlement Instructions, the matching\n   phase. When  the  cancellations  are  matched,  the  original  settlement\n   Instructions are cancelled.\n4. Market Management Companies and central counterparties may ask Monte\n    Titoli to block these functionalities with regard to their settlement Instructions,\n   according to the methods and conditions provided for in the operating rules for\n   these systems and in accordance with the provisions for T2S.\n5. Cancellations may also be entered by Monte  Titoli at the request of the\n   Participants and in the other cases established by the Rules, in accordance with\n   the provisions above.\n6. CoSD Settlement Instructions may only be cancelled by Monte Titoli.\n7. Automatic cancellation of settlement instructions from the T2S platform is\n   disposed when instructions:\n   a) have not passed the daily validation phase;\n   b) are not matched or are not settled within the time limits provided in the\n       Instructions;\n\n8. Participants are informed of the progress and outcome of the cancellation\n   process and of any automatic cancellation of settlement Instructions, pursuant\n   to the previous paragraph.\n\n\n49    In force as of 26 January 2026\n\n\n\n[PDF page 51]\n\n                                                            SERVICE REGULATIONS\n\n\nArticle 71 – Hold of the Settlement Instructions\n\n1. The participant may hold the settlement of the settlement instructions entered\n   by it so as not to subject them to settlement or hold the re-proposal of the\n   Settlement Instructions not regulated, also partially, until there is a specific\n   release, on condition that these Settlement Instructions have not been entered\n   as non-changeable.\n2. Market management companies and central counterparties may ask Monte\n    Titoli to block the use of this functionality with regard to their settlement\n   instructions, according to the methods and conditions provided for in the\n   operating rules for these systems and in accordance with the provisions for\n   T2S.\n3. The settlement may also be put on hold by Monte Titoli, at the request of the\n   participants and in the other cases established by the Rules, in accordance with\n   the provisions above.\n\nArticle 72 – Input into the Settlement System and irrevocability of\nsettlement Instructions\n\n1. Settlement Instructions are deemed “entered” into the Settlement System,\n   pursuant to Article 2(2) of Legislative Decree 210/2001, from the moment the\n   validation time in T2S ends (SF1).\n2. Settlement Instructions cannot be revoked by a participant or a third party\n   from the time of their matching in T2S (SF2), without prejudice to the bilateral\n   cancellation of settlement Instructions provided for under Article 70 (2).\n3. The transfer of securities and cash become final from the time of the debiting\n   of the cash, or of the securities when settlement by cash is not provided for.\n   (SF3)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "matching_fields"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "t2s-matching",
+          "title": "Matching rules and repaired functional field diagrams",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [
+            "Functional matrix only; no production XML/XSD validation or local interface certification.",
+            "Retain diagram DVP/DWP labels; paragraph separately mentions DVP/PFOD."
+          ],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.1.2; PDF 267–271; Diagrams 55–57 and footnote 194",
+              "pdf_pages": [
+                267,
+                268,
+                269,
+                270,
+                271
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            },
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "Visually checked Diagrams 55–57; original PDF 269–271",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.1.2; PDF 267–271; Diagrams 55–57 and footnote 194",
+              "text": "1.6.1.2 Matching\n\n\n10    1.6.1.2.1 Concept\n\n11   T2S Matching process compares the settlement details of Settlement Instructions provided by the deliverer\n12   and the receiver of securities to ensure that both parties agree on the settlement terms of the transaction in\n13   a standardised way, according to the T2S rules, which are compliant with the European Central Securities\n14    Depositories Association (ECSDA) and the European Securities Forum (ESF) matching proposals.\n\n\n\n\n\n     _________________________\n\n\n        193   The under insolvency situation will be activated upon request of a CSD or CB as explained in the Manual of Operational Procedures (MOP).\n\n\n                                                                                            Page 267 of 2017\n\n\n\n[PDF page 268]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1                                 DIAGRAM 54 - MATCHING APPLICATION POCESS\n\n\n\n\n\n 2\n\n 3    1.6.1.2.2 Overview\n\n 4   T2S provides T2S Actors matching services for Settlement Instructions that require to be matched in T2S\n 5     (i.e. all Settlement Instructions except the Settlement Instructions with Match status “Matched” regardless\n 6    their ISO indicator, ISO transaction code (e.g. CORP) or hold status(es)).\n\n 7    Settlement Restrictions, Maintenance instructions, Realignment instructions, Auto-collaterisation instructions,\n 8   Reimbursement auto-collaterisation instructions and Liquidity transfers do not go through the T2S matching\n 9    process. The matching of Cancellation Instructions does not follow the rules presented in this section and is\n10    presented in section Instruction Cancellation [ 280]).\n\n11   T2S allows CSDs and CSD participants to send already matched instructions Cross-CSD and Intra CSD. In-\n12    structions that enter into T2S as already matched are created with the matching fields as if they were\n13   matched in T2S (i.e. follow the same matching rules as in T2S).\n\n\n\n\n\n                                                                                            Page 268 of 2017\n\n\n\n[PDF page 269]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1    1.6.1.2.3 Matching process\n\n 2   When a new instruction enters T2S, the matching process compares 194 each of the Mandatory and Non-\n 3   mandatory matching fields of the Settlement Instruction with the Settlement Instructions that remain un-\n 4   matched in T2S:\n\n 5         l  Mandatory matching fields are those fields that must be present in the instruction and which values\n 6       should be the same in both Settlement Instructions except Settlement Amount for DVP/PFOD for which a\n 7        tolerance might be applied and for Credit/Debit Code (CRDT/DBIT) and Securities Movement Type Deliv-\n 8        er/Receiver (DELI/RECE), whose values match opposite.\n\n 9         l  Non-mandatory matching fields can be Additional or Optional:\n\n10      – Additional matching fields are initially not mandatory but their values have to match when one of the\n11          counterparties provides a value for them in its instruction. Consequently, once an Additional matching\n12             field is filled in by one Counterparty, the other Counterparty should also fill it in, since a filled-in Addi-\n13            tional matching field cannot match with a field with no value.\n\n14      – In case of Optional matching fields, a filled-in field may match with a field with no value (unlike Addi-\n15            tional matching fields), but when both Parties provide a value, the values have to match.\n\n16   Depending on the Transaction Type T2S considers some fields mandatory or not, as described in the table\n17    below. The following tables and illustrations provide examples of the use of the mandatory, optional and\n18    additional fields in the matching process.\n\n19   Exhaustive List of Matching Fields\n\n20                   DIAGRAM 55 - MANDATORY MATCHING FIELDS PER TRANSACTION TYPE AND EXAMPLE\n\n\n\n\n\n21\n\n\n     _________________________\n\n\n        194   Upper and lower case letters are considered as different when comparing the values of two different instructions. In case a given matching field is\n                      filled in two different instructions with the same reference but a different combination of upper and lower case letters, this matching field is not\n                 subject to matching.\n\n\n                                                                                            Page 269 of 2017\n\n\n\n[PDF page 270]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1   Non Mandatory Matching Fields per Transaction Type\n\n 2                            DIAGRAM 56 - ADDITIONAL MATCHING FIELDS AND EXAMPLE\n\n\n\n\n\n 3\n\n 4   Non Mandatory Matching Fields per Transaction Type\n\n 5                             DIAGRAM 57 - OPTIONAL MATCHING FIELDS AND EXAMPLE\n\n\n\n\n\n 6\n\n 7     If all the Matching fields on both instructions match, except for the Settlement Amount, T2S checks if the\n 8    difference between both Settlement Amounts is compliant with the tolerance amount configured in T2S.\n\n 9    This tolerance amount set up in T2S has two different bands per currency, depending on the cash counter-\n10    value. ECSDA proposal for Euro is the following:\n\n\n\n\n\n                                                                                            Page 270 of 2017\n\n\n\n[PDF page 271]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1                                TABLE 57 - TOLERANCE AMOUNT FOR MATCHING FOR EURO\n 2\n\n             COUNTERVALUE FOR THE CASH AMOUNT                         TOLERANCE\n\n                   ≤ EUR 100.000                                    EUR 2\n\n                   > EUR 100.000                                    EUR 25\n\n 3    In case there is more than one potentially matching Settlement Instruction, T2S chooses the one having the\n 4    smallest Settlement Amount difference. If there is more than one potentially matching Settlement Instruc-\n 5    tion with the same Settlement Amount, T2S chooses the one with the closest entry time in T2S. When Set-\n 6    tlement Instructions with different Settlement Amount are matched, the amount that T2S submits for set-\n 7    tlement as Matched Settlement Amount is the Settlement Amount indicated by the Deliverer of the securi-\n 8     ties.\n\n 9    After successful matching of both instructions, the T2S Actors receive a Status Advice message as described\n10     in section Send Settlement Instruction. This Status Advice will also contain the T2S Matching Reference as-\n11    signed to both Settlement Instructions that have been matched by T2S and the T2S Reference and Account\n12   Owner Reference of the counterparty´s instruction. Interested parties can also be informed depending on\n13    their message subscription preferences (see Section Status Management [ 653] and section Message sub-\n14    scription [ 135]).\n\n15    In case the Settlement Instruction does not match after the first attempt, T2S sends a Settlement Al-\n16    legement message (after having waited a certain period of time) to the Counterparty informing that there is\n17   a Settlement Instruction alleged against it. The Allegement process is described below (See section Al-\n18    legement [ 271]), the dialogue is reflected in section Send Settlement Instruction.\n\n19   T2S automatically cancels Settlement Instructions that remain unmatched after a certain period of time (See\n20    section Instruction Cancellation [ 280] and section Instructions Recycling [ 296]).\n\n21\n\n\n22    1.6.1.2.4 Parameter Synthesis\n\n23   No specific configuration from T2S Actor is needed. The following parameter is specified by the T2S Opera-\n24     tor.\n25\n\n      CONCERNED   PARAMETER   CREATED BY  UPDATED BY  MANDATORY/   POSSIBLE    STANDARD OR DE-\n        PROCESS                                         OPTIONAL     VALUES       FAULT VALUE\n\n          Matching      Tolerance    T2S Operator  T2S Operator     M       To be defined    ≤100.000 € = 2€\n                      amount                                                                                        >100.000 € = 25€\n\n\n26"
+            },
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "Visually checked Diagrams 55–57; original PDF 269–271",
+              "text": "{\n  \"source_id\": \"aa3d5a3b94c9\",\n  \"source_sha256\": \"6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99\",\n  \"source_url\": \"https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf\",\n  \"release\": \"R2026.JUN\",\n  \"verified_as_of\": \"2026-09-13\",\n  \"actual_content_language\": \"en\",\n  \"review\": \"All rows, diagram notes and footnote 194 visually inspected; PDF 271 tolerance narrative read.\",\n  \"scope\": \"Functional matching-field diagrams, not production XML paths, XSD validation or complete message usage rules.\",\n  \"transaction_headers_verbatim\": [\n    \"DVP/DWP\",\n    \"FOP\"\n  ],\n  \"rows\": [\n    {\n      \"field\": \"Payment Type\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Securities Movement Type\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"ISIN Code\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Trade Date\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Settlement Quantity\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Intended Settlement Date\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Delivering Party BIC\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Receiving Party BIC\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"CSD of the Delivering Party\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"CSD of the Receiving Party\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Currency\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"n/a\"\n    },\n    {\n      \"field\": \"Settlement Amount\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"n/a\"\n    },\n    {\n      \"field\": \"Credit/Debit\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"n/a\"\n    },\n    {\n      \"field\": \"Opt-out ISO transaction condition indicator\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"additional\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"CUM/EX Indicator\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"additional\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Currency\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"n/a\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Settlement Amount\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"n/a\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Credit/Debit\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"n/a\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Common Trade Reference\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Client of delivering CSD participant\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Client of receiving CSD participant\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Securities account of the delivering party\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Securities account of the receiving party\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    }\n  ],\n  \"conditions\": [\n    \"Mandatory values match, except opposing Credit/Debit and Securities Movement Type values; settlement amount may use the stated tolerance. The paragraph mentions DVP/PFOD; the diagram header itself reads DVP/DWP. Do not silently normalise these labels into a certified schema mapping.\",\n    \"Additional: a value supplied on either side must also be supplied and match on the other side; blank/blank matches. Credit/Debit matches opposite values.\",\n    \"Optional: one filled and one blank can match; if both are filled they must match.\",\n    \"Footnote 194: upper- and lower-case letters are considered different when comparing values. Do not case-normalise identifiers before comparing.\",\n    \"Diagram 56 note 1: CUM/EX matching considers only ExCoupon and CumCoupon; other values are considered blank.\",\n    \"Diagram 56 note 2: Currency, Settlement Amount and Credit/Debit are additional FOP fields to reduce mismatching risk for non-T2S-currency cash legs submitted as FOP (Payment Flag FREE) with CoSD used to ensure DVP.\",\n    \"Diagram 57 note: client fields match BICs or proprietary codes. Proprietary code matching uses Identification, Issuer and Scheme Name. A BIC does not match a proprietary code.\",\n    \"PDF 270-271: EUR amount tolerance is EUR 2 for cash countervalue <= EUR 100,000 and EUR 25 above EUR 100,000. Currency-specific configuration applies; do not generalise EUR bands to other currencies.\",\n    \"PDF 271: among candidates choose the smallest amount difference, then closest entry time if amounts are the same; the deliverer's amount becomes the matched settlement amount.\"\n  ],\n  \"counts\": {\n    \"mandatory_diagram_rows\": 13,\n    \"additional_diagram_rows\": 5,\n    \"optional_diagram_rows\": 5\n  },\n  \"images\": [\n    \"audits/2026-09-13/evidence/aa3d5a3b94c9-p269.png\",\n    \"implementation/2026-09-13/evidence/t2s-p270.png\"\n  ],\n  \"production_schema_validated\": false\n}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "t2s_status_model"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "t2s-status-management",
+          "title": "Status management: statuses, reason codes and communication principles",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [
+            "Status transition diagrams and the reason-code catalogue are not admitted.",
+            "T2S-native functional description for R2026.JUN; not a local participant interface specification, production XSD or message usage guideline."
+          ],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.3.1.1–1.6.3.1.3 and the list of Settlement Instruction statuses; PDF 653–656",
+              "pdf_pages": [
+                653,
+                654,
+                655,
+                656
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.3.1.1–1.6.3.1.3 and the list of Settlement Instruction statuses; PDF 653–656",
+              "text": "1.6.3 Information Management\n\n\n18    1.6.3.1 Status Management\n\n\n19    1.6.3.1.1 Concept\n\n20   T2S informs T2S Actors of the results of the processing of Settlement Instructions, Settlement Restrictions,\n21    Maintenance Instructions, Liquidity transfers and Reference Data updates. This information is provided to\n22   T2S Actors through a status reporting which is managed by the Status Management process. The communi-\n23    cation of statuses to T2S Actors is complemented by the communication of reason codes in case of negative\n24    result of a T2S process.\n\n\n25    1.6.3.1.2 Overview\n\n26   The Status Management process manages the status updates of Settlement Instructions, Settlement Re-\n27     strictions, Maintenance Instructions and Liquidity Transfers existing in T2S in order to communicate these\n\n\n                                                                                            Page 653 of 2017\n\n\n\n[PDF page 654]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1    status updates through Status Advice messages to the T2S Actors throughout the lifecycle of the instruction.\n 2    This process manages as well the status updates related to the processing of incoming reference data\n 3    maintenance instructions. The Status Management process also manages the reason codes to be sent to T2S\n 4    Actors in case of negative result of a T2S process (e.g. to determine the reason why an instruction is unsuc-\n 5    cessfully validated, executed or settled).\n\n 6   The status of an instruction is indicated through a value, which is subject to change through the lifecycle of\n 7    the instruction. This value provides T2S Actors with information about the situation of this instruction with\n 8    respect to a given T2S process at a certain point in time. For instance, the Settlement Status’ value of a\n 9    Settlement Instruction provide T2S Actors with information on whether the Settlement Instruction is unset-\n10     tled, partially or fully settled.\n\n11    Since each instruction in T2S can be submitted to several processes, each instruction in T2S has several\n12    statuses. For instance, since a Settlement Instruction can be submitted to matching and settlement, this\n13    Settlement Instruction has both a Match status and a Settlement status. However, each of these statuses\n14    has one single value at a certain moment in time that indicates the instruction’s situation at the considered\n15   moment (e.g. Match Status “Unmatched” and Settlement Status “Unsettled”). Depending on its instruction\n16    type, i.e. Settlement Instruction, Settlement Restriction or Maintenance Instruction, an instruction is submit-\n17    ted to different processes in T2S. Consequently, the statuses featuring each instruction depend on the con-\n18    sidered instruction type.\n\n19    In a similar way, reference data maintenance instructions can undergo different types of processing, de-\n20    pending on the given type of reference data object to be updated and the current phase of the settlement\n21    day. For example, T2S can process and complete immediately a reference data update of a party address\n22    submitted during a night-time settlement sequence, because this update cannot have an impact on the on-\n23    going settlement process. Contrariwise, T2S can start processing but cannot complete immediately a refer-\n24   ence data update aimed at blocking a T2S dedicated cash account and attempted during a night-time set-\n25    tlement sequence, as this would imply an impact on the ongoing settlement process. In both cases, the Sta-\n26    tus Management process provides the relevant T2S Actor with all the status updates conveyed via specific\n27    Status Advice Messages throughout the lifecycle of the given reference data object.\n\n28   The following sections provide:\n\n29         l  The generic principles for the communication of statuses and reason codes to T2S Actors;\n\n30         l  The list of statuses featuring each instruction type as well as the possible values for each of these sta-\n31        tuses\n\n32         l An overview of the reason codes management;\n\n33   However, reason codes are not exhaustively detailed below but are provided in section T2S proprietary\n34    codes.\n\n35    For a detailed description of the possible status values and status transitions related to reference data up-\n36    dates, please refer to section Reference data status management.\n\n\n37    1.6.3.1.3 Status management process\n\n38   CommunicationofStatusesandReasonCodestoT2SActors\n\n\n                                                                                            Page 654 of 2017\n\n\n\n[PDF page 655]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1   T2S informs the T2S Actor through the sending of status advice messages if:\n\n 2         l  There is change in a status value of an instruction in T2S;\n\n 3         l  There is no change in a status value of an instruction in T2S but there is a change in the reason code or\n 4         in the business rule associated to the status value 332.\n\n 5    Every time a status update occurs and its value is changed, the Status Management process informs the T2S\n 6    Actors of the status change through the sending of Status Advice messages 333 (according to their message\n 7    subscription configuration). Additionally, T2S can inform through a single Status Advice message about mul-\n 8     tiple status values depending on the lifecycle of the instruction. (e.g. at the acceptance of the instruction,\n 9    the “accepted” status will be reported together with any other relevant status applicable to the instruction at\n10    the moment of its creation in T2S as for instance “matched” or “Party Hold”).\n\n11     If the instruction is matched, T2S also informs the counterpart of the instruction on the status updates with\n12    the exception of the status changes related to any of the Hold statuses (which are communicated to the\n13    counterparty on the Intended Settlement Day).\n\n14   The updated statuses can be classified into two different types, common to all type of instructions:\n\n15         l  “Intermediate Status”. There is a change occurred in any of the statuses of the instruction, but it does\n16       not imply the end of the processing of the instruction in T2S (e.g. Match Status “Matched”). Further sta-\n17        tus updates are to be communicated to the T2S Actor until an “end status” is sent.\n\n18         l  “End status”. This is the last status of an instruction (i.e. the status that an instruction has when pro-\n19        cessing for that instruction ends). If the status of an instruction is not of an \"end status\" type, then the\n20        instruction is still under process in T2S. At a point in time, any instruction in T2S reaches a \"end status\",\n21       as any instruction is settled, executed, cancelled or denied in the end.\n\n22    During the whole day the communication to the T2S Actors is sent in real time, if the T2S Actor has not opt-\n23   ed for the optional file bundling. In case the T2S Actors are using the optional file bundling T2S sends all\n24   messages bundled into files considering the elapse time or maximum number of messages. There are two\n25    exceptions during the business day: the maintenance window and the period close to the DVP cut off. Dur-\n26    ing this time the optional file bundling is deactivated and messages are sent in real time. During the Night-\n27    time period, T2S only sends settlement related messages (e.g. settlement confirmations and settlement\n28     failure notifications) bundled into one or more files depending on the size (maximum volume of 32 MB). At\n29    the end of every Night-time sequence, T2S sends the latest valid statuses values together with the associat-\n30   ed reason codes to the T2S Actors. T2S sends messages to T2S Actors in a consistent order.\n\n31   T2S Actors can query, at any point in time, the status values and reason codes of their instructions.\n\n32   The potential T2S Actors that may receive the messages from T2S are known as Interested Parties. All the\n33    possible Interested Parties of messages sent by T2S may choose those messages they want to receive by\n\n     _________________________\n\n\n        332   Whenever the ISO Code to be reported is a PRCY, if there is no change in the reason code but there is a change in the business rule (compared\n                with the previous communication sent to the relevant T2S Actor), T2S won´t send the corresponding Status Advice (i.e. if the previous reason code\n                reported to the user was a PRCY, T2S won´t send the Status Advice no matter if the business rule applicable is the same or not).\n\n        333   The only exception is the communication of the Match Status “Matched” for Cancellation Instructions, where T2S only informs on the execution of\n               both matched Cancellation Instructions and on the Cancellation of the referenced Settlement Instructions but not on the update of the Match\n                 status of the Cancellation Instruction.\n\n\n                                                                                            Page 655 of 2017\n\n\n\n[PDF page 656]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1    configuring the Message Subscription service according to their preferences (see section Message subscrip-\n 2    tion [ 135]).\n\n 3   StatusesandstatusvaluesinT2S\n\n 4   As previously mentioned, the statuses of an instruction depend on the considered instruction type. The fol-\n 5    lowing paragraphs provide the list of statuses of Settlement Instructions, Settlement Restrictions and\n 6    Maintenance Instructions. The possible values of each of these statuses are depicted in the diagrams below.\n 7    For each of the three instruction types, a status transition diagram is provided to illustrate the corresponding\n 8    status updates T2S communicates to the T2S Actors.\n\n 9   SettlementInstructionstatusesandstatusesvalues\n\n10    According to the multiple-status principle adopted for instructions’ statuses, Settlement Instructions are fea-\n11    tured by the following statuses:\n\n12         l  Settlement Status;\n\n13         l  Match Status;\n\n14         l  Cancellation Status;\n\n15         l CSD Hold Status;\n\n16         l  Party Hold Status;\n\n17         l CSD Validation Hold Status;\n\n18         l CoSD Hold Status.\n\n19   The possible values of each of these statuses are depicted in the status diagrams and tables below. The\n20    Settlement Instruction status transition diagram complements these individual status diagrams with an over-\n21    view of the possible status updates that can be communicated to T2S Actors for a Settlement Instruction.\n\n22    Settlement Status\n\n23    Indicates the Settlement Status of the Settlement Instruction. Each status value reflects in which step of the\n24    settlement process a Settlement Instruction can be.\n\n\n\n\n\n                                                                                            Page 656 of 2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_xtrm_message_layout"
+      },
+      "router_notes": {},
+      "status": "blocked",
+      "reason": "Standard for X-TRM Users (A2A MT / RNI, VER.01.09) is client-only in MT-X; only the published field correspondence table is admitted.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": [
+        "G03"
+      ],
+      "topic_review_dates": null,
+      "evidence": []
+    },
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "production_matching_fields"
+      },
+      "router_notes": {},
+      "status": "blocked",
+      "reason": "Functional diagrams repaired; production MyStandards/XSD usage dependencies not validated.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": [
+        "G14"
+      ],
+      "topic_review_dates": null,
+      "evidence": []
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "mystandards_usage_rules"
+      },
+      "router_notes": {},
+      "status": "blocked",
+      "reason": "MyStandards usage guidelines and XSDs require an account; T2S-native usage rules are not admitted field by field.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": [
+        "G14"
+      ],
+      "topic_review_dates": null,
+      "evidence": []
+    }
+  ]
+}

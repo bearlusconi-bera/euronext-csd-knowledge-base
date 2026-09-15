@@ -1,0 +1,8 @@
+{
+  "runtime": "claude-code-subagent",
+  "model": "claude-opus-5 (alias opus)",
+  "rerouted": false,
+  "reroute_reason": "Routing was correct: investor_csd_definition (Milan/settlement/current, as_of 2026-09-13) and milan_cross_csd_rule (as_of 2026-09-14) both returned evidence_only and together carry the issuer/investor/both definition (t2s-realignment) and Milan Article 77 cross-CSD rule.",
+  "checker_failures_after_fix": [],
+  "notes": "9/9 deterministic checks passed on the first run. All three retrieved sections cited. Italian prevailing-language qualification, both review dates (13 and 14 September 2026), the per-ISIN link LIMITATION and the no-atomicity LIMITATION are carried in the answer. Both retrievals were evidence_only, so no blocked/needs_context/needs_refresh disclosure was required; that fact is stated explicitly."
+}

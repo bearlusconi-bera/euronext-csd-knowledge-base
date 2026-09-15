@@ -1,0 +1,62 @@
+{
+  "summary": {
+    "checks": 8,
+    "passed": 8,
+    "failed": [],
+    "cited_sections": [
+      "t2s-events-2026-09-08",
+      "t2s-partial-settlement",
+      "t2s-rts-phase",
+      "t2s-schedule-r2"
+    ],
+    "retrieved_sections": [
+      "t2s-events-2026-09-08",
+      "t2s-partial-settlement",
+      "t2s-rts-phase",
+      "t2s-schedule-r2"
+    ],
+    "uncited_retrieved": []
+  },
+  "checks": [
+    {
+      "check": "all_citations_in_bundle",
+      "outcome": "PASS",
+      "detail": "unknown citations: []"
+    },
+    {
+      "check": "has_citation_when_evidence_present",
+      "outcome": "PASS",
+      "detail": "evidence retrieved but no [[section-id]] citation"
+    },
+    {
+      "check": "review_date_stated",
+      "outcome": "PASS",
+      "detail": "none of ['2026-09-14'] stated"
+    },
+    {
+      "check": "no_unsupported_clock_times",
+      "outcome": "PASS",
+      "detail": "times absent from evidence: []"
+    },
+    {
+      "check": "no_unsupported_message_versions",
+      "outcome": "PASS",
+      "detail": "versions absent from evidence: []"
+    },
+    {
+      "check": "no_fabricated_xml",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no_unsupported_eur_amounts",
+      "outcome": "PASS",
+      "detail": "amounts absent from evidence: []"
+    },
+    {
+      "check": "labels_distinguished",
+      "outcome": "PASS",
+      "detail": "no explicit distinction between documented, inferred, proposed and unresolved content"
+    }
+  ]
+}

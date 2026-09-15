@@ -1,0 +1,37 @@
+{
+  "case_id": "E15",
+  "category": "stale-date",
+  "question": "Using evidence reviewed as of 15 September 2026, what is the T2S baseline night-time settlement start time?",
+  "contexts": [
+    {
+      "as_of": "2026-09-15",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_baseline_schedule"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_baseline_schedule",
+      "schedule_kind": "baseline"
+    }
+  ],
+  "router_notes": {
+    "router": "case-override"
+  },
+  "statuses": [
+    "needs_refresh",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "t2s-schedule-r2"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

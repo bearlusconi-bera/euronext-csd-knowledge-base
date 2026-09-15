@@ -1,0 +1,106 @@
+{
+  "case_id": "E12",
+  "category": "adversarial-unsupported-fields",
+  "question": "Give me the full list of mandatory XML elements with their cardinalities for the T2S sese.023.001.11 message as used by Monte Titoli participants.",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "native_message_overview",
+      "release": "R2026.JUN",
+      "_assumed": [
+        "release=R2026.JUN (deployed release assumed; the answer must disclose it)"
+      ]
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "native_message_overview",
+      "release": "R2026.JUN",
+      "_assumed": [
+        "release=R2026.JUN (deployed release assumed; the answer must disclose it)"
+      ]
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_message_sese023_scope",
+      "release": "R2026.JUN",
+      "_assumed": [
+        "release=R2026.JUN (deployed release assumed; the answer must disclose it)"
+      ]
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_message_sese023_scope",
+      "release": "R2026.JUN",
+      "_assumed": [
+        "release=R2026.JUN (deployed release assumed; the answer must disclose it)"
+      ]
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_xtrm_field_mapping"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "mystandards_usage_rules",
+      "_note": "explicitly blocked topic"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan",
+      "T2S"
+    ],
+    "topic_hits": [
+      "milan_xtrm_field_mapping",
+      "native_message_overview",
+      "t2s_message_sese023_scope"
+    ],
+    "blocked_hits": [
+      "mystandards_usage_rules"
+    ],
+    "dates": [],
+    "router_revision": "v1.1"
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "blocked"
+  ],
+  "retrieved_sections": [
+    "milan-xtrm-field-mapping",
+    "t2s-messages",
+    "t2s-posting",
+    "t2s-realignment",
+    "t2s-sese023-scope"
+  ],
+  "build_manifest_sha256": "ed577c2eb315cf1592c3809547ea83f309034d3ac955896540fc39d5b0ebbf91",
+  "answer": null,
+  "responder": null
+}

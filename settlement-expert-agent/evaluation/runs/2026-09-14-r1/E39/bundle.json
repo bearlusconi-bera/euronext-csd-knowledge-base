@@ -1,0 +1,194 @@
+{
+  "generated_at_utc": "2026-09-14T10:02:36.358797+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "t2s_nts_processing"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": "baseline",
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "t2s-nts-processing",
+          "title": "Night-time settlement processing: cycles, sequences and reporting",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [
+            "Cycle durations are volume dependent; the 22:20/00:00 targets are objectives, not commitments.",
+            "T2S-native functional description for R2026.JUN; not a local participant interface specification, production XSD or message usage guideline."
+          ],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.4.4.2 NTS processing and reporting; PDF 167–169",
+              "pdf_pages": [
+                167,
+                168,
+                169
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.4.4.2 NTS processing and reporting; PDF 167–169",
+              "text": "1.4.4.2 Night-time settlement (NTS)\n\n2    This section presents the night-time settlement processes in the T2S settlement day.\n\n3    For the ease of presentation, the night-time settlement period is shown in two parts of batch settlement,\n4   each one referring to a settlement cycle.\n\n5   The NTS period starts after the successful completion of the SOD period and is followed by the maintenance\n6   window and the real-time settlement period.\n\n\n\n\n                                                                                          Page 167 of 2017\n\n\n\n[PDF page 168]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                         Settlement Day\n\n 1    In the exceptional cases that T2S experience the late arrival of late peak volume transactions on Friday\n 2    evening that are not available for settlement at the regular NTS, the peak volume transactions should be\n 3    sent after the NTS. In that case, short NTS cycles are triggered by the T2S Operator during the injection of\n 4    the late peak volume transactions put under Intraday Restriction. At the end of the injection, the T2S Opera-\n 5    tor triggers an Additional NTS cycle. The exact procedure with the timing to apply in case of such an event\n 6    are defined in the T2S MOP.\n\n 7    Note: The exact timing needed to perform the sequences and the time available for the sequence reporting\n 8     will be defined at a later stage, but the dependencies defined are ensured.\n\n 9  NTSProcessing\n\n10    During the night-time settlement period, T2S processes the Settlement Instructions, Settlement Restrictions\n11   and liquidity transfers in sequences within two settlement cycles. T2S submits Settlement Instructions, Set-\n12    tlement Restrictions and liquidity transfers for settlement according to an automatic pre-defined order, called\n13    “sequence”.\n\n14   A settlement cycle may consist of more than one sequence (for settlement of different types of Settlement\n15    Instructions, Settlement Restrictions and liquidity transfers).\n\n16    In each NTS sequence, T2S:\n\n17         l  Processes those new Settlement Instructions, Settlement Restrictions and liquidity transfers received be-\n18        fore the start of the sequence which are eligible for settlement at this sequence (and for the first Se-\n19       quence all the ones received in T2S before 20:00 even though the cycle starts after 20:00);\n\n20         l  Includes pending Settlement Instructions not settled during previous sequences.\n\n21     If a Settlement Instruction/Settlement Restriction selected for a sequence is linked “with” or “after” a Set-\n22    tlement Instruction/Settlement Restriction which does not correspond to the sequence criteria, these Settle-\n23   ment Instruction(s)/Settlement Restriction(s) are excluded from this sequence.\n\n24   T2S validates and accepts the static data maintenance instructions and maintenance instructions during the\n25    night-time settlement period on a continuous basis. However, T2S processes these updates only during the\n26    processing periods between the different sequences. T2S sends the information on the status of the static\n27    data maintenance instructions and maintenance instructions to T2S Actors immediately after end of their\n28    processing (i.e. acceptance/execution).\n\n29    For all static data updates, i.e. immediate updates and updates with future date, T2S also performs a revali-\n30    dation of all Settlement Instructions and Settlement Restrictions to ensure that they are valid for the consid-\n31    ered static data update. Maintenance instructions (i.e. Amendment Instructions, Cancellation Instructions,\n32    Hold/Release/Partial Release Instructions) are only revalidated at the SOD revalidation process. In case the\n33    underlying Settlement Instruction or Settlement Restriction to be maintained is cancelled due to their revali-\n34    dation, the maintenance instruction is denied when trying to be executed but not cancelled.\n\n35     Similarly, T2S processes any instruction query received and validated during a settlement cycle run with a\n36    query response back to the relevant T2S Actor.\n\n37  NTSReporting\n\n\n\n\n\n                                                                                            Page 168 of 2017\n\n\n\n[PDF page 169]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                         Settlement Day\n\n 1    At the end of each night-time sequence, T2S generates full or delta reports as per the report configuration\n 2    setup of the relevant T2S Actors.\n\n 3   T2S sends also to the T2S Actors messages such as settlement status advices, settlement confirmation,\n 4    posting notification, etc that were queued due to an execution of a settlement sequence.\n\n 5   The duration of the night-time settlement cycles are dependent on settlement volumes. The target objective\n 6    for the first and last night-time cycles should finish by 22:20 and 00:00 respectively, as long as volumes do\n 7    not exceed standard peak volumes.\n\n\n 8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_instruction_processing_rules"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-instruction-processing",
+          "title": "Acquisition, validation, linked/CoSD instructions, partial settlement, priority, collateral, processing phases and CAoF (Articles 68, 73–76)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Italian text prevails (cover, PDF 1). English translation excerpt.",
+            "Articles 69–72 (matching, cancellation, hold, finality) are the 13 September section milan-finality."
+          ],
+          "citations": [
+            {
+              "source_id": "8719262f5e8b",
+              "title": "Regulations as of 26 January 2026",
+              "source_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+              "source_sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+              "source_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
+              "locator": "Article 68; PDF 49–50, printed 48–49",
+              "pdf_pages": [
+                49,
+                50
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "26 January 2026",
+              "publication_date": null,
+              "revision_date": null
+            },
+            {
+              "source_id": "8719262f5e8b",
+              "title": "Regulations as of 26 January 2026",
+              "source_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+              "source_sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+              "source_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
+              "locator": "Articles 73–76; PDF 52–53, printed 51–52",
+              "pdf_pages": [
+                52,
+                53
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "26 January 2026",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "8719262f5e8b",
+              "locator": "Article 68; PDF 49–50, printed 48–49",
+              "text": "Article 68 – Acquisition of settlement Instructions\n\n1. Settlement instructions are acquired by the Settlement Service regarding:\n      a) individual transactions (DVP or FOP);\n      b) bilateral netting of securities and cash balances;\n       c) securities and cash balances, netted via interposition of a Central\n         Counterparty.\n2. During acquisition, the Settlement Services checks:\n    ▪ the completeness of the settlement instruction and its formal correctness to\n     ensure the ensuing processing by the Service; and\n    ▪ the matching of the settlement instruction data with personal data found in\n     T2S (common static data), as well as with any restrictions, including the\n     matching of the financial instruments involved with the provisions of Article\n      86.\n3. The validated settlement Instructions are forwarded to the subsequent phases\n   of the service. Non-validated Settlement Instructions are rejected.\n4. Settlement Instructions can establish that the settlement:\n    ▪  is connected to the settlement of linked instructions; or\n    ▪  is  conditional on  the  occurrence  of  specific  conditions  outside T2S\n      (Conditional Securities Delivery CoSD7).\n5. Participants may also specify:\n    ▪ the possibility of a partial settlement, within the limits allowed by the T2S\n      system’s functionalities; and\n    ▪ the rule priority of the settlement instruction entered, within the limits\n      allowed by the functionalities of T2S and taking into account that Monte\n       Titoli  assigns  priority  to  the  settlement  Instructions  in  which  the\n      counterparty is the Italian Ministry of Finance, those involving monetary\n\n\n7 Conditional securities delivery in T2S refers to a procedure in which the final posting of securities and/or cash is dependent on\nthe successful completion of an additional action or event external to T2S and confirmed by an administering party.\n\n48    In force as of 26 January 2026\n\n\n\n[PDF page 50]\n\n                                                            SERVICE REGULATIONS\n\n\n      policy transactions and those concerning transfer of collateral by the Bank\n      of  Italy  and,  subsequently,  those coming from Market Management\n     Companies.\n6. Participants are informed of the result of the validation process."
+            },
+            {
+              "source_id": "8719262f5e8b",
+              "locator": "Articles 73–76; PDF 52–53, printed 51–52",
+              "text": "Article 73– Automatic mechanisms for posting Collateral\n\n1.   The participants to the Settlement Service and/or their Agent Banks that\n    have previously communicated their intention to avail themselves of the\n     automatic mechanisms for posting Collateral must, with the methods and\n     time frames provided for in the Instructions, indicate the securities accounts\n     and/or the positions that can be used for collateralisation and the exposure\n      limits to be considered in the settlement process.\n2.   The activation of the collateralisation mechanisms causes the automatic\n     generation  of  settlement  instructions by  the Settlement  Service. The\n     settlement instructions arising from collateralisation are settled jointly with\n     the original Settlement Instructions, relative to which the mechanism for\n     posting Collateral was activated.\n\nArticle 74 – Processing of the settlement Instructions\n\n1. The settlement process includes a night-time phase and a day-time phase. In\n   each phase the Settlement Instructions are processed on a gross basis.\n2. In  each  phase,  according  to  the  eligibility  criteria  of  the  settlement\n   Instructions, Monte Titoli settles:\n      a) the new settlement Instructions entered before each phase during the\n         night-time settlement phase and in real-time during the daytime phase,\n          including the instructions for realignment and those resulting from any\n         corporate actions; and\n      b) the Settlement Instructions that remained unsettled in the previous\n         phase.\n\n51    In force as of 26 January 2026\n\n\n\n[PDF page 53]\n\n                                                            SERVICE REGULATIONS\n\n\n3. The settlement Instructions are processed through the following steps:\n      a) check on the settlement status of the instruction;\n      b) check on the counterparties’ securities and cash account capacities. This\n          includes  verifying whether resources are  available as a  result  of\n           collateralisation, as well as checking any exposure limits set by the\n          Participant or its Agent Bank in the TARGET2 system;\n       c)  if there is securities and cash capacity, T2S settles the securities by\n          debiting the Seller and crediting the Purchaser with the amount of the\n          transaction.\n4.  If a number of settlement instructions are handled jointly in the same phase\n    for reasons of optimisation, T2S makes the checks referred to in letter b) of\n   the previous paragraph, based on the net balance following the relevant\n   settlement Instructions.  If there  is not enough capacity to settle the net\n   balance, T2S identifies the settlement Instructions that cannot be settled and\n   then, taking into account their characteristics:\n        -  checks the possibility of settling them through a collateralisation process,\n         in the event of a cash deficit;\n        -  checks the possibility of partially settling them, in the event of a\n        securities deficit.\n5. Settlement Instructions that have not been settled because of insufficient\n   securities or cash are re-proposed in the subsequent phase of the same\n   settlement day or for settlement on the subsequent day, until they are settled\n   or cancelled in accordance with the Article 70.\n6. Participants may change settlement Instructions that have been proposed\n   again, also partially, but only with regard to the status indicators, on condition\n   that such settlement Instructions have not been entered as non-changeable.\n\nArticle 75 – Sequence in Processing Settlement Instructions\n\n1. To improve  the  efficiency  of  the  settlement  process, TS2 implements\n   optimisation mechanisms aimed at maximising its outcome.\n2.  If several settlement Instructions make use of the resources available on the\n  same securities or cash account, the optimisation process takes into account\n   the priority criteria for the management of settlement Instructions referred to\n    in Article 68, paragraph 5. In the event of equal priority, the settlement\n   Instructions with the  earlier settlement date are settled  first within the\n   functioning limits of the T2S platform.\n\nArticle 76 – Management of non-settled Settlement Instructions\n(Corporate Action of Flow - CAoF)\n\n1. Monte Titoli may change or cancel the settlement Instructions that have not\n   been  settled on  the  established  settlement date and concern  financial\n   instruments involved in corporate actions or, in relation to such Instructions,\n     it may  enter  additional  settlement  Instructions aimed  at  rectifying the\n   distorting impacts of the event. The operating procedures for the management\n   of these settlement Instructions are set out in the Instructions.\n\n\n\n52    In force as of 26 January 2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_participant_cutoff"
+      },
+      "router_notes": {},
+      "status": "blocked",
+      "reason": "Applicable Milan timetable notice chain remains unresolved.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": [
+        "G01"
+      ],
+      "topic_review_dates": null,
+      "evidence": []
+    }
+  ]
+}

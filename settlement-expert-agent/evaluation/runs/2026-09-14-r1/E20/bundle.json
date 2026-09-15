@@ -1,0 +1,171 @@
+{
+  "generated_at_utc": "2026-09-14T09:57:12.098932+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Copenhagen",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "copenhagen_dcp_entitlements"
+      },
+      "router_notes": {},
+      "status": "blocked",
+      "reason": "Copenhagen DCP User Guidelines and accepted service tests are not public; Part 5 states requirements only.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": [
+        "G10"
+      ],
+      "topic_review_dates": null,
+      "evidence": []
+    },
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "Copenhagen",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "dcp_admission"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "copenhagen-dcp",
+          "title": "DCP certification and continuing participation agreement",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Copenhagen"
+          ],
+          "applicability_basis": "publication_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Published requirements; exact User Guidelines and accepted service tests are unverified.",
+            "Qualified description of the published requirements at the review date; operative effective date is not established. This does not certify current legal applicability."
+          ],
+          "citations": [
+            {
+              "source_id": "a7e4ccfb2933",
+              "title": "Part 5 - DCP Service Rules (PDF)",
+              "source_url": "https://www.euronext.com/sites/default/files/2023-08/Rule%20Book%20Part%205%20T2S%20DCP%20Service%20Rules.pdf",
+              "source_sha256": "4ab78c08eb5434df2533c68b055a01f2342c91620ccf70279aaed5c61b2d2586",
+              "source_path": "sources/documents/a7e4ccfb2933-Part-5-DCP-Service-Rules-PDF.pdf",
+              "locator": "Part 5 §§1–3; PDF 2–3",
+              "pdf_pages": [
+                2,
+                3
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "Part 5 DCP rules: published August 2023; still linked in current rulebook.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "a7e4ccfb2933",
+              "locator": "Part 5 §§1–3; PDF 2–3",
+              "text": "1.         Scope\n1.1         These T2S – DCP Service Rules (the “DCP Rules”) being part 5 of the VP Rule\n            Book apply to the DCP Services (as defined below.\n1.2          In the event of any inconsistency between the DCP Rules and other parts of the\n               Participation Agreement, the DCP Rules shall prevail.\n1.3         Terms defined in Part 1 of the VP Rule book (Definitions)  have the same\n            meaning when used in these DCP Rules, unless otherwise stated herein or the\n              context otherwise requires.\n\n\n2.          Authorisation and Certification\n2.1        From the date VP decides to give the Participant access to the T2S system, VP\n              authorises the Participant with direct access – i.e. a direct network connection\n                - to the T2S platform, in respect of the securities related services, privileges\n            and T2S functions as described in the User Guidelines (the “DCP Services”),\n              unless otherwise agreed. Further, the Participant will be authorised to use the\n            message-types and transaction types as specified in the form “Request for DCP-\n             access to T2S”.\n2.2         The Participant acknowledges that being a DCP via VP might differ in terms of\n               available services and functions, and acts and tests to be conducted, compared\n              to other markets.\n2.3         The Participant must be in the possession of a valid T2S certification received\n            from the Eurosystem. According to the framework agreement entered into\n            between the Eurosystem and each CSD participating in T2S (the “Framework\n             Agreement”), the T2S certificate aims to provide evidence that the adapted IT\n              platform of a Participant does not harm the T2S system as the result of\n              inappropriate technical communication or procedures. For that purpose, the\n               Participant must perform such Eurosystem certification tests and other acts as\n              required by the Eurosystem from time to time, cf. clause 4. The test scenarios\n             are identical for all markets and are solely defined by the Eurosystem, but may\n             vary depending on the connectivity channel used, the Participants plans to\n             connect to multiple CSDs, etc.\n2.4             It  is solely the  Participant’s responsibility to obtain and maintain a T2S\n                certificate.\n2.5        VP is obliged to set-up the access for the Participant in the T2S system in\n             accordance  with  the  authorisation  described  in  this  section. A  further\n              description of the set-up process, is contained in the User Guidelines.\n\n\n3.          Technical and operational requirements, legal requirements, etc.\n3.1         The Participant must have signed a Participation Agreement with VP on access\n             as Settlement Participant to the central securities depositary services provided\n            by VP, and will, in addition to these DCP Rules, be bound by the same terms as\n            a Participant only acting as an ICP, unless these DCP Rules provides otherwise.\n3.2         The Participant must connect to the T2S platform by using the technical\n              connection, communication interface, etc. as set forth by the Eurosystem or VP\n            from time to time.\n3.3         The Participant must perform all such acts and tests as may be reasonably\n             requested by VP or the Eurosystem from time to time. The tests must be\n            performed successfully to a level satisfactory for VP or the Eurosystem, as the\n             case might be.\n\n\n   T2S – DCP Service Rules - Version 01                                                            | 2 of 6\n\n\n\n[PDF page 3]\n\n3.4         The Participant might want to perform  its own tests, which could require\n              assistance from VP. VP will assist the Participant in performing such tests on a\n              best effort basis.\n\n\n3.5          VP’s set up to the T2S platform has certain VP specific technical characteristics,\n             which the Participant must comply with. The VP specific technical characteristics\n             are further described in User Guidelines.\n3.6         With the purpose to ensure that the IT platform of a Participant does not harm\n             the T2S system as the result of inappropriate technical communication or\n             procedures, and to ensure that the T2S system operates safely and efficiently,\n           VP may request such  information, documents and assurances from the\n               Participant, which VP may reasonable require from time to time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Copenhagen",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "copenhagen_t2s_settlement"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "copenhagen-t2s-settlement",
+          "title": "T2S settlement at VP: access (ICP/DCP), eligibility, accounts, auto-collateral, pre-match, moments of entry, irrevocability, finality and insolvency (Part 4 §11)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Copenhagen"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "English rulebook text; Danish law governs the VP system and no authoritative-language statement was reviewed.",
+            "The clause links an outdated T2S UHB URL (v2.1, 2015); use the current UDFS sections for platform mechanics.",
+            "Pre-match by VP creates a consolidated already-matched instruction: moments of entry differ for pre-matched and non-pre-matched orders."
+          ],
+          "citations": [
+            {
+              "source_id": "3d76a327339b",
+              "title": "Part 4 - Settlement Rules (PDF)",
+              "source_url": "https://www.euronext.com/sites/default/files/2025-05/es-cph_rule_book_part_4_settlement_rules.pdf",
+              "source_sha256": "3d0aa6ae592cbd924203c7ac8d529666ecdc00903876579ea43262a48c4e716c",
+              "source_path": "sources/documents/3d76a327339b-Part-4-Settlement-Rules-PDF.pdf",
+              "locator": "Part 4 §11; PDF 14–17",
+              "pdf_pages": [
+                14,
+                15,
+                16,
+                17
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "Part 4 Settlement Rules: 1 May 2025.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "3d76a327339b",
+              "locator": "Part 4 §11; PDF 14–17",
+              "text": "11.        T2S Settlement\n\n11.1        General\n11.1.1      The T2S Settlement services available to Settlement Participants are\n              described in detail in the T2S User Detailed Functional Specification and in the\n           T2S User Handbook (together the T2S User Guidelines) available on the\n            European Central Bank webpage\n             (https://www.ecb.europa.eu/paym/t2s/pdf/t2s_uhb_v2.1_clean_20151202.p\n            df?c485053816eb8ca53b82c066cc118a8d). The T2S User Guidelines also\n             apply to the Settlement Participant unless the VP Rule Book provides\n              otherwise.\n\n11.2       Access rules\n11.2.1      A Settlement Participant may instruct a Transfer Order to T2S, either via VP if\n                      it is an ICP of T2S or directly via the T2S platform if it is a DCP of T2S. In order\n              to become a DCP the Settlement Participant must enter into a separate\n            agreement with VP.\n\n11.3       T2S Settlement - Transfer Orders\n11.3.1      A Settlement  Participant  is  entitled  to  instruct Transfer Orders  for T2S\n             Settlement,  if the Settlement Participant complies with the terms set out in\n              clause 11.4. Also MTS Denmark may submit Transfer Orders in respect of bonds\n             traded in MTS Denmark.\n11.3.2        Transfer Orders may settle via T2S Settlement if the following conditions are\n            met:\n               A.   In case of a DvP, DwP and FoP transaction:\n\n                                   i.    The securities concerned are eligible for Settlement via T2S\n                           according to the User Guidelines and are made available on T2S\n                         (“T2S Eligible Securities”),\n\n                                   ii.    The securities concerned are book-entered with VP, and\n\n\n\nSettlement Rules - Version 13                                                                 | 14 of 17\n\n\n\n[PDF page 15]\n\n               B.   In case of a DvP, DwP and PFoD transaction, the settlement currency is\n                  a T2S Currency, and the transaction is to be settled in central bank\n                 money, unless specifically agreed otherwise with VP.\n\n11.4       T2S Accounts\n11.4.1      A Settlement Participant must have access to at least one T2S Account with VP,\n              unless the Settlement Participant does not need to settle T2S Settlement\n             Required Transactions.\n11.4.2      A Settlement Participant may in respect of the securities registered on a T2S\n             Account use the functionalities blocking, reservation and earmarking as further\n              described in the User Guidelines.\n\n11.5       T2S Auto-Collateral\n11.5.1        Securities on a T2S Account can be used for T2S Auto-Collateral as agreed with\n             VP. This requires that  (i) the Cash Settlement Agent has entered into an\n            agreement according to which the securities registered on one or more defined\n           T2S Account(s) may be used as collateral for credits granted by the relevant\n               central bank in connection with T2S Settlement (referred to as the T2S Auto-\n               Collateral agreement), (ii) the Cash Settlement Agent has delivered to VP a\n            form stipulating that it wants to use T2S Auto-Collateral, and (iii) that the T2S\n             Account has been earmarked for T2S Auto-Collateral by registration of a\n                restrictive right in the VP Clearing and Settlement system. The types of\n                restrictive rights that may be registered in this respect are described in the\n             User Guidelines.\n11.5.2      The VP Clearing and Settlement System supports the different T2S Auto-\n               Collateral processes which are offered by the T2S System and described in the\n           T2S User Guidelines. The T2S Auto-Collateral process depends on the T2S\n              Auto-Collateral agreement entered into between the Settlement Participant and\n             the relevant central bank. When a Settlement Participant enters into a T2S\n              Auto-Collateral agreement the Settlement Participant must initiate the set-up\n               of the right account structure with VP, and the central bank must instruct the\n           T2S system. Hereafter the T2S Auto-Collateral is handled automatically by the\n           T2S system in accordance with the T2S User Guidelines.\n\n11.6        Entering of Transfer Orders, Validation and Pre-Match\n11.6.1          All securities registered on a T2S Account may be used for T2S Settlement, and\n             cannot be used for VP Settlement, unless the securities are transferred to a VP\n             Account. The User Guidelines contain a detailed description of how and when\n               securities may be transferred between VP Accounts and T2S Accounts.\n11.6.2      A Transfer Order instructed for T2S Settlement is validated by VP upon receipt\n                in order to declare it compliant with the technical rules of T2S as set out in the\n           T2S User Guidelines. First, VP verifies that the sending party is authorised to\n               instruct the Transfer Order via VP. Subsequently, VP applies the validation\n                 criteria, and validates  if the mandatory data fields are correctly filled in. A\n               detailed description of the information to be reported for validation is contained\n                in the User Guidelines.\n11.6.3      An unsuccessful validation of a Transfer Order causes a rejection of the Transfer\n             Order, and information of the reason for the rejection are generated and sent\n              to the submitting party.\n\n\n\nSettlement Rules - Version 13                                                                 | 15 of 17\n\n\n\n[PDF page 16]\n\n11.6.4      Upon a successful validation of a Transfer Order concerning a T2S Transfer, but\n               prior to upload of the Transfer Order for entry in the match module on the T2S\n              platform, VP will attempt to perform Match outside the T2S platform (a Pre-\n             Match), as further described in the User Guidelines. In case of no pre-match,\n             the Transfer Order is immediately passed on by VP to the T2S platform for\n            Match in the T2S matching module. If the result of the Pre-Match is successful,\n           VP will create a new consolidated Transfer Order to T2S for entry in the T2S\n            match module as described in the User Guidelines.\n11.6.5      The right for VP to conduct Pre-Matches follows from an agreement (the\n               Collective Agreement) with the ECB.\n11.6.6          If the transaction amount instructed by the receiving Settlement Participant\n                differs from that instructed by the delivering Settlement Participant, the\n              transaction amount submitted  in the Transfer Order from the delivering\n             Settlement Participant prevails, provided that the difference does not exceed\n             the T2S tolerance match rules as set out in the T2S User Guidelines.\n11.6.7      A Transfer Order, which has been successfully validated and Pre-Matched, is\n           deemed \"entered\" into the VP Clearing and Settlement system at the moment\n               at which  it was declared compliant with the technical rules of T2S by VP\n              (the Moment of Entry into the System for pre-matched Transfer Orders).\n            Whereas a Transfer Order for T2S Settlement, that has not been Pre-Matched,\n             but passed on to the T2S System, is deemed “entered” into at the moment at\n             which it has been declared compliant with the technical rules of T2S by the T2S\n              platform (the Moment of Entry into the System for not pre-matched Transfer\n              Orders).\n11.6.8      A Transfer Order may be submitted for same day settlement, for settlement up\n              to 13 months in advance of the settlement day, and for a settlement day in the\n             past if all relevant static data were valid at the past settlement day.\n11.6.9      VP supports various T2S  functionalities such as  linking,  partial  delivery,\n                prioritization, etc. The functionalities supported by VP are described in the User\n              Guidelines.\n\n11.7       Matching on the T2S platform\n11.7.1      When a Transfer Order has been given the status “Matched” on the T2S\n              platform, irrespectively of whether it has been Pre-Matched or not, the Transfer\n             Order  cannot  unilaterally  be  cancelled  or  revoked  (the  Moment  of\n                Irrevocability). From the Moment of Irrevocability and until settlement has\n             taken place, the functionality “Hold & Release” may, however, be applied by\n            each party and the parties may bilaterally agree to cancel their Transfer Orders\n                until settlement. This is further described in the User Guidelines.\n11.7.2      A Transfer Order that has not been matched will be handled in accordance with\n             the Recycling terms set out in the T2S User Guidelines.\n\n11.8        Settlement\n11.8.1      General\n11.8.1.1     T2S Settlement  is  carried out by  crediting/debiting the T2S Account as\n               applicable, and debiting/crediting a linked DCA as applicable. VP is not involved\n                in the process of providing cash liquidity on the DCA as lines are handled in the\n           payment system by the Cash Settlement Agent and the relevant central bank.\n              For FoP Settlement, the DCA is not impacted.\n\n\n\nSettlement Rules - Version 13                                                                 | 16 of 17\n\n\n\n[PDF page 17]\n\n11.8.1.2    A Transfer Order that has been matched but not settled because of lack of\n             coverage will be handled in accordance with the recycling terms set out in the\n             User Guidelines.\n11.8.1.3     Information on Securities Account entries on the T2S platform will be made\n               available to the affected Settlement Participants and other relevant parties as\n              described in the User Guidelines.\n11.8.2      Settlement Finality\n11.8.2.1    A Transfer Order is finally settled (unconditional, irrevocable and enforceable)\n             as from the account entry (credit) of the securities on the receiving Settlement\n               Participant’s Securities Account on the T2S platform (the Moment of Settlement\n                Finality). The corresponding account entry will hereafter be mirrored in the VP\n              Clearing and Settlement System.\n11.8.3      T2S Settlement in the event of Insolvency Proceedings of a Participant\n11.8.3.1     Settlement of Transfer Orders in accordance with clause 11.8.1 takes place\n                until VP has received an authoritative notice on Insolvency Proceedings of a\n             Settlement Participant from the Danish FSA or other public authority, and VP\n              hereafter has initiated its T2S insolvency procedures as described below. VP\n          may also issue a default notice prior to any authoritative notice and request\n              that the Settlement Participant provide VP with a statement on the Settlement\n               Participant’s current status pursuant to its applicable corporate or company\n              law.\n11.8.3.2      Transfer Orders submitted by the insolvent Settlement Participant that have\n             reached Moment of Entry and where also the relevant corresponding Transfer\n             Orders submitted by counterparties have reached Moment of Entry prior to the\n          moment of opening of the Insolvency Proceedings will be attempted settled in\n             the T2S system.\n11.8.3.3      Transfer Orders that have reached Moment of Entry after the moment of\n             opening of the Insolvency Proceedings, but have been matched on the T2S\n              platform prior to VP became aware, nor should have been aware of the opening\n               of such proceedings, and are for settlement on the same T2S Business Day will\n            be attempted settled in the T2S system, but will, however be cancelled  if\n              unsettled at the end of the day.\n11.8.3.4      Transfer  Orders  not  covered  in  clauses  11.8.3.2 and  11.8.3.3  will be\n             immediately cancelled after VP becomes aware of the opening of the Insolvency\n              Proceedings.\n11.8.3.5      In case  of insolvency  of a Settlement Participant VP  will make relevant\n              insolvency information available to relevant parties on the T2S settlement\n              platform in accordance with the T2S User Guidelines and European Securities\n            and Markets Authority’s “Guidelines on CSD participants default rules and\n              procedures”.\n11.8.3.6     Any actions taken by VP in the event of the opening of Insolvency Proceedings\n              against a Settlement Participant will be executed in accordance with the T2S\n             User Guidelines on a case-by-case basis.\n\n\n\n\n\nSettlement Rules - Version 13                                                                 | 17 of 17"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

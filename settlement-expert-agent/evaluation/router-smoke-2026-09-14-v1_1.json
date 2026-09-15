@@ -1,0 +1,1161 @@
+{
+  "generated_at_utc": "2026-09-15T09:20:46.181252+00:00",
+  "router_revision": "v1.1",
+  "note": "Maintainer-authored paraphrases written after the v1.1 router revision and not used to tune it; a smoke check of the deterministic router plus retriever, not a held-out evaluation.",
+  "passed": 14,
+  "total": 14,
+  "cases": [
+    {
+      "id": "S01",
+      "question": "Our back office in Milan wants to know by what time an ICP has to hand over a DvP instruction to Monte Titoli so it settles today.",
+      "expect_sections": [],
+      "expect_statuses": [
+        "blocked"
+      ],
+      "expect_qt": [
+        "milan_participant_cutoff"
+      ],
+      "contexts": [
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "t2s_baseline_schedule",
+          "_note": "T2S platform route used because no route for the named CSD covers this topic"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "Milan",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "milan_connectivity_and_static_data"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "Milan",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "milan_xtrm_lifecycle_maintenance"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "Milan",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "milan_xtrm_service_access"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "Milan",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "milan_xtrm_field_mapping"
+        }
+      ],
+      "statuses": [
+        "evidence_only"
+      ],
+      "sections": [
+        "milan-connectivity-static-data",
+        "milan-xtrm-field-mapping",
+        "milan-xtrm-lifecycle",
+        "milan-xtrm-service",
+        "t2s-schedule-r2"
+      ],
+      "pass": false,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "t2s_baseline_schedule",
+            "_note": "T2S platform route used because no route for the named CSD covers this topic"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "Milan",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "milan_connectivity_and_static_data"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "Milan",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "milan_xtrm_lifecycle_maintenance"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "Milan",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "milan_xtrm_service_access"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "Milan",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "milan_xtrm_field_mapping"
+          },
+          {
+            "as_of": "2026-09-13",
+            "entity": "Milan",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "milan_participant_cutoff",
+            "_note": "explicitly blocked topic"
+          }
+        ],
+        "statuses": [
+          "blocked",
+          "evidence_only"
+        ],
+        "sections": [
+          "milan-connectivity-static-data",
+          "milan-xtrm-field-mapping",
+          "milan-xtrm-lifecycle",
+          "milan-xtrm-service",
+          "t2s-schedule-r2"
+        ],
+        "pass": true
+      }
+    },
+    {
+      "id": "S02",
+      "question": "If T2S says my instruction is matched, is the trade done?",
+      "expect_sections": [
+        "t2s-posting"
+      ],
+      "expect_statuses": [
+        "evidence_only"
+      ],
+      "contexts": [
+        {
+          "as_of": "2026-09-13",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "matching_concept"
+        }
+      ],
+      "statuses": [
+        "evidence_only"
+      ],
+      "sections": [
+        "t2s-matching",
+        "t2s-posting"
+      ],
+      "pass": true,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-13",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "matching_concept"
+          }
+        ],
+        "statuses": [
+          "evidence_only"
+        ],
+        "sections": [
+          "t2s-matching",
+          "t2s-posting"
+        ],
+        "pass": true
+      }
+    },
+    {
+      "id": "S03",
+      "question": "For how many business days will T2S keep retrying a matched instruction that keeps failing before it cancels it?",
+      "expect_sections": [
+        "t2s-recycling"
+      ],
+      "expect_statuses": [
+        "evidence_only"
+      ],
+      "contexts": [
+        {
+          "as_of": "2026-09-13",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "matching_concept"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "t2s_cancellation_process"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "t2s_baseline_schedule"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "business_day_timeline"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "t2s_recycling_periods"
+        }
+      ],
+      "statuses": [
+        "evidence_only"
+      ],
+      "sections": [
+        "t2s-cancellation",
+        "t2s-matching",
+        "t2s-posting",
+        "t2s-recycling",
+        "t2s-schedule-r2"
+      ],
+      "pass": true,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-13",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "matching_concept"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "t2s_cancellation_process"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "t2s_baseline_schedule"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "business_day_timeline"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "t2s_recycling_periods"
+          }
+        ],
+        "statuses": [
+          "evidence_only"
+        ],
+        "sections": [
+          "t2s-cancellation",
+          "t2s-matching",
+          "t2s-posting",
+          "t2s-recycling",
+          "t2s-schedule-r2"
+        ],
+        "pass": true
+      }
+    },
+    {
+      "id": "S04",
+      "question": "Which CSDs has Interbolsa connected to over T2S, and how are the inter-CSD legs generated?",
+      "expect_sections": [
+        "porto-cross-csd-links",
+        "t2s-realignment"
+      ],
+      "expect_statuses": [
+        "evidence_only"
+      ],
+      "contexts": [],
+      "statuses": [],
+      "sections": [],
+      "pass": false,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-13",
+            "entity": "Porto",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "realignment_mechanism"
+          },
+          {
+            "as_of": "2026-09-13",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "realignment_mechanism"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "Porto",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "reference",
+            "question_type": "porto_cross_csd_links"
+          }
+        ],
+        "statuses": [
+          "evidence_only"
+        ],
+        "sections": [
+          "porto-cross-csd-links",
+          "t2s-matching",
+          "t2s-posting",
+          "t2s-realignment"
+        ],
+        "pass": true
+      }
+    },
+    {
+      "id": "S05",
+      "question": "What does ATHEXCSD require a participant to put in a DSS settlement instruction?",
+      "expect_sections": [
+        "athens-instruction-content"
+      ],
+      "expect_statuses": [
+        "evidence_only"
+      ],
+      "contexts": [
+        {
+          "as_of": "2026-09-14",
+          "entity": "Athens",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "reference",
+          "question_type": "athens_instruction_content_matching"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "Athens",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "reference",
+          "question_type": "athens_settlement_methods"
+        }
+      ],
+      "statuses": [
+        "evidence_only"
+      ],
+      "sections": [
+        "athens-instruction-content",
+        "athens-settlement-methods"
+      ],
+      "pass": true,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-14",
+            "entity": "Athens",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "reference",
+            "question_type": "athens_instruction_content_matching"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "Athens",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "reference",
+            "question_type": "athens_settlement_methods"
+          }
+        ],
+        "statuses": [
+          "evidence_only"
+        ],
+        "sections": [
+          "athens-instruction-content",
+          "athens-settlement-methods"
+        ],
+        "pass": true
+      }
+    },
+    {
+      "id": "S06",
+      "question": "In VPO NOK, once my instruction is matched can I still pull it back?",
+      "expect_sections": [
+        "oslo-finality-moments"
+      ],
+      "expect_statuses": [
+        "evidence_only"
+      ],
+      "contexts": [
+        {
+          "as_of": "2026-09-13",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "matching_concept",
+          "_note": "T2S platform route used because no route for the named CSD covers this topic"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "Oslo",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "reference",
+          "question_type": "oslo_finality_moments"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "Oslo",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "reference",
+          "question_type": "oslo_instruction_submission_settlement"
+        }
+      ],
+      "statuses": [
+        "evidence_only"
+      ],
+      "sections": [
+        "oslo-edition-r2",
+        "oslo-finality-moments",
+        "oslo-submission-settlement",
+        "t2s-matching",
+        "t2s-posting"
+      ],
+      "pass": true,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-13",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "matching_concept",
+            "_note": "T2S platform route used because no route for the named CSD covers this topic"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "Oslo",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "reference",
+            "question_type": "oslo_finality_moments"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "Oslo",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "reference",
+            "question_type": "oslo_instruction_submission_settlement"
+          }
+        ],
+        "statuses": [
+          "evidence_only"
+        ],
+        "sections": [
+          "oslo-edition-r2",
+          "oslo-finality-moments",
+          "oslo-submission-settlement",
+          "t2s-matching",
+          "t2s-posting"
+        ],
+        "pass": true
+      }
+    },
+    {
+      "id": "S07",
+      "question": "Did T2S have any incident on 22 April 2026 in EUR?",
+      "expect_sections": [
+        "t2s-events-2026-04-22"
+      ],
+      "expect_statuses": [
+        "evidence_only"
+      ],
+      "contexts": [
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "dated_t2s_schedule",
+          "currency": "EUR",
+          "business_date": "2026-04-22"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "t2s_status_history",
+          "currency": "EUR",
+          "business_date": "2026-04-22"
+        }
+      ],
+      "statuses": [
+        "blocked",
+        "evidence_only"
+      ],
+      "sections": [
+        "t2s-events-2026-04-22"
+      ],
+      "pass": true,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "dated_t2s_schedule",
+            "currency": "EUR",
+            "business_date": "2026-04-22"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "t2s_status_history",
+            "currency": "EUR",
+            "business_date": "2026-04-22"
+          }
+        ],
+        "statuses": [
+          "blocked",
+          "evidence_only"
+        ],
+        "sections": [
+          "t2s-events-2026-04-22"
+        ],
+        "pass": true
+      }
+    },
+    {
+      "id": "S08",
+      "question": "What was the T2S timetable on 12 June 2026 for EUR?",
+      "expect_sections": [
+        "t2s-events-2026-06-12"
+      ],
+      "expect_statuses": [
+        "evidence_only",
+        "blocked"
+      ],
+      "contexts": [
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "t2s_baseline_schedule",
+          "business_date": "2026-06-12",
+          "currency": "EUR",
+          "_assumed": [
+            "currency=EUR"
+          ]
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "dated_t2s_schedule",
+          "currency": "EUR",
+          "business_date": "2026-06-12"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "t2s_status_history",
+          "business_date": "2026-06-12",
+          "currency": "EUR",
+          "_note": "dated status entries retrieved alongside the dated schedule route (v1.1)"
+        }
+      ],
+      "statuses": [
+        "blocked",
+        "evidence_only"
+      ],
+      "sections": [
+        "t2s-events-2026-06-12"
+      ],
+      "pass": true,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "t2s_baseline_schedule",
+            "business_date": "2026-06-12",
+            "currency": "EUR",
+            "_assumed": [
+              "currency=EUR"
+            ]
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "dated_t2s_schedule",
+            "currency": "EUR",
+            "business_date": "2026-06-12"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "t2s_status_history",
+            "business_date": "2026-06-12",
+            "currency": "EUR",
+            "_note": "dated status entries retrieved alongside the dated schedule route (v1.1)"
+          }
+        ],
+        "statuses": [
+          "blocked",
+          "evidence_only"
+        ],
+        "sections": [
+          "t2s-events-2026-06-12"
+        ],
+        "pass": true
+      }
+    },
+    {
+      "id": "S09",
+      "question": "Where will Euronext Amsterdam equity trades settle under the European offering and from when?",
+      "expect_sections": [
+        "milan-european-offering-golive"
+      ],
+      "expect_statuses": [
+        "evidence_only"
+      ],
+      "contexts": [
+        {
+          "as_of": "2026-09-14",
+          "entity": "Milan",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "future",
+          "question_type": "european_offering_go_live"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "Milan",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "future",
+          "question_type": "milan_securities_migration_event"
+        }
+      ],
+      "statuses": [
+        "evidence_only"
+      ],
+      "sections": [
+        "milan-european-offering-golive",
+        "milan-securities-migration-sep23"
+      ],
+      "pass": true,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-14",
+            "entity": "Milan",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "future",
+            "question_type": "european_offering_go_live"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "Milan",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "future",
+            "question_type": "milan_securities_migration_event"
+          }
+        ],
+        "statuses": [
+          "evidence_only"
+        ],
+        "sections": [
+          "milan-european-offering-golive",
+          "milan-securities-migration-sep23"
+        ],
+        "pass": true
+      }
+    },
+    {
+      "id": "S10",
+      "question": "Give me the full XSD element list with cardinalities for the T2S settlement instruction message.",
+      "expect_sections": [],
+      "expect_statuses": [
+        "blocked"
+      ],
+      "expect_qt": [
+        "mystandards_usage_rules"
+      ],
+      "contexts": [
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "t2s_message_sese023_scope",
+          "release": "R2026.JUN",
+          "_assumed": [
+            "release=R2026.JUN (deployed release assumed; the answer must disclose it)"
+          ]
+        },
+        {
+          "as_of": "2026-09-13",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "mystandards_usage_rules",
+          "_note": "explicitly blocked topic"
+        }
+      ],
+      "statuses": [
+        "blocked",
+        "evidence_only"
+      ],
+      "sections": [
+        "t2s-sese023-scope"
+      ],
+      "pass": true,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "t2s_message_sese023_scope",
+            "release": "R2026.JUN",
+            "_assumed": [
+              "release=R2026.JUN (deployed release assumed; the answer must disclose it)"
+            ]
+          },
+          {
+            "as_of": "2026-09-13",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "mystandards_usage_rules",
+            "_note": "explicitly blocked topic"
+          }
+        ],
+        "statuses": [
+          "blocked",
+          "evidence_only"
+        ],
+        "sections": [
+          "t2s-sese023-scope"
+        ],
+        "pass": true
+      }
+    },
+    {
+      "id": "S11",
+      "question": "How much does Monte Titoli charge per settlement instruction?",
+      "expect_sections": [],
+      "expect_statuses": [
+        "blocked"
+      ],
+      "expect_qt": [
+        "fee_amount"
+      ],
+      "contexts": [
+        {
+          "as_of": "2026-09-13",
+          "entity": "Milan",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "fee_amount",
+          "_note": "explicitly blocked topic"
+        }
+      ],
+      "statuses": [
+        "blocked"
+      ],
+      "sections": [],
+      "pass": true,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-13",
+            "entity": "Milan",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "fee_amount",
+            "_note": "explicitly blocked topic"
+          }
+        ],
+        "statuses": [
+          "blocked"
+        ],
+        "sections": [],
+        "pass": true
+      }
+    },
+    {
+      "id": "S12",
+      "question": "What is the T2S day schedule for EUR on 20 November 2026?",
+      "expect_sections": [
+        "t2s-schedule-r2"
+      ],
+      "expect_statuses": [
+        "evidence_only",
+        "blocked"
+      ],
+      "contexts": [
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "t2s_baseline_schedule",
+          "schedule_kind": "baseline",
+          "_note": "future business date: nominal baseline retrieved without the date; the dated route reports the missing overlay separately"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "dated_t2s_schedule",
+          "currency": "EUR",
+          "business_date": "2026-11-20"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "t2s_status_history",
+          "business_date": "2026-11-20",
+          "currency": "EUR",
+          "_note": "dated status entries retrieved alongside the dated schedule route (v1.1)"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "future",
+          "question_type": "release_status",
+          "_note": "future business date: release status retrieved for planned changes"
+        }
+      ],
+      "statuses": [
+        "blocked",
+        "evidence_only"
+      ],
+      "sections": [
+        "november-final-release",
+        "t2s-schedule-r2"
+      ],
+      "pass": true,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "t2s_baseline_schedule",
+            "schedule_kind": "baseline",
+            "_note": "future business date: nominal baseline retrieved without the date; the dated route reports the missing overlay separately"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "dated_t2s_schedule",
+            "currency": "EUR",
+            "business_date": "2026-11-20"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "t2s_status_history",
+            "business_date": "2026-11-20",
+            "currency": "EUR",
+            "_note": "dated status entries retrieved alongside the dated schedule route (v1.1)"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "future",
+            "question_type": "release_status",
+            "_note": "future business date: release status retrieved for planned changes"
+          }
+        ],
+        "statuses": [
+          "blocked",
+          "evidence_only"
+        ],
+        "sections": [
+          "november-final-release",
+          "t2s-schedule-r2"
+        ],
+        "pass": true
+      }
+    },
+    {
+      "id": "S13",
+      "question": "Which fields must both sides of a T2S DvP instruction agree on, and what happens if our cash amounts differ by one euro?",
+      "expect_sections": [
+        "t2s-matching"
+      ],
+      "expect_statuses": [
+        "evidence_only"
+      ],
+      "contexts": [
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "reference",
+          "question_type": "november_text_comparison"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "t2s_message_sese023_scope",
+          "release": "R2026.JUN",
+          "_assumed": [
+            "release=R2026.JUN (deployed release assumed; the answer must disclose it)"
+          ]
+        }
+      ],
+      "statuses": [
+        "evidence_only"
+      ],
+      "sections": [
+        "november-text-comparison",
+        "t2s-sese023-scope"
+      ],
+      "pass": false,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-13",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "matching_fields"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "t2s_message_sese023_scope",
+            "release": "R2026.JUN",
+            "_assumed": [
+              "release=R2026.JUN (deployed release assumed; the answer must disclose it)"
+            ]
+          }
+        ],
+        "statuses": [
+          "evidence_only"
+        ],
+        "sections": [
+          "t2s-matching",
+          "t2s-sese023-scope"
+        ],
+        "pass": true
+      }
+    },
+    {
+      "id": "S14",
+      "question": "When does a transfer order become irrevocable at Euronext Securities Copenhagen if it settles in T2S?",
+      "expect_sections": [
+        "copenhagen-t2s-settlement"
+      ],
+      "expect_statuses": [
+        "evidence_only"
+      ],
+      "contexts": [
+        {
+          "as_of": "2026-09-14",
+          "entity": "T2S",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "t2s_baseline_schedule"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "Copenhagen",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "copenhagen_vp_settlement_finality"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "Copenhagen",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "copenhagen_t2s_settlement"
+        },
+        {
+          "as_of": "2026-09-14",
+          "entity": "Copenhagen",
+          "service": "settlement",
+          "role": "participant",
+          "mode": "current",
+          "question_type": "copenhagen_settlement_routing"
+        }
+      ],
+      "statuses": [
+        "evidence_only"
+      ],
+      "sections": [
+        "copenhagen-routing",
+        "copenhagen-t2s-settlement",
+        "copenhagen-vp-matching-finality",
+        "t2s-schedule-r2"
+      ],
+      "pass": true,
+      "second_pass": {
+        "contexts": [
+          {
+            "as_of": "2026-09-14",
+            "entity": "T2S",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "t2s_baseline_schedule"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "Copenhagen",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "copenhagen_vp_settlement_finality"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "Copenhagen",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "copenhagen_t2s_settlement"
+          },
+          {
+            "as_of": "2026-09-14",
+            "entity": "Copenhagen",
+            "service": "settlement",
+            "role": "participant",
+            "mode": "current",
+            "question_type": "copenhagen_settlement_routing"
+          }
+        ],
+        "statuses": [
+          "evidence_only"
+        ],
+        "sections": [
+          "copenhagen-routing",
+          "copenhagen-t2s-settlement",
+          "copenhagen-vp-matching-finality",
+          "t2s-schedule-r2"
+        ],
+        "pass": true
+      }
+    }
+  ],
+  "first_pass": {
+    "passed": 11,
+    "total": 14,
+    "note": "before three pattern additions (participant cut-off wording, Porto/inter-CSD link wording, matching-field wording; November comparison pattern tightened)"
+  },
+  "second_pass_note": "after the three pattern additions; the r2 regression bundles were prepared before these additions"
+}

@@ -1,5 +1,7 @@
 # Coverage and limitations
 
+**Audit implementation update:** whole-document retrieval is disabled. The original inventory remains intact; reviewed sections and additional sources are listed in [the implementation report](IMPLEMENTATION-REPORT.md) and [the section register](retrieval/README.md). Historical counts below describe the original collection; the English DORA replacement is an additional legal capture.
+
 Research snapshot: **11 September 2026**.
 
 ## What is in the library

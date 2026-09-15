@@ -1,33 +1,28 @@
 # Euronext CSD knowledge library
 
-**Research date: 11 September 2026.** Public-source research covering **Athens, Copenhagen, Milan, Oslo and Porto**, plus CSDR, ESMA, T2S, PFMI, DORA and the T+1 transition.
+**Settlement Expert Agent snapshot added 14 September 2026, revision v1.1 the same day** (`settlement-expert-agent/`; evaluation run r1 on v1, regression run r2 on v1.1 — see `settlement-expert-agent/AGENT-SPEC.md` §9): a routed, evidence-bound answer and specification layer over the reviewed library, plus 93 additional reviewed sections (Milan rules and notices, T2S process chapters, Copenhagen, Porto, Athens, Oslo excerpts, EU law, dated ECB events). **Adversarial repairs completed 14 September 2026.** The original operational evidence retains its **13 September** review date; sections admitted on **14 September** carry that date. Covers Athens, Copenhagen, Milan, Oslo and Porto, T2S and selected EU regulatory provisions.
 
-The library contains **800 original document files**, with **84 prioritised documents and 14 selected legal texts** in the reading guide. Sources were downloaded, indexed and, where practical, extracted. Selected core passages were studied to write the synthesis; the full 29,084 PDF pages were not substantively reviewed.
-
-## Start here
+The original archive of **800 documents** is preserved. Retrieval now uses **124 reviewed sections from 51 source identities**, with explicit scope, citations, dates and source qualifications. Whole documents are not admitted. This supports bounded evidence retrieval; complete production instructions remain outside the reviewed coverage.
 
 | Need | Open |
 |---|---|
-| Understand how the CSDs function | [How the CSDs work](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/HOW-CSD-WORKS.md>) |
-| Find the requirements for operators, participants and issuers | [Requirements map](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/REQUIREMENTS-MAP.md>) |
-| Read the most useful, latest-found documents | [Prioritised reading guide](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/READING-GUIDE.md>) |
-| Search the complete collected inventory | [Full source catalogue](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/SOURCE-CATALOGUE.md>) |
-| See every document in one list, including sources used in this conversation | [Full document list](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/FULL-DOCUMENT-LIST.md>) |
-| Check versions, future dates and conflicting sources | [Currentness register](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/CURRENTNESS-REGISTER.md>) |
-| Build a retrieval knowledge base | [Ingestion and evaluation guide](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/KNOWLEDGE-BASE-DESIGN.md>) |
-| Understand coverage and remaining gaps | [Coverage and caveats](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/COVERAGE-AND-CAVEATS.md>) |
-| Upload a smaller starting selection | [21-source starter pack](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/starter-pack.zip>) |
+| Ask a settlement question or draft a specification with cited evidence | [Settlement Expert Agent](settlement-expert-agent/README.md) · [Evaluation report](settlement-expert-agent/evaluation/EVALUATION-REPORT.md) · [Coverage and gaps](settlement-expert-agent/COVERAGE-REGISTER.md) |
+| What was researched and admitted on 14 September | [Discovery log](implementation/2026-09-14-settlement-agent/DISCOVERY-LOG.md) · [Admission record](implementation/2026-09-14-settlement-agent/source-admission.json) · [June vs November UDFS comparison](implementation/2026-09-14-settlement-agent/UDFS-JUN-VS-NOV-DELTA.md) |
+| Latest repairs, results and remaining limits | [Adversarial repair report](ADVERSARIAL-REPAIRS.md) |
+| Earlier implementation and source-gap register | [Initial implementation report](IMPLEMENTATION-REPORT.md) |
+| Retrieve or import reviewed evidence | [Knowledge-base instructions](KNOWLEDGE-BASE-DESIGN.md) |
+| See precisely which sections are admitted | [Section index](retrieval/README.md) |
+| Copy the reviewed export and controls | [Reviewed evidence pack](reviewed-evidence-pack.zip) |
+| Understand CSD functions and requirements | [How CSDs work](HOW-CSD-WORKS.md) · [Requirements map](REQUIREMENTS-MAP.md) |
+| Understand investor/issuer CSD messages and timing | [Bounded cross-CSD flow](CROSS-CSD-FLOW.md) |
+| Check versions and future applicability | [Currentness register](CURRENTNESS-REGISTER.md) |
+| Find the wider inventory | [Full document list](FULL-DOCUMENT-LIST.md) · [Reading guide](READING-GUIDE.md) |
+| Inspect the independent audit | [Audit report](audits/2026-09-13/AUDIT-REPORT.md) |
 
-## What the research established
+The library separates current local rules, bounded reference material, European Offering, Convergence, future laws/releases, history and unresolved claims. Group branding is not proof that a rule applies to every CSD.
 
-Current local operations, the **September 2026 European Offering**, and the **longer-term Convergence programme** need separate collections. The European Offering launch is announced for **21 September 2026**. Convergence’s June/August 2026 specifications describe a future common platform, with an indicative migration sequence beginning in 2028. [Launch announcement](https://www.euronext.com/en/news/confirmation-go-live-euronexts-new-settlement-model-september-2026); [Convergence programme](https://www.euronext.com/en/csd/strategic-projects/convergence-programme).
+Remaining dependencies include the Milan timetable notice chain, Oslo edition approval, national approval/implementation evidence, instrument-specific static data and unreviewed or client-only production specifications. Exact tax/fee quotes and complete incident/default/onboarding procedures require additional scoped evidence. The implementation report tracks all 17 dependencies.
 
-Recent sources include the **2 September 2026 ESMA register**, **3 August 2026 Copenhagen rulebook updates**, **2026 Porto operating/technical manuals**, **July 2026 Athens resolution updates**, and **2026 Milan expansion documents**. The reading guide records older editions that remain the latest linked public baseline instead of discarding them by year.
+Originals are in `sources/`, original text derivatives in `extracted/`, and dated audit/implementation additions are in `audits/` and `implementation/`. The original audits, failed-case results and source bytes are preserved. **The old `starter-pack.zip` is reference-only; do not import it as an unrestricted knowledge base.**
 
-The Athens master rulebook has conflicting version labels, and the linked Oslo VPO copy retains an approval qualification. These are flagged and excluded from default current-state retrieval. Client-only manuals and exact implementation entitlements remain outside the public collection.
-
-## Files and provenance
-
-Originals live in `sources/documents/`; website snapshots in `sources/pages/`; extracted PDF and legal text in `extracted/`. The source catalogue links each retained document directly. SHA-256 hashes and acquisition results are retained in metadata.
-
-Use [curated-manifest.json](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/curated-manifest.json>) for the prioritised selection and [catalogue.json](</Users/mattiadalessandra/Documents/PERSONAL/outputs/euronext-csd-knowledge-base/catalogue.json>) for all discovered document records. The latter includes historical, future, duplicate and unreviewed material. Do not import every file as equally authoritative. The collection is a dated local snapshot, with no automatic update schedule or deployed chatbot.
+The curated manifest remains a reading guide. Prefer section exports partitioned by review date and mode. The local command enforces reviewed metadata; no hosted chatbot or automatic monitor is installed. The Settlement Expert Agent is a local pipeline that calls the same retriever and checks its own answers; its model runtimes (Claude Code CLI, Anthropic API) run only when the user provides credentials. Recheck the relevant sources before advancing their review date.

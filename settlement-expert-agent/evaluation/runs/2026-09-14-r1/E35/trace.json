@@ -1,0 +1,34 @@
+{
+  "case_id": "E35",
+  "category": "explanation",
+  "question": "What happens to my pending instructions if my counterparty at Monte Titoli becomes insolvent?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_default_procedure"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan"
+    ],
+    "topic_hits": [
+      "milan_default_procedure"
+    ],
+    "blocked_hits": [],
+    "dates": []
+  },
+  "statuses": [
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "milan-default-procedure"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

@@ -1,0 +1,54 @@
+{
+  "question": "Was T2S operating normally on 9 September 2026 for EUR settlement?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dated_t2s_schedule",
+      "currency": "EUR",
+      "business_date": "2026-09-09"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_status_history",
+      "business_date": "2026-09-09",
+      "currency": "EUR",
+      "_note": "dated status entries retrieved alongside the dated schedule route (v1.1)"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "T2S"
+    ],
+    "topic_hits": [
+      "dated_t2s_schedule",
+      "t2s_status_history"
+    ],
+    "blocked_hits": [],
+    "dates": [
+      "2026-09-09"
+    ],
+    "router_revision": "v1.1"
+  },
+  "runtime": "manual",
+  "model": null,
+  "statuses": [
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "t2s-schedule-r2",
+    "t2s-status-routine-2026"
+  ],
+  "build_manifest_sha256": "ed577c2eb315cf1592c3809547ea83f309034d3ac955896540fc39d5b0ebbf91",
+  "started_utc": "20260915T092340Z",
+  "answer": null,
+  "instructions": "Manual/agent runtime: compose the answer from prompt.user.md under prompt.system.md, save it as answer.md in this folder, then run: settlement_agent.py check --answer answer.md --bundle bundle.json --question '...' --out checks.json"
+}

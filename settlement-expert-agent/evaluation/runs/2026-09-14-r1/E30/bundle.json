@@ -1,0 +1,98 @@
+{
+  "generated_at_utc": "2026-09-14T09:53:15.321865+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "EU",
+        "service": "regulatory",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "sdr_matching_fields"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "sdr-matching-fields",
+          "title": "Settlement discipline RTS: matching functionality, mandatory matching fields, transaction-type field and tolerance levels (Articles 5–6)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "EU"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Legal context, not local procedures or Norway incorporation. Future amendments remain separate.",
+            "Article 5(3)(l) allows CSDs to require other matching fields; T2S and local field lists are separate sections."
+          ],
+          "citations": [
+            {
+              "source_id": "02018R1229-20240902",
+              "title": "Settlement Discipline RTS: consolidated 2 September 2024",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R1229-20240902",
+              "source_sha256": "4210b20e45553905898e18073556db929a521f6e34302c1b97021984923c05b5",
+              "source_path": "extracted/02018R1229-20240902-browser.txt",
+              "locator": "Regulation 2018/1229 Article 5; consolidation 2 September 2024",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": "EU official languages",
+              "translation_status": "original or official-language text",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Consolidated 2 September 2024",
+              "publication_date": null,
+              "revision_date": null
+            },
+            {
+              "source_id": "02018R1229-20240902",
+              "title": "Settlement Discipline RTS: consolidated 2 September 2024",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R1229-20240902",
+              "source_sha256": "4210b20e45553905898e18073556db929a521f6e34302c1b97021984923c05b5",
+              "source_path": "extracted/02018R1229-20240902-browser.txt",
+              "locator": "Article 6",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": "EU official languages",
+              "translation_status": "original or official-language text",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Consolidated 2 September 2024",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "02018R1229-20240902",
+              "locator": "Regulation 2018/1229 Article 5; consolidation 2 September 2024",
+              "text": "Article 5\n\nMatching and population of settlement instructions\n\n1.   CSDs shall provide to participants a functionality that supports fully automated, continuous real-time matching of settlement instructions throughout each business day.\n2.   \n\nCSDs shall require participants to match their settlement instructions through the functionality referred to in paragraph 1 prior to their settlement, except in the following circumstances:\n\n(a) \n\nwhere the CSD has accepted that the settlement instructions have already been matched by trading venues, CCPs or other entities;\n\n(b) \n\nwhere the CSD itself has matched the settlement instructions;\n\n(c) \n\nin the case of free of payment (‘FoP’) settlement instructions, referred to in point (g)(i) of Article 13(1), which consist of orders for transfers of financial instruments between different accounts opened in the name of the same participant or managed by the same account operator.\n\nAccount operators referred to in point (c) shall include entities that have a contractual relationship with a CSD and that operate securities accounts maintained by that CSD by means of recording book entries into those securities accounts.\n\n3.   \n\nCSDs shall require participants to use the following matching fields in their settlement instructions for the matching of settlement instructions:\n\n(a) \n\nthe type of settlement instruction, as referred to in point (g) of Article 13(1);\n\n(b) \n\nthe intended settlement date of the settlement instruction;\n\n(c) \n\nthe trade date;\n\n(d) \n\nthe currency, except in the case of FoP settlement instructions;\n\n(e) \n\nthe settlement amount, except in the case of FoP settlement instructions;\n\n(f) \n\nthe nominal value for debt instruments, or the quantity for other financial instruments;\n\n(g) \n\nthe delivery or receipt of the financial instruments or cash;\n\n(h) \n\nthe ISIN of the financial instrument;\n\n(i) \n\nthe identifier of the participant that delivers the financial instruments or cash;\n\n(j) \n\nthe identifier of the participant that receives the financial instruments or cash;\n\n(k) \n\nthe identifier of the CSD of the participant's counterparty, in the case of CSDs that use a common settlement infrastructure, including in the circumstances referred to in Article 30(5) of Regulation (EU) No 909/2014;\n\n(l) \n\nother matching fields required by the CSD for facilitating the settlement of transactions.\n\n4.   \n\nIn addition to the fields referred to in paragraph 3, CSDs shall require their participants to use a field indicating the transaction type in their settlement instructions based on the following taxonomy:\n\n(a) \n\npurchase or sale of securities;\n\n(b) \n\ncollateral management operations;\n\n(c) \n\nsecurities lending/borrowing operations;\n\n(d) \n\nrepurchase transactions;\n\n(e) \n\nother transactions (which can be identified by more granular ISO codes as provided by the CSD)."
+            },
+            {
+              "source_id": "02018R1229-20240902",
+              "locator": "Article 6",
+              "text": "Article 6\n\nTolerance levels\n\nFor the purpose of matching, CSDs shall set tolerance levels for settlement amounts.\n\nThe tolerance level shall represent the maximum difference between the settlement amounts in two corresponding settlement instructions that would still allow matching.\n\nFor settlement instructions in EUR, the tolerance level per settlement instruction shall be EUR 2 for settlement amounts of up to EUR 100 000 and EUR 25 for settlement amounts of more than EUR 100 000 . For settlement instructions in other currencies, the tolerance level per settlement instruction shall be of equivalent amounts based on the official exchange rate of the ECB, where available."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

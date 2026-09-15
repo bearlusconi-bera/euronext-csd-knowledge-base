@@ -1,0 +1,39 @@
+{
+  "case_id": "E33",
+  "category": "dated-routine",
+  "question": "Was T2S operating normally on 9 September 2026 for EUR settlement?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dated_t2s_schedule",
+      "currency": "EUR",
+      "business_date": "2026-09-09"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "T2S"
+    ],
+    "topic_hits": [
+      "dated_t2s_schedule"
+    ],
+    "blocked_hits": [],
+    "dates": [
+      "2026-09-09"
+    ]
+  },
+  "statuses": [
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "t2s-schedule-r2",
+    "t2s-status-routine-2026"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

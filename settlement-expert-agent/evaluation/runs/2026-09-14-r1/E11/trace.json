@@ -1,0 +1,33 @@
+{
+  "case_id": "E11",
+  "category": "adversarial-missing-source",
+  "question": "Under Monte Titoli's Service Regulations, when do settlement instructions become irrevocable (SF2)?",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan"
+    ],
+    "topic_hits": [
+      "finality"
+    ],
+    "blocked_hits": [],
+    "dates": [],
+    "simulation": "isolated in-memory library with source 8719262f5e8b pointing to a non-existent path; originals untouched"
+  },
+  "statuses": [
+    "blocked"
+  ],
+  "retrieved_sections": [],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

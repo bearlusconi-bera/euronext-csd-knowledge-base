@@ -1,0 +1,32 @@
+{
+  "generated_at_utc": "2026-09-14T09:53:13.509967+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "dated_t2s_schedule",
+        "business_date": "2026-W37-2",
+        "currency": "EUR"
+      },
+      "router_notes": {},
+      "status": "needs_context",
+      "reason": "Dates must be valid ISO YYYY-MM-DD values.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": []
+    }
+  ]
+}

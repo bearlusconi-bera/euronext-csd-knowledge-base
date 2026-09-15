@@ -1,0 +1,103 @@
+{
+  "case_id": "E20",
+  "category": "missing-source",
+  "question": "Which test cases in the Copenhagen DCP User Guidelines must we pass before going live as a DCP?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "copenhagen_dcp_entitlements"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dcp_admission"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "copenhagen_t2s_settlement"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Copenhagen"
+    ],
+    "topic_hits": [
+      "copenhagen_t2s_settlement",
+      "dcp_admission"
+    ],
+    "blocked_hits": [],
+    "dates": [],
+    "responder_reroute": {
+      "previous_contexts": null,
+      "applied": true
+    }
+  },
+  "statuses": [
+    "blocked",
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "copenhagen-dcp",
+    "copenhagen-t2s-settlement"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null,
+  "original_contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "copenhagen_dcp_entitlements"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dcp_admission"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "copenhagen_t2s_settlement"
+    }
+  ],
+  "original_contexts_recovered": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dcp_admission"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "copenhagen_t2s_settlement"
+    }
+  ],
+  "original_contexts_note": "Recovered post hoc by the maintainer on 2026-09-14: reroute_case.py recorded original_contexts after overwriting contexts, so the stored original_contexts equals the rerouted contexts. Recovered via deterministic_route(question) with the unchanged topic index (build manifest f9493d10a6f6)."
+}

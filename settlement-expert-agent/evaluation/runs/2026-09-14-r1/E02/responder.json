@@ -1,0 +1,8 @@
+{
+  "runtime": "claude-code-subagent",
+  "model": "claude-opus-5 (alias opus)",
+  "rerouted": false,
+  "reroute_reason": "Routing was adequate: matching_concept for Milan and for T2S (as_of 2026-09-13) delivered milan-finality (Articles 69-72 SF1/SF2/SF3), t2s-matching and t2s-posting, which together answer 'matched is not settled'. The third context (milan_settlement_message_field_change) is only marginally relevant but returned evidence_only, so no reroute was needed; the answer states explicitly why that notice does not bear on the question.",
+  "checker_failures_after_fix": [],
+  "notes": "9/9 deterministic checks passed. One self-correction before finalising: a sentence about Monte Titoli's disclosure of settlement progress was relabelled from 'Documented requirement' to 'Unresolved requirement', because Article 78 is not in this case's bundle; only Article 69(2) status disclosure is. Italian prevailing-language qualification carried for both Milan sections, review dates 13 and 14 September 2026 stated, notice-vs-Regulations limitation and the 'not a change to matching rules' limitation carried."
+}

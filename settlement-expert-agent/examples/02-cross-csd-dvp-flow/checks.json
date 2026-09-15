@@ -1,0 +1,80 @@
+{
+  "summary": {
+    "checks": 10,
+    "passed": 10,
+    "failed": [],
+    "cited_sections": [
+      "milan-cross-csd-disclosure",
+      "milan-finality",
+      "t2s-messages",
+      "t2s-posting",
+      "t2s-realignment",
+      "t2s-rts-phase",
+      "t2s-schedule-r2",
+      "t2s-sese024-usages"
+    ],
+    "retrieved_sections": [
+      "milan-cross-csd-disclosure",
+      "milan-finality",
+      "t2s-messages",
+      "t2s-posting",
+      "t2s-realignment",
+      "t2s-rts-phase",
+      "t2s-schedule-r2",
+      "t2s-sese024-usages"
+    ],
+    "uncited_retrieved": []
+  },
+  "checks": [
+    {
+      "check": "all_citations_in_bundle",
+      "outcome": "PASS",
+      "detail": "unknown citations: []"
+    },
+    {
+      "check": "has_citation_when_evidence_present",
+      "outcome": "PASS",
+      "detail": "evidence retrieved but no [[section-id]] citation"
+    },
+    {
+      "check": "discloses_blocked",
+      "outcome": "PASS",
+      "detail": "a retrieval returned blocked but the answer does not disclose it"
+    },
+    {
+      "check": "authoritative_language_it_disclosed",
+      "outcome": "PASS",
+      "detail": "translation used but governing language not mentioned"
+    },
+    {
+      "check": "review_date_stated",
+      "outcome": "PASS",
+      "detail": "none of ['2026-09-13', '2026-09-14'] stated"
+    },
+    {
+      "check": "no_unsupported_clock_times",
+      "outcome": "PASS",
+      "detail": "times absent from evidence: []"
+    },
+    {
+      "check": "no_unsupported_message_versions",
+      "outcome": "PASS",
+      "detail": "versions absent from evidence: []"
+    },
+    {
+      "check": "no_fabricated_xml",
+      "outcome": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no_unsupported_eur_amounts",
+      "outcome": "PASS",
+      "detail": "amounts absent from evidence: []"
+    },
+    {
+      "check": "labels_distinguished",
+      "outcome": "PASS",
+      "detail": "no explicit distinction between documented, inferred, proposed and unresolved content"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "generated_at_utc": "2026-09-14T09:53:15.454728+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_default_procedure"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-default-procedure",
+          "title": "Default management procedure: notification, blocks, cancellation table and cross-CSD hold (Title 4)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Italian text prevails (cover, PDF 1). English translation excerpt with uneven wording; quoted terms follow the source.",
+            "Cross-references to Article 57/59 numbering reflect the 2025 Instructions; the 2026 Regulations renumbered articles (e.g. Article 59 categories)."
+          ],
+          "citations": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "title": "Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025",
+              "source_url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf",
+              "source_sha256": "8c3b43dd7293906ee4915606dbe265ef1a446a6a6d85ea5448e5010b3cca7306",
+              "source_path": "sources/documents/dd1cf7cb930b-Instructions-to-Settlement-Service-and-related-instrumental-activities-in-force-as-of-30-J.pdf",
+              "locator": "Title 4 §§4–4.4; PDF 71–75, printed 67–71",
+              "pdf_pages": [
+                71,
+                72,
+                73,
+                74,
+                75
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Settlement Service Instructions in force as of 30 June 2025 (MN_10/2025)",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "dd1cf7cb930b",
+              "locator": "Title 4 §§4–4.4; PDF 71–75, printed 67–71",
+              "text": "4 DEFAULT MANAGEMENT PROCEDURE\n\n\nThe procedure applies to  all the settlement instructions (related to trades),\nrepurchase agreements and compensation securities and / or cash and resulting\nfrom guaranteed market transactions, non guaranteed market transactions and\nOTC) entered for settlement on Monte Titoli Settlement System and related to\nthe  Participants and  /  or  indirect  participants, pursuant the  to  Article 59,\nparagraph 5 of the Service Regulations.\n\nIf a Participant or Indirect Participant defaults, the procedure activated by Monte\nTitoli is divided into the following phases:\n      1.  Receipt of the declaration of default;\n      2.  Interventions on the  settlement system  in  order  to manage  the\n      transactions of the insolvent entity.\n The following definitions apply for managing insolvencies:\n -   “time of insolvency” or “TOI”, the moment an insolvency proceeding is\n    opened pursuant to article 3 of Legislative Decree 210/2001;\n -   “time of awareness” or “TOA”, the moment Monte Titoli becomes aware of\n     the insolvency status of one of its Participants or Indirect Participants.\n\n4.1 RECEIPT OF THE DECLARATION OF DEFAULT\n\nThis procedure applies when Monte Titoli is notified of a default, declared in Italy\nor another EU country or extra-EU, pursuant to Article 3(6) of Legislative Decree\n210/2001.\n\nThe procedure is activated by Monte Titoli:\n\n    •  upon receipt of the notification from the Bank of Italy, or\n\n    •  when Monte Titoli is aware of insolvency in the manner required by the\n      operational procedures for crisis management, defined in agreement with\n      the T2S System Operator; or by written note by a Participant or of a\n       central counterparty provided that the notice specifies that the sender \"\n      under its own responsibility gives notice of the opening of an insolvency\n      procedure under Legislative Decree 210/2001 against [name, LEI code,\n     CED code, ABI code of the insolvent participant]. This communication must\n     be made by the legal and/or contract representative of the Participant or\n       central counterparty.\n\n\n\n\n\n67\n\n\n\n[PDF page 72]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\nTo this end Monte Titoli has a procedure in place with the Bank of Italy that\nprovides for  it to receive notifications ex art. 3 comma 6 e 9 del D. Lgs. N.\n210/2001 at the following dedicated address:\n\nBINnotifyMT@lseg.com\n\nso as to ensure the prompt receipt and appropriate handling of notifications and\nthe timely communication of the moment and the way in which Monte Titoli has\nbeen informed of the opening of default proceedings and the operations that\nfollow:\n\n Immediately upon receiving notification, Monte Titoli:\n a)  in the case of the insolvency of a Participant, actives the Settlement System\n    technical  procedures  to  block:   i)  the  acquisition  of new  settlement\n    instructions in the Settlement System that are attributable to the insolvent\n    Participant; and  ii) amendments to settlement instructions already in the\n    Settlement System that are attributable to the same entity;\n   To this end, Monte Titoli: (i) blocks the acquisition of settlement instructions\n     in the Settlement System that are attributable to the insolvent Participant;\n      (ii) for direct connections, prevents the insolvent Participant from sending\n   new settlement instructions to the Settlement System, or from amending\n    Instructions already in the System;\n b)  in the case of insolvency of an Indirect Participant, blocks the acquisition of\n    settlement instructions in the Settlement System that are attributable to\n    the  insolvent  Indirect  Participant;  allows  the  Participant  that  settles\n    transactions on behalf of the Indirect  Participant to issue, on  its own\n    responsibility and  within 2  business  days  (not  including  the day  of\n     notification), new settlement  instructions on the accounts pursuant  to\n     article 57, paragraph 5, letter b) of the Regulation, for the sole purpose of\n    exercising retention rights and guarantee rights, within the limits permitted\n   by law;\n c)  cancels the intra-CSD settlement instructions already in the Settlement\n   System  that  are  attributable  to  the  insolvent  Participant  or  Indirect\n    Participant that have already been acquired by the Settlement System,\n    according to methods and timing set out in Chapter 4.2;\n d) puts a hold on the cross-CSD settlement instructions attributable to the\n    insolvent  Participant  or  Indirect  Participant  already  in  the  Settlement\n    System, according to methods and timing set out in Chapter 4.3;\n e) cancels  the  settlement  instructions from  the X-TRM  Service  that  are\n    attributable to the insolvent Participant or Indirect Participant that have not\n    yet been input in the Settlement System;\n f)  informs the Participants in the Settlement Service of the activation of the\n    default management procedure, specifying the TOI and the TOA.\n\n\n\n\n68\n\n\n\n[PDF page 73]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\nAs regards the notification of the default to the participants, in order to ensure\nthe unambiguous  identification  of  the  participant  that  has been  declared\ninsolvent, Monte Titoli will communicate the LEI code, the CED code and/or the\nABI code and the corresponding settlement account of the default Participant or\nIndirect Participant.\n\nAgain, with the aim of ensuring the adequate dissemination of the information,\nMonte  Titoli asks participants to keep the data of the subjects Monte  Titoli\nmust/can contact for the purposes of the default management procedure for the\nsame Participants or the clients of Indirect Participants updated (names, mailing\nlist, phone numbers, etc.).\n\nThis data is collected through the CLIMP application.\n\n4.2 CANCELLATION OF INTRA-CSD SETTLEMENT INSTRUCTIONS\nMonte Titoli will proceed with cancelling the intra-CSD settlement instructions in\nthe Settlement System that are attributable to the insolvent Participant or\nIndirect Participant according to methods and timing set out in the following\ntable.\n\n\n       Settlement instructions              Monte Titoli interventions\n\n\nEntered  prior  to  TOI  and  with  ISD   Are cancelled at the end of ISD,  if not\nsubsequent to the insolvency date            settled\n\n\nEntered prior to TOI and with ISD equal to   Are cancelled at the end of the day of the\nor prior to the insolvency date                insolvency, if unsettled\n\n\nEntered after TOI, observed prior to TOA\nand   with  ISD   subsequent   to   the   Are cancelled as soon as possible\ninsolvency date\n\n\nEntered after TOI, observed prior to TOA\n                                         Are cancelled if unsettled at the end of the\nand with ISD equal  to or  prior to the                                      day of insolvency\ninsolvency date\n\n\nEntered after TOI and observed after TOA    Are cancelled as soon as possible\n\n\n\n\n\n69\n\n\n\n[PDF page 74]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\nNotwithstanding  the  manner  and  timing  indicated  above,  for  settlement\ninstructions attributable to transactions guaranteed by a central counterparty\nthat uses the X-TRM Service to calculate balances (“CCP”), the following apply:\n\n   a) In the case of insolvency of an Indirect Participant that is a “client broker”\n      (“NCM”) tied to a CCP member entity (“GCM”), Monte Titoli cancels only\n      those settlement instructions created between the NCM and GCM that are\n       in the Settlement System, while instructions between GCM-CCP continue\n       to be settled. If the settlement instructions were created directly between\n    NCM - CCP, these settlement instructions are cancelled and together with\n      the CCP are re-instructed to a securities account communicated by the\n    GCM to the CCP;\n\n   b) In the case of insolvency of a Participant or Indirect Participant that is an\n       individual or general CCP member, Monte Titoli will cancel all settlement\n       instructions between the Participant, or Indirect Participant, and the CCP,\n      present in the Settlement System as soon as possible.\n\n\n4.3 INTERVENTIONS ON THE SETTLEMENT INSTRUCTION CROSS-CSD\n\nIn the case of default from a Direct or Indirect Participant to the Settlement\nService, Monte  Titoli applies the interventions set out in paragraph 2 to the\ncross-CSD  settlement  instructions,  substituting  settlement  cancellation  with\nsuspension (hold).\n\nThe cross-CSD settlement instructions on hold are subsequently assigned a\nunilateral cancellation status by Monte Titoli so that any cancellation requests\nentered by the counterparty (bilateral cancellation) may be processed by the\nSettlement System.\n\nIn the case of default of a participant in another CSD in T2S, shall apply the rules\nestablished by CSD  of the  insolvent  subject, except  for the  possibility  for\nParticipants of Monte Titoli to suspend liquidation of the settlement Instructions\nof offsetting to the default subject.\n\n\n4.4 INTERVENTIONS ON SETTLEMENT INSTRUCTIONS TO BE SETTLED\n   WITHIN THE FOREIGN SETTLEMENT SERVICE\n\nIn the event of default of a participant in the Foreign Settlement Service, upon\nreceiving notice pursuant to Chapter 4.1, Monte Titoli:\n\n- cancels the settlement instructions related to the participant in the X-TRM\nService, not yet forwarded to the Foreign CSD.\n\n\n\n\n70\n\n\n\n[PDF page 75]\n\n          INSTRUCTIONS TO SETTLEMENT SERVICE, AND RELATED INSTRUMENTAL ACTIVITIES\n\n\n\n\n\nIn the case of default by an entity that a Participant had identified as an Indirect\nParticipant pursuant to article 57, paragraph 5 of the Serivice Regulations, upon\nreceiving notice pursuant to Chapter 4.1, Monte Titoli:\n\n-  cancels  the  settlement  instructions  from  the X-TRM  Service  that  are\nattributable  to  the  insolvent  Indirect  Participant  that have  not  yet been\nforwarded to the Foreign CSD;\n\n\n\n\n\n71"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

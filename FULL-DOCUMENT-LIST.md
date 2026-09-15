@@ -1,5 +1,9 @@
 # Full document and source list
 
+**14 September source addition:** the November final-delivery cover and final UDFS are retained separately; only their cover-page identity/publication statements are admitted. See [the repair report](ADVERSARIAL-REPAIRS.md) and [source register](retrieval/source-register.json).
+
+**Audit implementation update:** whole-document retrieval is disabled. The original inventory remains intact; reviewed sections and additional sources are listed in [the implementation report](IMPLEMENTATION-REPORT.md) and [the section register](retrieval/README.md). Historical counts below describe the original collection; the English DORA replacement is an additional legal capture.
+
 Prepared 13 September 2026 from the 11 September research library and subsequent discussion. This inventory distinguishes files available for research from sources actually used in recent explanations. It is not a claim that every listed document has been fully read or remains applicable to every service.
 
 ## Direct sources for our recent explanations

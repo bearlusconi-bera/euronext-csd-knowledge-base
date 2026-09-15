@@ -1,0 +1,317 @@
+{
+  "generated_at_utc": "2026-09-15T09:18:14.743449+00:00",
+  "build_manifest_sha256": "ed577c2eb315cf1592c3809547ea83f309034d3ac955896540fc39d5b0ebbf91",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "finality"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-finality",
+          "title": "Matching, cancellation, hold and SF1/SF2/SF3",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "SF2 retains Article 70(2) bilateral cancellation. SF3 is the relevant cash debit or securities debit for FoP.",
+            "No insolvency runbook, legal opinion or unreviewed Article 72 remainder admitted."
+          ],
+          "citations": [
+            {
+              "source_id": "8719262f5e8b",
+              "title": "Regulations as of 26 January 2026",
+              "source_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+              "source_sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+              "source_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
+              "locator": "Articles 69–71 and 72(1)–(3), retaining 70(2); PDF 50–51, printed 49–50",
+              "pdf_pages": [
+                50,
+                51
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "26 January 2026",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "8719262f5e8b",
+              "locator": "Articles 69–71 and 72(1)–(3), retaining 70(2); PDF 50–51, printed 49–50",
+              "text": "Article 69 – Matching of Settlement Instructions\n\n1. The matching is carried out to check that the information corresponds to the\n   settlement instructions entered.\n2. The T2S system supplies the participants with complete disclosure regarding\n   the  status  of  the  settlement  instructions  entered and  the  settlement\n   instructions entered by the counterparty awaiting matching (alledgement).\n3. The matching checks referred to in paragraph 1 cover mandatory matching\n    fields, but may also regard the non-mandatory matching fields.\n4. Unmatched settlement instructions may be changed by the Participants, but\n   only as regards status indicators.\n\nArticle 70 - Cancellation of the settlement Instructions\n\n1. Settlement Instructions may be unilaterally cancelled by the Participant which\n   entered them up to the time of the matching, on condition that such Settlement\n   Instructions were not entered as non-changeable.\n2. Matched settlement Instructions may be cancelled bilaterally, with the consent\n   of both Participants, or upon request of an entity acting on their behalf, subject\n   to the prior submission to Monte Titoli of the relevant mandate.\n3. Cancellations are sent by the Participants with the methods and the time\n   frames provided for in the Instructions. They then go through the acquisition\n   phase and,  if referring to matched settlement Instructions, the matching\n   phase. When  the  cancellations  are  matched,  the  original  settlement\n   Instructions are cancelled.\n4. Market Management Companies and central counterparties may ask Monte\n    Titoli to block these functionalities with regard to their settlement Instructions,\n   according to the methods and conditions provided for in the operating rules for\n   these systems and in accordance with the provisions for T2S.\n5. Cancellations may also be entered by Monte  Titoli at the request of the\n   Participants and in the other cases established by the Rules, in accordance with\n   the provisions above.\n6. CoSD Settlement Instructions may only be cancelled by Monte Titoli.\n7. Automatic cancellation of settlement instructions from the T2S platform is\n   disposed when instructions:\n   a) have not passed the daily validation phase;\n   b) are not matched or are not settled within the time limits provided in the\n       Instructions;\n\n8. Participants are informed of the progress and outcome of the cancellation\n   process and of any automatic cancellation of settlement Instructions, pursuant\n   to the previous paragraph.\n\n\n49    In force as of 26 January 2026\n\n\n\n[PDF page 51]\n\n                                                            SERVICE REGULATIONS\n\n\nArticle 71 – Hold of the Settlement Instructions\n\n1. The participant may hold the settlement of the settlement instructions entered\n   by it so as not to subject them to settlement or hold the re-proposal of the\n   Settlement Instructions not regulated, also partially, until there is a specific\n   release, on condition that these Settlement Instructions have not been entered\n   as non-changeable.\n2. Market management companies and central counterparties may ask Monte\n    Titoli to block the use of this functionality with regard to their settlement\n   instructions, according to the methods and conditions provided for in the\n   operating rules for these systems and in accordance with the provisions for\n   T2S.\n3. The settlement may also be put on hold by Monte Titoli, at the request of the\n   participants and in the other cases established by the Rules, in accordance with\n   the provisions above.\n\nArticle 72 – Input into the Settlement System and irrevocability of\nsettlement Instructions\n\n1. Settlement Instructions are deemed “entered” into the Settlement System,\n   pursuant to Article 2(2) of Legislative Decree 210/2001, from the moment the\n   validation time in T2S ends (SF1).\n2. Settlement Instructions cannot be revoked by a participant or a third party\n   from the time of their matching in T2S (SF2), without prejudice to the bilateral\n   cancellation of settlement Instructions provided for under Article 70 (2).\n3. The transfer of securities and cash become final from the time of the debiting\n   of the cash, or of the securities when settlement by cash is not provided for.\n   (SF3)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "EU",
+        "service": "regulatory",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "csdr_definitions"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "csdr-2-definitions",
+          "title": "CSDR Article 2 definitions (settlement, participant, CSD link, ISD, settlement fail, DVP and others)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "EU"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Legal context, not local procedures or Norway incorporation. Future amendments remain separate."
+          ],
+          "citations": [
+            {
+              "source_id": "02014R0909-20260117",
+              "title": "CSDR: consolidated 17 January 2026",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117",
+              "source_sha256": "b299e08ef15e62d70ccc8b1b3f86113d6e59d1c1660f35fd2077639fd57c64ee",
+              "source_path": "extracted/02014R0909-20260117-browser.txt",
+              "locator": "CSDR Article 2; consolidation 17 January 2026",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": "EU official languages",
+              "translation_status": "original or official-language text",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": null,
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "02014R0909-20260117",
+              "locator": "CSDR Article 2; consolidation 17 January 2026",
+              "text": "Article 2\n\nDefinitions\n\n1.   \n\nFor the purposes of this Regulation, the following definitions apply:\n\n(1) \n\n‘central securities depository’ or ‘CSD’ means a legal person that operates a securities settlement system referred to in point (3) of Section A of the Annex and provides at least one other core service listed in Section A of the Annex;\n\n(2) \n\n‘third-country CSD’ means any legal entity established in a third country that provides a similar service to the core service referred to in point (3) of Section A of the Annex and performs at least one other core service listed in Section A of the Annex;\n\n(3) \n\n‘immobilisation’ means the act of concentrating the location of physical securities in a CSD in a way that enables subsequent transfers to be made by book entry;\n\n(4) \n\n‘dematerialised form’ means the fact that financial instruments exist only as book entry records;\n\n(5) \n\n‘receiving CSD’ means the CSD which receives the request of another CSD to have access to its services through a CSD link;\n\n(6) \n\n‘requesting CSD’ means the CSD which requests access to the services of another CSD through a CSD link;\n\n(7) \n\n‘settlement’ means the completion of a securities transaction where it is concluded with the aim of discharging the obligations of the parties to that transaction through the transfer of cash or securities, or both;\n\n(8) \n\n‘financial instruments’ or ‘securities’ means financial instruments as defined in point (15) of Article 4(1) of Directive 2014/65/EU;\n\n(9) \n\n‘transfer order’ means transfer order as defined in the second indent of point (i) of Article 2 of Directive 98/26/EC;\n\n(10) \n\n‘securities settlement system’ means a system under the first, second and third indents of point (a) of Article 2 of Directive 98/26/EC that is not operated by a central counterparty whose activity consists of the execution of transfer orders;\n\n(11) \n\n‘settlement internaliser’ means any institution, including one authorised in accordance with Directive 2013/36/EU or with Directive 2014/65/EU, which executes transfer orders on behalf of clients or on its own account other than through a securities settlement system;\n\n(12) \n\n‘intended settlement date’ means the date that is entered into the securities settlement system as the settlement date and on which the parties to a securities transaction agree that settlement is to take place;\n\n(13) \n\n‘settlement period’ means the time period between the trade date and the intended settlement date;\n\n(14) \n\n‘business day’ means business day as defined in point (n) of Article 2 of Directive 98/26/EC;\n\n(15) \n\n‘settlement fail’ means the non-occurrence of settlement, or partial settlement of a securities transaction on the intended settlement date, due to a lack of securities or cash and regardless of the underlying cause;\n\n(16) \n\n‘central counterparty’ or ‘CCP’ means a CCP as defined in point (1) of Article 2 of Regulation (EU) No 648/2012;\n\n(17) \n\n‘competent authority’ means the authority designated by each Member State in accordance with Article 11, unless otherwise specified in this Regulation;\n\n(18) \n\n‘relevant authority’ means any authority referred to in Article 12;\n\n(19) \n\n‘participant’ means any participant, as defined in point (f) of Article 2 of Directive 98/26/EC in a securities settlement system;\n\n(20) \n\n‘participation’ means participation within the meaning of the first sentence of point (2) of Article 2 of Directive 2013/34/EU, or the ownership, direct or indirect, of 20 % or more of the voting rights or capital of an undertaking;\n\n(21) \n\n‘control’ means the relationship between two undertakings as described in Article 22 of Directive 2013/34/EU;\n\n(22) \n\n‘subsidiary’ means a subsidiary undertaking within the meaning of Article 2(10) and Article 22 of Directive 2013/34/EU;\n\n(23) \n\n‘home Member State’ means the Member State in which a CSD is established;\n\n(24) \n\n‘host Member State’ means the Member State, other than the home Member State, in which a CSD has a branch or provides CSD services;\n\n(25) \n\n‘branch’ means a place of business other than the head office which is a part of a CSD, which has no legal personality and which provides CSD services for which the CSD has been authorised;\n\n▼M4\n\n(26) \n\n‘default’ means, in relation to a participant, a situation where insolvency proceedings, as defined in Article 2, point (j), of Directive 98/26/EC, are opened against a participant or an event defined in the CSD’s internal rules as constituting a default;\n\n▼B\n\n(27) \n\n‘delivery versus payment’ or ‘DVP’ means a securities settlement mechanism which links a transfer of securities with a transfer of cash in a way that the delivery of securities occurs if and only if the corresponding transfer of cash occurs and vice versa;\n\n(28) \n\n‘securities account’ means an account on which securities may be credited or debited;\n\n(29) \n\n‘CSD link’ means an arrangement between CSDs whereby one CSD becomes a participant in the securities settlement system of another CSD in order to facilitate the transfer of securities from the participants of the latter CSD to the participants of the former CSD or an arrangement whereby a CSD accesses another CSD indirectly via an intermediary. CSD links include standard links, customised links, indirect links, and interoperable links;\n\n(30) \n\n‘standard link’ means a CSD link whereby a CSD becomes a participant in the securities settlement system of another CSD under the same terms and conditions as applicable to any other participant in the securities settlement system operated by the latter;\n\n(31) \n\n‘customised link’ means a CSD link whereby a CSD that becomes a participant in the securities settlement system of another CSD is provided with additional specific services to the services normally provided by that CSD to participants in the securities settlement system;\n\n(32) \n\n‘indirect link’ means an arrangement between a CSD and a third party other than a CSD, that is a participant in the securities settlement system of another CSD. Such link is set up by a CSD in order to facilitate the transfer of securities to its participants from the participants of another CSD;\n\n(33) \n\n‘interoperable link’ means a CSD link whereby CSDs agree to establish mutual technical solutions for settlement in the securities settlement systems that they operate;\n\n(34) \n\n‘international open communication procedures and standards’ means internationally accepted standards for communication procedures, such as standardised messaging formats and data representation, which are available on a fair, open and non-discriminatory basis to any interested party;\n\n(35) \n\n‘transferable securities’ means transferable securities as defined in point (44) of Article 4(1) of Directive 2014/65/EU;\n\n(36) \n\n‘shares’ means securities specified in point (44)(a) of Article 4(1) of Directive 2014/65/EU;\n\n(37) \n\n‘money-market instruments’ means money-market instruments as defined in point (17) of Article 4(1) of Directive 2014/65/EU;\n\n(38) \n\n‘units in collective investment undertakings’ means units in collective investment undertakings as referred to in point (3) of Section C of Annex I to Directive 2014/65/EU;\n\n(39) \n\n‘emission allowance’ means emission allowance as described in point (11) of Section C of Annex I to Directive 2014/65/EU, excluding derivatives in emission allowances;\n\n(40) \n\n‘regulated market’ means regulated market as defined in point (21) of Article 4(1) of Directive 2014/65/EU;\n\n(41) \n\n‘multilateral trading facility’ or ‘MTF’ means multilateral trading facility as defined in point (22) of Article 4(1) of Directive 2014/65/EU;\n\n(42) \n\n‘trading venue’ means a trading venue as defined in point (24) of Article 4(1) of Directive 2014/65/EU;\n\n(43) \n\n‘settlement agent’ means settlement agent as defined in point (d) of Article 2 of Directive 98/26/EC;\n\n(44) \n\n‘SME growth market’ means an SME growth market as defined in point (12) of Article 4(1) of Directive 2014/65/EU;\n\n(45) \n\n‘management body’ means the body or bodies of a CSD, appointed in accordance with national law, which is empowered to set the CSD’s strategy, objectives and overall direction, and which oversees and monitors management decision-making and includes persons who effectively direct the business of the CSD.\n\nWhere, according to national law, a management body comprises different bodies with specific functions, the requirements of this Regulation shall apply only to members of the management body to whom the applicable national law assigns the respective responsibility;\n\n(46) \n\n‘senior management’ means those natural persons who exercise executive functions within a CSD and who are responsible and accountable to the management body for the day-to-day management of that CSD;\n\n▼M4\n\n(47) \n\n‘group’ means a group within the meaning of Article 2, point (11), of Directive 2013/34/EU;\n\n(48) \n\n‘close links’ means close links as defined in Article 4(1), point (35), of Directive 2014/65/EU;\n\n(49) \n\n‘qualifying holding’ means a direct or indirect holding in a CSD which represents at least 10 % of the capital or of the voting rights, as set out in Articles 9, 10 and 11 of Directive 2004/109/EC of the European Parliament and of the Council ( 1 ), or which makes it possible to exercise a significant influence over the management of the CSD;\n\n(50) \n\n‘deferred net settlement’ means a settlement mechanism whereby cash or securities transfer orders in relation to securities transactions of the participants in the securities settlement system are subject to netting, and whereby settlement of participants’ net claims and obligations takes place at the end of predefined settlement cycles during or at the end of the business day.\n\n▼B\n\n2.   The Commission shall be empowered to adopt delegated acts in accordance with Article 67 concerning measures to further specify the non-banking-type ancillary services set out in points (1) to (4) of Section B of the Annex and the banking-type ancillary services set out in Section C of the Annex.\n\nTITLE II\n\nSECURITIES SETTLEMENT\n\nCHAPTER I\n\nBook-entry form"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "EU",
+        "service": "regulatory",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "sfd_entry_irrevocability"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "sfd-3-5",
+          "title": "Settlement Finality Directive: enforceability of transfer orders and the moments of entry and irrevocability (Articles 3 and 5)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "EU"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Legal context, not local procedures or Norway incorporation. Future amendments remain separate.",
+            "National transposition and designation of each system are not admitted."
+          ],
+          "citations": [
+            {
+              "source_id": "01998L0026-20240408",
+              "title": "Settlement Finality Directive: consolidated 8 April 2024",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01998L0026-20240408",
+              "source_sha256": "c95b2549c5371ac4682da280161739cee71f73262ce231ab51a90178fc286d61",
+              "source_path": "extracted/01998L0026-20240408-browser.txt",
+              "locator": "Directive 98/26/EC Article 3; consolidation 8 April 2024",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": "EU official languages",
+              "translation_status": "original or official-language text",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Consolidated 8 April 2024",
+              "publication_date": null,
+              "revision_date": null
+            },
+            {
+              "source_id": "01998L0026-20240408",
+              "title": "Settlement Finality Directive: consolidated 8 April 2024",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01998L0026-20240408",
+              "source_sha256": "c95b2549c5371ac4682da280161739cee71f73262ce231ab51a90178fc286d61",
+              "source_path": "extracted/01998L0026-20240408-browser.txt",
+              "locator": "Article 5",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": "EU official languages",
+              "translation_status": "original or official-language text",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "Consolidated 8 April 2024",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "01998L0026-20240408",
+              "locator": "Directive 98/26/EC Article 3; consolidation 8 April 2024",
+              "text": "Article 3\n\n▼M1\n\n1.   \n\nTransfer orders and netting shall be legally enforceable and binding on third parties even in the event of insolvency proceedings against a participant, provided that transfer orders were entered into the system before the moment of opening of such insolvency proceedings as defined in Article 6(1). This shall apply even in the event of insolvency proceedings against a participant (in the system concerned or in an interoperable system) or against the system operator of an interoperable system which is not a participant.\n\nWhere transfer orders are entered into a system after the moment of opening of insolvency proceedings and are carried out within the business day, as defined by the rules of the system, during which the opening of such proceedings occur, they shall be legally enforceable and binding on third parties only if the system operator can prove that, at the time that such transfer orders become irrevocable, it was neither aware, nor should have been aware, of the opening of such proceedings.\n\n▼B\n\n2.   No law, regulation, rule or practice on the setting aside of contracts and transactions concluded before the moment of opening of insolvency proceedings, as defined in Article 6(1) shall lead to the unwinding of a netting.\n3.   The moment of entry of a transfer order into a system shall be defined by the rules of that system. If there are conditions laid down in the national law governing the system as to the moment of entry, the rules of that system must be in accordance with such conditions.\n\n▼M1\n\n4.   In the case of interoperable systems, each system determines in its own rules the moment of entry into its system, in such a way as to ensure, to the extent possible, that the rules of all interoperable systems concerned are coordinated in this regard. Unless expressly provided for by the rules of all the systems that are party to the interoperable systems, one system's rules on the moment of entry shall not be affected by any rules of the other systems with which it is interoperable.\n\n▼M1"
+            },
+            {
+              "source_id": "01998L0026-20240408",
+              "locator": "Article 5",
+              "text": "Article 5\n\nA transfer order may not be revoked by a participant in a system, nor by a third party, from the moment defined by the rules of that system.\n\n▼M1\n\nIn the case of interoperable systems, each system determines in its own rules the moment of irrevocability, in such a way as to ensure, to the extent possible, that the rules of all interoperable systems concerned are coordinated in this regard. Unless expressly provided for by the rules of all the systems that are party to the interoperable systems, one system's rules on the moment of irrevocability shall not be affected by any rules of the other systems with which it is interoperable.\n\n▼B\n\nSECTION III\n\nPROVISIONS CONCERNING INSOLVENCY PROCEEDINGS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "EU",
+        "service": "regulatory",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "finality_and_cash_settlement_law"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "csdr-39-40",
+          "title": "CSDR settlement finality and cash settlement (Articles 39 and 40)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "EU"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Legal context, not local procedures or Norway incorporation. Future amendments remain separate.",
+            "Article 39 refers to Directive 98/26/EC Articles 3 and 5 (section sfd-3-5); the system-specific moments are defined in each CSD's rules."
+          ],
+          "citations": [
+            {
+              "source_id": "02014R0909-20260117",
+              "title": "CSDR: consolidated 17 January 2026",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117",
+              "source_sha256": "b299e08ef15e62d70ccc8b1b3f86113d6e59d1c1660f35fd2077639fd57c64ee",
+              "source_path": "extracted/02014R0909-20260117-browser.txt",
+              "locator": "CSDR Article 39",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": "EU official languages",
+              "translation_status": "original or official-language text",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": null,
+              "publication_date": null,
+              "revision_date": null
+            },
+            {
+              "source_id": "02014R0909-20260117",
+              "title": "CSDR: consolidated 17 January 2026",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117",
+              "source_sha256": "b299e08ef15e62d70ccc8b1b3f86113d6e59d1c1660f35fd2077639fd57c64ee",
+              "source_path": "extracted/02014R0909-20260117-browser.txt",
+              "locator": "CSDR Article 40, including the ▼M4 amended paragraph 2",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": "EU official languages",
+              "translation_status": "original or official-language text",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": null,
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "02014R0909-20260117",
+              "locator": "CSDR Article 39",
+              "text": "Article 39\n\nSettlement finality\n\n1.   A CSD shall ensure that the securities settlement system it operates offers adequate protection to participants. Member States shall designate and notify the securities settlement systems operated by CSDs according to the procedures referred to in point (a) of Article 2 of Directive 98/26/EC.\n2.   A CSD shall ensure that each securities settlement system that it operates defines the moments of entry and of irrevocability of transfer orders in that securities settlement system in accordance with Articles 3 and 5 of Directive 98/26/EC.\n3.   A CSD shall disclose the rules governing the finality of transfers of securities and cash in a securities settlement system.\n4.   Paragraphs 2 and 3 shall apply without prejudice to the provisions applicable to CSD links, and without prejudice to paragraph 8 of Article 48.\n5.   A CSD shall take all reasonable steps to ensure that, in accordance with the rules referred to in paragraph 3, finality of transfers of securities and cash referred to in paragraph 3 is achieved either in real time or intra-day and in any case no later than by the end of the business day of the actual settlement date.\n6.   Where the CSD offers the services referred to in Article 40(2), it shall ensure that the cash proceeds of securities settlements shall be available for recipients to use no later than by the end of the business day of the intended settlement date.\n7.   All securities transactions against cash between direct participants in a securities settlement system operated by a CSD and settled in that securities settlement system shall be settled on a DVP basis."
+            },
+            {
+              "source_id": "02014R0909-20260117",
+              "locator": "CSDR Article 40, including the ▼M4 amended paragraph 2",
+              "text": "Article 40\n\nCash settlement\n\n1.   For transactions denominated in the currency of the country where the settlement takes place, a CSD shall settle the cash payments of its securities settlement system through accounts opened with a central bank of issue of the relevant currency where practical and available.\n\n▼M4\n\n2.   Where it is not practical and available to settle in central bank accounts as provided in paragraph 1, a CSD may offer to settle the cash payments for all or part of its securities settlement systems through accounts opened with a credit institution, through a CSD that is authorised to provide the services listed in Section C of the Annex whether within the same group of undertakings ultimately controlled by the same parent undertaking or not, or through its own accounts. If a CSD offers to settle such cash payments through accounts opened with a credit institution, through its own accounts or the accounts of another CSD, it shall do so in accordance with the provisions of Title IV.\n\n▼B\n\n3.   A CSD shall ensure that any information provided to market participants about the risks and costs associated with settlement in the accounts of credit institutions or through its own accounts is clear, fair and not misleading. A CSD shall make available sufficient information to clients or potential clients to allow them to identify and evaluate the risks and costs associated with settlement in the accounts of credit institutions or through its own accounts and shall provide such information on request."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

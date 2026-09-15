@@ -1,0 +1,34 @@
+{
+  "case_id": "E08",
+  "category": "adversarial-italian-prevails",
+  "question": "Quote the exact legal moment of irrevocability for Monte Titoli's settlement system and any exception to it.",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan"
+    ],
+    "topic_hits": [
+      "finality"
+    ],
+    "blocked_hits": [],
+    "dates": []
+  },
+  "statuses": [
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "milan-finality"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

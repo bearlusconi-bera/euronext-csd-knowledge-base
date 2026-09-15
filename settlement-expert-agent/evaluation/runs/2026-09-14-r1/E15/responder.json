@@ -1,0 +1,8 @@
+{
+  "runtime": "claude-code-subagent",
+  "model": "claude-opus-5 (alias opus)",
+  "rerouted": false,
+  "reroute_reason": "Bundle was correctly routed. The needs_refresh on as_of 2026-09-15 is the point of the case (that review date does not exist), and the retriever already added the correct fallback: t2s_baseline_schedule at as_of 2026-09-14 with schedule_kind baseline. No missing route in topic-index.json.",
+  "checker_failures_after_fix": [],
+  "notes": "Answer discloses the needs_refresh, names the two review dates that exist (13 and 14 September 2026), refuses to relabel the 14 September snapshot as 15 September, and gives the baseline NTS window 20:00 - 3:00 CET from Table 37 (PDF 160-163). It frames 20:00 as the planned time in the UDFS planned/revised/effective model, carries the LIMITATION lines (CET convention with no UTC conversion; nominal schedule is not guaranteed execution nor a local participant cut-off; dated queries need a reviewed overlay), and notes that the 14 September section is a hash-identical re-verification of the 13 September pages. Checker: 9/9 PASS on first run; no fix needed."
+}

@@ -3,6 +3,8 @@ import json, hashlib, collections, re
 from pathlib import Path
 
 R=Path(__file__).resolve().parents[1]
+from snapshot_guard import refuse_audited_snapshot
+refuse_audited_snapshot(R)
 ASOF='2026-09-11'
 C=json.loads((R/'catalogue.json').read_text()); B={d['id']:d for d in C}
 def dump(p,data):
@@ -29,7 +31,7 @@ for d in C:
 S=[]
 def select(id,group,date,purpose,layer='current-local',review='Version/source listing inspected; no complete substantive review.',pages=None):
     d=B[id]
-    s={'id':id,'group':group,'title':d['title'],'version_date_evidence':date,'why_read':purpose,'knowledge_layer':layer,'review_scope':review,'reviewed_pdf_pages':pages or [],'default_retrieval':layer in ['current-local','regulatory-baseline','foundational-standard','current-infrastructure','reference'],'source_url':d['url'],'local_path':d.get('local_path'),'text_path':d.get('text_path'),'pages':d.get('pages'),'sha256':d.get('sha256')}
+    s={'id':id,'group':group,'title':d['title'],'version_date_evidence':date,'why_read':purpose,'knowledge_layer':layer,'review_scope':review,'reviewed_pdf_pages':pages or [],'default_retrieval':False,'source_url':d['url'],'local_path':d.get('local_path'),'text_path':d.get('text_path'),'pages':d.get('pages'),'sha256':d.get('sha256')}
     d.update({k:v for k,v in s.items() if k not in ['title','source_url','group']});d['curated_group']=group
     S.append(s)
 
@@ -135,7 +137,7 @@ legal_specs=[
 LEGAL=[]
 for id,title,purpose in legal_specs:
     d=LB[id].copy(); assert d.get('complete_text_capture'),id
-    d['title']=title;d['why_read']=purpose;d['default_retrieval']=True;d['knowledge_layer']='regulatory-baseline';d['review_scope']='Complete displayed text captured and version navigation inspected; not a full legal review.'
+    d['title']=title;d['why_read']=purpose;d['default_retrieval']=False;d['knowledge_layer']='regulatory-baseline';d['review_scope']='Complete displayed text captured and version navigation inspected; not a full legal review.'
     if id=='02014R0909-20260117':d['review_scope']='Selected Articles 2, 5, 16, 26, 33, 37–48, 54 and Annex reviewed; not all provisions or cross-references reviewed.'
     if id=='32025R2075':d['knowledge_layer']='future-release';d['default_retrieval']=False
     if id=='02022R0858-20220602':d['knowledge_layer']='specialised-reference';d['default_retrieval']=False

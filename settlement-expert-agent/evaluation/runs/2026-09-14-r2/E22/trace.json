@@ -1,0 +1,58 @@
+{
+  "case_id": "E22",
+  "category": "paraphrase",
+  "question": "how many working days before t2s auto-cancels an unmatched instruction? and a matched but unsettled one?",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_cancellation_process"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "t2s_recycling_periods"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "T2S"
+    ],
+    "topic_hits": [
+      "matching_concept",
+      "t2s_cancellation_process",
+      "t2s_recycling_periods"
+    ],
+    "blocked_hits": [],
+    "dates": [],
+    "router_revision": "v1.1"
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "t2s-cancellation",
+    "t2s-matching",
+    "t2s-posting",
+    "t2s-recycling"
+  ],
+  "build_manifest_sha256": "ed577c2eb315cf1592c3809547ea83f309034d3ac955896540fc39d5b0ebbf91",
+  "answer": null,
+  "responder": null
+}

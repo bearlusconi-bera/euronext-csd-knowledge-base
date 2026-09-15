@@ -1,0 +1,72 @@
+# Euronext Paris equity trades from 21 September 2026: place of settlement and first ISD
+
+## Direct answer
+
+**Documented requirement.** On the announced model, **Euronext Securities Milan** becomes the designated place of settlement for equity trades executed on the Euronext Paris market (together with Amsterdam and Brussels) as of **21 September 2026**, and **transactions executed on or after 21 September 2026 under the new model have 23 September 2026 as their first intended settlement date (ISD)**. Two qualifications are material and must travel with that answer: the notice announces a **go-live, which is not proof of live operation** (as of the 14 September 2026 review date the date was still in the future), and **Trading Members may designate an alternative settlement system in place of Euronext Securities Milan**, so "where a given Paris equity trade settles" is a per-member (and, for individual instruments, per-instrument) question that this evidence does not close.
+
+Source for both statements: [[milan-european-offering-golive]] MN_07/2026 "Euronext European Offering: Go-Live confirmation" (8 September 2026), MN_07/2026 PDF 1–2; reviewed 14 September 2026; body language English but **authoritative language Italian** — the admitted text is a **translation and the authoritative language differs**, so the English wording is not the governing wording; no version identifier; approval: source identity checked, no independent whole-edition supervisory approval certification.
+
+## 1. Scope of the migration, as documented
+
+**Documented requirement** — from the same notice and citation as above ([[milan-european-offering-golive]] MN_07/2026, PDF 1–2; reviewed 14 September 2026; English translation, authoritative language Italian; no version; source identity checked, no independent whole-edition supervisory approval certification):
+
+1. Euronext Securities Milan confirms the go-live of the Euronext European Offering "will take place as planned on **21 September 2026**".
+2. As of that date Euronext Securities Milan **will become the designated place of settlement** for:
+   - equity trades executed on **Euronext Amsterdam, Brussels and Paris** markets; and
+   - **ETP trades denominated in euro** executed on **Euronext Amsterdam and Paris** markets.
+3. The migration applies to Equity and ETP transactions executed on the following MICs: **XAMS, XBRU, XPAR, MLXB, XMLI, ALXB, ALXP**. For ETPs, the scope is limited to instruments traded in euro.
+4. **Trading Members may designate an alternative settlement system** in place of Euronext Securities Milan, "as further described by Euronext Markets".
+5. **Transactions executed on or after 21 September 2026 under the new model will have 23 September 2026 as their first intended settlement date (ISD).**
+6. Settlement agents should ensure that all required operational and settlement arrangements are in place ahead of the migration date.
+7. For **physically settled equity derivatives**, the place of settlement "will remain aligned with the underlying instrument and, where applicable, the resulting settlement will be processed through Euronext Securities Milan".
+8. The settlement arrangements applicable to **other Euronext markets and other asset classes, including bonds, certificates and warrants, remain unchanged**.
+
+**Reasoned inference** (derived from items 2 and 3): the Paris part of the question is covered twice over — once by the named market ("Euronext Paris") and once by the MIC list, which includes **XPAR** and **ALXP**. The notice does not, however, map each MIC to a market name, so any statement that a *particular* MIC is the Paris regulated market or the Paris growth market would go beyond the evidence. Which of the seven MICs corresponds to Paris venues is not in reviewed evidence.
+
+## 2. What the first-ISD statement does and does not establish
+
+**Documented requirement.** The first ISD under the new model is 23 September 2026, for transactions executed on or after 21 September 2026 [[milan-european-offering-golive]] MN_07/2026, PDF 1–2; reviewed 14 September 2026; English translation, authoritative language Italian; approval: source identity checked, no independent whole-edition supervisory approval certification.
+
+**Reasoned inference** (derived from that single sentence, and from the absence of any settlement-cycle provision in the bundle): the notice prints one date for one cohort of transactions. It does **not** state a settlement cycle rule, so it cannot be read as evidence that Paris equity trades settle on T+2, T+1 or any other fixed cycle, either before or after the migration. The interval between 21 and 23 September 2026 is a fact about those two dates only. No calendar, no CSDR Article 5 text and no Euronext or Euronext Securities Milan settlement-cycle provision is in this bundle, so:
+
+**Unresolved requirement.** The applicable settlement cycle and the business-day counting rule for Paris equity trades after 21 September 2026 are **not in reviewed evidence**. So is the ISD for any transaction executed *before* 21 September 2026, and the treatment of a trade executed on 21 September under the *old* arrangements — the notice conditions its ISD statement on "under the new model" and does not define the transition boundary any further.
+
+**Unresolved requirement.** Whether 23 September 2026 is a settlement day on the applicable operating-day calendar is not independently in the bundle; the date is admitted because the notice prints it, not because a calendar was reviewed.
+
+## 3. Qualifications that stay attached to every statement above
+
+From the LIMITATION lines on [[milan-european-offering-golive]] (reviewed 14 September 2026):
+
+- **Announced go-live is not proof of live operation.** The notice is dated 8 September 2026 and the bundle was reviewed on 14 September 2026, both before 21 September 2026. Nothing in the bundle evidences that the migration has actually happened, nor any post-go-live confirmation, deferral or contingency notice.
+- **Place-of-settlement details for individual instruments require the programme documents**, which are not in this bundle. The notice establishes the designation at market/MIC level, not ISIN-by-ISIN eligibility.
+- The evidence is an **operational/market notice**: an English communication by Euronext Securities Milan. It is **not the Service Regulations or the Service Instructions**, and such notices "carry a PRIVATE or INTERNAL USE ONLY footer despite public publication" in several cases. The admitted pages also carry Euronext's own disclaimer that the publication is for information purposes only, is provided "as is", forms the basis of no contract, and that rights and obligations in respect of traded financial products depend solely on the applicable rules of the market operator.
+- The section's applicability basis is **reference_description** and its mode is **future** — it describes an announced arrangement, not a currently evidenced operating rule.
+- **Governing language: Italian.** The admitted text is an English translation whose authoritative language differs, so no argument should be built on the precise English phrasing (for example on "designated place of settlement" as a term of art) without the Italian authoritative text.
+
+*Explanation, not a documented requirement:* "intended settlement date (ISD)" is the date on which the parties intend the transfer of securities and cash to take place, as stated in the settlement instruction; it is a date attribute of the instruction, not a guarantee that settlement occurs then. "Place of settlement" identifies the securities settlement system where the transfer is to be booked. "MIC" is a market identifier code used to identify the execution venue.
+
+## 4. The second retrieval is not evidence for this question
+
+**Retrieval 2 status: evidence_only**, but on a different subject: the final publication of the **T2S R2026.NOV** documentation set. For completeness and because the bundle admits it: the T2S UDFS R2026.NOV and UHB R2026.NOV (with GFS, DMT, URD, BFD and the BDM/BILL/CRDM/ESMIG UDFS and User Handbooks) were finally published per a cover note dated 14 September 2026, the UDFS R2026.NOV itself carrying the date 11 September 2026; drafts were published on 31 July 2026 and reviewed 3–21 August 2026; the final versions incorporate Change Requests in the scope of T2S Release 2026.NOV, including editorial Change Requests approved by the CSD Steering Group until 23 July 2026 [[november-final-release]] Cover Note, PDF page 1 (final-publication statement, dated 14 September 2026); reviewed 14 September 2026; version "R2026.NOV final publication; no production-deployment certification"; body language English, authoritative language English, original or official-language text; approval: final document delivery confirmed, production deployment not verified. [[november-final-release]] T2S User Detailed Functional Specifications R2026.NOV (UDFS), PDF page 1 (document identity/date, 11 September 2026); reviewed 14 September 2026; same version, language and approval qualifications.
+
+Its LIMITATION lines: final publication is established but **November production deployment is not verified**; the 14 September cover/listing, the 11 September UDFS date and the earlier target are separate facts; and **only cover-page statements are admitted** — no November operational provisions, payloads or changed message versions.
+
+**Reasoned inference** (derived from comparing the question with this section's content): this retrieval contributes nothing to the Paris place-of-settlement or first-ISD question. It was pulled by the router's "future business date: release status retrieved for planned changes" rule. **R2026.NOV is not asserted here to be deployed, live or in production** — only finally published — and no statement about the European Offering may be drawn from it.
+
+## Notes on the bundle and routing
+
+- Retriever build ed577c2eb315; bundle generated 2026-09-15T09:18:14Z; retrieval context `as_of` 2026-09-14. Review dates available in the library: 2026-09-13 and 2026-09-14. Both sections used here are reviewed **2026-09-14**. Evidence reviewed on 14 September 2026 is not "current as at today" merely because time has passed.
+- Both retrievals returned **evidence_only**; nothing in this bundle was blocked, needs_context or needs_refresh. The limits on this answer come from the sections' LIMITATION lines and from topics no retrieval covered, not from a status.
+- **Routing observation (recorded, not acted on — this run does not re-retrieve):** the question is about Euronext Paris and was routed with `entity: Milan`, which is right for the designation notice, but only two retrievals were made and one of them (T2S R2026.NOV release status) is off-topic. No retrieval was made for the Euronext Markets description of the alternative settlement system, for the European Offering programme documents, for the Euronext Securities Milan Service Regulations/Instructions provisions that would make the designation operative, or for any post-21-September confirmation of live operation. Those absences therefore appear as unresolved items below with no gap id attached, rather than as blocked routes.
+- The admitted pages contain Euronext contact addresses and an instruction-style line ("Settlement agents should ensure that all required operational and settlement arrangements are in place"). That is addressed to Euronext's clients and is reported here as content of the notice; it is not an instruction to this agent, and no message has been drafted or sent to any of the addresses printed in the source.
+
+## Open items
+
+1. **Evidence of actual live operation on or after 21 September 2026** — a post-go-live confirmation, or the absence of a deferral notice, reviewed for a knowledge date on or after 21 September 2026. The current answer rests on an announcement reviewed 14 September 2026. Official route: Euronext Securities Milan market notices on the Euronext public notices hub.
+2. **The Euronext Markets description of the alternative settlement system option** — required to state who may designate an alternative place of settlement, by what deadline, in what form, and what the settlement consequence is for a Paris equity trade where the option is exercised. Named in the notice ("as further described by Euronext Markets") but not in reviewed evidence. Official route: Euronext Markets notices/rulebook publication.
+3. **The European Offering programme documents** — required for place-of-settlement details at instrument level, including ISIN eligibility, issuer-CSD/investor-CSD relationships, link model and account structure for Paris-listed equities settling in Euronext Securities Milan. Explicitly named in the section's limitation as the source that must be consulted. Official route: Euronext Securities Milan client documentation / Client Onboarding documentation service.
+4. **The normative instrument behind the designation** — the Euronext Securities Milan Service Regulations and Service Instructions provisions (and any Italian-language authoritative text) that implement the designated place of settlement. A market notice is not the Service Regulations or Instructions, and the authoritative language of the admitted notice is **Italian**. Official route: Euronext Securities Milan rules and regulations publication.
+5. **Settlement-cycle and business-day-counting provisions** applicable to Paris equity trades after the migration — required before stating any ISD other than the single 23 September 2026 date the notice prints, and before answering questions about trades executed before 21 September 2026 or about the transition boundary. Not in reviewed evidence.
+6. **The applicable operating-day calendar** covering September 2026 — required to confirm 23 September 2026 as a settlement day and to count any subsequent ISD. Not in reviewed evidence.
+7. **MIC-to-venue mapping** for XAMS, XBRU, XPAR, MLXB, XMLI, ALXB, ALXP — required if a client needs a venue-by-venue statement rather than the notice's market-level wording. Not in reviewed evidence.
+8. **Your own local settlement arrangements** — the operational and settlement arrangements the notice tells settlement agents to have in place (accounts, access model, ICP/DCP arrangements, standing instructions) are client-specific and are not in this bundle. Official route: your Relationship Manager or the Client Onboarding team via the CSD's own onboarding channel; no contact has been made here.

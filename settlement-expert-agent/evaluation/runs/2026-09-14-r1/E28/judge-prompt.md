@@ -1,0 +1,258 @@
+You are an independent judge for a securities-settlement answering agent. You did not write the answer. Judge it ONLY against the
+retrieved passages reproduced below and the hidden expectations. Do not use your own knowledge of CSD rules as evidence: if a fact is not in
+the passages, the correct behaviour of the answer was to say so.
+
+# Question
+In Oslo's VPO NOK, when can a matched settlement instruction no longer be revoked, and what changes if it has been put on hold?
+
+# Case category: explanation (positive — evidence should support a useful answer)
+
+# Hidden expectations (never shown to the responder)
+Key points expected:
+[
+  "Matched instruction cannot be revoked unless both participants cancel; the counterparty's confirmation must arrive before the start of the settlement cycle (§23.1); CCP close-out exception.",
+  "Hold does not change the irrevocability rule (§23.2); moment of entry is matching, or release if on hold (§23.3).",
+  "Edition approval reservation and Norwegian text."
+]
+Fail conditions (must NOT appear):
+[
+  "Import T2S rules.",
+  "Omit the approval reservation."
+]
+Expected sections (if any): ['oslo-finality-moments', 'oslo-edition-r2']
+Expected retrieval statuses: ['evidence_only']
+
+# Rubric
+# Evaluation rubric — Settlement Expert Agent
+
+Each end-to-end case is scored on the dimensions below. Three sources of judgement are kept apart and reported separately:
+
+| Source | What it produces | Limits |
+|---|---|---|
+| Deterministic checks (`settlement_agent.py check`) | Citation ids exist in the retrieved bundle; non-`evidence_only` statuses disclosed; governing-language and publication-description qualifications present; review date stated; no clock times, message versions, EUR amounts or XML absent from the bundle | Pattern-based; cannot judge meaning |
+| Independent judge (separate model instance, sees the question, the answer, the actual retrieved passages, the hidden expected points and fail conditions) | Scores 0–2 per dimension with a quoted reason | Same model family as the responder; not a human review |
+| Maintainer inspection | For a sample of cases the maintainer reads the source passages against the answer and records agreement or disagreement with the judge | Same assistant that built the library; not independent |
+
+## Dimensions (judge scores 0 = fail, 1 = partial, 2 = met)
+
+1. **Routing / scope** — Did the answer address the entity, service, date and mode the question implies, split multiple intents, and resolve or explicitly assume ambiguous scope?
+2. **Evidence selection** — Were the right sections used (compared with the expected sections), including dependency/qualification sections (for example Oslo edition reservation, Milan bilateral cancellation)?
+3. **Citation entailment and locator accuracy** — Does each cited passage actually say what the answer attributes to it, with a correct locator (article/section/PDF page) and review date?
+4. **Preserved qualifications** — Authoritative language, translation status, approval reservations, publication-description basis, release identity, currency/date scope, LIMITATION lines.
+5. **Completeness** — Are the expected key points present, and are the unanswerable parts identified with the missing source named?
+6. **No unsupported operational claims** — No invented fields, cardinalities, versions, times, fees, eligibility, deployment or legal effects. Illustrative content labelled.
+7. **Justified abstention** — For negative cases: did it decline/limit correctly without refusing the supportable part? For positive cases: did it avoid blanket refusal when evidence was sufficient?
+8. **Label discipline** — Documented requirement / reasoned inference / proposed design choice / unresolved requirement used where they matter.
+
+A case **passes** when: no dimension scores 0; dimensions 3, 4 and 6 score 2; and every hidden `must_not` condition is absent. A case is **partial** when it has no 0 but at least one of dimensions 3, 4 or 6 scores 1. Otherwise it **fails**.
+
+Judges must quote the passage that supports or contradicts each key point and must not rely on their own knowledge of CSD rules; if the bundle does not contain a fact, the correct behaviour of the answer is to say so.
+
+
+# The answer under review
+<<<ANSWER
+# VPO NOK (Euronext Securities Oslo): irrevocability of a matched Settlement Instruction, and the effect of Hold
+
+## Direct answer
+
+Under the VPO NOK Rules, a Settlement Instruction becomes irrevocable **once it has been Matched** — that is the moment of irrevocability the rulebook attributes to CSDR Article 39, item 2. After matching it can still be undone only **bilaterally**: one participant submits a cancellation instruction and the other confirms it, and that confirmation must be received **before the Start of the Settlement cycle in which the instruction was to be processed**. The single exception is a unilateral cancellation by a Central Counterparty (CCP) connected with a close-out.
+
+**Hold changes almost nothing about revocability, and everything about entry into the system.** The rules say expressly that the §23.1 revocation rules "also apply" to instructions put on Hold — so a held matched instruction is still not unilaterally revocable. What Hold does change is the *other* CSDR Article 39(2) moment: a held instruction is **not** deemed entered into VPO NOK on matching, and is first considered entered once both participants have marked it Released.
+
+*Terms, as used by the rulebook and explained here for the first occurrence:* **Matched** — the two sides of a trade have been paired by the system; **revoke / cancel** — withdraw an instruction so it will not settle; **Hold** — a flag by which the submitting participant blocks settlement of its own instruction without cancelling it; **Released** — removal of that flag; **moment of entry into the system** and **moment of irrevocability** — two distinct points in time that the rulebook defines by reference to CSDR Article 39, item 2 (background explanation, not a documented requirement: Article 39(2) is the CSDR provision under which a securities settlement system must define those moments; the retrieved excerpt does not reproduce the Article's own text or its legal consequences).
+
+## Retrieval statuses
+
+Both retrievals in the bundle — the single context `{"as_of": "2026-09-14", "entity": "Oslo", "service": "settlement", "role": "participant", "mode": "reference", "question_type": "oslo_finality_moments"}` returning sections [[oslo-edition-r2]] and [[oslo-finality-moments]] — returned **`evidence_only`**. No `blocked`, `needs_context` or `needs_refresh` status applies.
+
+Two things that are *not* statuses but must travel with every claim below:
+
+- Both sections are mode **`reference`** on basis **`reference_description`**: this answer describes what the 2 September 2024 edition of the VPO NOK Rules says, as reviewed on 14 September 2026 (source reviewed 13 September 2026). It is not a certification that this text is the approved, in-force normative edition today.
+- **Edition approval reservation.** The rulebook cover reads: "ENTERED INTO FORCE ON 02.09.2024. SUBJECT TO APPROVAL BY FINANSTILSYNET", and "THIS DOCUMENT IS A TRANSLATION FROM THE ORIGINAL NORWEGIAN VERSION. IN THE EVENT OF ANY DISCREPANCIES, THE ORIGINAL NORWEGIAN DOCUMENT WILL PREVAIL" [[oslo-edition-r2]] ES-OSL VPS NOK Rules.pdf, VPO NOK Rules cover, 2 September 2024, PDF page 1; version "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification"; reviewed 14 September 2026 (source reviewed 13 September 2026); body language English, **authoritative language Norwegian**, translation with authoritative language differing; approval: source identity checked, no independent whole-edition supervisory approval certification. LIMITATIONs: system approval is not edition-specific approval and independent edition approval remains **unresolved (gap G07)**; this is the same page as the 13 September section oslo-edition, with hub link and hash unchanged on 14 September 2026.
+
+## 1. When a matched Settlement Instruction can no longer be revoked
+
+**Documented requirement — the moment of irrevocability is Matching.** "Once a Settlement Instruction has been Matched, it cannot be revoked unless both the Participants involved in the trade in question send instructions to cancel their respective Settlement Instructions (the moment of irrevocability, cf. Article 39, item 2, of the CSDR)" [[oslo-finality-moments]] ES-OSL VPS NOK Rules.pdf, VPO NOK Rules §23.1, PDF 36–37; version "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification"; reviewed 14 September 2026 (source reviewed 13 September 2026); English translation, **Norwegian text governs**; the edition's approval reservation (above) applies.
+
+**Documented requirement — how a matched instruction can still be cancelled, and the deadline.** "This takes place by means of one Participant submitting a cancellation instruction that is then confirmed by the other Participant involved. The other Participant's confirmation of the cancellation must be received prior to the Start of the Settlement cycle in which the Settlement Instruction in question was to be processed" [[oslo-finality-moments]] §23.1, PDF 36; same version, review dates and qualifications.
+
+**Reasoned inference — read the question in two layers.** Derived from the two sentences above: (a) *legally*, revocability in the unilateral sense ends at **Matching**; (b) *operationally*, the last point at which the instruction can still be removed at all by the parties is the **Start of the Settlement cycle in which it was to be processed**, because the counterparty's confirmation must be received before that moment. Both are answers to "when can it no longer be revoked", and a specification should state which one it means.
+
+**Documented requirement — CCP close-out exception (unilateral cancellation).** "A Settlement Instruction for a transfer between a Participant and a Participant approved as a Central Counterparty, and between two participants approved as Central Counterparties may be cancelled unilaterally by the Central Counterparty, even after the transaction has been submitted. The first sentence only applies if this is connected with the Central Counterparty carrying out a close-out of the Participant in question on the basis of an agreement on the pledging of financial collateral between the Participant and the Central Counterparty, cf. the Act on Financial Collateral of 26 March 2004 No. 17." The stated effect of close-out is that "the Participant's duties to deliver financial instruments and cash (liquidity) pursuant to Settlement Instructions that have been submitted are cancelled with immediate effect, and are replaced by the calculation and netting of the monetary amounts denominated in Norwegian kroner that the Participant is due to pay to/receive from the Central Counterparty" [[oslo-finality-moments]] §23.1, PDF 36; same version, review dates and qualifications.
+
+**Documented requirement — instructions that do not require matching.** "Settlement Instructions that do not require Matching, i.e. Settlement Instructions for transactions with parties other than Participants in VPO NOK, cannot be revoked after the Start of Settlement in which the Settlement Instruction in question is to be processed" [[oslo-finality-moments]] §23.1, PDF 36; same version, review dates and qualifications. For these, irrevocability attaches at Start of Settlement rather than at matching.
+
+## 2. What changes when the instruction is put on Hold
+
+**Documented requirement — Hold is available after matching, and is unilateral.** "A Settlement Instruction can be put on Hold by the participant who submitted the Settlement Instruction. This can be done also after the Settlement Instruction has been Matched" [[oslo-finality-moments]] §23.2, PDF 36; same version, review dates and qualifications.
+
+**Documented requirement — Hold blocks settlement until release.** "A Settlement Instruction that has been put on Hold will not be settled until the Participant that submitted it marks it as Released" [[oslo-finality-moments]] §23.2, PDF 36; same qualifications.
+
+**Documented requirement — Hold does not restore revocability.** "The rules in Section 23.1 regarding when a Settlement Instruction can no longer be revoked also apply to Settlement Instructions that have been put on Hold by one or both Participants involved" [[oslo-finality-moments]] §23.2, PDF 36; same qualifications. So a matched instruction on hold still requires bilateral cancellation (or the CCP close-out route), on the same terms and subject to the same Start-of-cycle confirmation requirement.
+
+**Documented requirement — Hold *does* change the moment of entry into the system.** "A Settlement Instruction has the status of being entered into the system once it has been Matched. This does not, however, apply to Settlement Instructions that have been put on Hold by one or both of the Participants involved either before or after Matching. A Settlement Instruction that is put on Hold by one or both Participants is first considered to be entered into the system once both Participants have marked it as Released." For non-matching instructions, they "are considered to have been entered into the system from the Start of Settlement in which the Settlement Instruction in question is to be processed, provided it has not been put on Hold" [[oslo-finality-moments]] §23.3, PDF 37; same version, review dates and qualifications.
+
+**Reasoned inference — the asymmetry is the answer.** Derived from §23.2 third paragraph read against §23.3: Hold moves the **moment of entry** (deferred from matching to release by both participants) but leaves the **moment of irrevocability** where §23.1 put it (matching, undone only bilaterally). A held matched instruction is therefore in a state that is irrevocable-but-not-entered. What legal consequences attach to "entry into the system" — the retrieved excerpt defines the moment only and does not state its effects — is **not in reviewed evidence**.
+
+**Reasoned inference — Hold and cancellation are different levers.** Derived from §§23.2–23.3: a participant that wants to stop its own matched instruction from settling can do so alone, by Hold, which suspends settlement indefinitely but does not remove the instruction; removing the instruction still needs the counterparty (or a CCP close-out). This is the practical consequence for a participant that discovers a problem after matching.
+
+### Summary table
+
+| | Matched, not on Hold | Matched, put on Hold by one or both | Does not require Matching |
+|---|---|---|---|
+| Unilaterally revocable by a participant? | No — irrevocable once Matched (§23.1) | No — §23.1 applies unchanged (§23.2) | Not after the Start of Settlement in which it is to be processed (§23.1) |
+| How can it still be cancelled? | Both participants instruct cancellation: one submits, the other confirms; the confirmation must be received prior to the Start of the Settlement cycle in which it was to be processed (§23.1) | Same rule, expressly extended to held instructions (§23.2) | Not addressed in the retrieved excerpt for the period before Start of Settlement |
+| CCP close-out | The CCP may cancel unilaterally, even after submission, only where connected with a close-out under a financial-collateral pledge agreement (§23.1) | Not separately addressed in the excerpt | Same §23.1 provision covers Participant↔CCP and CCP↔CCP transfers |
+| Will it settle? | Yes, in the applicable Settlement cycle | No, not until marked Released (§23.2) | Yes, in the applicable Settlement |
+| Moment of entry into the system, CSDR Art. 39 item 2 | On Matching (§23.3) | Not on Matching; first on release — "once both Participants have marked it as Released" (§23.3) | From the Start of Settlement in which it is to be processed, provided it has not been put on Hold (§23.3) |
+
+All rows: [[oslo-finality-moments]] VPO NOK Rules §§23.1–23.3, PDF 36–37, edition 2 September 2024; reviewed 14 September 2026 (source reviewed 13 September 2026); English translation, Norwegian text governs, edition approval reservation applies.
+
+## Scope limits you should not skip
+
+- **Governing language.** The English text quoted here is a translation; the **original Norwegian prevails** in the event of any discrepancy [[oslo-edition-r2]], and the finality section carries the same limitation [[oslo-finality-moments]]. Any legal opinion on irrevocability must be taken on the Norwegian text.
+- **Approval reservation.** The edition entered into force on 02.09.2024 "SUBJECT TO APPROVAL BY FINANSTILSYNET"; system approval is not edition-specific approval, and independent edition approval is unresolved as **gap G07** [[oslo-edition-r2]]. There is no independent whole-edition supervisory approval certification for either section.
+- **VPO NOK is outside T2S.** LIMITATION on [[oslo-finality-moments]]: "VPO NOK is a Norwegian netting system outside T2S; T2S lifecycle rules do not apply." Do not map these moments onto T2S statuses, T2S hold/release processing, or another Euronext Securities CSD's finality model (for example a Milan SF1/SF2/SF3 sequence); nothing in this bundle supports such a mapping.
+- **Review dates are facts, not clocks.** Both sections were reviewed 14 September 2026 and the underlying source on 13 September 2026. Nothing here becomes "current today" through the passage of time, and no dated event or notice overlay was retrieved.
+- **No times, no cycle counts.** The rules tie the cancellation deadline to "the Start of the Settlement cycle" and to "Start of Settlement", both defined terms. The definitions, the number of settlement cycles and any clock times are **not in reviewed evidence** and must not be assumed.
+
+## Unresolved requirements
+
+1. **Does Hold move the cancellation deadline?** §23.1 fixes the counterparty-confirmation deadline at the Start of the Settlement cycle "in which the Settlement Instruction in question was to be processed", while §23.2 says a held instruction will not settle until released. Whether the operative deadline for a held instruction is the originally intended cycle or the cycle it would reach after release is **not resolved** by the retrieved text.
+2. **Release wording tension.** §23.2 says the instruction is released by "the Participant that submitted it", while §23.3 requires that "both Participants have marked it as Released" for entry into the system. The consistent reading is that each participant holds and releases its own leg and entry occurs when both legs are released, but this is a **reasoned inference**, not stated, and the Norwegian text should be checked.
+3. **Effects of entry into the system.** The rules define the moment; the consequences (for example any insolvency protection attaching to entry) are not in the retrieved excerpt.
+4. **Scope of the CCP exception under Hold.** §23.1's unilateral CCP close-out cancellation is not expressly repeated or excluded in §23.2 for held instructions; §23.2 extends "the rules in Section 23.1" as a whole, which on its face carries the exception across, but this is not stated separately.
+
+## Open items
+
+1. **Original Norwegian VPO NOK Rules, §§23.1–23.3, edition of 2 September 2024** — required for any binding reading of the irrevocability, hold and entry provisions, since the English is a translation and the Norwegian prevails. Route: Euronext Securities Oslo public rulebook page / documentation service.
+2. **Edition approval evidence (gap G07)** — confirmation of Finanstilsynet approval of this specific edition, or identification of the approved edition in force. Not in reviewed evidence; the cover retains the approval reservation. Route: Euronext Securities Oslo public hub and the supervisor's own publication.
+3. **Definitions and timing of "Start of Settlement" / "Settlement cycle" in VPO NOK**, including the number and timing of cycles — needed to turn the cancellation deadline into an operational deadline. Not retrieved; the definitions chapter and the settlement-processing provisions of the same rulebook would establish it. Route: Euronext Securities Oslo VPO NOK Rules (definitions and settlement chapters) and the client operational documentation.
+4. **Local client interface details** for submitting cancellation, hold and release instructions in VPO NOK (message or file formats, statuses returned) — not in reviewed evidence and not derivable from T2S message descriptions. Route: Euronext Securities Oslo client documentation service.
+5. **Any dated notice or event overlay** amending §§23.1–23.3 after 2 September 2024 — none retrieved for either available review date (13 or 14 September 2026).
+
+No section in the bundle contained instruction-like content directed at the answering system.
+
+ANSWER>>>
+
+# Actual retrieved evidence (the only admissible evidence)
+EVIDENCE BUNDLE (retriever build f9493d10a6f6, generated 2026-09-14T09:53:15.317812+00:00). Review dates available: 2026-09-13, 2026-09-14.
+
+=== RETRIEVAL 1: context {"as_of": "2026-09-14", "entity": "Oslo", "service": "settlement", "role": "participant", "mode": "reference", "question_type": "oslo_finality_moments"}
+STATUS: evidence_only — Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.
+
+--- SECTION [[oslo-edition-r2]] — VPO NOK Rules cover: edition approval reservation (14 September re-verification) (reviewed 2026-09-14; modes ['reference']; entities ['Oslo']; basis reference_description)
+CITATION: ES-OSL VPS NOK Rules.pdf | VPO NOK Rules cover, 2 September 2024 | version VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification. | body language en | authoritative language no | translation; authoritative language differs | approval: Source identity checked; no independent whole-edition supervisory approval certification | source reviewed 2026-09-13 | url https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf
+LIMITATION: Same page as the 13 September section oslo-edition; hub link and hash unchanged on 14 September 2026.
+LIMITATION: System approval is not edition-specific approval. Independent edition approval remains unresolved (gap G07).
+EXCERPT (VPO NOK Rules cover, 2 September 2024):
+[PDF page 1]
+
+   EURONEXT SECURITIES OSLO
+
+
+
+
+
+        VPO NOK RULES
+
+
+
+
+
+THIS DOCUMENT IS A TRANSLATION FROM THE ORIGINAL NORWEGIAN VERSION. IN THE EVENT OF ANY
+
+DISCREPANCIES, THE ORIGINAL NORWEGIAN DOCUMENT WILL PREVAIL.
+
+
+
+
+
+ENTERED  INTO  FORCE ON  02.09.2024.  SUBJECT  TO  APPROVAL  BY
+
+FINANSTILSYNET.
+
+
+
+
+
+© 2024, Verdipapirsentralen ASA                                                                          1 of 58
+
+--- SECTION [[oslo-finality-moments]] — VPO NOK: irrevocability on matching, CCP close-out exception, hold provisions and the moment of entry (§§23.1–23.3) (reviewed 2026-09-14; modes ['reference']; entities ['Oslo']; basis reference_description)
+CITATION: ES-OSL VPS NOK Rules.pdf | VPO NOK Rules §§23.1–23.3; PDF 36–37 | version VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification. | body language en | authoritative language no | translation; authoritative language differs | approval: Source identity checked; no independent whole-edition supervisory approval certification | source reviewed 2026-09-13 | url https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf
+LIMITATION: English translation; Norwegian text governs and the edition's approval reservation applies.
+LIMITATION: VPO NOK is a Norwegian netting system outside T2S; T2S lifecycle rules do not apply.
+EXCERPT (VPO NOK Rules §§23.1–23.3; PDF 36–37):
+23 PROCESSING OF SETTLEMENT INSTRUCTIONS
+
+
+23.1 WHEN SETTLEMENT INSTRUCTIONS CAN NO LONGER REVOKED
+
+Once a Settlement Instruction has been Matched, it cannot be revoked unless both the Participants
+involved in the trade in question send instructions to cancel their respective Settlement Instructions
+(the moment of irrevocability, cf. Article 39, item 2, of the CSDR). This takes place by means of
+one Participant submitting a cancellation instruction that is then confirmed by the other Participant
+involved. The other Participant’s confirmation of the cancellation must be received prior to the Start
+of the Settlement cycle in which the Settlement Instruction in question was to be processed.
+
+A Settlement Instruction for a transfer between a Participant and a Participant approved as a Central
+Counterparty, and between two participants approved as Central Counterparties may be cancelled
+unilaterally by the Central Counterparty, even after the transaction has been submitted. The first
+sentence only applies if this is connected with the Central Counterparty carrying out a close-out of
+the Participant in question on the basis of an agreement on the pledging of financial collateral
+between the Participant and the Central Counterparty, cf. the Act on Financial Collateral of 26
+March 2004 No. 17. Close-out has the effect that the Participant's duties to deliver financial
+instruments and cash (liquidity) pursuant to Settlement Instructions that have been submitted are
+cancelled with immediate effect, and are replaced by the calculation and netting of the monetary
+amounts denominated in Norwegian kroner that the Participant is due to pay to/receive from the
+Central Counterparty.
+
+Settlement Instructions that do not require Matching, i.e. Settlement Instructions for transactions
+with parties other than Participants in VPO NOK, cannot be revoked after the Start of Settlement in
+which the Settlement Instruction in question is to be processed.
+
+
+
+
+23.2 SPECIAL PREVISIONS ON TRANSACTIONS THAT ARE OR HAVE BEEN PUT
+   ON HOLD
+
+A Settlement Instruction can be put on Hold by the participant who submitted the Settlement
+Instruction. This can be done also after the Settlement Instruction has been Matched.
+
+A Settlement Instruction that has been put on Hold will not be settled until the Participant that
+submitted it marks it as Released.
+
+The rules in Section 23.1 regarding when a Settlement Instruction can no longer be revoked also
+apply to Settlement Instructions that have been put on Hold by one or both Participants involved.
+
+
+
+
+
+© 2024, Verdipapirsentralen ASA                                                                         36 of 58
+
+
+
+[PDF page 37]
+
+23.3  THE POINT IN TIME WHEN A SETTLEMENT INSTRUCTION IS DEEMED TO
+    HAVE BEEN ENTERED INTO VPO NOK (THE MOMENT OF ENTRY INTO THE
+     SYSTEM, CF. THE CSDR, ARTICLE 39, ITEM 2).
+
+A Settlement Instruction has the status of being entered into the system once it has been Matched.
+This does not, however, apply to Settlement Instructions that have been put on Hold by one or both
+of the Participants involved either before or after Matching. A Settlement Instruction that is put on
+Hold by one or both Participants is first considered to be entered into the system once both
+Participants have marked it as Released.
+
+Settlement Instructions that do not require Matching, i.e. Settlement Instructions for transactions
+with parties other than Participants in VPO NOK, are considered to have been entered into the
+system from the Start of Settlement in which the Settlement Instruction in question is to be
+processed, provided it has not been put on Hold.
+
+# Output
+Return ONLY a JSON object with this shape (scores 0, 1 or 2):
+{"scores": {"routing_scope": n, "evidence_selection": n, "citation_entailment_locators": n, "preserved_qualifications": n, "completeness": n, "no_unsupported_claims": n, "justified_abstention": n, "label_discipline": n},
+ "must_not_violations": ["..."], "key_points_missing": ["..."], "citation_problems": [{"citation": "...", "problem": "...", "passage_quote": "..."}],
+ "unsupported_claims": ["..."], "verdict": "pass|partial|fail", "reason": "two or three sentences quoting the decisive passage"}

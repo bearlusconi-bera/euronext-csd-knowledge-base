@@ -1,0 +1,305 @@
+{
+  "generated_at_utc": "2026-09-14T09:53:13.726555+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "securities_swap_atomicity"
+      },
+      "router_notes": {},
+      "status": "blocked",
+      "reason": "Two-security structure, actual eligible links and supported instruction linkage require separate evidence.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": [
+        "G04"
+      ],
+      "topic_review_dates": null,
+      "evidence": []
+    },
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "realignment_mechanism"
+      },
+      "router_notes": {
+        "_note": "narrower supported mechanism (all-or-none realignment chain) retrieved alongside the blocked swap topic"
+      },
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "t2s-matching",
+          "title": "Matching rules and repaired functional field diagrams",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [
+            "Functional matrix only; no production XML/XSD validation or local interface certification.",
+            "Retain diagram DVP/DWP labels; paragraph separately mentions DVP/PFOD."
+          ],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.1.2; PDF 267–271; Diagrams 55–57 and footnote 194",
+              "pdf_pages": [
+                267,
+                268,
+                269,
+                270,
+                271
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            },
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "Visually checked Diagrams 55–57; original PDF 269–271",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.1.2; PDF 267–271; Diagrams 55–57 and footnote 194",
+              "text": "1.6.1.2 Matching\n\n\n10    1.6.1.2.1 Concept\n\n11   T2S Matching process compares the settlement details of Settlement Instructions provided by the deliverer\n12   and the receiver of securities to ensure that both parties agree on the settlement terms of the transaction in\n13   a standardised way, according to the T2S rules, which are compliant with the European Central Securities\n14    Depositories Association (ECSDA) and the European Securities Forum (ESF) matching proposals.\n\n\n\n\n\n     _________________________\n\n\n        193   The under insolvency situation will be activated upon request of a CSD or CB as explained in the Manual of Operational Procedures (MOP).\n\n\n                                                                                            Page 267 of 2017\n\n\n\n[PDF page 268]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1                                 DIAGRAM 54 - MATCHING APPLICATION POCESS\n\n\n\n\n\n 2\n\n 3    1.6.1.2.2 Overview\n\n 4   T2S provides T2S Actors matching services for Settlement Instructions that require to be matched in T2S\n 5     (i.e. all Settlement Instructions except the Settlement Instructions with Match status “Matched” regardless\n 6    their ISO indicator, ISO transaction code (e.g. CORP) or hold status(es)).\n\n 7    Settlement Restrictions, Maintenance instructions, Realignment instructions, Auto-collaterisation instructions,\n 8   Reimbursement auto-collaterisation instructions and Liquidity transfers do not go through the T2S matching\n 9    process. The matching of Cancellation Instructions does not follow the rules presented in this section and is\n10    presented in section Instruction Cancellation [ 280]).\n\n11   T2S allows CSDs and CSD participants to send already matched instructions Cross-CSD and Intra CSD. In-\n12    structions that enter into T2S as already matched are created with the matching fields as if they were\n13   matched in T2S (i.e. follow the same matching rules as in T2S).\n\n\n\n\n\n                                                                                            Page 268 of 2017\n\n\n\n[PDF page 269]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1    1.6.1.2.3 Matching process\n\n 2   When a new instruction enters T2S, the matching process compares 194 each of the Mandatory and Non-\n 3   mandatory matching fields of the Settlement Instruction with the Settlement Instructions that remain un-\n 4   matched in T2S:\n\n 5         l  Mandatory matching fields are those fields that must be present in the instruction and which values\n 6       should be the same in both Settlement Instructions except Settlement Amount for DVP/PFOD for which a\n 7        tolerance might be applied and for Credit/Debit Code (CRDT/DBIT) and Securities Movement Type Deliv-\n 8        er/Receiver (DELI/RECE), whose values match opposite.\n\n 9         l  Non-mandatory matching fields can be Additional or Optional:\n\n10      – Additional matching fields are initially not mandatory but their values have to match when one of the\n11          counterparties provides a value for them in its instruction. Consequently, once an Additional matching\n12             field is filled in by one Counterparty, the other Counterparty should also fill it in, since a filled-in Addi-\n13            tional matching field cannot match with a field with no value.\n\n14      – In case of Optional matching fields, a filled-in field may match with a field with no value (unlike Addi-\n15            tional matching fields), but when both Parties provide a value, the values have to match.\n\n16   Depending on the Transaction Type T2S considers some fields mandatory or not, as described in the table\n17    below. The following tables and illustrations provide examples of the use of the mandatory, optional and\n18    additional fields in the matching process.\n\n19   Exhaustive List of Matching Fields\n\n20                   DIAGRAM 55 - MANDATORY MATCHING FIELDS PER TRANSACTION TYPE AND EXAMPLE\n\n\n\n\n\n21\n\n\n     _________________________\n\n\n        194   Upper and lower case letters are considered as different when comparing the values of two different instructions. In case a given matching field is\n                      filled in two different instructions with the same reference but a different combination of upper and lower case letters, this matching field is not\n                 subject to matching.\n\n\n                                                                                            Page 269 of 2017\n\n\n\n[PDF page 270]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1   Non Mandatory Matching Fields per Transaction Type\n\n 2                            DIAGRAM 56 - ADDITIONAL MATCHING FIELDS AND EXAMPLE\n\n\n\n\n\n 3\n\n 4   Non Mandatory Matching Fields per Transaction Type\n\n 5                             DIAGRAM 57 - OPTIONAL MATCHING FIELDS AND EXAMPLE\n\n\n\n\n\n 6\n\n 7     If all the Matching fields on both instructions match, except for the Settlement Amount, T2S checks if the\n 8    difference between both Settlement Amounts is compliant with the tolerance amount configured in T2S.\n\n 9    This tolerance amount set up in T2S has two different bands per currency, depending on the cash counter-\n10    value. ECSDA proposal for Euro is the following:\n\n\n\n\n\n                                                                                            Page 270 of 2017\n\n\n\n[PDF page 271]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1                                TABLE 57 - TOLERANCE AMOUNT FOR MATCHING FOR EURO\n 2\n\n             COUNTERVALUE FOR THE CASH AMOUNT                         TOLERANCE\n\n                   ≤ EUR 100.000                                    EUR 2\n\n                   > EUR 100.000                                    EUR 25\n\n 3    In case there is more than one potentially matching Settlement Instruction, T2S chooses the one having the\n 4    smallest Settlement Amount difference. If there is more than one potentially matching Settlement Instruc-\n 5    tion with the same Settlement Amount, T2S chooses the one with the closest entry time in T2S. When Set-\n 6    tlement Instructions with different Settlement Amount are matched, the amount that T2S submits for set-\n 7    tlement as Matched Settlement Amount is the Settlement Amount indicated by the Deliverer of the securi-\n 8     ties.\n\n 9    After successful matching of both instructions, the T2S Actors receive a Status Advice message as described\n10     in section Send Settlement Instruction. This Status Advice will also contain the T2S Matching Reference as-\n11    signed to both Settlement Instructions that have been matched by T2S and the T2S Reference and Account\n12   Owner Reference of the counterparty´s instruction. Interested parties can also be informed depending on\n13    their message subscription preferences (see Section Status Management [ 653] and section Message sub-\n14    scription [ 135]).\n\n15    In case the Settlement Instruction does not match after the first attempt, T2S sends a Settlement Al-\n16    legement message (after having waited a certain period of time) to the Counterparty informing that there is\n17   a Settlement Instruction alleged against it. The Allegement process is described below (See section Al-\n18    legement [ 271]), the dialogue is reflected in section Send Settlement Instruction.\n\n19   T2S automatically cancels Settlement Instructions that remain unmatched after a certain period of time (See\n20    section Instruction Cancellation [ 280] and section Instructions Recycling [ 296]).\n\n21\n\n\n22    1.6.1.2.4 Parameter Synthesis\n\n23   No specific configuration from T2S Actor is needed. The following parameter is specified by the T2S Opera-\n24     tor.\n25\n\n      CONCERNED   PARAMETER   CREATED BY  UPDATED BY  MANDATORY/   POSSIBLE    STANDARD OR DE-\n        PROCESS                                         OPTIONAL     VALUES       FAULT VALUE\n\n          Matching      Tolerance    T2S Operator  T2S Operator     M       To be defined    ≤100.000 € = 2€\n                      amount                                                                                        >100.000 € = 25€\n\n\n26"
+            },
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "Visually checked Diagrams 55–57; original PDF 269–271",
+              "text": "{\n  \"source_id\": \"aa3d5a3b94c9\",\n  \"source_sha256\": \"6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99\",\n  \"source_url\": \"https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf\",\n  \"release\": \"R2026.JUN\",\n  \"verified_as_of\": \"2026-09-13\",\n  \"actual_content_language\": \"en\",\n  \"review\": \"All rows, diagram notes and footnote 194 visually inspected; PDF 271 tolerance narrative read.\",\n  \"scope\": \"Functional matching-field diagrams, not production XML paths, XSD validation or complete message usage rules.\",\n  \"transaction_headers_verbatim\": [\n    \"DVP/DWP\",\n    \"FOP\"\n  ],\n  \"rows\": [\n    {\n      \"field\": \"Payment Type\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Securities Movement Type\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"ISIN Code\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Trade Date\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Settlement Quantity\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Intended Settlement Date\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Delivering Party BIC\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Receiving Party BIC\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"CSD of the Delivering Party\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"CSD of the Receiving Party\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Currency\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"n/a\"\n    },\n    {\n      \"field\": \"Settlement Amount\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"n/a\"\n    },\n    {\n      \"field\": \"Credit/Debit\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"n/a\"\n    },\n    {\n      \"field\": \"Opt-out ISO transaction condition indicator\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"additional\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"CUM/EX Indicator\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"additional\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Currency\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"n/a\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Settlement Amount\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"n/a\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Credit/Debit\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"n/a\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Common Trade Reference\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Client of delivering CSD participant\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Client of receiving CSD participant\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Securities account of the delivering party\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Securities account of the receiving party\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    }\n  ],\n  \"conditions\": [\n    \"Mandatory values match, except opposing Credit/Debit and Securities Movement Type values; settlement amount may use the stated tolerance. The paragraph mentions DVP/PFOD; the diagram header itself reads DVP/DWP. Do not silently normalise these labels into a certified schema mapping.\",\n    \"Additional: a value supplied on either side must also be supplied and match on the other side; blank/blank matches. Credit/Debit matches opposite values.\",\n    \"Optional: one filled and one blank can match; if both are filled they must match.\",\n    \"Footnote 194: upper- and lower-case letters are considered different when comparing values. Do not case-normalise identifiers before comparing.\",\n    \"Diagram 56 note 1: CUM/EX matching considers only ExCoupon and CumCoupon; other values are considered blank.\",\n    \"Diagram 56 note 2: Currency, Settlement Amount and Credit/Debit are additional FOP fields to reduce mismatching risk for non-T2S-currency cash legs submitted as FOP (Payment Flag FREE) with CoSD used to ensure DVP.\",\n    \"Diagram 57 note: client fields match BICs or proprietary codes. Proprietary code matching uses Identification, Issuer and Scheme Name. A BIC does not match a proprietary code.\",\n    \"PDF 270-271: EUR amount tolerance is EUR 2 for cash countervalue <= EUR 100,000 and EUR 25 above EUR 100,000. Currency-specific configuration applies; do not generalise EUR bands to other currencies.\",\n    \"PDF 271: among candidates choose the smallest amount difference, then closest entry time if amounts are the same; the deliverer's amount becomes the matched settlement amount.\"\n  ],\n  \"counts\": {\n    \"mandatory_diagram_rows\": 13,\n    \"additional_diagram_rows\": 5,\n    \"optional_diagram_rows\": 5\n  },\n  \"images\": [\n    \"audits/2026-09-13/evidence/aa3d5a3b94c9-p269.png\",\n    \"implementation/2026-09-13/evidence/t2s-p270.png\"\n  ],\n  \"production_schema_validated\": false\n}"
+            }
+          ]
+        },
+        {
+          "id": "t2s-posting",
+          "title": "Posting checks eligibility and resources before transfer",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.1.8.1 and first overview paragraph; PDF 303–304",
+              "pdf_pages": [
+                303,
+                304
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.1.8.1 and first overview paragraph; PDF 303–304",
+              "text": "1.6.1.8 Posting\n\n\n 2    1.6.1.8.1 Concept\n\n 3   The posting application process checks if the settlement of Settlement Instructions, Settlement Restrictions\n 4   and Liquidity Transfers can be achieved considering their eligibility to settlement and the available resources.\n\n 5    In case of high concentration of Settlement Instructions on the same resource (i.e. debiting the same DCA,\n 6    debiting or crediting the same SAC not allowed to be negative), the Settlement Instructions could be\n 7   grouped without any business links between one another.\n\n 8     It may resort to the optimising application process if needed for the settlement (See section Optimising\n 9    [ 335]).\n\n10   When the check is satisfactory, the posting application process updates the cash balance, securities position\n11   and limit headroom, resulting in the irrevocability of the settlement.\n\n12                           DIAGRAM 81 - SETTLEMENT APPLICATION PROCESSES / POSTING\n\n\n\n\n\n13\n\n14    1.6.1.8.2 Overview\n\n15    Settlement Instructions, Settlement Restrictions and Liquidity Transfers, sent by the T2S Actors or automati-\n16     cally generated by T2S, are submitted to the posting application process at the Intended Settlement Date.\n\n\n\n\n                                                                                            Page 303 of 2017\n\n\n\n[PDF page 304]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1"
+            }
+          ]
+        },
+        {
+          "id": "t2s-realignment",
+          "title": "Realignment generation, CSD roles and all-or-none relationship",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [
+            "Actual links/accounts and ISIN eligibility require verification.",
+            "Does not establish atomicity of an arbitrary two-security swap or describe every action outside T2S."
+          ],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.1.10; concepts and reference-data requirements; PDF 373–376",
+              "pdf_pages": [
+                373,
+                374,
+                375,
+                376
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.1.10; concepts and reference-data requirements; PDF 373–376",
+              "text": "1.6.1.10 Realignment\n\n\n 2    1.6.1.10.1 Concept\n\n 3   The realignment application process handles the cases of:\n\n 4         l  Cross-CSD settlements, i.e. settlements between T2S Actors of different CSDs, the latter being in T2S;\n\n 5         l  External-CSD settlements, i.e. settlements between T2S Actors of different CSDs, with some of the CSDs\n 6        involved in the settlement being external to T2S.\n\n 7    Cross-CSD settlement is achieved in T2S with the simultaneous booking of cash and securities for Settlement\n 8    Instructions between participants of different CSDs. Once incoming Settlement Instructions are matched (or\n 9    validated for already matched incoming Settlement Instructions), the realignment application process creates\n10    automatically all the requested Settlement Instructions between the involved CSDs, referred hereafter as\n11   T2S generated realignment Settlement Instructions. This automatic generation relies on links set in the ref-\n\n\n                                                                                            Page 373 of 2017\n\n\n\n[PDF page 374]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1    erence data between the relevant CSDs and does not request from the T2S Actors any other action. It takes\n 2    place immediately following either the validation of already matched Settlement Instructions, or the match-\n 3    ing of Settlement Instructions matching in T2S.\n\n 4    Realignment application process is also applied for external-CSD settlement.\n\n 5    This section details the parameters required from T2S Actors to manage the realignment in T2S for cross-\n 6   CSD and external-CSD settlement. It also details the resulting realignment chain with the description of the\n 7   T2S generated realignment Settlement Instructions reported to the involved T2S Actors.\n\n 8    For external-CSD settlement, only the process applying to the Settlement Instructions actually submitted to\n 9   T2S is described. All actions required by the realignment but without interaction with T2S are not described.\n\n10                               DIAGRAM 85 - REALIGNMENT APPLICATION PROCESS\n\n\n\n\n\n11\n\n12    1.6.1.10.2 Overview\n\n13   Upon the matching of Settlement Instructions, or upon the validation of already matched Settlement Instruc-\n14    tions, the realignment application process verifies if the incoming business Settlement Instructions are re-\n15    quiring realignment Settlement Instructions on securities accounts other than those of the submitting T2S\n16    Actors (e.g. on the accounts of the issuer CSD).\n\n\n\n\n\n                                                                                            Page 374 of 2017\n\n\n\n[PDF page 375]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1   When the need to realign is identified, the realignment application process creates automatically the T2S\n 2    generated realignment Settlement Instructions, based on the cross-CSD links set by CSDs in the reference\n 3    data.\n\n 4   The T2S generated realignment Settlement Instructions are then validated, and linked to the initial underly-\n 5    ing Settlement Instructions through two links INFO providing the references of both business Settlement\n 6    Instructions for information purposes. T2S ensures that the T2S generated realignment Settlement Instruc-\n 7    tions and their business Settlement Instructions settle on an all-or-none basis.\n\n\n 8    1.6.1.10.3 Realignment process\n\n 9   Parametersnecessaryforrealignment\n\n10    Role and links between CSDs for cross-CSD and external-CSD settlement\n\n11    Irrespective of whether it is a cross-CSD or an external-CSD settlement, a CSD is defined for the realignment\n12    process as:\n\n13         l  The issuer CSD, when it is the CSD in which the security has been issued and distributed on behalf of\n14       the Issuer;\n\n15         l  The investor CSD, when it is the CSD of at least one party of the Settlement Instruction;\n\n16         l  Or both, when it is the CSD in which the security has been issued and the CSD of at least one party of\n17       the Settlement Instruction.\n\n18   To manage the cross-CSD and external-CSD settlements, each investor CSD has the choice between:\n\n19         l  Opening an omnibus account (see section below) in the books of the issuer CSD to reflect the holdings\n20        of its participants for the securities, or;\n\n21         l  Opening an omnibus account in the books of any other CSD being already an investor CSD for the same\n22         financial instrument.\n\n23    In both cases, the CSD where the omnibus account is opened is defined as the technical issuer of the inves-\n24    tor CSD for the given securities. For a given ISIN, an investor CSD can define several such investor-type CSD\n25     links, meaning that it can define several technical issuer CSDs for a given ISIN. However, one of those links\n26    (and only one) should be given the preference for settlement under simple configurations (all CSDs in T2S,\n27   no multi-issuance), this is the “default” link. Under more complex configurations (external CSD configuration,\n28    multi-issuance), the preference should go first to one of the other “alternative” links, more specifically the\n29   one pointing to the counterpart CSD, in case it is set up in the reference data. If T2S cannot find an alterna-\n30     tive link to the counterparty CSD or if such an alternative link is found, but unusable due to a missing static\n31    data (i.e. invalid or incomplete configuration of CSD Account Links), T2S reverts back to the valid default\n32     links should be used also under those complex configurations.\n\n33    Only one link, whether default or alternative, can be set up towards a given technical issuer CSD for a given\n34    investor CSD and a given ISIN at the same point in time.\n\n35   The issuer-type CSD link cannot be an alternative link, it has always to be defined as a “default” link. Only\n36    investor-type links can be flagged “alternative”. Those links cannot be defined for an investor CSD outside\n37   T2S and they cannot point to a technical issuer CSD outside T2S.\n\n\n\n                                                                                            Page 375 of 2017\n\n\n\n[PDF page 376]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1   To that purpose, CSDs are required to configure the following set-up in the reference data:\n 2\n\n               PARAMETERS                                      DEFINITION\n\n        Security CSD links                   Each investor CSD has to define at least one technical issuer CSD per securities\n                                                                            it intends to set as eligible for settlement (See section Securities reference data\n                                              [ 71]). This results in the creation of one or several links between the investor\n                                   CSD and its technical issuer CSD(s) for a given financial instrument.\n\n                                  Among those links, one (and only one) should be flagged “default”, the other\n                                         ones being considered “alternative”.\n\n                                      The alternative links can only be set up for T2S-in investor CSDs, pointing to a\n                                             T2S-in technical issuer CSD.\n\n                                             For a given investor CSD and a given ISIN, only one link (either default or al-\n                                                  ternative) should point to a given technical issuer CSD.\n\n                                             For a given investor CSD, the technical issuer CSD may be different for each\n                                                    security. It is in most cases the issuer CSD of the security.\n\n                                      The issuer CSD sets a CSD link with itself as issuer. This link cannot be an al-\n                                                 ternative one, it is always a default one.\n\n                                           (See section Configuration of securities accounts for cross-CSD settlement and\n                                                external CSD settlement [ 97])\n\n 3    This set-up is used by T2S to derive the realignment chain applicable to matched Settlement Instructions\n 4    starting either from both investor CSDs (delivering and receiving) up to the issuer CSD(s) of the traded secu-\n 5     rities when default links are used, or from the delivering investor CSD up to the receiving investor CSD (or\n 6    vice versa) when alternative links are used.\n\n 7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "t2s_linked_instructions"
+      },
+      "router_notes": {
+        "_note": "actor-specified WITH links are the closest supported construct"
+      },
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "t2s-linked-instructions",
+          "title": "Linked instructions: BEFO/AFTE/WITH links, pools and T2S-generated links",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [
+            "Table 71 validation rules for links (PDF 448) are not admitted.",
+            "T2S-native functional description for R2026.JUN; not a local participant interface specification, production XSD or message usage guideline."
+          ],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.1.11.1–1.6.1.11.3 with footnote 243; PDF 442–444",
+              "pdf_pages": [
+                442,
+                443,
+                444
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.1.11.1–1.6.1.11.3 with footnote 243; PDF 442–444",
+              "text": "1.6.1.11 Linked Instructions\n\n\n 2    1.6.1.11.1 Concept\n\n 3   T2S provides the functionality to link Settlement Instruction(s) and/or Settlement Restriction(s) together.\n 4   The aim is to submit such linked instructions to specific rules during business validation, eligibility or settle-\n 5   ment application processes.\n\n 6    Settlement Instructions and Settlement Restrictions can be linked together either via a link specified by a\n 7   T2S Actor or via a link generated automatically by T2S.\n\n\n 8    1.6.1.11.2 Overview\n\n 9    Settlement Instructions linked via an indicator, a Pool Reference specified by a T2S Actor aim to cover the\n10    settlement of specific operations such as coupon stripping/reattachment, baskets of collateral etc.\n\n11   They are linked by the means of a before (BEFO), an after (AFTE) or a with (WITH) link, leading to specifici-\n12    ty at their business validation, eligibility or settlement application processes.\n\n13    Settlement Instructions linked automatically by T2S aim to cover the settlement of operations such as rea-\n14    lignment, auto-collateralisation, corporate rebalancing liquidity, etc.\n\n15   T2S ensures in those cases the settlement on an all-or-none basis of the initial Settlement Instruction to-\n16    gether with the T2S generated Settlement Instruction for realignment, for auto-collateralisation or the T2S\n17    generated liquidity transfer for corporate rebalancing liquidity etc.\n\n\n18    1.6.1.11.3 Link specified by T2S Actor\n\n19   MeanstolinkinstructionsbyT2SActor\n\n20   A T2S Actor links Settlement Instruction(s) and/or Settlement Restriction(s) together by making the use of:\n\n21         l A processing position code corresponding to:\n\n22      – [INFO] Information, for information purpose. There is no processing in T2S behind this code;\n\n23      – [BEFO] Before, which means that a Settlement Instruction or Settlement Restriction is to be settled\n24          before or at least at the same time as the linked Settlement Instruction or Settlement Restriction;\n\n25      – [AFTE] After, which means that a Settlement Instruction or Settlement Restriction is to be settled af-\n26           ter or at least at the same time as the linked Settlement Instruction or Settlement Restriction;\n\n27      – [WITH] All-or-none, which means that a Settlement Instruction, or Settlement Restriction is to be set-\n28           tled at the same time as the linked Settlement Instruction or Settlement Restriction;\n\n29         l A Pool Reference;\n\n30    With the use of a processing position code, a T2S Actor:\n\n31         l  Can link together:\n\n32      – Two Settlement Instructions;\n\n33      – Two Settlement Restrictions;\n\n34      – One Settlement Instruction with one Settlement Restriction;\n\n\n                                                                                            Page 442 of 2017\n\n\n\n[PDF page 443]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1      – One Settlement Instruction or Settlement Restriction can be executed before, after or at the same\n 2          time as an existing pool, by linking the instruction to any instruction that belongs to that pool, through\n 3         a processing position code WITH, AFTE or BEFO and the reference of the linked instruction. In this\n 4          case, no Pool Reference is needed.\n\n 5      – Settlement Instruction(s) and/or Settlement Restriction(s) can be linked whatever the type (deliv-\n 6           ery/receipt), the ISIN code or the Intended Settlement Date, provided that the links do not contradict\n 7         each other (See Table 79 - Set-up or increase of blocking, reservation or earmarking on securities\n 8          [ 534]).\n\n 9         l  Cannot link together:\n\n10      – A Liquidity Transfer with a Settlement Instruction or a Settlement Restriction;\n\n11      – A T2S internally generated Settlement Instruction.\n\n12   ProcesstolinkinstructionsbyT2SActor\n\n13         l A T2S Actor can create, update or cancel the link of a Settlement Instruction or Settlement Restriction if\n14         this Settlement Instruction or Settlement Restriction is compliant with the validation checks (See Table\n15      71 - Rules applying to linked Settlement Instructions/Settlement Restrictions [ 448]).\n\n16         l  To create a link, the T2S Actor sends a Settlement Instruction/Settlement Restriction including:\n\n17      – A processing position code (e.g. WITH as example below)\n\n18      – The reference of the linked instruction with the T2S Instruction Reference or the T2S Actor Instruction\n19          Reference.\n\n20         l   If the T2S Actor Instruction Reference is provided, T2S also requires the Reference Owner BIC of the\n21       Linked Instruction (Instructing Party BIC). In case the instruction does not include this field, T2S does\n22       not create the link and the instruction is rejected (i.e. no processing position code is taken by default).\n23      To identify univocally a Party in T2S, two BICs are needed (Party BIC+Parent BIC), and there is no field\n24         in the message for informing the Parent BIC of the Reference Owner: in order to identify the relevant\n25        Party in T2S for the Reference Owner BIC, T2S considers by default the Reference Owner BIC and the\n26      CSD (or NCB) of the Instructing Party of the instruction stating the link 243.\n\n27         l   If a T2S actor wants to make use of linkages across several instructions send to T2S via different CSDs\n28       he holds accounts with (or NCBs in case of Settlement Restrictions on cash), the T2S actor has to make\n29       use of the T2S reference.\n\n\n\n\n\n     _________________________\n\n\n        243   In case the Reference Owner BIC relates to a CSD that is also defined as CSD Participant of itself, T2S will consider the CSD as the relevant Party\n                    in T2S for the Reference Owner BIC.\n\n\n                                                                                            Page 443 of 2017\n\n\n\n[PDF page 444]\n\n                                                                  T2S User Detailed Functional Specifications\n                                                                                              General Features of T2S\n                                                                                               Application Processes Description\n\n1                                       EXAMPLE 108 - CREATION OF A LINK\n\n\n\n\n\n2\n\n3   To update a link (e.g. changing the link from WITH to BEFO as example below), it is necessary first to unlink\n4    the Settlement Instruction/Settlement Restriction through an Amendment Instruction, which linkage type\n5   must contain the value UNLK and which processing position code must be the same as the one specified in\n6    the referenced instruction. In a second step, the T2S Actor has to send another Amendment Instruction\n7    which linkage type must contain the value LINK with the new processing position code (e.g. BEFO).\n\n\n\n\n\n                                                                                          Page 444 of 2017"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "generated_at_utc": "2026-09-14T10:02:59.253048+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "t2s_baseline_schedule"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": "baseline",
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "t2s-schedule-r2",
+          "title": "Baseline day phases and preceding-day/event dependencies (14 September re-verification)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [
+            "Same pages as the 13 September section t2s-schedule; source bytes re-fetched and hash-identical on 14 September 2026.",
+            "CET is the source convention; no UTC conversion.",
+            "Nominal schedule is not guaranteed execution or a local participant cut-off. Dated queries require a reviewed event overlay for the same review date."
+          ],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.4.2 and exception conditions; PDF 156–158",
+              "pdf_pages": [
+                156,
+                157,
+                158
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            },
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "Table 37; PDF 160–163",
+              "pdf_pages": [
+                160,
+                161,
+                162,
+                163
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            },
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.4.4.1; PDF 163",
+              "pdf_pages": [
+                163
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.4.2 and exception conditions; PDF 156–158",
+              "text": "1.4.2 T2S schedule\n\n18   The T2S schedule is under the control of the T2S operator, for creation of any new timelines, changing\n19    and/or deletion of existing time for a period or event. The T2S Operator has the necessary privileges by\n20    default to perform temporary or permanent changes to the T2S schedule. T2S ensures that the T2S sched-\n21    ule always conforms to the T2S operating day calendar by currency for any changes.\n\n22   T2S manages the transition between the various periods (see section Settlement day high level schedule\n23    [ 158]) as an event. For each such event, T2S manages a planned time, a revised time and an effective\n24    time:\n\n25         l  The planned time corresponds to the standard schedule applied by default by T2S for every settlement\n26       day. The T2S Operator can update this planned time in case of a permanent change in the regular\n27        schedule;\n\n28         l  The revised time is the foreseen time for the current settlement day, which usually coincides with the\n29       planned time except when a delay has occurred. In contingency situations, the T2S Operator updates\n30       the revised time while the planned time remains unchanged;\n\n\n                                                                                            Page 156 of 2017\n\n\n\n[PDF page 157]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                         Settlement Day\n\n 1         l  The effective time is the time of the actual occurrence of the event during the current settlement day.\n\n 2   T2S foresees the maintenance of individual T2S settlement currency dependent cut-offs and events. Howev-\n 3     er, the T2S operator manages the overall processing of a settlement day based on a common T2S schedule\n 4    configured for each T2S settlement currency. There is no schedule of a settlement day defined per currency\n 5     in T2S, but distinct individual cut-offs and events per currency are defined.\n\n 6    This multi-currency configuration allows for some flexibility within the boundaries of the real-time settlement\n 7    closure (start of cut-off phase with DVP cut-off at 16:00 hrs CET and end of cut-off phase at 18:00 hrs CET\n 8    with FOP cut-off).\n\n 9   The T2S Operator is entitled to change some cut-offs and events (deadlines for receiving Settlement Instruc-\n10    tions/Settlement Restrictions for same day settlement) of a settlement day. This can be done independently\n11    for a T2S settlement currency, in exceptional circumstances or contingency situations, based on a request\n12    from the relevant T2S dependent external system (eg. RTGS, CSD platform, CMS). This exceptional proce-\n13    dure is to be defined in the T2S Manual of Operational Procedure (T2S MOP). These currency dependent\n14    cut-offs and events are specific events within the T2S daily schedule that have a cash component and are\n15    not a cut-off related to the T2S centralised processing such as the start of day and end of day. Such curren-\n16    cy dependent cut-offs and events are:\n\n17         l DVP cut-off (IDVP / EDVP) –remains harmonised for all currencies at 16h00;\n\n18         l  Cash Settlement Restriction cut-off;\n\n19         l  Settlement restrictions release\n\n20         l  Reimbursement of intraday credit\n\n21         l BATM (Bilaterally Agreed Treasury Management) cut-off;\n\n22         l CBO (Central Bank Operation) cut-off;\n\n23         l  Optional cash sweep;\n\n24         l  Inbound liquidity transfer cut off;\n\n25         l  Automated cash sweep.\n\n26    This change in cut-offs and events are valid only for the current T2S settlement day. When a currency de-\n27    pendent cut-off or event is extended for a currency, then the start of its dependent processes (e.g. cash\n28   sweep) is automatically extended for the same currency.\n\n29   T2S allows such a change under the following conditions:\n\n30         l  The sequence and order of events (predecessors and/or successors events) in T2S must remain un-\n31       changed, i.e. a currency dependent cut-off cannot be delayed beyond a successor scheduling event if\n32         this would have an impact on T2S processing (e.g. a CBO cut-off for Danish Krone cannot be extended\n33       beyond the EOD cut-off for T2S, which is the successor in the scheduling). This includes no additions or\n34       removals of events, no changes in event ordering and no change in event dependencies;\n\n35         l  In the exceptional cases that T2S experiences a general issue across all currencies, it could be necessary\n36        that the T2S Operator would need to extend the EOD cut-off (e.g. the T2S revised times would apply).\n37        In this case, T2S ensures the sequence of currency independent cut-offs (securities Settlement Re-\n\n\n\n                                                                                            Page 157 of 2017\n\n\n\n[PDF page 158]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                         Settlement Day\n\n 1         striction cut-off and FOP cut-off) is not changed. The procedures to apply in case of such an event are to\n 2       be defined in the T2S MOP.\n\n 3    In the exceptional cases that T2S experiences the arrival of late peak volume transactions on Friday evening\n 4    that are not available for settlement at the regular NTS, the T2S Operator would need to process into addi-\n 5    tional NTS cycles. The procedure to apply in case of such an event are defined in the T2S MOP.\n\n 6   T2S controls the execution of the processes so that the start of a subsequent process depends on:\n\n 7         l  The completion of the current process and/or;\n\n 8         l  The occurrence of a cut-off.\n\n 9   However, for the start of a process, which is under the dependency of a preceding process and cut-off, T2S\n10    ensures that this process cannot start until the completion of the previous process and until the cut-off time\n11     is reached.\n\n12"
+            },
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "Table 37; PDF 160–163",
+              "text": "[PDF page 160]\n\n                                                                  T2S User Detailed Functional Specifications\n                                                                                              General Features of T2S\n                                                                                                        Settlement Day\n\n1                                  TABLE 37 - SETTLEMENT DAY HIGH LEVEL PROCESSES\n2\n\n      T2S TIME-   T2S PERIODS                         HIGH LEVEL DESCRIPTION\n         LINE\n\n        18:45 –      Start of day  The start of day period including:\n         20:00        (SOD)                                                             l  Change of business date in T2S;\n\n                                                             l  Taking the common Snapshot (T2S and T2);\n\n                                                             l  Preparation for night-time settlement:\n\n                                 –  Revalidation of Settlement Instructions/Settlement Restrictions/amendments/hold\n                                    and release instructions that failed to settle or to be executed as of their Intended\n                                         Settlement date;\n\n                                 –  At 19:00, final deadline to accept data feeds 131, effective for the current business\n                                            date, from collateral management systems and payment/settlement banks; CBs\n                                    and Payment Banks can send their Securities Valuation as soon as possible, ideally\n                                     by 17:45, but in any case T2S will accept Securities Valuations until 19:00.\n\n                                 –  At 20:00, final deadline to accept settlement instructions for processing in the se-\n                                     quence 1 of the first night time cycle.\n\n                                 –  Valuation of securities positions;\n\n                                 –  Valuation of collateral eligible Settlement Instructions.\n\n      20:00 – 3:00   Night-time   The night-time settlement period including two cycles:\n                      settlement                                                             l  The first night-time cycle with reporting and processing of static data maintenance\n                      (NTS)                                       instructions/maintenance instructions at the end of each settlement sequences in-\n                                         cluding 5 sequences:\n\n                                 – The sequence 0 (liquidity transfers from RTGS systems and from a T2S Dedicated\n                                     Cash Account to another T2S dedicated cash account of the same T2S party, cash\n                                         Settlement Restrictions regeneration related to the CoSD blocking and any cash\n                                         Settlement Restrictions);\n\n                                 – The sequence 1 (Corporate Actions on stock, new liquidity transfers, new cash\n                                         Settlement Restrictions and all cash Settlement Restrictions not settled in the pre-\n                                           vious sequence);\n\n                                 – The sequence 2 (FOP for rebalancing purpose, new liquidity transfers, new cash\n                                         Settlement Restrictions, new Corporate Actions on stock and all Settlement In-\n                                               structions/restrictions which failed to settle in the previous sequences);\n\n                                 – The sequence 3 (Central Bank Operations, new liquidity transfers, new cash Set-\n\n\n    _________________________\n\n\n       131   T2S processes these data feeds as soon as they are available. If data feeds are not received at the 19:00 deadline, T2S bases its processes on the\n                 latest information received from the previous settlement days.\n\n\n                                                                                          Page 160 of 2017\n\n\n\n[PDF page 161]\n\n                                                            T2S User Detailed Functional Specifications\n                                                                                       General Features of T2S\n                                                                                                 Settlement Day\n\n\nT2S TIME-   T2S PERIODS                         HIGH LEVEL DESCRIPTION\n   LINE\n\n                                  tlement Restrictions, new Corporate Actions on stock, new FOP for rebalancing\n                                purpose and all Settlement Instructions/restrictions which failed to settle in the\n                                   previous sequences);\n\n                            – And the sequence 4 (new liquidity transfers and all the remaining Settlement In-\n                                        structions/restrictions which are new or failed to settle in the previous sequences);\n\n                            – The duration of the first night-time settlement cycle is dependent on settlement\n                               volumes but should finish by 20:20(target objective) as long as standard peak\n                               volumes are not exceeded.\n\n                                                  l  The last night-time cycle, including partial settlement, with reporting and processing\n                                   of static data maintenance instructions/maintenance instructions at the end of each\n                                settlement sequences including 4 sequences:\n\n                            – The sequence 4 (new liquidity transfers and all the Settlement Instruc-\n                                        tions/restrictions which are new or failed to settle in previous cycle);\n\n                            – The sequence X (new liquidity transfers and all the Settlement Instruc-\n                                        tions/restrictions which are new or failed to settle in the previous sequences and\n                                          partial settlement on all unsettled Settlement Instructions, if eligible to partial set-\n                                  tlement processing);\n\n                            – The sequence Y (reimbursement of the “multiple liquidity providers”);\n\n                            – The sequence Z (liquidity transfers).\n\n                            – The duration of the last night-time settlement cycle is dependent on settlement\n                               volumes but should finish by 00:00 (target objective) as long as standard peak\n                               volumes are not exceeded.\n\n3:00 – 5:00   Maintenance  The maintenance optional daily window.\n           window (MWI)\n\n\n\n\n\n                                                                                     Page 161 of 2017\n\n\n\n[PDF page 162]\n\n                                                             T2S User Detailed Functional Specifications\n                                                                                        General Features of T2S\n                                                                                                  Settlement Day\n\n\n T2S TIME-   T2S PERIODS                         HIGH LEVEL DESCRIPTION\n    LINE\n\n 2:30 Satur-   Maintenance  The mandatory weekend maintenance window.\n day – 2:30  window (MWI)\n  Monday\n\n   5:00 (or    Real-time set- The real-time settlement period including:\n after NTS if  tlement (RTS)                                                    l  The real-time settlement preparation;\n  NTS ends\n                                                    l  Penalty mechanism processing:\n before 3:00)\n                             –  At 7:30 , a final deadline for provision to accept penalty reference data to be used  – 18:00\n                                           in current day´s penalty calculation and recalculation processes:\n\n                                                   (i) Securities subject to penalties information;\n\n                                      (ii)Updated historic (former) prices for penalties;\n\n                                                           (iii) Daily prices for penalties.\n\n                             –  At 7:30 , start of the penalty reference data preparation processing 132;\n\n                             –  At 8:30 , a final deadline for completing the penalty eligibility 133 (starting at 19:30\n                                     or after the end of the Start of Day processes if they are completed afterwards);\n\n                             –  At 8:30 of the 14th business day of the month, start of the monthly reporting of\n                                  aggregated amounts of penalties (to be completed by 21:30);\n\n                             –  After the completion of the penalty reference data preparation, a final deadline for\n                                      provision of penalty modification requests to be considered in current day´s pen-\n                                           alty processes;\n\n                             –  After the processing of penalty modification requests submitted before the dead-\n                                              line, and the penalty eligibility, but not before 9:15 , start of the Calculation, Re-\n                                        calculation and reporting of new and modified penalties;\n\n                             – On the 13th business day of the month, after the Recalculation is completed, start\n                                    the end of appeal period process followed by the calculation of monthly aggregat-\n                               ed amounts of penalties (to be completed by 8:30 on the next business day);\n\n                                                    l  The real-time settlement with 5 partial settlement windows;\n\n                                                    l  The real-time settlement closure.\n\n   18:00 –     End of day   The end of day period including:\n    18:45        (EOD)                                                    l  The stop of settlement engine;\n\n\n_________________________\n\n\n132   Preparation processing is comprised of Static data processing of reference data for the penalty calculation and recalculation.\n\n133    Penalty eligibility is comprised of an analysis of failed matched settlement instructions from the previous business day to determine their eligibility\n        for penalties.\n\n\n                                                                                      Page 162 of 2017\n\n\n\n[PDF page 163]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                         Settlement Day\n\n\n       T2S TIME-   T2S PERIODS                         HIGH LEVEL DESCRIPTION\n          LINE\n\n                                                               l  The internal T2S securities accounts consistency check;\n\n                                                               l  The recycling and purging;\n\n                                                               l  The end of day reporting and statements 134.\n\n\n 1"
+            },
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.4.4.1; PDF 163",
+              "text": "1.4.4.1 Start of day (SOD)\n\n 5    This section presents the start of day processes.\n\n 6   The SOD period starts after the successful completion of the previous EOD period and after 18:45, and is\n 7    followed by the night-time settlement period.\n\n 8   The SOD period concentrates on the change of T2S business date, the taking of the common Snapshot and\n 9    preparation of the night-time settlement period. It includes the processing of the feeds from collateral man-\n10   agement systems (CMS) and payment/settlement banks for the reference prices and eligible assets (for val-\n11    uation purposes).\n\n\n12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "t2s_partial_windows_and_cutoffs"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": "baseline",
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "t2s-rts-phase",
+          "title": "Real-time settlement period: five partial settlement windows and cut-off structure",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [
+            "Window times are the R2026.JUN baseline (08:00–08:30, 10:00–10:15, 12:00–12:15, 14:00–14:15, 15:30 to 16:05 or DVP cut-off closure); some cut-offs are currency dependent.",
+            "A supplied business date requires a reviewed event overlay; a nominal question must say so explicitly."
+          ],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.4.4.4; PDF 193–194",
+              "pdf_pages": [
+                193,
+                194
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.4.4.4; PDF 193–194",
+              "text": "1.4.4.4 Real-time settlement (RTS)\n\n 4    This section presents the real-time settlement processes in the T2S settlement day. The real-time settlement\n 5    period starts after the end of the night-time settlement and is followed by the end of day period.\n\n 6    In case the NTS completes before 3.00 from Mondays to Fridays and before 2.30 on Saturdays, real-time\n 7    settlement period begins before the start of the maintenance window.\n\n 8   The real-time settlement period includes:\n\n 9         l  The real-time settlement preparation;\n\n10         l  The real-time settlement with the five partial settlement windows to optimise maximum value and vol-\n11      umes of settlement transactions, which are unsettled because of lack of securities:\n\n12      – The first partial settlement window between 08:00 and 08:30;\n\n13      – The second partial settlement window between 10:00 and 10:15;\n\n14      – The third partial settlement window between 12:00 and 12:15;\n\n15      – The fourth partial settlement window between 14:00 and 14:15;\n\n16      – The fifth partial settlement window is 30 minutes before the beginning of the DVP cut-off time, then\n17         between 15:30 and 16:05 or the closure of both DVP cut-offs (whichever comes first).\n\n18   The previously unsettled Settlement Instructions and Settlement Restrictions from night-time settlement are\n19    attempted for settlement in the real-time settlement period with the arrival of new resources (securities for\n20    delivery, securities in positions earmarked available for collateral, cash). 143 Additionally T2S performs a set-\n21    tlement attempt for any new intraday Settlement Instructions, Settlement Restrictions and liquidity transfers\n22    validated and accepted during real-time settlement period;\n\n23         l  The real-time settlement closure with different cut-offs and events for different Settlement Instructions,\n24       Settlement Restrictions and liquidity transfers categories.\n\n\n     _________________________\n\n\n        143   During the regular recycling, the mechanism ensures that a transaction will not be recycled if the transaction sent just before has not been at-\n               tempted for settlement. This serialization process will concern all transactions with age >= 3 selected by the Regular Recycling process following a\n                   credit in securities or cash or an increase in CMB headroom or limit, guaranteeing that an older transaction will be attempted before a younger one\n                with the same priority. The transactions selected by one given recycling process will be segregated into eight groups, depending on their priority\n              and age:\n\n               Group 1         Group 2         Group 3         Group 4         Group 5         Group 6         Group 7         Group 8\n                    Priority 1           Priority 1           Priority 2           Priority 2           Priority 3           Priority 3           Priority 4           Priority 4\n              Age >= 3       Age < 3        Age >= 3       Age < 3        Age >= 3       Age < 3        Age >= 3       Age < 3\n               Should the serialization process be too long (over a predetermined adjustable maximum duration), it will be automatically stopped to come back to\n                the regular recycling process.\n\n\n                                                                                            Page 193 of 2017\n\n\n\n[PDF page 194]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                         Settlement Day\n\n 1         l Some of these cut-offs and events may be currency dependent.\n\n 2    For the ease of presentation, the real-time settlement period is shown in two parts:\n\n 3         l  The real-time settlement;\n\n 4         l  The real-time settlement closure.\n\n 5   The real-time settlement period also includes processes specific to the penalty mechanism. These are com-\n 6    prised of the processing of information received within T2S including securities subject to penalties infor-\n 7    mation, penalty modification requests and daily and historic prices for penalties. This information is subse-\n 8    quently used for penalty calculations and reporting.\n\n\n 9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "Porto",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "timetable_document_scope"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "porto-timetable",
+          "title": "Porto timetable notice and source clock convention",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Porto"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "English translation expressly not legally binding. Preserve source clock values; conversion and dated exceptions are not certified."
+          ],
+          "citations": [
+            {
+              "source_id": "porto-timetable-notice",
+              "title": "porto-timetable-notice",
+              "source_url": "https://www.euronext.com/en/media/11820/download",
+              "source_sha256": "100d69725552e101460151d8619c9b8a6dd4551512400033a20d499f9ba5b979",
+              "source_path": "implementation/2026-09-13/sources/porto-timetable-notice.pdf",
+              "locator": "Notice 394/2024 §§1–15; effective 17 April 2024",
+              "pdf_pages": [
+                1,
+                2,
+                3
+              ],
+              "body_language": "en",
+              "authoritative_language": "pt",
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": null,
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "porto-timetable-notice",
+              "locator": "Notice 394/2024 §§1–15; effective 17 April 2024",
+              "text": "[PDF page 1]\n\nThis translation has been prepared with the best of our knowledge and does not represent a legally\nbinding document.\nIn case of legal matters the original documents written in Portuguese, and other Portuguese\nlegislation should be consulted.\n\n\n\n\n                                    INTERBOLSA NOTICE 394/2024\n\n\n                                              Timetables\nIt is hereby made public, the opening hours of the systems managed by INTERBOLSA – Sociedade\nGestora de Sistemas de Liquidação e de Sistemas Centralizados de Valores Mobiliários, S.A., as well\nas the timetable related to certain moments of the settlement process, which are as follows:\n\n\n1. The centralized securities systems and the settlement systems (Systems) are open from Monday to\nFriday, except on the following days: January 1st, May 1st, Good Friday, Easter Monday, December\n25th and December 26th; Interbolsa publishes annually any exception to the provisions of this\nparagraph.\n2. The operating timetable of the Systems, which is based on the operation hours adopted by the\nTARGET2-Securities (T2S) platform and also defined in the T2S rules, is as follows:\n        a) Opening: 17h45m the previous working day (start of day);\n        b) Closing: 17h00m (end of day) being 15h00m for instructions with financial component.\n3. The night time settlement period starts at 19h00m, followed by a daytime settlement period,\nwhich runs from the end of the night time settlement period until 17h00m.\n4. Regarding the maintenance periods occurring in the T2S platform and the Interbolsa systems\n        a) There is a mandatory maintenance period occurring between 01h30m on Saturday and\n01h30m on Monday;\n        b) On the other days of the week there may be an (optional) maintenance period between\n2h00m and 4h00m., only in those cases in which the T2S platform operator considers it necessary to\nimplement an urgent development on the platform. In this case, T2S will duly inform Interbolsa and,\nconsequently, Interbolsa will inform its participants;\n        c) On a daily basis, Interbolsa's systems will have a brief technical interruption, which will\noccur around 2h00m.\n5. Instructions can be recorded in the System whenever a maintenance period is not active.\n\n\n\n[PDF page 2]\n\n6. The partial settlement occurs in the last settlement cycle of the night time settlement period and\nbetween 07h00m and 07h30m, 09h00m and 09h15m, 11h00m and 11h15m, 13h00m and 13h15m\nand 14h30m and 15h00m in the day time settlement period.\n7. The timetable for registration of operations related to collateral provided to the Investor\nCompensation System and the Deposit Guarantee Fund occurs between 06h00m and 17h00m.\n8. In the corporate actions processing, whenever concerned with payments in euro or in other\ncurrency accepted by T2S, INTERBOLSA sends, on the day before payment day, in the case of debt\ninstruments, or at 8h30m, on payment day, in the case of other securities, to the T2S platform the\ninformation needed for the financial settlement of cash distributions, mandatory reorganisations\nwith cash distribution, payment of the subscription and payment of the allotment in operations\nrelated to the subscription of capital, under the terms of INTERBOLSA Circulars related to corporate\nactions of debt instruments and other securities.\n9. In what concerns the operation of the SLME – Sistema de Liquidação em Moeda Estrangeira (non-\neuro currency settlement system), INTERBOLSA sends to CGD, on payment day, at 9h30m the\nnecessary information for the financial settlement of cash distributions and mandatory\nreorganisations with cash distribution, under the terms of INTERBOLSA Circulars related to corporate\nactions of debt instruments and other securities.\n10. The procedures related to the functioning of the centralized securities services, particularly those\nrelated to requests for deposit and withdrawal of certificated securities, sending a file to identify the\nholders and the fortnightly reconciliation of balances, occur between 8h30m and 17h00m.\n11. The subscription requests referred to in paragraphs 3 and 4 of Article 17 of INTERBOLSA Circular\nrelated to corporate actions are sent by the participants to INTERBOLSA local systems between\n8h30m and 16h00m.\n12. In accordance with the terms set forth in INTERBOLSA Circular related to the registration and\norder routing service of subscription and redemption operations in open investment funds, the\nopening hours follow the specific rules as detailed next:\n        a) The registration of subscription and redemption orders may be carried out between\n8h30m (service opening time) and 16h45m;\n        b) The cut-off time defined by the managing entity or by the custodian entity cannot be later\nthan 16h45m;\n        c) The managing entity or the custodian entity, as appropriate, sends to INTERBOLSA the\naccepted and rejected subscription and redemption orders between 8h30m and 16h45m, being the\ndeadline 11h00m of the intended settlement date of the mentioned operations.\n\n\n\n[PDF page 3]\n\n        d) All the orders not confirmed by the managing entity or the custodian entity, as\nappropriate, until 11h00m of the intended settlement date will be cancelled by Interbolsa;\n        e) Interbolsa sends to T2S until 12h00m of the intended settlement date, the necessary\ninstructions to the settlement of the subscription and redemption orders, as well as the update of\nthe static data.\n13. In accordance with the terms set forth in Interbolsa Regulation concerning the Securities Lending\nManagement System (SGE), the opening hours follow the specific rules as detailed next:\n        a) Processing of corporate actions in open lending operations (dividend compensation or\ncancellation) at 07h45m;\n        b) Opening of the registry of lending operations at 8h30m;\n        c) Processing the opening of forward lending operations opening and updating of the\ncollateral at 10h30m;\n        d) Processing the closing of lending operations at 13:00m;\n        e) Closing of the registry of lending operations at 14h50m, for registration of lending\noperations with real time opening;\n        f) Closing of the registry of lending operations at 17h00m for registration of lending\noperations with opening on a future date and for the registration of amendments to the contracting\nconditions regarding lending operations in course, namely the lending operation’s closing date and\nthe guarantee’s remuneration rate.\n14. Interbolsa’s Notice 611/2021 is hereby revoked.\n15. This notice comes into force on 17 April, 2024.\n                                                                                             Interbolsa\n                                                                                The Managing Board"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Porto",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "porto_operating_hours_published"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "porto-operating-hours-web",
+          "title": "Published operating hours table (T2S-based, CET) with the WET note and reference to Notice 0394/2024",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Porto"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Web page reproduction of the T2S schedule; the binding source is Notice 0394/2024 (section porto-timetable) and dated exceptions need event evidence.",
+            "The page's 2025 closing-day list was visible at capture; the 2026 calendar is Notice 25/1162 (section porto-calendar)."
+          ],
+          "citations": [
+            {
+              "source_id": "porto-working-days-20260914",
+              "title": "Euronext Securities Porto — Working Days & Operating hours (web page, capture of 14 September 2026)",
+              "source_url": "https://www.euronext.com/en/post-trade/euronext-securities/porto/about-us/working-days-operating-hours",
+              "source_sha256": "9f3e28755816449d9c1efe91cca706eb93b3fc2ecd784951808816a6dafac1cd",
+              "source_path": "implementation/2026-09-14-settlement-agent/hubs/porto-working-days.html",
+              "locator": "Working Days & Operating hours page, operating-hours section; capture of 14 September 2026",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": null,
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "porto-working-days-20260914",
+              "locator": "Working Days & Operating hours page, operating-hours section; capture of 14 September 2026",
+              "text": "The operating hours of the centralised systems and settlement systems managed by Euronext Securities Porto are based on the operating hours of the T2S platform – TARGET2-Securities and are set out in the notice no. 0394/2024 Timetables.Schedule T2STime CETStart of Day – SoD Change of business date18:45Preparation for Night Time Settlement18:45 – 20:00Night Time Settlement (NTS) Start of NTS20:00First Cycle, with five sequences Last Cycle, with partial settlement in sequence X Real time Settlement (Starts if the NTS ends before 03:00 CET / 02:00 WET) Maintenance Window in weekday (optional)03:00 – 05:00Maintenance Window from Saturday until Monday (required)02:30 – 02:30Real time Settlement05:00 – 18:00Partial Settlement Cycle 108:00 – 08:30Cycle 210:00 – 10:15Cycle 312:00 – 12:15Cycle 414:00 – 14:15Cycle 515:30 – 16:00DVP (Delivery versus Payment) cut-off16:00Collateral reimbursement16:30BATM / CBO cut-off17:40Inbound LTO cut-off / Automatic cash sweep17:45FOP (Free of Payment) cut-off18:00End of Day – EoD18:00Please Note: Portugal uses WET (Western European Time), which is -1 hour than CET (Central European Time).Acronyms:BATM – Bilaterally Agreed Treasury ManagementCBO – Central Bank OperationsLTO – Liquidity Transfer Orders"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Porto",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "porto_instruction_registration"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "porto-rts-registration",
+          "title": "Real-time settlement system: instruction types, channels (STD/SWIFT/ISO 20022), references, SF1/SF2 and matching tolerance (§§12–12.1)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Porto"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "English version of the Operational Manual V43 (internal date 26 January 2026); Portuguese text governs and the manual's operative effective date is unresolved.",
+            "Tolerance values are on the website, not in the excerpt."
+          ],
+          "citations": [
+            {
+              "source_id": "089b7aaef991",
+              "title": "Operational Manual of INTERBOLSA",
+              "source_url": "https://www.euronext.com/sites/default/files/2026-04/20260216_Manual%20Operativo_V43_EN.pdf",
+              "source_sha256": "95c924da7de39631e51a58e4a0a3ec998994c6021a7d02b36c6883f4af2479ec",
+              "source_path": "sources/documents/089b7aaef991-Operational-Manual-of-INTERBOLSA.pdf",
+              "locator": "Chapter 12 opening and §12.1; PDF 116–120, printed 115–119",
+              "pdf_pages": [
+                116,
+                117,
+                118,
+                119,
+                120
+              ],
+              "body_language": "en",
+              "authoritative_language": "pt",
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "Operational Manual V43. Internal date 26 January 2026; filename 16 February 2026; posted April 2026.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "089b7aaef991",
+              "locator": "Chapter 12 opening and §12.1; PDF 116–120, printed 115–119",
+              "text": "CHAPTER 12.  SETTLEMENT OF TRANSACTIONS - REAL TIME SETTLEMENT SYSTEM\n                    (cf. Articles 40 to 47 INTERBOLSA Regulation No 2/2016)\n\n\n\nEURONEXT SECURITIES PORTO Real Time Settlement system processes the registration, matching\n\nand respective settlement of purchase and sale transactions (OTC - Over the Counter), primary\n\nmarket transactions, among others.\n\nThe Real Time settlement system allows the settlement of the following types of instructions:\n\n    • DVP - Delivery versus Payment;\n\n    • FOP - Free of Payment;\n\n    • DWP - Delivery with Payment;\n\n    • PFoD - Payment Free of Delivery.\n\n\n\nSome of the features available in the settlement system are:\n\n    • Suspension of settlement (Hold);\n\n    • Full or partial release of the suspension of settlement (Release);\n\n    • Partial Settlement (in the night-time settlement cycle and during the day at defined times);\n\n    • Links between settlement instructions;\n\n    • Settlement priority setting;\n\n    • Amendment: partial settlement indicator, priority indicator and instruction link;\n\n    • Cancellation of settlement instructions.\n\n\n\nSettlement of instructions takes place on the T2S platform, physical settlement takes place in the\n\nparticipants' securities accounts and financial settlement takes place in the cash accounts (DCAs),\n\nfor eligible currencies in T2S, currently the Euro and Danish Krone - DKK ( 1).\n\nIn the case of transactions with a financial component in a currency other than the euro that is not\n\neligible in T2S, physical settlement takes place in T2S, but financial settlement takes place in the\n\nForeign Exchange Payment System (SPME). More detailed information on the SPME can be found\n\nin the chapter on the \"Foreign Currency Settlement System\".\n\nDirect participants (DCPs), i.e. EURONEXT SECURITIES PORTO participants with direct access to\n\nthe T2S platform can send settlement instructions directly to the T2S platform, either via ISO 20022\n\n\n\n\n( 1) Since October 2018\n\n\nOperational Manual                                                                        2026-01-26            Page 115\n\n\n\n[PDF page 117]\n\nmessages or via the T2S GUI. On the other hand, participants with indirect access to the T2S\n\nplatform (ICPs) send the instructions to EURONEXT SECURITIES PORTO through files or messages:\n\n    • Via STD: via messages - SLRTmsg or via SLRTfile; or\n\n    • Via ISO 15022- MT530/MT540/MT541/MT542/MT543 messages.\n\n\n\nInformation on the settlement/status of the instructions is made available:\n\n    ▪ Via STD:\n\n         o  SLRT-PND - this file is available before the start of night-time settlement in T2S\n\n            (NTS)  and  contains  information  on  the   instructions  that  are  pending\n\n              confirmation/settlement (unmatched and matched status);\n\n         o  SLRT - message available during the whole settlement day and containing the\n\n              information of the unmatched, settled, matched, cancelled and rejected instructions;\n\n         o  SLRT-RES - a file available after the end-of-day (EOD) in T2S containing information\n\n            on settled and cancelled instructions during the day;\n\n         o  SLRTqryS - query that allows obtaining all information on settlement instructions\n\n             through the messages \"SLRTinfo\" and \"SLRTdet\" - see Chapter 19 - \"Interactive\n\n            Data Query - STD\").\n\n    ▪ Via SWIFT for participants who have subscribed to ISO 15022 messages:\n\n            •  MT536 (Statement of Transactions);\n\n            •  MT537 (Statement of Pending Transactions);\n\n            •  MT544/MT545/MT546/MT547 (Settlement Confirmation);\n\n            •  MT548 (Settlement Status and Processing Advice).\n\n\n\nDCPs, in addition to the information available via the STD, may receive settlement information\n\ndirectly from T2S:\n\n         o  Through ISO 20022 messages:\n\n                    •  semt.017 (Securities Transaction Posting Report);\n\n                    •  semt.018 (Securities Transaction Pending report);\n\n                    •  sese.024 (Securities Settlement Transaction Status Advice);\n\n                    •  sese.025 (Securities Settlement Transaction Confirmation);\n\n         o   Through consultation - T2S GUI: Settlement Instructions.\n\n\n\nOperational Manual                                                                        2026-01-26            Page 116\n\n\n\n[PDF page 118]\n\n12.1 REGISTRATION OF SETTLEMENT INSTRUCTIONS\n\n\n\nThe operating schedule of the systems and respective timetables are available in Chapter 4 -\n\n\"Schedule and Timetables\".\n\n    ▪ The introduction of the instructions must be carried out by a participant  affiliated to\n\n     EURONEXT SECURITIES PORTO and empowered to physically and financially settle the\n\n       operations:\n\n     o  by DCPs directly in the T2S platform, including CCPs (Central Counterparties);\n\n     o  By ICPs and, when required, by DCPs, through the local EURONEXT SECURITIES PORTO\n\n        systems. In this case, a pre-validation is performed and the information required for the\n\n        subsequent submission of settlement instructions to T2S is incorporated. The final and\n\n         ultimate validation of the instructions is performed in T2S - Settlement Finality 1 (SF1) -\n\n        accepted;\n\n    ▪ EURONEXT SECURITIES PORTO allows the registration of the following types of settlement\n\n       instructions:\n\n    o  Delivery instructions against payment - DVP:\n\n      DVP - Delivery versus Payment;\n\n      RVP - Receive versus Payment;\n\n    o  Free of payment delivery instructions - FOP:\n\n       DFP - Delivery free of Payment;\n\n       RFP - Receive Free of Payment;\n\n    o  Delivery instructions with payment - DWP:\n\n     DWP - Deliver with Payment;\n\n      RWP - Receive with Payment;\n\n    o  Payment free of delivery instructions - PFD:\n\n       PFD - Payment Free of Delivery (to the delivery and receive).\n\n\n\n\n\nOperational Manual                                                                        2026-01-26            Page 117\n\n\n\n[PDF page 119]\n\n    ▪ Instructions can be entered via STD in two ways:\n\n        o  by sending a file using the mnemonic 'SLRTfile' from the ‘Liquidação’ menu.\n\n           Response messages are received also in the STD using the mnemonic \"SLRT\";\n\n        o  Through messaging:\n\n                  •  From the participant's own applications to the EURONEXT SECURITIES PORTO\n\n                 system - This form of sending allows participants to have a STP (Straight\n\n                 Through  Processing)  solution,  for  sending  and  cancelling  settlement\n\n                     instructions and receiving messages (acceptance, rejection, matching notice,\n\n                      etc.), which increases the automation of the services provided.\n\n                  Connection by this means with the EURONEXT SECURITIES PORTO system is\n\n                    possible from an application of the participant that has TCP/IP connectivity with\n\n                   the EURONEXT SECURITIES PORTO STD server, using an application protocol\n\n                 based on messages with a defined layout, described and exemplified in the\n\n                    Technical  Manual  (available  in  the STD  \"Manuais\" menu  - mnemonic\n\n                  STDTecxx).\n\n                    In practice,  this solution consists of  directly connecting the participant's\n\n                     application to the STD system, without using the STD  client application\n\n                   provided by EURONEXT SECURITIES PORTO;\n\n                  •  By the mnemonic \"SLRTmsg\" from the STD (\"Liquidação \" menu).\n\n    ▪  The input of instructions may also be carried out via the SWIFT network by means of\n\n      messages in ISO 15022 format:\n\n           o  MT540/MT541/MT542/MT543;\n\n           o  MT530.\n\n          Note: Participants wishing to communicate via the SWIFT network may only do so\n\n             after subscribing to the service and carrying out tests (see the document\n\n            \"Subscription to ISO 15022 messages via the SWIFT network\", available on the\n\n         EURONEXT SECURITIES PORTO website under \" Documentation\"/\"Operational\n\n           Documentation\" https://www.euronext.com/en/post-trade/euronext-securities/porto.\n\n    ▪ The minimum allowed quantity is equal to one security unit (Minimum Settlement Unit - MSU);\n\n    ▪ The introduction of instructions in nominal amount (FAMT) is exclusively allowed for debt\n\n       instruments;\n\n    ▪ FOP (Free of Payment) operations are allowed by entering a zero cash amount in the \"Financial\n\n      Amount to be settled\" field and \" \" (blank) in the \"Currency\" field;\n\n    ▪ The entry of instructions to settle at a future date (forward transactions) is possible;\n\n\nOperational Manual                                                                        2026-01-26            Page 118\n\n\n\n[PDF page 120]\n\n    ▪ Forward transactions are submitted for settlement on the contractual settlement date (ISD -\n\n      Intended Settlement Date), during the night-time settlement period, except if they are in\n\n       the \"Hold\" state, in accordance with the registration and matching time criterion;\n\n    ▪   All instructions, entered in the systems for settlement purposes, are validated in the\n\n      TARGET2-Securities (T2S) platform, according to the rules of the platform and the mentions\n\n      and static data included by EURONEXT SECURITIES PORTO;\n\n    ▪  If instructions have been registered through EURONEXT SECURITIES PORTO, a registration\n\n      number, (IB Reference) is assigned;\n\n    ▪ Upon acceptance of the registration of an instruction by the T2S platform, the T2S platform\n\n       assigns a registration number, T2S Reference. In the case of instructions sent directly to\n\n       the settlement platform, applicable to DCPs, only the T2S Reference is assigned. The\n\n       numberings/references of the settlement instruction are sequential and can never be\n\n       repeated;\n\n    ▪ Instructions are matched on the T2S platform. When the platform detects two matching\n\n       settlement instructions, it automatically confirms the transaction (matching), and these are\n\n      then ready to be settled through the settlement platform - Settlement Finality 2 (SF2) -\n\n      matched;\n\n    ▪ When the T2S platform matches an instruction, it also assigns a matching number, Matching\n\n      Reference - Settlement Finality 2 (SF2) - matched.\n\n\n\n   Matching tolerance\n\n   Two instructions with different financial amounts can match, provided that the amounts are\n\n   within the matching tolerance, in which case the transaction settles with the value indicated by\n\n   the seller.\n\n  EURONEXT SECURITIES PORTO adopts the tolerance values defined by T2S in line with ECSDA\n\n    rules.\n\n\n\n   The matching tolerances are available on the EURONEXT SECURITIES PORTO website (link)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

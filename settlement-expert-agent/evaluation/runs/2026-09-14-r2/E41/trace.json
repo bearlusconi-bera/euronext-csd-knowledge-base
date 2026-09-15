@@ -1,0 +1,48 @@
+{
+  "case_id": "E41",
+  "category": "future-programme",
+  "question": "From 21 September 2026, where do Euronext Paris equity trades settle and what is the first intended settlement date under the new model?",
+  "contexts": [
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "future",
+      "question_type": "european_offering_go_live"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "future",
+      "question_type": "release_status",
+      "_note": "future business date: release status retrieved for planned changes"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan"
+    ],
+    "topic_hits": [
+      "european_offering_go_live"
+    ],
+    "blocked_hits": [],
+    "dates": [
+      "2026-09-21"
+    ],
+    "router_revision": "v1.1"
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "milan-european-offering-golive",
+    "november-final-release"
+  ],
+  "build_manifest_sha256": "ed577c2eb315cf1592c3809547ea83f309034d3ac955896540fc39d5b0ebbf91",
+  "answer": null,
+  "responder": null
+}

@@ -1,0 +1,703 @@
+{
+  "generated_at_utc": "2026-09-14T11:57:45.356049+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "matching_concept"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "t2s-matching",
+          "title": "Matching rules and repaired functional field diagrams",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [
+            "Functional matrix only; no production XML/XSD validation or local interface certification.",
+            "Retain diagram DVP/DWP labels; paragraph separately mentions DVP/PFOD."
+          ],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.1.2; PDF 267–271; Diagrams 55–57 and footnote 194",
+              "pdf_pages": [
+                267,
+                268,
+                269,
+                270,
+                271
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            },
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "Visually checked Diagrams 55–57; original PDF 269–271",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.1.2; PDF 267–271; Diagrams 55–57 and footnote 194",
+              "text": "1.6.1.2 Matching\n\n\n10    1.6.1.2.1 Concept\n\n11   T2S Matching process compares the settlement details of Settlement Instructions provided by the deliverer\n12   and the receiver of securities to ensure that both parties agree on the settlement terms of the transaction in\n13   a standardised way, according to the T2S rules, which are compliant with the European Central Securities\n14    Depositories Association (ECSDA) and the European Securities Forum (ESF) matching proposals.\n\n\n\n\n\n     _________________________\n\n\n        193   The under insolvency situation will be activated upon request of a CSD or CB as explained in the Manual of Operational Procedures (MOP).\n\n\n                                                                                            Page 267 of 2017\n\n\n\n[PDF page 268]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1                                 DIAGRAM 54 - MATCHING APPLICATION POCESS\n\n\n\n\n\n 2\n\n 3    1.6.1.2.2 Overview\n\n 4   T2S provides T2S Actors matching services for Settlement Instructions that require to be matched in T2S\n 5     (i.e. all Settlement Instructions except the Settlement Instructions with Match status “Matched” regardless\n 6    their ISO indicator, ISO transaction code (e.g. CORP) or hold status(es)).\n\n 7    Settlement Restrictions, Maintenance instructions, Realignment instructions, Auto-collaterisation instructions,\n 8   Reimbursement auto-collaterisation instructions and Liquidity transfers do not go through the T2S matching\n 9    process. The matching of Cancellation Instructions does not follow the rules presented in this section and is\n10    presented in section Instruction Cancellation [ 280]).\n\n11   T2S allows CSDs and CSD participants to send already matched instructions Cross-CSD and Intra CSD. In-\n12    structions that enter into T2S as already matched are created with the matching fields as if they were\n13   matched in T2S (i.e. follow the same matching rules as in T2S).\n\n\n\n\n\n                                                                                            Page 268 of 2017\n\n\n\n[PDF page 269]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1    1.6.1.2.3 Matching process\n\n 2   When a new instruction enters T2S, the matching process compares 194 each of the Mandatory and Non-\n 3   mandatory matching fields of the Settlement Instruction with the Settlement Instructions that remain un-\n 4   matched in T2S:\n\n 5         l  Mandatory matching fields are those fields that must be present in the instruction and which values\n 6       should be the same in both Settlement Instructions except Settlement Amount for DVP/PFOD for which a\n 7        tolerance might be applied and for Credit/Debit Code (CRDT/DBIT) and Securities Movement Type Deliv-\n 8        er/Receiver (DELI/RECE), whose values match opposite.\n\n 9         l  Non-mandatory matching fields can be Additional or Optional:\n\n10      – Additional matching fields are initially not mandatory but their values have to match when one of the\n11          counterparties provides a value for them in its instruction. Consequently, once an Additional matching\n12             field is filled in by one Counterparty, the other Counterparty should also fill it in, since a filled-in Addi-\n13            tional matching field cannot match with a field with no value.\n\n14      – In case of Optional matching fields, a filled-in field may match with a field with no value (unlike Addi-\n15            tional matching fields), but when both Parties provide a value, the values have to match.\n\n16   Depending on the Transaction Type T2S considers some fields mandatory or not, as described in the table\n17    below. The following tables and illustrations provide examples of the use of the mandatory, optional and\n18    additional fields in the matching process.\n\n19   Exhaustive List of Matching Fields\n\n20                   DIAGRAM 55 - MANDATORY MATCHING FIELDS PER TRANSACTION TYPE AND EXAMPLE\n\n\n\n\n\n21\n\n\n     _________________________\n\n\n        194   Upper and lower case letters are considered as different when comparing the values of two different instructions. In case a given matching field is\n                      filled in two different instructions with the same reference but a different combination of upper and lower case letters, this matching field is not\n                 subject to matching.\n\n\n                                                                                            Page 269 of 2017\n\n\n\n[PDF page 270]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1   Non Mandatory Matching Fields per Transaction Type\n\n 2                            DIAGRAM 56 - ADDITIONAL MATCHING FIELDS AND EXAMPLE\n\n\n\n\n\n 3\n\n 4   Non Mandatory Matching Fields per Transaction Type\n\n 5                             DIAGRAM 57 - OPTIONAL MATCHING FIELDS AND EXAMPLE\n\n\n\n\n\n 6\n\n 7     If all the Matching fields on both instructions match, except for the Settlement Amount, T2S checks if the\n 8    difference between both Settlement Amounts is compliant with the tolerance amount configured in T2S.\n\n 9    This tolerance amount set up in T2S has two different bands per currency, depending on the cash counter-\n10    value. ECSDA proposal for Euro is the following:\n\n\n\n\n\n                                                                                            Page 270 of 2017\n\n\n\n[PDF page 271]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1                                TABLE 57 - TOLERANCE AMOUNT FOR MATCHING FOR EURO\n 2\n\n             COUNTERVALUE FOR THE CASH AMOUNT                         TOLERANCE\n\n                   ≤ EUR 100.000                                    EUR 2\n\n                   > EUR 100.000                                    EUR 25\n\n 3    In case there is more than one potentially matching Settlement Instruction, T2S chooses the one having the\n 4    smallest Settlement Amount difference. If there is more than one potentially matching Settlement Instruc-\n 5    tion with the same Settlement Amount, T2S chooses the one with the closest entry time in T2S. When Set-\n 6    tlement Instructions with different Settlement Amount are matched, the amount that T2S submits for set-\n 7    tlement as Matched Settlement Amount is the Settlement Amount indicated by the Deliverer of the securi-\n 8     ties.\n\n 9    After successful matching of both instructions, the T2S Actors receive a Status Advice message as described\n10     in section Send Settlement Instruction. This Status Advice will also contain the T2S Matching Reference as-\n11    signed to both Settlement Instructions that have been matched by T2S and the T2S Reference and Account\n12   Owner Reference of the counterparty´s instruction. Interested parties can also be informed depending on\n13    their message subscription preferences (see Section Status Management [ 653] and section Message sub-\n14    scription [ 135]).\n\n15    In case the Settlement Instruction does not match after the first attempt, T2S sends a Settlement Al-\n16    legement message (after having waited a certain period of time) to the Counterparty informing that there is\n17   a Settlement Instruction alleged against it. The Allegement process is described below (See section Al-\n18    legement [ 271]), the dialogue is reflected in section Send Settlement Instruction.\n\n19   T2S automatically cancels Settlement Instructions that remain unmatched after a certain period of time (See\n20    section Instruction Cancellation [ 280] and section Instructions Recycling [ 296]).\n\n21\n\n\n22    1.6.1.2.4 Parameter Synthesis\n\n23   No specific configuration from T2S Actor is needed. The following parameter is specified by the T2S Opera-\n24     tor.\n25\n\n      CONCERNED   PARAMETER   CREATED BY  UPDATED BY  MANDATORY/   POSSIBLE    STANDARD OR DE-\n        PROCESS                                         OPTIONAL     VALUES       FAULT VALUE\n\n          Matching      Tolerance    T2S Operator  T2S Operator     M       To be defined    ≤100.000 € = 2€\n                      amount                                                                                        >100.000 € = 25€\n\n\n26"
+            },
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "Visually checked Diagrams 55–57; original PDF 269–271",
+              "text": "{\n  \"source_id\": \"aa3d5a3b94c9\",\n  \"source_sha256\": \"6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99\",\n  \"source_url\": \"https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf\",\n  \"release\": \"R2026.JUN\",\n  \"verified_as_of\": \"2026-09-13\",\n  \"actual_content_language\": \"en\",\n  \"review\": \"All rows, diagram notes and footnote 194 visually inspected; PDF 271 tolerance narrative read.\",\n  \"scope\": \"Functional matching-field diagrams, not production XML paths, XSD validation or complete message usage rules.\",\n  \"transaction_headers_verbatim\": [\n    \"DVP/DWP\",\n    \"FOP\"\n  ],\n  \"rows\": [\n    {\n      \"field\": \"Payment Type\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Securities Movement Type\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"ISIN Code\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Trade Date\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Settlement Quantity\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Intended Settlement Date\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Delivering Party BIC\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Receiving Party BIC\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"CSD of the Delivering Party\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"CSD of the Receiving Party\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Currency\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"n/a\"\n    },\n    {\n      \"field\": \"Settlement Amount\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"n/a\"\n    },\n    {\n      \"field\": \"Credit/Debit\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"n/a\"\n    },\n    {\n      \"field\": \"Opt-out ISO transaction condition indicator\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"additional\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"CUM/EX Indicator\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"additional\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Currency\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"n/a\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Settlement Amount\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"n/a\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Credit/Debit\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"n/a\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Common Trade Reference\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Client of delivering CSD participant\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Client of receiving CSD participant\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Securities account of the delivering party\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Securities account of the receiving party\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    }\n  ],\n  \"conditions\": [\n    \"Mandatory values match, except opposing Credit/Debit and Securities Movement Type values; settlement amount may use the stated tolerance. The paragraph mentions DVP/PFOD; the diagram header itself reads DVP/DWP. Do not silently normalise these labels into a certified schema mapping.\",\n    \"Additional: a value supplied on either side must also be supplied and match on the other side; blank/blank matches. Credit/Debit matches opposite values.\",\n    \"Optional: one filled and one blank can match; if both are filled they must match.\",\n    \"Footnote 194: upper- and lower-case letters are considered different when comparing values. Do not case-normalise identifiers before comparing.\",\n    \"Diagram 56 note 1: CUM/EX matching considers only ExCoupon and CumCoupon; other values are considered blank.\",\n    \"Diagram 56 note 2: Currency, Settlement Amount and Credit/Debit are additional FOP fields to reduce mismatching risk for non-T2S-currency cash legs submitted as FOP (Payment Flag FREE) with CoSD used to ensure DVP.\",\n    \"Diagram 57 note: client fields match BICs or proprietary codes. Proprietary code matching uses Identification, Issuer and Scheme Name. A BIC does not match a proprietary code.\",\n    \"PDF 270-271: EUR amount tolerance is EUR 2 for cash countervalue <= EUR 100,000 and EUR 25 above EUR 100,000. Currency-specific configuration applies; do not generalise EUR bands to other currencies.\",\n    \"PDF 271: among candidates choose the smallest amount difference, then closest entry time if amounts are the same; the deliverer's amount becomes the matched settlement amount.\"\n  ],\n  \"counts\": {\n    \"mandatory_diagram_rows\": 13,\n    \"additional_diagram_rows\": 5,\n    \"optional_diagram_rows\": 5\n  },\n  \"images\": [\n    \"audits/2026-09-13/evidence/aa3d5a3b94c9-p269.png\",\n    \"implementation/2026-09-13/evidence/t2s-p270.png\"\n  ],\n  \"production_schema_validated\": false\n}"
+            }
+          ]
+        },
+        {
+          "id": "t2s-posting",
+          "title": "Posting checks eligibility and resources before transfer",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.1.8.1 and first overview paragraph; PDF 303–304",
+              "pdf_pages": [
+                303,
+                304
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.1.8.1 and first overview paragraph; PDF 303–304",
+              "text": "1.6.1.8 Posting\n\n\n 2    1.6.1.8.1 Concept\n\n 3   The posting application process checks if the settlement of Settlement Instructions, Settlement Restrictions\n 4   and Liquidity Transfers can be achieved considering their eligibility to settlement and the available resources.\n\n 5    In case of high concentration of Settlement Instructions on the same resource (i.e. debiting the same DCA,\n 6    debiting or crediting the same SAC not allowed to be negative), the Settlement Instructions could be\n 7   grouped without any business links between one another.\n\n 8     It may resort to the optimising application process if needed for the settlement (See section Optimising\n 9    [ 335]).\n\n10   When the check is satisfactory, the posting application process updates the cash balance, securities position\n11   and limit headroom, resulting in the irrevocability of the settlement.\n\n12                           DIAGRAM 81 - SETTLEMENT APPLICATION PROCESSES / POSTING\n\n\n\n\n\n13\n\n14    1.6.1.8.2 Overview\n\n15    Settlement Instructions, Settlement Restrictions and Liquidity Transfers, sent by the T2S Actors or automati-\n16     cally generated by T2S, are submitted to the posting application process at the Intended Settlement Date.\n\n\n\n\n                                                                                            Page 303 of 2017\n\n\n\n[PDF page 304]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Oslo",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "oslo_instruction_submission_settlement"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "oslo-edition-r2",
+          "title": "VPO NOK Rules cover: edition approval reservation (14 September re-verification)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Oslo"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Same page as the 13 September section oslo-edition; hub link and hash unchanged on 14 September 2026.",
+            "System approval is not edition-specific approval. Independent edition approval remains unresolved (gap G07)."
+          ],
+          "citations": [
+            {
+              "source_id": "14dc34b8e54e",
+              "title": "ES-OSL VPS NOK Rules.pdf",
+              "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+              "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+              "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+              "locator": "VPO NOK Rules cover, 2 September 2024",
+              "pdf_pages": [
+                1
+              ],
+              "body_language": "en",
+              "authoritative_language": "no",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "14dc34b8e54e",
+              "locator": "VPO NOK Rules cover, 2 September 2024",
+              "text": "[PDF page 1]\n\n   EURONEXT SECURITIES OSLO\n\n\n\n\n\n        VPO NOK RULES\n\n\n\n\n\nTHIS DOCUMENT IS A TRANSLATION FROM THE ORIGINAL NORWEGIAN VERSION. IN THE EVENT OF ANY\n\nDISCREPANCIES, THE ORIGINAL NORWEGIAN DOCUMENT WILL PREVAIL.\n\n\n\n\n\nENTERED  INTO  FORCE ON  02.09.2024.  SUBJECT  TO  APPROVAL  BY\n\nFINANSTILSYNET.\n\n\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                          1 of 58"
+            }
+          ]
+        },
+        {
+          "id": "oslo-submission-settlement",
+          "title": "Submitting settlement instructions, settlement groups and settlement in VPO NOK (§§21–22.1)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Oslo"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "English translation; Norwegian text governs and the edition's approval reservation applies.",
+            "User Documentation referenced for formats and times is not in the library (gap G11)."
+          ],
+          "citations": [
+            {
+              "source_id": "14dc34b8e54e",
+              "title": "ES-OSL VPS NOK Rules.pdf",
+              "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+              "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+              "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+              "locator": "VPO NOK Rules §§21–22.1; PDF 33–35",
+              "pdf_pages": [
+                33,
+                34,
+                35
+              ],
+              "body_language": "en",
+              "authoritative_language": "no",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "14dc34b8e54e",
+              "locator": "VPO NOK Rules §§21–22.1; PDF 33–35",
+              "text": "21 SUBMITTING SETTLEMENT INSTRUCTIONS TO VPO NOK\n\nA Participant must submit its Settlement Instructions as soon as possible once the trade has been\nentered into to ensure early Matching and to facilitate timely Settlement.\n\nWhen submitting a Settlement Instruction, the Participant shall register all the information required\npursuant to legislation, regulations, these VPO NOK Rules, and the User Documentation as in force\nat any time. The Participant shall retain information about the Settlement Instruction for at least 48\nhours following submission to VPO NOK to enable the Participant to resubmit a Settlement\nInstruction in the event of operational difficulties.\n\n\n\n21.1  DIFFERENT SETTLEMENT GROUPS AND ACCOUNTS WITH PARTICULAR\n    SETTLEMENT FUNCTIONALITY\n\nSettlement Instructions that are submitted using a VPS registration number associated with\nauthorisation as an Investment Firm shall be assigned to settlement group FH.\n\nSettlement Instructions submitted using a VPS registration number associated with authorisation as\na Central Counterparty shall be assigned to settlement group CH.\n\nExcept where otherwise provided for by the last paragraph of this section, Settlement Instructions\nsubmitted using a VPS registration number associated with authorisation as a Settlement Agent\nshall be assigned to settlement group FO.\n\nSecurities accounts belonging to settlement group FH or CH are defined as Accounts with\nParticular Settlement Functionality in Section 4 and are treated as such in accordance with the\nprovisions of Sections 23.5, 23.8 and 23.9.\n\nAccounts with Particular Settlement Functionality may be assigned to customers of Participants that\nare Settlement agents provided that the Customer is a Central Counterparty or Investment Firm as\ndefined in Section 5.1 c), d) and e) in these Rules. Settlement instructions submitted for such\naccounts shall be assigned to settlement group CH or FH.\n\n\n\n\n21.2  OPTIONAL SETTLEMENT FUNCTIONALITY\n\nA Participant authorised as a Settlement Agent may offer to label as an Optional Settlement\nAccount the ordinary securities account in the register of a customer that has an Account with\nParticular Settlement Functionality pursuant to Section 21.1, fifth paragraph. VPS will label such\naccounts in this way at the instruction of the Settlement Agent. A customer must request such\nlabelling in writing before the Settlement Agent can submit such an instruction to VPS.\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                         33 of 58\n\n\n\n[PDF page 34]\n\nSettlement Instructions submitted for an account labelled as an Optional Settlement Account are\ntreated in the same way as Settlement Instructions that are submitted for an Account with particular\nsettlement functionality in relation to the provisions of Sections 23.5, 23.8 and 23.9.\n\n\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                         34 of 58\n\n\n\n[PDF page 35]\n\n22 SETTLEMENT\n\nSettlement involves the final transfer of ownership rights to financial instruments (securities\nsettlement) in the VPS Register as well as the final recording of accounting entries in Norwegian\nkroner in the VPO NOK accounts at Norges Bank that were involved in the Clearing (cash\nsettlement).\n\nCash settlement (settlement of liquidity) for Participants that are Settlement Banks, is effected on\nthe Participant’s VPO LOM account with Norges Bank. Settlements for Participants that use\nLiquidity Banks are effected on that bank’s VPO LOM account with Norges Bank.\n\n\n\n22.1 ACCOUNTING VOUCHERS\n\nWhen VPS carries out a final transfer of ownership rights to financial instruments in VPS, it sends\naccounting vouchers to the Settlement Banks so that transactions can be posted on the bank\naccounts that the Participants have specified to VPS for this purpose.\n\n\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                         35 of 58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Oslo",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "oslo_finality_moments"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "oslo-edition-r2",
+          "title": "VPO NOK Rules cover: edition approval reservation (14 September re-verification)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Oslo"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Same page as the 13 September section oslo-edition; hub link and hash unchanged on 14 September 2026.",
+            "System approval is not edition-specific approval. Independent edition approval remains unresolved (gap G07)."
+          ],
+          "citations": [
+            {
+              "source_id": "14dc34b8e54e",
+              "title": "ES-OSL VPS NOK Rules.pdf",
+              "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+              "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+              "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+              "locator": "VPO NOK Rules cover, 2 September 2024",
+              "pdf_pages": [
+                1
+              ],
+              "body_language": "en",
+              "authoritative_language": "no",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "14dc34b8e54e",
+              "locator": "VPO NOK Rules cover, 2 September 2024",
+              "text": "[PDF page 1]\n\n   EURONEXT SECURITIES OSLO\n\n\n\n\n\n        VPO NOK RULES\n\n\n\n\n\nTHIS DOCUMENT IS A TRANSLATION FROM THE ORIGINAL NORWEGIAN VERSION. IN THE EVENT OF ANY\n\nDISCREPANCIES, THE ORIGINAL NORWEGIAN DOCUMENT WILL PREVAIL.\n\n\n\n\n\nENTERED  INTO  FORCE ON  02.09.2024.  SUBJECT  TO  APPROVAL  BY\n\nFINANSTILSYNET.\n\n\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                          1 of 58"
+            }
+          ]
+        },
+        {
+          "id": "oslo-finality-moments",
+          "title": "VPO NOK: irrevocability on matching, CCP close-out exception, hold provisions and the moment of entry (§§23.1–23.3)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Oslo"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "English translation; Norwegian text governs and the edition's approval reservation applies.",
+            "VPO NOK is a Norwegian netting system outside T2S; T2S lifecycle rules do not apply."
+          ],
+          "citations": [
+            {
+              "source_id": "14dc34b8e54e",
+              "title": "ES-OSL VPS NOK Rules.pdf",
+              "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+              "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+              "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+              "locator": "VPO NOK Rules §§23.1–23.3; PDF 36–37",
+              "pdf_pages": [
+                36,
+                37
+              ],
+              "body_language": "en",
+              "authoritative_language": "no",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "14dc34b8e54e",
+              "locator": "VPO NOK Rules §§23.1–23.3; PDF 36–37",
+              "text": "23 PROCESSING OF SETTLEMENT INSTRUCTIONS\n\n\n23.1 WHEN SETTLEMENT INSTRUCTIONS CAN NO LONGER REVOKED\n\nOnce a Settlement Instruction has been Matched, it cannot be revoked unless both the Participants\ninvolved in the trade in question send instructions to cancel their respective Settlement Instructions\n(the moment of irrevocability, cf. Article 39, item 2, of the CSDR). This takes place by means of\none Participant submitting a cancellation instruction that is then confirmed by the other Participant\ninvolved. The other Participant’s confirmation of the cancellation must be received prior to the Start\nof the Settlement cycle in which the Settlement Instruction in question was to be processed.\n\nA Settlement Instruction for a transfer between a Participant and a Participant approved as a Central\nCounterparty, and between two participants approved as Central Counterparties may be cancelled\nunilaterally by the Central Counterparty, even after the transaction has been submitted. The first\nsentence only applies if this is connected with the Central Counterparty carrying out a close-out of\nthe Participant in question on the basis of an agreement on the pledging of financial collateral\nbetween the Participant and the Central Counterparty, cf. the Act on Financial Collateral of 26\nMarch 2004 No. 17. Close-out has the effect that the Participant's duties to deliver financial\ninstruments and cash (liquidity) pursuant to Settlement Instructions that have been submitted are\ncancelled with immediate effect, and are replaced by the calculation and netting of the monetary\namounts denominated in Norwegian kroner that the Participant is due to pay to/receive from the\nCentral Counterparty.\n\nSettlement Instructions that do not require Matching, i.e. Settlement Instructions for transactions\nwith parties other than Participants in VPO NOK, cannot be revoked after the Start of Settlement in\nwhich the Settlement Instruction in question is to be processed.\n\n\n\n\n23.2 SPECIAL PREVISIONS ON TRANSACTIONS THAT ARE OR HAVE BEEN PUT\n   ON HOLD\n\nA Settlement Instruction can be put on Hold by the participant who submitted the Settlement\nInstruction. This can be done also after the Settlement Instruction has been Matched.\n\nA Settlement Instruction that has been put on Hold will not be settled until the Participant that\nsubmitted it marks it as Released.\n\nThe rules in Section 23.1 regarding when a Settlement Instruction can no longer be revoked also\napply to Settlement Instructions that have been put on Hold by one or both Participants involved.\n\n\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                         36 of 58\n\n\n\n[PDF page 37]\n\n23.3  THE POINT IN TIME WHEN A SETTLEMENT INSTRUCTION IS DEEMED TO\n    HAVE BEEN ENTERED INTO VPO NOK (THE MOMENT OF ENTRY INTO THE\n     SYSTEM, CF. THE CSDR, ARTICLE 39, ITEM 2).\n\nA Settlement Instruction has the status of being entered into the system once it has been Matched.\nThis does not, however, apply to Settlement Instructions that have been put on Hold by one or both\nof the Participants involved either before or after Matching. A Settlement Instruction that is put on\nHold by one or both Participants is first considered to be entered into the system once both\nParticipants have marked it as Released.\n\nSettlement Instructions that do not require Matching, i.e. Settlement Instructions for transactions\nwith parties other than Participants in VPO NOK, are considered to have been entered into the\nsystem from the Start of Settlement in which the Settlement Instruction in question is to be\nprocessed, provided it has not been put on Hold."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Oslo",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "oslo_preliminary_calculation_priority"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "oslo-edition-r2",
+          "title": "VPO NOK Rules cover: edition approval reservation (14 September re-verification)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Oslo"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Same page as the 13 September section oslo-edition; hub link and hash unchanged on 14 September 2026.",
+            "System approval is not edition-specific approval. Independent edition approval remains unresolved (gap G07)."
+          ],
+          "citations": [
+            {
+              "source_id": "14dc34b8e54e",
+              "title": "ES-OSL VPS NOK Rules.pdf",
+              "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+              "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+              "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+              "locator": "VPO NOK Rules cover, 2 September 2024",
+              "pdf_pages": [
+                1
+              ],
+              "body_language": "en",
+              "authoritative_language": "no",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "14dc34b8e54e",
+              "locator": "VPO NOK Rules cover, 2 September 2024",
+              "text": "[PDF page 1]\n\n   EURONEXT SECURITIES OSLO\n\n\n\n\n\n        VPO NOK RULES\n\n\n\n\n\nTHIS DOCUMENT IS A TRANSLATION FROM THE ORIGINAL NORWEGIAN VERSION. IN THE EVENT OF ANY\n\nDISCREPANCIES, THE ORIGINAL NORWEGIAN DOCUMENT WILL PREVAIL.\n\n\n\n\n\nENTERED  INTO  FORCE ON  02.09.2024.  SUBJECT  TO  APPROVAL  BY\n\nFINANSTILSYNET.\n\n\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                          1 of 58"
+            }
+          ]
+        },
+        {
+          "id": "oslo-priority-clearing",
+          "title": "VPO NOK: preliminary calculation, priority rules, linked instructions, liquidity duties and clearing (§§23.4–23.8)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Oslo"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "English translation; Norwegian text governs and the edition's approval reservation applies.",
+            "Cycle times are in the User Documentation, not admitted."
+          ],
+          "citations": [
+            {
+              "source_id": "14dc34b8e54e",
+              "title": "ES-OSL VPS NOK Rules.pdf",
+              "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+              "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+              "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+              "locator": "VPO NOK Rules §§23.4–23.8; PDF 37–39",
+              "pdf_pages": [
+                37,
+                38,
+                39
+              ],
+              "body_language": "en",
+              "authoritative_language": "no",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "14dc34b8e54e",
+              "locator": "VPO NOK Rules §§23.4–23.8; PDF 37–39",
+              "text": "23.4  PRELIMINARY CALCULATION\n\nPrior to every Clearing cycle, VPS shall carry out a Preliminary Calculation of the Participants’\npositions in VPO NOK.\n\nThe Preliminary Calculation for the first Settlement cycle on a settlement day is based on the\nreceived Settlement Instructions, the financial instruments that are available on the VPS accounts\nthat the Participants have specified for the Settlement cycle in question, and the Participants’ Cash\nLimits (liquidity limits) where applicable. The Preliminary Calculation for subsequent Settlement\ncycles on a settlement day shall be based on the same factors, with the exception of any Cash\nLimits. The assumptions applied in the Preliminary Calculation, and the timing thereof, are detailed\nin the User Documentation.\n\nThe Cash Limit for a Participant that uses a Liquidity Bank, is the sum of Base Liquidity and\nAdditional Liquidity, less any amount used in a previous Settlement cycle on the same day. No\nCash Limit is applied in the Preliminary Calculation for other Participants.\n\nThe Preliminary Calculation also shows the overall net position per Settlement Bank. For the\npurpose of this calculation, each bank’s own Settlement Instructions (if the bank is a Participant\nitself) and those of Participants for which the bank is the Liquidity Bank are netted.\n\n\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                         37 of 58\n\n\n\n[PDF page 38]\n\n23.5 PRIORITY RULES USED FOR THE PRELIMINARY CALCULATION\n\n\n23.5.1 Priority rules in the event of insufficient financial instruments\n\nIf it is not possible to settle all the Settlement Instructions included in the Preliminary Calculation\ndue to an insufficient number of financial instruments to cover the Participants’ Settlement\nInstructions, the following sequencing shall apply: In respect of Transfers from accounts in the\nsettlement groups FH and CH and from accounts labelled as Optional Settlement Accounts:\n     -   Priority will be given to Settlement Instructions that were deferred on earlier Settlement\n       Days, including Settlement Instructions that were deferred as a result of a Partial Delivery,\n         cf. Section 23.9.\n     -   Thereafter, priority will be given to Settlement Instructions that will enable the largest\n       possible total value to be settled in the Settlement in question.\n\nIn respect of transfers from other accounts, priority will be given in the order the Settlement\nInstructions were submitted by the Participants.\n\n\n\n23.5.2 Priority rules in the event of insufficient Liquidity (cash)\n\nIf there is insufficient cash (liquidity) within any Cash limits that apply to Participants, the\nfollowing sequencing shall apply:\n     -   Priority will be given to Settlement Instructions that were deferred on earlier Settlement\n       Days, including Settlement Instructions that were deferred as a result of a Partial Delivery,\n         cf. Section 23.9.\n     -   Thereafter, priority will be given to the Settlement Instructions that will enable the\n       largest possible total value to be settled in the Settlement in question.\n\nSettlement Instruction for payment of penalty pursuant to Section 25 will be given priority until the\npenalties have been fully settled.\n\n\n\n23.5.3 General provisions on priority rules\n\nIt is specified in Section 21.1 above and in the User Documentation which accounts belong to\nsettlement group FH and which accounts belong to settlement group CH. Optional Settlement\nAccounts are regulated in Section 21.2. When applying the priority rules, VPS shall apply the\ncurrent optimisation model.\n\n\n\n23.5.4 Linked Settlement Instructions\n\nVPS may deviate from the priority rules set out in the first and second paragraphs when processing\nlinked Settlement Instructions. This applies when a Participant links buy and sell instructions on the\n\n© 2024, Verdipapirsentralen ASA                                                                         38 of 58\n\n\n\n[PDF page 39]\n\nsame account, with the effect that the sale is conditional on the related purchase taking place. The\nfinancial instruments purchased in a linked trade will be used to fill the sale instruction in the same\nSettlement, even if a different outcome would have resulted from applying the ordinary priority\nrules. The User Documentation details the current options for linked trades.\n\n\n23.6 THE PARTICIPANT’S DUTY TO MAKE FINANCIAL INSTRUMENTS AND\nLIQUIDITY (CASH) AVAILABLE\n\nThe Participant has a duty to make available for each Settlement the number of financial\ninstruments and the cash (liquidity) necessary to carry out all the Settlement Instructions that are\nsubmitted to VPO NOK under the Participant’s Settlement Agreement and included in the\nSettlement in question.\n\n\n23.7  TRANSFER OF CASH (LIQUIDITY) TO VPO LOM ACCOUNTS\n\nParticipants that are Settlement Banks, and those that serve as Liquidity Banks that provide cash\n(liquidity) for Participants in VPO NOK, are required to transfer to their VPO LOM accounts, at the\ntime stated in the User Documentation, an amount that is at least equal to the bank’s overall net\nposition in the Preliminary Calculation, cf. Section 23.4, final paragraph.\n\n\n23.8 CLEARING\n\nAt the time specified in the User Documentation, Norges Bank notifies VPS of the Available\nLiquidity on each Settlement Bank’s VPO LOM account (account balance).\n\nAt the time specified in the User Documentation, Clearing is carried out based on Settlement\nInstructions, the Available Liquidity, and the financial instruments available on the VPS accounts\nthat Participants have specified for use in the Settlement in question.\n\nIf a Settlement Bank fails to transfer sufficient cash (liquidity) to the bank’s VPO LOM account to\ncover its overall net position according to the Preliminary Calculation, cf. Section 23.4, final\nparagraph, the Available Liquidity will not be sufficient to cover both the bank’s own Settlement\nInstructions and those submitted by Participants for which the bank is the Liquidity Bank. In such\nevents, Clearing will be calculated in the following way:\n\n   A) If there is only one Participant linked to the Settlement Bank’s VPO LOM account, the\n      amount of Available Liquidity will be entered as a new Cash Limit (liquidity limit).\n   B) If there is more than one Participant linked to the Settlement Bank’s VPO LOM account, the\n       Available Liquidity is allocated so that:\n              - Priority will be given to Settlement Instructions that were deferred on earlier\n           Settlement Days, including Settlement Instructions that were deferred as a result of a\n            Partial Delivery, cf. Section 23.9.\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                         39 of 58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "Oslo",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "liquidity_duties"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "oslo-edition",
+          "title": "VPO edition approval qualification",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Oslo"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "System approval is not edition-specific approval. Independent edition approval remains unresolved."
+          ],
+          "citations": [
+            {
+              "source_id": "14dc34b8e54e",
+              "title": "ES-OSL VPS NOK Rules.pdf",
+              "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+              "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+              "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+              "locator": "VPO NOK Rules cover, 2 September 2024",
+              "pdf_pages": [
+                1
+              ],
+              "body_language": "en",
+              "authoritative_language": "no",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "14dc34b8e54e",
+              "locator": "VPO NOK Rules cover, 2 September 2024",
+              "text": "[PDF page 1]\n\n   EURONEXT SECURITIES OSLO\n\n\n\n\n\n        VPO NOK RULES\n\n\n\n\n\nTHIS DOCUMENT IS A TRANSLATION FROM THE ORIGINAL NORWEGIAN VERSION. IN THE EVENT OF ANY\n\nDISCREPANCIES, THE ORIGINAL NORWEGIAN DOCUMENT WILL PREVAIL.\n\n\n\n\n\nENTERED  INTO  FORCE ON  02.09.2024.  SUBJECT  TO  APPROVAL  BY\n\nFINANSTILSYNET.\n\n\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                          1 of 58"
+            }
+          ]
+        },
+        {
+          "id": "oslo-liquidity",
+          "title": "Primary and substitute liquidity-bank declarations as published",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Oslo"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Unresolved edition approval must accompany any description. Section 20 conditions are not reviewed for a funding implementation."
+          ],
+          "citations": [
+            {
+              "source_id": "14dc34b8e54e",
+              "title": "ES-OSL VPS NOK Rules.pdf",
+              "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+              "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+              "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+              "locator": "VPO NOK Rules §§9–10; PDF 17–18",
+              "pdf_pages": [
+                17,
+                18
+              ],
+              "body_language": "en",
+              "authoritative_language": "no",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "14dc34b8e54e",
+              "locator": "VPO NOK Rules §§9–10; PDF 17–18",
+              "text": "[PDF page 17]\n\n9  DECLARATIONS FROM LIQUIDITY BANKS\n\n\nThe Liquidity Bank’s Liquidity Declaration shall state that:\n\nA named participant in VPO NOK is entitled to have its Settlement Instructions in VPO NOK\nsettled via the Liquidity Bank’s VPO LOM account with Norges Bank, and in addition the bank\nwill make available on this account each day the cash (liquidity) necessary to carry out all the\nParticipant's Settlement Instructions that are included in the Clearing, subject to the limit of the\nvalue of Base Liquidity with the addition of any Additional Liquidity.\n\nThe bank’s Liquidity Declaration can only be cancelled by giving at least four banking days’ notice.\n\n\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                         17 of 58\n\n\n\n[PDF page 18]\n\n10 DECLARATIONS FROM SUBSTITUTE LIQUIDITY BANKS\n\n\nThe Substitute Liquidity Bank’s Declaration to a Participant shall state that:\n\nIn the event the Participant’s Liquidity Bank enters into insolvency proceedings, the Participant is\nentitled to have its Settlement Instructions in VPO settled via its Substitute Liquidity Bank’s VPO\nLOM account with Norges Bank. This account will in such case be considered as the Participant’s\nSettlement Account for cash (liquidity) settlement.\n\nThe Declaration of a Substitute Liquidity Bank does not imply a duty to make cash (liquidity)\navailable on its account in order to settle the Participant’s Settlement Instructions.\n\nHowever, if the Substitute Liquidity Bank chooses to make cash (liquidity) available to the\nParticipant, it may do so. In such case, this shall be done in accordance with the rules set out in\nSection 20.\n\n\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                         18 of 58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Oslo",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "approval_status"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "oslo-edition-r2",
+          "title": "VPO NOK Rules cover: edition approval reservation (14 September re-verification)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Oslo"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Same page as the 13 September section oslo-edition; hub link and hash unchanged on 14 September 2026.",
+            "System approval is not edition-specific approval. Independent edition approval remains unresolved (gap G07)."
+          ],
+          "citations": [
+            {
+              "source_id": "14dc34b8e54e",
+              "title": "ES-OSL VPS NOK Rules.pdf",
+              "source_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+              "source_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+              "source_path": "sources/documents/14dc34b8e54e-ES-OSL-VPS-NOK-Rules-pdf.pdf",
+              "locator": "VPO NOK Rules cover, 2 September 2024",
+              "pdf_pages": [
+                1
+              ],
+              "body_language": "en",
+              "authoritative_language": "no",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "VPO NOK Rules: 2 September 2024; current hub links a copy whose cover retains an approval qualification.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "14dc34b8e54e",
+              "locator": "VPO NOK Rules cover, 2 September 2024",
+              "text": "[PDF page 1]\n\n   EURONEXT SECURITIES OSLO\n\n\n\n\n\n        VPO NOK RULES\n\n\n\n\n\nTHIS DOCUMENT IS A TRANSLATION FROM THE ORIGINAL NORWEGIAN VERSION. IN THE EVENT OF ANY\n\nDISCREPANCIES, THE ORIGINAL NORWEGIAN DOCUMENT WILL PREVAIL.\n\n\n\n\n\nENTERED  INTO  FORCE ON  02.09.2024.  SUBJECT  TO  APPROVAL  BY\n\nFINANSTILSYNET.\n\n\n\n\n\n© 2024, Verdipapirsentralen ASA                                                                          1 of 58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Oslo",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "oslo_operational_calendar"
+      },
+      "router_notes": {},
+      "status": "blocked",
+      "reason": "Current VPO NOK operating calendar, cycle times and MyVPS specifications are not in reviewed evidence.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": [
+        "G11"
+      ],
+      "topic_review_dates": null,
+      "evidence": []
+    }
+  ]
+}

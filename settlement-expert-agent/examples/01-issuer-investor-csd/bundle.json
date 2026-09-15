@@ -1,0 +1,333 @@
+{
+  "generated_at_utc": "2026-09-14T10:02:20.055383+00:00",
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "EU",
+        "service": "regulatory",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "issuer_investor_csd_definitions"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "rts392-issuer-investor-csd",
+          "title": "RTS 2017/392 Article 1 definitions: issuer CSD and investor CSD (English OJ text)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "EU"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Legal context, not local procedures or Norway incorporation. Future amendments remain separate.",
+            "Partial browser capture of the original act; the consolidated EN page returned German text on 14 September 2026, so the library's consolidated capture is language-mislabelled.",
+            "Roles depend on the security and relationship: one CSD can be issuer CSD for one issue and investor CSD for another."
+          ],
+          "citations": [
+            {
+              "source_id": "32017R0392-en-article1",
+              "title": "Commission Delegated Regulation (EU) 2017/392 — English OJ text, Article 1 definitions (browser excerpt)",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0392",
+              "source_sha256": "c3c8b3defce8898147f35d4df64e61334cb3b1aadb2259a166367418bffa861a",
+              "source_path": "implementation/2026-09-14-settlement-agent/sources/32017R0392-EN-article1-browser-excerpt.txt",
+              "locator": "Regulation 2017/392 Article 1(a)–(g); OJ L 65, 10.3.2017; browser excerpt",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": "EU official languages",
+              "translation_status": "original or official-language text",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": "OJ L 65, 10.3.2017",
+              "publication_date": "2017-03-10",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "32017R0392-en-article1",
+              "locator": "Regulation 2017/392 Article 1(a)–(g); OJ L 65, 10.3.2017; browser excerpt",
+              "text": "Article 1\n\nDefinitions\n\nFor the purposes of this Regulation, the following definitions apply:\n\n(a)\n\n\t\n\n‘review period’ means the period under review beginning on the day following the end of the previous review and evaluation period;\n\n(b)\n\n\t\n\n‘settlement instruction’ means a transfer order as defined in point (i) of Article 2 of Directive 98/26/EC of the European Parliament and of the Council (4);\n\n(c)\n\n\t\n\n‘settlement restriction’ means the blocking, reservation or earmarking of securities that make them unavailable for settlement, or the blocking or reservation of cash that make it unavailable for settlement;\n\n(d)\n\n\t\n\n‘exchange-traded fund’ (ETF) means a fund as defined in point (46) of Article 4(1) of Directive 2014/65/EU of the European Parliament and of the Council (5);\n\n(e)\n\n\t\n\n‘issuer CSD’ means a CSD which provides the core service referred to in point 1 or 2 of Section A of the Annex to Regulation (EU) No 909/2014 in relation to a securities issue;\n\n(f)\n\n\t\n\n‘investor CSD’ means a CSD that either is a participant in the securities settlement system operated by another CSD or that uses a third party or an intermediary that is a participant in the securities settlement system operated by another CSD in relation to a securities issue;\n\n(g)\n\n\t\n\n‘durable medium’ means any instrument which enables the storage of information in a way that is accessible for future reference for a period of time adequate for the purposes of the information, and allows the unchanged reproduction of the information stored."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "T2S",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "investor_csd_definition"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "t2s-posting",
+          "title": "Posting checks eligibility and resources before transfer",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.1.8.1 and first overview paragraph; PDF 303–304",
+              "pdf_pages": [
+                303,
+                304
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.1.8.1 and first overview paragraph; PDF 303–304",
+              "text": "1.6.1.8 Posting\n\n\n 2    1.6.1.8.1 Concept\n\n 3   The posting application process checks if the settlement of Settlement Instructions, Settlement Restrictions\n 4   and Liquidity Transfers can be achieved considering their eligibility to settlement and the available resources.\n\n 5    In case of high concentration of Settlement Instructions on the same resource (i.e. debiting the same DCA,\n 6    debiting or crediting the same SAC not allowed to be negative), the Settlement Instructions could be\n 7   grouped without any business links between one another.\n\n 8     It may resort to the optimising application process if needed for the settlement (See section Optimising\n 9    [ 335]).\n\n10   When the check is satisfactory, the posting application process updates the cash balance, securities position\n11   and limit headroom, resulting in the irrevocability of the settlement.\n\n12                           DIAGRAM 81 - SETTLEMENT APPLICATION PROCESSES / POSTING\n\n\n\n\n\n13\n\n14    1.6.1.8.2 Overview\n\n15    Settlement Instructions, Settlement Restrictions and Liquidity Transfers, sent by the T2S Actors or automati-\n16     cally generated by T2S, are submitted to the posting application process at the Intended Settlement Date.\n\n\n\n\n                                                                                            Page 303 of 2017\n\n\n\n[PDF page 304]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1"
+            }
+          ]
+        },
+        {
+          "id": "t2s-realignment",
+          "title": "Realignment generation, CSD roles and all-or-none relationship",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [
+            "Actual links/accounts and ISIN eligibility require verification.",
+            "Does not establish atomicity of an arbitrary two-security swap or describe every action outside T2S."
+          ],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.1.10; concepts and reference-data requirements; PDF 373–376",
+              "pdf_pages": [
+                373,
+                374,
+                375,
+                376
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.1.10; concepts and reference-data requirements; PDF 373–376",
+              "text": "1.6.1.10 Realignment\n\n\n 2    1.6.1.10.1 Concept\n\n 3   The realignment application process handles the cases of:\n\n 4         l  Cross-CSD settlements, i.e. settlements between T2S Actors of different CSDs, the latter being in T2S;\n\n 5         l  External-CSD settlements, i.e. settlements between T2S Actors of different CSDs, with some of the CSDs\n 6        involved in the settlement being external to T2S.\n\n 7    Cross-CSD settlement is achieved in T2S with the simultaneous booking of cash and securities for Settlement\n 8    Instructions between participants of different CSDs. Once incoming Settlement Instructions are matched (or\n 9    validated for already matched incoming Settlement Instructions), the realignment application process creates\n10    automatically all the requested Settlement Instructions between the involved CSDs, referred hereafter as\n11   T2S generated realignment Settlement Instructions. This automatic generation relies on links set in the ref-\n\n\n                                                                                            Page 373 of 2017\n\n\n\n[PDF page 374]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1    erence data between the relevant CSDs and does not request from the T2S Actors any other action. It takes\n 2    place immediately following either the validation of already matched Settlement Instructions, or the match-\n 3    ing of Settlement Instructions matching in T2S.\n\n 4    Realignment application process is also applied for external-CSD settlement.\n\n 5    This section details the parameters required from T2S Actors to manage the realignment in T2S for cross-\n 6   CSD and external-CSD settlement. It also details the resulting realignment chain with the description of the\n 7   T2S generated realignment Settlement Instructions reported to the involved T2S Actors.\n\n 8    For external-CSD settlement, only the process applying to the Settlement Instructions actually submitted to\n 9   T2S is described. All actions required by the realignment but without interaction with T2S are not described.\n\n10                               DIAGRAM 85 - REALIGNMENT APPLICATION PROCESS\n\n\n\n\n\n11\n\n12    1.6.1.10.2 Overview\n\n13   Upon the matching of Settlement Instructions, or upon the validation of already matched Settlement Instruc-\n14    tions, the realignment application process verifies if the incoming business Settlement Instructions are re-\n15    quiring realignment Settlement Instructions on securities accounts other than those of the submitting T2S\n16    Actors (e.g. on the accounts of the issuer CSD).\n\n\n\n\n\n                                                                                            Page 374 of 2017\n\n\n\n[PDF page 375]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1   When the need to realign is identified, the realignment application process creates automatically the T2S\n 2    generated realignment Settlement Instructions, based on the cross-CSD links set by CSDs in the reference\n 3    data.\n\n 4   The T2S generated realignment Settlement Instructions are then validated, and linked to the initial underly-\n 5    ing Settlement Instructions through two links INFO providing the references of both business Settlement\n 6    Instructions for information purposes. T2S ensures that the T2S generated realignment Settlement Instruc-\n 7    tions and their business Settlement Instructions settle on an all-or-none basis.\n\n\n 8    1.6.1.10.3 Realignment process\n\n 9   Parametersnecessaryforrealignment\n\n10    Role and links between CSDs for cross-CSD and external-CSD settlement\n\n11    Irrespective of whether it is a cross-CSD or an external-CSD settlement, a CSD is defined for the realignment\n12    process as:\n\n13         l  The issuer CSD, when it is the CSD in which the security has been issued and distributed on behalf of\n14       the Issuer;\n\n15         l  The investor CSD, when it is the CSD of at least one party of the Settlement Instruction;\n\n16         l  Or both, when it is the CSD in which the security has been issued and the CSD of at least one party of\n17       the Settlement Instruction.\n\n18   To manage the cross-CSD and external-CSD settlements, each investor CSD has the choice between:\n\n19         l  Opening an omnibus account (see section below) in the books of the issuer CSD to reflect the holdings\n20        of its participants for the securities, or;\n\n21         l  Opening an omnibus account in the books of any other CSD being already an investor CSD for the same\n22         financial instrument.\n\n23    In both cases, the CSD where the omnibus account is opened is defined as the technical issuer of the inves-\n24    tor CSD for the given securities. For a given ISIN, an investor CSD can define several such investor-type CSD\n25     links, meaning that it can define several technical issuer CSDs for a given ISIN. However, one of those links\n26    (and only one) should be given the preference for settlement under simple configurations (all CSDs in T2S,\n27   no multi-issuance), this is the “default” link. Under more complex configurations (external CSD configuration,\n28    multi-issuance), the preference should go first to one of the other “alternative” links, more specifically the\n29   one pointing to the counterpart CSD, in case it is set up in the reference data. If T2S cannot find an alterna-\n30     tive link to the counterparty CSD or if such an alternative link is found, but unusable due to a missing static\n31    data (i.e. invalid or incomplete configuration of CSD Account Links), T2S reverts back to the valid default\n32     links should be used also under those complex configurations.\n\n33    Only one link, whether default or alternative, can be set up towards a given technical issuer CSD for a given\n34    investor CSD and a given ISIN at the same point in time.\n\n35   The issuer-type CSD link cannot be an alternative link, it has always to be defined as a “default” link. Only\n36    investor-type links can be flagged “alternative”. Those links cannot be defined for an investor CSD outside\n37   T2S and they cannot point to a technical issuer CSD outside T2S.\n\n\n\n                                                                                            Page 375 of 2017\n\n\n\n[PDF page 376]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1   To that purpose, CSDs are required to configure the following set-up in the reference data:\n 2\n\n               PARAMETERS                                      DEFINITION\n\n        Security CSD links                   Each investor CSD has to define at least one technical issuer CSD per securities\n                                                                            it intends to set as eligible for settlement (See section Securities reference data\n                                              [ 71]). This results in the creation of one or several links between the investor\n                                   CSD and its technical issuer CSD(s) for a given financial instrument.\n\n                                  Among those links, one (and only one) should be flagged “default”, the other\n                                         ones being considered “alternative”.\n\n                                      The alternative links can only be set up for T2S-in investor CSDs, pointing to a\n                                             T2S-in technical issuer CSD.\n\n                                             For a given investor CSD and a given ISIN, only one link (either default or al-\n                                                  ternative) should point to a given technical issuer CSD.\n\n                                             For a given investor CSD, the technical issuer CSD may be different for each\n                                                    security. It is in most cases the issuer CSD of the security.\n\n                                      The issuer CSD sets a CSD link with itself as issuer. This link cannot be an al-\n                                                 ternative one, it is always a default one.\n\n                                           (See section Configuration of securities accounts for cross-CSD settlement and\n                                                external CSD settlement [ 97])\n\n 3    This set-up is used by T2S to derive the realignment chain applicable to matched Settlement Instructions\n 4    starting either from both investor CSDs (delivering and receiving) up to the issuer CSD(s) of the traded secu-\n 5     rities when default links are used, or from the delivering investor CSD up to the receiving investor CSD (or\n 6    vice versa) when alternative links are used.\n\n 7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_cross_csd_rule"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-cross-csd-disclosure",
+          "title": "Cross-CSD settlement rule and disclosure of settlement progress (Articles 77–78)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Italian text prevails (cover, PDF 1). English translation excerpt.",
+            "Article 77(2) excludes cross-CSD settlement when the issuer CSD is outside T2S unless both investor CSDs hold a link avoiding realignment with it; actual links per ISIN are not certified."
+          ],
+          "citations": [
+            {
+              "source_id": "8719262f5e8b",
+              "title": "Regulations as of 26 January 2026",
+              "source_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+              "source_sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+              "source_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
+              "locator": "Articles 77–78 with footnote 8; PDF 54, printed 53",
+              "pdf_pages": [
+                54
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "26 January 2026",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "8719262f5e8b",
+              "locator": "Articles 77–78 with footnote 8; PDF 54, printed 53",
+              "text": "Article 77 – Cross CSD Settlement\n\n1.  If the settlement Instructions are to be settled between a Participant in Monte\n    Titoli, different from another CSD in T2S and a participant in another CSD in\n   T2S (cross CSD), T2S shall automatically carry out the movements between\n   the securities accounts of the participants involved, of the Investor CSDs and\n   of the Issuer CSD.\n2. Monte Titoli does not envisage the possibility of carrying out a cross CSD\n   settlement on securities  if the Issuer CSD  is outside of T2S, unless both\n   investor CSDs have in place a link with another CSD in T2S so that the\n   realignment with the Issuer CSD outside T2S is not necessary.\n\nArticle 78 – Disclosure regarding the progress of the process\n\n1.  If requested by the Participants, Monte Titoli makes available the events that\n   change the balance in their securities account, supplying in real time the\n   settlement status of each transaction being processed,  all the information\n   useful for monitoring it, as well as the settlement of the whole transaction. This\n   disclosure is made available through the direct link channel to T2S, or through\n   the X-TRM Service.\n2.  If requested by the participants, Monte Titoli also makes available to the\n   participants and/or to their agent bank the cash balance disclosure. This\n   disclosure is processed and made available, according to the format and with\n   the channels indicated in the Services Manuals.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Porto",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "reference",
+        "question_type": "porto_cross_csd_links"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "porto-cross-csd-links",
+          "title": "Cross-CSD links: indirect links via interlinking intermediaries, direct T2S links and realignment (Chapter 15)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "reference"
+          ],
+          "entities": [
+            "Porto"
+          ],
+          "applicability_basis": "reference_description",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "English version of the Operational Manual V43 (internal date 26 January 2026); Portuguese text governs and the manual's operative effective date is unresolved.",
+            "Link inventory as described in the manual (Euroclear France, Euroclear Netherlands, NBB-SSS via Euroclear France, Clearstream Banking Frankfurt; intended Iberclear and Monte Titoli); the separate links document is not admitted."
+          ],
+          "citations": [
+            {
+              "source_id": "089b7aaef991",
+              "title": "Operational Manual of INTERBOLSA",
+              "source_url": "https://www.euronext.com/sites/default/files/2026-04/20260216_Manual%20Operativo_V43_EN.pdf",
+              "source_sha256": "95c924da7de39631e51a58e4a0a3ec998994c6021a7d02b36c6883f4af2479ec",
+              "source_path": "sources/documents/089b7aaef991-Operational-Manual-of-INTERBOLSA.pdf",
+              "locator": "Chapter 15; PDF 183–184, printed 182–183",
+              "pdf_pages": [
+                183,
+                184
+              ],
+              "body_language": "en",
+              "authoritative_language": "pt",
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "Operational Manual V43. Internal date 26 January 2026; filename 16 February 2026; posted April 2026.",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "089b7aaef991",
+              "locator": "Chapter 15; PDF 183–184, printed 182–183",
+              "text": "CHAPTER 15.  CROSS-CSD LINKS\n\n\n\n\nIndirect Links with other Central Securities Depositories (CSDs)\n\nThere are foreign securities registered at EURONEXT SECURITIES PORTO that are issued in a foreign\n\nCSD. One of the reasons for the registration of foreign securities is the admission to trading of\n\nthese securities on Euronext Lisbon.\n\nThese securities are held in accounts at EURONEXT SECURITIES PORTO through indirect links with\n\nforeign CSDs, through the Interlinking Financial Intermediary (participant) model.\n\nFor control purposes, and prior to any operation to be carried out through EURONEXT SECURITIES\n\nPORTO, the securities registered in another CSD shall be registered, in the name of the interlinking\n\nparticipant, in an account specially opened for that purpose, called \"Registration and Control\n\nAccount\".\n\nThe registration and control account opened at EURONEXT SECURITIES PORTO in the name of the\n\ninterlinking Financial Intermediary is a mirror account of the values that are registered in an account\n\nof the foreign depositary entity, with only registrations are being made in the account at EURONEXT\n\nSECURITIES PORTO.\n\nThe application must be made by the interconnection participant, who must send EURONEXT\n\nSECURITIES PORTO the following documents:\n\n            •  the characteristics of the securities concerned;\n\n            •  the identification of the CSD where the issue is registered;\n\n            •  The identification of the foreign depositary entity;\n\n            •  The number of securities that will circulate in Portugal in the first instance and their\n\n               distribution among the participants that are responsible for the accounts of the\n\n               securities in question.\n\nThe above-mentioned registration and control account  is debited and credited by EURONEXT\n\nSECURITIES PORTO, as a result of changes occurring in the number of securities in circulation in\n\nPortugal at any given moment, subject to  prior information from the  interlinking Financial\n\nIntermediary.\n\n\n\nDirect Links with other Central Securities Depositories (CSDs)\n\nWith T2S, a cross-border settlement agreement was implemented, with a single platform enabling\n\nthe settlement  of  all  securities belonging  to CSDs  that have signed such an agreement.\n\n\n\n\nOperational Manual                                                                        2026-01-26            Page 182\n\n\n\n[PDF page 184]\n\nFurthermore, the settlement rules are the same for all CSDs. Cross-border settlement is similar to\n\ndomestic settlement, using only direct links that are created for that purpose.\n\nIn accordance with the interest shown by the members of the Portuguese market, EURONEXT\n\nSECURITIES PORTO has created links with Euroclear France, Euroclear Netherlands, with NBB-SSS\n\n(Belgium) through Euroclear France and with Clearstream Banking Frankfurt (Germany) and\n\nintends to create links with the CSDs Iberclear (Spain) and Monte Titoli (Italy).\n\n\n\nT2S distinguishes between two types of cross-border settlement transactions:\n\n    •  Cross-CSD settlement: refers to cross-border settlement between participants of different\n\n     CSDs that are in T2S;\n\n    •   External CSD settlement: refers to cross-border settlement between participants of different\n\n      CSDs, with some of the CSD(s) involved in the settlement being external to T2S.\n\nIn cross-CSD settlement, T2S automatically generates the settlement instructions related to the\n\nrealignment process (between CSDs) to which the underlying settlement instructions are linked.\n\nFor external CSD settlement, the realignment has to be managed outside T2S.\n\n\n\nDetails regarding the specificities of cross-border settlement, as well as the implementation of links,\n\nalready established and to be established in the future between EURONEXT SECURITIES PORTO\n\nand other CSDs, are described in a specific autonomous document, available on the EURONEXT\n\nSECURITIES PORTO website (link) under \"Services\" / Other Services / \"Links with Other CSDs\".\n\n\n\n\n\nOperational Manual                                                                        2026-01-26            Page 183"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

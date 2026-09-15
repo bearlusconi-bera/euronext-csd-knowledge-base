@@ -1,0 +1,8 @@
+{
+  "runtime": "claude-code-subagent",
+  "model": "claude-opus-5 (alias opus)",
+  "rerouted": false,
+  "reroute_reason": "Bundle routing was already correct: five retrievals covering Copenhagen T2S settlement (Part 4 s11), Copenhagen VP non-T2S finality, T2S matching concept (x2) and the T2S baseline schedule. All returned evidence_only and together cover moment of entry, irrevocability, finality and pre-match.",
+  "checker_failures_after_fix": [],
+  "notes": "All five retrievals evidence_only; no blocked/needs_context/needs_refresh to disclose, but multiple LIMITATION lines applied and were carried (English rulebook text with Danish law governing and no authoritative-language statement; stale 2015 UHB URL in clause 11.1.1; pre-match consolidated order limitation; UDFS functional-matrix-only and DVP/DWP diagram label limitations; CET-only schedule, nominal not guaranteed, dated overlay required). Key distinctions drawn: matched (irrevocability at T2S 'Matched' status, still subject to Hold & Release and bilateral cancellation) vs settled (finality at the credit account entry on the receiving participant's securities account on T2S); pre-match moves only the Moment of Entry (VP's compliance declaration) and not irrevocability or finality. Flagged as unresolved: the reviewed T2S tolerance table (Table 57) is Euro-only, so no DKK band is in evidence; VP User Guidelines absent; DCP-vs-Pre-Match interaction not stated. Checker: 8/8 passed on first run, all five retrieved sections cited."
+}

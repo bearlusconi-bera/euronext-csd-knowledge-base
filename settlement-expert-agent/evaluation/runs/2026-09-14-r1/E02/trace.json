@@ -1,0 +1,57 @@
+{
+  "case_id": "E02",
+  "category": "explanation",
+  "question": "T2S reports my instruction as matched. Has my client at Monte Titoli received the shares?",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_settlement_message_field_change"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan",
+      "T2S"
+    ],
+    "topic_hits": [
+      "matching_concept",
+      "milan_settlement_message_field_change"
+    ],
+    "blocked_hits": [],
+    "dates": []
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "milan-finality",
+    "milan-repo-comm-field",
+    "t2s-matching",
+    "t2s-posting"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null
+}

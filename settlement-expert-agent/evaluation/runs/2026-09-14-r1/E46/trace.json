@@ -1,0 +1,176 @@
+{
+  "case_id": "E46",
+  "category": "wrong-market",
+  "question": "Does Monte Titoli's Article 72 SF2 rule (irrevocability at matching) apply to participants of Euronext Securities Copenhagen?",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "copenhagen_vp_settlement_finality"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "copenhagen_t2s_settlement"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "copenhagen_settlement_routing"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan",
+      "Copenhagen"
+    ],
+    "topic_hits": [
+      "copenhagen_vp_settlement_finality",
+      "finality",
+      "matching_concept"
+    ],
+    "blocked_hits": [],
+    "dates": [],
+    "responder_reroute": {
+      "previous_contexts": null,
+      "applied": true
+    }
+  },
+  "statuses": [
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "copenhagen-routing",
+    "copenhagen-t2s-settlement",
+    "copenhagen-vp-matching-finality",
+    "milan-finality",
+    "t2s-matching",
+    "t2s-posting"
+  ],
+  "build_manifest_sha256": "f9493d10a6f627c5d756eab1da4881400ea6efe63adfdc4395f236cae84b23cd",
+  "answer": null,
+  "responder": null,
+  "original_contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "copenhagen_vp_settlement_finality"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "copenhagen_t2s_settlement"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "copenhagen_settlement_routing"
+    }
+  ],
+  "original_contexts_recovered": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "copenhagen_vp_settlement_finality"
+    }
+  ],
+  "original_contexts_note": "Recovered post hoc by the maintainer on 2026-09-14: reroute_case.py recorded original_contexts after overwriting contexts, so the stored original_contexts equals the rerouted contexts. Recovered via deterministic_route(question) with the unchanged topic index (build manifest f9493d10a6f6)."
+}

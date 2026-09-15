@@ -12,7 +12,11 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=CELEX:02017R0392-20170310"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "32018R1229",
@@ -47,7 +51,11 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=CELEX:02018R1229-20240902"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "02014R0909-20260117",
@@ -1116,7 +1124,11 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117#document1"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "02017R0392-20170310",
@@ -1529,7 +1541,13 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0392-20170310#document1"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json",
+    "actual_content_language": "de",
+    "capture_issue": "German operative text beneath English navigation; English Article 1 excerpt registered as 32017R0392-en-article1."
   },
   {
     "id": "02018R1229-20240902",
@@ -1986,7 +2004,11 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R1229-20240902#document1"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "32022R2554",
@@ -2003,7 +2025,11 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=CELEX:02022R2554-20221227"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "32022R0858",
@@ -2020,7 +2046,11 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=CELEX:02022R0858-20220602"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "31998L0026",
@@ -2061,7 +2091,11 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=CELEX:01998L0026-20240408"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "32023R2845",
@@ -2073,7 +2107,11 @@
     "dom_characters": 150469,
     "complete_text_capture": true,
     "consolidated_links": [],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "02022R2554-20221227",
@@ -2090,7 +2128,16 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=CELEX:02022R2554-20221227"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json",
+    "actual_content_language": "fr",
+    "navigation_language": "en",
+    "capture_issue": "French operative text beneath English navigation; do not quote as English.",
+    "english_replacement_id": "dora-english-oj",
+    "knowledge_layer": "language-qualified-reference"
   },
   {
     "id": "01998L0026-20240408",
@@ -2127,7 +2174,11 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=CELEX:01998L0026-20090630"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "32017R0393",
@@ -2139,7 +2190,11 @@
     "dom_characters": 76650,
     "complete_text_capture": true,
     "consolidated_links": [],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "32017R0391",
@@ -2151,7 +2206,11 @@
     "dom_characters": 10073,
     "complete_text_capture": true,
     "consolidated_links": [],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "32018R1212",
@@ -2163,7 +2222,11 @@
     "dom_characters": 57589,
     "complete_text_capture": true,
     "consolidated_links": [],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "32017L0828",
@@ -2180,7 +2243,11 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=CELEX:02017L0828-20170520"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "02017R0390-20170310",
@@ -2197,7 +2264,11 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=CELEX:02017R0390-20170310"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "02017R0389-20170310",
@@ -2214,7 +2285,11 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=CELEX:02017R0389-20170310"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "02017R0394-20170310",
@@ -2231,7 +2306,11 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=CELEX:02017R0394-20170310"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "32025R2075",
@@ -2243,7 +2322,11 @@
     "dom_characters": 16061,
     "complete_text_capture": true,
     "consolidated_links": [],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
   },
   {
     "id": "02022R0858-20220602",
@@ -2260,6 +2343,28 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=CELEX:02022R0858-20220602"
       }
     ],
-    "review_status": "text-captured-version-list-inspected"
+    "review_status": "text-captured-version-list-inspected",
+    "previous_default_retrieval": null,
+    "default_retrieval": false,
+    "retrieval_admission": "Explicit section decisions only; this whole document is not admitted",
+    "section_decisions_path": "retrieval/section-decisions.json"
+  },
+  {
+    "id": "dora-english-oj",
+    "title": "DORA English OJ text — reviewed Articles 2 and 64",
+    "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng",
+    "local_path": "audits/2026-09-13/sources/dora-english-oj.html",
+    "original_sha256": "ab6a69009048a936ae5bda807d2516d66eca3df98772612ee0476e28aaa54c75",
+    "text_path": "audits/2026-09-13/extracted/dora-english-oj.txt",
+    "sha256": "e7e594a9c3b4d3f10f9d34403dacefd5f8901474514c75dd3691c46833ac80ba",
+    "actual_content_language": "en",
+    "retrieved_at": "2026-09-13",
+    "characters": 307857,
+    "complete_text_capture": true,
+    "default_retrieval": false,
+    "knowledge_layer": "bounded-legal-context",
+    "why_read": "English source for CSD inclusion and the general DORA application date.",
+    "review_scope": "Only Articles 2 and 64 substantively admitted; no complete incident-reporting chain.",
+    "section_decisions_path": "retrieval/section-decisions.json"
   }
 ]

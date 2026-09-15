@@ -1,0 +1,205 @@
+[
+  {
+    "case_id": "E01",
+    "category": "explanation",
+    "negative": false,
+    "dir": "settlement-expert-agent/evaluation/runs/2026-09-14-r2/E01",
+    "statuses": [
+      "evidence_only",
+      "evidence_only",
+      "evidence_only",
+      "evidence_only"
+    ],
+    "retrieved_sections": [
+      "milan-cross-csd-disclosure",
+      "november-text-comparison",
+      "rts392-issuer-investor-csd",
+      "t2s-posting",
+      "t2s-realignment"
+    ],
+    "prompt_chars": 105603
+  },
+  {
+    "case_id": "E12",
+    "category": "adversarial-unsupported-fields",
+    "negative": true,
+    "dir": "settlement-expert-agent/evaluation/runs/2026-09-14-r2/E12",
+    "statuses": [
+      "evidence_only",
+      "evidence_only",
+      "evidence_only",
+      "evidence_only",
+      "evidence_only",
+      "blocked"
+    ],
+    "retrieved_sections": [
+      "milan-xtrm-field-mapping",
+      "t2s-messages",
+      "t2s-posting",
+      "t2s-realignment",
+      "t2s-sese023-scope"
+    ],
+    "prompt_chars": 68180
+  },
+  {
+    "case_id": "E18",
+    "category": "missing-source",
+    "negative": true,
+    "dir": "settlement-expert-agent/evaluation/runs/2026-09-14-r2/E18",
+    "statuses": [
+      "evidence_only",
+      "blocked"
+    ],
+    "retrieved_sections": [
+      "t2s-rts-phase"
+    ],
+    "prompt_chars": 6845
+  },
+  {
+    "case_id": "E22",
+    "category": "paraphrase",
+    "negative": false,
+    "dir": "settlement-expert-agent/evaluation/runs/2026-09-14-r2/E22",
+    "statuses": [
+      "evidence_only",
+      "evidence_only",
+      "evidence_only"
+    ],
+    "retrieved_sections": [
+      "t2s-cancellation",
+      "t2s-matching",
+      "t2s-posting",
+      "t2s-recycling"
+    ],
+    "prompt_chars": 41773
+  },
+  {
+    "case_id": "E24",
+    "category": "ambiguity-needs-context",
+    "negative": true,
+    "dir": "settlement-expert-agent/evaluation/runs/2026-09-14-r2/E24",
+    "statuses": [
+      "evidence_only",
+      "needs_context"
+    ],
+    "retrieved_sections": [
+      "t2s-schedule-r2"
+    ],
+    "prompt_chars": 21959
+  },
+  {
+    "case_id": "E27",
+    "category": "conflicting-evidence",
+    "negative": false,
+    "dir": "settlement-expert-agent/evaluation/runs/2026-09-14-r2/E27",
+    "statuses": [
+      "evidence_only",
+      "evidence_only",
+      "evidence_only",
+      "evidence_only"
+    ],
+    "retrieved_sections": [
+      "porto-cancellation-allegement",
+      "porto-operating-hours-web",
+      "porto-rts-registration",
+      "t2s-rts-phase"
+    ],
+    "prompt_chars": 27636
+  },
+  {
+    "case_id": "E29",
+    "category": "explanation",
+    "negative": false,
+    "dir": "settlement-expert-agent/evaluation/runs/2026-09-14-r2/E29",
+    "statuses": [
+      "evidence_only",
+      "evidence_only"
+    ],
+    "retrieved_sections": [
+      "athens-instruction-content",
+      "athens-settlement-methods"
+    ],
+    "prompt_chars": 16747
+  },
+  {
+    "case_id": "E31",
+    "category": "multi-intent",
+    "negative": false,
+    "dir": "settlement-expert-agent/evaluation/runs/2026-09-14-r2/E31",
+    "statuses": [
+      "evidence_only",
+      "evidence_only",
+      "evidence_only",
+      "evidence_only"
+    ],
+    "retrieved_sections": [
+      "csdr-2-definitions",
+      "csdr-39-40",
+      "milan-finality",
+      "sfd-3-5"
+    ],
+    "prompt_chars": 26754
+  },
+  {
+    "case_id": "E32",
+    "category": "dated-event",
+    "negative": false,
+    "dir": "settlement-expert-agent/evaluation/runs/2026-09-14-r2/E32",
+    "statuses": [
+      "blocked",
+      "evidence_only"
+    ],
+    "retrieved_sections": [
+      "t2s-events-2026-04-14"
+    ],
+    "prompt_chars": 7108
+  },
+  {
+    "case_id": "E34",
+    "category": "future-date",
+    "negative": true,
+    "dir": "settlement-expert-agent/evaluation/runs/2026-09-14-r2/E34",
+    "statuses": [
+      "evidence_only",
+      "blocked",
+      "blocked",
+      "evidence_only"
+    ],
+    "retrieved_sections": [
+      "november-final-release",
+      "t2s-schedule-r2"
+    ],
+    "prompt_chars": 26934
+  },
+  {
+    "case_id": "E41",
+    "category": "future-programme",
+    "negative": false,
+    "dir": "settlement-expert-agent/evaluation/runs/2026-09-14-r2/E41",
+    "statuses": [
+      "evidence_only",
+      "evidence_only"
+    ],
+    "retrieved_sections": [
+      "milan-european-offering-golive",
+      "november-final-release"
+    ],
+    "prompt_chars": 10186
+  },
+  {
+    "case_id": "E42",
+    "category": "missing-source",
+    "negative": true,
+    "dir": "settlement-expert-agent/evaluation/runs/2026-09-14-r2/E42",
+    "statuses": [
+      "evidence_only",
+      "evidence_only",
+      "blocked"
+    ],
+    "retrieved_sections": [
+      "athens-settlement-methods",
+      "t2s-nts-processing"
+    ],
+    "prompt_chars": 10463
+  }
+]
