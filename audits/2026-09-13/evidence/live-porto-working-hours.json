@@ -1,0 +1,31 @@
+{
+  "id": "porto-working-hours",
+  "url": "https://www.euronext.com/en/post-trade/euronext-securities/porto/about-us/working-days-operating-hours",
+  "kind": "operational-calendar",
+  "audit_id": "porto-working-hours",
+  "retrieved_at_utc": "2026-09-13T16:36:46.941626+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/about-us/working-days-operating-hours",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": "Sun, 13 Sep 2026 10:02:53 GMT",
+  "etag": "W/\"1789293773\"",
+  "sha256": "b5ccb0e00b8ebdd708a2053ee08c76cf6d846109b8551f283488f8b354eef7aa",
+  "bytes": 394754,
+  "saved_path": "sources/porto-working-hours.html",
+  "text_path": "extracted/porto-working-hours.txt",
+  "title": "\n              Working Days & Operating Hours\n            ",
+  "links": [
+    {
+      "title": "Notice No. 25/1162 Closing days in 2026",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/251162"
+    },
+    {
+      "title": "Notice No. 24/1172 Closing days in 2025",
+      "url": "https://www.euronext.com/en/post-trade/es-porto/notices/241172"
+    },
+    {
+      "title": "notice no. 0394/2024 Timetables",
+      "url": "https://www.euronext.com/en/media/11820/download"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "fcbc69b0fc35",
+  "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.01.consolidado.en_.pdf",
+  "title": "INTERBOLSA Regulation 1/2016",
+  "original_sha256": "c14808b47f9ef15c3b68b51622dd6f14e8dda6d61f6b1c25ad1ac8ff24e13c85",
+  "kind": "curated-document",
+  "audit_id": "fcbc69b0fc35",
+  "retrieved_at_utc": "2026-09-13T16:14:14.324754+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.01.consolidado.en_.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Fri, 31 Jan 2025 13:32:36 GMT",
+  "etag": "W/\"fda69b02ed1ca8c01a084e3951814c2e\"",
+  "sha256": "c14808b47f9ef15c3b68b51622dd6f14e8dda6d61f6b1c25ad1ac8ff24e13c85",
+  "bytes": 367963,
+  "saved_path": "sources/fcbc69b0fc35.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 27,
+  "text_path": "extracted/fcbc69b0fc35.md"
+}

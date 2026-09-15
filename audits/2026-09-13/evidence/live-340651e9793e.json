@@ -1,0 +1,20 @@
+{
+  "url": "https://athens.euronext.com/sites/default/files/2024-05/Resolution%2022%20ATHEXCSD%2018122023%20as%20of%2019122023.pdf",
+  "id": "340651e9793e",
+  "original_sha256": "efbe1e439f427272ab5f282a30ee73e083a39f75cd6134fa485794f78b622a61",
+  "title": "ATHEXCSD Resolution 22",
+  "kind": "additional-existing-document",
+  "audit_id": "340651e9793e",
+  "retrieved_at_utc": "2026-09-13T16:19:33.362293+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2024-05/Resolution%2022%20ATHEXCSD%2018122023%20as%20of%2019122023.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Wed, 01 May 2024 11:03:26 GMT",
+  "etag": "\"29cbc-617626f8cdb80\"",
+  "sha256": "efbe1e439f427272ab5f282a30ee73e083a39f75cd6134fa485794f78b622a61",
+  "bytes": 171196,
+  "saved_path": "sources/340651e9793e.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 6,
+  "text_path": "extracted/340651e9793e.md"
+}

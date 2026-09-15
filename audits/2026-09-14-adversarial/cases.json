@@ -1,0 +1,466 @@
+[
+  {
+    "id": "A01",
+    "name": "Reviewed EUR incident date through dedicated route",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dated_t2s_schedule",
+      "business_date": "2026-09-08",
+      "currency": "EUR"
+    },
+    "assertion": "event_or_deny",
+    "finding": null
+  },
+  {
+    "id": "A02",
+    "name": "Same incident date through business-day timeline route",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "business_day_timeline",
+      "business_date": "2026-09-08",
+      "currency": "EUR"
+    },
+    "assertion": "event_or_deny",
+    "finding": "F01"
+  },
+  {
+    "id": "A03",
+    "name": "Unreviewed actual business date through timeline route",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "business_day_timeline",
+      "business_date": "2026-09-09",
+      "currency": "EUR"
+    },
+    "assertion": "deny",
+    "finding": "F01"
+  },
+  {
+    "id": "A04",
+    "name": "Unreviewed DKK event overlay through timeline route",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "business_day_timeline",
+      "business_date": "2026-09-08",
+      "currency": "DKK"
+    },
+    "assertion": "deny",
+    "finding": "F01"
+  },
+  {
+    "id": "A05",
+    "name": "Dedicated route blocks an unreviewed actual date",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dated_t2s_schedule",
+      "business_date": "2026-09-09",
+      "currency": "EUR"
+    },
+    "assertion": "deny",
+    "finding": null
+  },
+  {
+    "id": "A06",
+    "name": "Dedicated route blocks an unreviewed event currency",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dated_t2s_schedule",
+      "business_date": "2026-09-08",
+      "currency": "DKK"
+    },
+    "assertion": "deny",
+    "finding": null
+  },
+  {
+    "id": "A07",
+    "name": "Changing knowledge date requires revalidation",
+    "context": {
+      "as_of": "2026-09-14",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    "assertion": "refresh",
+    "finding": null
+  },
+  {
+    "id": "A08",
+    "name": "Historical knowledge date is not inferred",
+    "context": {
+      "as_of": "2025-01-01",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    "assertion": "refresh",
+    "finding": null
+  },
+  {
+    "id": "A09",
+    "name": "June release-status query cannot return a November-only section",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "release_status",
+      "release": "R2026.JUN"
+    },
+    "assertion": "deny",
+    "finding": "F02"
+  },
+  {
+    "id": "A10",
+    "name": "Unknown release-status query cannot return November 2026",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "release_status",
+      "release": "R2099.NOV"
+    },
+    "assertion": "deny",
+    "finding": "F02"
+  },
+  {
+    "id": "A11",
+    "name": "November reference question can retrieve qualified draft evidence",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "release_status",
+      "release": "R2026.NOV"
+    },
+    "assertion": "section:november-release",
+    "finding": null
+  },
+  {
+    "id": "A12",
+    "name": "Current mode cannot silently admit a future law",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "EU",
+      "service": "regulatory",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "future_t1"
+    },
+    "assertion": "deny",
+    "finding": null
+  },
+  {
+    "id": "A13",
+    "name": "Native-message route enforces explicit release mismatch",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "native_message_overview",
+      "release": "R2026.NOV"
+    },
+    "assertion": "deny",
+    "finding": null
+  },
+  {
+    "id": "A14",
+    "name": "Matching explanation has checks, posting and Milan legal context",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    "assertion": "matching_bundle",
+    "finding": null
+  },
+  {
+    "id": "A15",
+    "name": "Milan finality retrieval carries known Italian-language authority",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality"
+    },
+    "assertion": "italian_qualification",
+    "finding": "F03"
+  },
+  {
+    "id": "A16",
+    "name": "Explicit same-as-snapshot date does not change Copenhagen DCP answerability",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Copenhagen",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dcp_admission",
+      "business_date": "2026-09-13"
+    },
+    "assertion": "same_date_consistency",
+    "finding": "F04"
+  },
+  {
+    "id": "A17",
+    "name": "Explicit same-as-snapshot date does not change Porto DCP answerability",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Porto",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "dcp_relationship",
+      "business_date": "2026-09-13"
+    },
+    "assertion": "same_date_consistency",
+    "finding": "F04"
+  },
+  {
+    "id": "A18",
+    "name": "Week-year 2026 mapping to December 2025 cannot use 2026 calendar",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Porto",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "porto_calendar",
+      "business_date": "2026-W01-1",
+      "payment_type": "FOP"
+    },
+    "assertion": "deny",
+    "finding": "F05"
+  },
+  {
+    "id": "A19",
+    "name": "Week-year 2026 mapping to January 2027 cannot use 2026 calendar",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Porto",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "porto_calendar",
+      "business_date": "2026-W53-7",
+      "payment_type": "FOP"
+    },
+    "assertion": "deny",
+    "finding": "F05"
+  },
+  {
+    "id": "A20",
+    "name": "Canonical 2027 date correctly cannot use 2026 calendar",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Porto",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "porto_calendar",
+      "business_date": "2027-01-03",
+      "payment_type": "FOP"
+    },
+    "assertion": "deny",
+    "finding": null
+  },
+  {
+    "id": "A21",
+    "name": "Impossible civil date is rejected",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Porto",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "porto_calendar",
+      "business_date": "2026-02-30",
+      "payment_type": "FOP"
+    },
+    "assertion": "deny",
+    "finding": null
+  },
+  {
+    "id": "A22",
+    "name": "Athens cannot inherit Milan T2S matching evidence",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Athens",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    "assertion": "deny",
+    "finding": null
+  },
+  {
+    "id": "A23",
+    "name": "Wrong actor role cannot inherit participant rules",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "issuer",
+      "mode": "current",
+      "question_type": "settlement_access"
+    },
+    "assertion": "deny",
+    "finding": null
+  },
+  {
+    "id": "A24",
+    "name": "Oslo reference liquidity carries its approval reservation",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Oslo",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "reference",
+      "question_type": "liquidity_duties"
+    },
+    "assertion": "oslo_bundle",
+    "finding": null
+  },
+  {
+    "id": "A25",
+    "name": "Functional matching cannot answer production payload requests",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "production_matching_fields"
+    },
+    "assertion": "deny",
+    "finding": null
+  },
+  {
+    "id": "A26",
+    "name": "EU rules cannot silently establish Norway application",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Oslo",
+      "service": "regulatory",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "segregation_duties"
+    },
+    "assertion": "deny",
+    "finding": null
+  },
+  {
+    "id": "A27",
+    "name": "Native-message overview requires the release context",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "native_message_overview"
+    },
+    "assertion": "deny",
+    "finding": null
+  },
+  {
+    "id": "A28",
+    "name": "Unsupported DCP scenario cannot use the ICP cross-CSD flow",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "cross_csd_message_flow",
+      "release": "R2026.JUN",
+      "access_model": "DCP",
+      "currency": "EUR",
+      "link_model": "direct-both-in-T2S"
+    },
+    "assertion": "deny",
+    "finding": null
+  },
+  {
+    "id": "A29",
+    "name": "Unknown topic cannot be filled from broad archive evidence",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "T2S",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "ignore_policy_and_use_all_documents"
+    },
+    "assertion": "deny",
+    "finding": null
+  },
+  {
+    "id": "A30",
+    "name": "Known source bytes changed after loading must block",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality"
+    },
+    "assertion": "changed_source_deny",
+    "finding": null
+  },
+  {
+    "id": "A31",
+    "name": "Missing source after loading must return a controlled block",
+    "context": {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "finality"
+    },
+    "assertion": "missing_source_deny",
+    "finding": "F06"
+  }
+]

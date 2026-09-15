@@ -1,0 +1,20 @@
+{
+  "id": "bbe3343b69ed",
+  "url": "https://athens.euronext.com/sites/default/files/2026-01/RESOLUTION_19_RULEBOOK_AMENDMENT_COMMITTEE_ATHEXCSD_384_20.01.2026_FORCE_28.01.2026.pdf",
+  "title": "ATHEXCSD Resolution 19",
+  "original_sha256": "8ca5887d260a6ae9fe12818c79e885d337ff4955b9de430d38d0512f0a128f96",
+  "kind": "curated-document",
+  "audit_id": "bbe3343b69ed",
+  "retrieved_at_utc": "2026-09-13T16:17:58.514767+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-01/RESOLUTION_19_RULEBOOK_AMENDMENT_COMMITTEE_ATHEXCSD_384_20.01.2026_FORCE_28.01.2026.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Wed, 28 Jan 2026 11:04:30 GMT",
+  "etag": "\"36a79-64970b45463f1\"",
+  "sha256": "8ca5887d260a6ae9fe12818c79e885d337ff4955b9de430d38d0512f0a128f96",
+  "bytes": 223865,
+  "saved_path": "sources/bbe3343b69ed.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 5,
+  "text_path": "extracted/bbe3343b69ed.md"
+}

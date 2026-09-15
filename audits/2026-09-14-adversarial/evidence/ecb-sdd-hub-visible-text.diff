@@ -1,0 +1,40 @@
+--- implementation/2026-09-13/sources/ecb-sdd-hub.html
+
++++ audits/2026-09-14-adversarial/evidence/ecb-sdd-hub-live.html
+
+@@ -93,5 +93,33 @@
+
+ Date
+ T2S Scope Defining Documents
+-3 August 2026T2S Draft Scope Defining Documents for R2026.NOV - Market Review
++14 September 2026T2S User Requirements Document R2026.NOV (URD)
++EnglishAnnexes14 September 2026URD R2026.NOV Version in revision marks
++English14 September 2026Previous version T2S URD R2026.JUN
++English14 September 2026Business Functionality for T2S Graphical User Interface R2026.NOV (BFD)
++EnglishAnnexes14 September 2026Business Functionality for T2S Graphical User Interface R2026.NOV (BFD) Version in revision marks
++English14 September 2026Previous version T2S BFD R2026.JUN
++English14 September 2026T2S General Functional Specifications R2026.NOV (GFS)
++EnglishAnnexes14 September 2026GFS R2026.NOV Version in revision marks
++English14 September 2026Previous version T2S GFS R2026.JUN
++English14 September 2026T2S GFS - URD Cross-reference
++English14 September 2026T2S User Detailed Functional Specifications R2026.NOV (UDFS)
++EnglishAnnexes14 September 2026UDFS R2026.NOV Version in revision marks
++English14 September 2026Previous version T2S UDFS R2026.JUN
++English14 September 2026Business Rules R2026.NOV
++English14 September 2026Cover Note
++English14 September 2026T2S User Handbook R2026.NOV (UHB)
++EnglishAnnexes14 September 2026UHB R2026.NOV Version in revision marks
++EnglishRelated14 September 2026T2S User Handbook R2026.NOV (UHB)
++English14 September 2026Previous version T2S UHB R2026.JUN
++EnglishRelated14 September 2026T2S User Handbook R2026.NOV (UHB)
++English14 September 2026Sitemaps R2026.NOV
++EnglishRelated14 September 2026T2S User Handbook R2026.NOV (UHB)
++EnglishRelated14 September 2026UHB R2026.NOV Version in revision marks
++English14 September 2026Previous version T2S UHB R2026.JUN
++English14 September 2026Sitemaps R2026.NOV
++English14 September 2026T2S Data Migration Tool Specification R2026.NOV (DMT)
++EnglishAnnexes14 September 2026T2S DMT R2026.NOV Version in revision marks
++English14 September 2026Previous version T2S DMT R2026.JUN
++English3 August 2026T2S Draft Scope Defining Documents for R2026.NOV - Market Review
+ EnglishAnnexes3 August 2026T2S User Detailed Functional Specification R2026.NOV (UDFS) - Version in revision marks
+ English3 August 2026T2S User Handbook R2026.NOV (UHB) - Version in revision marks

@@ -1,0 +1,20 @@
+{
+  "url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%203%20ATHEXCSD%20-%20INITIAL%20RECORDING%2004092024%20FORCE%2004092024.pdf",
+  "id": "6a25a8048ba7",
+  "original_sha256": "724a38bdff73b95787b54087e2ce4d4df042cb7788031a4aa511293e9849c9e7",
+  "title": "ATHEXCSD Resolution 3",
+  "kind": "additional-existing-document",
+  "audit_id": "6a25a8048ba7",
+  "retrieved_at_utc": "2026-09-13T16:19:33.361909+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%203%20ATHEXCSD%20-%20INITIAL%20RECORDING%2004092024%20FORCE%2004092024.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Wed, 22 Jan 2025 14:37:19 GMT",
+  "etag": "\"6c14c-62c4c6e3fc7f9\"",
+  "sha256": "724a38bdff73b95787b54087e2ce4d4df042cb7788031a4aa511293e9849c9e7",
+  "bytes": 442700,
+  "saved_path": "sources/6a25a8048ba7.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 19,
+  "text_path": "extracted/6a25a8048ba7.md"
+}

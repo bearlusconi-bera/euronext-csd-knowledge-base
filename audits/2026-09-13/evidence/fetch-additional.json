@@ -1,0 +1,2277 @@
+[
+  {
+    "url": "https://athens.euronext.com/sites/default/files/2026-06/%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3_%CE%9B%CE%95%CE%99%CE%A4%CE%9F%CE%A5%CE%A1%CE%93%CE%99%CE%91%CE%A3_%CE%95%CE%9B%CE%9A%CE%91%CE%A4_7%CE%B7_%CE%A4%CF%81%CE%BF%CF%80%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7_383_24.11.2025_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_8.12.2025.pdf",
+    "id": "athens-greek-master",
+    "kind": "new-authoritative-original",
+    "audit_id": "athens-greek-master",
+    "retrieved_at_utc": "2026-09-13T16:19:33.361458+00:00",
+    "http_status": 200,
+    "final_url": "https://athens.euronext.com/sites/default/files/2026-06/%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3_%CE%9B%CE%95%CE%99%CE%A4%CE%9F%CE%A5%CE%A1%CE%93%CE%99%CE%91%CE%A3_%CE%95%CE%9B%CE%9A%CE%91%CE%A4_7%CE%B7_%CE%A4%CF%81%CE%BF%CF%80%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7_383_24.11.2025_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_8.12.2025.pdf",
+    "content_type": "application/pdf",
+    "last_modified_http": "Tue, 16 Jun 2026 12:10:56 GMT",
+    "etag": "\"3feec3-6545dd5d9d2d0\"",
+    "sha256": "55c319194d12ab734319cd32aaf16578db3cbfbbb54c5fe7e5f5ea0425d6debd",
+    "bytes": 4189891,
+    "saved_path": "sources/athens-greek-master.pdf",
+    "pdf_pages": 206,
+    "text_path": "extracted/athens-greek-master.md"
+  },
+  {
+    "url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%20Nr%2021%20-%20Participant%20Default%20%2030092024%20FORCE%2012042021.pdf",
+    "id": "207ccb1774e7",
+    "original_sha256": "0292becbe236bbd628fa6a55f42b17f0a009b185f55fd85b330f651a789ecfc4",
+    "title": "ATHEXCSD Resolution 21",
+    "kind": "additional-existing-document",
+    "audit_id": "207ccb1774e7",
+    "retrieved_at_utc": "2026-09-13T16:19:33.361743+00:00",
+    "http_status": 200,
+    "final_url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%20Nr%2021%20-%20Participant%20Default%20%2030092024%20FORCE%2012042021.pdf",
+    "content_type": "application/pdf",
+    "last_modified_http": "Wed, 22 Jan 2025 14:47:25 GMT",
+    "etag": "\"4700b-62c4c92666645\"",
+    "sha256": "0292becbe236bbd628fa6a55f42b17f0a009b185f55fd85b330f651a789ecfc4",
+    "bytes": 290827,
+    "saved_path": "sources/207ccb1774e7.pdf",
+    "same_as_archived_bytes": true,
+    "pdf_pages": 10,
+    "text_path": "extracted/207ccb1774e7.md"
+  },
+  {
+    "url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%203%20ATHEXCSD%20-%20INITIAL%20RECORDING%2004092024%20FORCE%2004092024.pdf",
+    "id": "6a25a8048ba7",
+    "original_sha256": "724a38bdff73b95787b54087e2ce4d4df042cb7788031a4aa511293e9849c9e7",
+    "title": "ATHEXCSD Resolution 3",
+    "kind": "additional-existing-document",
+    "audit_id": "6a25a8048ba7",
+    "retrieved_at_utc": "2026-09-13T16:19:33.361909+00:00",
+    "http_status": 200,
+    "final_url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%203%20ATHEXCSD%20-%20INITIAL%20RECORDING%2004092024%20FORCE%2004092024.pdf",
+    "content_type": "application/pdf",
+    "last_modified_http": "Wed, 22 Jan 2025 14:37:19 GMT",
+    "etag": "\"6c14c-62c4c6e3fc7f9\"",
+    "sha256": "724a38bdff73b95787b54087e2ce4d4df042cb7788031a4aa511293e9849c9e7",
+    "bytes": 442700,
+    "saved_path": "sources/6a25a8048ba7.pdf",
+    "same_as_archived_bytes": true,
+    "pdf_pages": 19,
+    "text_path": "extracted/6a25a8048ba7.md"
+  },
+  {
+    "url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%209%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A312042021.pdf",
+    "id": "cfa670f7e37b",
+    "original_sha256": "72b85fd5f48de4cff8caf28583fb760f23cd0861c1ed59ba1c57ba1425c546d2",
+    "title": "ATHEXCSD Resolution 9",
+    "kind": "additional-existing-document",
+    "audit_id": "cfa670f7e37b",
+    "retrieved_at_utc": "2026-09-13T16:19:33.362076+00:00",
+    "http_status": 200,
+    "final_url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%209%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A312042021.pdf",
+    "content_type": "application/pdf",
+    "last_modified_http": "Wed, 01 May 2024 11:02:23 GMT",
+    "etag": "\"477d8-617626bcb8dc0\"",
+    "sha256": "72b85fd5f48de4cff8caf28583fb760f23cd0861c1ed59ba1c57ba1425c546d2",
+    "bytes": 292824,
+    "saved_path": "sources/cfa670f7e37b.pdf",
+    "same_as_archived_bytes": true,
+    "pdf_pages": 18,
+    "text_path": "extracted/cfa670f7e37b.md"
+  },
+  {
+    "url": "https://athens.euronext.com/sites/default/files/2025-11/RESOLUTION_11_ATHEXCSD-TAX_COLLECTION_SERVICES_383_24.11.2025_FORCE_8.12.2025.pdf",
+    "id": "1b6e29b4ec77",
+    "original_sha256": "f838681be84689059b7d7f3bd5e26077326a11dae58072b42075f4dbf597a65e",
+    "title": "ATHEXCSD Resolution 11",
+    "kind": "additional-existing-document",
+    "audit_id": "1b6e29b4ec77",
+    "retrieved_at_utc": "2026-09-13T16:19:33.362198+00:00",
+    "http_status": 200,
+    "final_url": "https://athens.euronext.com/sites/default/files/2025-11/RESOLUTION_11_ATHEXCSD-TAX_COLLECTION_SERVICES_383_24.11.2025_FORCE_8.12.2025.pdf",
+    "content_type": "application/pdf",
+    "last_modified_http": "Thu, 27 Nov 2025 09:39:45 GMT",
+    "etag": "\"4653a-644904b0f670d\"",
+    "sha256": "f838681be84689059b7d7f3bd5e26077326a11dae58072b42075f4dbf597a65e",
+    "bytes": 288058,
+    "saved_path": "sources/1b6e29b4ec77.pdf",
+    "same_as_archived_bytes": true,
+    "pdf_pages": 13,
+    "text_path": "extracted/1b6e29b4ec77.md"
+  },
+  {
+    "url": "https://athens.euronext.com/sites/default/files/2024-05/Resolution%2022%20ATHEXCSD%2018122023%20as%20of%2019122023.pdf",
+    "id": "340651e9793e",
+    "original_sha256": "efbe1e439f427272ab5f282a30ee73e083a39f75cd6134fa485794f78b622a61",
+    "title": "ATHEXCSD Resolution 22",
+    "kind": "additional-existing-document",
+    "audit_id": "340651e9793e",
+    "retrieved_at_utc": "2026-09-13T16:19:33.362293+00:00",
+    "http_status": 200,
+    "final_url": "https://athens.euronext.com/sites/default/files/2024-05/Resolution%2022%20ATHEXCSD%2018122023%20as%20of%2019122023.pdf",
+    "content_type": "application/pdf",
+    "last_modified_http": "Wed, 01 May 2024 11:03:26 GMT",
+    "etag": "\"29cbc-617626f8cdb80\"",
+    "sha256": "efbe1e439f427272ab5f282a30ee73e083a39f75cd6134fa485794f78b622a61",
+    "bytes": 171196,
+    "saved_path": "sources/340651e9793e.pdf",
+    "same_as_archived_bytes": true,
+    "pdf_pages": 6,
+    "text_path": "extracted/340651e9793e.md"
+  },
+  {
+    "url": "https://www.euronext.com/it/csd/milan/membership/rules-instructions",
+    "kind": "additional-authority",
+    "audit_id": "b680a2527b3f",
+    "retrieved_at_utc": "2026-09-13T16:19:34.203618+00:00",
+    "http_status": 404,
+    "final_url": "https://www.euronext.com/it/csd/milan/membership/rules-instructions",
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified_http": "Sun, 13 Sep 2026 16:19:34 GMT",
+    "etag": "W/\"1789316374\"",
+    "sha256": "6541d5e253b9b57b61c110f2ac9c898dd3c6e51ddb304de8933a939fb187df1d",
+    "bytes": 403298,
+    "saved_path": "sources/b680a2527b3f.html"
+  },
+  {
+    "url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_regelverket.pdf",
+    "kind": "additional-authority",
+    "audit_id": "822d46bb9149",
+    "retrieved_at_utc": "2026-09-13T16:19:34.339464+00:00",
+    "http_status": 200,
+    "final_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_regelverket.pdf",
+    "content_type": "application/pdf",
+    "last_modified_http": "Fri, 31 Jan 2025 13:33:59 GMT",
+    "etag": "W/\"83505f798754638ccdf347481fdb45f0\"",
+    "sha256": "705a9f5dca5d96b08074a282ef96c81683b4c2c3519efbf74c4e6f5a0412856a",
+    "bytes": 490569,
+    "saved_path": "sources/822d46bb9149.pdf",
+    "pdf_pages": 55,
+    "text_path": "extracted/822d46bb9149.md"
+  },
+  {
+    "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html?com.dotmarketing.htmlpage.language=102",
+    "kind": "additional-authority",
+    "audit_id": "999c512e202a",
+    "retrieved_at_utc": "2026-09-13T16:19:34.728301+00:00",
+    "http_status": 200,
+    "final_url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html?com.dotmarketing.htmlpage.language=102",
+    "content_type": "text/html;charset=UTF-8",
+    "last_modified_http": null,
+    "etag": null,
+    "sha256": "e97c96f7eeb2c21da5046e85591fe20aa5057d65f5027ef7b5782ef9312892db",
+    "bytes": 140243,
+    "saved_path": "sources/999c512e202a.html",
+    "text_path": "extracted/999c512e202a.txt",
+    "title": "Regolamento titoli",
+    "links": [
+      {
+        "title": "Vai al contenuto principale",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html?com.dotmarketing.htmlpage.language=102#main"
+      },
+      {
+        "title": "Home page",
+        "url": "https://www.bancaditalia.it/homepage/index.html"
+      },
+      {
+        "title": "Cerca nel sito |",
+        "url": "https://www.bancaditalia.it/ricerca/"
+      },
+      {
+        "title": "EN Go to english version",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html?com.dotmarketing.htmlpage.language=1"
+      },
+      {
+        "title": "",
+        "url": "https://twitter.com/share?text=Banca+d%27Italia+-+Regolamento+titoli&url=https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html"
+      },
+      {
+        "title": "",
+        "url": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.bancaditalia.it%2Fcompiti%2Fsispaga-mercati%2Fregolamento-titoli%2Findex.html"
+      },
+      {
+        "title": "",
+        "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bancaditalia.it%2Fcompiti%2Fsispaga-mercati%2Fregolamento-titoli%2Findex.html"
+      },
+      {
+        "title": "",
+        "url": "mailto:?body=https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html&subject=Un%20link%20dal%20sito%20della%20Banca%20d%27Italia"
+      },
+      {
+        "title": "testo unico della finanza",
+        "url": "https://www.consob.it/documents/1912911/1962639/dlgs58_1998.pdf"
+      },
+      {
+        "title": "Consob",
+        "url": "http://www.consob.it/"
+      },
+      {
+        "title": "Monte Titoli SpA",
+        "url": "http://www.montetitoli.it/home/homepage.htm"
+      },
+      {
+        "title": "direttiva 2009/44/CE",
+        "url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:146:0037:0043:IT:PDF"
+      },
+      {
+        "title": "d.lgs. 24 marzo 2011, n. 48",
+        "url": "http://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2011-04-21&atto.codiceRedazionale=011G0089&normativi=false&tipoVigenza=originario&tipoSerie=serie_generale&currentPage=1"
+      },
+      {
+        "title": "Provvedimento Unico",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/bdi-consob.pdf"
+      },
+      {
+        "title": "CSD Regulation",
+        "url": "http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P7-TA-2014-0388+0+DOC+XML+V0//IT#BKMD-118"
+      },
+      {
+        "title": "assessment",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/Assessment_Monte_Titoli.pdf"
+      },
+      {
+        "title": "ESCB-CESR Recommendations for Securities Settlement Systems",
+        "url": "https://www.ecb.europa.eu/pub/pdf/other/pr090623_escb-cesr_recommendationsen.pdf"
+      },
+      {
+        "title": "Principles for Financial Markets Infrastructures",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/PFMI.pdf"
+      },
+      {
+        "title": "migrazione della piazza finanziaria italiana",
+        "url": "https://www.bancaditalia.it/media/notizia/la-piazza-finanziaria-italiana-opera-su-target2-securities"
+      },
+      {
+        "title": "Target 2 Securities (T2S)",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/security-target2/index.html"
+      },
+      {
+        "title": "Orientamenti ESA JC 2024 34 del 5 giugno 2024",
+        "url": "https://eba.europa.eu/activities/single-rulebook/regulatory-activities/operational-resilience/joint-guidelines-estimation-aggregated-annual-costs-and-losses-caused-major-ict-related-incidents"
+      },
+      {
+        "title": "Orientamenti ESMA 50-164-4285 del 10/05/2021",
+        "url": "https://www.esma.europa.eu/sites/default/files/library/esma_cloud_guidelines_it.pdf"
+      },
+      {
+        "title": "Direttiva 2010/78/UE del 24 ottobre 2010 (c.d. omnibus)",
+        "url": "http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32010L0078&rid=1"
+      },
+      {
+        "title": "Direttiva 2009/44/CE del 6 maggio 2009",
+        "url": "http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32009L0044&rid=1"
+      },
+      {
+        "title": "Direttiva 2002/47/CE del 6 giugno 2002",
+        "url": "http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32002L0047&qid=1415612947934&from=IT"
+      },
+      {
+        "title": "Direttiva 1998/26/CE del 19 maggio 1998",
+        "url": "http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:31998L0026&qid=1415613070574&from=IT"
+      },
+      {
+        "title": "Decreto legislativo 30 luglio 2012, n. 130",
+        "url": "http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-07-30;130!vig="
+      },
+      {
+        "title": "Decreto legislativo 24 marzo 2011, n. 48",
+        "url": "http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-24;48!vig="
+      },
+      {
+        "title": "Legge 28 dicembre 2005, n. 262",
+        "url": "http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;262!vig="
+      },
+      {
+        "title": "Decreto legislativo 21.5.2004, n. 170",
+        "url": "http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;170!vig="
+      },
+      {
+        "title": "Decreto legislativo 12 aprile 2001, n. 210",
+        "url": "http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-04-12;210!vig= "
+      },
+      {
+        "title": "Decreto legislativo 24 febbraio 1998, n. 58",
+        "url": "http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58!vig="
+      },
+      {
+        "title": "Nota n. 51 del 16/05/2025 pdf 374 KB",
+        "url": "https://www.bancaditalia.it/compiti/vigilanza/normativa/orientamenti-vigilanza/elenco-esa/note/Nota51-CostLosses.pdf"
+      },
+      {
+        "title": "Provvedimento del 5 ottobre 2022 pdf 75 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/Provvedimento_UK_CREST.pdf"
+      },
+      {
+        "title": "Modifiche al provvedimento unico sul post-trading pdf 142 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/Articolato_Modifiche_PU_vigente.pdf"
+      },
+      {
+        "title": "Nota di attuazione degli Orientamenti dell'ESMA in materia di esternalizzazione a fornitori di servizi cloud pdf 161 KB",
+        "url": "https://www.bancaditalia.it/compiti/vigilanza/normativa/orientamenti-vigilanza/elenco-esa/note/Nota-12-del-13.07.21.pdf"
+      },
+      {
+        "title": "Provvedimento del 2 agosto 2018 pdf 39 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/Provvedimento-2-agosto-2018.pdf"
+      },
+      {
+        "title": "Relazione illustrativa del nuovo \"Provvedimento Unico sul Post-trading\" del 13 agosto 2018 pdf 143 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/controparte-centrale/normativa/Relazione_illustrativa_PU.pdf"
+      },
+      {
+        "title": "Provvedimento del 13 agosto 2018 contenente la disciplina delle controparti centrali, dei depositari centrali pdf 632 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/controparte-centrale/normativa/Provvedimento-13-agosto-2018.pdf"
+      },
+      {
+        "title": "Disciplina dei servizi di gestione accentrata, di liquidazione, dei sistemi di garanzia e delle relative società di gestione pdf 226 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/bdi-consob.pdf"
+      },
+      {
+        "title": "Provvedimento 27 luglio 2015 pdf 39 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/provvto-27072015.pdf"
+      },
+      {
+        "title": "Provvedimento 2 marzo 2015 pdf 64 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/provv2mar15_designazione_X-COM.pdf"
+      },
+      {
+        "title": "Provvedimento 24 febbraio 2015 pdf 58 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/provvedimento_24_02_2015.pdf"
+      },
+      {
+        "title": "Provvedimento 11 febbraio 2015 pdf 41 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/provv11feb15.pdf"
+      },
+      {
+        "title": "Provvedimento 22 ottobre 2013 pdf 171 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/PU-Banca-d-Italia-Consob-ott2013.pdf"
+      },
+      {
+        "title": "Provvedimento 24 dicembre 2010 pdf 601 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/Provvedimento_24-12-2010.pdf"
+      },
+      {
+        "title": "Provvedimento 9 giugno 2004 pdf 17 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/09giugno2004.pdf"
+      },
+      {
+        "title": "Provvedimento della Banca d'Italia del 30 ottobre 2000 pdf 16 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/30ottobre2000.pdf"
+      },
+      {
+        "title": "Provvedimento 20 ottobre 2003 pdf 18 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/20ottobre2003.pdf"
+      },
+      {
+        "title": "Assessment of Monte Titoli’s observance of the ESCB-CESR Recommendations for Securities Settlement Systems (solo in inglese) pdf 48 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/Assessment_Monte_Titoli.pdf"
+      },
+      {
+        "title": "Principles for Financial Markets Infrastructures (solo in inglese) pdf 832 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/PFMI.pdf"
+      },
+      {
+        "title": "Workshop sulle misure di implementazione del Regolamento CSDR pdf 106 KB",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/locandina-workshop-060215.pdf"
+      },
+      {
+        "title": "ESMA - European Securities and Markets Authority - Post Trading",
+        "url": "https://www.esma.europa.eu/esmas-activities/markets-and-infrastructure/post-trading"
+      },
+      {
+        "title": "BIS – Committee on Payments and Market Infrastructures – CPMI",
+        "url": "http://www.bis.org/cpmi/index.htm"
+      },
+      {
+        "title": "ECB – European Central Bank – Markets and Payments",
+        "url": "http://www.ecb.europa.eu/paym/html/index.en.html"
+      },
+      {
+        "title": "ECSDA – European Central Securities Depositories Association",
+        "url": "http://ecsda.eu/"
+      },
+      {
+        "title": "Gestione accentrata dei titoli",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/index.html"
+      },
+      {
+        "title": "(torna all'home page)",
+        "url": "https://www.bancaditalia.it/homepage/index.html"
+      },
+      {
+        "title": "bancaditalia@pec.bancaditalia.it",
+        "url": "mailto:bancaditalia@pec.bancaditalia.it"
+      },
+      {
+        "title": "email@bancaditalia.it",
+        "url": "mailto:email@bancaditalia.it"
+      },
+      {
+        "title": "Contatti",
+        "url": "https://www.bancaditalia.it/footer/contatti"
+      },
+      {
+        "title": "Mappa del sito",
+        "url": "https://www.bancaditalia.it/homepage/sitemap-view.html"
+      },
+      {
+        "title": "Servizi online con accesso SPID",
+        "url": "https://www.bancaditalia.it/footer/servizispid"
+      },
+      {
+        "title": "Filiali",
+        "url": "https://www.bancaditalia.it/chi-siamo/organizzazione/filiali"
+      },
+      {
+        "title": "Lavorare in Banca d'Italia",
+        "url": "https://www.bancaditalia.it/chi-siamo/lavorare-bi"
+      },
+      {
+        "title": "Tassi effettivi globali medi (TEGM)",
+        "url": "https://www.bancaditalia.it/compiti/vigilanza/compiti-vigilanza/tegm"
+      },
+      {
+        "title": "Glossario",
+        "url": "https://www.bancaditalia.it/footer/glossario"
+      },
+      {
+        "title": "FAQ",
+        "url": "https://www.bancaditalia.it/footer/faq"
+      },
+      {
+        "title": "Unità di Informazione Finanziaria (UIF)",
+        "url": "https://uif.bancaditalia.it/"
+      },
+      {
+        "title": "Arbitro Bancario e Finanziario (ABF)",
+        "url": "https://www.arbitrobancariofinanziario.it/"
+      },
+      {
+        "title": "IVASS",
+        "url": "https://www.ivass.it/"
+      },
+      {
+        "title": "Premio per la scuola \"Inventiamo una banconota\"",
+        "url": "https://premioscuola.bancaditalia.it/"
+      },
+      {
+        "title": "L'Economia per tutti",
+        "url": "https://economiapertutti.bancaditalia.it/"
+      },
+      {
+        "title": "Portale di prenotazione on-line delle visite a Palazzo Koch",
+        "url": "https://www.visiteguidate-bancaditalia.it/"
+      },
+      {
+        "title": "Mudem",
+        "url": "https://www.mudem.it/"
+      },
+      {
+        "title": "Convenzione Interbancaria per l'Automazione (CIPA)",
+        "url": "https://www.cipa.it/"
+      },
+      {
+        "title": "€-coin",
+        "url": "https://cepr.org/research/research-projects-and-networks/eu-coin"
+      },
+      {
+        "title": "CERTFin",
+        "url": "https://www.certfin.it/"
+      },
+      {
+        "title": "Cooperazione PUMA",
+        "url": "https://www.cooperazionepuma.org/"
+      },
+      {
+        "title": "Siti delle banche centrali",
+        "url": "https://www.bancaditalia.it/footer/banche/index.html"
+      },
+      {
+        "title": "Portale della vigilanza bancaria",
+        "url": "https://www.bankingsupervision.europa.eu/framework/portal/html/index.it.html"
+      },
+      {
+        "title": "Comitato per le politiche macroprudenziali",
+        "url": "https://www.comitatomacroprudenziale.it/"
+      },
+      {
+        "title": "Informativa Privacy",
+        "url": "https://www.bancaditalia.it/footer/privacy"
+      },
+      {
+        "title": "Preferenze cookie",
+        "url": "https://www.bancaditalia.it/footer/cookie"
+      },
+      {
+        "title": "Disclaimer",
+        "url": "https://www.bancaditalia.it/footer/disclaimer"
+      },
+      {
+        "title": "Copyright",
+        "url": "https://www.bancaditalia.it/footer/copyright"
+      },
+      {
+        "title": "Open Data - metadati AgID (RDF)",
+        "url": "https://www.bancaditalia.it/footer/open-data/Open_Data_BdI.rdf"
+      },
+      {
+        "title": "Trasparenza",
+        "url": "https://www.bancaditalia.it/chi-siamo/trasparenza/"
+      },
+      {
+        "title": "Protezione dei dati",
+        "url": "https://www.bancaditalia.it/chi-siamo/protezione-dati/index.html"
+      },
+      {
+        "title": "Servizio di certificazione delle chiavi pubbliche",
+        "url": "https://www.bancaditalia.it/footer/firmadigitale"
+      },
+      {
+        "title": "Atti di notifica",
+        "url": "https://www.bancaditalia.it/footer/atti-di-notifica"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/bancaditalia_official"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/user/bancaditalia"
+      },
+      {
+        "title": "X - Banca d’Italia",
+        "url": "https://twitter.com/bancaditalia"
+      },
+      {
+        "title": "X - Ufficio Stampa",
+        "url": "https://twitter.com/UfficioStampaBI"
+      },
+      {
+        "title": "Linkedin",
+        "url": "https://www.linkedin.com/company/banca-d'italia/"
+      },
+      {
+        "title": "RSS",
+        "url": "https://alert.bancaditalia.it/webApp/rss?LANGUAGE=it"
+      },
+      {
+        "title": "E-mail Alert",
+        "url": "https://alert.bancaditalia.it/webApp/subscribe?LANGUAGE=it"
+      },
+      {
+        "title": "l'informativa sulla privacy",
+        "url": "https://www.bancaditalia.it/footer/privacy/index.html"
+      },
+      {
+        "title": "go to english version",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html?com.dotmarketing.htmlpage.language=102#bdi-cookie-en"
+      },
+      {
+        "title": "Privacy Policy",
+        "url": "https://www.bancaditalia.it/footer/privacy/index.html?lang=en"
+      },
+      {
+        "title": "leggi la versione italiana",
+        "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html?com.dotmarketing.htmlpage.language=102#bdi-cookie-it"
+      }
+    ]
+  },
+  {
+    "url": "https://www.finanstilsynet.no/tilsyn/infrastrukturforetak/",
+    "kind": "additional-authority",
+    "audit_id": "1ee1619da83d",
+    "retrieved_at_utc": "2026-09-13T16:19:34.749884+00:00",
+    "http_status": 200,
+    "final_url": "https://www.finanstilsynet.no/tilsyn/infrastrukturforetak/",
+    "content_type": "text/html; charset=utf-8",
+    "last_modified_http": null,
+    "etag": null,
+    "sha256": "39ac48acfda8ccfedc99e4e6aa2e73408ff940b72b79f3a4efc25d8f6ac26df3",
+    "bytes": 28280,
+    "saved_path": "sources/1ee1619da83d.html",
+    "text_path": "extracted/1ee1619da83d.txt",
+    "title": "\n\t\t\t\tInfrastrukturforetak\n\t\t\t",
+    "links": [
+      {
+        "title": "Rollefordelingen mellom Finanstilsynet og Norges Bank når det gjelder verdipapiroppgjørssystemer og sentrale motparter",
+        "url": "https://www.finanstilsynet.no/tilsyn/infrastrukturforetak/rollefordelingen-mellom-finanstilsynet-og-norges-bank---verdipapiroppgjorssystemer-og-sentrale-motparter/"
+      },
+      {
+        "title": "Brev til Finansdepartementet: Redegjørelse om samarbeidet mellom Finanstilsynet og Norges Bank",
+        "url": "https://www.finanstilsynet.no/contentassets/1983cfd43bc04285a54ca99571863da5/redegjorelse-om-samarbeidet-mellom-finanstilsynet-og-norges-bank.pdf"
+      },
+      {
+        "title": "Tilsynsrapporter og vedtak infrastrukturforetak",
+        "url": "https://www.finanstilsynet.no/tilsyn/infrastrukturforetak/tilsynsrapporter-infrastrukturforetak/"
+      },
+      {
+        "title": "Hvitvasking og terrorfinansiering",
+        "url": "https://www.finanstilsynet.no/tema/hvitvasking-og-terrorfinansiering/"
+      },
+      {
+        "title": "Tilsyn med finansforetakenes bruk av IT og betalingstjenester",
+        "url": "https://www.finanstilsynet.no/tema/tilsyn-med-it-og-betalingstjenester/"
+      },
+      {
+        "title": "Oppslag i virksomhetsregisteret",
+        "url": "https://www.finanstilsynet.no/virksomhetsregisteret/"
+      },
+      {
+        "title": "Konsesjon",
+        "url": "https://www.finanstilsynet.no/tillatelser/infrastrukturforetak/"
+      },
+      {
+        "title": "Rapportering",
+        "url": "https://www.finanstilsynet.no/rapportering/infrastrukturforetak/"
+      },
+      {
+        "title": "Regelverk",
+        "url": "https://www.finanstilsynet.no/regelverk/infrastrukturforetak/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.finanstilsynet.dk/lovgivning/eu-lovsamling/csdr",
+    "kind": "additional-authority",
+    "audit_id": "5cd1b9aeabd1",
+    "retrieved_at_utc": "2026-09-13T16:19:34.802889+00:00",
+    "http_status": 200,
+    "final_url": "https://www.finanstilsynet.dk/lovgivning/eu-lovsamling/csdr",
+    "content_type": "text/html; charset=utf-8",
+    "last_modified_http": null,
+    "etag": null,
+    "sha256": "3638bfd95edbc4a997b228e1d1a2c9e1665da6924f204ddcfc30daaa39dc03dd",
+    "bytes": 76351,
+    "saved_path": "sources/5cd1b9aeabd1.html",
+    "text_path": "extracted/5cd1b9aeabd1.txt",
+    "title": "CSDR",
+    "links": [
+      {
+        "title": "Spring hovednavigationen over",
+        "url": "https://www.finanstilsynet.dk/lovgivning/eu-lovsamling/csdr#content-main"
+      },
+      {
+        "title": "",
+        "url": "https://www.finanstilsynet.dk/"
+      },
+      {
+        "title": "Du kan finde retsakten på Eur-lex her.",
+        "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0001.01.DAN"
+      },
+      {
+        "title": "EU’s interinstitutionelle register over delegerede retsakter.",
+        "url": "https://webgate.ec.europa.eu/regdel/#/home"
+      },
+      {
+        "title": "ESA-retningslinjer",
+        "url": "https://www.finanstilsynet.dk/Media/639231653595628200/esa_retningslinjer_240826.XLSX"
+      },
+      {
+        "title": "Læs mere om cookies",
+        "url": "https://www.finanstilsynet.dk/cookies"
+      }
+    ]
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640",
+    "kind": "additional-authority",
+    "audit_id": "591deafae0a9",
+    "retrieved_at_utc": "2026-09-13T16:19:34.805880+00:00",
+    "http_status": 200,
+    "final_url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640",
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified_http": null,
+    "etag": null,
+    "sha256": "c7dcebf908e250de08221a059767b4de56072b43e91e3233dfe26ddeaf18b992",
+    "bytes": 1255178,
+    "saved_path": "sources/591deafae0a9.html",
+    "text_path": "extracted/591deafae0a9.txt",
+    "title": "EUR-Lex - C(2026)4640 - EN - EUR-Lex Log in English",
+    "links": [
+      {
+        "title": "Skip to main content",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#MainContent"
+      },
+      {
+        "title": "",
+        "url": "https://european-union.europa.eu/index_en"
+      },
+      {
+        "title": "Log in My EUR-Lex",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "Sign in",
+        "url": "https://eur-lex.europa.eu/protected/homepage.html?url=%2Flegal-content%2FEN%2FALL%2F%3Furi%3DPI_COM%253AC%25282026%25294640"
+      },
+      {
+        "title": "Register",
+        "url": "https://ecas.ec.europa.eu/cas/eim/external/register.cgi/"
+      },
+      {
+        "title": "My recent searches (0)",
+        "url": "https://eur-lex.europa.eu/my-eurlex/my-queries.html#recentQueries"
+      },
+      {
+        "title": "English English",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "bgбългарски",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "esEspañol",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "csČeština",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "daDansk",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "deDeutsch",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "etEesti keel",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "elΕλληνικά",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "enEnglish",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "frFrançais",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "gaGaeilge",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "hrHrvatski",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "itItaliano",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "lvLatviešu valoda",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "ltLietuvių kalba",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "huMagyar",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "mtMalti",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "nlNederlands",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "plPolski",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "ptPortuguês",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "roRomână",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "skSlovenčina",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "slSlovenščina",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "fiSuomi",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "svSvenska",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "EUR-Lex",
+        "url": "https://eur-lex.europa.eu/homepage.html?lang=en"
+      },
+      {
+        "title": "<a href=\"https://eur-lex.europa.eu/content/help/eurlex-content/experimental-features.html\" target=\"_blank\">More about the experimental features corner</a>",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "",
+        "url": "https://eur-lex.europa.eu/experimental-features.html?action=confirmFeedback"
+      },
+      {
+        "title": "EUROPA",
+        "url": "https://europa.eu/european-union/index_en"
+      },
+      {
+        "title": "EUR-Lex home",
+        "url": "https://eur-lex.europa.eu/homepage.html"
+      },
+      {
+        "title": "Help",
+        "url": "https://eur-lex.europa.eu/content/help.html"
+      },
+      {
+        "title": "Search tips",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640"
+      },
+      {
+        "title": "Advanced search",
+        "url": "https://eur-lex.europa.eu/advanced-search-form.html"
+      },
+      {
+        "title": "Help",
+        "url": "https://eur-lex.europa.eu/content/help.html"
+      },
+      {
+        "title": "BG",
+        "url": "https://eur-lex.europa.eu/legal-content/BG/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "ES",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "CS",
+        "url": "https://eur-lex.europa.eu/legal-content/CS/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "DA",
+        "url": "https://eur-lex.europa.eu/legal-content/DA/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "DE",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "ET",
+        "url": "https://eur-lex.europa.eu/legal-content/ET/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "EL",
+        "url": "https://eur-lex.europa.eu/legal-content/EL/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "EN",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "FR",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "GA",
+        "url": "https://eur-lex.europa.eu/legal-content/GA/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "HR",
+        "url": "https://eur-lex.europa.eu/legal-content/HR/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "IT",
+        "url": "https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "LV",
+        "url": "https://eur-lex.europa.eu/legal-content/LV/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "LT",
+        "url": "https://eur-lex.europa.eu/legal-content/LT/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "HU",
+        "url": "https://eur-lex.europa.eu/legal-content/HU/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "MT",
+        "url": "https://eur-lex.europa.eu/legal-content/MT/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "NL",
+        "url": "https://eur-lex.europa.eu/legal-content/NL/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "PL",
+        "url": "https://eur-lex.europa.eu/legal-content/PL/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "PT",
+        "url": "https://eur-lex.europa.eu/legal-content/PT/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "RO",
+        "url": "https://eur-lex.europa.eu/legal-content/RO/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "SK",
+        "url": "https://eur-lex.europa.eu/legal-content/SK/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "SL",
+        "url": "https://eur-lex.europa.eu/legal-content/SL/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "FI",
+        "url": "https://eur-lex.europa.eu/legal-content/FI/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "SV",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "BG",
+        "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "ES",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "CS",
+        "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "DA",
+        "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "DE",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "ET",
+        "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "EL",
+        "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "EN",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "FR",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "GA",
+        "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "HR",
+        "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "IT",
+        "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "LV",
+        "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "LT",
+        "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "HU",
+        "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "MT",
+        "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "NL",
+        "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "PL",
+        "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "PT",
+        "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "RO",
+        "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "SK",
+        "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "SL",
+        "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "FI",
+        "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "SV",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "BG",
+        "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "ES",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "CS",
+        "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "DA",
+        "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "DE",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "ET",
+        "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "EL",
+        "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "EN",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "FR",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "GA",
+        "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "HR",
+        "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "IT",
+        "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "LV",
+        "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "LT",
+        "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "HU",
+        "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "MT",
+        "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "NL",
+        "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "PL",
+        "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "PT",
+        "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "RO",
+        "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "SK",
+        "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "SL",
+        "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "FI",
+        "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "SV",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/DOC/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "BG",
+        "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "ES",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "CS",
+        "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "DA",
+        "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "DE",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "ET",
+        "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "EL",
+        "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "EN",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "FR",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "GA",
+        "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "HR",
+        "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "IT",
+        "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "LV",
+        "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "LT",
+        "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "HU",
+        "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "MT",
+        "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "NL",
+        "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "PL",
+        "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "PT",
+        "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "RO",
+        "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "SK",
+        "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "SL",
+        "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "FI",
+        "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "SV",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/PDF/?uri=PI_COM:C(2026)4640"
+      },
+      {
+        "title": "1",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote2"
+      },
+      {
+        "title": "2",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote3"
+      },
+      {
+        "title": "3",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote4"
+      },
+      {
+        "title": "4",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote5"
+      },
+      {
+        "title": "5",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote6"
+      },
+      {
+        "title": "6",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote7"
+      },
+      {
+        "title": "7",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote8"
+      },
+      {
+        "title": "8",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote9"
+      },
+      {
+        "title": "9",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote10"
+      },
+      {
+        "title": "10",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote11"
+      },
+      {
+        "title": "11",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote12"
+      },
+      {
+        "title": "12",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote13"
+      },
+      {
+        "title": "13",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote14"
+      },
+      {
+        "title": "14",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote15"
+      },
+      {
+        "title": "15",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote16"
+      },
+      {
+        "title": "16",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote17"
+      },
+      {
+        "title": "17",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote18"
+      },
+      {
+        "title": "18",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote19"
+      },
+      {
+        "title": "(1)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref2"
+      },
+      {
+        "title": "(2)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref3"
+      },
+      {
+        "title": "(3)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref4"
+      },
+      {
+        "title": "(4)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref5"
+      },
+      {
+        "title": "(5)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref6"
+      },
+      {
+        "title": "(6)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref7"
+      },
+      {
+        "title": "(7)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref8"
+      },
+      {
+        "title": "(8)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref9"
+      },
+      {
+        "title": "(9)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref10"
+      },
+      {
+        "title": "(10)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref11"
+      },
+      {
+        "title": "(11)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref12"
+      },
+      {
+        "title": "(12)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref13"
+      },
+      {
+        "title": "(13)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref14"
+      },
+      {
+        "title": "(14)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref15"
+      },
+      {
+        "title": "(15)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref16"
+      },
+      {
+        "title": "(16)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref17"
+      },
+      {
+        "title": "(17)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref18"
+      },
+      {
+        "title": "http://data.europa.eu/eli/reg_del/2018/1229/oj",
+        "url": "http://data.europa.eu/eli/reg_del/2018/1229/oj"
+      },
+      {
+        "title": "(18)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref19"
+      },
+      {
+        "title": "http://data.europa.eu/eli/reg/2010/1095/oj",
+        "url": "http://data.europa.eu/eli/reg/2010/1095/oj"
+      },
+      {
+        "title": "Top",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#document1"
+      },
+      {
+        "title": "1",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote1"
+      },
+      {
+        "title": "2",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote2"
+      },
+      {
+        "title": "3",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote3"
+      },
+      {
+        "title": "4",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote4"
+      },
+      {
+        "title": "5",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnote5"
+      },
+      {
+        "title": "(1)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref1"
+      },
+      {
+        "title": "(2)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref2"
+      },
+      {
+        "title": "(3)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref3"
+      },
+      {
+        "title": "(4)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref4"
+      },
+      {
+        "title": "(5)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#footnoteref5"
+      },
+      {
+        "title": "Top",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640#document2"
+      }
+    ]
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202502075",
+    "kind": "additional-authority",
+    "audit_id": "0b208263d717",
+    "retrieved_at_utc": "2026-09-13T16:19:35.325998+00:00",
+    "http_status": 200,
+    "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202502075",
+    "content_type": "application/pdf",
+    "last_modified_http": null,
+    "etag": null,
+    "sha256": "ec38346ab82b593e2ae69d6e4ac21350269797709a4533d9588798fbfc2f32ed",
+    "bytes": 916473,
+    "saved_path": "sources/0b208263d717.pdf",
+    "pdf_pages": 4,
+    "text_path": "extracted/0b208263d717.md"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/shared/pdf/2025-10_T2S_Framework_Agreement_internet_published.pdf",
+    "kind": "additional-authority",
+    "audit_id": "8cba16ac013d",
+    "retrieved_at_utc": "2026-09-13T16:19:35.328281+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/shared/pdf/2025-10_T2S_Framework_Agreement_internet_published.pdf",
+    "content_type": "application/pdf",
+    "last_modified_http": "Mon, 27 Oct 2025 14:23:45 GMT",
+    "etag": null,
+    "sha256": "b32b4b6c70dda06630211cc7ed8f890928eef0244053bff9300bae6dbb135119",
+    "bytes": 3834064,
+    "saved_path": "sources/8cba16ac013d.pdf",
+    "pdf_pages": 390,
+    "text_path": "extracted/8cba16ac013d.md"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/services/glossary/html/act7i.en.html",
+    "kind": "additional-authority",
+    "audit_id": "e96bf624cbbf",
+    "retrieved_at_utc": "2026-09-13T16:19:35.978814+00:00",
+    "http_status": 200,
+    "final_url": "https://www.ecb.europa.eu/services/glossary/html/act7i.en.html",
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified_http": null,
+    "etag": "\"myra-2e3054dd\"",
+    "sha256": "c3c1f818d4aae1e0c497aa4f4ec21471fb7bce999cb0282f739c2b221abd4409",
+    "bytes": 108014,
+    "saved_path": "sources/e96bf624cbbf.html",
+    "text_path": "extracted/e96bf624cbbf.txt",
+    "title": "Payments and markets glossary",
+    "links": [
+      {
+        "title": "A",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossa.en.html"
+      },
+      {
+        "title": "B",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7b.en.html"
+      },
+      {
+        "title": "C",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7c.en.html"
+      },
+      {
+        "title": "D",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7d.en.html"
+      },
+      {
+        "title": "E",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7e.en.html"
+      },
+      {
+        "title": "F",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7f.en.html"
+      },
+      {
+        "title": "G",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7g.en.html"
+      },
+      {
+        "title": "H",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7h.en.html"
+      },
+      {
+        "title": "I",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7i.en.html"
+      },
+      {
+        "title": "L",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7l.en.html"
+      },
+      {
+        "title": "M",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7m.en.html"
+      },
+      {
+        "title": "N",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7n.en.html"
+      },
+      {
+        "title": "O",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7o.en.html"
+      },
+      {
+        "title": "P",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7p.en.html"
+      },
+      {
+        "title": "Q",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7q.en.html"
+      },
+      {
+        "title": "R",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7r.en.html"
+      },
+      {
+        "title": "S",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7s.en.html"
+      },
+      {
+        "title": "T",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7t.en.html"
+      },
+      {
+        "title": "U",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7u.en.html"
+      },
+      {
+        "title": "V",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7v.en.html"
+      },
+      {
+        "title": "W",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7w.en.html"
+      },
+      {
+        "title": "Z",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/act7z.en.html"
+      },
+      {
+        "title": "International Bank Account Number (IBAN)",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#344"
+      },
+      {
+        "title": "international central securities depository (ICSD)",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#345"
+      },
+      {
+        "title": "interbank funds transfer system (IFTS)",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#343"
+      },
+      {
+        "title": "direct holding system",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossd.en.html#537"
+      },
+      {
+        "title": "direct link",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossd.en.html#538"
+      },
+      {
+        "title": "relayed link",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossr.en.html#635"
+      },
+      {
+        "title": "direct participant",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossd.en.html#677"
+      },
+      {
+        "title": "tiering arrangement",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glosst.en.html#667"
+      },
+      {
+        "title": "haircut",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossh.en.html#210"
+      },
+      {
+        "title": "margin",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossm.en.html#592"
+      },
+      {
+        "title": "intraday credit",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#216"
+      },
+      {
+        "title": "same-day funds",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glosss.en.html#641"
+      },
+      {
+        "title": "central securities depository",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossc.en.html#142"
+      },
+      {
+        "title": "CSD link",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossc.en.html#527"
+      },
+      {
+        "title": "issuer CSD",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#583"
+      },
+      {
+        "title": "direct holding system",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossd.en.html#537"
+      },
+      {
+        "title": "direct link",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossd.en.html#538"
+      },
+      {
+        "title": "indirect holding system",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#573"
+      },
+      {
+        "title": "investor CSD",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#582"
+      },
+      {
+        "title": "relayed link",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossr.en.html#635"
+      },
+      {
+        "title": "issuer CSD (issuing CSD)",
+        "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#583"
+      }
+    ]
+  },
+  {
+    "url": "https://www.euronext.com/pt/csd/porto/legislacao-e-regulamentacao/nossas-regras",
+    "kind": "additional-authority",
+    "audit_id": "818e1fc67881",
+    "retrieved_at_utc": "2026-09-13T16:19:36.151412+00:00",
+    "http_status": 200,
+    "final_url": "https://www.euronext.com/pt/csd/porto/legislacao-e-regulamentacao/nossas-regras",
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified_http": "Sun, 13 Sep 2026 10:04:09 GMT",
+    "etag": "W/\"1789293849\"",
+    "sha256": "0b2aaec85288e6e50fec57bbd0775554dde54063a17ff4f46de0600df716c309",
+    "bytes": 659390,
+    "saved_path": "sources/818e1fc67881.html",
+    "text_path": "extracted/818e1fc67881.txt",
+    "title": "\n              As nossas Regras\n            ",
+    "links": [
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2018",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2018.01.Consolidado.PT_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2017",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/RegulamentoIB.2017.01.PT__0.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2016",
+        "url": "https://www.euronext.com/sites/default/files/2024-01/REGULAMENTO%20DA%20INTERBOLSA%20N.%C2%BA%202_2016.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2016",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/RegulamentoIB.2016.01.Consolidado.PT_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 10/2003 – Codificação ISIN",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2003.10.PT_.pdf"
+      },
+      {
+        "title": "Instrução da INTERBOLSA n.º 1/2017",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/InstrucaoIB.2017.01.PT_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º1/2026",
+        "url": "https://www.euronext.com/sites/default/files/2026-01/Circular%20Interbolsa%20n.%C2%BA%201_2026_%20Exerc%C3%ADcio%20de%20Direitos.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 3/2024",
+        "url": "https://www.euronext.com/sites/default/files/2024-09/Euronext%20Securities%20Porto%20Circular%203_2024_PT.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2022",
+        "url": "https://www.euronext.com/sites/default/files/2024-09/Euronext%20Securities%20Porto%20Circular%201_2022_VF_PT_consolidada.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2019",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/PT_-IB-CIRCULAR-1_2019_0.pdf"
+      },
+      {
+        "title": "INTERBOLSA Circular 4/2016",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/Circular.2016.04.PT_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 3/2016",
+        "url": "https://www.euronext.com/sites/default/files/2024-06/Circular%20da%20INTERBOLSA%203_2016.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 2/2016",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2016.02.PT_.pdf"
+      },
+      {
+        "title": "Aviso da Euronext Securities Porto n.º 0394/2024",
+        "url": "https://www.euronext.com/sites/default/files/2024-06/Euronext%20Securities%20Porto%20-%20Aviso%20no.%2003942024%20-%20Hor%C3%A1rio.pdf"
+      },
+      {
+        "title": "Aviso da Euronext Securities Porto n.º 1132/2023",
+        "url": "https://www.euronext.com/sites/default/files/2024-06/An%C3%BAncio%20da%20INTERBOLSA%201132_2023.pdf"
+      },
+      {
+        "title": "Aviso da INTERBOLSA n.º 0246/2016",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/Aviso.2016.0246.Migra%C3%A7%C3%A3o.PT_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2022",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/RegulamentoIB.2022.03.PT_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2022",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/RegulamentoIB.2022.02.PT_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2022",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/RegulamentoIB.2022.01.PT_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2021",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/RegulamentoIB.2021.01.PT_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2020",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.202002.PT_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2020",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/Regulamento-IB-1SCSL2020_VF_03092020.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 4/2019",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2019.04.pt_.pdf"
+      },
+      {
+        "title": "INTERBOLSA Regulation 3/2019",
+        "url": "https://www.euronext.com/sites/default/files/2022-04/Regulation.2019.03.EN_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2019",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/Regulamento-IB-2-2019_VF.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2019",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2019.01.PT_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2018",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2018.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2018",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2018.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º1/2018",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2018.01.consolidado.pt_1.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2017",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2017.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2017",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2017.01.pt_1.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2016",
+        "url": "https://www.euronext.com/sites/default/files/2024-01/REGULAMENTO%20DA%20INTERBOLSA%20N.%C2%BA%202_2016.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2016",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.01.consolidado.pt_1.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 4/2010",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2010.04.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º1/2026",
+        "url": "https://www.euronext.com/sites/default/files/2026-01/Circular%20Interbolsa%20n.%C2%BA%201_2026_%20Exerc%C3%ADcio%20de%20Direitos.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 3/2024",
+        "url": "https://www.euronext.com/sites/default/files/2024-09/Euronext%20Securities%20Porto%20Circular%203_2024_PT.pdf"
+      },
+      {
+        "title": "INTERBOLSA Circular 1/2023",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2023.01.en_1.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2022",
+        "url": "https://www.euronext.com/sites/default/files/2024-01/Circular%20da%20INTERBOLSA%20n%C2%BA1_2022.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 4/2019",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2019.04.PT_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 3/2019",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2019.03.PT_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 2/2019",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/Circular-IB-2-2019_VF.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2019",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/PT_-IB-CIRCULAR-1_2019_0.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2018",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2018.01.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 4/2016",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2016.04.pt_1.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 3/2016",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/Circular.2016.03.PT_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 2/2016",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2016.02.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 4/2024",
+        "url": "https://www.euronext.com/sites/default/files/2024-11/Circular%20da%20INTERBOLSA%204_2024_0.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2014",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2014.01.PT_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2006",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2006.02.PT_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2004 - versão simples",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2004.03.PT_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2000 - versão simples",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2000.03.PT_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2012",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2012.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2012",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2012.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 4/2012",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2012.04.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 5/2012",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2012.05.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2013",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2013.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2013",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2013.01.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2014",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2014.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2013",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2013.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 4/2014",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2014.04.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 6/2014",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2014.06.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2015",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2015.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2015",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2015.01.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2016",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 4/2016",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.04.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2009",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2009.01.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2009",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2009.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2009",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2009.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 4/2009",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2009.04.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 5/2009",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2009.05.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 6/2009",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2009.06.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2010",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2010.01.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2010",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2010.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 5/2010",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2010.05.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2010",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2010.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 6/2010",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2010.06.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2011",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.01.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2011",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2011",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 4/2011",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.04.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 5/2011",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.05.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 6/2011",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.06.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 7/2011",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.07.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 8/2011",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.08.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 9/2011",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.09.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2006",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2006.01.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2006",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2006.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2006",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2006.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 4/2006",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2006.04.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 5/2006",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2006.05.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 6/2006",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2006.06.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2007",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2007.01.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2007",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2007.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2007",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2007.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 4/2007",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2007.04.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2008",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.01.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2008",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2008",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 4/2008",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.04.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 5/2008",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.05.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 6/2008",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.06.pt_1.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 6/2008",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.06.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 7/2008",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.07.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2003",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2003.01.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2003",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2003.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 4/2003",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2003.04.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 6/2003",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2003.06.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 11/2003",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2003.11.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2004",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2004.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2004",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2004.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2004 - versão consolidada",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2004.03.consolidado.en_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 1/2005",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.01.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 2/2005",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.02.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2005",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 4/2005",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.04.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 5/2005",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.05.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 6/2005",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.06.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 6/2005 - versão consolidada",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.06.consolidado.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2000 - versão consolidada",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2000.03.consolidado.en_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2000",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2000.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 5/2000",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2000.05.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 3/2001",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2001.03.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 6/2001",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2001.06.pt_.pdf"
+      },
+      {
+        "title": "Regulamento da INTERBOLSA n.º 5/2002",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2002.05.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2024",
+        "url": "https://www.euronext.com/sites/default/files/2024-11/Circular%20da%20INTERBOLSA%201_2024%20%28vers%C3%A3o%20consoliada%29.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2016",
+        "url": "https://www.euronext.com/sites/default/files/2024-06/Circular%20da%20INTERBOLSA1_2016.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2017",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2017.01.PT_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2014",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2014.01.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 2/2011",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2011.02.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2011",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2011.01.PT_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 2/2010",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2010.02.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2010",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2010.01.registomovimentacaoliquidacao.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 3/2009 - versão consolidada",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2009.03.consolidada.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 3/2009 - versão simples",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2009.03.PT_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 2/2009",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2009.02.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2009",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2009.01.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2008",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2008.01.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 2/2003",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2003.02.PT_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2003",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2003.01.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2002",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2002.01.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2001 - versão simples",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2001.01.PT__0.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2001 - versão consolidada",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2001.01.consolidado.agenteemitente.pt_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2000 - versão simples",
+        "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2000.01.PT_.pdf"
+      },
+      {
+        "title": "Circular da INTERBOLSA n.º 1/2000 - versão consolidada",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2000.01.consolidado.exerciciodireitos.pt_.pdf"
+      },
+      {
+        "title": "INTERBOLSA Aviso 1220/2019",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/Aviso.2019.1220.PT_.pdf"
+      },
+      {
+        "title": "Aviso da INTERBOLSA n.º 0789/2019",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/PT_INTB_AVISO_HOR%C3%81RIOS_789_2019_0.pdf"
+      },
+      {
+        "title": "Aviso da INTERBOLSA n.º 0176/2018",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/Aviso.2018.0176.Horarios.PT_.pdf"
+      },
+      {
+        "title": "Aviso da INTERBOLSA n.º 0536/2017",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/Aviso.2017.0536.Horarios.PT_.pdf"
+      },
+      {
+        "title": "Aviso da INTERBOLSA n.º 0017/2017",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/Aviso.2017.0017.Horarios.PT_.pdf"
+      },
+      {
+        "title": "Aviso da INTERBOLSA n.º 0245/2016",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/Aviso.2016.0245.horarios.PT_.pdf"
+      },
+      {
+        "title": "Aviso da INTERBOLSA n.º 1096/2014",
+        "url": "https://www.euronext.com/sites/default/files/2023-07/aviso.2014.1096.timetable.en_.pdf"
+      }
+    ]
+  }
+]

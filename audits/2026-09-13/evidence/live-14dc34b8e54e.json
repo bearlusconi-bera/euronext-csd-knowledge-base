@@ -1,0 +1,20 @@
+{
+  "id": "14dc34b8e54e",
+  "url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+  "title": "ES-OSL VPS NOK Rules.pdf",
+  "original_sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+  "kind": "curated-document",
+  "audit_id": "14dc34b8e54e",
+  "retrieved_at_utc": "2026-09-13T16:14:11.454348+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Fri, 31 Jan 2025 13:33:59 GMT",
+  "etag": "W/\"279af4e66840ba23b3483875dcd0f67c\"",
+  "sha256": "ea458f744ef4d548ec8252afa30d2e841889373936323272dcb81af0be7164be",
+  "bytes": 416385,
+  "saved_path": "sources/14dc34b8e54e.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 58,
+  "text_path": "extracted/14dc34b8e54e.md"
+}

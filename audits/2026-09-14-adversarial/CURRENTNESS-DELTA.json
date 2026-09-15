@@ -1,0 +1,15 @@
+{
+  "checked_on": "2026-09-14",
+  "knowledge_snapshot_unchanged": "2026-09-13",
+  "finding_id": "F07",
+  "type": "new_official_publication_after_snapshot",
+  "release": "R2026.NOV",
+  "publication_confirmed": true,
+  "cover_date": "2026-09-14",
+  "udfs_document_date": "2026-09-11",
+  "udfs_pages": 2349,
+  "production_deployment_verified": false,
+  "admitted": false,
+  "evidence": "evidence/november-final-receipts.json",
+  "required_action": "Review a new dated snapshot; keep publication and production applicability separate."
+}

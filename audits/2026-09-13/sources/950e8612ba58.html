@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+	<head>
+		<title>MyInterbolsa</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="Content-Security-Policy" content="base-uri 'none'; connect-src 'self' https://www.interbolsa.pt; object-src 'none'; font-src 'self'; img-src 'self' data:; form-action 'self'; media-src 'self'" />
+		<meta name="csrf-token" content="QTiryn9iMfGiwI6syBbUMHmrzJPbp9eFQRmSXAYo">
+		<link href="/Cliente/CSS/Main.css?Version=20260901" rel="stylesheet" type="text/css" />
+		<link href="/Cliente/CSS/All/Information.css?Version=20260901" rel="stylesheet" type="text/css" />
+		<link href="/Cliente/CSS/List/Search.css?Version=20260901" rel="stylesheet" type="text/css" />
+		<link href="/Cliente/CSS/List/Icon.css?Version=20260901" rel="stylesheet" type="text/css" />
+		<link href="/Cliente/CSS/List/Header.css?Version=20260901" rel="stylesheet" type="text/css" />
+		<link href="/Cliente/CSS/List/Resizer.css?Version=20260901" rel="stylesheet" type="text/css" />
+		<link href="/Cliente/CSS/List/List.css?Version=20260901" rel="stylesheet" type="text/css" />
+		<link href="/Cliente/CSS/List/Export.css?Version=20260901" rel="stylesheet" type="text/css" />
+		<link href="/Cliente/CSS/List/Paginate.css?Version=20260901" rel="stylesheet" type="text/css" />
+		<link href="/Cliente/CSS/Edit/Header.css?Version=20260901" rel="stylesheet" type="text/css" />
+		<link href="/Cliente/CSS/Pages/Measures.css?Version=20260901" rel="stylesheet" type="text/css" />
+		<script src="/Cliente/JS/All/History.js?Version=20260901" type="text/javascript" nonce="7KW2EynXOrALtrwHrsMc9oIu"></script>
+		<script src="/Cliente/JS/All/Layer.js?Version=20260901" type="text/javascript" nonce="7KW2EynXOrALtrwHrsMc9oIu"></script>
+		<script src="/Cliente/JS/All/Security.js?Version=20260901" type="text/javascript" nonce="7KW2EynXOrALtrwHrsMc9oIu"></script>
+		<script src="/Cliente/JS/List/Page_New.js?Version=20260901" type="text/javascript" nonce="7KW2EynXOrALtrwHrsMc9oIu"></script>
+		<script src="/Cliente/JS/List/Rows.js?Version=20260901" type="text/javascript" nonce="7KW2EynXOrALtrwHrsMc9oIu"></script>
+		<script src="/Cliente/JS/List/Search.js?Version=20260901" type="text/javascript" nonce="7KW2EynXOrALtrwHrsMc9oIu"></script>
+		<script src="/Cliente/JS/List/Header.js?Version=20260901" type="text/javascript" nonce="7KW2EynXOrALtrwHrsMc9oIu"></script>
+		<script src="/Cliente/JS/List/Export.js?Version=20260901" type="text/javascript" nonce="7KW2EynXOrALtrwHrsMc9oIu"></script>
+		<script language="javascript" nonce="7KW2EynXOrALtrwHrsMc9oIu">
+		<!--
+			var OrderBy='1_U',ScrollColumn=0,ScrollMinimum=0,Commands=0;
+			var Table=[50,100,90,140,120];
+
+			function GetData(ShowBlock)
+			{
+				var xmlHTTP;
+				var Data=new FormData();
+				var Flag,Text,i,t1,t2;
+				var Line,l1,l2;
+				var Code,Temp,ListTopTable,ListTable,NewRow,Odd,NewText,Width;
+
+				try
+				{
+					// Firefox, Opera 8.0+, Safari
+					xmlHTTP=new XMLHttpRequest();
+				}
+				catch(e)
+				{
+					// Internet Explorer
+					try
+					{
+						xmlHTTP=new ActiveXObject('Msxml2.xmlHTTP');
+					}
+					catch(e)
+					{
+						try
+						{
+							xmlHTTP=new ActiveXObject('Microsoft.xmlHTTP');
+						}
+						catch(e)
+						{
+							alert('Your browser does not support AJAX!');
+							return false;
+						}
+					}
+				}
+				xmlHTTP.onreadystatechange=function()
+				{
+					if (xmlHTTP.readyState==4)
+					{
+						Text=HtmlEncode(xmlHTTP.responseText);
+						Flag=false;
+
+						// Verifica se tem a ligação activa
+						if (Text.length>14)
+							if (Text.substr(0,15)=='<!DOCTYPE html>')
+								Text='';
+
+						// Verifica se há erro no retorno
+						if (Text.length>5)
+						{
+							if (Text.substr(0,5)=='Erro:')
+								alert(Text.substr(6));
+							else
+								Flag=true;
+						}
+						else
+							Flag=true;
+						if (Flag)
+						{
+							ListTopTable=document.getElementById('ListTopTable');
+							ListTable=document.getElementById('ListTable');
+							i=0;
+							t1=Text.indexOf('\r');
+							Line=Text.substring(0,t1);
+
+							/* Limpeza do Sort */
+							ClearSort();
+
+							/* Limpeza das linhas actuais */
+							if (ListLines>-1)
+								ListTable.innerHTML='';
+
+							/* Carregamento dos dados */
+							t1++;
+							t2=Text.indexOf('\r',t1);
+							Odd='Even';
+							while (t2>-1)
+							{
+								i++;
+								if (Odd=='Even')
+									Odd='Odd';
+								else
+									Odd='Even';
+								Code='L_'+i+'_';
+								NewRow=ListTable.insertRow(-1);
+								Line=Text.substring(t1,t2);
+								l1=Line.indexOf('\t');
+								Temp=Line.substring(0,l1);
+								Width=parseInt(ListTopTable.rows[0].cells[0].width);
+								NewText='<td id="'+Code+'1" width="'+Width.toString()+'" class="Column'+Odd+'Left">'+Temp+'</td>\r\n';
+								l1++;
+								l2=Line.indexOf('\t',l1);
+								Temp=Line.substring(l1,l2);
+								Width=parseInt(ListTopTable.rows[0].cells[1].width);
+								NewText+='<td id="'+Code+'2" width="'+Width.toString()+'" class="Column'+Odd+'Right">'+Temp+'</td>\r\n';
+								l2++;
+								l1=Line.indexOf('\t',l2);
+								Temp=Line.substring(l2,l1);
+								Width=parseInt(ListTopTable.rows[0].cells[2].width);
+								NewText+='<td id="'+Code+'3" width="'+Width.toString()+'" class="Column'+Odd+'Right">'+Temp+'</td>\r\n';
+								l1++;
+								l2=Line.indexOf('\t',l1);
+								Temp=Line.substring(l1,l2);
+								Width=parseInt(ListTopTable.rows[0].cells[3].width);
+								NewText+='<td id="'+Code+'4" width="'+Width.toString()+'" class="Column'+Odd+'Right">'+Temp+'</td>\r\n';
+								l2++;
+								Temp=Line.substring(l2).trimEnd();
+								Width=parseInt(ListTopTable.rows[0].cells[4].width);
+								NewText+='<td id="'+Code+'5" width="'+Width.toString()+'" class="Column'+Odd+'Right">'+Temp+'</td>\r\n';
+								NewRow.innerHTML=NewText;
+								NewRow.id=Code+'R';
+								NewRow.Odd=Odd;
+								document.getElementById(Code+'1').addEventListener('mouseover',LineOver);
+								document.getElementById(Code+'1').addEventListener('mouseout',LineOut);
+								document.getElementById(Code+'2').addEventListener('mouseover',LineOver);
+								document.getElementById(Code+'2').addEventListener('mouseout',LineOut);
+								document.getElementById(Code+'3').addEventListener('mouseover',LineOver);
+								document.getElementById(Code+'3').addEventListener('mouseout',LineOut);
+								document.getElementById(Code+'4').addEventListener('mouseover',LineOver);
+								document.getElementById(Code+'4').addEventListener('mouseout',LineOut);
+								document.getElementById(Code+'5').addEventListener('mouseover',LineOver);
+								document.getElementById(Code+'5').addEventListener('mouseout',LineOut);
+								t1=t2+1;
+								t2=Text.indexOf('\r',t1);
+							}
+							if (i==0)
+							{
+								NewRow=ListTable.insertRow(-1);
+								NewRow.innerHTML='<td width="100%" class="ColumnOddCenter">Nenhum registo foi encontrado</td>\r\n';
+							}
+							ListLines=i;
+						}
+						SetLayer('none');
+						PreviousHeigh=0;
+						PreviousWidth=0;
+						CheckPage();
+					}
+				}
+
+				if (ShowBlock)
+					SetLayer('');
+				xmlHTTP.open('post','/Cliente/Core/MyPublic/DisciplinaDaLiquidacao/Controller.php?Function=Client',true);
+				xmlHTTP.setRequestHeader('X-CSRF-TOKEN',GetCSRF());
+
+				// Dados a passar
+				Data.append('Language','pt');
+				Data.append('OrderBy',OrderBy);
+				Data.append('period_date',document.getElementById('period_date').options[document.getElementById('period_date').selectedIndex].value);
+				Data.append('sttl_system',document.getElementById('sttl_system').options[document.getElementById('sttl_system').selectedIndex].value);
+				xmlHTTP.send(Data);
+				return true;
+			}
+
+			function Parameters_Save()
+			{
+			}
+
+			function Parameters_Clear()
+			{
+			}
+
+			function LoadFile(File)
+			{
+				var xmlHTTP;
+				var Data=new FormData();
+				var Text,Extension,System,Period;
+
+				try
+				{
+					// Firefox, Opera 8.0+, Safari
+					xmlHTTP=new XMLHttpRequest();
+				}
+				catch(e)
+				{
+					// Internet Explorer
+					try
+					{
+						xmlHTTP=new ActiveXObject('Msxml2.xmlHTTP');
+					}
+					catch(e)
+					{
+						try
+						{
+							xmlHTTP=new ActiveXObject('Microsoft.xmlHTTP');
+						}
+						catch(e)
+						{
+							alert('Your browser does not support AJAX!');
+							return false;
+						}
+					}
+				}
+				xmlHTTP.onreadystatechange=function()
+				{
+					if (xmlHTTP.readyState==4)
+					{
+						Text=xmlHTTP.responseText;
+						Flag=false;
+
+						// Verifica se há erro no retorno
+						if (Text.length>5)
+						{
+							if (Text.substr(0,5)=='Erro:')
+								alert(Text.substr(6));
+							else
+								Flag=true;
+						}
+						else
+							alert('Erro ao comunicar ao servidor.');
+						SetLayer('none');
+						if (Flag)
+						{
+							Extension=File.toLowerCase()
+							if (File=='Excel')
+								Extension='xml';
+
+							System=document.getElementById('sttl_system').options[document.getElementById('sttl_system').selectedIndex].value;
+							Period=document.getElementById('period_date').options[document.getElementById('period_date').selectedIndex].value.substr(0,4);
+							Text=escape(Text);
+							var ALink=document.createElement('a');
+							ALink.href='data:text/'+Extension+';charset=utf-8,'+Text;
+							ALink.target='_blank';
+							ALink.download='Interbolsa_Falhas_de_Liquidacao_'+System+'_'+Period+'.'+Extension;
+							ALink.click();
+						}
+					}
+				}
+				SetLayer('');
+				xmlHTTP.open('post','/Cliente/Core/MyPublic/DisciplinaDaLiquidacao/Controller.php?Function=LoadFile',true);
+				xmlHTTP.setRequestHeader('X-CSRF-TOKEN',GetCSRF());
+
+				// Dados a passar
+				Data.append('Language','pt');
+				Data.append('OrderBy',OrderBy);
+				Data.append('File',File);
+				Data.append('period_date',document.getElementById('period_date').options[document.getElementById('period_date').selectedIndex].value);
+				Data.append('sttl_system',document.getElementById('sttl_system').options[document.getElementById('sttl_system').selectedIndex].value);
+				xmlHTTP.send(Data);
+				return true;
+			}
+
+			function LineOver()
+			{
+				var i;
+
+				i=GetRowLine(this.id);
+				document.getElementById('L_'+i+'_1').className='ColumnLeftOver';
+				document.getElementById('L_'+i+'_2').className='ColumnRightOver';
+				document.getElementById('L_'+i+'_3').className='ColumnRightOver';
+				document.getElementById('L_'+i+'_4').className='ColumnRightOver';
+				document.getElementById('L_'+i+'_5').className='ColumnRightOver';
+			}
+
+			function LineOut()
+			{
+				var i,Odd;
+
+				i=GetRowLine(this.id);
+				Odd=document.getElementById(GetRowID(this.id)).Odd;
+				document.getElementById('L_'+i+'_1').className='Column'+Odd+'Left';
+				document.getElementById('L_'+i+'_2').className='Column'+Odd+'Right';
+				document.getElementById('L_'+i+'_3').className='Column'+Odd+'Right';
+				document.getElementById('L_'+i+'_4').className='Column'+Odd+'Right';
+				document.getElementById('L_'+i+'_5').className='Column'+Odd+'Right';
+			}
+
+			function ToggleExport()
+			{
+				var Position,Temp,Text;
+
+				if (document.getElementById('ExportarMenu').style.display=='none')
+				{
+					Position=GetElementPosition('Exportar');
+					Position.Top+=55;
+					Position.Left+=40;
+					document.getElementById('ExportarMenu').style.top=Position.Top.toString()+'px';
+					document.getElementById('ExportarMenu').style.left=Position.Left.toString()+'px';
+					document.getElementById('ExportarMenu').style.display='';
+				}
+				else
+					document.getElementById('ExportarMenu').style.display='none';
+			}
+		// -->
+		</script>
+	</head>
+
+	<body class="BackgroundList">
+		<div id="Information" class="InformationDiv" style="display:none">
+			<div class="Information">
+				<table class="InformationTable">
+					<tbody>
+						<tr>
+							<td class="InformationCenter">
+								<table class="InformationTable">
+									<tbody>
+										<tr>
+											<td class="InformationCenter">
+												<p align="center">
+													<svg class="Wheel">
+														<circle cx="100" cy="100" r="98" fill="#41B5B4" />
+														<circle cx="100" cy="100" r="60" fill="#DEDEDE" />
+														<line x1="2" y1="100" x2="198" y2="100" stroke="#DEDEDE" stroke-width="3" />
+														<line x1="100" y1="2" x2="100" y2="198" stroke="#DEDEDE" stroke-width="3" />
+														<line x1="31" y1="31" x2="169" y2="169" stroke="#DEDEDE" stroke-width="3" />
+														<line x1="31" y1="169" x2="169" y2="31" stroke="#DEDEDE" stroke-width="3" />
+														<path d="M101,2 q40,0 67,28 l-27,27 q-18,-18 -40,-17 Z" fill="#006760" />
+													</svg>
+												</p>
+											</td>
+										</tr>
+										<tr>
+											<td class="InformationText">
+												<p align="center">
+													Comunicação com o Servidor.
+												</p>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<form class="SearchForm">
+			<input type="hidden" id="PageView" name="PageView" value="1">
+			<div class="Title">
+				Informação pública sobre falhas de liquidação
+			</div>
+			<div class="SearchDiv">
+				<div class="Rectangle">
+					<div class="LabelDiv Label">
+						<b>Legal Entity Identifier:</b> 529900LG70TCAGWCXT47
+					</div>
+					<div class="LabelDiv Label">
+						<b>CSD:</b> Interbolsa - Euronext Securities Porto
+					</div>
+				</div>
+			</div>
+			<div id="SearchDiv" class="SearchDiv">
+				<div class="Rectangle">
+					<div class="LabelDiv">
+						<label for="period_date" class="Label">Período de Reporte</label>
+					</div>
+					<div class="InputDiv">
+						<select id="period_date" name="period_date" class="Select">
+							<option value="2025-01-01-2025-12-31">2025-01-01-2025-12-31</option>
+							<option value="2024-01-01-2024-12-31">2024-01-01-2024-12-31</option>
+							<option value="2023-01-01-2023-12-31">2023-01-01-2023-12-31</option>
+							<option value="2022-02-01-2022-12-31">2022-02-01-2022-12-31</option>
+						</select>
+					</div>
+				</div>
+				<div class="Rectangle">
+					<div class="LabelDiv">
+						<label for="sttl_system" class="Label">Sistema de Liquidação</label>
+					</div>
+					<div class="InputDiv">
+						<select id="sttl_system" name="sttl_system" class="Select">
+							<option value="SLME">SLME – Sistema de Liquidação em Moeda Estrangeira</option>
+							<option value="SLRT" selected>SLRT – Sistema de Liquidação em Tempo Real</option>
+						</select>
+					</div>
+				</div>
+				<div class="Rectangle">
+					<div class="LabelDiv">
+						<div class="Label">&nbsp;</div>
+					</div>
+					<div class="ButtonDiv">
+						<button id="FilterButton" type="button" class="Filtrar">Filtrar</button>
+					</div>
+				</div>
+				<div class="Rectangle">
+					<div class="LabelDiv">
+						<div class="Label">&nbsp;</div>
+					</div>
+					<div class="IconDiv">
+						<svg id="LimparButton" height="22" width="22" style="display:block;float:left;cursor:pointer">
+							<title>Recarregar</title>
+							<path d="M1,10 c1,-10 16,-10 17,-3 l3,-2 l-2,6 l-8,-2 l4,-1 c-2,-5 -9,-4 -10,1 Z" fill="#008D7F" />
+							<path d="M21,12 c-1,10 -16,10 -17,3 l-3,2 l2,-6 l8,2 l-4,1 c2,5 9,4 10,-1 Z" fill="#008D7F" />
+						</svg>
+					</div>
+				</div>
+				<div class="RectangleRight">
+					<div class="LabelDiv">
+						<div class="Label">&nbsp;</div>
+					</div>
+					<div id="Exportar" class="ButtonDiv">
+						<button id="Export" type="button" class="ExportarButton">Exportar</button>
+					</div>
+				</div>
+				<div id="ExportarMenu" class="ExportMenu" style="display:none">
+					<div id='Export_CSV' class="ExportOption">
+						&nbsp; &nbsp; CSV
+					</div>
+					<div id='Export_XML' class="ExportOption">
+						&nbsp; &nbsp; XML
+					</div>
+					<div id='Export_Excel' class="ExportOption">
+						&nbsp; &nbsp; Excel
+					</div>
+				</div>
+			</div>
+		</form>
+		<div id="ListTopDiv" class="ContentTop" style="width:900px">
+			<table id="ListTopTable" class="ListTable" width="900">
+				<thead>
+					<tr>
+						<th id="Topic_1" width="310" class="Topic">
+							&nbsp;
+							<div style="float:right">
+								<svg id="Topic_1_D" height="15" width="7" style="display:block">
+									<path id="Topic_1_DL" d="M1,12 l3,3 l3,-3 l-3,0 Z" fill="#FFFFFF" />
+									<line id="Topic_1_DT" x1="4" y1="1" x2="4" y2="12" stroke="#FFFFFF" stroke-width="1" />
+								</svg>
+							</div>
+							<div style="float:right">
+								<svg id="Topic_1_U" height="15" width="7" style="display:block">
+									<path id="Topic_1_UL" d="M1,4 l3,-3 l3,3 l-6,0 Z" fill="#FFFFFF" />
+									<line id="Topic_1_UT" x1="4" y1="4" x2="4" y2="15" stroke="#FFFFFF" stroke-width="1" />
+								</svg>
+							</div>
+						</th>
+						<th id="Topic_2" width="150" class="Topic">
+							N.º Instruções
+							<div style="float:right">
+								<svg id="Topic_2_D" height="15" width="7" style="display:block">
+									<path id="Topic_2_DL" d="M1,12 l3,3 l3,-3 l-3,0 Z" fill="#FFFFFF" />
+									<line id="Topic_2_DT" x1="4" y1="1" x2="4" y2="12" stroke="#FFFFFF" stroke-width="1" />
+								</svg>
+							</div>
+							<div style="float:right">
+								<svg id="Topic_2_U" height="15" width="7" style="display:block">
+									<path id="Topic_2_UL" d="M1,4 l3,-3 l3,3 l-6,0 Z" fill="#FFFFFF" />
+									<line id="Topic_2_UT" x1="4" y1="4" x2="4" y2="15" stroke="#FFFFFF" stroke-width="1" />
+								</svg>
+							</div>
+						</th>
+						<th id="Topic_3" width="150" class="Topic">
+							Valor ( € )
+							<div style="float:right">
+								<svg id="Topic_3_D" height="15" width="7" style="display:block">
+									<path id="Topic_3_DL" d="M1,12 l3,3 l3,-3 l-3,0 Z" fill="#FFFFFF" />
+									<line id="Topic_3_DT" x1="4" y1="1" x2="4" y2="12" stroke="#FFFFFF" stroke-width="1" />
+								</svg>
+							</div>
+							<div style="float:right">
+								<svg id="Topic_3_U" height="15" width="7" style="display:block">
+									<path id="Topic_3_UL" d="M1,4 l3,-3 l3,3 l-6,0 Z" fill="#FFFFFF" />
+									<line id="Topic_3_UT" x1="4" y1="4" x2="4" y2="15" stroke="#FFFFFF" stroke-width="1" />
+								</svg>
+							</div>
+						</th>
+						<th id="Topic_4" width="140" class="Topic">
+							Taxa N.º Instruções ( % )
+							<div style="float:right">
+								<svg id="Topic_4_D" height="15" width="7" style="display:block">
+									<path id="Topic_4_DL" d="M1,12 l3,3 l3,-3 l-3,0 Z" fill="#FFFFFF" />
+									<line id="Topic_4_DT" x1="4" y1="1" x2="4" y2="12" stroke="#FFFFFF" stroke-width="1" />
+								</svg>
+							</div>
+							<div style="float:right">
+								<svg id="Topic_4_U" height="15" width="7" style="display:block">
+									<path id="Topic_4_UL" d="M1,4 l3,-3 l3,3 l-6,0 Z" fill="#FFFFFF" />
+									<line id="Topic_4_UT" x1="4" y1="4" x2="4" y2="15" stroke="#FFFFFF" stroke-width="1" />
+								</svg>
+							</div>
+						</th>
+						<th id="Topic_5" width="150" class="Topic">
+							Taxa Valor ( % )
+							<div style="float:right">
+								<svg id="Topic_5_D" height="15" width="7" style="display:block">
+									<path id="Topic_5_DL" d="M1,12 l3,3 l3,-3 l-3,0 Z" fill="#FFFFFF" />
+									<line id="Topic_5_DT" x1="4" y1="1" x2="4" y2="12" stroke="#FFFFFF" stroke-width="1" />
+								</svg>
+							</div>
+							<div style="float:right">
+								<svg id="Topic_5_U" height="15" width="7" style="display:block">
+									<path id="Topic_5_UL" d="M1,4 l3,-3 l3,3 l-6,0 Z" fill="#FFFFFF" />
+									<line id="Topic_5_UT" x1="4" y1="4" x2="4" y2="15" stroke="#FFFFFF" stroke-width="1" />
+								</svg>
+							</div>
+						</th>
+					</tr>
+				</thead>
+			</table>
+		</div>
+		<div id="ListDiv" class="ContentScroll" style="width:900px">
+			<table id="ListTable" class="ListTable">
+				<tbody>
+				</tbody>
+			</table>
+		</div>
+		<div class="MeasuresDiv">
+			<p class="MeasuresTitle">Medidas para Melhorar a Eficiência da Liquidação:<p>
+			<ul>
+				<li class="MeasuresItem">Implementação de todas as medidas identificadas na CSDR para a prevenção de falhas de liquidação</li>
+				<li class="MeasuresItem">Acompanhamento das falhas diárias</li>
+				<li class="MeasuresItem">Reuniões periódicas com os participantes para analisar as principais razões para as falhas de liquidação e identificar as medidas a ser implementadas</li>
+			</ul>
+		</div>
+		<script language="javascript" nonce="7KW2EynXOrALtrwHrsMc9oIu">
+		<!--
+			StartUp();
+			document.getElementById('ListDiv').addEventListener('scroll',UpdateScroll);
+			document.getElementById('period_date').addEventListener('focus',function(event) { SelectOver('period_date','SelectOver'); });
+			document.getElementById('period_date').addEventListener('blur',function(event) { SelectOver('period_date','Select'); });
+			document.getElementById('sttl_system').addEventListener('focus',function(event) { SelectOver('sttl_system','SelectOver'); });
+			document.getElementById('sttl_system').addEventListener('blur',function(event) { SelectOver('sttl_system','Select'); });
+			document.getElementById('FilterButton').addEventListener('mousedown',function(event) { GetData(1,true); });
+			document.getElementById('LimparButton').addEventListener('mousedown',Reload);
+			document.getElementById('Export').addEventListener('mousedown',ToggleExport);
+			document.getElementById('Export_CSV').addEventListener('mousedown',function(event) { LoadFile('CSV'); });
+			document.getElementById('Export_XML').addEventListener('mousedown',function(event) { LoadFile('XML'); });
+			document.getElementById('Export_Excel').addEventListener('mousedown',function(event) { LoadFile('Excel'); });
+			document.getElementById('Topic_1').addEventListener('mouseover',function(event) { TopicOver('1',1); });
+			document.getElementById('Topic_1').addEventListener('mouseout',function(event) { TopicOver('1',0); });
+			document.getElementById('Topic_1_D').addEventListener('mousedown',function(event) { ChangeSort('1_D'); });
+			document.getElementById('Topic_1_U').addEventListener('mousedown',function(event) { ChangeSort('1_U'); });
+			document.getElementById('Topic_2').addEventListener('mouseover',function(event) { TopicOver('2',1); });
+			document.getElementById('Topic_2').addEventListener('mouseout',function(event) { TopicOver('2',0); });
+			document.getElementById('Topic_2_D').addEventListener('mousedown',function(event) { ChangeSort('2_D'); });
+			document.getElementById('Topic_2_U').addEventListener('mousedown',function(event) { ChangeSort('2_U'); });
+			document.getElementById('Topic_3').addEventListener('mouseover',function(event) { TopicOver('3',1); });
+			document.getElementById('Topic_3').addEventListener('mouseout',function(event) { TopicOver('3',0); });
+			document.getElementById('Topic_3_D').addEventListener('mousedown',function(event) { ChangeSort('3_D'); });
+			document.getElementById('Topic_3_U').addEventListener('mousedown',function(event) { ChangeSort('3_U'); });
+			document.getElementById('Topic_4').addEventListener('mouseover',function(event) { TopicOver('4',1); });
+			document.getElementById('Topic_4').addEventListener('mouseout',function(event) { TopicOver('4',0); });
+			document.getElementById('Topic_4_D').addEventListener('mousedown',function(event) { ChangeSort('4_D'); });
+			document.getElementById('Topic_4_U').addEventListener('mousedown',function(event) { ChangeSort('4_U'); });
+			document.getElementById('Topic_5').addEventListener('mouseover',function(event) { TopicOver('5',1); });
+			document.getElementById('Topic_5').addEventListener('mouseout',function(event) { TopicOver('5',0); });
+			document.getElementById('Topic_5_D').addEventListener('mousedown',function(event) { ChangeSort('5_D'); });
+			document.getElementById('Topic_5_U').addEventListener('mousedown',function(event) { ChangeSort('5_U'); });
+		// -->
+		</script>
+	</body>
+</html>

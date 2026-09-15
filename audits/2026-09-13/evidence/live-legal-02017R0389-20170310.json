@@ -1,0 +1,508 @@
+{
+  "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310",
+  "id": "legal-02017R0389-20170310",
+  "kind": "existing-legal-text",
+  "original_id": "02017R0389-20170310",
+  "audit_id": "legal-02017R0389-20170310",
+  "retrieved_at_utc": "2026-09-13T16:30:22.875289+00:00",
+  "http_status": 200,
+  "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": null,
+  "etag": null,
+  "sha256": "5dd0b3ac637ffeb657ddc0f4278e4a31353b70ffd82b0aa6be5182b2e9d1a474",
+  "bytes": 163857,
+  "saved_path": "sources/legal-02017R0389-20170310.html",
+  "text_path": "extracted/legal-02017R0389-20170310.txt",
+  "title": "EUR-Lex - 02017R0389-20170310 - EN - EUR-Lex Log in English",
+  "links": [
+    {
+      "title": "Skip to main content",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310#MainContent"
+    },
+    {
+      "title": "",
+      "url": "https://european-union.europa.eu/index_en"
+    },
+    {
+      "title": "Log in My EUR-Lex",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "Sign in",
+      "url": "https://eur-lex.europa.eu/protected/homepage.html?url=%2Flegal-content%2FEN%2FTXT%2F%3Furi%3DCELEX%253A02017R0389-20170310"
+    },
+    {
+      "title": "Register",
+      "url": "https://ecas.ec.europa.eu/cas/eim/external/register.cgi/"
+    },
+    {
+      "title": "My recent searches (0)",
+      "url": "https://eur-lex.europa.eu/my-eurlex/my-queries.html#recentQueries"
+    },
+    {
+      "title": "English English",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "bgбългарски",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "esEspañol",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "csČeština",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "daDansk",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "deDeutsch",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "etEesti keel",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "elΕλληνικά",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "enEnglish",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "frFrançais",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "gaGaeilge",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "hrHrvatski",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "itItaliano",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "lvLatviešu valoda",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "ltLietuvių kalba",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "huMagyar",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "mtMalti",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "nlNederlands",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "plPolski",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "ptPortuguês",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "roRomână",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "skSlovenčina",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "slSlovenščina",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "fiSuomi",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "svSvenska",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "EUR-Lex",
+      "url": "https://eur-lex.europa.eu/homepage.html?lang=en"
+    },
+    {
+      "title": "<a href=\"https://eur-lex.europa.eu/content/help/eurlex-content/experimental-features.html\" target=\"_blank\">More about the experimental features corner</a>",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "",
+      "url": "https://eur-lex.europa.eu/experimental-features.html?action=confirmFeedback"
+    },
+    {
+      "title": "EUROPA",
+      "url": "https://europa.eu/european-union/index_en"
+    },
+    {
+      "title": "EUR-Lex home",
+      "url": "https://eur-lex.europa.eu/homepage.html"
+    },
+    {
+      "title": "Help",
+      "url": "https://eur-lex.europa.eu/content/help.html"
+    },
+    {
+      "title": "Search tips",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "Advanced search",
+      "url": "https://eur-lex.europa.eu/advanced-search-form.html"
+    },
+    {
+      "title": "Help",
+      "url": "https://eur-lex.europa.eu/content/help.html"
+    },
+    {
+      "title": "Access initial legal act",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=CELEX:32017R0389"
+    },
+    {
+      "title": "http://data.europa.eu/eli/reg_del/2017/389/2017-03-10",
+      "url": "http://data.europa.eu/eli/reg_del/2017/389/2017-03-10"
+    },
+    {
+      "title": "BG",
+      "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "ES",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "CS",
+      "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "DA",
+      "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "DE",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "ET",
+      "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "EL",
+      "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "EN",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "FR",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "GA",
+      "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "HR",
+      "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "IT",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "LV",
+      "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "LT",
+      "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "HU",
+      "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "MT",
+      "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "NL",
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "PL",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "PT",
+      "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "RO",
+      "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "SK",
+      "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "SL",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "FI",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "SV",
+      "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "BG",
+      "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "ES",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "CS",
+      "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "DA",
+      "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "DE",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "ET",
+      "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "EL",
+      "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "EN",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "FR",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "GA",
+      "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "HR",
+      "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "IT",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "LV",
+      "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "LT",
+      "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "HU",
+      "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "MT",
+      "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "NL",
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "PL",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "PT",
+      "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "RO",
+      "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "SK",
+      "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "SL",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "FI",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "SV",
+      "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "BG",
+      "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "ES",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "CS",
+      "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "DA",
+      "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "DE",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "ET",
+      "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "EL",
+      "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "EN",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "FR",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "GA",
+      "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "HR",
+      "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "IT",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "LV",
+      "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "LT",
+      "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "HU",
+      "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "MT",
+      "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "NL",
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "PL",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "PT",
+      "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "RO",
+      "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "SK",
+      "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "SL",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "FI",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "SV",
+      "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/PDF/?uri=CELEX:02017R0389-20170310"
+    },
+    {
+      "title": "►B",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32017R0389"
+    },
+    {
+      "title": "(Dokuments attiecas uz EEZ)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32017R0389"
+    },
+    {
+      "title": "►C1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32017R0389R%2801%29"
+    },
+    {
+      "title": "Kļūdu labojums, OV L 009, 15.1.2020, lpp 75 (2017/389)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32017R0389R%2801%29"
+    },
+    {
+      "title": "▼B",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32017R0389"
+    },
+    {
+      "title": "(1)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310#E0001"
+    },
+    {
+      "title": "►C1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32017R0389R%2801%29"
+    },
+    {
+      "title": "Top",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310#document1"
+    }
+  ]
+}

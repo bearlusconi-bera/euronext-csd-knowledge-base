@@ -1,0 +1,20 @@
+{
+  "id": "d89c56df8c5a",
+  "url": "https://athens.euronext.com/sites/default/files/2026-06/ATHEXCSD_RULEBOOK_7th_Ammendment_383_24.11.2025_FORCE_8.12.2025.pdf",
+  "title": "ATHEXCSD Rulebook - Amendment 8",
+  "original_sha256": "d56878f3174be350e6f722be9e21a63f2b3cd64109998a69b6a7dec8f226ef82",
+  "kind": "curated-document",
+  "audit_id": "d89c56df8c5a",
+  "retrieved_at_utc": "2026-09-13T16:14:18.400055+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-06/ATHEXCSD_RULEBOOK_7th_Ammendment_383_24.11.2025_FORCE_8.12.2025.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Tue, 16 Jun 2026 12:12:27 GMT",
+  "etag": "\"1aaef1-6545ddb496f2f\"",
+  "sha256": "d56878f3174be350e6f722be9e21a63f2b3cd64109998a69b6a7dec8f226ef82",
+  "bytes": 1748721,
+  "saved_path": "sources/d89c56df8c5a.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 217,
+  "text_path": "extracted/d89c56df8c5a.md"
+}

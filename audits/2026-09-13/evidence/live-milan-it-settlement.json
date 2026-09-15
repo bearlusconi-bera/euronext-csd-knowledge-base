@@ -1,0 +1,18 @@
+{
+  "title": "Istruzioni del Servizio di Liquidazione e dei servizi accessori - in vigore dal 30 giugno 2025",
+  "url": "https://www.euronext.com/sites/default/files/2025-07/03%20Istruzioni%20Servizio%20di%20Liquidazione_30062025_SENZA%20evidenza.pdf",
+  "id": "milan-it-settlement",
+  "kind": "new-authoritative-original",
+  "audit_id": "milan-it-settlement",
+  "retrieved_at_utc": "2026-09-13T16:31:06.917386+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-07/03%20Istruzioni%20Servizio%20di%20Liquidazione_30062025_SENZA%20evidenza.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Tue, 08 Jul 2025 13:09:31 GMT",
+  "etag": "W/\"13adcb36f7846cbf6d09ede20deb6823\"",
+  "sha256": "feeb3d55ecc52c09c6acd6dafa9ebb07f0f6da4bf4e5678d858db4c5b8e28472",
+  "bytes": 1414115,
+  "saved_path": "sources/milan-it-settlement.pdf",
+  "pdf_pages": 87,
+  "text_path": "extracted/milan-it-settlement.md"
+}

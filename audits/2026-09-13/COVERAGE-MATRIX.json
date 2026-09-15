@@ -1,0 +1,749 @@
+[
+  {
+    "id": "Q001",
+    "entity_service": "Milan",
+    "role": "CSD operator",
+    "practical_question": "What proves the operator is authorised, and for which services?",
+    "required_and_supporting_evidence": "[CSD Register](https://www.esma.europa.eu/sites/default/files/2025-10/ESMA74-1194755578-334_CSDR_Register_Art_21_58.xlsx) — Authorised CSDs, relevant entity row; raw decision and extension categories",
+    "status": "partial",
+    "gap_or_condition": "Register inspected selectively; obtain exact national authorisation/extension decisions. Norway also requires EEA/national applicability verification."
+  },
+  {
+    "id": "Q002",
+    "entity_service": "Milan",
+    "role": "CSD operator and participant",
+    "practical_question": "Who must provide and offer omnibus versus individual client segregation?",
+    "required_and_supporting_evidence": "[CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Article 38(1)–(6)",
+    "status": "partial",
+    "gap_or_condition": "EU obligation is covered at role level; local account types, contract, costs and insolvency disclosures not fully reviewed. Do not transfer direct EU applicability to Norway without checking."
+  },
+  {
+    "id": "Q003",
+    "entity_service": "Milan",
+    "role": "CSD operator",
+    "practical_question": "Who reconciles issue totals, and who manages a participant default?",
+    "required_and_supporting_evidence": "[CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Articles 37 and 41",
+    "status": "partial",
+    "gap_or_condition": "Daily integrity duty and public/tested default procedures are established in EU law; local runbooks and Norwegian legal implementation require review."
+  },
+  {
+    "id": "Q004",
+    "entity_service": "Milan",
+    "role": "Participant / cash bank",
+    "practical_question": "What is required to join settlement as ICP or DCP?",
+    "required_and_supporting_evidence": "[Regulations as of 26 January 2026](https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf) — Articles 60–61 PDF 44–45; Italian original same pages; [Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025](https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf) — §1.1 PDF 7–8",
+    "status": "partial",
+    "gap_or_condition": "Rules establish securities account, DCA/cash agent, suitable connection/tests and DCP requirements; full contracts/forms/production entitlements not checked."
+  },
+  {
+    "id": "Q005",
+    "entity_service": "Milan",
+    "role": "Issuer / participant",
+    "practical_question": "Can this ISIN settle through Milan as issuer or investor CSD?",
+    "required_and_supporting_evidence": "[Regulations as of 26 January 2026](https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf) — Article 65 PDF 48; [ISINs eligible for settlement in Euronext Securities Milan 2026-09-11](https://www.euronext.com/sites/default/files/2026-09/ISINs%20eligible%20for%20settlement%20in%20Euronext%20Securities%20Milan%202026-09-11.xlsx?VersionId=W9q4Cxr4Dog5dqZVMCUwWuDNNnIFGBUR) — Introduction B5:B8; I/K/L columns",
+    "status": "access-restricted",
+    "gap_or_condition": "Requires the specific ISIN, currency, link and current MT23/MT-X static data; the European Offering workbook is not a universal eligibility list."
+  },
+  {
+    "id": "Q006",
+    "entity_service": "Milan",
+    "role": "Participant",
+    "practical_question": "What does matched establish, and when are assets finally transferred?",
+    "required_and_supporting_evidence": "[Regulations as of 26 January 2026](https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf) — Articles 69/72 PDF 50–51; [T2S User Detailed Functional Specifications R2026.JUN (UDFS)](https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf) — §1.6.1.2 PDF 267–271; §1.6.1.8 PDF 303–304",
+    "status": "covered",
+    "gap_or_condition": "For reviewed Milan/T2S clauses: matching differs from posting, while SF2 has legal consequences; retain bilateral cancellation exception."
+  },
+  {
+    "id": "Q007",
+    "entity_service": "Milan",
+    "role": "Participant",
+    "practical_question": "Can I amend, cancel, hold or release a matched instruction?",
+    "required_and_supporting_evidence": "[Regulations as of 26 January 2026](https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf) — Articles 69–71 PDF 50–51",
+    "status": "partial",
+    "gap_or_condition": "Conditional cancellation/hold covered; exact maintenance fields, cut-offs, non-modifiable/market/CCP and CoSD restrictions need interface-level context."
+  },
+  {
+    "id": "Q008",
+    "entity_service": "Milan",
+    "role": "Participant / cash bank",
+    "practical_question": "How do DvP, FoP and liquidity affect a cross-CSD transfer?",
+    "required_and_supporting_evidence": "[T2S User Detailed Functional Specifications R2026.JUN (UDFS)](https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf) — §§1.6.1.8/1.6.1.10 PDF 303–304,373–376,385–387",
+    "status": "partial",
+    "gap_or_condition": "General T2S resource checks and all-or-none realignment covered; actual account mapping, cash agent and link eligibility must be supplied."
+  },
+  {
+    "id": "Q009",
+    "entity_service": "Milan",
+    "role": "Participant",
+    "practical_question": "What happens to a fail, partial settlement and cash penalty?",
+    "required_and_supporting_evidence": "[T2S User Detailed Functional Specifications R2026.JUN (UDFS)](https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf) — PDF 162,303–304; [Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025](https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf) — PDF 15",
+    "status": "unresolved",
+    "gap_or_condition": "Partial-window conflict; penalty amounts/reporting/appeals require current local rules plus discipline RTS, not a programme SDD."
+  },
+  {
+    "id": "Q010",
+    "entity_service": "Milan",
+    "role": "Issuer / participant",
+    "practical_question": "Which income, claim, transformation, buyer-protection and tax actions are required?",
+    "required_and_supporting_evidence": "[Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025](https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf) — Selected claim provisions PDF 17–23; [Corporate_Events_Services_User_Guide_20260507_clean.pdf](https://www.euronext.com/sites/default/files/2026-05/Euronext%20Securities%20-%20Corporate%20Events%20Service%20-%20CA4U%20Handbook%20SDD%20-%20V05_0.pdf) — §2.3 PDF 17",
+    "status": "partial",
+    "gap_or_condition": "Some claim routing/opt-out conditions reviewed; event type, record date, security market, tax status and local deadlines not comprehensively reviewed."
+  },
+  {
+    "id": "Q011",
+    "entity_service": "Milan",
+    "role": "Participant / developer",
+    "practical_question": "Which exact messages, statuses, fields and reports connect my bank, CSD and T2S?",
+    "required_and_supporting_evidence": "[T2S User Detailed Functional Specifications R2026.JUN (UDFS)](https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf) — PDF 778 message overview; Diagram 55 PDF 269; [Update Standard for XTRM Users for Vorvel, Certificates TLX and IPO markets](https://www.euronext.com/sites/default/files/notices/monte-titoli/MKT_ON%20pubblicazione%20SPU%20v.%201.0_ENG.pdf?VersionId=iyNI_tyfEEJGTrLzby2A1xml68X1iSR_ ) — ON_36/2026 PDF 1",
+    "status": "access-restricted",
+    "gap_or_condition": "Native message families/versions are public; complete X-TRM A2A/RNI mapping, current versus November identifiers and entitlements require MT-X. Diagram extraction incomplete."
+  },
+  {
+    "id": "Q012",
+    "entity_service": "Milan",
+    "role": "Participant / CSD operator",
+    "practical_question": "Which tests, certificates and incident actions must a DCP complete?",
+    "required_and_supporting_evidence": "[Regulations as of 26 January 2026](https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf) — Articles 60–61 PDF 44–45",
+    "status": "partial",
+    "gap_or_condition": "Certificate/network/BCP duties reviewed; detailed certification scenarios and local emergency procedure not available in reviewed evidence."
+  },
+  {
+    "id": "Q013",
+    "entity_service": "Milan",
+    "role": "Participant",
+    "practical_question": "At what clock time does the intended settlement business day begin?",
+    "required_and_supporting_evidence": "[T2S User Detailed Functional Specifications R2026.JUN (UDFS)](https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf) — PDF 160,163,165,168; [Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025](https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf) — PDF 13",
+    "status": "unresolved",
+    "gap_or_condition": "T2S baseline begins no earlier than 18:45 after preceding day completion; local 19:30 NTS statement conflicts with 20:00 platform baseline. Calendar/service notices required."
+  },
+  {
+    "id": "Q014",
+    "entity_service": "Milan",
+    "role": "Participant / issuer",
+    "practical_question": "Which fee applies to my specified service and charging date?",
+    "required_and_supporting_evidence": "[Pricing Policy](https://www.euronext.com/sites/default/files/2026-02/pricing_policy_esmil_11-12-2025_0_0.pdf) — Pricing policy, identity refreshed only",
+    "status": "partial",
+    "gap_or_condition": "Fee rows, tiers, minimums, third-party charges and user type unreviewed; no numeric fee answer admitted."
+  },
+  {
+    "id": "Q015",
+    "entity_service": "Milan",
+    "role": "CSD operator / financial entity",
+    "practical_question": "Which operational-resilience and incident-reporting rules apply?",
+    "required_and_supporting_evidence": "[Regulation - 2022/2554 - EN - DORA - EUR-Lex Log in English](https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng) — Articles 2(1)(g),64; [CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Article 45 opening",
+    "status": "partial",
+    "gap_or_condition": "DORA scope/application checked; full RTS/ITS, national reporting route and participant-specific classification are unreviewed."
+  },
+  {
+    "id": "Q016",
+    "entity_service": "Copenhagen",
+    "role": "CSD operator",
+    "practical_question": "What proves the operator is authorised, and for which services?",
+    "required_and_supporting_evidence": "[CSD Register](https://www.esma.europa.eu/sites/default/files/2025-10/ESMA74-1194755578-334_CSDR_Register_Art_21_58.xlsx) — Authorised CSDs, relevant entity row; raw decision and extension categories",
+    "status": "partial",
+    "gap_or_condition": "Register inspected selectively; obtain exact national authorisation/extension decisions. Norway also requires EEA/national applicability verification."
+  },
+  {
+    "id": "Q017",
+    "entity_service": "Copenhagen",
+    "role": "CSD operator and participant",
+    "practical_question": "Who must provide and offer omnibus versus individual client segregation?",
+    "required_and_supporting_evidence": "[CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Article 38(1)–(6)",
+    "status": "partial",
+    "gap_or_condition": "EU obligation is covered at role level; local account types, contract, costs and insolvency disclosures not fully reviewed. Do not transfer direct EU applicability to Norway without checking."
+  },
+  {
+    "id": "Q018",
+    "entity_service": "Copenhagen",
+    "role": "CSD operator",
+    "practical_question": "Who reconciles issue totals, and who manages a participant default?",
+    "required_and_supporting_evidence": "[CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Articles 37 and 41",
+    "status": "partial",
+    "gap_or_condition": "Daily integrity duty and public/tested default procedures are established in EU law; local runbooks and Norwegian legal implementation require review."
+  },
+  {
+    "id": "Q019",
+    "entity_service": "Copenhagen",
+    "role": "Participant",
+    "practical_question": "What are the admission, staff and CSD-link testing conditions?",
+    "required_and_supporting_evidence": "[Part 2 - General Terms and Conditions (PDF)](https://www.euronext.com/sites/default/files/2026-08/es_cph_rule_book_part_2_General_Terms_and_Conditions.pdf) — Part 2 §§2.1–2.3 and 3.1.1 PDF 2–4",
+    "status": "partial",
+    "gap_or_condition": "Selected requirements reviewed; contracts, annexes and role-specific application pack remain."
+  },
+  {
+    "id": "Q020",
+    "entity_service": "Copenhagen",
+    "role": "Issuer / participant",
+    "practical_question": "Which book-entry account, issue and link can be used for this security?",
+    "required_and_supporting_evidence": "[Part 3 - Book-entry Rules (PDF)](https://www.euronext.com/sites/default/files/2026-08/es_cph_rule_book_part_%203_Book-entry%20Rules.pdf) — Part 3, not substantively reviewed",
+    "status": "partial",
+    "gap_or_condition": "Current-linked source exists; exact account/issue clauses and security-level link register not reviewed."
+  },
+  {
+    "id": "Q021",
+    "entity_service": "Copenhagen",
+    "role": "Participant",
+    "practical_question": "Does settlement go through VP, T2S or FundHub?",
+    "required_and_supporting_evidence": "[Part 4 - Settlement Rules (PDF)](https://www.euronext.com/sites/default/files/2025-05/es-cph_rule_book_part_4_settlement_rules.pdf) — Part 4 §2.3 PDF 4",
+    "status": "covered",
+    "gap_or_condition": "Bounded routing conditions: instrument/service, currency and participants/cash agents matter. Cannot infer actual trade route without inputs."
+  },
+  {
+    "id": "Q022",
+    "entity_service": "Copenhagen",
+    "role": "Participant",
+    "practical_question": "How do matching, amendment, cancellation and hold work on my route?",
+    "required_and_supporting_evidence": "[T2S User Detailed Functional Specifications R2026.JUN (UDFS)](https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf) — §1.6.1.2 PDF 267–271; [Part 4 - Settlement Rules (PDF)](https://www.euronext.com/sites/default/files/2025-05/es-cph_rule_book_part_4_settlement_rules.pdf) — Part 4 §2.3 PDF 4",
+    "status": "partial",
+    "gap_or_condition": "T2S mechanism only for T2S route; local procedures, permissions and non-T2S lifecycle not fully reviewed."
+  },
+  {
+    "id": "Q023",
+    "entity_service": "Copenhagen",
+    "role": "Participant / cash bank",
+    "practical_question": "Which currency and central-bank availability conditions apply to DvP/FoP?",
+    "required_and_supporting_evidence": "[Part 4 - Settlement Rules (PDF)](https://www.euronext.com/sites/default/files/2025-05/es-cph_rule_book_part_4_settlement_rules.pdf) — §§2.2.4–2.3 PDF 3–4",
+    "status": "partial",
+    "gap_or_condition": "Route/calendar conditions checked; DCA contracts, liquidity limits and cash-agent configuration remain."
+  },
+  {
+    "id": "Q024",
+    "entity_service": "Copenhagen",
+    "role": "Participant",
+    "practical_question": "How are penalties reported, challenged and settled?",
+    "required_and_supporting_evidence": "[Part 4 - Settlement Rules (PDF)](https://www.euronext.com/sites/default/files/2025-05/es-cph_rule_book_part_4_settlement_rules.pdf) — §2.4 PDF 5–6",
+    "status": "partial",
+    "gap_or_condition": "Appeal/reporting business-day anchors reviewed; rates, exceptions, calendars and statements require scoped supporting material. Buy-in reference is not proof activation."
+  },
+  {
+    "id": "Q025",
+    "entity_service": "Copenhagen",
+    "role": "Issuer / participant",
+    "practical_question": "What are the income, claim, transformation, buyer-protection and tax deadlines?",
+    "required_and_supporting_evidence": "[Corporate_Events_Services_User_Guide_20260507_clean.pdf](https://www.euronext.com/sites/default/files/2026-05/Euronext%20Securities%20-%20Corporate%20Events%20Service%20-%20CA4U%20Handbook%20SDD%20-%20V05_0.pdf) — §§2.2–2.3 PDF 16–17",
+    "status": "partial",
+    "gap_or_condition": "Cross-service role scope known; no complete local event/tax deadline validation."
+  },
+  {
+    "id": "Q026",
+    "entity_service": "Copenhagen",
+    "role": "DCP / developer",
+    "practical_question": "Does an ECB certificate suffice, and which production schemas/reports are required?",
+    "required_and_supporting_evidence": "[Part 5 - DCP Service Rules (PDF)](https://www.euronext.com/sites/default/files/2023-08/Rule%20Book%20Part%205%20T2S%20DCP%20Service%20Rules.pdf) — Part 5 §§2–3 PDF 2–3",
+    "status": "partial",
+    "gap_or_condition": "Certificate alone does not establish local service entitlements; named User Guidelines and complete release/interface schemas still needed. Access restriction not independently tested."
+  },
+  {
+    "id": "Q027",
+    "entity_service": "Copenhagen",
+    "role": "DCP / CSD operator",
+    "practical_question": "Which local tests and continuity arrangements are required?",
+    "required_and_supporting_evidence": "[Part 2 - General Terms and Conditions (PDF)](https://www.euronext.com/sites/default/files/2026-08/es_cph_rule_book_part_2_General_Terms_and_Conditions.pdf) — §2.2.3 PDF 3; [Part 5 - DCP Service Rules (PDF)](https://www.euronext.com/sites/default/files/2023-08/Rule%20Book%20Part%205%20T2S%20DCP%20Service%20Rules.pdf) — §2 PDF 2",
+    "status": "partial",
+    "gap_or_condition": "High-level test obligations found; detailed accepted test cases and incident playbooks not reviewed."
+  },
+  {
+    "id": "Q028",
+    "entity_service": "Copenhagen",
+    "role": "Participant",
+    "practical_question": "Are VP and T2S business-day boundaries identical?",
+    "required_and_supporting_evidence": "[Part 4 - Settlement Rules (PDF)](https://www.euronext.com/sites/default/files/2025-05/es-cph_rule_book_part_4_settlement_rules.pdf) — §2.2 PDF 3",
+    "status": "covered",
+    "gap_or_condition": "They differ in the reviewed rule: VP day 18:00 and T2S day 18:45; actual service/currency calendar still needed."
+  },
+  {
+    "id": "Q029",
+    "entity_service": "Copenhagen",
+    "role": "Participant / issuer",
+    "practical_question": "Which fee book applies in September and November 2026?",
+    "required_and_supporting_evidence": "[Euronext Securities Copenhagen - Table of fees per January 2026](https://www.euronext.com/sites/default/files/2025-12/ES-CPH_table_of_fees_jan_2026_update.pdf) — Cover/revision PDF 1–2; [Euronext Securities Copenhagen - Table of fees per November 2026](https://www.euronext.com/sites/default/files/2026-08/CPH%20Table%20of%20fees_Nov%202026.pdf) — Cover/revision PDF 1–2",
+    "status": "covered",
+    "gap_or_condition": "January edition for September candidate; November edition future until November. Covers establish period, not a numeric price."
+  },
+  {
+    "id": "Q030",
+    "entity_service": "Copenhagen",
+    "role": "CSD operator",
+    "practical_question": "Which resilience law and national supervisor apply?",
+    "required_and_supporting_evidence": "[Regulation - 2022/2554 - EN - DORA - EUR-Lex Log in English](https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng) — Articles 2,64; [CSDR](https://www.finanstilsynet.dk/lovgivning/eu-lovsamling/csdr) — Danish Finanstilsynet CSDR hub",
+    "status": "partial",
+    "gap_or_condition": "Authority and EU baseline checked; full national implementation/reporting decisions not reviewed."
+  },
+  {
+    "id": "Q031",
+    "entity_service": "Porto",
+    "role": "CSD operator",
+    "practical_question": "What proves the operator is authorised, and for which services?",
+    "required_and_supporting_evidence": "[CSD Register](https://www.esma.europa.eu/sites/default/files/2025-10/ESMA74-1194755578-334_CSDR_Register_Art_21_58.xlsx) — Authorised CSDs, relevant entity row; raw decision and extension categories",
+    "status": "partial",
+    "gap_or_condition": "Register inspected selectively; obtain exact national authorisation/extension decisions. Norway also requires EEA/national applicability verification."
+  },
+  {
+    "id": "Q032",
+    "entity_service": "Porto",
+    "role": "CSD operator and participant",
+    "practical_question": "Who must provide and offer omnibus versus individual client segregation?",
+    "required_and_supporting_evidence": "[CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Article 38(1)–(6)",
+    "status": "partial",
+    "gap_or_condition": "EU obligation is covered at role level; local account types, contract, costs and insolvency disclosures not fully reviewed. Do not transfer direct EU applicability to Norway without checking."
+  },
+  {
+    "id": "Q033",
+    "entity_service": "Porto",
+    "role": "CSD operator",
+    "practical_question": "Who reconciles issue totals, and who manages a participant default?",
+    "required_and_supporting_evidence": "[CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Articles 37 and 41",
+    "status": "partial",
+    "gap_or_condition": "Daily integrity duty and public/tested default procedures are established in EU law; local runbooks and Norwegian legal implementation require review."
+  },
+  {
+    "id": "Q034",
+    "entity_service": "Porto",
+    "role": "Participant",
+    "practical_question": "What financial information, contract and DCP setup are required?",
+    "required_and_supporting_evidence": "[Operational Manual of INTERBOLSA](https://www.euronext.com/sites/default/files/2026-04/20260216_Manual%20Operativo_V43_EN.pdf) — Chapter 1 PDF 16–18; [INTERBOLSA Regulation 1/2016](https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.01.consolidado.en_.pdf) — Articles 2–3 PDF 2",
+    "status": "partial",
+    "gap_or_condition": "Three years of financial reports and INTERBOLSA contract checked; complete admission pack and exceptions require full clauses."
+  },
+  {
+    "id": "Q035",
+    "entity_service": "Porto",
+    "role": "Issuer / participant",
+    "practical_question": "Which issuance, registration, custody and investor-CSD link rules apply?",
+    "required_and_supporting_evidence": "[INTERBOLSA Regulation 2/2016](https://www.euronext.com/sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf) — Regulation 2/2016 cover/contents; [Euronext Securities Porto CSD Links](https://www.euronext.com/sites/default/files/2024-08/euronext_securities_porto_csd_links_march_2023.pdf) — CSD Links candidate; unresolved metadata",
+    "status": "partial",
+    "gap_or_condition": "Operative issue/link provisions and security eligibility not substantively reviewed."
+  },
+  {
+    "id": "Q036",
+    "entity_service": "Porto",
+    "role": "Participant",
+    "practical_question": "How do I reconcile accounts and obtain end-of-day reports?",
+    "required_and_supporting_evidence": "[Operational Manual of INTERBOLSA](https://www.euronext.com/sites/default/files/2026-04/20260216_Manual%20Operativo_V43_EN.pdf) — §7.1 PDF 66, printed 65",
+    "status": "covered",
+    "gap_or_condition": "Daily reconciliation and report families checked; subscription and exact schemas must be confirmed for the access model."
+  },
+  {
+    "id": "Q037",
+    "entity_service": "Porto",
+    "role": "Participant",
+    "practical_question": "What are validation, matching, hold, amendment and cancellation rules?",
+    "required_and_supporting_evidence": "[T2S User Detailed Functional Specifications R2026.JUN (UDFS)](https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf) — §1.6.1.2 PDF 267–271; [Operational Manual of INTERBOLSA](https://www.euronext.com/sites/default/files/2026-04/20260216_Manual%20Operativo_V43_EN.pdf) — V43 local manual, other lifecycle sections unreviewed",
+    "status": "partial",
+    "gap_or_condition": "Shared T2S concepts available; local submission rules and finality clauses not audited."
+  },
+  {
+    "id": "Q038",
+    "entity_service": "Porto",
+    "role": "Participant / cash bank",
+    "practical_question": "Which DCA, DvP/FoP and cross-CSD accounts are used?",
+    "required_and_supporting_evidence": "[Operational Manual of INTERBOLSA](https://www.euronext.com/sites/default/files/2026-04/20260216_Manual%20Operativo_V43_EN.pdf) — Chapter 1 PDF 17–18; [T2S User Detailed Functional Specifications R2026.JUN (UDFS)](https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf) — §1.6.1.10 PDF 373–376",
+    "status": "partial",
+    "gap_or_condition": "Access-role distinction and platform realignment known; actual account/link/cash-bank configuration absent."
+  },
+  {
+    "id": "Q039",
+    "entity_service": "Porto",
+    "role": "Participant",
+    "practical_question": "What are partial windows, penalties and default procedures?",
+    "required_and_supporting_evidence": "[\n              Working Days & Operating Hours\n            ](https://www.euronext.com/en/post-trade/euronext-securities/porto/about-us/working-days-operating-hours) — Operating-hour table; [CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Article 41",
+    "status": "partial",
+    "gap_or_condition": "Current webpage gives five windows; binding notice 0394/2024, penalties and local default runbook still needed."
+  },
+  {
+    "id": "Q040",
+    "entity_service": "Porto",
+    "role": "Issuer / participant",
+    "practical_question": "Which corporate-action, income, market-claim, transformation, buyer-protection and tax rules apply?",
+    "required_and_supporting_evidence": "[INTERBOLSA Circular 1/2026](https://www.euronext.com/sites/default/files/2026-01/Interbolsa%201_2026_%20Corporate%20Events.pdf) — Circular 1/2026 PDF 1–2",
+    "status": "partial",
+    "gap_or_condition": "Scope/definitions only reviewed; Portuguese governing language and event-specific articles/tax procedures needed."
+  },
+  {
+    "id": "Q041",
+    "entity_service": "Porto",
+    "role": "Developer / participant",
+    "practical_question": "Which file layouts, ISO messages and status reports are valid for my access?",
+    "required_and_supporting_evidence": "[Layouts of the files/messages available to Financial Intermediaries](https://www.euronext.com/sites/default/files/2026-04/20260408_STD%20Layouts%20of%20the%20files%20messages%20available%20to%20Financial%20Intermediaries_v58.pdf) — File/message layouts, identity checked; [Layouts ISO 15022 Messages Specifications](https://www.euronext.com/sites/default/files/2026-01/20260126_ISO%2015022%20Messages_EN_v9.pdf) — ISO 15022 layouts, identity checked; [Operational Manual of INTERBOLSA](https://www.euronext.com/sites/default/files/2026-04/20260216_Manual%20Operativo_V43_EN.pdf) — §7.1 PDF 66",
+    "status": "partial",
+    "gap_or_condition": "Public specifications already archived; substantive field/version review is required before assuming private access is needed."
+  },
+  {
+    "id": "Q042",
+    "entity_service": "Porto",
+    "role": "DCP",
+    "practical_question": "Does DCP change the legal participant relationship, and what must be tested?",
+    "required_and_supporting_evidence": "[INTERBOLSA Regulation 1/2016](https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.01.consolidado.en_.pdf) — Article 2(4) PDF 2; [Operational Manual of INTERBOLSA](https://www.euronext.com/sites/default/files/2026-04/20260216_Manual%20Operativo_V43_EN.pdf) — PDF 17–18",
+    "status": "partial",
+    "gap_or_condition": "Direct technical connectivity does not replace the INTERBOLSA relationship; test/certification pack not fully reviewed."
+  },
+  {
+    "id": "Q043",
+    "entity_service": "Porto",
+    "role": "Participant",
+    "practical_question": "Can FoP settle on 1 May 2026, and what are the normal hours?",
+    "required_and_supporting_evidence": "[\n              Working Days & Operating Hours\n            ](https://www.euronext.com/en/post-trade/euronext-securities/porto/about-us/working-days-operating-hours) — 2026 calendar and operating-hour table; notices 25/1162 and 0394/2024",
+    "status": "partial",
+    "gap_or_condition": "Webpage explicitly allows May 1 FoP and gives 20:00 NTS; obtain referenced notices before asserting full binding schedule."
+  },
+  {
+    "id": "Q044",
+    "entity_service": "Porto",
+    "role": "Participant / issuer",
+    "practical_question": "What do I pay for this settlement or issuer event?",
+    "required_and_supporting_evidence": "[Fee Books - Financial Intermediaries - Price list in force from 1 January 2026](https://www.euronext.com/sites/default/files/2026-01/Fee%20-%20Book%20January%202026%20-%20FI%20.pdf) — Financial intermediaries fee book; [Fee Books - Issuers - Price list in force from 1 January 2026](https://www.euronext.com/sites/default/files/2026-02/Fee%20-%20Book%20January%202026%20-IE%20_.pdf) — Issuer fee book",
+    "status": "partial",
+    "gap_or_condition": "Both identities refreshed; exact fee rows/conditions not audited."
+  },
+  {
+    "id": "Q045",
+    "entity_service": "Porto",
+    "role": "CSD operator",
+    "practical_question": "Which CMVM information and publication requirements were amended in 2025?",
+    "required_and_supporting_evidence": "[cd837a71029f](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2025-925084526) — CMVM Regulation 4/2025 Articles 1–2 and 7; [Regulation - 2022/2554 - EN - DORA - EUR-Lex Log in English](https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng) — Articles 2,64",
+    "status": "partial",
+    "gap_or_condition": "National amendment found beyond the selected library; full consolidated legal chain and machine-readable capture still needed."
+  },
+  {
+    "id": "Q046",
+    "entity_service": "Oslo",
+    "role": "CSD operator",
+    "practical_question": "What proves the operator is authorised, and for which services?",
+    "required_and_supporting_evidence": "[CSD Register](https://www.esma.europa.eu/sites/default/files/2025-10/ESMA74-1194755578-334_CSDR_Register_Art_21_58.xlsx) — Authorised CSDs, relevant entity row; raw decision and extension categories",
+    "status": "partial",
+    "gap_or_condition": "Register inspected selectively; obtain exact national authorisation/extension decisions. Norway also requires EEA/national applicability verification."
+  },
+  {
+    "id": "Q047",
+    "entity_service": "Oslo",
+    "role": "CSD operator and participant",
+    "practical_question": "Who must provide and offer omnibus versus individual client segregation?",
+    "required_and_supporting_evidence": "[CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Article 38(1)–(6); Norwegian implementation not checked",
+    "status": "partial",
+    "gap_or_condition": "EU obligation is covered at role level; local account types, contract, costs and insolvency disclosures not fully reviewed. Do not transfer direct EU applicability to Norway without checking."
+  },
+  {
+    "id": "Q048",
+    "entity_service": "Oslo",
+    "role": "CSD operator",
+    "practical_question": "Who reconciles issue totals, and who manages a participant default?",
+    "required_and_supporting_evidence": "[CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Articles 37 and 41",
+    "status": "partial",
+    "gap_or_condition": "Daily integrity duty and public/tested default procedures are established in EU law; local runbooks and Norwegian legal implementation require review."
+  },
+  {
+    "id": "Q049",
+    "entity_service": "Oslo",
+    "role": "Participant / account operator",
+    "practical_question": "What obligations apply to a registration account operator?",
+    "required_and_supporting_evidence": "[ES-OSL Registration rules in force 4 February 2025 .pdf](https://www.euronext.com/sites/default/files/2025-01/2025-01-13%20-%20ES-OSL%20Registration%20Rules%20-%20back-up%20account%20operator%20-%20final.pdf) — Registration rules PDF 14",
+    "status": "partial",
+    "gap_or_condition": "Selected responsibilities checked; admission pack and account-operator service variants remain."
+  },
+  {
+    "id": "Q050",
+    "entity_service": "Oslo",
+    "role": "Issuer / account operator",
+    "practical_question": "Which issuer, nominee and investor accounts and links can be used?",
+    "required_and_supporting_evidence": "[ES-OSL Registration rules in force 4 February 2025 .pdf](https://www.euronext.com/sites/default/files/2025-01/2025-01-13%20-%20ES-OSL%20Registration%20Rules%20-%20back-up%20account%20operator%20-%20final.pdf) — PDF 14, selected account-operator duties",
+    "status": "partial",
+    "gap_or_condition": "Holdings/nominee roles sampled; issuance/link eligibility and entire custody chain not reviewed."
+  },
+  {
+    "id": "Q051",
+    "entity_service": "Oslo",
+    "role": "Account operator / holder",
+    "practical_question": "What happens if my account operator abruptly ceases operations?",
+    "required_and_supporting_evidence": "[ES-OSL Registration rules in force 4 February 2025 .pdf](https://www.euronext.com/sites/default/files/2025-01/2025-01-13%20-%20ES-OSL%20Registration%20Rules%20-%20back-up%20account%20operator%20-%20final.pdf) — §2.1.4.2 PDF 19",
+    "status": "covered",
+    "gap_or_condition": "VPS back-up handling/blocking and specified exceptions are described; do not infer unrestricted holder transactions."
+  },
+  {
+    "id": "Q052",
+    "entity_service": "Oslo",
+    "role": "VPO NOK participant",
+    "practical_question": "Can I rely on these matching, cancellation and finality rules as unconditionally approved?",
+    "required_and_supporting_evidence": "[ES-OSL VPS NOK Rules.pdf](https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf) — Cover; [822d46bb9149](https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_regelverket.pdf) — Norwegian cover",
+    "status": "unresolved",
+    "gap_or_condition": "Exact 2 September 2024 edition approval missing; do not import T2S lifecycle as current VPO NOK law."
+  },
+  {
+    "id": "Q053",
+    "entity_service": "Oslo",
+    "role": "Liquidity / settlement bank",
+    "practical_question": "Must the primary and substitute liquidity banks provide the same cash?",
+    "required_and_supporting_evidence": "[ES-OSL VPS NOK Rules.pdf](https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf) — §§8–11 PDF 16–19",
+    "status": "unresolved",
+    "gap_or_condition": "Text distinguishes primary obligation and optional substitute funding; legal status remains qualified by unresolved approval."
+  },
+  {
+    "id": "Q054",
+    "entity_service": "Oslo",
+    "role": "Participant",
+    "practical_question": "Which partial-settlement, fail and penalty rules apply in VPO NOK?",
+    "required_and_supporting_evidence": "[ES-OSL VPS NOK Rules.pdf](https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf) — VPO NOK rules; relevant lifecycle not reviewed",
+    "status": "unresolved",
+    "gap_or_condition": "Edition qualification and unreviewed local clauses; no T2S-window substitution."
+  },
+  {
+    "id": "Q055",
+    "entity_service": "Oslo",
+    "role": "Issuer / participant",
+    "practical_question": "Which income, claim, transformation, buyer-protection and tax steps are required?",
+    "required_and_supporting_evidence": "[Corporate_Events_Services_User_Guide_20260507_clean.pdf](https://www.euronext.com/sites/default/files/2026-05/Euronext%20Securities%20-%20Corporate%20Events%20Service%20-%20CA4U%20Handbook%20SDD%20-%20V05_0.pdf) — §2.3 PDF 17 includes Oslo, service-specific roles",
+    "status": "partial",
+    "gap_or_condition": "Group guide supplies role context only; local tax/issuer contracts and event deadline rules still required."
+  },
+  {
+    "id": "Q056",
+    "entity_service": "Oslo",
+    "role": "Developer / account operator",
+    "practical_question": "What exact MyVPS messages, status codes and reports should production use?",
+    "required_and_supporting_evidence": "[ES-OSL Registration rules in force 4 February 2025 .pdf](https://www.euronext.com/sites/default/files/2025-01/2025-01-13%20-%20ES-OSL%20Registration%20Rules%20-%20back-up%20account%20operator%20-%20final.pdf) — Registration rules and references to user documentation",
+    "status": "partial",
+    "gap_or_condition": "MyVPS/user documentation version and authorisation route not independently inspected; do not invent protocol fields."
+  },
+  {
+    "id": "Q057",
+    "entity_service": "Oslo",
+    "role": "Participant / bank",
+    "practical_question": "What technical, security and continuity procedures must be tested?",
+    "required_and_supporting_evidence": "[ES-OSL VPS NOK Rules.pdf](https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf) — §11 PDF 19; [ES-OSL Registration rules in force 4 February 2025 .pdf](https://www.euronext.com/sites/default/files/2025-01/2025-01-13%20-%20ES-OSL%20Registration%20Rules%20-%20back-up%20account%20operator%20-%20final.pdf) — §2.1.4.2 PDF 19",
+    "status": "partial",
+    "gap_or_condition": "Limited obligations seen; current user/test/default manuals and approval chain missing."
+  },
+  {
+    "id": "Q058",
+    "entity_service": "Oslo",
+    "role": "Participant",
+    "practical_question": "What are current VPO NOK settlement cycles, calendars and cut-offs?",
+    "required_and_supporting_evidence": "[ES-OSL VPS NOK Rules.pdf](https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf) — VPO NOK rules, approval-qualified edition",
+    "status": "unresolved",
+    "gap_or_condition": "Current local operating calendar/cycle schedule not independently validated; T2S native timings do not answer this question."
+  },
+  {
+    "id": "Q059",
+    "entity_service": "Oslo",
+    "role": "Participant / issuer",
+    "practical_question": "Which Oslo fee applies on the requested date?",
+    "required_and_supporting_evidence": "[Euronext Securities Oslo Fee Schedule - January 2026](https://www.euronext.com/sites/default/files/2026-09/ES-OSL-Fee-Schedule-January-2026.pdf) — January 2026 fee schedule, identity checked",
+    "status": "partial",
+    "gap_or_condition": "Specific fee rows, role and service conditions not reviewed."
+  },
+  {
+    "id": "Q060",
+    "entity_service": "Oslo",
+    "role": "CSD operator",
+    "practical_question": "Which national resilience and settlement-system approval requirements apply?",
+    "required_and_supporting_evidence": "[\n\t\t\t\tInfrastrukturforetak\n\t\t\t](https://www.finanstilsynet.no/tilsyn/infrastrukturforetak/) — Infrastructure supervision page",
+    "status": "partial",
+    "gap_or_condition": "System approval evidence exists; edition approval, EEA incorporation and Norwegian DORA application require exact legal sources."
+  },
+  {
+    "id": "Q061",
+    "entity_service": "Athens",
+    "role": "CSD operator",
+    "practical_question": "What proves the operator is authorised, and for which services?",
+    "required_and_supporting_evidence": "[CSD Register](https://www.esma.europa.eu/sites/default/files/2025-10/ESMA74-1194755578-334_CSDR_Register_Art_21_58.xlsx) — Authorised CSDs, relevant entity row; raw decision and extension categories",
+    "status": "partial",
+    "gap_or_condition": "Register inspected selectively; obtain exact national authorisation/extension decisions. Norway also requires EEA/national applicability verification."
+  },
+  {
+    "id": "Q062",
+    "entity_service": "Athens",
+    "role": "CSD operator and participant",
+    "practical_question": "Who must provide and offer omnibus versus individual client segregation?",
+    "required_and_supporting_evidence": "[CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Article 38(1)–(6)",
+    "status": "partial",
+    "gap_or_condition": "EU obligation is covered at role level; local account types, contract, costs and insolvency disclosures not fully reviewed. Do not transfer direct EU applicability to Norway without checking."
+  },
+  {
+    "id": "Q063",
+    "entity_service": "Athens",
+    "role": "CSD operator",
+    "practical_question": "Who reconciles issue totals, and who manages a participant default?",
+    "required_and_supporting_evidence": "[CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Articles 37 and 41",
+    "status": "partial",
+    "gap_or_condition": "Daily integrity duty and public/tested default procedures are established in EU law; local runbooks and Norwegian legal implementation require review."
+  },
+  {
+    "id": "Q064",
+    "entity_service": "Athens",
+    "role": "Participant",
+    "practical_question": "What financial history and staff certification are needed for admission?",
+    "required_and_supporting_evidence": "[ATHEXCSD Resolution 1](https://athens.euronext.com/sites/default/files/2025-04/RESOLUTION_Nr1_ATHEXCSD_31032025_as_of_02042025.pdf) — Resolution 1 §1.1.1.2(5) PDF 4; [ATHEXCSD Resolution 2](https://athens.euronext.com/sites/default/files/2026-07/RESOLUTION_Nr_2_ATHEXCSD_30062026_FORCE_20072026.pdf) — Resolution 2 §§1–2.1 PDF 2",
+    "status": "partial",
+    "gap_or_condition": "Selected two-year/new-entity and CSA requirements checked with exemptions; contracts, complete admission categories and effective-date chain remain."
+  },
+  {
+    "id": "Q065",
+    "entity_service": "Athens",
+    "role": "Issuer / participant",
+    "practical_question": "Which DSS accounts, issuer/investor services and securities are eligible?",
+    "required_and_supporting_evidence": "[ATHEXCSD Rulebook - Amendment 8](https://athens.euronext.com/sites/default/files/2026-06/ATHEXCSD_RULEBOOK_7th_Ammendment_383_24.11.2025_FORCE_8.12.2025.pdf) — Master rulebook, operative account/issue sections not reviewed",
+    "status": "partial",
+    "gap_or_condition": "Master edition label mostly reconciled; specific accounts, segregation disclosures and link/security list need review."
+  },
+  {
+    "id": "Q066",
+    "entity_service": "Athens",
+    "role": "CSD operator / participant",
+    "practical_question": "Is Amendment 8 a distinct conflicting master rulebook?",
+    "required_and_supporting_evidence": "[ATHEXCSD Rulebook - Amendment 8](https://athens.euronext.com/sites/default/files/2026-06/ATHEXCSD_RULEBOOK_7th_Ammendment_383_24.11.2025_FORCE_8.12.2025.pdf) — PDF 2/217; [athens-greek-master](https://athens.euronext.com/sites/default/files/2026-06/%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3_%CE%9B%CE%95%CE%99%CE%A4%CE%9F%CE%A5%CE%A1%CE%93%CE%99%CE%91%CE%A3_%CE%95%CE%9B%CE%9A%CE%91%CE%A4_7%CE%B7_%CE%A4%CF%81%CE%BF%CF%80%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7_383_24.11.2025_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_8.12.2025.pdf) — PDF 2/206",
+    "status": "covered",
+    "gap_or_condition": "No distinct conflicting operative text established in sampled history; Edition 8 versus seven amendments is a labelled inference. Independent HCMC approval verification still missing."
+  },
+  {
+    "id": "Q067",
+    "entity_service": "Athens",
+    "role": "Participant",
+    "practical_question": "What are DSS validation, matching, hold, cancellation and finality rules?",
+    "required_and_supporting_evidence": "[ATHEXCSD Resolution 21](https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%20Nr%2021%20-%20Participant%20Default%20%2030092024%20FORCE%2012042021.pdf) — Resolution 21 Articles 1–2 PDF 2; [ATHEXCSD Resolution 5](https://athens.euronext.com/sites/default/files/2025-12/RESOLUTION_Nr5-ATHEXCSD_383_24.11.2025_FORCE%208.12.2025.DOC.pdf) — Resolution 5 §2.2 PDF 4–5",
+    "status": "partial",
+    "gap_or_condition": "Instruction types and technical-announcement dependency checked; full lifecycle/finality and production statuses not reviewed."
+  },
+  {
+    "id": "Q068",
+    "entity_service": "Athens",
+    "role": "Participant / settlement bank",
+    "practical_question": "Are EUR and non-EUR cash-settlement arrangements identical?",
+    "required_and_supporting_evidence": "[ATHEXCSD Resolution 5](https://athens.euronext.com/sites/default/files/2025-12/RESOLUTION_Nr5-ATHEXCSD_383_24.11.2025_FORCE%208.12.2025.DOC.pdf) — Resolution 5 §§1.1–1.2 PDF 3–4",
+    "status": "covered",
+    "gap_or_condition": "No: sampled rule differentiates TARGET-GR EUR arrangements and non-EUR settlement-bank arrangements; confirm currency/service and current bank setup."
+  },
+  {
+    "id": "Q069",
+    "entity_service": "Athens",
+    "role": "Participant",
+    "practical_question": "Which fail, partial, penalty and default procedures apply?",
+    "required_and_supporting_evidence": "[CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Article 41; [ATHEXCSD Resolution 5](https://athens.euronext.com/sites/default/files/2025-12/RESOLUTION_Nr5-ATHEXCSD_383_24.11.2025_FORCE%208.12.2025.DOC.pdf) — Resolution 5, technical procedures",
+    "status": "partial",
+    "gap_or_condition": "EU baseline and local source candidates exist; exact DSS partial/penalty/default procedures not fully reviewed."
+  },
+  {
+    "id": "Q070",
+    "entity_service": "Athens",
+    "role": "Issuer / participant",
+    "practical_question": "Which registry actions, claims, transformations, buyer protection and tax deadlines apply?",
+    "required_and_supporting_evidence": "[ATHEXCSD Resolution 8](https://athens.euronext.com/sites/default/files/2026-07/RESOLUTION_8_ATHEXCSD-CORPORATE_ACTIONS_392_%2010.07.2026_FORCE_14.07.2026.pdf) — Resolution 8, current identity only",
+    "status": "partial",
+    "gap_or_condition": "Local resolution exists but operative passages unreviewed. Four-CSD group guide does not establish Athens applicability."
+  },
+  {
+    "id": "Q071",
+    "entity_service": "Athens",
+    "role": "Developer / participant",
+    "practical_question": "What DSS schema, statuses, reports and file format should I send?",
+    "required_and_supporting_evidence": "[ATHEXCSD Resolution 5](https://athens.euronext.com/sites/default/files/2025-12/RESOLUTION_Nr5-ATHEXCSD_383_24.11.2025_FORCE%208.12.2025.DOC.pdf) — §2.2 PDF 4–5",
+    "status": "partial",
+    "gap_or_condition": "ATHEXCSD technical announcements referenced; exact production schema/release and access conditions not independently obtained."
+  },
+  {
+    "id": "Q072",
+    "entity_service": "Athens",
+    "role": "Participant",
+    "practical_question": "Which certification tests and continuity procedures are required?",
+    "required_and_supporting_evidence": "[ATHEXCSD Resolution 2](https://athens.euronext.com/sites/default/files/2026-07/RESOLUTION_Nr_2_ATHEXCSD_30062026_FORCE_20072026.pdf) — Resolution 2 §§1–2.1 PDF 2",
+    "status": "partial",
+    "gap_or_condition": "Staff certification is not interface certification; exact technical test pack and continuity procedure still needed."
+  },
+  {
+    "id": "Q073",
+    "entity_service": "Athens",
+    "role": "Participant",
+    "practical_question": "Which business day, cycles and cut-offs apply to DSS today?",
+    "required_and_supporting_evidence": "[ATHEXCSD Resolution 5](https://athens.euronext.com/sites/default/files/2025-12/RESOLUTION_Nr5-ATHEXCSD_383_24.11.2025_FORCE%208.12.2025.DOC.pdf) — §2.2 PDF 4–5",
+    "status": "partial",
+    "gap_or_condition": "Requires latest announced DSS technical cycles and local calendar. Do not assume future Convergence/T2S mechanics apply today."
+  },
+  {
+    "id": "Q074",
+    "entity_service": "Athens",
+    "role": "Participant / issuer",
+    "practical_question": "Which participant or issuer fee applies?",
+    "required_and_supporting_evidence": "[ATHEXCSD Resolution 18](https://athens.euronext.com/sites/default/files/2026-06/RESOLUTION_18_ES-ATH_FEE_SCHEDULE_390_08062026_FORCE_15062026.pdf) — Resolution 18; [ATHEXCSD Resolution 19](https://athens.euronext.com/sites/default/files/2026-01/RESOLUTION_19_RULEBOOK_AMENDMENT_COMMITTEE_ATHEXCSD_384_20.01.2026_FORCE_28.01.2026.pdf) — Resolution 19",
+    "status": "partial",
+    "gap_or_condition": "Fee source identities checked; current effective conditions and exact charges not audited."
+  },
+  {
+    "id": "Q075",
+    "entity_service": "Athens",
+    "role": "CSD operator",
+    "practical_question": "What does the master approval history prove and which resilience law applies?",
+    "required_and_supporting_evidence": "[athens-greek-master](https://athens.euronext.com/sites/default/files/2026-06/%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3_%CE%9B%CE%95%CE%99%CE%A4%CE%9F%CE%A5%CE%A1%CE%93%CE%99%CE%91%CE%A3_%CE%95%CE%9B%CE%9A%CE%91%CE%A4_7%CE%B7_%CE%A4%CF%81%CE%BF%CF%80%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7_383_24.11.2025_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_8.12.2025.pdf) — PDF 2/206; [Regulation - 2022/2554 - EN - DORA - EUR-Lex Log in English](https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng) — Articles 2,64",
+    "status": "partial",
+    "gap_or_condition": "Document records approval/history; independent HCMC source unavailable. DORA scope does not substitute for local default/incident procedures."
+  },
+  {
+    "id": "Q076",
+    "entity_service": "EU trading venues / participants",
+    "role": "Participant",
+    "practical_question": "Does CSDR require every securities transaction to be T+2 today?",
+    "required_and_supporting_evidence": "[CSDR: consolidated 17 January 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117) — Article 5(1)–(2)",
+    "status": "covered",
+    "gap_or_condition": "T+2 is a ceiling for covered venue transactions with specified exceptions, not a universal mandatory tenor."
+  },
+  {
+    "id": "Q077",
+    "entity_service": "EU future settlement cycle",
+    "role": "Participant",
+    "practical_question": "When does the enacted T+1 requirement start to apply?",
+    "required_and_supporting_evidence": "[T+1 amendment 2025/2075](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075) — Articles 1–2",
+    "status": "covered",
+    "gap_or_condition": "11 October 2027; distinguish enactment and application. Not current on 13 September 2026."
+  },
+  {
+    "id": "Q078",
+    "entity_service": "T2S native infrastructure",
+    "role": "CSD / DCP",
+    "practical_question": "Can matching and automatic realignment generation occur before ISD?",
+    "required_and_supporting_evidence": "[T2S User Detailed Functional Specifications R2026.JUN (UDFS)](https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf) — §§1.6.1.2,1.6.1.8,1.6.1.10; PDF 267,303,373–375",
+    "status": "covered",
+    "gap_or_condition": "Yes under validation/configuration conditions; posting remains subject to eligibility, ISD and resources."
+  },
+  {
+    "id": "Q079",
+    "entity_service": "Two T2S CSDs",
+    "role": "CSD / participant / cash bank",
+    "practical_question": "Which accounts and message directions are used for one issuer-to-investor DvP?",
+    "required_and_supporting_evidence": "[T2S User Detailed Functional Specifications R2026.JUN (UDFS)](https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf) — PDF 373–376,385–387,753,778",
+    "status": "partial",
+    "gap_or_condition": "Illustration possible with explicit assumptions. Exact configured chain and local interfaces not known."
+  },
+  {
+    "id": "Q080",
+    "entity_service": "Two securities legs",
+    "role": "Participant",
+    "practical_question": "Does the 100-share-for-EUR1000 example prove atomic securities-for-securities exchange?",
+    "required_and_supporting_evidence": "[T2S User Detailed Functional Specifications R2026.JUN (UDFS)](https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf) — §1.6.1.8 all-or-none conditions and §1.6.1.10 realignment",
+    "status": "missing",
+    "gap_or_condition": "No reviewed evidence for the requested two-security product/linking/legal arrangement. Ask for transaction design; abstain on atomicity."
+  },
+  {
+    "id": "Q081",
+    "entity_service": "T2S dated operations",
+    "role": "Participant",
+    "practical_question": "Was the EUR DvP cut-off 16:00 on 8 September 2026?",
+    "required_and_supporting_evidence": "[t2s-2026-status-events](https://www.ecb.europa.eu/paym/target/html/t2s_history_2026_include.en.html) — 8 September 15:30 notice",
+    "status": "covered",
+    "gap_or_condition": "No: notice postponed to 17:00; later incident updates must be consulted for actual end-of-day outcomes."
+  },
+  {
+    "id": "Q082",
+    "entity_service": "T2S November 2026 release",
+    "role": "Developer",
+    "practical_question": "May I use the latest November draft in production today?",
+    "required_and_supporting_evidence": "[T2S Draft Scope Defining Documents for R2026.NOV - Market Review](https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/CoverNote_Draft_Delivery_T2S_UDFS_R2026.NOV_UHB_R2026.NOV.en.pdf) — Draft cover note PDF 1–2; [Cover note](https://www.ecb.europa.eu/pub/pdf/annex/CoverNote_Final_Delivery_T2S_UDFS_R2026.JUN_UHB_R2026.JUN.en.pdf) — June final note",
+    "status": "covered",
+    "gap_or_condition": "No automatic promotion. Final November publication/deployment unverified, June deployed evidence found."
+  },
+  {
+    "id": "Q083",
+    "entity_service": "European Offering / Convergence",
+    "role": "Participant",
+    "practical_question": "Does a group future programme define today’s local settlement procedure?",
+    "required_and_supporting_evidence": "[\n              Confirmation of the go-live of Euronext’s new settlement model in September 2026 \n            ](https://www.euronext.com/en/news/confirmation-go-live-euronexts-new-settlement-model-september-2026) — Announcement scope/date; [\n              Euronext Securities CSD Convergence Programme\n            ](https://www.euronext.com/en/csd/strategic-projects/convergence-programme) — Convergence programme hub",
+    "status": "covered",
+    "gap_or_condition": "Only directly stated programme facts; no current procedural authority. Identify service, CSD and target date."
+  }
+]

@@ -1,0 +1,38 @@
+Infrastrukturforetak
+Tilsyn og kontroll
+Informasjon om tilsyn med markedsoperatører og handelsplassene de driver, sentrale motparter og verdipapirsentraler.
+Infrastrukturforetakene utfører essensielle fellesfunksjoner for aktørene i verdipapirmarkedet ved at de tilrettelegger for kapitalinnhenting for næringslivet og for investeringsvirksomhet og sparing i verdipapirer.
+Infrastrukturforetakene spiller derfor en avgjørende rolle for verdipapirmarkedets effektivitet og integritet. De bidrar til å opprettholde et velfungerende marked som tjener både utstedere og investorer.
+Tilsyn med markedsoperatører for regulert marked, MHF og OHF
+Tilsynet med regulerte markeder og øvrige handelsplasser skal sikre at markedene virker på hensiktsmessig og betryggende måte i samsvar med lovgivningen.
+Tilsynet dekker alle deler av virksomheten som krever tillatelse. Dette inkluderer det regulerte markedets (markedsoperatørens) økonomiske situasjon, og at reglene i verdipapirhandelloven for hvordan virksomheten skal drives følges.
+Markedsoperatører og handelsplasser under tilsyn
+Finanstilsynets virksomhetsregister gir oversikt over hvilke foretak som er under tilsyn. I Norge er det per august 2026 to markedsoperatører som til sammen driver tre regulerte markeder (RM) og én multilateral handelsfasilitet (MHF).
+Oslo Børs ASA (Euronext Oslo Børs) er markedsoperatør for handelsplassene Oslo Børs (Børs/RM), Euronext Expand (RM) og Euronext Growth Oslo (MHF). Norexeco ASA driver Norexeco (RM).
+Tilsyn med sentrale motparter
+Tilsynet med sentrale motparter skal sikre betryggende soliditet, risikobevissthet og styring og kontroll i foretakene.
+Finanstilsynet er medlem av tilsynskollegiene til Cassa di Compensazione e Garanzia S.p.A. (Euronext Clearing), Cboe Clear Europe N.V., European Commodity Clearing AG og Nasdaq Clearing AB. Tilsynskollegiene er etablert i medhold av artikkel 18 i forordning (EU) nr. 648/2012 (EMIR), som er inntatt i norsk rett i verdipapirhandelloven § 17-1 første ledd. I tillegg deltar Finanstilsynet i et tilsynskollegium for LCH Ltd. og har en samarbeidsavtale med sveitsiske myndigheter om Six x-clear AG.
+Sentrale motparter under tilsyn
+Finanstilsynets virksomhetsregister gir oversikt over hvilke foretak som er under tilsyn. Det er pr. august 2026 ingen sentrale motparter med norsk tillatelse.
+Tilsyn med verdipapirsentraler
+Tilsynet med verdipapirsentraler skal sikre at de virker på hensiktsmessig og betryggende måte i samsvar med relevant lovgivning.
+En verdipapirsentral utfører fellesfunksjoner av strategisk betydning som det øvrige verdipapirmarkedet er avhengig av. Tilsynet med en verdipapirsentral skal derfor også sikre at fellesfunksjonene organiseres og utføres på en måte som er egnet for markedet.
+Verdipapirsentraler under tilsyn
+Finanstilsynets virksomhetsregister gir oversikt over hvilke foretak som er under tilsyn. Det er én verdipapirsentral under tilsyn av Finanstilsynet, Verdipapirsentralen ASA (Euronext Securities Oslo). Herunder inngår tilsyn med det sentrale verdipapiroppgjøret, VPO NOK, som driftes av Verdipapirsentralen. Finanstilsynet har godkjent VPO NOK etter betalingssystemloven kapittel 4. Systemet gir dermed rettsvern og sikkerhet for avregnings- og oppgjørsavtaler. Finanstilsynet har også godkjent verdipapiroppgjørssystemet VPO Euro, men dette systemet er ikke tatt i bruk.
+Samarbeidsavtale med Norges Bank
+Det er utarbeidet et notat om rollefordelingen mellom Finanstilsynet og Norges Bank i forhold til verdipapiroppgjørssystemer. Les mer om samarbeidet og rollefordelingen her:
+Rollefordelingen mellom Finanstilsynet og Norges Bank når det gjelder verdipapiroppgjørssystemer og sentrale motparter
+Brev til Finansdepartementet: Redegjørelse om samarbeidet mellom Finanstilsynet og Norges Bank (pdf)
+Tilsynsrapporter og vedtak
+Tilsynsrapporter og vedtak infrastrukturforetak
+Hvitvasking
+Hvitvasking og terrorfinansiering
+Tilsyn med IT og betalingstjenester
+Tilsyn med finansforetakenes bruk av IT og betalingstjenester
+Finanstilsynets virksomhetsregister
+Oversikt over foretak og personer som er under tilsyn av eller registrert hos Finanstilsynet.
+Oppslag i virksomhetsregisteret
+Mer informasjon om infrastrukturforetak
+Konsesjon
+Rapportering
+Regelverk

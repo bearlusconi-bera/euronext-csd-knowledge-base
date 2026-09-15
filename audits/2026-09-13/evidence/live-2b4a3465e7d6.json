@@ -1,0 +1,20 @@
+{
+  "id": "2b4a3465e7d6",
+  "url": "https://www.euronext.com/sites/default/files/2024-03/part_6_-_fundhub_rules.pdf",
+  "title": "Part 6 - FundHub Rules.pdf",
+  "original_sha256": "43ad1546ba66a21dc99c1db2941767382614d574f31a4af9687ba1eb32accedf",
+  "kind": "curated-document",
+  "audit_id": "2b4a3465e7d6",
+  "retrieved_at_utc": "2026-09-13T16:14:09.951703+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-03/part_6_-_fundhub_rules.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Fri, 31 Jan 2025 13:33:30 GMT",
+  "etag": "W/\"72910d6c6032ea921ac121a16c9c5a29\"",
+  "sha256": "43ad1546ba66a21dc99c1db2941767382614d574f31a4af9687ba1eb32accedf",
+  "bytes": 239574,
+  "saved_path": "sources/2b4a3465e7d6.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 10,
+  "text_path": "extracted/2b4a3465e7d6.md"
+}

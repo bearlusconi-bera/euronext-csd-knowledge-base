@@ -1,0 +1,230 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/our-rules",
+  "kind": "official-hub",
+  "audit_id": "f4b5930794e6",
+  "retrieved_at_utc": "2026-09-13T16:17:59.630143+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/legislation-and-regulation/our-rules",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": "Sun, 13 Sep 2026 10:17:40 GMT",
+  "etag": "W/\"1789294660\"",
+  "sha256": "c70297fae480dca50ffd379e23986a662f3246b67cb696a406c2507ee5a4dd55",
+  "bytes": 497294,
+  "saved_path": "sources/f4b5930794e6.html",
+  "text_path": "extracted/f4b5930794e6.txt",
+  "title": "\n              Our rules\n            ",
+  "links": [
+    {
+      "title": "INTERBOLSA Regulation 1/2018",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/RegulamentoIB.2018.01.Consolidado.EN_%20%281%29.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 1/2017",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2017.01.consolidado.en_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 2/2016",
+      "url": "https://www.euronext.com/sites/default/files/2024-01/INTERBOLSA%20REGULATION%202_2016_0.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 1/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.01.consolidado.en_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation No. 10/2003 – ISIN Numbering",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/RegulamentoIB.2003.10.Consolidado.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Instruction 1/2017",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/InstrucaoIB.2017.01.EN_%20%281%29.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 1/2026",
+      "url": "https://www.euronext.com/sites/default/files/2026-01/Interbolsa%201_2026_%20Corporate%20Events.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular nº 3/2024",
+      "url": "https://www.euronext.com/sites/default/files/2024-09/Euronext%20Securities%20Porto%20Circular%203_2024_EN.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 1/2024",
+      "url": "https://www.euronext.com/sites/default/files/2024-11/INTERBOLSA%20Circular%201_2024%20%28consolidated%20version%29.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular n.º 1/2022",
+      "url": "https://www.euronext.com/sites/default/files/2024-09/Euronext%20Securities%20Porto%20Circular%201_2022_VF_EN_consolidated.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 1/2016",
+      "url": "https://www.euronext.com/sites/default/files/2024-06/INTERBOLSA%20Circular%201_2016.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 1/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/EN_IB-CIRCULAR-1_2019%20%281%29.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 4/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2016.04.en_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 3/2016",
+      "url": "https://www.euronext.com/sites/default/files/2024-01/Circular.2016.03.EN_%20%282%29.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 2/2016",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/Circular.2016.02.EN_.pdf"
+    },
+    {
+      "title": "Euronext Securities Porto - Notice n.º 0394/2024",
+      "url": "https://www.euronext.com/sites/default/files/2024-06/Euronext%20Securities%20Porto%20-%20Notice%20no.%2003942024%20-%20Timetables.pdf"
+    },
+    {
+      "title": "Euronext Securities Porto Notice n.º 1132/2023",
+      "url": "https://www.euronext.com/sites/default/files/2024-06/INTERBOLSA%20Notice%201132_2023_0.pdf"
+    },
+    {
+      "title": "INTERBOLSA Notice 0246/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/aviso.2016.0246.migracao.en__0.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 3/2022",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/ibregulation.2022.03.en_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 2/2022",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2022.02.en_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 1/2022",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2022.01.en_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 1/2021",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulationib.2021.01.en_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 2/2020",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/IBRegulation.202002.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 1/2020",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/IB-Regulation-1SCSL2020_VF_03092020_EN.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 3/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/Regulation.2019.03.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 2/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/IB-Regulation-2_2019_eng.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 1/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/RegulamentoIB.2019.01.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 1/2026",
+      "url": "https://www.euronext.com/sites/default/files/2026-01/Interbolsa%201_2026_%20Corporate%20Events.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 4/2024",
+      "url": "https://www.euronext.com/sites/default/files/2024-11/INTERBOLSA%20Circular%204_2024_0.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular nº 3/2024",
+      "url": "https://www.euronext.com/sites/default/files/2024-09/Euronext%20Securities%20Porto%20Circular%203_2024_EN.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 1/2023",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2023.01.en_1.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 1/2022",
+      "url": "https://www.euronext.com/sites/default/files/2024-01/INTERBOLSA%20CIRCULAR%201_2022.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 4/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/Circular.2019.04.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 3/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/Circular.2019.03.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 1/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/EN_IB-CIRCULAR-1_2019%20%281%29.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 2/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/IB-Circular-2_2019_eng.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 1/2014",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2014.01.Consolidado.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 2/2006",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2006.02.Consolidado.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 3/2004",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2004.03.Consolidado.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 3/2000",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2000.03.Consolidado.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 1/2017",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/Circular.2017.01.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 1/2011",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/Circular.2011.01.OpenEndInvestmentFunds.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 3/2009",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/Circular.2009.03.Consolidada.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 2/2003",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/Circular.2003.02.Consolidado.ValMobTitulados.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 1/2001",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/Circular.2001.01.Consolidado.AgenteEmitente.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 1/2000",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/Circular.2000.01.Consolidado.ExercicioDireitos.EN_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Notice 1220/2019",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/notice.2019.1220.en_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Notice 0789/2019",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/en_ib-notice_timetables_789_2019_vf.pdf"
+    },
+    {
+      "title": "INTERBOLSA Notice 0176/2018",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/notice.2018.0176.timetables.en_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Notice 0536/2017",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/aviso.2017.0536.timetables.en_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Notice 0017/2017",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/aviso.2017.0017.timetables.en_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Notice 0245/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/aviso.2016.0245.horarios.en_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Notice 1096/2014",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/aviso.2014.1096.timetable.en_.pdf"
+    }
+  ]
+}

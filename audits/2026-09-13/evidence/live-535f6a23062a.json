@@ -1,0 +1,18 @@
+{
+  "id": "535f6a23062a",
+  "url": "https://www.esma.europa.eu/sites/default/files/2025-10/ESMA74-1194755578-334_CSDR_Register_Art_21_58.xlsx",
+  "title": "CSD Register",
+  "original_sha256": "b68c232b0d21f8ddec067adb619f90c48efdb08cde4d7c9de0b9abf6a361e54d",
+  "kind": "curated-document",
+  "audit_id": "535f6a23062a",
+  "retrieved_at_utc": "2026-09-13T16:18:12.151048+00:00",
+  "http_status": 200,
+  "final_url": "https://www.esma.europa.eu/sites/default/files/2025-10/ESMA74-1194755578-334_CSDR_Register_Art_21_58.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified_http": "Wed, 02 Sep 2026 07:02:04 GMT",
+  "etag": "\"29557-65a7a9ce27a30\"",
+  "sha256": "b68c232b0d21f8ddec067adb619f90c48efdb08cde4d7c9de0b9abf6a361e54d",
+  "bytes": 169303,
+  "saved_path": "sources/535f6a23062a.xlsx",
+  "same_as_archived_bytes": true
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "ecb-status-2026",
+    "url": "https://www.ecb.europa.eu/paym/target/html/t2s_history_2026_include.en.html",
+    "checked_at_utc": "2026-09-14T08:00:52.071861+00:00",
+    "scope": "Limited spot-check, not a whole-library freshness certification",
+    "http_status": 200,
+    "final_url": "https://www.ecb.europa.eu/paym/target/html/t2s_history_2026_include.en.html",
+    "bytes": 132600,
+    "sha256": "3377fac2c74fa893d9c8ebac5233cedd29ad73ab94fe911caa299c3ed7a24ec8",
+    "matches_reviewed_original_bytes": false
+  },
+  {
+    "name": "ecb-sdd-hub",
+    "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/html/index.en.html",
+    "checked_at_utc": "2026-09-14T08:00:52.193906+00:00",
+    "scope": "Limited spot-check, not a whole-library freshness certification",
+    "http_status": 200,
+    "final_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/html/index.en.html",
+    "bytes": 131919,
+    "sha256": "830c245412575f42a6df4cc2587ac9c7ecc1623ea93b5a3b9e31f6553dad472a",
+    "matches_reviewed_original_bytes": false
+  }
+]

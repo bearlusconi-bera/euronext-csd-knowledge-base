@@ -1,0 +1,20 @@
+{
+  "id": "a68f245f8337",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/pricing_policy_esmil_11-12-2025_0_0.pdf",
+  "title": "Pricing Policy",
+  "original_sha256": "63a5c5a41a53205da04ef8b62b5cbdb33e24e0c5f205cea5bf60a7da4291942b",
+  "kind": "curated-document",
+  "audit_id": "a68f245f8337",
+  "retrieved_at_utc": "2026-09-13T16:14:04.869762+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/pricing_policy_esmil_11-12-2025_0_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Mon, 09 Feb 2026 09:21:36 GMT",
+  "etag": "W/\"a39f0cd1185fb3a49f3c52a217668aa9\"",
+  "sha256": "63a5c5a41a53205da04ef8b62b5cbdb33e24e0c5f205cea5bf60a7da4291942b",
+  "bytes": 206355,
+  "saved_path": "sources/a68f245f8337.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 12,
+  "text_path": "extracted/a68f245f8337.md"
+}

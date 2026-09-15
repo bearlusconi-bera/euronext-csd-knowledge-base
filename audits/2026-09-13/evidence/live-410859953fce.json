@@ -1,0 +1,20 @@
+{
+  "id": "410859953fce",
+  "url": "https://athens.euronext.com/sites/default/files/2025-12/RESOLUTION_Nr5-ATHEXCSD_383_24.11.2025_FORCE%208.12.2025.DOC.pdf",
+  "title": "ATHEXCSD Resolution 5",
+  "original_sha256": "4ebc4905414cd0ce1bbdfd92a44c4d42c72a1f898ab8d6c0a0d2c22a2139f56e",
+  "kind": "curated-document",
+  "audit_id": "410859953fce",
+  "retrieved_at_utc": "2026-09-13T16:14:21.421678+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2025-12/RESOLUTION_Nr5-ATHEXCSD_383_24.11.2025_FORCE%208.12.2025.DOC.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Thu, 04 Dec 2025 18:14:04 GMT",
+  "etag": "\"c6af0-645244b4da5ea\"",
+  "sha256": "4ebc4905414cd0ce1bbdfd92a44c4d42c72a1f898ab8d6c0a0d2c22a2139f56e",
+  "bytes": 813808,
+  "saved_path": "sources/410859953fce.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 49,
+  "text_path": "extracted/410859953fce.md"
+}

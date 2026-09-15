@@ -1,0 +1,20 @@
+{
+  "id": "0c80b5e41513",
+  "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_DMT_R2026.JUN_clean_20260122.en.pdf",
+  "title": "T2S Data Migration Tool Specification R2026.JUN (DMT)",
+  "original_sha256": "eecd16bdaf7f5adddd2524f3c3c41d5de233afa65218086af6ede3c978bf23b5",
+  "kind": "curated-document",
+  "audit_id": "0c80b5e41513",
+  "retrieved_at_utc": "2026-09-13T16:18:20.735184+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_DMT_R2026.JUN_clean_20260122.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Tue, 20 Jan 2026 13:58:14 GMT",
+  "etag": null,
+  "sha256": "eecd16bdaf7f5adddd2524f3c3c41d5de233afa65218086af6ede3c978bf23b5",
+  "bytes": 796228,
+  "saved_path": "sources/0c80b5e41513.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 62,
+  "text_path": "extracted/0c80b5e41513.md"
+}

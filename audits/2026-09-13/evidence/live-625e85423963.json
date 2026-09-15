@@ -1,0 +1,42 @@
+{
+  "url": "https://www.euronext.com/en/csd/strategic-projects/convergence-programme",
+  "kind": "official-hub",
+  "audit_id": "625e85423963",
+  "retrieved_at_utc": "2026-09-13T16:18:00.035353+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/csd/strategic-projects/convergence-programme",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": "Sun, 13 Sep 2026 10:15:51 GMT",
+  "etag": "W/\"1789294551\"",
+  "sha256": "c16fa13b3582472a47a59604f229d9bc784df3d21094dbf1ef981340a52b3094",
+  "bytes": 408369,
+  "saved_path": "sources/625e85423963.html",
+  "text_path": "extracted/625e85423963.txt",
+  "title": "\n              Euronext Securities CSD Convergence Programme\n            ",
+  "links": [
+    {
+      "title": "Our vision",
+      "url": "https://euronext.wistia.com/medias/q4gncvjdm8"
+    },
+    {
+      "title": "Client documentation",
+      "url": "https://www.euronext.com/en/csd/strategic-projects/programme-documentation"
+    },
+    {
+      "title": "Euronext Securities PTO - Convergence Newsletter- July2026.pdf",
+      "url": "https://www.euronext.com/sites/default/files/2026-07/es-pto_july2026.pdf"
+    },
+    {
+      "title": "Euronext Securities CPH - Convergence Newsletter - July2026.pdf",
+      "url": "https://www.euronext.com/sites/default/files/2026-07/es-cph_july2026.pdf"
+    },
+    {
+      "title": "Euronext Securities ATH - Convergence Newsletter - July2026",
+      "url": "https://www.euronext.com/sites/default/files/2026-07/es-ath_june2026.pdf"
+    },
+    {
+      "title": "convergence@euronext.com",
+      "url": "mailto:convergence@euronext.com"
+    }
+  ]
+}

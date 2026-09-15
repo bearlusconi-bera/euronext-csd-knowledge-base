@@ -1,0 +1,20 @@
+{
+  "id": "70cf046f2af0",
+  "url": "https://www.euronext.com/sites/default/files/2026-08/Euronext%20Securities%20MyEuronext%20Access%20Form_Client%20Version%20August%202026.pdf",
+  "title": "MyEuronext Access Form (August 2026)",
+  "original_sha256": "62ac20be0b02229c23ce08e238b89b6c3b85b937f7389705908cf6afee4a7a02",
+  "kind": "curated-document",
+  "audit_id": "70cf046f2af0",
+  "retrieved_at_utc": "2026-09-13T16:18:02.147751+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-08/Euronext%20Securities%20MyEuronext%20Access%20Form_Client%20Version%20August%202026.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Tue, 18 Aug 2026 07:29:09 GMT",
+  "etag": "W/\"278a1ff9ee11db0049e397e02eef1f53\"",
+  "sha256": "62ac20be0b02229c23ce08e238b89b6c3b85b937f7389705908cf6afee4a7a02",
+  "bytes": 371894,
+  "saved_path": "sources/70cf046f2af0.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 15,
+  "text_path": "extracted/70cf046f2af0.md"
+}

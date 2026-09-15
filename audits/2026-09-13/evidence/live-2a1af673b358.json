@@ -1,0 +1,20 @@
+{
+  "id": "2a1af673b358",
+  "url": "https://www.euronext.com/sites/default/files/2026-05/WFC%202025_0.pdf",
+  "title": "WFC Single Disclosure Report 2025",
+  "original_sha256": "eb4fce5efcc089a98de9c9a678f8369d52de8e4dee2f24f87eee72c584356a64",
+  "kind": "curated-document",
+  "audit_id": "2a1af673b358",
+  "retrieved_at_utc": "2026-09-13T16:14:17.588930+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-05/WFC%202025_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Thu, 07 May 2026 16:01:55 GMT",
+  "etag": "W/\"dcab36ec7f0a26d992d74487cfeb2f33\"",
+  "sha256": "eb4fce5efcc089a98de9c9a678f8369d52de8e4dee2f24f87eee72c584356a64",
+  "bytes": 961160,
+  "saved_path": "sources/2a1af673b358.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 110,
+  "text_path": "extracted/2a1af673b358.md"
+}

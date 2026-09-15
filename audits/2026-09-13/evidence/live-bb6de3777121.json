@@ -1,0 +1,54 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/euronext-securities-copenhagen-rule-book",
+  "kind": "official-hub",
+  "audit_id": "bb6de3777121",
+  "retrieved_at_utc": "2026-09-13T16:17:55.365549+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/euronext-securities-copenhagen-rule-book",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": "Sun, 13 Sep 2026 10:11:18 GMT",
+  "etag": "W/\"1789294278\"",
+  "sha256": "29e98f3f47af02312201b801d382d2ce523ee6803b645c8eff993f77350da5d3",
+  "bytes": 408512,
+  "saved_path": "sources/bb6de3777121.html",
+  "text_path": "extracted/bb6de3777121.txt",
+  "title": "\n              VP Rule Book\n            ",
+  "links": [
+    {
+      "title": "Part 1 - Definitions (PDF)",
+      "url": "https://www.euronext.com/sites/default/files/2025-03/es-cph_rule_book_part_1_definitions.pdf"
+    },
+    {
+      "title": "Part 2 - General Terms and Conditions (PDF)",
+      "url": "https://www.euronext.com/sites/default/files/2026-08/es_cph_rule_book_part_2_General_Terms_and_Conditions.pdf"
+    },
+    {
+      "title": "Part 3 - Book-entry Rules (PDF)",
+      "url": "https://www.euronext.com/sites/default/files/2026-08/es_cph_rule_book_part_%203_Book-entry%20Rules.pdf"
+    },
+    {
+      "title": "Part 4 - Settlement Rules (PDF)",
+      "url": "https://www.euronext.com/sites/default/files/2025-05/es-cph_rule_book_part_4_settlement_rules.pdf"
+    },
+    {
+      "title": "Part 5 - DCP Service Rules (PDF)",
+      "url": "https://www.euronext.com/sites/default/files/2023-08/Rule%20Book%20Part%205%20T2S%20DCP%20Service%20Rules.pdf"
+    },
+    {
+      "title": "Part 6 - FundHub Rules.pdf",
+      "url": "https://www.euronext.com/sites/default/files/2024-03/part_6_-_fundhub_rules.pdf"
+    },
+    {
+      "title": "Click here",
+      "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/insolvency"
+    },
+    {
+      "title": "+45 4358 8888",
+      "url": "tel:+45 4358 8888"
+    },
+    {
+      "title": "vp_legal@euronext.com",
+      "url": "mailto:vp_%6cega%6c@e%75ron%65xt.co%6d"
+    }
+  ]
+}

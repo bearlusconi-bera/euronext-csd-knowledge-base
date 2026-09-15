@@ -1,0 +1,54 @@
+{
+  "url": "https://www.finanstilsynet.no/tilsyn/infrastrukturforetak/",
+  "kind": "additional-authority",
+  "audit_id": "1ee1619da83d",
+  "retrieved_at_utc": "2026-09-13T16:19:34.749884+00:00",
+  "http_status": 200,
+  "final_url": "https://www.finanstilsynet.no/tilsyn/infrastrukturforetak/",
+  "content_type": "text/html; charset=utf-8",
+  "last_modified_http": null,
+  "etag": null,
+  "sha256": "39ac48acfda8ccfedc99e4e6aa2e73408ff940b72b79f3a4efc25d8f6ac26df3",
+  "bytes": 28280,
+  "saved_path": "sources/1ee1619da83d.html",
+  "text_path": "extracted/1ee1619da83d.txt",
+  "title": "\n\t\t\t\tInfrastrukturforetak\n\t\t\t",
+  "links": [
+    {
+      "title": "Rollefordelingen mellom Finanstilsynet og Norges Bank når det gjelder verdipapiroppgjørssystemer og sentrale motparter",
+      "url": "https://www.finanstilsynet.no/tilsyn/infrastrukturforetak/rollefordelingen-mellom-finanstilsynet-og-norges-bank---verdipapiroppgjorssystemer-og-sentrale-motparter/"
+    },
+    {
+      "title": "Brev til Finansdepartementet: Redegjørelse om samarbeidet mellom Finanstilsynet og Norges Bank",
+      "url": "https://www.finanstilsynet.no/contentassets/1983cfd43bc04285a54ca99571863da5/redegjorelse-om-samarbeidet-mellom-finanstilsynet-og-norges-bank.pdf"
+    },
+    {
+      "title": "Tilsynsrapporter og vedtak infrastrukturforetak",
+      "url": "https://www.finanstilsynet.no/tilsyn/infrastrukturforetak/tilsynsrapporter-infrastrukturforetak/"
+    },
+    {
+      "title": "Hvitvasking og terrorfinansiering",
+      "url": "https://www.finanstilsynet.no/tema/hvitvasking-og-terrorfinansiering/"
+    },
+    {
+      "title": "Tilsyn med finansforetakenes bruk av IT og betalingstjenester",
+      "url": "https://www.finanstilsynet.no/tema/tilsyn-med-it-og-betalingstjenester/"
+    },
+    {
+      "title": "Oppslag i virksomhetsregisteret",
+      "url": "https://www.finanstilsynet.no/virksomhetsregisteret/"
+    },
+    {
+      "title": "Konsesjon",
+      "url": "https://www.finanstilsynet.no/tillatelser/infrastrukturforetak/"
+    },
+    {
+      "title": "Rapportering",
+      "url": "https://www.finanstilsynet.no/rapportering/infrastrukturforetak/"
+    },
+    {
+      "title": "Regelverk",
+      "url": "https://www.finanstilsynet.no/regelverk/infrastrukturforetak/"
+    }
+  ]
+}

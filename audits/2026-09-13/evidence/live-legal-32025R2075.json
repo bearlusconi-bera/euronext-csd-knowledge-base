@@ -1,0 +1,680 @@
+{
+  "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075",
+  "id": "legal-32025R2075",
+  "kind": "existing-legal-text",
+  "original_id": "32025R2075",
+  "audit_id": "legal-32025R2075",
+  "retrieved_at_utc": "2026-09-13T16:30:24.781888+00:00",
+  "http_status": 200,
+  "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": null,
+  "etag": null,
+  "sha256": "50be639cb939b42d1f4d3920c089238b3a66b127711aaa90e261c3fd5b6a474b",
+  "bytes": 288482,
+  "saved_path": "sources/legal-32025R2075.html",
+  "text_path": "extracted/legal-32025R2075.txt",
+  "title": "Regulation - EU - 2025/2075 - EN - EUR-Lex Log in English",
+  "links": [
+    {
+      "title": "Skip to main content",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#MainContent"
+    },
+    {
+      "title": "",
+      "url": "https://european-union.europa.eu/index_en"
+    },
+    {
+      "title": "Log in My EUR-Lex",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "Sign in",
+      "url": "https://eur-lex.europa.eu/protected/homepage.html?url=%2Flegal-content%2FEN%2FTXT%2F%3Furi%3DCELEX%253A32025R2075"
+    },
+    {
+      "title": "Register",
+      "url": "https://ecas.ec.europa.eu/cas/eim/external/register.cgi/"
+    },
+    {
+      "title": "My recent searches (0)",
+      "url": "https://eur-lex.europa.eu/my-eurlex/my-queries.html#recentQueries"
+    },
+    {
+      "title": "English English",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "bgбългарски",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "esEspañol",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "csČeština",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "daDansk",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "deDeutsch",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "etEesti keel",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "elΕλληνικά",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "enEnglish",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "frFrançais",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "gaGaeilge",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "hrHrvatski",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "itItaliano",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "lvLatviešu valoda",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "ltLietuvių kalba",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "huMagyar",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "mtMalti",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "nlNederlands",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "plPolski",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "ptPortuguês",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "roRomână",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "skSlovenčina",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "slSlovenščina",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "fiSuomi",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "svSvenska",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "EUR-Lex",
+      "url": "https://eur-lex.europa.eu/homepage.html?lang=en"
+    },
+    {
+      "title": "<a href=\"https://eur-lex.europa.eu/content/help/eurlex-content/experimental-features.html\" target=\"_blank\">More about the experimental features corner</a>",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "",
+      "url": "https://eur-lex.europa.eu/experimental-features.html?action=confirmFeedback"
+    },
+    {
+      "title": "EUROPA",
+      "url": "https://europa.eu/european-union/index_en"
+    },
+    {
+      "title": "EUR-Lex home",
+      "url": "https://eur-lex.europa.eu/homepage.html"
+    },
+    {
+      "title": "Help",
+      "url": "https://eur-lex.europa.eu/content/help.html"
+    },
+    {
+      "title": "Search tips",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "Advanced search",
+      "url": "https://eur-lex.europa.eu/advanced-search-form.html"
+    },
+    {
+      "title": "Help",
+      "url": "https://eur-lex.europa.eu/content/help.html"
+    },
+    {
+      "title": "http://data.europa.eu/eli/reg/2025/2075/oj",
+      "url": "http://data.europa.eu/eli/reg/2025/2075/oj"
+    },
+    {
+      "title": "http://data.europa.eu/eli/reg/2025/2075/oj",
+      "url": "http://data.europa.eu/eli/reg/2025/2075/oj"
+    },
+    {
+      "title": "BG",
+      "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "ES",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "CS",
+      "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "DA",
+      "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "DE",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "ET",
+      "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "EL",
+      "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "EN",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "FR",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "GA",
+      "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "HR",
+      "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "IT",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "LV",
+      "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "LT",
+      "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "HU",
+      "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "MT",
+      "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "NL",
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "PL",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "PT",
+      "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "RO",
+      "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "SK",
+      "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "SL",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "FI",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "SV",
+      "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32025R2075"
+    },
+    {
+      "title": "BG",
+      "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "ES",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "CS",
+      "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "DA",
+      "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "DE",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "ET",
+      "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "EL",
+      "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "EN",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "FR",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "GA",
+      "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "HR",
+      "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "IT",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "LV",
+      "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "LT",
+      "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "HU",
+      "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "MT",
+      "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "NL",
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "PL",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "PT",
+      "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "RO",
+      "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "SK",
+      "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "SL",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "FI",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "SV",
+      "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "BG",
+      "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "ES",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "CS",
+      "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "DA",
+      "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "DE",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "ET",
+      "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "EL",
+      "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "EN",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "FR",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "GA",
+      "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "HR",
+      "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "IT",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "LV",
+      "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "LT",
+      "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "HU",
+      "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "MT",
+      "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "NL",
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "PL",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "PT",
+      "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "RO",
+      "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "SK",
+      "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "SL",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "FI",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "SV",
+      "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/PDF/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "BG",
+      "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "ES",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "CS",
+      "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "DA",
+      "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "DE",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "ET",
+      "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "EL",
+      "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "EN",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "FR",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "GA",
+      "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "HR",
+      "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "IT",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "LV",
+      "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "LT",
+      "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "HU",
+      "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "MT",
+      "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "NL",
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "PL",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "PT",
+      "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "RO",
+      "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "SK",
+      "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "SL",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "FI",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "SV",
+      "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/SIG/?uri=OJ:L_202502075"
+    },
+    {
+      "title": "How to verify the authenticity of the Official Journal",
+      "url": "https://eur-lex.europa.eu/content/help/oj/authenticity-eOJ.html"
+    },
+    {
+      "title": "(1)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntr1-L_202502075EN.000101-E0001"
+    },
+    {
+      "title": "(2)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntr2-L_202502075EN.000101-E0002"
+    },
+    {
+      "title": "(3)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntr3-L_202502075EN.000101-E0003"
+    },
+    {
+      "title": "(4)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntr4-L_202502075EN.000101-E0004"
+    },
+    {
+      "title": "(5)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntr5-L_202502075EN.000101-E0005"
+    },
+    {
+      "title": "(6)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntr6-L_202502075EN.000101-E0006"
+    },
+    {
+      "title": "(*1)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntr*1-L_202502075EN.000101-E0007"
+    },
+    {
+      "title": "(*1)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntc*1-L_202502075EN.000101-E0007"
+    },
+    {
+      "title": "OJ L 337, 23.12.2015, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2015:337:TOC"
+    },
+    {
+      "title": "http://data.europa.eu/eli/reg/2015/2365/oj",
+      "url": "http://data.europa.eu/eli/reg/2015/2365/oj"
+    },
+    {
+      "title": "(1)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntc1-L_202502075EN.000101-E0001"
+    },
+    {
+      "title": "OJ C, C/2025/2274, 14.4.2025, ELI: http://data.europa.eu/eli/C/2025/2274/oj",
+      "url": "https://data.europa.eu/eli/C/2025/2274/oj"
+    },
+    {
+      "title": "(2)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntc2-L_202502075EN.000101-E0002"
+    },
+    {
+      "title": "OJ C, C/2025/3203, 2.7.2025, ELI: http://data.europa.eu/eli/C/2025/3203/oj",
+      "url": "https://data.europa.eu/eli/C/2025/3203/oj"
+    },
+    {
+      "title": "(3)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntc3-L_202502075EN.000101-E0003"
+    },
+    {
+      "title": "(4)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntc4-L_202502075EN.000101-E0004"
+    },
+    {
+      "title": "OJ L 257, 28.8.2014, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2014:257:TOC"
+    },
+    {
+      "title": "http://data.europa.eu/eli/reg/2014/909/oj",
+      "url": "http://data.europa.eu/eli/reg/2014/909/oj"
+    },
+    {
+      "title": "(5)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntc5-L_202502075EN.000101-E0005"
+    },
+    {
+      "title": "",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2010:331:TOC"
+    },
+    {
+      "title": "OJ L 331, 15.12.2010, p. 84",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2010:331:TOC"
+    },
+    {
+      "title": "http://data.europa.eu/eli/reg/2010/1095/oj",
+      "url": "http://data.europa.eu/eli/reg/2010/1095/oj"
+    },
+    {
+      "title": "(6)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#ntc6-L_202502075EN.000101-E0006"
+    },
+    {
+      "title": "OJ L 65, 10.3.2017, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2017:065:TOC"
+    },
+    {
+      "title": "http://data.europa.eu/eli/reg_del/2017/389/oj",
+      "url": "http://data.europa.eu/eli/reg_del/2017/389/oj"
+    },
+    {
+      "title": "Top",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075#document1"
+    }
+  ]
+}

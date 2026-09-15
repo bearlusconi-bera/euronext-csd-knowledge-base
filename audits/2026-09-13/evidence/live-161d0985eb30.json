@@ -1,0 +1,70 @@
+{
+  "url": "https://www.euronext.com/en/csd/porto/documentation/operational-documentation",
+  "kind": "official-hub",
+  "audit_id": "161d0985eb30",
+  "retrieved_at_utc": "2026-09-13T16:17:59.635380+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/csd/porto/documentation/operational-documentation",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": "Sun, 13 Sep 2026 10:18:25 GMT",
+  "etag": "W/\"1789294705\"",
+  "sha256": "4af154678e1c4d4516136bf0d379c5d442b919a1d96429760c13930d4e29d392",
+  "bytes": 409521,
+  "saved_path": "sources/161d0985eb30.html",
+  "text_path": "extracted/161d0985eb30.txt",
+  "title": "\n              Operational documentation\n            ",
+  "links": [
+    {
+      "title": "Insolvency of an Interbolsa Participant - Manual of Procedures",
+      "url": "https://www.euronext.com/sites/default/files/2024-07/Junho%202024_%20Insolvency%20of%20an%20Interbolsa%20Participant%20-%20Manual%20of%20Procedures_VF.pdf"
+    },
+    {
+      "title": "Operational Manual of INTERBOLSA",
+      "url": "https://www.euronext.com/sites/default/files/2026-04/20260216_Manual%20Operativo_V43_EN.pdf"
+    },
+    {
+      "title": "Euronext Securities Porto CSD Links",
+      "url": "https://www.euronext.com/sites/default/files/2024-08/euronext_securities_porto_csd_links_march_2023.pdf"
+    },
+    {
+      "title": "STD 4.02 - External User Manual",
+      "url": "https://www.euronext.com/sites/default/files/2024-10/STD%204.02%20-%20External%20User%20Manual_Version%209.pdf"
+    },
+    {
+      "title": "Layouts of the files/messages available to Financial Intermediaries",
+      "url": "https://www.euronext.com/sites/default/files/2026-04/20260408_STD%20Layouts%20of%20the%20files%20messages%20available%20to%20Financial%20Intermediaries_v58.pdf"
+    },
+    {
+      "title": "EURONEXT SECURITIES CORPORATE EVENTS SERVICE - WHITE PAPER",
+      "url": "https://www.euronext.com/sites/default/files/2024-06/EURONEXT%20SECURITIES%20CORPORATE%20EVENTS%20SERVICE%20-%20WHITE%20PAPER_V1%20July%202023.pdf"
+    },
+    {
+      "title": "Subscription of Messages",
+      "url": "https://www.euronext.com/sites/default/files/2024-01/Subscription%20of%20Messages_0.pdf"
+    },
+    {
+      "title": "Layouts ISO 15022 Messages Specifications",
+      "url": "https://www.euronext.com/sites/default/files/2026-01/20260126_ISO%2015022%20Messages_EN_v9.pdf"
+    },
+    {
+      "title": "Layouts ISO 20022 Messages-Specifications",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/iso-20022-messages_v1.pdf"
+    },
+    {
+      "title": "Central Securities Depositories Regulation",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoDasCSDs.EN_.pdf"
+    },
+    {
+      "title": "Funds - Order Routing",
+      "url": "https://www.euronext.com/sites/default/files/2025-12/Funds_OrderRouting.pdf"
+    },
+    {
+      "title": "National Numbering Agency",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/NationalNumberingAgency.EN_.pdf"
+    },
+    {
+      "title": "STEP - Short Term European Paper",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/STEP.EN_.pdf"
+    }
+  ]
+}

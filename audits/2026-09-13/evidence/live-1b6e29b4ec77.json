@@ -1,0 +1,20 @@
+{
+  "url": "https://athens.euronext.com/sites/default/files/2025-11/RESOLUTION_11_ATHEXCSD-TAX_COLLECTION_SERVICES_383_24.11.2025_FORCE_8.12.2025.pdf",
+  "id": "1b6e29b4ec77",
+  "original_sha256": "f838681be84689059b7d7f3bd5e26077326a11dae58072b42075f4dbf597a65e",
+  "title": "ATHEXCSD Resolution 11",
+  "kind": "additional-existing-document",
+  "audit_id": "1b6e29b4ec77",
+  "retrieved_at_utc": "2026-09-13T16:19:33.362198+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2025-11/RESOLUTION_11_ATHEXCSD-TAX_COLLECTION_SERVICES_383_24.11.2025_FORCE_8.12.2025.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Thu, 27 Nov 2025 09:39:45 GMT",
+  "etag": "\"4653a-644904b0f670d\"",
+  "sha256": "f838681be84689059b7d7f3bd5e26077326a11dae58072b42075f4dbf597a65e",
+  "bytes": 288058,
+  "saved_path": "sources/1b6e29b4ec77.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 13,
+  "text_path": "extracted/1b6e29b4ec77.md"
+}

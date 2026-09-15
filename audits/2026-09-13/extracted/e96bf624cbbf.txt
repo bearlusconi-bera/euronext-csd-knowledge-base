@@ -1,0 +1,79 @@
+Payments and markets glossary
+ABCDEFGHILMNOPQRSTUVWZ
+All glossary entries
+Abbreviations
+Banking supervision
+ECB
+Macroprudential policy and financial stability
+Monetary policy
+Payments and markets
+Statistics
+IBAN
+See
+International Bank Account Number (IBAN)
+ICSD
+See
+international central securities depository (ICSD)
+IFTS
+See
+interbank funds transfer system (IFTS)
+immobilisation
+The placement of physical certificates for securities and financial instruments in a common depository or a central securities depository so that subsequent transfers can be made by book entry (i.e. by debiting and crediting holders’ accounts at the depository).
+indirect holding system
+A multi-tiered arrangement for the custody and transfer of ownership of securities (or the transfer of similar interests therein) in which investors are identified only at the level of their custodian. Antonym:
+direct holding system
+indirect link
+A link between two central securities depositories (CSDs) through a non-CSD intermediary. See also
+direct link,
+relayed link
+indirect participant
+A participant in a funds or securities transfer system with a tiering arrangement that uses a direct participant as an intermediary in order to perform some of the activities allowed in the system (particularly settlement). See also
+direct participant,
+tiering arrangement
+initial margin
+For instruments cleared by a central counterparty (CCP), the amount of collateral that each participant is required to provide to the CCP (or the clearing member) in order to cover potential losses in the event of that participant defaulting. The initial margin is calculated on the basis of a formula set by the CCP. See also
+haircut,
+margin
+integrity
+In the context of data, the quality of being protected against accidental or fraudulent alteration in transmission or in storage. Alternatively, the quality of indicating whether or not such alteration has occurred.
+integrity of a securities issue
+The result of legal requirements and securities accounting procedures ensuring that the number of securities issued is, at all times, equal to the total number of securities in circulation (i.e. validly booked in investors’ accounts).
+interbank funds transfer system (IFTS)
+A funds transfer system in which all (or almost all) participants are credit institutions.
+interchange fee
+A transaction fee payable between the payment service providers involved in a transaction.
+internal settlement
+Settlement that is effected through transfers of securities and/or funds on the books of a bank or investment firm, as opposed to settlement via an interbank funds transfer system or a central securities depository (CSD).
+International Bank Account Number (IBAN)
+An International Organization for Standardization (ISO) technical code that is an expanded version of the basic bank account number (BBAN). Intended for use internationally, the IBAN uniquely identifies an individual account at a specific financial institution in a particular country. The IBAN also includes the bank identifier of the financial institution servicing that account.
+international central securities depository (ICSD)
+A central securities depository (CSD) which was originally set up to settle Eurobond trades and is now active also in the settlement of internationally traded securities from various domestic markets, typically across currency areas. At present, there are two ICSDs located in EU countries: Clearstream Banking in Luxembourg and Euroclear Bank in Belgium.
+interoperability
+The set of arrangements/procedures that allows participants in different systems to conduct and settle payments or securities transactions across systems while continuing to operate only in their own respective systems.
+intraday credit (daylight credit)
+Credit extended and reimbursed within a single business day.
+intraday finality
+Final settlement achieved continuously or at various times in the course of the settlement day. Intraday finality can be provided through real-time settlement procedures and/or the settlement of the results of batch processing during the settlement day.
+intraday liquidity
+Funds which are available or can be borrowed during the business day in order to enable financial institutions to effect payments/settlement. Repayment of the funds borrowed should take place before the end of the business day. See also
+intraday credit,
+same-day funds
+investment firm
+Any entity whose regular occupation or business is the provision of one or more investment services to third parties and/or the performance of one or more investment activities on a professional basis.
+investor CSD
+A term used in the context of central securities depository (CSD) links. An investor CSD – or a third party acting on behalf of the investor CSD – opens an account in another CSD (the issuer CSD) so as to enable the cross-system settlement of securities transactions. See also
+central securities depository,
+CSD link,
+issuer CSD
+ISIN
+International Securities Identification Number
+issuer CSD (issuing CSD)
+A central securities depository (CSD) in which securities are issued (or immobilised). The issuer CSD opens accounts allowing investors (in a direct holding system) and/or intermediaries (including investor CSDs) to hold these securities. See also
+direct holding system,
+direct link,
+indirect holding system,
+investor CSD,
+relayed link
+issuing CSD
+See
+issuer CSD (issuing CSD)

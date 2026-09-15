@@ -1,0 +1,20 @@
+{
+  "id": "32e563898f54",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/Interbolsa%201_2026_%20Corporate%20Events.pdf",
+  "title": "INTERBOLSA Circular 1/2026",
+  "original_sha256": "160be1b4656352396768c0af6974646e20aaf285c1db3d6a2a046ce5b774f972",
+  "kind": "curated-document",
+  "audit_id": "32e563898f54",
+  "retrieved_at_utc": "2026-09-13T16:14:16.159659+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/Interbolsa%201_2026_%20Corporate%20Events.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Mon, 26 Jan 2026 16:38:36 GMT",
+  "etag": "W/\"c7d4b8035660fc860fb68c5e7cd7e64a\"",
+  "sha256": "160be1b4656352396768c0af6974646e20aaf285c1db3d6a2a046ce5b774f972",
+  "bytes": 246473,
+  "saved_path": "sources/32e563898f54.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 15,
+  "text_path": "extracted/32e563898f54.md"
+}

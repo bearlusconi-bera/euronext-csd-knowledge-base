@@ -1,0 +1,20 @@
+{
+  "id": "06c4d87911f6",
+  "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UHB_R2026.JUN_clean_20260122.en.pdf",
+  "title": "T2S User Handbook R2026.JUN (UHB)",
+  "original_sha256": "bb77f36cd75df3c79ab2ce8a107a1503086481ae1a27942f367cf3181bc71d98",
+  "kind": "curated-document",
+  "audit_id": "06c4d87911f6",
+  "retrieved_at_utc": "2026-09-13T16:18:18.173866+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UHB_R2026.JUN_clean_20260122.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Tue, 20 Jan 2026 13:51:51 GMT",
+  "etag": null,
+  "sha256": "bb77f36cd75df3c79ab2ce8a107a1503086481ae1a27942f367cf3181bc71d98",
+  "bytes": 18754514,
+  "saved_path": "sources/06c4d87911f6.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 1122,
+  "text_path": "extracted/06c4d87911f6.md"
+}

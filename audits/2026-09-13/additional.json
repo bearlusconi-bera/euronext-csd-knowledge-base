@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://athens.euronext.com/sites/default/files/2026-06/%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3_%CE%9B%CE%95%CE%99%CE%A4%CE%9F%CE%A5%CE%A1%CE%93%CE%99%CE%91%CE%A3_%CE%95%CE%9B%CE%9A%CE%91%CE%A4_7%CE%B7_%CE%A4%CF%81%CE%BF%CF%80%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7_383_24.11.2025_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_8.12.2025.pdf",
+    "id": "athens-greek-master",
+    "kind": "new-authoritative-original"
+  },
+  {
+    "url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%20Nr%2021%20-%20Participant%20Default%20%2030092024%20FORCE%2012042021.pdf",
+    "id": "207ccb1774e7",
+    "original_sha256": "0292becbe236bbd628fa6a55f42b17f0a009b185f55fd85b330f651a789ecfc4",
+    "title": "ATHEXCSD Resolution 21",
+    "kind": "additional-existing-document"
+  },
+  {
+    "url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%203%20ATHEXCSD%20-%20INITIAL%20RECORDING%2004092024%20FORCE%2004092024.pdf",
+    "id": "6a25a8048ba7",
+    "original_sha256": "724a38bdff73b95787b54087e2ce4d4df042cb7788031a4aa511293e9849c9e7",
+    "title": "ATHEXCSD Resolution 3",
+    "kind": "additional-existing-document"
+  },
+  {
+    "url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%209%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A312042021.pdf",
+    "id": "cfa670f7e37b",
+    "original_sha256": "72b85fd5f48de4cff8caf28583fb760f23cd0861c1ed59ba1c57ba1425c546d2",
+    "title": "ATHEXCSD Resolution 9",
+    "kind": "additional-existing-document"
+  },
+  {
+    "url": "https://athens.euronext.com/sites/default/files/2025-11/RESOLUTION_11_ATHEXCSD-TAX_COLLECTION_SERVICES_383_24.11.2025_FORCE_8.12.2025.pdf",
+    "id": "1b6e29b4ec77",
+    "original_sha256": "f838681be84689059b7d7f3bd5e26077326a11dae58072b42075f4dbf597a65e",
+    "title": "ATHEXCSD Resolution 11",
+    "kind": "additional-existing-document"
+  },
+  {
+    "url": "https://athens.euronext.com/sites/default/files/2024-05/Resolution%2022%20ATHEXCSD%2018122023%20as%20of%2019122023.pdf",
+    "id": "340651e9793e",
+    "original_sha256": "efbe1e439f427272ab5f282a30ee73e083a39f75cd6134fa485794f78b622a61",
+    "title": "ATHEXCSD Resolution 22",
+    "kind": "additional-existing-document"
+  },
+  {
+    "url": "https://www.euronext.com/it/csd/milan/membership/rules-instructions",
+    "kind": "additional-authority"
+  },
+  {
+    "url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_regelverket.pdf",
+    "kind": "additional-authority"
+  },
+  {
+    "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html?com.dotmarketing.htmlpage.language=102",
+    "kind": "additional-authority"
+  },
+  {
+    "url": "https://www.finanstilsynet.no/tilsyn/infrastrukturforetak/",
+    "kind": "additional-authority"
+  },
+  {
+    "url": "https://www.finanstilsynet.dk/lovgivning/eu-lovsamling/csdr",
+    "kind": "additional-authority"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=PI_COM%3AC%282026%294640",
+    "kind": "additional-authority"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202502075",
+    "kind": "additional-authority"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/shared/pdf/2025-10_T2S_Framework_Agreement_internet_published.pdf",
+    "kind": "additional-authority"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/services/glossary/html/act7i.en.html",
+    "kind": "additional-authority"
+  },
+  {
+    "url": "https://www.euronext.com/pt/csd/porto/legislacao-e-regulamentacao/nossas-regras",
+    "kind": "additional-authority"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "3c811cac5943",
+  "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_URD_R2026.JUN_clean_20260122.en.pdf",
+  "title": "T2S User Requirements Document R2026.JUN (URD)",
+  "original_sha256": "64e6d5c798647fc4247c29cf7aac17603f960f9319ca9dc9774905ad7a500f97",
+  "kind": "curated-document",
+  "audit_id": "3c811cac5943",
+  "retrieved_at_utc": "2026-09-13T16:18:20.675932+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_URD_R2026.JUN_clean_20260122.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Thu, 15 Jan 2026 17:06:23 GMT",
+  "etag": null,
+  "sha256": "64e6d5c798647fc4247c29cf7aac17603f960f9319ca9dc9774905ad7a500f97",
+  "bytes": 4397152,
+  "saved_path": "sources/3c811cac5943.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 639,
+  "text_path": "extracted/3c811cac5943.md"
+}

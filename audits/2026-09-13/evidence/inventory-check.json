@@ -1,0 +1,23 @@
+{
+  "catalogue_entries": 918,
+  "retained_records": 800,
+  "unique_contents": 787,
+  "curated_documents": 84,
+  "legal_captures": 14,
+  "pdf_pages": 29084,
+  "file_types": {
+    "pdf": 694,
+    "xlsx": 51,
+    "xls": 3,
+    "docx": 38,
+    "zip": 14
+  },
+  "default_true_documents": 49,
+  "default_true_without_text": [
+    "ac385b0f3106",
+    "535f6a23062a"
+  ],
+  "hash_errors": [],
+  "pdfs_with_low_text_pages": 98,
+  "low_text_page_total": 250
+}

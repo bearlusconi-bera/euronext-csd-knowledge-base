@@ -1,0 +1,106 @@
+[
+  {
+    "check": "All retained originals preserved",
+    "status": "PASS",
+    "detail": {
+      "checked": 800,
+      "changed_or_missing": []
+    }
+  },
+  {
+    "check": "Root manifests and explanations preserved",
+    "status": "PASS",
+    "detail": {
+      "checked": 15,
+      "changed_or_missing": []
+    }
+  },
+  {
+    "check": "One decision for every catalogue entry",
+    "status": "PASS",
+    "detail": 918
+  },
+  {
+    "check": "Unique decision IDs",
+    "status": "PASS",
+    "detail": 1335
+  },
+  {
+    "check": "No whole-document operational defaults",
+    "status": "PASS",
+    "detail": "All decision rows false; section proposals separate."
+  },
+  {
+    "check": "Source local paths resolve",
+    "status": "PASS",
+    "detail": []
+  },
+  {
+    "check": "At least 20 unique evidence-backed fixtures",
+    "status": "PASS",
+    "detail": 34
+  },
+  {
+    "check": "Retrieval results honestly NOT RUN",
+    "status": "PASS",
+    "detail": "No fabricated retrieval/model outcomes."
+  },
+  {
+    "check": "All five markets represented",
+    "status": "PASS",
+    "detail": {
+      "Milan": 15,
+      "Copenhagen": 15,
+      "Porto": 15,
+      "Oslo": 15,
+      "Athens": 15,
+      "EU trading venues / participants": 1,
+      "EU future settlement cycle": 1,
+      "T2S native infrastructure": 1,
+      "Two T2S CSDs": 1,
+      "Two securities legs": 1,
+      "T2S dated operations": 1,
+      "T2S November 2026 release": 1,
+      "European Offering / Convergence": 1
+    }
+  },
+  {
+    "check": "Coverage rows complete",
+    "status": "PASS",
+    "detail": {
+      "partial": 60,
+      "access-restricted": 2,
+      "covered": 14,
+      "unresolved": 6,
+      "missing": 1
+    }
+  },
+  {
+    "check": "Recorded PDF sample indices resolve",
+    "status": "PASS",
+    "detail": []
+  },
+  {
+    "check": "Relationship and allowlist sources resolve",
+    "status": "PASS",
+    "detail": []
+  },
+  {
+    "check": "Saved live evidence hashes match",
+    "status": "PASS",
+    "detail": {
+      "checked": 114,
+      "mismatch": []
+    }
+  },
+  {
+    "check": "User attachment identity",
+    "status": "PASS",
+    "detail": "Identity only; no full substantive audit of attachment."
+  },
+  {
+    "check": "CSV/JSON source decision parity",
+    "status": "PASS",
+    "detail": 1335
+  }
+]

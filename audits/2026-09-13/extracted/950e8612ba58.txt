@@ -1,0 +1,27 @@
+MyInterbolsa
+Comunicação com o Servidor.
+Informação pública sobre falhas de liquidação
+Legal Entity Identifier: 529900LG70TCAGWCXT47
+CSD: Interbolsa - Euronext Securities Porto
+Período de Reporte
+2025-01-01-2025-12-31
+2024-01-01-2024-12-31
+2023-01-01-2023-12-31
+2022-02-01-2022-12-31
+Sistema de Liquidação
+SLME – Sistema de Liquidação em Moeda Estrangeira
+SLRT – Sistema de Liquidação em Tempo Real
+Filtrar
+Recarregar
+Exportar
+CSV
+XML
+Excel
+N.º Instruções
+Valor ( € )
+Taxa N.º Instruções ( % )
+Taxa Valor ( % )
+Medidas para Melhorar a Eficiência da Liquidação:
+Implementação de todas as medidas identificadas na CSDR para a prevenção de falhas de liquidação
+Acompanhamento das falhas diárias
+Reuniões periódicas com os participantes para analisar as principais razões para as falhas de liquidação e identificar as medidas a ser implementadas

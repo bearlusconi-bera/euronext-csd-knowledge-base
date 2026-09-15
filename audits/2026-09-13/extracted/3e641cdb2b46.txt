@@ -1,0 +1,36 @@
+T2S Scope Defining Documents
+3 August 2026T2S Draft Scope Defining Documents for R2026.NOV - Market Review
+EnglishAnnexes3 August 2026T2S User Detailed Functional Specification R2026.NOV (UDFS) - Version in revision marks
+English3 August 2026T2S User Handbook R2026.NOV (UHB) - Version in revision marks
+English3 August 2026T2S Business Rules Extract R2026.NOV
+English3 August 2026T2S User Requirements Document R2026.NOV (URD) - Version in revision marks
+English3 August 2026T2S General Functional Specifications R2026.NOV (GFS) - Version in revision marks
+English3 August 2026T2S Data Migration Tool Specification R2026.NOV (DMT) - Version in revision marks
+English3 August 2026T2S Business Functionality for T2S Graphical User Interface R2026.NOV (BFD) - Version in revision marks
+English3 August 2026T2S UHB Sitemap R2026.NOV
+English3 August 2026T2S GFS-URD Cross Reference R2026.NOV - Version in revision marks
+English22 January 2026T2S Data Migration Tool Specification R2026.JUN (DMT)
+EnglishAnnexes22 January 2026DMT R2026.JUN Version in revision marks
+English22 January 2026Previous version T2S DMT R2025.NOV
+English22 January 2026T2S DMT R2026.JUN - Sample Files
+English22 January 2026T2S User Handbook R2026.JUN (UHB)
+EnglishAnnexes22 January 2026UHB R2026.JUN Version in revision marks
+English22 January 2026Previous version T2S UHB R2025.NOV
+English20 January 2026Sitemaps R2026.JUN
+English22 January 2026Cover note
+English22 January 2026T2S User Detailed Functional Specifications R2026.JUN (UDFS)
+EnglishAnnexes22 January 2026UDFS R2026.JUN Version in revision marks
+English22 January 2026Previous version T2S UDFS R2025.NOV
+English22 January 2026Business rules R2026.JUN
+English22 January 2026T2S General Functional Specifications R2026.JUN (GFS)
+EnglishAnnexes22 January 2026GFS R2026.JUN Version in revision marks
+English22 January 2026Previous version T2S GFS R2025.NOV
+English22 January 2026GFS - URD cross-reference
+English22 January 2026Business Functionality for T2S Graphical User Interface R2026.JUN (BFD)
+EnglishAnnexes22 January 2026BFD R2026.JUN Version in revision marks
+English22 January 2026Previous version T2S BFD R2025.NOV
+English22 January 2026T2S User Requirements Document R2026.JUN (URD)
+EnglishAnnexes22 January 2026URD R2026.JUN Version in revision marks
+English22 January 2026Previous version T2S URD R2025.NOV
+English
+All pages in this section

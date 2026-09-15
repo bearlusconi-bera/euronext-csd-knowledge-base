@@ -1,0 +1,1237 @@
+EUR-Lex - C(2026)4640 - EN - EUR-Lex
+×
+Skip to main content
+Log in
+My EUR-Lex
+My EUR-Lex
+Sign in
+Register
+My recent searches (0)
+English
+English
+Select your language
+Official EU languages:
+bgбългарски
+esEspañol
+csČeština
+daDansk
+deDeutsch
+etEesti keel
+elΕλληνικά
+enEnglish
+frFrançais
+gaGaeilge
+hrHrvatski
+itItaliano
+lvLatviešu valoda
+ltLietuvių kalba
+huMagyar
+mtMalti
+nlNederlands
+plPolski
+ptPortuguês
+roRomână
+skSlovenčina
+slSlovenščina
+fiSuomi
+svSvenska
+EUR-Lex
+Access to European Union law
+<a href="https://eur-lex.europa.eu/content/help/eurlex-content/experimental-features.html" target="_blank">More about the experimental features corner</a>
+Experimental features
+×
+Choose the experimental features you want to try
+Do you want to help improving EUR-Lex ? This is a list of experimental features that you can enable. These features are still under development; they are not fully tested, and might reduce EUR-Lex stability. Don't forget to give your feedback!
+Warning! Experimental feature conflicts detected.
+Replacement of CELEX identifiers by short titles - experimental feature. It replaces clickable CELEX identifiers of treaties and case-law by short titles.
+Visualisation of document relationships. It displays a dynamic graph with relations between the act and related documents. It is currently only available for legal acts.
+Deep linking. It enables links to other legal acts referred to within the documents. It is currently only available for documents smaller than 900 KB.
+Apply
+EUR-Lex
+Access to European Union law
+This document is an excerpt from the EUR-Lex website
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - C(2026)4640 - EN
+Help
+Print
+Menu
+Quick search
+Use quotation marks to search for an "exact phrase". Append an asterisk (*) to a search term to find variations of it (transp*, 32019R*). Use a question mark (?) instead of a single character in your search term to find variations of it (ca?e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document C(2026)4640
+Help
+Print
+​
+COMMISSION DELEGATED REGULATION (EU) …/... amending the regulatory technical standards laid down in Commission Delegated Regulation (EU) 2018/1229 of 25 May 2018 supplementing Regulation (EU) No 909/2014 of the European Parliament and of the Council with regard to regulatory technical standards on settlement discipline
+COMMISSION DELEGATED REGULATION (EU) …/... amending the regulatory technical standards laid down in Commission Delegated Regulation (EU) 2018/1229 of 25 May 2018 supplementing Regulation (EU) No 909/2014 of the European Parliament and of the Council with regard to regulatory technical standards on settlement discipline
+COMMISSION DELEGATED REGULATION (EU) …/... amending the regulatory technical standards laid down in Commission Delegated Regulation (EU) 2018/1229 of 25 May 2018 supplementing Regulation (EU) No 909/2014 of the European Parliament and of the Council with regard to regulatory technical standards on settlement discipline
+C/2026/4640 final
+Expand all
+Collapse all
+Dates
+Date of document:
+06/07/2026
+Miscellaneous information
+Author:
+European Commission
+Form:
+Delegated regulation
+Languages and formats available
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+DOC
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Language 1
+English (en)
+Bulgarian (bg)
+Spanish (es)
+Czech (cs)
+Danish (da)
+German (de)
+Estonian (et)
+Greek (el)
+English (en)
+French (fr)
+Irish (ga)
+Croatian (hr)
+Italian (it)
+Latvian (lv)
+Lithuanian (lt)
+Hungarian (hu)
+Maltese (mt)
+Dutch (nl)
+Polish (pl)
+Portuguese (pt)
+Romanian (ro)
+Slovak (sk)
+Slovenian (sl)
+Finnish (fi)
+Swedish (sv)
+Language 2
+Please choose
+Bulgarian (bg)
+Spanish (es)
+Czech (cs)
+Danish (da)
+German (de)
+Estonian (et)
+Greek (el)
+English (en)
+French (fr)
+Irish (ga)
+Croatian (hr)
+Italian (it)
+Latvian (lv)
+Lithuanian (lt)
+Hungarian (hu)
+Maltese (mt)
+Dutch (nl)
+Polish (pl)
+Portuguese (pt)
+Romanian (ro)
+Slovak (sk)
+Slovenian (sl)
+Finnish (fi)
+Swedish (sv)
+Language 3
+Please choose
+Bulgarian (bg)
+Spanish (es)
+Czech (cs)
+Danish (da)
+German (de)
+Estonian (et)
+Greek (el)
+English (en)
+French (fr)
+Irish (ga)
+Croatian (hr)
+Italian (it)
+Latvian (lv)
+Lithuanian (lt)
+Hungarian (hu)
+Maltese (mt)
+Dutch (nl)
+Polish (pl)
+Portuguese (pt)
+Romanian (ro)
+Slovak (sk)
+Slovenian (sl)
+Finnish (fi)
+Swedish (sv)
+Display
+Text
+EXPLANATORY MEMORANDUM
+1.CONTEXT OF THE DELEGATED ACT
+Regulation (EU) No 909/2014 (‘CSDR’)
+1
+harmonises the conduct of securities settlement in the Union and the rules governing central securities depositories (CSDs). One of the objectives of the CSDR is to incentivise a high level of settlement efficiency of securities transactions. Chapter III of the CSDR (“Settlement discipline”) introduces measures to prevent and address settlement fails and encourage market participants to settle transactions on the intended settlement date. These measures, commonly referred to as the settlement discipline regime, are key to ensuring financial stability, competitiveness of the EU capital market and its attractiveness towards savers and investors alike. An effective, efficient and proportionate settlement discipline regime is in line with the objectives of the Savings and Investment Union
+2
+, which aims to improve how the EU’s financial system channels savings to productive investment, providing a wider choice of efficient investment and financing opportunities for citizens and businesses.
+The settlement discipline regime combines measures to prevent (Article 6 of CSDR) and address settlement fails (Articles 7 and 7a of CSDR). The technical details of the settlement discipline regime are spelled out in secondary legislation, in particular Commission Delegated Regulation (EU) 2018/1229
+3
+.
+Regulation (EU) 2023/2845
+4
+(‘CSDR Refit’), which entered into force on 16 January 2024, amended Article 6(5) and Article 7(10) of the CSDR by introducing two mandates for the European Securities Markets Authority (ESMA) to develop, in close cooperation with members of the European System of Central Banks (ESCB), draft regulatory technical standards (RTS). Specifically, Article 6(5) of CSDR requires ESMA to specify the measures to prevent settlement fails to increase settlement efficiency, while Article 7(10) of the CSDR requests ESMA to specify, inter alia, the details of the system monitoring settlement fails.
+The EU recently also decided to shorten the settlement cycle for securities transactions to one day after the date of the trade (so-called T+1); the corresponding amendment to the CSDR will apply as of 11 October 2027
+5
+. There is a strong link between the amendments needed to enable the move to T+1 settlement and improvements in settlement efficiency. Implementing faster settlement cycles requires higher efficiency to be able to execute post-trade processes within a shorter time window. Stakeholders
+6
+argue that a move from the current T+2 settlement to T+1 may reduce the available post-trade processing time to 2 core business hours between the end of the trading window and the start of the settlement window. Therefore, the shortening of the settlement cycle necessitates adjustments throughout the post-trade process by standardising market conventions and automating processes. This will enable transactions to settle by T+1 and avoid cash penalties for failed transactions.
+In its report
+7
+on the advantages and disadvantages of such a move, ESMA set out a number of necessary adjustments
+8
+to enable T+1 settlement. Similarly, the T+1 Industry Committee, the industry body overseeing market preparations for T+1 settlement, published a T+1 Roadmap
+9
+. That Roadmap, which takes into account the current market arrangements, sets out the main process changes and improvements needed to make T+1 a successful reality on the EU capital market. ESMA has taken into consideration the recommendations of the T+1 Industry Committee set out in that Roadmap, but has opted to include in its draft regulatory technical standards only those issues that cannot be addressed by industry action and require regulatory intervention. The Authority has taken onboard the industry recommendations related to the matching and confirmation as well as settlement processes, where ensuring a consistent industry transition to electronic communication and processing offers the greatest benefits for settlement efficiency and a successful move to shorter settlement.
+In view of the above, on 13 October 2025, ESMA submitted to the Commission a draft regulatory technical standard, which proposes to amend the existing Commission Delegated Regulation (EU) 2018/1229
+10
+, by introducing measures that would support settlement efficiency in the EU and simultaneously pave the way for a smooth implementation of T+1 settlement on the EU capital market.
+Against this background, the CSDR, as amended by CSDR Refit, empowers the Commission to adopt, following submission of draft RTS by ESMA, and in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010
+11
+(‘ESMA Regulation’), a Delegated Regulation on settlement discipline.
+2.CONSULTATIONS PRIOR TO THE ADOPTION OF THE ACT
+ESMA undertook a public consultation
+12
+from 13 February 2025 to 14 April 2025. In addition to the responses
+13
+to that consultation, the amendments proposed by ESMA draw on its recent experience with the implementation of settlement discipline measures, the T+1 Industry Roadmap and engagement with the Market Infrastructure and Payments Committee (MIPC) of the ESCB. In their letter to ESMA, the MIPC took note of ESMA’s conclusion to not mandate the use of a single communication standard in the area of allocations and confirmations at the current juncture. However, the MIPC was of the view that this should not distract from further efforts towards standardisation. ESMA acknowledged in the text the benefits of standardisation.
+Together with the draft RTS, and in accordance with Article 10(1), third subparagraph, of the ESMA Regulation, ESMA submitted its impact assessment, including its analysis
+14
+of the costs and benefits of the draft regulatory standards.
+3.LEGAL ELEMENTS OF THE DELEGATED ACT
+The right to adopt a Commission Delegated Regulation is provided for under Article 6(5) and Article 7(10) of the CSDR. Under Article 6(5), the Commission is empowered to adopt RTS to specify the measures to prevent settlement fails to increase settlement efficiency. Under Article 7(10), the Commission is empowered to adopt RTS to define the details of the system monitoring settlement fails and the report on settlement fails. Fulfilling these mandates requires amendments to Commission Delegated Regulation (EU) 2018/1229 (hereafter ‘the RTS’) through an amending Delegated Regulation.
+The amending Delegated Regulation introduces the following amendments to the RTS:
+·Article 1 sets out the following amendments to the RTS:
+·Article 1, point (1), amends Article 2 of the RTS. It adds buy-sell back transactions or sell-buy back transactions to the list of transactions that must be specified in the allocation instructions for securities or cash and expands the list of items specified in allocations sent by professional clients to investment firms to align them with the matching fields of settlement instructions. The amendments also set out specific technical requirements to ensure smooth communication in the settlement process. The amendment to Article 2(2) of the RTS specifies the timing for written allocations and confirmations. Lastly, the amendment to Article 2(3) of the RTS requires investment firms to ensure their professional clients provide settlement reference data in a standardised, electronic machine-readable format and to keep that information updated.
+·Article 1, point (2), replaces Article 3 of the RTS and specifies that investment firms shall require retail clients to send them all relevant settlement information no later than by 23:00 CET on the business day on which the transaction has taken place.
+·Article 1, point (3), amends Article 5(4) by adding buy-sell back transactions and sell-buy back transactions to the list of transaction types that CSD participants should identify in their settlement instructions. The amendment to Article 5(4) of the RTS requires CSD participants to specify in their settlement instructions the place of trading where the underlying transaction was executed. A new Article 5(5) of the RTS sets out the timeline for the provision of settlement instructions by CSD participants.
+·Article 1, point (4), amends Article 8, point (b), of the RTS to further specify that a settlement instruction put on hold can be totally or partially released.
+·Article 1, point (5), replaces Article 10 of the RTS, introducing a requirement for CSDs to enable auto-partial settlement and the conditions for its use.
+·Article 1, point (6), amends Article 11(4) of the RTS to mandate CSDs to offer participants real-time gross settlement (RTGS) or a minimum of three settlement batches per business day.
+·Article 1, point (7), replaces Article 12 of the RTS to require CSDs to facilitate their participants access to intra-day cash credit secured with collateral via an automated collateralisation functionality.
+·Article 1, point (8), amends Article 13(1), point (a), of the RTS and the details of the system for monitoring settlement fails to clarify that the reason for settlement fail should be based on the information directly available to the CSD or communicated to it by its participants. The amendment of Article 13(1), point (d), of the RTS adds buy-sell back transactions and sell-buy back transactions to the type of transactions that are affected by a settlement fail. A new Article 13(1a) of the RTS requires CSD participants to report to the CSD the main reasons for settlement fails and measures to address them. Lastly, the amendment to Article 13(2) of the RTS requires CSDs and participants with the most significant impact on the settlement system to not only analyse the main reasons for settlement fails (as is the case now), but also specify how these will be addressed.
+·Article 1, point (9), amends Article 14 of the RTS, specifically it amends:
+·Article 14(1) of the RTS to require CSDs to communicate to competent and relevant authorities the information referred to in Annex I to the RTS, including measures planned or taken by CSDs and their participants to improve settlement efficiency;
+·Article 14(2) of the RTS to require CSDs to monitor the measures planned or taken by them or their participants to improve settlement efficiency;
+·Article 14(3) of the RTS to require CSDs to report in a standardised, electronic format - structured in a way that software applications can easily identify, recognise and extract specific data - to competent authorities the information referred to in paragraph 1 of that Article.
+·Article 1, point (10), corrects a cross reference in Article 23(2) of the RTS.
+·Article 1, point (11), amends Annex I to the RTS and specifies information on settlement fails to be reported by CSDs to the competent and relevant authorities. The amendment to Annex I, Table 2 of the RTS adds buy-sell back and sell-buy back transactions and place of trading for each type of financial instrument listed in that Table on daily data on settlement fails.
+·Article 1, point (12), deletes Annex II to the RTS.
+·Article 1, point (13), amends Annex III to the RTS to expand the data to be reported for different types of financial instruments, with respect to value and volume of settlement fails, and to add a field on the main reasons for settlement fails and proposed measures to address them.
+·Article 2 sets the date of entry into force and the dates of applicability of different measures.
+COMMISSION DELEGATED REGULATION (EU) …/...
+of 6.7.2026
+amending the regulatory technical standards laid down in Commission Delegated Regulation (EU) 2018/1229 of 25 May 2018 supplementing Regulation (EU) No 909/2014 of the European Parliament and of the Council with regard to regulatory technical standards on settlement discipline
+(Text with EEA relevance)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012
+15
+, and in particular Article 6(5) and Article 7(10) thereof,
+Whereas:
+(1)Regulation (EU) 2025/2075 of the European Parliament and of the Council
+16
+amended Article 5(2) of Regulation (EU) No 909/2014 by removing buy-sell back transactions and sell-buy back transactions from the scope of that provision. It is therefore necessary to update the list of transaction types, laid down in Article 2(1) of Delegated Regulation (EU) 2018/1229, that are to be submitted as part of written allocations.
+(2)Experience gained since the date of application of Delegated Regulation (EU) 2018/1229 has highlighted the importance of aligning, to the greatest extent possible, the data fields required for allocations and confirmations with those required for settlement instructions. That experience has also demonstrated that, to avoid late-stage adjustments which are particularly critical in the context of a shortened settlement cycle, the place of settlement should be communicated as early as possible in the settlement process.
+(3)To ensure that transactions can be settled without delay, investment firms should require their professional clients to provide accurate and up-to-date static or reference data, including information on the accounts to which financial instruments and cash are to be credited, the relevant market or place of settlement, and the custodians or intermediaries through which communication is to be routed sufficiently in advance of the intended settlement date. For the same reason, that requirement should also apply to settlement information sent by retail clients.
+(4)To maintain high settlement efficiency as transaction volumes increase, and to ensure the timely settlement of trades, the widespread use of straight-through processing (STP) across the market should be ensured. To that end, both direct and indirect market participants should have in place the necessary internal automation to fully benefit from available STP solutions. It is therefore appropriate to replace the current possibility for professional clients to send written allocations and confirmations electronically with a requirement for investment firms to ensure that such communications are transmitted in an electronic and machine-readable format.
+(5)Furthermore, the benefits of STP cannot be fully realised where market participants continue to use proprietary or domestic messaging standards, while central securities depositories (CSDs) operate on the basis of international open communication procedures and standards. To promote interoperability and efficiency, the use of international open communication procedures and standards for messaging and reference data should be extended to the transmission of allocations and confirmations.
+(6)The move to shorter settlement should not lead to large-scale migration of settlement from trading venues to over-the-counter markets. That is why CSDs and their participants should use a field indicating the place of trading in their settlement instructions to support monitoring and reporting of settlement fails.
+(7)Regulation (EU) 2025/2075 amended Article 5(2) of Regulation (EU) No 909/2014 by reducing the settlement period from two business days after the trading takes place to one business day. That amendment necessitates adjustments throughout the post-trade process, and in particular as regards the existing possibility under Article 2(2), point (b), of Commission Delegated Regulation (EU) 2018/1229
+17
+for professional clients to provide written allocation and written confirmations to investment firms by 12.00 CET on the business day following that on which the transaction has taken place. Timely submission of settlement instructions is essential to enable CSDs to improve operational efficiency and maximise netting in view of the transition to a T+1 settlement cycle. In that context, some CSDs operate settlement phases during which optimisation algorithms are used to settle as many transactions as possible. CSDs should encourage participants willing to benefit from such optimisation to submit their settlement instructions before 23:59 CET on the trade date. However, the submission of settlement instructions after that time should not prevent CSDs from processing those settlement instructions, nor give rise to the application of cash penalties, which only apply when the conditions of Article 7(2) of Regulation (EU) 909/2014 are met.
+(8)To further support settlement efficiency and to be compatible with the acceleration and automation required for a shortened settlement cycle, all CSDs should offer a functionality that enables automatic partial settlement. However, as that functionality is not necessary in all cases, participants to the transactions should have the possibility to opt out of that functionality.
+(9)Different modes of settlement offer distinctive benefits. Real-time gross settlement minimises counterparty risk and credit exposure and liquidity can be managed more effectively, while settlement batches allow operational efficiencies by netting. CSDs should therefore offer one of the three possibilities: real-time gross settlement, at least three settlement batches per business day, or a combination of both.
+(10)CSDs should have sound and efficient system functionalities, policies and procedures that enable them to facilitate and incentivise settlement on the intended settlement date. The effective contribution to settlement efficiency by auto-partial settlement and by the hold and release functionalities has become evident since the application of the settlement discipline regime. It is therefore appropriate to remove the derogation from certain measures to prevent settlement fails, laid down in Article 12 of Delegated Regulation (EU) 2018/1229.
+(11)The provision of intra-day cash credit secured with collateral in central bank money or in commercial bank money provides significant liquidity for settlement. Those benefits could be of the upmost importance during the initial implementation of shorter settlement. That is why CSDs should facilitate access by their participants to the provision of intra-day cash credit secured with collateral via an automated collateralisation functionality. That requirement should not apply to CSDs holding a banking licence that directly provide their participants with intra-day cash credit secured with collateral, rather than merely facilitating access to such functionality.
+(12)To enable CSDs to identify the root causes of settlement fails, CSDs should require participants to inform them about the main reasons for such settlement fails and about the measures taken to prevent such settlement fails. In addition, in light of the changes introduced by Regulation (EU) 2025/2075 which tasks the European Securities and Markets Authority (‘ESMA’) with closely monitoring the settlement efficiency of securities financing transactions traded on or outside trading venues, it is necessary to add buy-sell back transactions and sell-buy back transaction to the list of transactions to be part of settlement fails monitoring.
+(13)To establish working arrangements with participants to reduce settlement fails, CSDs should be able to identify participants whose settlement fails may have a significant impact. To identify such participants, a CSD should take into account the share of a participant’s settlement fails in the total volume and value of settlement instructions processed at the level of the securities settlement system operated by the CSD. If not, smaller participants with few transactions may find themselves in the top failing participants list if their settlement fail rate is considered in absolute terms.
+(14)Monitoring and addressing settlement fails is a common effort involving the competent and relevant authorities, CSDs and their participants. CSDs should therefore regularly inform the competent authority and relevant authorities about the evolution of settlement fails in the settlement system they operate and about the measures they have undertaken to address those settlement fails. For the same reason, CSDs should ensure that their participants undertake planned efforts to improve settlement efficiency.
+(15)To allow for a more detailed monitoring of settlement efficiency, CSDs should report top failing participants in terms of volume and value of settlement instructions processed. For the same reason, CSDs should report settlement fails data by taking into account more granular categories of transactions, irrespective of whether the transactions are executed on or outside of trading venues and the duration of settlement fails by type of financial instruments.
+(16)In light of the principle of simplification and burden reduction, it is important to avoid any potential duplications in the reporting requirements. For that reason, and given that the information is already covered in the monthly reports that CSDs have to submit, the requirement for CSDs to submit annual reports on settlement fails should be removed. Where necessary, the competent authority should be able to request more frequent reporting and additional information on settlement fails from the CSD.
+(17)To ensure a higher level of transparency, CSDs should publish settlement fails data by type of financial instrument, the main reasons for settlement fails, and the proposed measures to address them.
+(18)The structural and organisational adjustments required by the transition to a shorter settlement cycle necessitate a differentiated approach to the dates of application of the various provisions of this Delegated Regulation. More in particular, the date of application should be deferred for provisions that contain requirements that involve IT developments, including CSDs’ functionalities aimed at enhancing settlement efficiency. At the same time, provisions introducing shorter timeframes for pre-settlement processes that support the transition to a T+1 settlement cycle should start to apply at an earlier stage so that market participants have sufficient time for testing well in advance of the move to T+1.
+(19)Other amendments, and more specifically those concerning the reporting and disclosure of settlement fails data by CSDs, should start to apply a few months ahead of the move to T+1 laid down in Article 5(2) of Regulation (EU) No 909/2014. Because ESMA is to report on settlement efficiency upon request from the Commission, adequate information about settlement fails before and after the transition to T+1 is critical. In that context, sufficient time should be given to CSDs and market participants to enable them to report data in line with the additional parameters laid down in Annex I and II to this Delegated Regulation, while providing for a sufficiently long observation period to meaningfully assess the impact on settlement efficiency, prior to and after the move to shorter settlement.
+(20)Commission Delegated Regulation (EU) 2018/1229 should therefore be amended accordingly.
+(21)This Regulation is based on the draft regulatory technical standards submitted to the Commission by ESMA.
+(22)ESMA has conducted open public consultations on the draft regulatory technical standards on which this Regulation is based, analysed the potential related costs and benefits as part of the consultation paper and requested the advice of the Securities and Markets Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1095/2010 of the European Parliament and of the Council
+18
+. Furthermore, in developing its recommendations ESMA engaged with the Market Infrastructure and Payments Committee of the European System of Central Banks (ESCB), in accordance with Article 10 of Regulation (EU) No 1095/2010,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Amendments to Delegated Regulation (EU) 2018/1229
+Delegated Regulation (EU) 2018/1229 is amended as follows:
+(1)Article 2 is amended as follows:
+(a)paragraph 1 is amended as follows:
+(i)
+the first subparagraph is amended as follows:
+(1)in point (a), the following point (vi) is added:
+‘(vi)
+buy-sell back transactions or sell-buy back transactions;’;
+(2)points (i) to (k) are deleted;
+(3)the following points (m) to (p) are added:
+‘(m) the settlement amount of cash that is to be delivered or received;
+(n) the identifier of the participant that delivers the financial instruments or cash;
+(o) the identifier of the participant that receives the financial instruments or cash;
+(p) the place of settlement (‘PSET’).’;
+(ii)
+the third and fourth subparagraphs are replaced by the following:
+‘Professional clients shall send their written allocations using an electronic standardised communication method structured so that software applications can easily identify, recognise and extract specific data, including individual statements of fact, and their internal structure.
+Investment firms that have received confirmation of the execution of a transaction order placed by a professional client shall ensure through contractual arrangements that the professional client confirms its acceptance of the terms of the transaction in writing, using an electronic standardised communication method structured so that software applications can easily identify, recognise and extract specific data, including individual statements of fact, and their internal structure, within the timeframes set out in paragraph 2. That written confirmation may also be included in the written allocation.
+The use of communication methods that are not structured and thus prevent software applications to easily identify, recognise and extract both specific data, including individual statements of fact, and their internal structure, shall only be permitted in cases of temporary technical unavailability or service disruption, provided that such circumstances are duly documented and resolved without undue delay.
+Investment firms shall require their professional clients to send the written allocation and written confirmation using the international open communication procedures and standards referred to in Article 2(1), point (34), of Regulation (EU) No 909/2014.
+Investment firms shall require their professional clients to apply the cash tolerance levels established by the relevant CSD in accordance with Article 6 of this Regulation when reporting the total amount of cash to be delivered or received in their written allocations.’;
+(b)
+paragraphs 2 and 3 are replaced by the following:
+‘2. Professional clients shall ensure that the investment firm receives the written allocations and written confirmations referred to in paragraph 1 as soon as possible and by no later than 23:00 CET on the business day on which the transaction has taken place.
+Investment firms shall confirm receipt of the written allocation and of the written confirmation within two hours of that receipt. Investment firms that receive the written allocation and the written confirmation within less than one hour before their close of business shall confirm receipt of the written allocation and of the written confirmation within one hour after the start of business on the next business day.
+3. Investment firms shall require their professional clients to provide all reference data necessary to settle a trade in a standardised, electronic format, and structured in such a way that software applications can easily identify, recognise and extract specific data, including individual statements of fact, and their internal structure. Investment firms shall also require their professional clients to keep those reference data updated sufficiently in advance to ensure timely settlement of transactions. Investment firms that receive the information referred to in paragraph 1 in advance of the timeframe referred to in paragraph 2 may agree in writing with their professional clients that the written allocations and written confirmations concerned are not to be sent.’;
+(2)Article 3 is replaced by the following:
+‘Article 3
+Measures concerning retail clients
+Investment firms shall require their retail clients to send them all the relevant settlement information for the transactions referred to in Article 5(1) of Regulation (EU) No 909/2014 as soon as possible and by no later than by 23:00 CET on the business day on which the transaction has taken place, unless that client holds the relevant financial instruments and cash at the same investment firm.’;
+(3)Article 5 is amended as follows:
+(a)paragraph 4 is replaced by the following:
+‘4. In addition to the fields referred to in paragraph 3, CSDs shall require their participants to use the following fields in their settlement instructions:
+(a)a field indicating the transaction type based on the following taxonomy:
+(i)purchase or sale of securities;
+(ii)collateral management operations;
+(iii)securities lending/borrowing operations;
+(iv)repurchase transactions;
+(v)buy-sell back transactions or sell-buy back transactions;
+(vi)other transactions (which can be identified by more granular ISO codes as provided by the CSD);
+(b)a field indicating the place of trading which shall be populated by the Market Identifier Code (‘MIC’) of the trading venue where the underlying transaction was executed.
+For the purposes of point (b), where the MIC does not apply, participants shall use other codes based on the international open communication procedures and standards for messaging and reference data referred to in Article 2(1), point (34), of Regulation (EU) No 909/2014 to populate the respective field.’;
+(b)the following paragraph 5 is added:
+‘5. CSDs shall require participants to send settlement instructions as soon as possible and where feasible by 23:59 CET on the business day on which the transaction has taken place.’;
+(4)in Article 8, point (b) is replaced by the following:
+‘(b)
+a release mechanism that allows for pending settlement instructions that have been blocked by the instructing participant to be totally or partially released for the purpose of settlement.’;
+(5)Article 10 is replaced by the following:
+‘Article 10
+Auto partial settlement
+CSDs shall have a functionality that enables the automatic partial settlement of a transaction based on the availability of securities in the deliverer’s account, without requiring manual intervention. Matched settlement instructions shall be eligible for such auto partial settlement, unless one of the participants opts out from partial settlement.’;
+(6)in Article 11, paragraph 4 is replaced by the following:
+‘4. CSDs shall offer participants real-time gross settlement or a minimum of three settlement batches per business day, or a combination of both. The settlement batches shall be spread across the business day in accordance with market needs, based on the request by the user committee of the CSD.’;
+(7)Article 12 is replaced by the following:
+‘Article 12
+Automated collateralisation functionality
+CSDs shall facilitate access by their participants to intra-day cash credit secured with collateral via an automated collateralisation functionality. CSDs that have a banking licence may directly provide intra-day credit themselves via an automated collateralisation functionality.’;
+(8)Article 13 is amended as follows:
+(a)paragraph 1 is amended as follows:
+(i)
+point (a) is replaced by the following:
+‘(a)
+the reason for the settlement fail, based on the information directly available to the CSD, or communicated to it by its participants;’;
+(ii)
+in point (d), the following point (vi) is added:
+‘(vi)
+buy-sell back transactions or sell-buy back transactions;’;
+(b)the following paragraph 1a is inserted:
+‘1a. CSDs shall require the participants referred to in fields 17 and 18 of Table 1 in Annex I to report to them, on a monthly basis, the main reasons for settlement fails and the measures to address such settlement fails.’;
+(c)paragraph 2 is replaced by the following:
+‘2. CSDs shall establish working arrangements with the participants referred to in fields 17 and 18 of Table 1 in Annex I which have the most significant impact on their securities settlement systems and, where applicable, with relevant CCPs and trading venues to analyse and address, to the extent possible, the main reasons for the settlement fails.’;
+(9)Article 14 is replaced by the following:
+‘Article 14
+Reporting settlement fails
+1. CSDs shall communicate to the competent authority and the relevant authorities the information referred to in Annex I, including the measures planned or taken by those CSDs and their participants to improve the settlement efficiency of the securities settlement systems they operate. They shall communicate that information on a monthly basis and by close of business on the fifth business day of the following month.
+That information referred to in the first subparagraph shall include the relevant values in EUR. Any value conversion into EUR shall be carried out using the ECB’s official exchange rate of the last day of the reporting period, where that exchange rate is available.
+CSDs shall report more frequently and provide additional information on settlement fails where requested by the competent authority.
+2. CSDs shall regularly monitor the application of the measures they and their participants planned or took to improve the settlement efficiency of the securities settlement systems they operate and shall provide the competent authority and the relevant authorities, upon request, with any relevant findings resulting from such monitoring.
+3. CSDs shall provide the information referred to in paragraph 1 in a standardised, electronic format, structured so that software applications can easily identify, recognise and extract specific data, including individual statements of fact, and their internal structure.
+4. The value of settlement instructions referred to in Annexes I and III shall be calculated as follows:
+(a)in the case of settlement instructions against payment, the settlement amount of the cash leg;
+(b)in the case of FoP settlement instructions, the market value of the financial instruments referred to in Article 32(3) or, where not available, the nominal value of the financial instruments.’;
+(10)Article 23 is replaced by the following:
+‘Article 23
+Application of partial settlement
+1. Where, on the last business day of the extension period referred to in Article 7(3) of Regulation (EU) No 909/2014, some of the relevant financial instruments are available for delivery to the receiving participant, the receiving and failing clearing members, trading venue members or trading parties, as applicable, shall partially settle the initial settlement instruction.
+2. Paragraph 1 shall not apply where the relevant settlement instruction is put on hold in accordance with Article 8.’;
+(11)Annex I to Delegated Regulation (EU) 2018/1229 is amended in accordance with Annex I to this Regulation;
+(12)Annex II to Delegated Regulation (EU) 2018/1229 is deleted;
+(13)Annex III to Delegated Regulation (EU) 2018/1229 is amended in accordance with Annex II to this Regulation.
+Article 2
+Entry into force and application
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+It shall start to apply from 7 December 2026. However, Article 1, point (3)(a) as regards the amendment to Article 5(4), point (b), of Delegated Regulation (EU) 2018/1229, (8)(a)(i), (8)(b), (8)(c), (9), (11), (12) and (13) shall apply from 1 July 2027. Article 1, points (3)(b), (4), (5), (6), (7) and point (10) shall apply from 11 October 2027.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 6.7.2026
+For the Commission
+The President
+Ursula VON DER LEYEN
+(1)
+Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directive 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (OJ L 257, 28.8.2014, p. 1).
+(2)
+“Savings and Investment Union – A strategy to foster citizens’ wealth and economic competitiveness in the EU”, COM(2025) 124 final.
+(3)
+Commission Delegated Regulation (EU) 2018/1229 with regard to regulatory technical standards on settlement discipline.
+(4)
+Regulation (EU) 2023/2845 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories
+(5)
+Regulation (EU) 2025/2075 amending Regulation (EU) No 909/2014 as regards a shorter settlement cycle in the Union.
+(6)
+“T+1 settlement in Europe: Potential benefits and challenges”, AFME, September 2022
+(7)
+ESMA assessment of the shortening of the settlement cycle in the European Union, European Securities and Markets Authority, ESMA74-2119945925-1969, 18 November 2024. The report was mandated by CSDR Refit.
+(8)
+Ibid. See Chapter 3.3 “Detailed outline of how to move to a shorter settlement cycle”.
+(9)
+High-level Roadmap to T+1 securities settlement in the EU, EU T+1 Industry Committee, 30 June 2025
+(10)
+Final Report on amendments to the RTS on settlement discipline, European Securities and Markets Authority, ESMA74-2119945926-3430, 13 October 2025
+(11)
+Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84).
+(12)
+Consultation paper on the amendments to the RTS on settlement discipline, European Securities and Markets Authority, ESMA74-2119945925-2117
+(13)
+For a summary of the public consultation responses see “Annex I – Summary of the responses to the consultation” in Final Report on amendments to the RTS on settlement discipline, European Securities and Markets Authority, ESMA74-2119945926-3430, 13 October 2025
+(14)
+See Annex III. Final Report on amendments to the RTS on settlement discipline, European Securities and Markets Authority, ESMA74-2119945926-3430, 13 October 2025
+(15)
+OJ L 257, 28.8.2014, p. 1, ELI: http://data.europa.eu/eli/reg/2014/909/oj.
+(16)
+Regulation (EU) 2025/2075 of the European Parliament and of the Council of 8 October 2025 amending Regulation (EU) No 909/2014 as regards a shorter settlement cycle in the Union (OJ L, 2025/2075, 14.10.2025, ELI: http://data.europa.eu/eli/reg/2025/2075/oj).
+(17)
+Commission Delegated Regulation (EU) 2018/1229 of 25 May 2018 supplementing Regulation (EU) No 909/2014 of the European Parliament and of the Council with regard to regulatory technical standards on settlement discipline (OJ L 230, 13.9.2018, p. 1, ELI:
+http://data.europa.eu/eli/reg_del/2018/1229/oj
+).
+(18)
+Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84, ELI:
+http://data.europa.eu/eli/reg/2010/1095/oj
+).
+Top
+ANNEX I
+Annex I is amended as follows:
+(1)
+in Table 1, rows 17, 18 and 41 are replaced by the following:‘
+17.
+Top 10 participants with the highest rates of settlement fails during the period covered by the report (based on number of settlement instructions), ranked based on the proportion of the settlement fails caused by each participant, compared to the overall number of settlement instructions at the level of the securities settlement system.
+For each participant identified by LEI
+Participant LEI
+ISO 17442 Legal Entity Identifier (LEI) 20 alphanumerical character code
+Total number of settlement instructions at the level of the securities settlement system during the period covered by the report
+Up to 20 numerical characters reported as whole numbers without decimals
+Number of settlement fails per participant
+Up to 20 numerical characters reported as whole numbers without decimals
+Percentage of settlement fails
+Percentage value up to 2 decimal places
+Total value (EUR) of settlement instructions per participant
+Up to 20 numerical characters including decimals. At least one character before and one character after the decimal mark shall be populated. The decimal mark is not counted as a numerical character
+Value (EUR) of settlement fails per participant
+Up to 20 numerical characters including decimals. At least one character before and one character after the decimal mark shall be populated. The decimal mark is not counted as a numerical character
+Rate of settlement fails
+Percentage value up to 2 decimal places.
+18.
+Top 10 participants with the highest rates of settlement fails during the period covered by the report (based on value (EUR) of settlement instructions), ranked based on the proportion of the settlement fails caused by each participant, compared to the overall value of settlement instructions at the level of the securities settlement system
+For each participant identified by LEI
+Participant LEI
+ISO 17442 Legal Entity Identifier (LEI) 20 alphanumerical character code
+Total value (EUR) of settlement instructions at the level of the securities settlement system during the period covered by the report
+Up to 20 numerical characters including decimals. At least one character before and one character after the decimal mark shall be populated. The decimal mark is not counted as a numerical character
+Value (EUR) of settlement fails per participant
+Up to 20 numerical characters including decimals. At least one character before and one character after the decimal mark shall be populated. The decimal mark is not counted as a numerical character
+Percentage of settlement fails
+Percentage value up to 2 decimal places
+Total number of settlement instructions per participant
+Up to 20 numerical characters reported as whole numbers without decimals.
+Number of settlement fails per participant
+Up to 20 numerical characters reported as whole numbers without decimals.
+Rate of settlement fails
+Percentage value up to 2 decimal places.
+41
+Average duration of settlement fails as number of days (difference between actual settlement date and intended settlement date, weighted for the value of the settlement fail) by type of financial instruments and overall
+Number of days reported as a number with one decimal.’
+(2) Table 2 is replaced by the following:
+Table 2
+Daily data on settlement fails to be reported by CSDs to the competent authorities and relevant authorities on a monthly basis
+Date (for each reporting day in the month)
+Failure to deliver securities
+Failure to deliver cash
+Settlement fails
+Total Instructions
+Rate of fails
+Settlement fails
+Total Instructions
+Rate of fails
+Volume
+Value (€)
+Volume
+Value (€)
+Volume
+Value (€)
+Volume
+Value (€)
+Volume
+Value (€)
+Volume
+Value (€)
+Place of trading
+1
+Type of financial instruments
+Type of transaction
+Internal vs Cross-system
+Type of instruction
+Transferable securities referred to in point (a) of Article 4(1)(44) of Directive 2014/65/EU
+Purchase or sale of financial instruments
+Intra-CSD
+DVP
+2
+DWP
+3
+PFOD
+4
+FoP
+5
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Collateral management operations
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Securities lending and securities borrowing
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Repurchase transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Buy-sell back or sell-buy back
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Other transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Sovereign debt referred to in Article 4(1)(61) of Directive 2014/65/EU
+Purchase or sale of financial instruments
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Collateral management operations
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Securities lending and securities borrowing
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Repurchase transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Buy-sell back or sell-buy back
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Other transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Transferable securities referred to in point (b) of Article 4(1)(44) of Directive 2014/65/EU other than sovereign debt referred to in Article 4(1)(61) of Directive 2014/65/EU
+Purchase or sale of financial instruments
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Collateral management operations
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Securities lending and securities borrowing
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Repurchase transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Buy-sell back or sell-buy back
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Other transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Transferable securities referred to in point (c) of Article 4(1)(44) of Directive 2014/65/EU
+Purchase or sale of financial instruments
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Collateral management operations
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Securities lending and securities borrowing
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Repurchase transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Buy-sell back or sell-buy back
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Other transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Exchange-traded funds as defined in point (46) of Article 4(1) of Directive 2014/65/EU
+Purchase or sale of financial instruments
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Collateral management operations
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Securities lending and securities borrowing
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Repurchase transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Buy-sell back or sell-buy back
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Other transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Units in collective investment undertakings, other than ETFs
+Purchase or sale of financial instruments
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Collateral management operations
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Securities lending and securities borrowing
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Repurchase transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Buy-sell back or sell-buy back
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Other transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Money market instruments other than Sovereign debt referred to in Article 4(1)(61) of Directive 2014/65/EU
+Purchase or sale of financial instruments
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Collateral management operations
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Securities lending and securities borrowing
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Repurchase transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Buy-sell back or sell-buy back
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Other transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Emission allowances
+Purchase or sale of financial instruments
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Collateral management operations
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Securities lending and securities borrowing
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Repurchase transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Buy sell-back or sell buy-back
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Other transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Other financial instruments
+Purchase or sale of financial instruments
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Collateral management operations
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Securities lending and securities borrowing
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Repurchase transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Buy-sell back or sell-buy back
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+Other transactions
+Intra-CSD
+DVP
+DWP
+PFOD
+FoP
+Cross-CSD
+DVP
+DWP
+PFOD
+FoP
+ANNEX II
+In Table 1 of Annex III to Delegated Regulation (EU) 2018/1229, the following rows are added:
+‘
+Data covering types of financial instruments
+19.
+Number of settlement instructions for each type of financial instruments
+For each type of financial instruments: Up to 20 numerical characters reported as whole numbers without decimals.
+20.
+Number of settlement fails (covering both settlement fails for lack of securities and lack of cash) for each type of financial instruments
+For each type of financial instruments: Up to 20 numerical characters reported as whole numbers without decimals.
+21.
+Annual rate of settlement fails for each type of financial instruments, based on volume (number of settlement fails/number of settlement instructions for each type of financial instruments)
+For each type of financial instruments the rate shall be expressed as a percentage value up to 2 decimal places.
+22.
+Value (EUR) of settlement instructions for each type of financial instruments
+For each type of financial instruments the value shall be expressed using up to 20 numerical characters including decimals. At least one character before and one character after the decimal mark shall be populated. The decimal mark is not counted as a numerical character.
+23.
+Value (EUR) of settlement fails (covering both settlement fails for lack of securities and lack of cash) for each type of financial instruments
+For each type of financial instruments the value shall be expressed using up to 20 numerical characters including decimals. At least one character before and one character after the decimal mark shall be populated. The decimal mark is not counted as a numerical character.
+24.
+Annual rate of settlement fails for each type of financial instruments, based on value (value of settlement fails/value of settlement instructions for each type of financial instruments
+For each type of financial instrument, the rate shall be expressed as a percentage value up to 2 decimal places
+25.
+Main reasons for settlement fails and proposed measures to address them
+Free text
+’
+(1)
+This column shall be filled in with the Market Identifier Code (‘MIC’) of the trading venue where the underlying transaction was executed; where the MIC does not apply, other codes based on the international open communication procedures and standards for messaging and reference data referred to in Article 2(1), point (34), of Regulation (EU) No 909/2014 shall be used.
+(2)
+Covers DVP and RVP settlement instructions
+(3)
+Covers DWP and RWP settlement instructions
+(4)
+Covers DPFOD and CPFOD settlement instructions
+(5)
+Covers DFP and RFP settlement instructions
+Top
+×
+Timeline legend
+Initial legal act
+Another version
+Selected version
+Selected version application period
+Hidden intermediate versions
+Version which is applicable today
+Future version
+All

@@ -1,0 +1,105 @@
+Lover og regler
+Euronext Securities Oslo (ES-OSL) virksomhet reguleres og er underlagt tilsyn av Finanstilsynet.
+Aktuelle lover
+Verdipapirsentralloven av 15. mars 2019 nr. 6
+Klikk her
+Forskrift av 18. desember 2019 nr. 1900 om verdipapirsentraler og verdipapiroppgjør
+Klikk her
+Lov om betalingssystemer (betalingssystemloven)
+Klikk her
+Lov om allmennaksjeselskaper (allmennaksjeloven)
+Klikk her
+ES-OSL har tillatelse som verdipapirsentral etter CSDR
+Euronext Securities Oslo har fra 1. mars 2022 oppnådd CSD-autorisasjonen i henhold til Central Securities Depository Regulation (CSDR).
+Tillatelse
+Offentliggjøring av Settlement Fails Article 15 Delegated Regulation (EU) 2018/1229 – 2022
+XLSX
+Euronext Securities Oslo Settlement Fails 2025 - Article 15
+English
+Version
+English
+15/02/2024
+Euronext Securities Oslo Settlement Fails 2025 - Article 15
+/sites/default/files/2026-02/Euronext%20Securities%20Oslo%20-%20Settlement%20Fails%202025%20-%20Article15.xlsx
+Central Security Depository Regulation (CSDR)
+Forordning (EU) nr. 909/2014 av 23. juli 2014 om forbedring av verdipapiroppgjør i Den europeiske union og om verdipapirsentraler er innført i norsk lov i lov av 15. mars 2019 nr. 6 om verdipapirsentraler og verdipapiroppgjør mv (verdipapirsentralloven).
+ES-OSL fikk CSDR-autorisasjon fra 1. mars 2022, og fra da av vil den nye verdipapirsentralloven og CSDR gjelde for markedsaktører i det norske markedet.
+ES-OSL har etablert nye regler for CSD-aktivitetene som gjelder fra denne datoen.
+14/01/2025
+PDF
+ES-OSL - Registerregelverk i kraft 4. februar 2025.pdf
+Norwegian
+Version
+/sites/default/files/2025-01/es-osl_-_registerregelverk_-_i_kraft_4_februar_2025_0.pdf
+14/01/2025
+ES-OSL - Registerregelverk i kraft 4. februar 2025.pdf
+Norwegian
+jnordgard@euro…
+14/01/2025
+PDF
+Euronext Securities Participant Default Policy
+English
+Version
+/sites/default/files/2025-05/ES-OSL%20Participants%20Default%20Procedure.pdf
+Euronext Securities Participant Default Policy
+English
+Bart
+19/07/2023
+PDF
+Service Level Agreement til Registerregelverk i kraft under CSDR
+Norwegian
+Version
+/sites/default/files/2022-09/Service-Level-Agreement-til-Registerregelverk-i-kraft-under-CSDR.pdf
+Service Level Agreement til Registerregelverk i kraft under CSDR
+Norwegian
+niamh.smith@de…
+26/09/2022
+PDF
+Bilag A – SLA til Registerregelverk i kraft under CSDR
+Norwegian
+Version
+/sites/default/files/2022-09/Bilag-A-SLA-til-Registerregelverk-i-kraft-under-CSDR.pdf
+Bilag A – SLA til Registerregelverk i kraft under CSDR
+Norwegian
+niamh.smith@de…
+26/09/2022
+02/09/2024
+PDF
+ES-OSL VPS NOK Regelverket.pdf
+English
+Version
+/sites/default/files/2024-09/240902_es-osl_vpo_nok_regelverket.pdf
+02/09/2024
+ES-OSL VPS NOK Regelverket.pdf
+English
+spaulsen@euron…
+02/09/2024
+ES-OSLs verdipapiroppgjørssystem VPO NOK er godkjent av Finanstilsynet i henhold til betalingssystemloven og er et utpekt betalings- og verdipapiroppgjørssystem som er notifisert i henhold til artikkel 10(1) i finalitetsdirektivet (98/26/EF).
+Veiledning til VPS’ regelverk
+Euronext Securities Oslo (ES-OSL) har utarbeidet en veiledning som er ment å gi en oversikt over bestemmelser i Euronext Securities Oslo’s Regelverk for registreringsvirksomheten og tilknyttede tilleggstjenester, som er særlig relevante for innehavere av konto i verdipapirregisteret.
+Veiledning
+LEI – Legal Entity Identifier
+Den internasjonale ordningen, Global Legal Entity Identifier System, er etablert etter initiativ fra G20-landene og Financial Stability Board. LEI er en unik global 20 alfanumerisk kode. Denne brukes for å identifisere juridiske enheter som deltar i finansielle transaksjoner og i forbindelse med rapporteringer i finansmarkedet.
+Implementering av Legal Entity Identifier (LEI) og jurisdiksjon er et krav bl.a. for
+Utstedere
+Oppgjørsdeltakere og Registerførere
+En juridisk enhet kan kun ha én LEI og denne gjelder i hele verden.
+Les mer
+Åpenhetsloven
+Åpenhetsloven skal fremme respekt for grunnleggende menneskerettigheter og anstendige arbeidsforhold, og støtter det generelle ønsket om mer åpenhet om produksjon av varer og tjenesteyting på disse områdene. Ettersom Euronext Securities Oslo er underlagt åpenhetsloven, gjennomfører Euronext Securities Oslo aktsomhetsvurderinger for å vurdere risikoen for brudd på grunnleggende menneskerettigheter eller anstendig arbeidsmiljø både i egen virksomhet, men også gjennom vår leverandørkjede og samarbeidspartnere. Disse due diligences gjennomføres regelmessig, og redegjørelse av disse vurderingene publiseres. Du finner lenker til disse uttalelsene nedenfor:Klikk her for å se redegjørelse (kun engelsk)
+Spørsmål eller anmodninger om ytterligere informasjon i forbindelse med åpenhetsloven sendes til OSL-clientsupport@euronext.com
+Prisliste
+I vår prisliste finner du oversikt over priser for de mest benyttede tjenester knyttet til det å være kontofører investor, kontofører utsteder og oppgjørsdeltaker i Euronext Securities Oslo. Vi gjør oppmerksom på at prislisten ikke inneholder priser for våre fondstjenester
+Euronext Securities Oslo Prisliste (Gjeldende fra januar 2026)
+Price policy (kun Engelsk)
+Vedtekter
+I våre vedtekter vil du finne utfyllende detaljer om Euronext Securities Oslo.
+Vedtekter
+Mandater
+Euronext Securities Oslo – Account Operators Compliance Committee Mandate. Les det nedenfor.
+Account Operators Compliance Committee Mandate
+Personvernerklæring
+Vi håndterer dine personopplysninger i samsvar med den europeiske personvernforordningen (GDPR) og den norske personopplysningsloven.
+Vi behandler personopplysninger i ulike funksjoner og for forskjellige formål. I noen tilfeller fungerer vi som behandlingsansvarlig, mens vi i andre tilfeller fungerer som databehandler på vegne av våre kunder. Vi er behandlingsansvarlig for personopplysningene vi mottar i egenskap av verdipapirsentral, for eksempel data om alle investorer.
+Du kan finne mer informasjon om hvordan vi behandler dine personopplysninger nedenfor.
+Download Euronext Securities Oslo Privacy Statement

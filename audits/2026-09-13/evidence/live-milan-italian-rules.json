@@ -1,0 +1,59 @@
+{
+  "url": "https://www.euronext.com/it/csd/milan/membership/regolamento-istruzioni",
+  "id": "milan-italian-rules",
+  "kind": "official-hub",
+  "audit_id": "milan-italian-rules",
+  "retrieved_at_utc": "2026-09-13T16:30:44.011997+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/it/csd/milan/membership/regolamento-istruzioni",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": "Sun, 13 Sep 2026 11:13:29 GMT",
+  "etag": "W/\"1789298009\"",
+  "sha256": "ef647da15d8f4df4ad995f38c9045c49ef33dc1d031b9676cfda0e70125424cb",
+  "bytes": 388560,
+  "saved_path": "sources/milan-italian-rules.html",
+  "text_path": "extracted/milan-italian-rules.txt",
+  "title": "\n              Regolamento & Istruzioni\n            ",
+  "links": [
+    {
+      "title": "Modifiche al Regolamento dei Servizi - in vigore dal 26 gennaio 2026",
+      "url": "https://www.euronext.com/sites/default/files/2026-01/AOS_20.01.2026%20%28ITA%29.pdf"
+    },
+    {
+      "title": "Regolamento dei Servizi - in vigore dal 26 gennaio 2026",
+      "url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ITA_senza%20evidenza_26012026.pdf"
+    },
+    {
+      "title": "Regolamento dei Servizi con evidenza delle modifiche - in vigore dal 26 gennaio 2026",
+      "url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ITA_con%20evidenza_26012026.pdf"
+    },
+    {
+      "title": "Modifiche alle Istruzioni al Regolamento - in vigore dal 7 ottobre 2025",
+      "url": "https://www.euronext.com/sites/default/files/2025-10/modifiche%20istruzioni%20GA_ETF_FINAL_07.10.2025.pdf"
+    },
+    {
+      "title": "Istruzioni dei Servizi della Gestione Accentrata - in vigore dal 7 ottobre 2025",
+      "url": "https://www.euronext.com/sites/default/files/2025-10/02%20Istruzioni%20Gestione%20Accentrata_SENZA%20EVIDENZA_07102025.pdf"
+    },
+    {
+      "title": "Instruzioni del Servizio di Gestione Accentrata con evidenza delle modifiche - in vigore dal 7 ottobre 2025",
+      "url": "https://www.euronext.com/sites/default/files/2025-10/02%20Istruzioni%20Gestione%20Accentrata_CON%20EVIDENZA_07102025.pdf"
+    },
+    {
+      "title": "Modifiche alle Istruzioni al Regolamento dei Servizi - in vigore dal 30 giugno 2025",
+      "url": "https://www.euronext.com/sites/default/files/2025-06/Stralcio%20modifiche%20Istruzioni%20Servizio%20di%20Liquidazione%20BITA%20migration_PUBBLICAZIONE.pdf"
+    },
+    {
+      "title": "Istruzioni del Servizio di Liquidazione e dei servizi accessori - in vigore dal 30 giugno 2025",
+      "url": "https://www.euronext.com/sites/default/files/2025-07/03%20Istruzioni%20Servizio%20di%20Liquidazione_30062025_SENZA%20evidenza.pdf"
+    },
+    {
+      "title": "Istruzioni del Servizio di Liquidazione e dei servizi accessori (con evidenza delle modifiche) - in vigore dal 30 giugno 2025",
+      "url": "https://www.euronext.com/sites/default/files/2025-07/03%20Istruzioni%20Servizio%20di%20Liquidazione_30062025_con%20evidenza.pdf"
+    },
+    {
+      "title": "Istruzioni al Servizio RCC",
+      "url": "https://www.euronext.com/sites/default/files/2021-05/4350_ITA_4%20Istruzioni%20al%20Servizio%20RCC_18122019.pdf"
+    }
+  ]
+}

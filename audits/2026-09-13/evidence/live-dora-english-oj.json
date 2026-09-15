@@ -1,0 +1,1075 @@
+{
+  "id": "dora-english-oj",
+  "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng",
+  "kind": "replacement-legal",
+  "audit_id": "dora-english-oj",
+  "retrieved_at_utc": "2026-09-13T16:36:44.590126+00:00",
+  "http_status": 200,
+  "final_url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": null,
+  "etag": null,
+  "sha256": "ab6a69009048a936ae5bda807d2516d66eca3df98772612ee0476e28aaa54c75",
+  "bytes": 1013008,
+  "saved_path": "sources/dora-english-oj.html",
+  "text_path": "extracted/dora-english-oj.txt",
+  "title": "Regulation - 2022/2554 - EN - DORA - EUR-Lex Log in English",
+  "links": [
+    {
+      "title": "Skip to main content",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#MainContent"
+    },
+    {
+      "title": "",
+      "url": "https://european-union.europa.eu/index_en"
+    },
+    {
+      "title": "Log in My EUR-Lex",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "Sign in",
+      "url": "https://eur-lex.europa.eu/protected/homepage.html?url=%2Feli%2Freg%2F2022%2F2554%2Foj%2Feng"
+    },
+    {
+      "title": "Register",
+      "url": "https://ecas.ec.europa.eu/cas/eim/external/register.cgi/"
+    },
+    {
+      "title": "My recent searches (0)",
+      "url": "https://eur-lex.europa.eu/my-eurlex/my-queries.html#recentQueries"
+    },
+    {
+      "title": "English English",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "bgбългарски",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "esEspañol",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "csČeština",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "daDansk",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "deDeutsch",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "etEesti keel",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "elΕλληνικά",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "enEnglish",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "frFrançais",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "gaGaeilge",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "hrHrvatski",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "itItaliano",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "lvLatviešu valoda",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "ltLietuvių kalba",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "huMagyar",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "mtMalti",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "nlNederlands",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "plPolski",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "ptPortuguês",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "roRomână",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "skSlovenčina",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "slSlovenščina",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "fiSuomi",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "svSvenska",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "EUR-Lex",
+      "url": "https://eur-lex.europa.eu/homepage.html?lang=en"
+    },
+    {
+      "title": "<a href=\"https://eur-lex.europa.eu/content/help/eurlex-content/experimental-features.html\" target=\"_blank\">More about the experimental features corner</a>",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "",
+      "url": "https://eur-lex.europa.eu/experimental-features.html?action=confirmFeedback"
+    },
+    {
+      "title": "EUROPA",
+      "url": "https://europa.eu/european-union/index_en"
+    },
+    {
+      "title": "EUR-Lex home",
+      "url": "https://eur-lex.europa.eu/homepage.html"
+    },
+    {
+      "title": "Help",
+      "url": "https://eur-lex.europa.eu/content/help.html"
+    },
+    {
+      "title": "Search tips",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng"
+    },
+    {
+      "title": "Advanced search",
+      "url": "https://eur-lex.europa.eu/advanced-search-form.html"
+    },
+    {
+      "title": "Help",
+      "url": "https://eur-lex.europa.eu/content/help.html"
+    },
+    {
+      "title": "http://data.europa.eu/eli/reg/2022/2554/oj",
+      "url": "http://data.europa.eu/eli/reg/2022/2554/oj"
+    },
+    {
+      "title": "BG",
+      "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "ES",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "CS",
+      "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "DA",
+      "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "DE",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "ET",
+      "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "EL",
+      "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "EN",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "FR",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "GA",
+      "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "HR",
+      "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "IT",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "LV",
+      "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "LT",
+      "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "HU",
+      "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "MT",
+      "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "NL",
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "PL",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "PT",
+      "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "RO",
+      "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "SK",
+      "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "SL",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "FI",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "SV",
+      "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "BG",
+      "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "ES",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "CS",
+      "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "DA",
+      "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "DE",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "ET",
+      "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "EL",
+      "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "EN",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "FR",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "GA",
+      "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "HR",
+      "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "IT",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "LV",
+      "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "LT",
+      "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "HU",
+      "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "MT",
+      "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "NL",
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "PL",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "PT",
+      "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "RO",
+      "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "SK",
+      "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "SL",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "FI",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "SV",
+      "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "BG",
+      "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "ES",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "CS",
+      "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "DA",
+      "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "DE",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "ET",
+      "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "EL",
+      "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "EN",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "FR",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "GA",
+      "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "HR",
+      "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "IT",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "LV",
+      "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "LT",
+      "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "HU",
+      "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "MT",
+      "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "NL",
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "PL",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "PT",
+      "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "RO",
+      "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "SK",
+      "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "SL",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "FI",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "SV",
+      "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/PDF/?uri=CELEX:32022R2554"
+    },
+    {
+      "title": "BG",
+      "url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "ES",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "CS",
+      "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "DA",
+      "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "DE",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "ET",
+      "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "EL",
+      "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "EN",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "FR",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "GA",
+      "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "HR",
+      "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "IT",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "LV",
+      "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "LT",
+      "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "HU",
+      "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "MT",
+      "url": "https://eur-lex.europa.eu/legal-content/MT/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "NL",
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "PL",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "PT",
+      "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "RO",
+      "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "SK",
+      "url": "https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "SL",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "FI",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "SV",
+      "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "(1)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr1-L_2022333EN.01000101-E0001"
+    },
+    {
+      "title": "(2)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr2-L_2022333EN.01000101-E0002"
+    },
+    {
+      "title": "(3)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr3-L_2022333EN.01000101-E0003"
+    },
+    {
+      "title": "(4)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr4-L_2022333EN.01000101-E0004"
+    },
+    {
+      "title": "(5)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr5-L_2022333EN.01000101-E0005"
+    },
+    {
+      "title": "(6)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr6-L_2022333EN.01000101-E0006"
+    },
+    {
+      "title": "(7)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr7-L_2022333EN.01000101-E0007"
+    },
+    {
+      "title": "(8)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr8-L_2022333EN.01000101-E0008"
+    },
+    {
+      "title": "(9)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr9-L_2022333EN.01000101-E0009"
+    },
+    {
+      "title": "(10)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr10-L_2022333EN.01000101-E0010"
+    },
+    {
+      "title": "(11)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr11-L_2022333EN.01000101-E0011"
+    },
+    {
+      "title": "(12)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr12-L_2022333EN.01000101-E0012"
+    },
+    {
+      "title": "(13)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr13-L_2022333EN.01000101-E0013"
+    },
+    {
+      "title": "(14)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr14-L_2022333EN.01000101-E0014"
+    },
+    {
+      "title": "(15)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr15-L_2022333EN.01000101-E0015"
+    },
+    {
+      "title": "(16)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr16-L_2022333EN.01000101-E0016"
+    },
+    {
+      "title": "(17)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr17-L_2022333EN.01000101-E0017"
+    },
+    {
+      "title": "(18)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr18-L_2022333EN.01000101-E0018"
+    },
+    {
+      "title": "(19)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr19-L_2022333EN.01000101-E0019"
+    },
+    {
+      "title": "(20)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr20-L_2022333EN.01000101-E0020"
+    },
+    {
+      "title": "(21)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr21-L_2022333EN.01000101-E0021"
+    },
+    {
+      "title": "(22)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr22-L_2022333EN.01000101-E0022"
+    },
+    {
+      "title": "(23)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr23-L_2022333EN.01000101-E0023"
+    },
+    {
+      "title": "(24)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr24-L_2022333EN.01000101-E0024"
+    },
+    {
+      "title": "(25)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr25-L_2022333EN.01000101-E0025"
+    },
+    {
+      "title": "(26)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr26-L_2022333EN.01000101-E0026"
+    },
+    {
+      "title": "(27)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr27-L_2022333EN.01000101-E0027"
+    },
+    {
+      "title": "(28)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr28-L_2022333EN.01000101-E0028"
+    },
+    {
+      "title": "(29)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr29-L_2022333EN.01000101-E0029"
+    },
+    {
+      "title": "(30)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr30-L_2022333EN.01000101-E0030"
+    },
+    {
+      "title": "(31)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr31-L_2022333EN.01000101-E0031"
+    },
+    {
+      "title": "(32)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr32-L_2022333EN.01000101-E0032"
+    },
+    {
+      "title": "(33)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr33-L_2022333EN.01000101-E0033"
+    },
+    {
+      "title": "(34)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr34-L_2022333EN.01000101-E0034"
+    },
+    {
+      "title": "(35)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr35-L_2022333EN.01000101-E0035"
+    },
+    {
+      "title": "(36)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr36-L_2022333EN.01000101-E0036"
+    },
+    {
+      "title": "(37)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr37-L_2022333EN.01000101-E0037"
+    },
+    {
+      "title": "(38)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr38-L_2022333EN.01000101-E0038"
+    },
+    {
+      "title": "(39)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr39-L_2022333EN.01000101-E0039"
+    },
+    {
+      "title": "(*1)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr*1-L_2022333EN.01000101-E0040"
+    },
+    {
+      "title": "(*1)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc*1-L_2022333EN.01000101-E0040"
+    },
+    {
+      "title": "OJ L 333, 27.12.2022, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "(*2)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr*2-L_2022333EN.01000101-E0041"
+    },
+    {
+      "title": "(*2)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc*2-L_2022333EN.01000101-E0041"
+    },
+    {
+      "title": "OJ L 333, 27.12.2022, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "(*3)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr*3-L_2022333EN.01000101-E0042"
+    },
+    {
+      "title": "(*3)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc*3-L_2022333EN.01000101-E0042"
+    },
+    {
+      "title": "OJ L 333, 27.12.2022, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "(*4)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr*4-L_2022333EN.01000101-E0043"
+    },
+    {
+      "title": "(*4)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc*4-L_2022333EN.01000101-E0043"
+    },
+    {
+      "title": "OJ L 333, 27.12.2022, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2022:333:TOC"
+    },
+    {
+      "title": "(*5)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntr*5-L_2022333EN.01000101-E0044"
+    },
+    {
+      "title": "(1)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc1-L_2022333EN.01000101-E0001"
+    },
+    {
+      "title": "OJ C 343, 26.8.2021, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:C:2021:343:TOC"
+    },
+    {
+      "title": "(2)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc2-L_2022333EN.01000101-E0002"
+    },
+    {
+      "title": "OJ C 155, 30.4.2021, p. 38",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:C:2021:155:TOC"
+    },
+    {
+      "title": "(3)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc3-L_2022333EN.01000101-E0003"
+    },
+    {
+      "title": "(4)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc4-L_2022333EN.01000101-E0004"
+    },
+    {
+      "title": "OJ L 331, 15.12.2010, p. 12",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2010:331:TOC"
+    },
+    {
+      "title": "(5)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc5-L_2022333EN.01000101-E0005"
+    },
+    {
+      "title": "OJ L 331, 15.12.2010, p. 48",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2010:331:TOC"
+    },
+    {
+      "title": "(6)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc6-L_2022333EN.01000101-E0006"
+    },
+    {
+      "title": "OJ L 331, 15.12.2010, p. 84",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2010:331:TOC"
+    },
+    {
+      "title": "(7)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc7-L_2022333EN.01000101-E0007"
+    },
+    {
+      "title": "OJ L 194, 19.7.2016, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:194:TOC"
+    },
+    {
+      "title": "(8)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc8-L_2022333EN.01000101-E0008"
+    },
+    {
+      "title": "(9)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc9-L_2022333EN.01000101-E0009"
+    },
+    {
+      "title": "(10)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc10-L_2022333EN.01000101-E0010"
+    },
+    {
+      "title": "OJ L 354, 23.12.2016, p. 37",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:354:TOC"
+    },
+    {
+      "title": "(11)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc11-L_2022333EN.01000101-E0011"
+    },
+    {
+      "title": "OJ L 151, 7.6.2019, p. 15",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2019:151:TOC"
+    },
+    {
+      "title": "(12)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc12-L_2022333EN.01000101-E0012"
+    },
+    {
+      "title": "OJ L 337, 23.12.2015, p. 35",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2015:337:TOC"
+    },
+    {
+      "title": "(13)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc13-L_2022333EN.01000101-E0013"
+    },
+    {
+      "title": "OJ L 119, 4.5.2016, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:119:TOC"
+    },
+    {
+      "title": "(14)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc14-L_2022333EN.01000101-E0014"
+    },
+    {
+      "title": "OJ L 267, 10.10.2009, p. 7",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2009:267:TOC"
+    },
+    {
+      "title": "(15)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc15-L_2022333EN.01000101-E0015"
+    },
+    {
+      "title": "OJ L 176, 27.6.2013, p. 338",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2013:176:TOC"
+    },
+    {
+      "title": "(16)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc16-L_2022333EN.01000101-E0016"
+    },
+    {
+      "title": "OJ L 174, 1.7.2011, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2011:174:TOC"
+    },
+    {
+      "title": "(17)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc17-L_2022333EN.01000101-E0017"
+    },
+    {
+      "title": "OJ L 335, 17.12.2009, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2009:335:TOC"
+    },
+    {
+      "title": "(18)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc18-L_2022333EN.01000101-E0018"
+    },
+    {
+      "title": "OJ L 173, 12.6.2014, p. 349",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2014:173:TOC"
+    },
+    {
+      "title": "(19)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc19-L_2022333EN.01000101-E0019"
+    },
+    {
+      "title": "OJ L 287, 29.10.2013, p. 63",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2013:287:TOC"
+    },
+    {
+      "title": "(20)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc20-L_2022333EN.01000101-E0020"
+    },
+    {
+      "title": "OJ L 173, 12.6.2014, p. 190",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2014:173:TOC"
+    },
+    {
+      "title": "(21)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc21-L_2022333EN.01000101-E0021"
+    },
+    {
+      "title": "OJ L 182, 29.6.2013, p. 19",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2013:182:TOC"
+    },
+    {
+      "title": "(22)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc22-L_2022333EN.01000101-E0022"
+    },
+    {
+      "title": "OJ L 123, 12.5.2016, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:123:TOC"
+    },
+    {
+      "title": "(23)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc23-L_2022333EN.01000101-E0023"
+    },
+    {
+      "title": "OJ L 302, 17.11.2009, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2009:302:TOC"
+    },
+    {
+      "title": "(24)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc24-L_2022333EN.01000101-E0024"
+    },
+    {
+      "title": "OJ L 201, 27.7.2012, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2012:201:TOC"
+    },
+    {
+      "title": "(25)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc25-L_2022333EN.01000101-E0025"
+    },
+    {
+      "title": "OJ L 173, 12.6.2014, p. 84",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2014:173:TOC"
+    },
+    {
+      "title": "(26)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc26-L_2022333EN.01000101-E0026"
+    },
+    {
+      "title": "OJ L 257, 28.8.2014, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2014:257:TOC"
+    },
+    {
+      "title": "(27)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc27-L_2022333EN.01000101-E0027"
+    },
+    {
+      "title": "(28)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc28-L_2022333EN.01000101-E0028"
+    },
+    {
+      "title": "OJ L 171, 29.6.2016, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:171:TOC"
+    },
+    {
+      "title": "(29)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc29-L_2022333EN.01000101-E0029"
+    },
+    {
+      "title": "OJ L 295, 21.11.2018, p. 39",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2018:295:TOC"
+    },
+    {
+      "title": "(30)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc30-L_2022333EN.01000101-E0030"
+    },
+    {
+      "title": "OJ C 229, 15.6.2021, p. 16",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:C:2021:229:TOC"
+    },
+    {
+      "title": "(31)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc31-L_2022333EN.01000101-E0031"
+    },
+    {
+      "title": "OJ L 302, 17.11.2009, p. 32",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2009:302:TOC"
+    },
+    {
+      "title": "(32)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc32-L_2022333EN.01000101-E0032"
+    },
+    {
+      "title": "OJ L 176, 27.6.2013, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2013:176:TOC"
+    },
+    {
+      "title": "(33)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc33-L_2022333EN.01000101-E0033"
+    },
+    {
+      "title": "OJ L 314, 5.12.2019, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2019:314:TOC"
+    },
+    {
+      "title": "(34)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc34-L_2022333EN.01000101-E0034"
+    },
+    {
+      "title": "OJ L 26, 2.2.2016, p. 19",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:026:TOC"
+    },
+    {
+      "title": "(35)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc35-L_2022333EN.01000101-E0035"
+    },
+    {
+      "title": "OJ L 347, 20.10.2020, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2020:347:TOC"
+    },
+    {
+      "title": "(36)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc36-L_2022333EN.01000101-E0036"
+    },
+    {
+      "title": "OJ L 347, 28.12.2017, p. 35",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2017:347:TOC"
+    },
+    {
+      "title": "(37)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc37-L_2022333EN.01000101-E0037"
+    },
+    {
+      "title": "OJ L 225, 30.7.2014, p. 1",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2014:225:TOC"
+    },
+    {
+      "title": "(38)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc38-L_2022333EN.01000101-E0038"
+    },
+    {
+      "title": "OJ L 314, 5.12.2019, p. 64",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2019:314:TOC"
+    },
+    {
+      "title": "(39)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#ntc39-L_2022333EN.01000101-E0039"
+    },
+    {
+      "title": "OJ L 157, 9.6.2006, p. 87",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2006:157:TOC"
+    },
+    {
+      "title": "Top",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng#document1"
+    }
+  ]
+}

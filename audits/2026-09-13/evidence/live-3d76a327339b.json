@@ -1,0 +1,20 @@
+{
+  "id": "3d76a327339b",
+  "url": "https://www.euronext.com/sites/default/files/2025-05/es-cph_rule_book_part_4_settlement_rules.pdf",
+  "title": "Part 4 - Settlement Rules (PDF)",
+  "original_sha256": "3d0aa6ae592cbd924203c7ac8d529666ecdc00903876579ea43262a48c4e716c",
+  "kind": "curated-document",
+  "audit_id": "3d76a327339b",
+  "retrieved_at_utc": "2026-09-13T16:14:07.986125+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-05/es-cph_rule_book_part_4_settlement_rules.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Thu, 01 May 2025 08:18:14 GMT",
+  "etag": "W/\"fe6eea34b3a207636369225fdce297ff\"",
+  "sha256": "3d0aa6ae592cbd924203c7ac8d529666ecdc00903876579ea43262a48c4e716c",
+  "bytes": 327225,
+  "saved_path": "sources/3d76a327339b.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 17,
+  "text_path": "extracted/3d76a327339b.md"
+}

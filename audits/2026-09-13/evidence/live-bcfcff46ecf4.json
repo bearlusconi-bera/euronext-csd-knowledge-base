@@ -1,0 +1,20 @@
+{
+  "id": "bcfcff46ecf4",
+  "url": "https://ecsda.eu/wp-content/uploads/2024/09/2024_09_11_ECSDA_Framework_update.pdf",
+  "title": "ECSDA CSDR Settlement Fails Penalties Framework - 11 September 2024",
+  "original_sha256": "5f0a8e10aa42c113e37ea6c8441e1148b424e47216fd7ce4c9af8a545240d515",
+  "kind": "curated-document",
+  "audit_id": "bcfcff46ecf4",
+  "retrieved_at_utc": "2026-09-13T16:18:12.761777+00:00",
+  "http_status": 200,
+  "final_url": "https://ecsda.eu/wp-content/uploads/2024/09/2024_09_11_ECSDA_Framework_update.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Fri, 30 Jan 2026 14:03:03 GMT",
+  "etag": "\"45b571-6499b6e8dfcd3\"",
+  "sha256": "5f0a8e10aa42c113e37ea6c8441e1148b424e47216fd7ce4c9af8a545240d515",
+  "bytes": 4568433,
+  "saved_path": "sources/bcfcff46ecf4.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 102,
+  "text_path": "extracted/bcfcff46ecf4.md"
+}

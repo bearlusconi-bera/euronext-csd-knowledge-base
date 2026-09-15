@@ -1,0 +1,240 @@
+Central Securities Depositories
+ESMA’s main roles in the area of settlement are: developing Level 2 measures and supervisory convergence measures related to the EU Regulation on Central Securities Depositories (CSDR), providing information to the market under the Settlement Finality Directive (SFD) and co-ordinating authorities involved in the supervision of CSDs using Target2-Securities (T2S).
+Central Securities Depositories Regulation (CSDR)
+Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (CSDR) was published in the Official Journal on 28 August 2014, and entered into force on 17 September 2014.
+The aim of CSDR is to harmonise certain aspects of the settlement cycle and settlement discipline and to provide a set of common requirements for CSDs operating securities settlement systems across the EU. CSDR plays a pivotal role for post-trade harmonisation efforts in Europe, as it enhances the legal and operational conditions for cross-border settlement in the EU.
+primary_grey_background
+Key elements
+The main objective of CSDR is to increase the safety and efficiency of securities settlement and settlement infrastructures (CSDs) in the EU by providing, among others, for the following:
+Shorter settlement periods;
+Settlement discipline measures (mandatory cash penalties and ‘buy-ins’ for settlement fails, settlement fails reporting);
+An obligation regarding dematerialisation for most securities;
+Strict prudential and conduct of business rules for CSDs;
+Strict access rights to CSD services; and
+Increased prudential and supervisory requirements for CSDs and other institutions providing banking services ancillary to securities settlement.
+Additional information can be found on the European Commission webpage on CSDs and its two CSDR-related FAQs.
+white_background
+primary_grey_background
+CSDR Refit
+In 2020, the European commission launched a review of CSDR.In addition to publishing four reports on the implementation of certain aspects of CSDR (see below), in May 2021, ESMA wrote a letter to the European Commission to present proposals for the review. The EC legislative proposal was published on 16 March 2022.
+Regulation (EU) 2023/2845 (CSDR Refit) was published on 27 December 2023 and notably modified the settlement discipline regime, the review and evaluation process, the passporting process as well as third-country CSD reporting requirements. Additional information can be found on the European Commission website.
+white_background
+primary_grey_background
+Shortening the settlement cycle to T+1
+Further to a report developed by ESMA on the assessment of the shortening of the settlement cycle in the EU, the European Commission proposed to reduce the settlement cycle from two days to one. The corresponding legislative amendments to CSDR, mandating the transition of the EU to a T+1 settlement cycle by 11 October 2027, have now been published: Regulation (EU) 2025/2075
+For details on the transition process, please see this dedicated page.
+white_background
+primary_grey_background
+primary_grey_background
+CSDR applies primarily to (1) CSDs, including (2) third country CSDs, but also to (3) settlement internalisers (see below).
+primary_grey_background
+CSDs
+main_blue_background
+Level 2 measures
+L2 measures
+ESMA preparatory work
+Comment/additional information
+Delegated Act (EU) 2017/389 on Cash Penalties and Substantial Importance (drafted by the EC)
+Consultation paper Technical advice on the level of penalties for settlement fails and on the substantial importance of a CSD for a host Member State and related impact assessment
+Regulation (EU) 2017/390 on CSD Prudential Requirements (drafted by the EBA)
+See the EBA's website.
+Regulation (EU) 2017/392 on CSD Requirements
+20/03/2014discussion paper18/12/2014consultation paper28/09/2015
+final report
+impact assessment
+1 draft RTS and 1 draft ITS on CSD Requirements
+Application date: 30/03/2017
+Implementing Regulation (EU) 2017/394 on CSD Requirements
+Regulation (EU) 2018/1229 on Settlement Discipline
+20/03/2014discussion paper18/12/2014consultation paper29/06/2015consultation paper on buy-in01/02/2016
+final report including draft RTS
+impact assessment
+Regulation (EU) 2020/1212
+Postponed entry into force of RTS on Settlement Discipline to 1 February 2021
+Regulation (EU) 2021/70
+Postponed entry into force of RTS on Settlement Discipline to 1 February 2022.See also: ESMA public statement on a Supervisory approach on the implementation of the CSDR buy-in provisions
+Regulation (EU) 2022/1930
+Postponed the date of entry into force and application of buy-in regime to 2 November 2025.
+Regulation (EU) 2023/1626
+Amended the penalty mechanism for settlement fails relating to cleared transactions submitted by CCPs for settlement
+Pending adoption.
+19/11/2024Technical advice
+CSDR Refit mandate for ESMA on the cash penalty mechanism
+Pending adoption.
+20/02/2025Final report on draft RTS on substantial importance
+CSDR Refit mandate for ESMA on substantial importance
+Pending adoption.
+20/02/2025Final report on amendments to Regulation (EU) 2017/392 and Implementing Regulation (EU) 2017/394
+CSDR Refit mandate for ESMA on the review and evaluation process
+Pending adoption.
+20/02/2025Final report on amendments to Regulation (EU) 2017/392
+CSDR Refit mandate for ESMA on third-country CSDs reporting requirements
+Pending adoption.
+26/06/2025Technical advice
+CSDR Refit mandate for ESMA on the scope of settlement discipline
+Pending adoption.
+13/10/2025Final report on amendments to Regulation (EU) 1228/2019
+CSDR Refit mandate for ESMA on settlement discipline, in the context of the transition to T+1
+white_background
+primary_grey_background
+Level 3 measures – ESMA supervisory convergence tools
+In order to contribute to the objective of ensuring supervisory convergence, and a level playing field with regard to the implementation of CSDR and of the related Level 2 measures, ESMA issues Guidelines, Recommendations, Opinions and Questions and Answers (Q&As).
+white_background
+Q&As
+ESMA publishes and periodically updates Q&As on the CSDR.
+Additional questions relating to the implementation of CSDR should be sent to ESMA following the ESMA Q&A procedure described here.
+primary_grey_background
+Guidelines
+Access to trading feeds. On 18 December 2014, ESMA published a consultation paper on draft guidelines on the access to the trading feeds of CCPs or trading venues by a CSD. The final report including the guidelines has been published on 23 March 2017.
+CSD participants default rules and procedures. On 31 May 2016, ESMA published a consultation paper on draft guidelines on CSD participants default rules and procedures. The final report including the guidelines has been published on 23 March 2017.
+Indicators on substantial importance. On 1 June 2017, ESMA published guidelines on the process for the collection, processing and aggregation of the data and information necessary for the calculation of the indicators to determine the substantial importance of a CSD for a host Member State. Please also refer to the accompanying reporting templates, which aim at facilitating the reporting of data by CSDs to the competent authorities, and subsequently by the competent authorities to ESMA.
+Indicators on most relevant currencies. On 1 June 2017, ESMA published guidelines on the process for the collection, processing and aggregation of the data and information necessary for the calculation of the indicators to determine the most relevant currencies in which settlement takes place. Please also refer to the accompanying reporting templates, which aim at facilitating the reporting of data by CSDs to the competent authorities, and subsequently by the competent authorities to ESMA.
+Cooperation between authorities. On 11 July 2017, ESMA published guidelines regarding the cooperation between authorities under CSDR. The purpose of the guidelines is to ensure consistent, efficient and effective supervisory practices within the EU in respect of cooperation arrangements between supervisory authorities for:
+the consultation of authorities involved in the procedure for authorising CSDs under the CSDR; and
+the communication between the home and host authorities in relation to a CSD wishing to provide cross-border services.
+Allocation and confirmation requirements for investment firms and their professional clients: standardised procedures and messaging protocols. Further to a public consultation, ESMA has published a final report including the final guidelines which sets out how investment firms should ensure the requirements set out in Article 6(2) of CSDR and Article 2 of the RTS on Settlement Discipline are complied with. In particular, investment firms should agree with their professional clients on the communication procedures and messaging protocols to be used between them, in order for the necessary settlement information to be timely provided to the investment firm. Subject to a written contractual agreement between them, the guidelines also clarify the degree of flexibility that is left to the parties to organise their communication. Settlement fails reporting. Further to a public consultation, ESMA published a Final Report on Guidelines on settlement fails reporting under Article 7 of CSDR.
+As of 1 February 2022, CSDs are required to send monthly and annual reports on settlement fails to the national competent authorities and relevant authorities; national competent authorities will then send the settlement fails reports to ESMA. ESMA has made available Technical Reporting Instructions and related XML Schema to be used for the settlement fails reports, which CSDs are encouraged to read to reduce rates of file rejection. This is without prejudice to any additional guidance that national competent authorities may provide to CSDs in their jurisdictions.
+white_background
+primary_grey_background
+Related information
+CSD Register (Article 21 of CSDR)
+This register lists:
+the CSDs authorised under Article 16 of CSDR, and decisions made under Articles 19, 54, 56 and 57 of CSDR, as the case may be,
+the CSD links in place, as defined under Article 2(1)(29) of CSDR,
+the CSD passports granted under Article 23 of CSDR;
+the third-country CSDs recognised under Article 25 of CSDR, and
+the parties allowed by Member States under Article 31 of CSDR to provide certain core services and related information.
+Updates to this list should be sent by competent authorities to CSDR.Notifications@esma.europa.eu, following the indications provided in the register itself.
+List of competent authorities responsible for the authorisation and supervision of CSDs (Article 11 of CSDR)
+Pursuant to Article 11(1) of CSDR, each Member State shall designate the competent authority responsible for carrying out the duties under CSDR for the authorisation and supervision of CSDs established in its territory and shall inform ESMA thereof. In order to keep the lists up to date, Member States are requested to inform ESMA of any changes by sending an e-mail to designatedNCA@esma.europa.eu​.
+List of relevant authorities (Article 12 of CSDR)
+ESMA is responsible for publishing on its website the list of the relevant authorities referred to in Article 12(1) of CSDR.
+List of key relevant provisions of the corporate or similar law of Member States (Article 49 of CSDR)
+In accordance with Article 49(1) of CSDR, Member States shall communicate to ESMA a list of the key relevant provisions of their corporate or similar law, under which securities are constituted.
+Updates to this list should be sent by Member States to CSDR.Notifications@esma.europa.eu using this template.
+Reports on the implementation of CSDR (Article 74 of CSDR or ad hoc)
+ESMA has published the following reports on the implementation of CSDR:
+Provision of CSD cross-border services and handling of related applications (November 2020 and January 2024)
+Provision of banking-type ancillary services under CSDR (July 2021)
+Use of Fintech by CSDs (August 2021)
+See below for internalised settlement.
+white_background
+primary_grey_background
+Notifications to ESMA
+Sanctions and other measures taken under CSDR​
+Competent authorities must report to ESMA the following:
+according to Article 61(7) of CSDR, any administrative sanction or administrative measure or a criminal sanction that it has disclosed to the public, at the same time as the public disclosure, which will be published in the ESMA Sanctions Register.
+according to Article 62(1), last paragraph, of CSDR, all administrative sanctions imposed but not published. ESMA will make them available in a central database to other competent authorities for the purpose of exchanging information.
+white_background
+Actions taken by a CSD under a default procedure
+Further to paragraph 12(b)(ii) of the Guidelines on CSD participants default rules and procedures, CSDs should inform ESMA as soon as possible of the actions taken by them under their default rules and procedures following the opening of an insolvency proceeding against one of their participants.
+This information should be sent by CSDs to CSDR.Notifications@esma.europa.eu.
+primary_grey_background
+primary_grey_background
+EEA CSDs offering services in Third Countries
+A template Memorandum of Understanding (MoU) has been agreed between the Bank of England (BoE) and EEA NCAs on the cooperation and communication framework regarding the supervision of EEA CSDs that apply for recognition in the UK and which are deemed by the BoE to be non-systemic to UK financial stability.
+white_background
+primary_grey_background
+primary_grey_background
+Third country CSDs
+main_blue_background
+Notifications to ESMA
+Third-country CSDs are required to notify to ESMA information in relation to notary and central maintenance services and to settlement services.
+ESMA has published non-binding instructions regarding third-country CSD notifications, for use on a voluntary basis by market participants subject to the requirements under Article 69(4a) and Article 25(2a) of CSDR, with the aim of facilitating this process.
+The instructions are based on ESMA’s Final Report on third-country CSDs notifications, and could be adapted, if necessary, when the delegated act referred to in Article 69(4a) and Article 25(13) of CSDR is published in the Official Journal of the EU.
+These instructions should not be understood as an interpretation of the relevant provisions in CSDR.
+Instructions for notary and central maintenance services
+Instructions for settlement services
+Calculation instructions
+When submitting information for the purposes of complying with the notification requirements under Article 25(2a) and Article 69 (4a) of CSDR, third-country CSDs should apply mutatis mutandis section 5.1 of the Guidelines on determining the substantial importance of a CSD for a host Member State.
+In particular, the following elements should be taken into account:
+The values reported should be expressed in Euros. The Euro foreign exchange reference rates of the European Central Bank valid for the last working day of the period for which data is reported should be used for the conversion of other currencies into Euros.
+The values reported for settlement instructions should be calculated as follows:
+a) in the case of settlement instructions against payment, the settlement amount of the cash leg;
+b) in the case of settlement instructions, the market value of the financial instruments as determined in accordance with paragraph 5 or, where not available, the nominal value of the financial instruments, on the day of settlement of each settlement instruction.
+Settlement instructions relating to all of the following types of transactions should be included in the reporting:
+a) purchase or sale of securities, including primary market purchases or sales of securities;
+b) collateral management operations, including triparty collateral management operations or auto-collateralisation operations;
+c) securities lending and securities borrowing operations;
+d) repurchase transactions;
+e) corporate actions on flows, market claims and transformations.
+Settlement instructions relating one of the following types of transactions should be considered out of scope of the reporting:
+a) corporate actions on stock, such as cash distributions, including cash dividend and interest payment; securities distributions, including stock dividend and bonus issue, and reorganisations, including conversion, stock split, redemption or tender offer;
+b) primary market operations, meaning the technical creation of securities ;
+c) creation and redemption of fund units, provided that it does not constitute a transfer order in a securities settlement system operated by a CSD;
+d) realignment operations.
+The market value of financial instruments should be determined as follows:
+a) for financial instruments referred to in Article 3(1) of Regulation (EU) No 600/2014 admitted to trading on a trading venue within the Union, the market value of the relevant financial instrument shall be the closing price of the most relevant market in terms of liquidity referred to in Article 4(1)(a) of Regulation (EU) No 600/2014;
+b) for financial instruments admitted to trading on a trading venue within the Union other than those referred to in point (a), the market value shall be the closing price derived from the trading venue within the Union with the highest turnover;
+c) for financial instruments other than those referred to in points (a) and (b), the market value shall be determined on the basis of a predetermined methodology that refers to criteria related to reliable market data, such as market prices available across trading venues or investment firms.
+white_background
+primary_grey_background
+Recognition of third-country (non-EU) CSDs by ESMA
+Third-country CSDs need to be recognised by ESMA to offer certain services to EU participants and issuers, fulfilling certain requirements. Main applicable provisions are Article 25 of CSDR, Article 46 of the RTS on CSD Requirements and Annex 1 thereto. ESMA has issued guidance for third country CSDs, and also published the names of CSDs that have applied for recognition in the List of applicant TC-CSDs as well as the list of recognised third-country CSDs in the CSD Register. Information requests in this regard may be sent in English to ESMA at CSDR.Notifications@esma.europa.eu.
+Equivalence decision by the EC. Prior to recognition, the EC must adopt an implementing act determining, amongst other issues, that the legal and supervisory arrangements of the relevant third country imposes legally binding requirements which are equivalent to those contained in CSDR. So far, the EC has adopted Commission Implementing Decision (EU) 2020/1766 of 25 November 2020 determining, for a limited period of time, that the regulatory framework applicable to central securities depositories of the United Kingdom of Great Britain and Northern Ireland is equivalent in accordance with Regulation (EU) No 909/2014 of the European Parliament and of the Council.
+Cooperation arrangements between ESMA and third-country authorities. Some cooperation arrangements must also be in place between ESMA and the relevant third-country authorities whose legal and supervisory frameworks have been recognised as equivalent. So far, ESMA has signed a Memorandum of Understanding with the Bank of England.
+ESMA will not actively supervise third-country CSDs, but following recognition will defer to the third-country CSD’s home supervisor to undertake the day-to-day supervision of that CSD.
+white_background
+primary_grey_background
+Related information
+The CSD Register published by ESMA (cf. above) includes as necessary the third-country CSDs recognised under Article 25 of CSDR.
+white_background
+primary_grey_background
+primary_grey_background
+Settlement internalisers
+According to Article 2(1)(11) of CSDR, ‘settlement internaliser’ means any institution, including one authorised in accordance with Directive (EU) 2013/36 [CRD IV] or Directive (EU) 2014/65 [MIFID II], which executes transfer orders on behalf of clients or on its own account other than through a securities settlement system.
+main_blue_background
+Level 2 – CSDR implementing measures
+L2 measures
+ESMA preparatory work
+Comment/additional information
+RTS (EU) 2017/391 on Internalised Settlement
+ITS (EU) 2017/393 on Internalised Settlement
+18 Dec 2014consultation paper28 Sep 2015
+final report
+impact assessment1 draft RTS and 1 draft ITS on Internalised Settlement
+Application date: 10 March 2019
+white_background
+primary_grey_background
+Level 3 – ESMA supervisory convergence measures
+CSDR Q&As (cf. above)
+Guidelines on Internalised settlement reporting: further to a public consultation, ESMA published a final report on guidelines on internalised settlement reporting under Article 9 of CSDR.
+Settlement internalisers will be required by national competent authorities to submit quarterly reports as per CSDR from July 2019, which will then be sent by the national competent authorities to ESMA. ESMA has made available Technical Guidance for Settlement Internalisers – Report Validation Rules (and related XML files), which settlement internalisers are encouraged to read to reduce rates of file rejection. This is without prejudice to any additional guidance that national competent authorities may provide to settlement internalisers in their jurisdictions.
+Planned updates to data validations – New data validations (INS-019, INS-020, INS-021, INS-022) and updated data validation (INS-065) will be introduced in test environment in July 2023. It is planned to activate them in production environment on 29 November 2023.
+Where required by the relevant provisions, settlement internalisers should use the Issuer CSDs LEIs if available - please see the following List.
+white_background
+primary_grey_background
+Related information
+ESMA has published a report on Internalised settlement (November 2020).
+white_background
+primary_grey_background
+primary_grey_background
+Settlement Finality Directive (SFD)
+The Settlement Finality Directive (Directive No 98/26/EC or 'SFD') aims at reducing the systemic risk associated with participation in payment and securities settlement systems, and in particular the risk linked to the insolvency of a participant in such a system.
+The SFD applies to payment and securities settlement systems duly notified to ESMA as well as to any participant in such a system, and to collateral security provided in connection with the participation in a system, or operations of the central banks of the Member States in their functions as central banks.
+Additional information can be found on the European Commission webpage on settlement finality.
+primary_grey_background
+Related information
+▸ List of designated authorities, payment systems and securities settlement systems
+Any updates to this list should be sent to sfd_insolvency@esma.europa.eu in the form of modifications made visible directly into the Excel spreadsheet.
+Pursuant to Article 10(1) of the SFD, in order for payment and securities settlement systems to be included in the scope of the SFD, Member States shall notify the relevant systems and system operators (as well as corresponding contact details) to ESMA and inform it of the authorities chosen in accordance with Article 6(2), addressing it to SFD_insolvency@esma.europa.eu (the contact details will be shared with the authorities but not published on this website).
+white_background
+primary_grey_background
+Notifications to ESMA
+Pursuant to Article 6(3) of Directive 98/26/EC (SFD), Member States shall, upon the opening of insolvency proceedings in their jurisdiction against a participant or a system operator, immediately notify the European Systemic Risk Board (ESRB), other Member States and ESMA.
+For ESMA, such notifications should:
+be sent to sfd_insolvency@esma.europa.eu
+indicate, in the subject of the email, "Notification pursuant to Article 6(3) of SFD on the opening of insolvency proceedings against a participant in a system/a system operator",
+include, to the extent possible, the name(s) of the system(s) to which the participant is connected.
+white_background
+primary_grey_background
+primary_grey_background
+TARGET2-Securities (T2S)
+T2S is the European platform for securities settlement in central bank money.
+For additional information on T2S, please see the ECB website.
+primary_grey_background
+ESMA's role
+In its role of coordinator of competent authorities for the supervision of CSDs, ESMA cooperates with the Eurosystem, in which the ECB having primary responsibility vis-à-vis T2S, leads and coordinates the oversight activities related to T2S, overseers of CSDs participating in T2S, central banks of issue for currencies settled in T2S, competent authorities for the supervision of those CSDs which have signed the T2S Framework Agreement.
+white_background
+primary_grey_background
+primary_grey_background

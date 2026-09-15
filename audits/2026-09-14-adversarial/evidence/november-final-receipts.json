@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Cover Note",
+    "url": "https://www.ecb.europa.eu/pub/pdf/annex/Cover_Note_Final_Delivery_T2S_UDFS_R2026.NOV_UHB_R2026.NOV.en.pdf?1d8ee68f0593cb88571835efb7cd5ed8",
+    "downloaded_at_utc": "2026-09-14T08:01:28.903230+00:00",
+    "sha256": "c2635fb5a57ed5c87c6a34985b1dfeea2df42972a4139e801c950371a7ef160b",
+    "bytes": 282627,
+    "pages": 9,
+    "review_scope": "Publication statement on page 1 and Annex A on page 2 inspected; Annex B links captured, target usage specifications not validated",
+    "admitted": false
+  },
+  {
+    "title": "T2S User Detailed Functional Specifications R2026.NOV (UDFS)",
+    "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.NOV_clean_20260911.en.pdf?8a61e1a06ea669f708ba50ac84a842a0",
+    "downloaded_at_utc": "2026-09-14T08:01:32.271558+00:00",
+    "sha256": "9ae8f93c2019262a8efc5268a4d99e7fff2856186831ffc15c523732532f8d91",
+    "bytes": 48704444,
+    "pages": 2349,
+    "review_scope": "first three pages only; content changes not reviewed",
+    "admitted": false
+  }
+]

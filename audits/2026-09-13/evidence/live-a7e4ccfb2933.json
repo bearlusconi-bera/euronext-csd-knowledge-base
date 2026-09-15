@@ -1,0 +1,20 @@
+{
+  "id": "a7e4ccfb2933",
+  "url": "https://www.euronext.com/sites/default/files/2023-08/Rule%20Book%20Part%205%20T2S%20DCP%20Service%20Rules.pdf",
+  "title": "Part 5 - DCP Service Rules (PDF)",
+  "original_sha256": "4ab78c08eb5434df2533c68b055a01f2342c91620ccf70279aaed5c61b2d2586",
+  "kind": "curated-document",
+  "audit_id": "a7e4ccfb2933",
+  "retrieved_at_utc": "2026-09-13T16:14:09.582256+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2023-08/Rule%20Book%20Part%205%20T2S%20DCP%20Service%20Rules.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Fri, 31 Jan 2025 13:32:41 GMT",
+  "etag": "W/\"c10c2813f5b3d4d8d8a64ccf97a02f8a\"",
+  "sha256": "4ab78c08eb5434df2533c68b055a01f2342c91620ccf70279aaed5c61b2d2586",
+  "bytes": 227517,
+  "saved_path": "sources/a7e4ccfb2933.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 6,
+  "text_path": "extracted/a7e4ccfb2933.md"
+}

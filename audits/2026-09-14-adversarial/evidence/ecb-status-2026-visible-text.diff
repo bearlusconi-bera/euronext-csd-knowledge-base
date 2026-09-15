@@ -1,0 +1,11 @@
+--- implementation/2026-09-13/sources/ecb-status-2026.html
+
++++ audits/2026-09-14-adversarial/evidence/ecb-status-2026-live.html
+
+@@ -1,3 +1,4 @@
+
+-12/09/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
++14/09/2026 02:30:00T2S is operating normally.
++English12/09/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+ English11/09/2026 05:00:00T2S is operating normally.
+ English10/09/2026 05:00:00T2S is operating normally.

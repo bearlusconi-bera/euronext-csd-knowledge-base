@@ -1,0 +1,426 @@
+{
+  "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html?com.dotmarketing.htmlpage.language=102",
+  "kind": "additional-authority",
+  "audit_id": "999c512e202a",
+  "retrieved_at_utc": "2026-09-13T16:19:34.728301+00:00",
+  "http_status": 200,
+  "final_url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html?com.dotmarketing.htmlpage.language=102",
+  "content_type": "text/html;charset=UTF-8",
+  "last_modified_http": null,
+  "etag": null,
+  "sha256": "e97c96f7eeb2c21da5046e85591fe20aa5057d65f5027ef7b5782ef9312892db",
+  "bytes": 140243,
+  "saved_path": "sources/999c512e202a.html",
+  "text_path": "extracted/999c512e202a.txt",
+  "title": "Regolamento titoli",
+  "links": [
+    {
+      "title": "Vai al contenuto principale",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html?com.dotmarketing.htmlpage.language=102#main"
+    },
+    {
+      "title": "Home page",
+      "url": "https://www.bancaditalia.it/homepage/index.html"
+    },
+    {
+      "title": "Cerca nel sito |",
+      "url": "https://www.bancaditalia.it/ricerca/"
+    },
+    {
+      "title": "EN Go to english version",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html?com.dotmarketing.htmlpage.language=1"
+    },
+    {
+      "title": "",
+      "url": "https://twitter.com/share?text=Banca+d%27Italia+-+Regolamento+titoli&url=https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html"
+    },
+    {
+      "title": "",
+      "url": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.bancaditalia.it%2Fcompiti%2Fsispaga-mercati%2Fregolamento-titoli%2Findex.html"
+    },
+    {
+      "title": "",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bancaditalia.it%2Fcompiti%2Fsispaga-mercati%2Fregolamento-titoli%2Findex.html"
+    },
+    {
+      "title": "",
+      "url": "mailto:?body=https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html&subject=Un%20link%20dal%20sito%20della%20Banca%20d%27Italia"
+    },
+    {
+      "title": "testo unico della finanza",
+      "url": "https://www.consob.it/documents/1912911/1962639/dlgs58_1998.pdf"
+    },
+    {
+      "title": "Consob",
+      "url": "http://www.consob.it/"
+    },
+    {
+      "title": "Monte Titoli SpA",
+      "url": "http://www.montetitoli.it/home/homepage.htm"
+    },
+    {
+      "title": "direttiva 2009/44/CE",
+      "url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:146:0037:0043:IT:PDF"
+    },
+    {
+      "title": "d.lgs. 24 marzo 2011, n. 48",
+      "url": "http://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2011-04-21&atto.codiceRedazionale=011G0089&normativi=false&tipoVigenza=originario&tipoSerie=serie_generale&currentPage=1"
+    },
+    {
+      "title": "Provvedimento Unico",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/bdi-consob.pdf"
+    },
+    {
+      "title": "CSD Regulation",
+      "url": "http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P7-TA-2014-0388+0+DOC+XML+V0//IT#BKMD-118"
+    },
+    {
+      "title": "assessment",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/Assessment_Monte_Titoli.pdf"
+    },
+    {
+      "title": "ESCB-CESR Recommendations for Securities Settlement Systems",
+      "url": "https://www.ecb.europa.eu/pub/pdf/other/pr090623_escb-cesr_recommendationsen.pdf"
+    },
+    {
+      "title": "Principles for Financial Markets Infrastructures",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/PFMI.pdf"
+    },
+    {
+      "title": "migrazione della piazza finanziaria italiana",
+      "url": "https://www.bancaditalia.it/media/notizia/la-piazza-finanziaria-italiana-opera-su-target2-securities"
+    },
+    {
+      "title": "Target 2 Securities (T2S)",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/security-target2/index.html"
+    },
+    {
+      "title": "Orientamenti ESA JC 2024 34 del 5 giugno 2024",
+      "url": "https://eba.europa.eu/activities/single-rulebook/regulatory-activities/operational-resilience/joint-guidelines-estimation-aggregated-annual-costs-and-losses-caused-major-ict-related-incidents"
+    },
+    {
+      "title": "Orientamenti ESMA 50-164-4285 del 10/05/2021",
+      "url": "https://www.esma.europa.eu/sites/default/files/library/esma_cloud_guidelines_it.pdf"
+    },
+    {
+      "title": "Direttiva 2010/78/UE del 24 ottobre 2010 (c.d. omnibus)",
+      "url": "http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32010L0078&rid=1"
+    },
+    {
+      "title": "Direttiva 2009/44/CE del 6 maggio 2009",
+      "url": "http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32009L0044&rid=1"
+    },
+    {
+      "title": "Direttiva 2002/47/CE del 6 giugno 2002",
+      "url": "http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32002L0047&qid=1415612947934&from=IT"
+    },
+    {
+      "title": "Direttiva 1998/26/CE del 19 maggio 1998",
+      "url": "http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:31998L0026&qid=1415613070574&from=IT"
+    },
+    {
+      "title": "Decreto legislativo 30 luglio 2012, n. 130",
+      "url": "http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-07-30;130!vig="
+    },
+    {
+      "title": "Decreto legislativo 24 marzo 2011, n. 48",
+      "url": "http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-24;48!vig="
+    },
+    {
+      "title": "Legge 28 dicembre 2005, n. 262",
+      "url": "http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;262!vig="
+    },
+    {
+      "title": "Decreto legislativo 21.5.2004, n. 170",
+      "url": "http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;170!vig="
+    },
+    {
+      "title": "Decreto legislativo 12 aprile 2001, n. 210",
+      "url": "http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-04-12;210!vig= "
+    },
+    {
+      "title": "Decreto legislativo 24 febbraio 1998, n. 58",
+      "url": "http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58!vig="
+    },
+    {
+      "title": "Nota n. 51 del 16/05/2025 pdf 374 KB",
+      "url": "https://www.bancaditalia.it/compiti/vigilanza/normativa/orientamenti-vigilanza/elenco-esa/note/Nota51-CostLosses.pdf"
+    },
+    {
+      "title": "Provvedimento del 5 ottobre 2022 pdf 75 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/Provvedimento_UK_CREST.pdf"
+    },
+    {
+      "title": "Modifiche al provvedimento unico sul post-trading pdf 142 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/Articolato_Modifiche_PU_vigente.pdf"
+    },
+    {
+      "title": "Nota di attuazione degli Orientamenti dell'ESMA in materia di esternalizzazione a fornitori di servizi cloud pdf 161 KB",
+      "url": "https://www.bancaditalia.it/compiti/vigilanza/normativa/orientamenti-vigilanza/elenco-esa/note/Nota-12-del-13.07.21.pdf"
+    },
+    {
+      "title": "Provvedimento del 2 agosto 2018 pdf 39 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/Provvedimento-2-agosto-2018.pdf"
+    },
+    {
+      "title": "Relazione illustrativa del nuovo \"Provvedimento Unico sul Post-trading\" del 13 agosto 2018 pdf 143 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/controparte-centrale/normativa/Relazione_illustrativa_PU.pdf"
+    },
+    {
+      "title": "Provvedimento del 13 agosto 2018 contenente la disciplina delle controparti centrali, dei depositari centrali pdf 632 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/controparte-centrale/normativa/Provvedimento-13-agosto-2018.pdf"
+    },
+    {
+      "title": "Disciplina dei servizi di gestione accentrata, di liquidazione, dei sistemi di garanzia e delle relative società di gestione pdf 226 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/bdi-consob.pdf"
+    },
+    {
+      "title": "Provvedimento 27 luglio 2015 pdf 39 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/provvto-27072015.pdf"
+    },
+    {
+      "title": "Provvedimento 2 marzo 2015 pdf 64 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/provv2mar15_designazione_X-COM.pdf"
+    },
+    {
+      "title": "Provvedimento 24 febbraio 2015 pdf 58 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/provvedimento_24_02_2015.pdf"
+    },
+    {
+      "title": "Provvedimento 11 febbraio 2015 pdf 41 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/provv11feb15.pdf"
+    },
+    {
+      "title": "Provvedimento 22 ottobre 2013 pdf 171 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/PU-Banca-d-Italia-Consob-ott2013.pdf"
+    },
+    {
+      "title": "Provvedimento 24 dicembre 2010 pdf 601 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/Provvedimento_24-12-2010.pdf"
+    },
+    {
+      "title": "Provvedimento 9 giugno 2004 pdf 17 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/09giugno2004.pdf"
+    },
+    {
+      "title": "Provvedimento della Banca d'Italia del 30 ottobre 2000 pdf 16 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/30ottobre2000.pdf"
+    },
+    {
+      "title": "Provvedimento 20 ottobre 2003 pdf 18 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/20ottobre2003.pdf"
+    },
+    {
+      "title": "Assessment of Monte Titoli’s observance of the ESCB-CESR Recommendations for Securities Settlement Systems (solo in inglese) pdf 48 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/Assessment_Monte_Titoli.pdf"
+    },
+    {
+      "title": "Principles for Financial Markets Infrastructures (solo in inglese) pdf 832 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/normativa/PFMI.pdf"
+    },
+    {
+      "title": "Workshop sulle misure di implementazione del Regolamento CSDR pdf 106 KB",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/locandina-workshop-060215.pdf"
+    },
+    {
+      "title": "ESMA - European Securities and Markets Authority - Post Trading",
+      "url": "https://www.esma.europa.eu/esmas-activities/markets-and-infrastructure/post-trading"
+    },
+    {
+      "title": "BIS – Committee on Payments and Market Infrastructures – CPMI",
+      "url": "http://www.bis.org/cpmi/index.htm"
+    },
+    {
+      "title": "ECB – European Central Bank – Markets and Payments",
+      "url": "http://www.ecb.europa.eu/paym/html/index.en.html"
+    },
+    {
+      "title": "ECSDA – European Central Securities Depositories Association",
+      "url": "http://ecsda.eu/"
+    },
+    {
+      "title": "Gestione accentrata dei titoli",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/gestione-accentrata/index.html"
+    },
+    {
+      "title": "(torna all'home page)",
+      "url": "https://www.bancaditalia.it/homepage/index.html"
+    },
+    {
+      "title": "bancaditalia@pec.bancaditalia.it",
+      "url": "mailto:bancaditalia@pec.bancaditalia.it"
+    },
+    {
+      "title": "email@bancaditalia.it",
+      "url": "mailto:email@bancaditalia.it"
+    },
+    {
+      "title": "Contatti",
+      "url": "https://www.bancaditalia.it/footer/contatti"
+    },
+    {
+      "title": "Mappa del sito",
+      "url": "https://www.bancaditalia.it/homepage/sitemap-view.html"
+    },
+    {
+      "title": "Servizi online con accesso SPID",
+      "url": "https://www.bancaditalia.it/footer/servizispid"
+    },
+    {
+      "title": "Filiali",
+      "url": "https://www.bancaditalia.it/chi-siamo/organizzazione/filiali"
+    },
+    {
+      "title": "Lavorare in Banca d'Italia",
+      "url": "https://www.bancaditalia.it/chi-siamo/lavorare-bi"
+    },
+    {
+      "title": "Tassi effettivi globali medi (TEGM)",
+      "url": "https://www.bancaditalia.it/compiti/vigilanza/compiti-vigilanza/tegm"
+    },
+    {
+      "title": "Glossario",
+      "url": "https://www.bancaditalia.it/footer/glossario"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://www.bancaditalia.it/footer/faq"
+    },
+    {
+      "title": "Unità di Informazione Finanziaria (UIF)",
+      "url": "https://uif.bancaditalia.it/"
+    },
+    {
+      "title": "Arbitro Bancario e Finanziario (ABF)",
+      "url": "https://www.arbitrobancariofinanziario.it/"
+    },
+    {
+      "title": "IVASS",
+      "url": "https://www.ivass.it/"
+    },
+    {
+      "title": "Premio per la scuola \"Inventiamo una banconota\"",
+      "url": "https://premioscuola.bancaditalia.it/"
+    },
+    {
+      "title": "L'Economia per tutti",
+      "url": "https://economiapertutti.bancaditalia.it/"
+    },
+    {
+      "title": "Portale di prenotazione on-line delle visite a Palazzo Koch",
+      "url": "https://www.visiteguidate-bancaditalia.it/"
+    },
+    {
+      "title": "Mudem",
+      "url": "https://www.mudem.it/"
+    },
+    {
+      "title": "Convenzione Interbancaria per l'Automazione (CIPA)",
+      "url": "https://www.cipa.it/"
+    },
+    {
+      "title": "€-coin",
+      "url": "https://cepr.org/research/research-projects-and-networks/eu-coin"
+    },
+    {
+      "title": "CERTFin",
+      "url": "https://www.certfin.it/"
+    },
+    {
+      "title": "Cooperazione PUMA",
+      "url": "https://www.cooperazionepuma.org/"
+    },
+    {
+      "title": "Siti delle banche centrali",
+      "url": "https://www.bancaditalia.it/footer/banche/index.html"
+    },
+    {
+      "title": "Portale della vigilanza bancaria",
+      "url": "https://www.bankingsupervision.europa.eu/framework/portal/html/index.it.html"
+    },
+    {
+      "title": "Comitato per le politiche macroprudenziali",
+      "url": "https://www.comitatomacroprudenziale.it/"
+    },
+    {
+      "title": "Informativa Privacy",
+      "url": "https://www.bancaditalia.it/footer/privacy"
+    },
+    {
+      "title": "Preferenze cookie",
+      "url": "https://www.bancaditalia.it/footer/cookie"
+    },
+    {
+      "title": "Disclaimer",
+      "url": "https://www.bancaditalia.it/footer/disclaimer"
+    },
+    {
+      "title": "Copyright",
+      "url": "https://www.bancaditalia.it/footer/copyright"
+    },
+    {
+      "title": "Open Data - metadati AgID (RDF)",
+      "url": "https://www.bancaditalia.it/footer/open-data/Open_Data_BdI.rdf"
+    },
+    {
+      "title": "Trasparenza",
+      "url": "https://www.bancaditalia.it/chi-siamo/trasparenza/"
+    },
+    {
+      "title": "Protezione dei dati",
+      "url": "https://www.bancaditalia.it/chi-siamo/protezione-dati/index.html"
+    },
+    {
+      "title": "Servizio di certificazione delle chiavi pubbliche",
+      "url": "https://www.bancaditalia.it/footer/firmadigitale"
+    },
+    {
+      "title": "Atti di notifica",
+      "url": "https://www.bancaditalia.it/footer/atti-di-notifica"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/bancaditalia_official"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/user/bancaditalia"
+    },
+    {
+      "title": "X - Banca d’Italia",
+      "url": "https://twitter.com/bancaditalia"
+    },
+    {
+      "title": "X - Ufficio Stampa",
+      "url": "https://twitter.com/UfficioStampaBI"
+    },
+    {
+      "title": "Linkedin",
+      "url": "https://www.linkedin.com/company/banca-d'italia/"
+    },
+    {
+      "title": "RSS",
+      "url": "https://alert.bancaditalia.it/webApp/rss?LANGUAGE=it"
+    },
+    {
+      "title": "E-mail Alert",
+      "url": "https://alert.bancaditalia.it/webApp/subscribe?LANGUAGE=it"
+    },
+    {
+      "title": "l'informativa sulla privacy",
+      "url": "https://www.bancaditalia.it/footer/privacy/index.html"
+    },
+    {
+      "title": "go to english version",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html?com.dotmarketing.htmlpage.language=102#bdi-cookie-en"
+    },
+    {
+      "title": "Privacy Policy",
+      "url": "https://www.bancaditalia.it/footer/privacy/index.html?lang=en"
+    },
+    {
+      "title": "leggi la versione italiana",
+      "url": "https://www.bancaditalia.it/compiti/sispaga-mercati/regolamento-titoli/index.html?com.dotmarketing.htmlpage.language=102#bdi-cookie-it"
+    }
+  ]
+}

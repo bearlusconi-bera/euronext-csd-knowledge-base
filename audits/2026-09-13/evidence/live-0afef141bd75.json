@@ -1,0 +1,20 @@
+{
+  "id": "0afef141bd75",
+  "url": "https://athens.euronext.com/sites/default/files/2026-03/RESOLUTION_4_ATHEXCSD-CENTRAL_MAINTENANCE_SERVICE_386_17.02.2026_FORCE_16.03.2026_0.pdf",
+  "title": "ATHEXCSD Resolution 4",
+  "original_sha256": "c89201e5b045f08b654e95d0c4559166b043a3cf6790b1377a35a8010e87f855",
+  "kind": "curated-document",
+  "audit_id": "0afef141bd75",
+  "retrieved_at_utc": "2026-09-13T16:14:21.187937+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-03/RESOLUTION_4_ATHEXCSD-CENTRAL_MAINTENANCE_SERVICE_386_17.02.2026_FORCE_16.03.2026_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Thu, 12 Mar 2026 12:38:19 GMT",
+  "etag": "\"9cd9e-64cd30702d2d0\"",
+  "sha256": "c89201e5b045f08b654e95d0c4559166b043a3cf6790b1377a35a8010e87f855",
+  "bytes": 642462,
+  "saved_path": "sources/0afef141bd75.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 29,
+  "text_path": "extracted/0afef141bd75.md"
+}

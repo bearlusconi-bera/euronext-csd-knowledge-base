@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0909-20260117",
+    "id": "legal-02014R0909-20260117",
+    "kind": "existing-legal-text",
+    "original_id": "02014R0909-20260117"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0392-20170310",
+    "id": "legal-02017R0392-20170310",
+    "kind": "existing-legal-text",
+    "original_id": "02017R0392-20170310"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0394-20170310",
+    "id": "legal-02017R0394-20170310",
+    "kind": "existing-legal-text",
+    "original_id": "02017R0394-20170310"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0390-20170310",
+    "id": "legal-02017R0390-20170310",
+    "kind": "existing-legal-text",
+    "original_id": "02017R0390-20170310"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0389-20170310",
+    "id": "legal-02017R0389-20170310",
+    "kind": "existing-legal-text",
+    "original_id": "02017R0389-20170310"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R1229-20240902",
+    "id": "legal-02018R1229-20240902",
+    "kind": "existing-legal-text",
+    "original_id": "02018R1229-20240902"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0391",
+    "id": "legal-32017R0391",
+    "kind": "existing-legal-text",
+    "original_id": "32017R0391"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0393",
+    "id": "legal-32017R0393",
+    "kind": "existing-legal-text",
+    "original_id": "32017R0393"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R2554-20221227",
+    "id": "legal-02022R2554-20221227",
+    "kind": "existing-legal-text",
+    "original_id": "02022R2554-20221227"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01998L0026-20240408",
+    "id": "legal-01998L0026-20240408",
+    "kind": "existing-legal-text",
+    "original_id": "01998L0026-20240408"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1212",
+    "id": "legal-32018R1212",
+    "kind": "existing-legal-text",
+    "original_id": "32018R1212"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2845",
+    "id": "legal-32023R2845",
+    "kind": "existing-legal-text",
+    "original_id": "32023R2845"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2075",
+    "id": "legal-32025R2075",
+    "kind": "existing-legal-text",
+    "original_id": "32025R2075"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R0858-20220602",
+    "id": "legal-02022R0858-20220602",
+    "kind": "existing-legal-text",
+    "original_id": "02022R0858-20220602"
+  },
+  {
+    "url": "https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2025-925084526",
+    "kind": "new-national-authority"
+  },
+  {
+    "url": "https://www.interbolsa.pt/Cliente/Core/MyPublic/DisciplinaDaLiquidacao/Index.php",
+    "kind": "new-national-authority"
+  },
+  {
+    "url": "https://www.hcmc.gr/en_US/web/portal/csds",
+    "kind": "new-national-authority"
+  }
+]

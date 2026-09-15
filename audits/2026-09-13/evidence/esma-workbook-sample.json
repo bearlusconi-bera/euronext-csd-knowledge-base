@@ -1,0 +1,195 @@
+{
+  "0- Info": [
+    [
+      {
+        "cell": "B11",
+        "value": "under Articles 21 and 58 of Regulation (EU) No 909/2014 (CSDR) "
+      }
+    ],
+    [
+      {
+        "cell": "B12",
+        "value": "Last updated on 02/09/2026"
+      }
+    ],
+    []
+  ],
+  "1- CSD authorisations": [
+    [
+      {
+        "cell": "A23",
+        "value": "Euronext Securities Milan"
+      },
+      {
+        "cell": "B23",
+        "value": "IT"
+      },
+      {
+        "cell": "C23",
+        "value": "8156009CEEE1B8C7C646 "
+      },
+      {
+        "cell": "D23",
+        "value": "Settlement service operated by Monte Titoli\n(Euronext Securities Milan)\nvia the T2S platform"
+      },
+      {
+        "cell": "E23",
+        "value": "CONSOB/Bank of Italy"
+      },
+      {
+        "cell": "F23",
+        "value": "Art 16 - Initial authorisation to provide CSD services"
+      },
+      {
+        "cell": "G23",
+        "value": "18/12/2019"
+      },
+      {
+        "cell": "I23",
+        "value": "1,2,3 "
+      },
+      {
+        "cell": "J23",
+        "value": "B1. Services related to the settlement service: \nc) Settlement matching, instruction routing, trade confirmation, trade verification. \nB2. Services related to the notary and central maintenance services: \n(a) Services related to shareholders\u2019 registers; \n(b) Supporting the processing of corporate actions, including tax, general meetings and information services; \n(d) Instruction routing and processing, fee collection and processing and related reporting \nB3. Establishing CSD links, providing, maintaining or operating securities accounts in relation to the settlement service, collateral management, other ancillary services \n\n "
+      },
+      {
+        "cell": "K23",
+        "value": "Fiscal Services - Assistance for aspects related to the application of the taxation referred to in d.lgs. 461/1997 \n\nFiscal Services - Assistance in relation to the application of the tax on financial instruments transactions under French law \u201cFrench FTT\u201d \n\nFiscal Services - Assistance in relation to the application of the tax on financial instruments transactions under Spanish law \u201cSpanish FTT\u201d \n\nProvision of information related to financial instruments recorded in book-entry system and to other services managed by Monte Titoli "
+      },
+      {
+        "cell": "O23",
+        "value": "- Settlement in EUR, central bank money\n"
+      },
+      {
+        "cell": "P23",
+        "value": "- Eurosystem (T2S Platform) \n- NEXI \n- Borsa Italiana \n- CC&G \n- Acupay \n"
+      },
+      {
+        "cell": "Q23",
+        "value": "- SHRS (including commercial papers \u2013 \u201ccambiali finanziarie\u201d - within the meaning of law n. 43/1994)\n- SOVR\n- DEBT\n- SECU\n- ETFS\n- UCIT \n- MMKT\n"
+      }
+    ],
+    [
+      {
+        "cell": "A25",
+        "value": "Euronext Securities Porto"
+      },
+      {
+        "cell": "B25",
+        "value": "PT"
+      },
+      {
+        "cell": "C25",
+        "value": "529900LG70TCA "
+      },
+      {
+        "cell": "D25",
+        "value": "1) Real Time Securities Settlement System (IB SSS real time)\n2) Foreign Currency Settlement System (SLME)"
+      },
+      {
+        "cell": "E25",
+        "value": "CMVM"
+      },
+      {
+        "cell": "F25",
+        "value": "Art 16 - Initial authorisation to provide CSD services"
+      },
+      {
+        "cell": "G25",
+        "value": "2018-12-07 00:00:00"
+      },
+      {
+        "cell": "I25",
+        "value": "1,2,3 "
+      },
+      {
+        "cell": "J25",
+        "value": "I.  Services related to the settlement service:  \n\n1) Organising a securities lending mechanism, as agent among participants of a securities settlement system;  \n2) Providing collateral management services, as agent for participants in a securities settlement system;  \n3) Settlement matching, instruction routing, trade confirmation, trade verification and other functionalities such as maintenance of instructions (amendment, hold/release and cancelation).  \n\nII. Services related to the notary and central maintenance services:  \n\n1. Services related to shareholders\u2019 registers;  \n2. Supporting the processing of corporate actions, including tax, general meetings and information services;  \n3. New issue services, including allocation and management of ISIN codes and similar codes;  \n4. Instruction routing and processing, fee collection and processing and related reporting.  \n\nIII. Establishing CSD links, providing, maintaining or operating securities accounts in relation to the settlement service, collateral management, other ancillary services.  \n\nIV. Other services:  \n1.Providing IT services;  \n2.Providing regulatory reporting;  \n3.Providing information, data and statistics to market/census bureaus or other governmental or inter-government entities."
+      },
+      {
+        "cell": "K25",
+        "value": "Providing an Investment Funds Management System; \nProviding customised test sessions and specialised support;  \nProviding training services related to Interbolsa\u2019s activity.  "
+      },
+      {
+        "cell": "O25",
+        "value": "Settlement in EUR, central bank money"
+      },
+      {
+        "cell": "P25",
+        "value": "Eurosystem (T2S Platform) \n"
+      },
+      {
+        "cell": "Q25",
+        "value": "- SHRS \n- SOVR\n- DEBT\n- SECU\n- ETFS\n- UCIT \n- MMKT\n- EMAL\n- OTHR\n"
+      }
+    ],
+    [
+      {
+        "cell": "A34",
+        "value": "Euronext Securities Milan"
+      },
+      {
+        "cell": "B34",
+        "value": "IT"
+      },
+      {
+        "cell": "C34",
+        "value": "8156009CEEE1B8C7C646 "
+      },
+      {
+        "cell": "E34",
+        "value": "CONSOB/Bank of Italy"
+      },
+      {
+        "cell": "F34",
+        "value": "Art 19 - Outsourcing of a core service "
+      },
+      {
+        "cell": "G34",
+        "value": "13/11/2024"
+      },
+      {
+        "cell": "O34",
+        "value": "The outsourcing regards ICT activities relating to the use of the SWIFT communication network, falling within the Euronext SWIFT consolidation project.  \n\n"
+      },
+      {
+        "cell": "P34",
+        "value": "- ICT Euronext Technologies SAS \n- Euronext Technologies Srl \n- Euronext Technologies Unipessoal LDA \n- Interbolsa, SGSCSLVM S.A. (Euronext Securities Porto) \n- VP Securities A/S (Euronext Securities Copenhagen) \n- VP Securities A/S (Euronext Securities Oslo )\n- Verdipapirsentralen ASA (Euronext Securities Oslo) \n "
+      }
+    ],
+    [
+      {
+        "cell": "A36",
+        "value": "Euronext Securities Milan"
+      },
+      {
+        "cell": "B36",
+        "value": "IT"
+      },
+      {
+        "cell": "C36",
+        "value": "8156009CEEE1B8C7C646 "
+      },
+      {
+        "cell": "E36",
+        "value": "CONSOB/Bank of Italy"
+      },
+      {
+        "cell": "F36",
+        "value": "Art 19- Extension of activities"
+      },
+      {
+        "cell": "G36",
+        "value": "2026-07-02 00:00:00"
+      },
+      {
+        "cell": "H36",
+        "value": "Euronext Securities Milan  is authorised to provide the ancillary service known as \u201cUK Stamp Duty\u201d, relating to the stamp duty applicable to shares issued by UK issuers"
+      },
+      {
+        "cell": "K36",
+        "value": "Fiscal Services - Assistance in relation to the application of the tax on financial instruments transactions under UK law\"UK Stamp Duty\""
+      }
+    ]
+  ]
+}

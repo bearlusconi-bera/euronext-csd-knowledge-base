@@ -1,0 +1,194 @@
+Banca d'Italia - Regolamento titoli
+Vai al contenuto principale
+Apri menu di navigazione
+Home page
+Cerca nel sito
+|
+IT
+EN
+Go to english version
+Regolamento titoli
+Condividi
+Stampa la pagina
+Nell'ambito delle attività di post-trading, con il termine regolamento si indicano le funzioni delle infrastrutture dei mercati finanziari finalizzate alla realizzazione dello scambio, tra venditore e acquirente, degli strumenti finanziari da un lato e del controvalore in contanti pattuito dall'altro.
+Un sistema di regolamento titoli è un'infrastruttura di mercato che gestisce, sulla base di procedure contrattuali e operative, le diverse fasi successive alla stipula della compravendita tra intermediari, consentendo le attività di compensazione e liquidazione, fino a pervenire al regolamento finale; che rappresenta il momento conclusivo di una transazione.
+Il regolamento delle operazioni in titoli può avvenire su base lorda (operazione per operazione) o su base netta (regolamento del saldo risultante dalla compensazione di più operazioni); in seguito al processo di dematerializzazione, il regolamento è eseguito sempre mediante scritturazioni contabili sui conti degli intermediari aperti presso il sistema di gestione accentrata degli strumenti finanziari.
+La Banca d'Italia ha gestito fino al 2004 il "Servizio di Compensazione e di Liquidazione delle operazioni su strumenti finanziari", un sistema di regolamento titoli funzionante su base netta. L'attuale assetto delle attività di regolamento è il risultato delle disposizioni del testo unico della finanza (c.d. TUF) del 1998 che ha riconosciuto il carattere privatistico dell'attività di gestione dei sistemi di regolamento titoli, e ha affidato alla Banca d'Italia, d'intesa con la Consob (art. 69 del TUF), il compito di disciplinare il funzionamento dei servizi di liquidazione e a conferire l' autorizzazione alla loro gestione.
+Con provvedimento del 30 ottobre 2000 la Banca d'Italia, d'intesa con la Consob, ha autorizzato Monte Titoli SpA alla gestione dei servizi di liquidazione e ne ha approvato il relativo "Regolamento Operativo dei Servizi di liquidazione Express II e delle attività accessorie". Tale società privata è sottoposta alla vigilanza di Banca d'Italia e Consob (art. 77 del TUF).
+Monte Titoli è l'unica società italiana autorizzata da Banca d'Italia e Consob a gestire servizi di regolamento titoli; questi sono forniti tramite il sistema denominato Express II. Il "Regolamento operativo", approvato dalle due autorità, disciplina l'organizzazione e il funzionamento di detti servizi.
+Express II integra al suo interno un sistema netto (a sua volta articolato in due cicli di cui uno notturno) e uno lordo; esso ha un funzionamento basato su regole in linea con principi e standard condivisi in ambito internazionale ed è dotato di un particolare meccanismo che permette al sistema di determinare il risultato di regolamento ottimale, date le disponibilità in titoli e in contante dei partecipanti.
+Le operazioni effettuate nell'ambito dei sistemi di regolamento assumono carattere di definitività e non possono essere dichiarate inefficaci a seguito dell'effetto retroattivo dell'apertura di procedure concorsuali. La materia è attualmente disciplinata dalla direttiva 2009/44/CE (che ha modificato la direttiva 1998/26/CE), recepita con il d.lgs. 24 marzo 2011, n. 48.
+Nel 2008 Banca d'Italia e Consob hanno ravvisato l'opportunità di emanare un unico testo normativo, conosciuto come Provvedimento Unico al fine di consolidare le numerose fonti regolamentari all'epoca in vigore, che riguardavano fra l'altro: il funzionamento dei servizi di gestione accentrata, garanzia e liquidazione degli strumenti finanziari; la definitività degli ordini di trasferimento degli strumenti finanziari; la liquidazione delle insolvenze di mercato; le istruzioni di vigilanza per le società del post-trading; le linee-guida in materia di business continuity e di outsourcing di attività strategiche.
+Il "Regolamento recante la disciplina dei servizi di gestione accentrata, di liquidazione, dei sistemi di garanzia e delle relative società di gestione" (adottato dalla Banca d'Italia e dalla Consob con provvedimento del 22 febbraio 2008 e successivamente modificato nel dicembre 2010 e nell'ottobre 2013), ha quindi costituito il riflesso delle esigenze di semplificazione normativa e riduzione del numero di provvedimenti e atti di natura regolamentare nonché delle istanze di coordinamento fra autorità.
+A livello europeo è di prossima emanazione un regolamento relativo alla razionalizzazione del settore del regolamento titoli nell'Unione europea e dei depositari centrali di titoli (CSD), noto con il nome di "CSD Regulation", che ha il duplice obiettivo di creare in Europa un mercato unico dei servizi di gestione accentrata e di regolamento dei titoli e di favorire un'attenuazione dei rischi di regolamento delle transazioni in strumenti finanziari.
+Nell'ambito dell'attività di supervisione svolta dalla Banca d'Italia rientra la verifica di conformità (assessment) del sistema di regolamento titoli italiano rispetto agli standard internazionali applicabili (ESCB-CESR Recommendations for Securities Settlement Systems e, dall'aprile 2012 CPSS-IOSCO Principles for Financial Markets Infrastructures).
+Dal 31 agosto 2015 è operativo il nuovo Servizio di liquidazione "Settlement Service managed by Monte Titoli S.p.A. and operated by means of T2S platform", dopo il completamento della migrazione della piazza finanziaria italiana alla piattaforma Target 2 Securities (T2S) gestita dall'Eurosistema. Le modalità di offerta del nuovo Servizio tengono conto della cessione in outsourcing, da parte del CSD italiano, Monte Titoli, del servizio di regolamento delle operazioni in titoli alla piattaforma T2S.
+Sezione di approfondimento
+Normativa comunitaria
+Orientamenti ESA JC 2024 34 del 5 giugno 2024Orientamenti congiunti sulla stima dei costi e delle perdite annuali aggregati causati da gravi incidenti connessi alle TIC a norma del regolamento (UE) 2022/2554
+Orientamenti ESMA 50-164-4285 del 10/05/2021Orientamenti in materia di esternalizzazione a fornitori di servizi cloud
+Direttiva 2010/78/UE del 24 ottobre 2010 (c.d. omnibus)Modifica delle direttive 98/26/CE, 2002/87/CE, 2003/6/CE, 2003/41/CE, 2003/71/CE, 2004/39/CE, 2004/109/CE, 2005/60/CE, 2006/48/CE, 2006/49/CE e 2009/65/CE per quanto riguarda i poteri dell'EBA, dell'EIOPA e dell'ESMA
+Direttiva 2009/44/CE del 6 maggio 2009Modifica direttive 1998/26/CE concernente il carattere definitivo del regolamento nei sistemi di pagamento e nei sistemi di regolamento titoli e 2002/47/CE relativa ai contratti di garanzia finanziaria per quanto riguarda i sistemi connessi e i crediti
+Direttiva 2002/47/CE del 6 giugno 2002 relativa ai contratti di garanzia finanziaria
+Direttiva 1998/26/CE del 19 maggio 1998concernente il carattere definitivo del regolamento nei sistemi di pagamento e nei sistemi di regolamento titoli
+Normativa nazionale primaria
+Decreto legislativo 30 luglio 2012, n. 130Attuazione direttiva 2010/78/CE, che modifica le direttive 98/26/CE, 2002/87/CE, 2003/6/CE, 2003/41/CE, 2003/71/CE, 2004/39/CE, 2004/109/CE, 2005/60/CE, 2006/48/CE, 2006/49/CE e 2009/65/CE per quanto riguarda i poteri dell'EBA, dell'EIOPA e dell'AESFM
+Decreto legislativo 24 marzo 2011, n. 48Attuazione direttiva 2009/44/CE che modifica la direttiva 1998/26/CE e la direttiva 2002/47/CE
+Legge 28 dicembre 2005, n. 262Disposizioni per la tutela del risparmio e la disciplina dei mercati finanziari
+Decreto legislativo 21.5.2004, n. 170Attuazione della direttiva 2002/47/CE, in materia di contratti di garanzia finanziaria
+Decreto legislativo 12 aprile 2001, n. 210Attuazione della direttiva 1998/26/CE sulla definitività degli ordini immessi in un sistema di pagamento o di regolamento titoli
+Decreto legislativo 24 febbraio 1998, n. 58Testo unico delle disposizioni in materia di intermediazione finanziaria (TUF)
+Normativa nazionale secondaria
+Data Pubblicazione::16 maggio 2025
+Nota n. 51 del 16/05/2025 pdf
+374 KB
+Data Pubblicazione::02 novembre 2022
+Provvedimento del 5 ottobre 2022 pdf
+75 KB
+Applicazione agli enti italiani partecipanti al sistema CREST UK gestito da Euroclear UK & International, regolato dalla legge inglese, delle disposizioni del decreto legislativo 12 aprile 2001, n. 210, e successive modificazioni, ai sensi dell'art. 10, comma 5, del medesimo decreto.
+Data Pubblicazione::19 ottobre 2022
+Modifiche al provvedimento unico sul post-trading pdf
+142 KB
+All'interno dell'articolato, le modifiche apportate con l'atto congiunto Banca d'Italia/CONSOB del 10 ottobre 2022 sono evidenziate in grassetto
+Data Pubblicazione::13 luglio 2021
+Nota di attuazione degli Orientamenti dell'ESMA in materia di esternalizzazione a fornitori di servizi cloud pdf
+161 KB
+Data Pubblicazione::07 settembre 2018
+Provvedimento del 2 agosto 2018 pdf
+39 KB
+Equiparazione - ai fini dell'applicazione del decreto legislativo 12 aprile 2001, n. 210 - dei partecipanti indiretti ai partecipanti al "Servizio di liquidazione gestito dalla Monte Titoli S.p.A. e operato mediante la piattaforma T2S"
+Data Pubblicazione::05 settembre 2018
+Relazione illustrativa del nuovo "Provvedimento Unico sul Post-trading" del 13 agosto 2018 pdf
+143 KB
+Data Pubblicazione::31 agosto 2018
+Provvedimento del 13 agosto 2018 contenente la disciplina delle controparti centrali, dei depositari centrali pdf
+632 KB
+e dell'attività di gestione accentrata
+Data Pubblicazione::23 marzo 2015
+Disciplina dei servizi di gestione accentrata, di liquidazione, dei sistemi di garanzia e delle relative società di gestione pdf
+226 KB
+Disciplina adottata con provvedimento del 22 febbraio 2008 e successivamente modificata con provvedimenti del 24 dicembre 2010, del 22 ottobre 2013, dell' 11 febbraio 2015 e del 24 febbraio 2015 - versione integrale e annotata
+Data Pubblicazione::08 settembre 2015
+Provvedimento 27 luglio 2015 pdf
+39 KB
+Designazione ai sensi del D.Lgs. n. 210/2001 del Servizio di liquidazione gestito dalla Monte Titoli e operato mediante la piattaforma T2S e revoca della designazione dei sistemi di regolamento gestiti dalla Monte Titoli
+Data Pubblicazione::12 marzo 2015
+Provvedimento 2 marzo 2015 pdf
+64 KB
+Designazione ai sensi del D.Lgs. n. 210/2001 della procedura di liquidazione del Servizio di Collateral Management (X-COM)
+Data Pubblicazione::23 marzo 2015
+Provvedimento 24 febbraio 2015 pdf
+58 KB
+Modifiche al provvedimento 22 febbraio 2008 recante Disciplina dei servizi di gestione accentrata, di liquidazione, dei sistemi di garanzia e delle relative società di gestione
+Data Pubblicazione::10 marzo 2015
+Provvedimento 11 febbraio 2015 pdf
+41 KB
+Modifiche al provvedimento 22 febbraio 2008 recante "Disciplina dei servizi di gestione accentrata, di liquidazione, dei sistemi di garanzia e delle relative società di gestione"
+Data Pubblicazione::10 novembre 2014
+Provvedimento 22 ottobre 2013 pdf
+171 KB
+Modifiche al provvedimento 22 febbraio 2008 recante Disciplina dei servizi di gestione accentrata, di liquidazione, dei sistemi di garanzia e delle relative società di gestione
+Data Pubblicazione::28 dicembre 2010
+Provvedimento 24 dicembre 2010 pdf
+601 KB
+Modifiche al provvedimento 22 febbraio 2008 recante Disciplina dei servizi di gestione accentrata, di liquidazione, dei sistemi di garanzia e delle relative società di gestione
+Data Pubblicazione::19 aprile 2007
+Provvedimento 9 giugno 2004 pdf
+17 KB
+Attuazione degli articoli 3 e 11 del decreto legislativo 12 aprile 2001, n. 210, di recepimento della direttiva 98/26/CE sulla definitività degli ordini immessi in un sistema di pagamento o di regolamento titoli
+Data Pubblicazione::01 aprile 2007
+Provvedimento della Banca d'Italia del 30 ottobre 2000 pdf
+16 KB
+Autorizzazione alla gestione dei servizi di liquidazione delle operazioni su strumenti finanziari non derivati rilasciata alla società Monte Titoli Spa
+Data Pubblicazione::19 aprile 2007
+Provvedimento 20 ottobre 2003 pdf
+18 KB
+Designazione dei servizi di liquidazione "EXPRESS II" gestiti dalla Monte Titoli S.p.A. (ai sensi del decreto legislativo 210/2001 in materia di definitività dei sistemi di regolamento titoli)
+Data Pubblicazione::02 gennaio 2014
+Assessment of Monte Titoli’s observance of the ESCB-CESR Recommendations for Securities Settlement Systems (solo in inglese) pdf
+48 KB
+Data Pubblicazione::02 gennaio 2014
+Principles for Financial Markets Infrastructures (solo in inglese) pdf
+832 KB
+Link utili
+Data Pubblicazione::27 gennaio 2015
+Workshop sulle misure di implementazione del Regolamento CSDR pdf
+106 KB
+ESMA - European Securities and Markets Authority - Post Trading
+BIS – Committee on Payments and Market Infrastructures – CPMI
+ECB – European Central Bank – Markets and Payments
+ECSDA – European Central Securities Depositories Association
+Argomenti Correlati
+Gestione accentrata dei titoli
+Il testo unico della finanza attribuisce alla Banca d'Italia e alla Consob poteri normativi, di autorizzazione e di controllo nei confronti delle società di gestione accentrata.
+Footer
+(torna all'home page)
+via Nazionale 91
+00184 Roma
+Tel +39 06 47921
+PEC
+bancaditalia@pec.bancaditalia.it
+E-mail
+email@bancaditalia.it
+Contatti
+Link utili
+Mappa del sito
+Servizi online con accesso SPID
+Filiali
+Lavorare in Banca d'Italia
+Tassi effettivi globali medi (TEGM)
+Glossario
+FAQ
+Siti correlati
+Unità di Informazione Finanziaria (UIF)
+Arbitro Bancario e Finanziario (ABF)
+IVASS
+Premio per la scuola "Inventiamo una banconota"
+L'Economia per tutti
+Portale di prenotazione on-line delle visite a Palazzo Koch
+Mudem
+Altri siti
+Convenzione Interbancaria per l'Automazione (CIPA)
+€-coin
+CERTFin
+Cooperazione PUMA
+Siti delle banche centrali
+Portale della vigilanza bancaria
+Comitato per le politiche macroprudenziali
+Informazioni su questo sito
+Informativa Privacy
+Preferenze cookie
+Disclaimer
+Copyright
+Open Data - metadati AgID (RDF)
+Altre informazioni legali
+Trasparenza
+Protezione dei dati
+Servizio di certificazione delle chiavi pubbliche
+Atti di notifica
+Seguici su
+Instagram
+YouTube
+X - Banca d’Italia
+X - Ufficio Stampa
+Linkedin
+RSS
+E-mail Alert
+© Banca d'Italia
+PARTITA IVA 00950501007
+Codice Fiscale 00997670583
+✕
+Informativa sui cookie:
+La Banca d'Italia utilizza cookie tecnici necessari al funzionamento del sito e cookie di terze parti: per maggiori informazioni e per sapere come abilitarli in modo selettivo leggere l'informativa sulla privacy. Utilizzare uno dei seguenti pulsanti per esprimere la propria preferenza. Se si clicca sulla X in alto a destra o sul pulsante “Chiudi/Rifiuta tutti i cookie non necessari” saranno attivati i soli cookie tecnici interni al sito.
+Accetta tutti i cookie
+Preferenze cookie
+Chiudi/Rifiuta tutti i cookie non necessari
+go to english version
+✕
+About this site's cookies:
+The Bank of Italy uses technical and third-party cookies for the operation of the site: for more information and to know how to selectively enable cookies, read the Privacy Policy.
+Click on one of the buttons below to express your preference. If you click "Close/Reject all cookies", only the internal technical cookies of the site will be activated.
+Accept all cookies
+Go to cookie preferences
+Close/Reject all not necessary cookies
+leggi la versione italiana

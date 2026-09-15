@@ -1,0 +1,20 @@
+{
+  "url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%209%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A312042021.pdf",
+  "id": "cfa670f7e37b",
+  "original_sha256": "72b85fd5f48de4cff8caf28583fb760f23cd0861c1ed59ba1c57ba1425c546d2",
+  "title": "ATHEXCSD Resolution 9",
+  "kind": "additional-existing-document",
+  "audit_id": "cfa670f7e37b",
+  "retrieved_at_utc": "2026-09-13T16:19:33.362076+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%209%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A312042021.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Wed, 01 May 2024 11:02:23 GMT",
+  "etag": "\"477d8-617626bcb8dc0\"",
+  "sha256": "72b85fd5f48de4cff8caf28583fb760f23cd0861c1ed59ba1c57ba1425c546d2",
+  "bytes": 292824,
+  "saved_path": "sources/cfa670f7e37b.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 18,
+  "text_path": "extracted/cfa670f7e37b.md"
+}

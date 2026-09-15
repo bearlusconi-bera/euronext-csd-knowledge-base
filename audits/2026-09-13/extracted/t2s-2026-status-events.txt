@@ -1,0 +1,291 @@
+12/09/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English11/09/2026 05:00:00T2S is operating normally.
+English10/09/2026 05:00:00T2S is operating normally.
+English09/09/2026 05:00:00T2S is operating normally.
+English08/09/2026 20:00:00T2S is operating normally.
+English08/09/2026 18:55:00T2S is operating normally. The previous incident impacting the ICBO event (Intraday CBO cut-off) has been resolved. The IFOP event (Intraday FoP cut-off) closed at 18:39.
+English08/09/2026 18:10:00T2S is currently facing an incident impacting the ICBO event (Intraday CBO cut-off). As a result of the incident, the operating day is blocked and the IFOP event (Intraday FoP cut-off) did not start.
+The incident does not have any impact on any other T2S functionality.
+The Eurosystem is taking all measures necessary to resolve the incident as soon as possible.
+Updated information will be provided at the latest by 19:00.
+English08/09/2026 15:30:00There is currently no incident in T2S. However, the operating day schedule has been changed, due to a request by a Central Securities Depository. The start of the EUR delivery versus payment cut-off (event IDVP) has been postponed by 60 minutes (from 16:00 to 17:00). Consequently, the Reimbursement of Auto-collateralisation instructions (event RMIC) and the Optional Cash Sweep (event OCSW) have also been delayed and will take place 15 minutes after closure of the delivery-versus-payment cut-off. The second optional cash sweep (event OCS2) to CLM remains at 17:45 and the; free of payment cut-off (event IFOP) remains at 18:00.
+English08/09/2026 05:00:00T2S is operating normally.
+English07/09/2026 02:30:00T2S is operating normally.
+English05/09/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English04/09/2026 05:00:00T2S is operating normally.
+English03/09/2026 05:00:00T2S is operating normally.
+English02/09/2026 05:00:00T2S is operating normally.
+English01/09/2026 05:00:00T2S is operating normally.
+English31/08/2026 02:30:00T2S is operating normally.
+English29/08/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English28/08/2026 05:00:00T2S is operating normally.
+English27/08/2026 05:00:00T2S is operating normally.
+English26/08/2026 17:30:00T2S is operating normally.
+English26/08/2026 16:40:00T2S is operating normally and the earlier incident on Penalty Mechanism processing was resolved.
+The incident did not impact the operating day schedule.
+English26/08/2026 16:35:00T2S is operating normally and the earlier incident on Penalty Mechanism processing was resolved.
+The incident did not impact the operating day schedule.
+English26/08/2026 15:10:00T2S is currently facing an incident impacting Penalty Mechanism processing. The incident does not have any impact on any other T2S functionality.
+There is no foreseen impact on the operating day schedule.
+The Eurosystem is taking all measures necessary to resolve the incident as soon as possible.
+Updated information will be provided at the latest by 17:30.
+English26/08/2026 05:00:00T2S is operating normally.
+English25/08/2026 05:00:00T2S is operating normally.
+English24/08/2026 02:30:00T2S is operating normally.
+English22/08/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English21/08/2026 05:00:00T2S is operating normally.
+English20/08/2026 05:00:00T2S is operating normally.
+English19/08/2026 05:00:00T2S is operating normally.
+English18/08/2026 05:00:00T2S is operating normally.
+English17/08/2026 02:30:00T2S is operating normally.
+English15/08/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English14/08/2026 05:00:00T2S is operating normally.
+English13/08/2026 05:00:00T2S is operating normally.
+English12/08/2026 05:00:00T2S is operating normally.
+English11/08/2026 05:00:00T2S is operating normally.
+English10/08/2026 02:30:00T2S is operating normally.
+English08/08/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English07/08/2026 05:00:00T2S is operating normally.
+English06/08/2026 05:00:00T2S is operating normally.
+English05/08/2026 05:00:00T2S is operating normally.
+English04/08/2026 05:00:00T2S is operating normally.
+English03/08/2026 02:30:00T2S is operating normally.
+English01/08/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English31/07/2026 05:00:00T2S is operating normally.
+English30/07/2026 05:00:00T2S is operating normally.
+English29/07/2026 05:00:00T2S is operating normally.
+English28/07/2026 05:00:00T2S is operating normally.
+English27/07/2026 02:30:00T2S is operating normally.
+English25/07/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English24/07/2026 05:00:00T2S is operating normally.
+English23/07/2026 05:00:00T2S is operating normally.
+English22/07/2026 05:00:00T2S is operating normally.
+English21/07/2026 05:00:00T2S is operating normally.
+English20/07/2026 02:30:00T2S is operating normally.
+English18/07/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English17/07/2026 05:00:00T2S is operating normally.
+English16/07/2026 05:00:00T2S is operating normally.
+English15/07/2026 05:00:00T2S is operating normally.
+English14/07/2026 05:00:00T2S is operating normally.
+English13/07/2026 21:00:00T2S is operating normally and the earlier issue was resolved i.e. Night Time Settlement started at 20:56.
+English13/07/2026 20:20:00T2S is currently facing an incident impacting the timely start of Night Time Settlement.
+The incident does not have any impact on any other T2S functionality.
+The Eurosystem is taking all measures necessary to resolve the incident as soon as possible.
+Updated information will be provided at the latest by 21:30.
+English12/07/2026 23:00:00T2S is operating normally.
+English11/07/2026 02:30:00T2S is closed. The T2S operator is performing internal testing activities in the production environment during the weekend maintenance window of 11 â 12 July. Normally, during the maintenance window, instructions are queued. Due to the testing activities, messages via SWIFT towards T2S during the testing period between Saturday at 05:00 CEST until, maximum, to Sunday at 13:00 CEST, will be rejected with the NACK status. T2S Actors will need to resend any rejected messages to T2S once the maintenance window has closed with the early reopening on Sunday, 12 July at 23:00 CEST.
+English10/07/2026 05:00:00T2S is operating normally.
+English09/07/2026 05:00:00T2S is operating normally.
+English08/07/2026 15:00:00T2S is operating normally. The T2S operator will perform internal testing activities in the production environment during the weekend maintenance window of 11 â 12 July. Normally, during the maintenance window, instructions are queued. Due to the testing activities, messages via SWIFT towards T2S during the testing period between Saturday at 05:00 CEST until, maximum, to Sunday at 13:00 CEST, will be rejected with the NACK status. T2S Actors will need to resend any rejected messages to T2S once the maintenance window has closed with the early reopening on Sunday, 12 July at 23:00 CEST.
+English08/07/2026 05:00:00T2S is operating normally.
+English07/07/2026 05:00:00T2S is operating normally.
+English05/07/2026 21:00:00T2S is operating normally.
+English04/07/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English03/07/2026 05:00:00T2S is operating normally.
+English02/07/2026 05:00:00T2S is operating normally.
+English01/07/2026 17:25:00T2S is operating normally.
+English01/07/2026 13:25:00T2S is operating normally and the earlier incident impacting the sending of Billing invoices for CSDs for June 2026 was resolved. The incident did not impact the operating day schedule.
+English01/07/2026 11:25:00T2S is currently facing an incident impacting the timely sending of Billing invoices for CSDs for June 2026. There is no impact on any other T2S functionality. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 14:30.
+English01/07/2026 05:00:00T2S is operating normally.
+English30/06/2026 05:00:00T2S is operating normally.
+English28/06/2026 21:00:00T2S is operating normally.
+English27/06/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English26/06/2026 05:00:00T2S is operating normally.
+English25/06/2026 05:00:00T2S is operating normally.
+English24/06/2026 05:00:00T2S is operating normally.
+English23/06/2026 05:00:00T2S is operating normally.
+English22/06/2026 02:30:00T2S is operating normally.
+English20/06/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English19/06/2026 05:00:00T2S is operating normally.
+English18/06/2026 05:00:00T2S is operating normally.
+English17/06/2026 05:00:00T2S is operating normally.
+English16/06/2026 05:00:00T2S is operating normally.
+English15/06/2026 11:15:00T2S is operating normally and the earlier incident impacting one Graphical User Interface Screen (Cash account postings) was resolved.
+English15/06/2026 10:15:00T2S is currently facing an incident impacting one Graphical User Interface Screen (Cash account postings). However, all other screens remain available. Application-to-Application (A2A) Connectivity to ESMIG is not impacted by the incident and is working normally.
+There is no impact on any other T2S functionality.
+The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 12:00.
+English15/06/2026 02:30:00T2S is operating normally.
+English14/06/2026 15:00:00T2S is closed and will reopen in accordance with its schedule.
+English14/06/2026 14:40:00T2S June 2026 Release deployment has been completed successfully and the A2A channels have been reopened. T2S is operating normally and will enter the Maintenance Window at 15:00 CEST until 02:30 CEST on Monday, 15 June 2026.
+English14/06/2026 01:40:00T2S June 2026 Release deployment has been completed successfully and the A2A channels have been reopened. T2S is operating normally.
+English12/06/2026 20:05:00T2S is closed due to ongoing activities relating to the deployment of T2S June 2026 Release.
+English12/06/2026 05:00:00T2S is operating normally.
+English11/06/2026 05:00:00T2S is operating normally.
+English10/06/2026 17:25:00T2S is operating normally and the earlier incident on Penalty Mechanism processing was resolved.
+The incident did not impact the operating day schedule.
+English10/06/2026 15:25:00T2S is currently facing an incident impacting Penalty Mechanism processing.
+The incident does not have any impact on any other T2S functionality. There is no foreseen impact on the operating day schedule.
+The Eurosystem is taking all measures necessary to resolve the incident as soon as possible.
+Updated information will be provided at the latest by 17:30.
+English10/06/2026 08:50:00T2S is operating normally and the earlier incident on Application-to-Application (A2A) and User-to-Application (U2A) Connectivity was resolved 08:35. Instructions in T2S are processed normally.
+The incident did not impact the operating day schedule.
+English10/06/2026 07:30:00T2S is currently facing an incident impacting Application-to-Application (A2A) Connectivity and User-to-Application (U2A) Connectivity. Some instructions may not be processed in T2S.
+The incident does not have any impact on any other T2S functionality. There is no foreseen impact on the operating day schedule.
+The Eurosystem is taking all measures necessary to resolve the incident as soon as possible.
+Updated information will be provided at the latest by 09:00
+English10/06/2026 05:00:00T2S is operating normally.
+English09/06/2026 05:00:00T2S is operating normally.
+English08/06/2026 02:30:00T2S is operating normally.
+English06/06/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English05/06/2026 05:00:00T2S is operating normally.
+English04/06/2026 05:00:00T2S is operating normally.
+English03/06/2026 05:00:00T2S is operating normally.
+English02/06/2026 05:00:00T2S is operating normally.
+English01/06/2026 02:30:00T2S is operating normally.
+English30/05/2026 07:00:00T2S is closed and will reopen in accordance with its schedule.
+English30/05/2026 06:00:00T2S is operating normally. However, the operating day schedule has been changed, due to a request by a Central Securities Depository. The start of the weekend Maintenance Window has been postponed from 02:30 to 07:00 CEST. Updated information will be provided at the latest by 07:00 CEST.
+English30/05/2026 01:00:00T2S is operating normally. However, the operating day schedule has been changed, due to a request by a Central Securities Depository. The start of the weekend Maintenance Windows has been postponed and will not start at 02:30 CEST. Updated information will be provided at the latest by 06:00 CEST.
+English29/05/2026 05:00:00T2S is operating normally.
+English28/05/2026 05:00:00T2S is operating normally.
+English27/05/2026 05:00:00T2S is operating normally.
+English26/05/2026 05:00:00T2S is operating normally.
+English25/05/2026 02:30:00T2S is operating normally.
+English23/05/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English22/05/2026 05:00:00T2S is operating normally.
+English21/05/2026 05:00:00T2S is operating normally.
+English20/05/2026 05:00:00T2S is operating normally.
+English19/05/2026 05:00:00T2S is operating normally.
+English18/05/2026 19:00:00T2S is operating normally.
+English18/05/2026 13:40:00T2S is operating normally. The previous incident regarding the NRO functionality has been resolved.
+English18/05/2026 12:40:00T2S CRDM is currently facing an incident impacting the usage of the Non-Repudiation of Origin (NRO) functionality for the signing of actions in the CRDM Graphical Users Interface. There is no impact on any other T2S functionality. There is no foreseen impact on the operating day schedule. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 14:30.
+English18/05/2026 11:30:00T2S CRDM is currently facing an incident impacting the usage of the Non-Repudiation of Origin (NRO) functionality for the signing of actions in the CRDM Graphical Users Interface. There is no impact on any other T2S functionality. There is no foreseen impact on the operating day schedule. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 13:00.
+English18/05/2026 02:30:00T2S is operating normally.
+English16/05/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English15/05/2026 05:00:00T2S is operating normally.
+English14/05/2026 05:00:00T2S is operating normally.
+English13/05/2026 05:00:00T2S is operating normally.
+English12/05/2026 05:00:00T2S is operating normally.
+English11/05/2026 02:30:00T2S is operating normally.
+English09/05/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English08/05/2026 05:00:00T2S is operating normally.
+English07/05/2026 05:00:00T2S is operating normally.
+English06/05/2026 05:00:00T2S is operating normally.
+English05/05/2026 05:00:00T2S is operating normally.
+English04/05/2026 02:30:00T2S is operating normally.
+English02/05/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English01/05/2026 05:00:00T2S is operating normally.
+English30/04/2026 05:00:00T2S is operating normally.
+English29/04/2026 05:00:00T2S is operating normally.
+English28/04/2026 05:00:00T2S is operating normally.
+English26/04/2026 21:00:00T2S is operating normally.
+English25/04/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English24/04/2026 05:00:00T2S is operating normally.
+English23/04/2026 05:00:00T2S is operating normally.
+English22/04/2026 16:35:00T2S is operating normally.
+English22/04/2026 11:15:00T2S is operating normally. However due to a configuration issue, the monthly reporting for the Penalty Mechanism was sent twice - on 20 April 2026 and on 22 April 2026.
+English22/04/2026 05:00:00T2S is operating normally.
+English21/04/2026 05:00:00T2S is operating normally.
+English21/04/2026 00:20:00T2S is operating normally.
+The earlier incident blocking the Night-Time Settlement phase was resolved at 00:07.
+English21/04/2026 00:05:00T2S is currently facing an incident impacting the Night-Time Settlement phase. As a result of the incident, the Cycle 1 Sequence 2 event is blocked.
+The incident does not have any impact on any other T2S functionality.
+The Eurosystem is taking all measures necessary to resolve the incident as soon as possible.
+Updated information will be provided at the latest by 00:45.
+English20/04/2026 23:10:00T2S is currently facing an incident impacting the Night-Time Settlement phase. As a result of the incident, the Cycle 1 Sequence 2 event is blocked.
+The incident does not have any impact on any other T2S functionality.
+The Eurosystem is taking all measures necessary to resolve the incident as soon as possible.
+Updated information will be provided at the latest by 00:00.
+English20/04/2026 02:30:00T2S is operating normally.
+English18/04/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English17/04/2026 05:00:00T2S is operating normally.
+English16/04/2026 05:00:00T2S is operating normally.
+English15/04/2026 05:00:00T2S is operating normally.
+English14/04/2026 05:00:00T2S is operating normally.
+English13/04/2026 23:30:00T2S is operating normally.
+English13/04/2026 22:55:00There is currently no incident in T2S. However, the operating day schedule has been changed, due to a request by a Central Securities Depository, affecting the overall duration of one Night-Time Settlement phase. Updated information will follow by 23:45.
+English13/04/2026 22:05:00T2S is operating normally and the earlier incident impacting the Start-of-day phase has been resolved. As a result of the incident, the T2S night-time settlement phase started with a delay at 22:02.
+English13/04/2026 21:30:00T2S is currently facing a long duration of the Start of Day phase. As a result of the incident, the Night-Time Settlement phase has been impacted and has not started yet. The incident does not have any impact on any other T2S functionality. There is no foreseen impact on the operating day schedule. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 22:45.
+English13/04/2026 20:35:00T2S is currently facing a long duration of the Start of Day phase. As a result of the incident, the Night-Time Settlement phase has been impacted and has not started yet. The incident does not have any impact on Connectivity / Life Cycle Management and Matching / Settlement / Penalty Mechanism processing / Reference Data Management. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 21:30.
+English13/04/2026 02:30:00T2S is operating normally.
+English11/04/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English10/04/2026 05:00:00T2S is operating normally.
+English09/04/2026 05:00:00T2S is operating normally.
+English08/04/2026 05:00:00T2S is operating normally.
+English07/04/2026 05:00:00T2S is operating normally.
+English06/04/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English04/04/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English03/04/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English02/04/2026 05:00:00T2S is operating normally.
+English01/04/2026 05:00:00T2S is operating normally.
+English31/03/2026 05:00:00T2S is operating normally.
+English29/03/2026 21:00:00T2S is operating normally.
+English28/03/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English27/03/2026 05:00:00T2S is operating normally.
+English26/03/2026 05:00:00T2S is operating normally.
+English25/03/2026 05:00:00T2S is operating normally.
+English24/03/2026 05:00:00T2S is operating normally.
+English22/03/2026 21:00:00T2S is operating normally.
+English21/03/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English20/03/2026 05:00:00T2S is operating normally.
+English19/03/2026 05:00:00T2S is operating normally.
+English18/03/2026 05:00:00T2S is operating normally.
+English17/03/2026 05:00:00T2S is operating normally.
+English15/03/2026 21:00:00T2S is operating normally.
+English14/03/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English13/03/2026 05:00:00T2S is operating normally.
+English12/03/2026 05:00:00T2S is operating normally.
+English11/03/2026 05:00:00T2S is operating normally.
+English10/03/2026 05:00:00T2S is operating normally.
+English09/03/2026 02:30:00T2S is operating normally.
+English07/03/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English06/03/2026 05:00:00T2S is operating normally.
+English05/03/2026 05:00:00T2S is operating normally.
+English04/03/2026 05:00:00T2S is operating normally.
+English03/03/2026 05:00:00T2S is operating normally.
+English02/03/2026 02:30:00T2S is operating normally.
+English28/02/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English28/02/2026 00:25:00T2S is operating normally. The night-time settlement (NTS) phase was completed at 00:19, and the real-time settlement phase started at 00:19.
+English27/02/2026 23:30:00T2S is operating normally. Due to an earlier incident in T2S the closure of night-time settlement will be delayed. Updated information will be provided at the latest by 00:30.
+English27/02/2026 05:00:00T2S is operating normally.
+English26/02/2026 05:00:00T2S is operating normally.
+English24/02/2026 05:00:00T2S is operating normally.
+English23/02/2026 02:30:00T2S is operating normally.
+English21/02/2026 16:00:00T2S is closed and will reopen in accordance with its schedule.
+English20/02/2026 05:00:00T2S is operating normally.
+English19/02/2026 05:00:00T2S is operating normally.
+English18/02/2026 05:00:00T2S is operating normally.
+English17/02/2026 05:00:00T2S is operating normally.
+English16/02/2026 02:30:00T2S is operating normally.
+English14/02/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English13/02/2026 05:00:00T2S is operating normally.
+English12/02/2026 05:00:00T2S is operating normally.
+English11/02/2026 05:00:00T2S is operating normally.
+English10/02/2026 05:00:00T2S is operating normally.
+English08/02/2026 21:00:00T2S is operating normally.
+English07/02/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English06/02/2026 05:00:00T2S is operating normally.
+English05/02/2026 05:00:00T2S is operating normally.
+English04/02/2026 05:00:00T2S is operating normally.
+English03/02/2026 05:00:00T2S is operating normally.
+English02/02/2026 02:30:00T2S is operating normally.
+English31/01/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English30/01/2026 05:00:00T2S is operating normally.
+English29/01/2026 05:00:00T2S is operating normally.
+English28/01/2026 05:00:00T2S is operating normally.
+English27/01/2026 05:00:00T2S is operating normally.
+English25/01/2026 21:00:00T2S is operating normally.
+English24/01/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English23/01/2026 05:00:00T2S is operating normally.
+English22/01/2026 05:00:00T2S is operating normally.
+English21/01/2026 05:00:00T2S is operating normally.
+English20/01/2026 05:00:00T2S is operating normally.
+English18/01/2026 21:00:00T2S is operating normally.
+English17/01/2026 13:30:00T2S is closed and will reopen in accordance with its schedule.
+English16/01/2026 18:45:00T2S is operating normally.
+English16/01/2026 15:10:00T2S is operating normally and the earlier incident with U2A and A2A access to CRDM and BDM has now been solved. The incident did not impact the operating day schedule.
+English16/01/2026 14:30:00T2S is currently facing an incident impacting User-to-Application (U2A) and Application-to-Application (A2A) access to CRDM, as well as to BDM. The incident does not have any impact on any other T2S functionality. There is no foreseen impact on the operating day schedule. The Eurosystem is taking all measures necessary to resolve the incident as soon as possible. Updated information will be provided at the latest by 16:00.
+English16/01/2026 05:00:00T2S is operating normally.
+English15/01/2026 05:00:00T2S is operating normally.
+English14/01/2026 05:00:00T2S is operating normally.
+English13/01/2026 05:00:00T2S is operating normally.
+English12/01/2026 02:30:00T2S is operating normally.
+English10/01/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English09/01/2026 05:00:00T2S is operating normally.
+English08/01/2026 05:00:00T2S is operating normally.
+English07/01/2026 05:00:00T2S is operating normally.
+English06/01/2026 05:00:00T2S is operating normally.
+English05/01/2026 02:30:00T2S is operating normally.
+English03/01/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English02/01/2026 02:30:00T2S is operating normally.
+English01/01/2026 02:30:00T2S is closed and will reopen in accordance with its schedule.
+English

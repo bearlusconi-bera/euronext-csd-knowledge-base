@@ -1,0 +1,680 @@
+## PDF page 1
+              
+                 
+ 
+ 
+ 
+ 
+ECB-PUBLIC 
+ 
+14 September 2026 
+ 
+Delivery of the T2S UDFS R2026.NOV and UHB R2026.NOV 
+As envisaged in the T2S Plan, we have published final versions of the: 
+• 
+T2S User Detailed Functional Specifications R2026.NOV (UDFS R2026.NOV) 
+• 
+T2S User Handbook R2026.NOV (UHB R2026.NOV) 
+• 
+T2S General Functional Specifications R2026.NOV (GFS R2026.NOV) 
+• 
+T2S Data Migration Tool R2026.NOV (DMT R2026.NOV) 
+• 
+T2S User Requirements Document R2026.NOV (URD R2026.NOV) 
+• 
+T2S Business Functionality for T2S Graphical User Interface R2026.NOV (BFD R2026.NOV) 
+• 
+BDM User Detailed Functional Specifications R2026.NOV 
+• 
+BILL User Detailed Functional Specifications R2026.NOV 
+• 
+CRDM User Detailed Functional Specifications R2026.NOV 
+• 
+ESMIG User Detailed Functional Specifications R2026.NOV 
+• 
+BDM User Handbook R2026.NOV 
+• 
+BILL User Handbook R2026.NOV 
+• 
+CRDM User Handbook Book 1 R2026.NOV 
+• 
+CRDM User Handbook Book 2 R2026.NOV 
+ 
+For the convenience of the readers, all changes in the documents were highlighted in revision marks. 
+Additionally, we added the appropriate CR references. 
+The draft intermediate versions of these documents were published on 31 July and were reviewed from 03 
+August 2026 to 21 August 2026. The comments from the market participants have been taken into account for 
+the final versions to be published on 11 September 2026. 
+Scope of the delivery 
+These new versions incorporate Change Requests in the scope of the T2S Release 2026.NOV, including the 
+editorial Change Requests approved by the CSD Steering Group (CSG) until 23 July 2026.  
+The exhaustive list of all Change Requests is provided as Annex A to this cover note.  
+Complementing the information provided in the Service Transition Plans, the Release Notes and the UDFS 
+itself, a list containing all the T2S messages with their respective links to MyStandards is provided as Annex 
+B to the Cover Note. 
+
+
+## PDF page 2
+ 
+ 
+2 
+ 
+Annex A: List of Change Requests included in UDFS R2026.NOV, UHB R2026.NOV 
+ 
+CR Reference 
+Title 
+T2S 
+Release 
+URD 
+Impact 
+UDFS 
+Impact 
+UHB 
+Impact 
+GFS 
+Impact 
+DMT 
+Impact 
+T2S-0798-URD 
+T2S COSD logic should 
+support partial release of 
+instructions subject to 
+COSD and partial COSD 
+release 
+R2026. 
+NOV 
+x 
+x 
+x 
+x 
+ 
+T2S-0828-URD 
+T2S should no longer 
+release cash restrictions 
+related to COSD blocking 
+at real-time closure 
+R2026. 
+NOV 
+x 
+x 
+ 
+x 
+ 
+T2S-0840-SYS 
+Change request in the 
+context of T2S Recovery 
+R2026. 
+NOV 
+ 
+ 
+ 
+ 
+ 
+ 
+T2S-0841-SYS 
+Upgrade of T2S messages 
+to ISO MR 2025 
+R2026. 
+NOV 
+ 
+x 
+ 
+ 
+ 
+T2S-0842-SYS 
+Change request in the 
+context of T2S Recovery 
+R2026. 
+NOV 
+ 
+ 
+ 
+ 
+ 
+T2S-0843-SYS 
+Support UTI in T2S 
+messages according to 
+ISO 20022 CR 1408 
+“Change of UTI 
+implementation” 
+R2026. 
+NOV 
+ 
+x 
+ 
+x 
+ 
+T2S-0850-SYS 
+Operational and Technical 
+upgrade of the DMT tool to 
+support increase in the 
+number of Securities 
+Accounts 
+R2026. 
+NOV 
+ 
+ 
+ 
+ 
+ 
+T2S-0854-SYS 
+CRDM reda messages 
+should support the new 
+securities account type 
+‘End Investor Account’ for 
+Direct Holding Markets 
+R2026. 
+NOV 
+ 
+ 
+ 
+ 
+ 
+T2S-0856-SYS 
+T2S should enable 
+Updates of Alternative 
+Security CSD Links in A2A 
+mode 
+R2026.
+NOV 
+ 
+ 
+ 
+ 
+ 
+T2S-0859-SYS 
+Upgrade of T2S messages 
+to ISO MR 2026 
+R2026. 
+NOV 
+ 
+x 
+ 
+ 
+ 
+T2S-874-SYS 
+Multiplex Editorial Change 
+Request (for R2026.NOV) 
+R2026. 
+NOV 
+ 
+x 
+x 
+x 
+x 
+ 
+ 
+
+
+## PDF page 3
+ 
+ 
+3 
+ 
+Annex B: List of T2S messages and respective links to MyStandards 
+ 
+Message-ID 
+MyStandards-Link 
+admi.005 
+https://www2.swift.com/mystandards/#/mp/mx/_EaQFoJqzEe-tNrZ9GvcFBw/version/2/_EhHiapqzEe-
+tNrZ9GvcFBw!content 
+admi.006 
+https://www2.swift.com/mystandards/#/mp/mx/__2piwEmNEeqYTqRpZ7U8cA/__2piwUmNEeqYTqRpZ
+7U8cA!content 
+admi.007 
+https://www2.swift.com/mystandards/#/mp/mx/__yTOaEmNEeqYTqRpZ7U8cA/__yTOaUmNEeqYTqRp
+Z7U8cA!content 
+camt.003 
+https://www2.swift.com/mystandards/#/mp/mx/_TMixTKsCEe-mxr_ulfeWwg/version/2/_TNcxDqsCEe-
+mxr_ulfeWwg!content 
+camt.004 
+https://www2.swift.com/mystandards/#/mp/mx/_XkXu0b0cEe-
+EsdBnLmYsaw/version/2/_XmGMwL0cEe-EsdBnLmYsaw!content 
+camt.005 
+https://www2.swift.com/mystandards/#/mp/mx/_nw-scasHEe-mxr_ulfeWwg/version/4/_nx_a8KsHEe-
+mxr_ulfeWwg!content  
+camt.006 
+https://www2.swift.com/mystandards/#/mp/mx/_13znxasIEe-mxr_ulfeWwg/version/2/_15fCsKsIEe-
+mxr_ulfeWwg!content 
+camt.009 
+https://www2.swift.com/mystandards/#/mp/mx/_u1rtT6wPEe-WXcRrpKeWCw/version/4/_u2zv0KwPEe-
+WXcRrpKeWCw!content 
+camt.010 
+https://www2.swift.com/mystandards/#/mp/mx/_jwx_-KwQEe-WXcRrpKeWCw/version/3/_jyIE9qwQEe-
+WXcRrpKeWCw!content 
+camt.019 
+https://www2.swift.com/mystandards/#/mp/mx/_0Y0r3qsJEe-mxr_ulfeWwg/version/6/_0ZpL_qsJEe-
+mxr_ulfeWwg!content 
+camt.025 
+https://www2.swift.com/mystandards/#/mp/mx/_R2r6sr1jEe-V5twLCM5SOw/_R3oWGL1jEe-
+V5twLCM5SOw!content 
+camt.050 
+https://www2.swift.com/mystandards/#/mp/mx/_KaWHouBDEfCGYY11GSEI0g/_KaWwouBDEfCGYY1
+1GSEI0g!content   
+camt.051 
+https://www2.swift.com/mystandards/#/mp/mx/_ey2UKKtREe-mxr_ulfeWwg/_ez2aQKtREe-
+mxr_ulfeWwg!content    
+camt.052 
+https://www2.swift.com/mystandards/#/mp/mx/_KaWHouBDEfCGYY11GSEI0g/_KaWwouBDEfCGYY1
+1GSEI0g!content 
+camt.053 
+https://www2.swift.com/mystandards/#/mp/mx/_0snvfOBFEfCGYY11GSEI0g/_0soYjuBFEfCGYY11GS
+EI0g!content 
+camt.054 
+https://www2.swift.com/mystandards/#/mp/mx/_RmdWmOBIEfCGYY11GSEI0g/_Rmd-
+UOBIEfCGYY11GSEI0g!content 
+camt.064 
+https://www2.swift.com/mystandards/#/mp/mx/_oFYzwPGgEe-yIcCJryAiHw/_oGWdTvGgEe-
+yIcCJryAiHw!content 
+camt.065 
+https://www2.swift.com/mystandards/#/mp/mx/_wnlXBPGjEe-yIcCJryAiHw/version/4/_wopuPPGjEe-
+yIcCJryAiHw!content 
+camt.066 
+https://www2.swift.com/mystandards/#/mp/mx/_QT_cBLOjEe-d965PfE74WA/_QVR2_LOjEe-
+d965PfE74WA!content  
+camt.067 
+https://www2.swift.com/mystandards/#/mp/mx/_F6_7FLO7Ee-d965PfE74WA/_F8ADBLO7Ee-
+d965PfE74WA!content  
+camt.068 
+https://www2.swift.com/mystandards/#/mp/mx/_kR2kurO7Ee-d965PfE74WA/_kVRtQrO7Ee-
+d965PfE74WA!content  
+camt.069 
+https://www2.swift.com/mystandards/#/mp/mx/_hmM4RavjEe-mxr_ulfeWwg/version/3/_hnItNqvjEe-
+mxr_ulfeWwg!content 
+
+
+## PDF page 4
+ 
+ 
+4 
+ 
+camt.070 
+https://www2.swift.com/mystandards/#/mp/mx/_ZEMlnavkEe-mxr_ulfeWwg/version/2/_ZFKQRqvkEe-
+mxr_ulfeWwg!content 
+camt.072 
+https://www2.swift.com/mystandards/#/mp/mx/_pMrM47OjEe-d965PfE74WA/_pNhjTrOjEe-
+d965PfE74WA!content  
+camt.073 
+https://www2.swift.com/mystandards/#/mp/mx/_5QCi3bOjEe-d965PfE74WA/_5RGUcLOjEe-
+d965PfE74WA!content  
+camt.074 
+https://www2.swift.com/mystandards/#/mp/mx/_2r1z07O7Ee-d965PfE74WA/_2uvX_rO7Ee-
+d965PfE74WA!content  
+camt.075 
+https://www2.swift.com/mystandards/#/mp/mx/_Mp5mkrO8Ee-d965PfE74WA/_MrwnsLO8Ee-
+d965PfE74WA!content  
+camt.078 
+https://www2.swift.com/mystandards/#/mp/mx/_LQHdE7OkEe-d965PfE74WA/_LQ9zjbOkEe-
+d965PfE74WA!content  
+camt.079 
+https://www2.swift.com/mystandards/#/mp/mx/_kXntA7OkEe-d965PfE74WA/_kYugMLOkEe-
+d965PfE74WA!content  
+camt.080 
+https://www2.swift.com/mystandards/#/mp/mx/_e6mWubO8Ee-d965PfE74WA/_e8dYrrO8Ee-
+d965PfE74WA!content  
+camt.081 
+https://www2.swift.com/mystandards/#/mp/mx/_1-aQkLO8Ee-d965PfE74WA/_2B3PYrO8Ee-
+d965PfE74WA!content  
+camt.082 
+https://www2.swift.com/mystandards/#/mp/mx/_MD4S6bO9Ee-d965PfE74WA/_MHRl_rO9Ee-
+d965PfE74WA!content  
+camt.083 
+https://www2.swift.com/mystandards/#/mp/mx/_fl2dwrO9Ee-d965PfE74WA/_foMp_rO9Ee-
+d965PfE74WA!content  
+camt.084 
+https://www2.swift.com/mystandards/#/mp/mx/_zwf7grOkEe-d965PfE74WA/_zxjEULOkEe-
+d965PfE74WA!content  
+camt.085 
+https://www2.swift.com/mystandards/#/mp/mx/_L1io47OlEe-d965PfE74WA/_L29AarOlEe-
+d965PfE74WA!content  
+colr.001 
+https://www2.swift.com/mystandards/#/mp/mx/_1AViQavOEe-mxr_ulfeWwg/_1BeybqvOEe-
+mxr_ulfeWwg!content  
+colr.002 
+https://www2.swift.com/mystandards/#/mp/mx/_p_DFdqvWEe-mxr_ulfeWwg/_qAIDcKvWEe-
+mxr_ulfeWwg!content  
+head.001 
+https://www2.swift.com/mystandards/#/mp/mx/_FrR64KviEe-mxr_ulfeWwg/_FsUcsKviEe-
+mxr_ulfeWwg!content  
+head.002 
+https://www2.swift.com/mystandards/#/mp/mx/__F7QcEmNEeq3O9-0LXVTJg/__F7QcUmNEeq3O9-
+0LXVTJg!content 
+semt.002 
+https://www2.swift.com/mystandards/#/mp/mx/_-2JHhL2aEe-EsdBnLmYsaw/_-3cvAL2aEe-
+EsdBnLmYsaw!content 
+semt.013 
+https://www2.swift.com/mystandards/#/mp/mx/_I4uQNb4eEe-V5twLCM5SOw/_I6E8xr4eEe-
+V5twLCM5SOw!content 
+semt.014 
+https://www2.swift.com/mystandards/#/mp/mx/_jhPrvOBJEfCGYY11GSEI0g/_jhQ7FuBJEfCGYY11GS
+EI0g!content 
+semt.015 
+https://www2.swift.com/mystandards/#/mp/mx/_-vI4p7O3Ee-d965PfE74WA/_-wwrGrO3Ee-
+d965PfE74WA!content  
+https://www2.swift.com/mystandards/#/mp/mx/_6Tqj6r4gEe-V5twLCM5SOw/_6VImGL4gEe-
+V5twLCM5SOw!content 
+semt.016 
+https://www2.swift.com/mystandards/#/mp/mx/_8BdtCL4hEe-V5twLCM5SOw/_8EFlkr4hEe-
+V5twLCM5SOw!content 
+semt.017 
+https://www2.swift.com/mystandards/#/mp/mx/_1OxgmuBNEfCGYY11GSEI0g/_1OyutOBNEfCGYY11
+GSEI0g!content 
+
+
+## PDF page 5
+ 
+ 
+5 
+ 
+semt.018 
+https://www2.swift.com/mystandards/#/mp/mx/_MPJkBuTEEfCGYY11GSEI0g/_MPLZMOTEEfCGYY11
+GSEI0g!content 
+semt.019 
+https://www2.swift.com/mystandards/#/mp/mx/_ULxMmOTVEfCGYY11GSEI0g/_ULyasOTVEfCGYY11
+GSEI0g!content 
+semt.020 
+https://www2.swift.com/mystandards/#/mp/mx/_8DSg-LO4Ee-d965PfE74WA/_8EeMs7O4Ee-
+d965PfE74WA!content  
+semt.022 
+https://www2.swift.com/mystandards/#/mp/mx/_B1ixS-
+TXEfCGYY11GSEI0g/_B1j_YOTXEfCGYY11GSEI0g!content   
+semt.025 
+https://www2.swift.com/mystandards/#/mp/mx/_MLmgMP7ZEei_kc1HmwykSg/_MLmgMf7ZEei_kc1Hm
+wykSg!content 
+semt.026 
+https://www2.swift.com/mystandards/#/mp/mx/_-Lr1wEmNEeqYTqRpZ7U8cA/_-
+Lr1wUmNEeqYTqRpZ7U8cA!content  
+semt.027 
+https://www2.swift.com/mystandards/#/mp/mx/__xvm0GUnEeqC2JgJMEKmZw/version/3/__xvm0WUn
+EeqC2JgJMEKmZw!content 
+semt.028 
+https://www2.swift.com/mystandards/#/mp/mx/_bYJLk9GAEfCchr1RZujjyQ/_bYJylNGAEfCchr1RZujjyQ
+!content 
+semt.029 
+https://www2.swift.com/mystandards/#/mp/mx/_leWfMtGDEfCchr1RZujjyQ/_leXtQNGDEfCchr1RZujjyQ
+!content 
+semt.030 
+https://www2.swift.com/mystandards/#/mp/mx/_MbksSdGFEfCchr1RZujjyQ/_Mbks2NGFEfCchr1RZujjy
+Q!content 
+semt.031 
+https://www2.swift.com/mystandards/#/mp/mx/_CtG6hNGTEfC4wKsXvU-PIw/_CtJ-stGTEfC4wKsXvU-
+PIw!content 
+semt.032 
+https://www2.swift.com/mystandards/#/mp/mx/_76SQ-dGUEfC4wKsXvU-
+PIw/_76S4ANGUEfC4wKsXvU-PIw!content 
+semt.033 
+https://www2.swift.com/mystandards/#/mp/mx/_5vneU9GWEfC4wKsXvU-
+PIw/_5voI29GWEfC4wKsXvU-PIw!content 
+semt.034 
+https://www2.swift.com/mystandards/#/mp/mx/_E9SwT9GaEfC4wKsXvU-
+PIw/_E9TXVNGaEfC4wKsXvU-PIw!content 
+semt.040 
+https://www2.swift.com/mystandards/#/mp/mx/_bId2MP7bEeisr5t2uFFdoQ/_bId2Mf7bEeisr5t2uFFdoQ!
+content 
+semt.044 
+https://www2.swift.com/mystandards/#/mp/mx/_GQvBAJwyEeqip9nOdynYgA/version/13/_GQvBAZwyE
+eqip9nOdynYgA!content  
+sese.020 
+https://www2.swift.com/mystandards/#/mp/mx/_R5ZcrVP3EfGRn6AqvsEYiw/_R5aFjFP3EfGRn6AqvsE
+Yiw!content 
+sese.021 
+https://www2.swift.com/mystandards/#/mp/mx/_o_2pGeThEfCGYY11GSEI0g/_o_3QzuThEfCGYY11G
+SEI0g!content 
+sese.022 
+https://www2.swift.com/mystandards/#/mp/mx/_O_7ReOTjEfCGYY11GSEI0g/_O_7SN-
+TjEfCGYY11GSEI0g!content 
+sese.023 
+https://www2.swift.com/mystandards/#/mp/mx/_CQcRx-
+TkEfCGYY11GSEI0g/_CQet4OTkEfCGYY11GSEI0g!content 
+sese.024 
+https://www2.swift.com/mystandards/#/mp/mx/_1gMpkOT0EfCGYY11GSEI0g/_1gN3sOT0EfCGYY11G
+SEI0g!content 
+sese.025 
+https://www2.swift.com/mystandards/#/mp/mx/_KhJB7eT3EfCGYY11GSEI0g/_KhLeIOT3EfCGYY11GS
+EI0g!content 
+sese.027 
+https://www2.swift.com/mystandards/#/mp/mx/_oAcGmOT5EfCGYY11GSEI0g/_oActoOT5EfCGYY11G
+SEI0g!content 
+sese.028 
+https://www2.swift.com/mystandards/#/mp/mx/_bYJLk9GAEfCchr1RZujjyQ/version/4/_bYJylNGAEfCch
+r1RZujjyQ!content  
+
+
+## PDF page 6
+ 
+ 
+6 
+ 
+sese.029 
+https://www2.swift.com/mystandards/#/mp/mx/_ijEvOFP4EfGRn6AqvsEYiw/_ijFWQFP4EfGRn6AqvsE
+Yiw!content 
+sese.030 
+https://www2.swift.com/mystandards/#/mp/mx/_NanpZ8knEe-EsdBnLmYsaw/_NbqyMMknEe-
+EsdBnLmYsaw!content 
+sese.031 
+https://www2.swift.com/mystandards/#/mp/mx/_cU8WguT-EfCGYY11GSEI0g/_cU8YieT-
+EfCGYY11GSEI0g!content 
+sese.032 
+https://www2.swift.com/mystandards/#/mp/mx/_ATOGTuUAEfCGYY11GSEI0g/_ATP7cOUAEfCGYY11
+GSEI0g!content 
+ 
+Annex C: List of CoCo messages and respective links to MyStandards 
+
+
+## PDF page 7
+ 
+ 
+7 
+ 
+Message-ID 
+MyStandards-Link 
+acmt.007 
+https://www2.swift.com/mystandards/#/mp/mx/_R8BohO2UEfCGYY11GSEI0g/_R8Dequ2UEfCGYY11GSEI0g!result 
+acmt.010 
+https://www2.swift.com/mystandards/#/mp/mx/_R8BohO2UEfCGYY11GSEI0g/_R8HIbu2UEfCGYY11GSEI0g!result 
+acmt.011 
+https://www2.swift.com/mystandards/#/mp/mx/_R8BohO2UEfCGYY11GSEI0g/_R8GhAu2UEfCGYY11GSEI0g!result 
+acmt.015 
+https://www2.swift.com/mystandards/#/mp/mx/_R8BohO2UEfCGYY11GSEI0g/_R8IW8u2UEfCGYY11GSEI0g!result 
+acmt.019 
+https://www2.swift.com/mystandards/#/mp/mx/_R8BohO2UEfCGYY11GSEI0g/_R8BpD-2UEfCGYY11GSEI0g!result 
+acmt.025 
+https://www2.swift.com/mystandards/#/mp/mx/_tXyEALdvEemPusePMtrTNQ/version/27/_inUVobdwEemGLfpQBCIp1w!re
+sult 
+acmt.026 
+https://www2.swift.com/mystandards/#/mp/mx/_tXyEALdvEemPusePMtrTNQ/version/27/_inUVpbdwEemGLfpQBCIp1w!re
+sult 
+admi.007 
+https://www2.swift.com/mystandards/#/mp/mx/_9TyUDb6lEemPusePMtrTNQ/version/20/_lnoQoReGEeqcptuZzLjGYw!resu
+lt 
+camt.009 
+https://www2.swift.com/mystandards/#/mp/mx/_edNJcKgeEe-WXcRrpKeWCw/version/3/_edSDBqgeEe-
+WXcRrpKeWCw!result 
+camt.010 
+https://www2.swift.com/mystandards/#/mp/mx/_edNJcKgeEe-WXcRrpKeWCw/version/3/_edZXx6geEe-
+WXcRrpKeWCw!result 
+camt.011 
+https://www2.swift.com/mystandards/#/mp/mx/_edNJcKgeEe-WXcRrpKeWCw/version/3/_edNKhageEe-
+WXcRrpKeWCw!result 
+camt.012 
+https://www2.swift.com/mystandards/#/mp/mx/_edNJcKgeEe-WXcRrpKeWCw/version/3/_edQNgqgeEe-
+WXcRrpKeWCw!result 
+camt.018 
+https://www2.swift.com/mystandards/#/mp/mx/_KxZJnagiEe-WXcRrpKeWCw/version/3/_KybEnqgiEe-
+WXcRrpKeWCw!result 
+camt.019 
+https://www2.swift.com/mystandards/#/mp/mx/_KxZJnagiEe-WXcRrpKeWCw/version/3/_KydhIKgiEe-
+WXcRrpKeWCw!result 
+camt.024 
+https://www2.swift.com/mystandards/#/mp/mx/_sYvI0KghEe-WXcRrpKeWCw/version/4/_sY3FuqghEe-
+WXcRrpKeWCw!result 
+camt.025 
+https://www2.swift.com/mystandards/#/mp/mx/_vvWkJ8nzEe-EsdBnLmYsaw/_vwQjQMnzEe-EsdBnLmYsaw!result 
+camt.048 
+https://www2.swift.com/mystandards/#/mp/mx/_jvKGgJuBEe-ltt-N077bFQ/version/2/_jvKHjZuBEe-ltt-N077bFQ!result 
+camt.069 
+https://www2.swift.com/mystandards/#/mp/mx/_sYvI0KghEe-WXcRrpKeWCw/version/4/_sY0pJqghEe-
+WXcRrpKeWCw!result 
+camt.070 
+https://www2.swift.com/mystandards/#/mp/mx/_sYvI0KghEe-WXcRrpKeWCw/version/4/_sYvKW6ghEe-
+WXcRrpKeWCw!result 
+camt.071 
+https://www2.swift.com/mystandards/#/mp/mx/_sYvI0KghEe-WXcRrpKeWCw/version/4/_sY2d1KghEe-
+WXcRrpKeWCw!result 
+camt.076 
+https://www2.swift.com/mystandards/#/mp/mx/_BVI3YLd9EemxBuEHNjVBDQ/version/31/_jua0sbd9EemGLfpQBCIp1w!re
+sult 
+camt.077 
+https://www2.swift.com/mystandards/#/mp/mx/_BVI3YLd9EemxBuEHNjVBDQ/version/31/_fm6CAWW5Ee2OErKByt6aA
+g!result 
+camt.099 
+https://www2.swift.com/mystandards/#/mp/mx/_L_zqf7hmEemPusePMtrTNQ/version/17/_BLbFYbhnEemxOYrF6QwviQ!re
+sult 
+camt.100 
+https://www2.swift.com/mystandards/#/mp/mx/_L_zqf7hmEemPusePMtrTNQ/version/17/_BLhMA7hnEemxOYrF6QwviQ!re
+sult 
+head.001 
+https://www2.swift.com/mystandards/#/mp/mx/_vHtTM5uBEe-ltt-N077bFQ/version/2/_vJ9WxpuBEe-ltt-N077bFQ!result 
+head.002 
+https://www2.swift.com/mystandards/#/mp/mx/_I1RxQMA_EemPusePMtrTNQ/version/23/_3gb6sReFEeqcptuZzLjGYw!resu
+lt 
+
+
+## PDF page 8
+ 
+ 
+8 
+ 
+reda.006 
+https://www2.swift.com/mystandards/#/mp/mx/_vMTxwqgjEe-WXcRrpKeWCw/version/5/_vNSpMKgjEe-
+WXcRrpKeWCw!result 
+reda.007 
+https://www2.swift.com/mystandards/#/mp/mx/_vMTxwqgjEe-WXcRrpKeWCw/version/5/_vNp1kKgjEe-
+WXcRrpKeWCw!result 
+reda.008 
+https://www2.swift.com/mystandards/#/mp/mx/_vMTxwqgjEe-WXcRrpKeWCw/version/5/_vPr2XKgjEe-
+WXcRrpKeWCw!result 
+reda.009 
+https://www2.swift.com/mystandards/#/mp/mx/_vMTxwqgjEe-WXcRrpKeWCw/version/5/_vPu5oKgjEe-
+WXcRrpKeWCw!result 
+reda.010 
+https://www2.swift.com/mystandards/#/mp/mx/_w6kMhaipEe-mxr_ulfeWwg/version/2/_w7zjQaipEe-mxr_ulfeWwg!result 
+reda.012 
+https://www2.swift.com/mystandards/#/mp/mx/_w6kMhaipEe-mxr_ulfeWwg/version/2/_w75pMKipEe-mxr_ulfeWwg!result 
+reda.013 
+https://www2.swift.com/mystandards/#/mp/mx/_vMTxwqgjEe-WXcRrpKeWCw/version/5/_vPwHdKgjEe-
+WXcRrpKeWCw!result 
+reda.014 
+https://www2.swift.com/mystandards/#/mp/mx/_18LVdageEe-WXcRrpKeWCw/version/2/_19xR9qgeEe-
+WXcRrpKeWCw!result 
+reda.015 
+https://www2.swift.com/mystandards/#/mp/mx/_P95K7agfEe-WXcRrpKeWCw/version/3/_P-206qgfEe-
+WXcRrpKeWCw!result 
+reda.016 
+https://www2.swift.com/mystandards/#/mp/mx/_18LVdageEe-WXcRrpKeWCw/version/2/_190UsqgeEe-
+WXcRrpKeWCw!result 
+reda.017 
+https://www2.swift.com/mystandards/#/mp/mx/_P95K7agfEe-WXcRrpKeWCw/version/3/_P-54DKgfEe-
+WXcRrpKeWCw!result 
+reda.018 
+https://www2.swift.com/mystandards/#/mp/mx/_0ZvDTas0Ee-mxr_ulfeWwg/version/8/_0aw-hqs0Ee-mxr_ulfeWwg!result 
+reda.019 
+https://www2.swift.com/mystandards/#/mp/mx/_0ZvDTas0Ee-mxr_ulfeWwg/version/8/_0a1PYKs0Ee-mxr_ulfeWwg!result 
+reda.020 
+https://www2.swift.com/mystandards/#/mp/mx/_0ZvDTas0Ee-mxr_ulfeWwg/version/8/_0a3FAKs0Ee-mxr_ulfeWwg!result 
+reda.021 
+https://www2.swift.com/mystandards/#/mp/mx/_0ZvDTas0Ee-mxr_ulfeWwg/version/8/_0a5g2Ks0Ee-mxr_ulfeWwg!result 
+reda.022 
+https://www2.swift.com/mystandards/#/mp/mx/_18LVdageEe-WXcRrpKeWCw/version/2/_19u1ZqgeEe-
+WXcRrpKeWCw!result 
+reda.023 
+https://www2.swift.com/mystandards/#/mp/mx/_0ZvDTas0Ee-mxr_ulfeWwg/version/8/_0a79jqs0Ee-mxr_ulfeWwg!result 
+reda.024 
+https://www2.swift.com/mystandards/#/mp/mx/_OFBOydFjEfCchr1RZujjyQ/_OFB2SNFjEfCchr1RZujjyQ!result 
+reda.025 
+https://www2.swift.com/mystandards/#/mp/mx/_OFBOydFjEfCchr1RZujjyQ/_OFFghtFjEfCchr1RZujjyQ!result 
+reda.026 
+https://www2.swift.com/mystandards/#/mp/mx/_OFBOydFjEfCchr1RZujjyQ/_OFGvDtFjEfCchr1RZujjyQ!result 
+reda.027 
+https://www2.swift.com/mystandards/#/mp/mx/_OFBOydFjEfCchr1RZujjyQ/_iFzUINFxEfCchr1RZujjyQ!result 
+reda.028 
+https://www2.swift.com/mystandards/#/mp/mx/_OFBOydFjEfCchr1RZujjyQ/_Vf-xMNFzEfCchr1RZujjyQ!result 
+reda.029 
+https://www2.swift.com/mystandards/#/mp/mx/_vMTxwqgjEe-WXcRrpKeWCw/version/5/_vPwuYKgjEe-
+WXcRrpKeWCw!result 
+reda.030 
+https://www2.swift.com/mystandards/#/mp/mx/_vMTxwqgjEe-WXcRrpKeWCw/version/5/_vPzLUqgjEe-
+WXcRrpKeWCw!result 
+reda.031 
+https://www2.swift.com/mystandards/#/mp/mx/_18LVdageEe-WXcRrpKeWCw/version/2/_190URKgeEe-
+WXcRrpKeWCw!result 
+reda.032 
+https://www2.swift.com/mystandards/#/mp/mx/_0ZvDTas0Ee-mxr_ulfeWwg/version/8/_0a9Lp6s0Ee-mxr_ulfeWwg!result 
+reda.033 
+https://www2.swift.com/mystandards/#/mp/mx/_XMTDeaglEe-WXcRrpKeWCw/version/3/_XOMhKKglEe-
+WXcRrpKeWCw!result 
+
+
+## PDF page 9
+ 
+ 
+9 
+ 
+reda.034 
+https://www2.swift.com/mystandards/#/mp/mx/_XMTDeaglEe-WXcRrpKeWCw/version/3/_XOO9lKglEe-
+WXcRrpKeWCw!result 
+reda.035 
+https://www2.swift.com/mystandards/#/mp/mx/_0ZvDTas0Ee-mxr_ulfeWwg/version/8/_0a9yk6s0Ee-mxr_ulfeWwg!result 
+reda.036 
+https://www2.swift.com/mystandards/#/mp/mx/_XMTDeaglEe-WXcRrpKeWCw/version/3/_XOSAkqglEe-
+WXcRrpKeWCw!result 
+reda.037 
+https://www2.swift.com/mystandards/#/mp/mx/_XMTDeaglEe-WXcRrpKeWCw/version/3/_XOSoJaglEe-
+WXcRrpKeWCw!result 
+reda.038 
+https://www2.swift.com/mystandards/#/mp/mx/_tXyEALdvEemPusePMtrTNQ/version/27/_mFUyce1qEe2dXrwi7nt9Wg!resu
+lt 
+reda.039 
+https://www2.swift.com/mystandards/#/mp/mx/_wkoeaKgdEe-WXcRrpKeWCw/version/2/_wleMNqgdEe-
+WXcRrpKeWCw!result 
+reda.040 
+https://www2.swift.com/mystandards/#/mp/mx/_wkoeaKgdEe-WXcRrpKeWCw/version/2/_wlezrqgdEe-
+WXcRrpKeWCw!result 
+reda.041 
+https://www2.swift.com/mystandards/#/mp/mx/_P95K7agfEe-WXcRrpKeWCw/version/3/_P-87FqgfEe-
+WXcRrpKeWCw!result 
+reda.042 
+https://www2.swift.com/mystandards/#/mp/mx/_wkoeaKgdEe-WXcRrpKeWCw/version/2/_wlbI2qgdEe-
+WXcRrpKeWCw!result 
+reda.043 
+https://www2.swift.com/mystandards/#/mp/mx/_wkoeaKgdEe-WXcRrpKeWCw/version/2/_wlcW2KgdEe-
+WXcRrpKeWCw!result 
+reda.044 
+https://www2.swift.com/mystandards/#/mp/mx/_OFBOydFjEfCchr1RZujjyQ/_OFLAENFjEfCchr1RZujjyQ!result 
+reda.045 
+https://www2.swift.com/mystandards/#/mp/mx/_yb8Cmb40Ee-V5twLCM5SOw/version/6/_ydQ5Ir40Ee-
+V5twLCM5SOw!result 
+reda.046 
+https://www2.swift.com/mystandards/#/mp/mx/_yb8Cmb40Ee-V5twLCM5SOw/version/6/_gF1toL43Ee-
+V5twLCM5SOw!result 
+reda.047 
+https://www2.swift.com/mystandards/#/mp/mx/_yb8Cmb40Ee-V5twLCM5SOw/version/6/_ydVKCr40Ee-
+V5twLCM5SOw!result 
+reda.049 
+https://www2.swift.com/mystandards/#/mp/mx/_BEs0-b70Ee-EsdBnLmYsaw/_BGHxtr70Ee-EsdBnLmYsaw!result 
+reda.050 
+https://www2.swift.com/mystandards/#/mp/mx/_BEs0-b70Ee-EsdBnLmYsaw/_BGK08r70Ee-EsdBnLmYsaw!result 
+reda.051 
+https://www2.swift.com/mystandards/#/mp/mx/_BEs0-b70Ee-EsdBnLmYsaw/_BGMDSL70Ee-EsdBnLmYsaw!result 
+reda.064 
+https://www2.swift.com/mystandards/#/mp/mx/_lAvXqagNEe-WXcRrpKeWCw/version/2/_lBov6KgNEe-
+WXcRrpKeWCw!result 
+reda.065 
+https://www2.swift.com/mystandards/#/mp/mx/_lAvXqagNEe-WXcRrpKeWCw/version/2/_lBnhyKgNEe-
+WXcRrpKeWCw!result 
+reda.075 
+https://www2.swift.com/mystandards/#/mp/mx/_OFBOydFjEfCchr1RZujjyQ/_OFMOQNFjEfCchr1RZujjyQ!result 
+reda.077 
+https://www2.swift.com/mystandards/#/mp/mx/_OFBOydFjEfCchr1RZujjyQ/_OFM1VNFjEfCchr1RZujjyQ!result 
+ 
+ 

@@ -1,0 +1,20 @@
+{
+  "id": "30b6aea9c856",
+  "url": "https://www.euronext.com/sites/default/files/2025-03/es-cph_rule_book_part_1_definitions.pdf",
+  "title": "Part 1 - Definitions (PDF)",
+  "original_sha256": "82cfaf2c70ebf9bf550a9eabe7640ea639f622bc5c6f46c8f90d32f20678e837",
+  "kind": "curated-document",
+  "audit_id": "30b6aea9c856",
+  "retrieved_at_utc": "2026-09-13T16:14:08.176509+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-03/es-cph_rule_book_part_1_definitions.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Fri, 21 Mar 2025 14:34:16 GMT",
+  "etag": "W/\"ff5443274303772362c884863b5273d2\"",
+  "sha256": "82cfaf2c70ebf9bf550a9eabe7640ea639f622bc5c6f46c8f90d32f20678e837",
+  "bytes": 197280,
+  "saved_path": "sources/30b6aea9c856.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 7,
+  "text_path": "extracted/30b6aea9c856.md"
+}

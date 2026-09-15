@@ -1,0 +1,180 @@
+[
+  {
+    "id": "milan-clock-conflict",
+    "sources": [
+      "dd1cf7cb930b",
+      "milan-it-settlement",
+      "aa3d5a3b94c9"
+    ],
+    "relationship": "unresolved-conflicting-timetable",
+    "scope": "Milan PDF 13/15; Italian PDF 12/15 vs UDFS PDF 160/162",
+    "action": "Quarantine local timetable claims. Use ECB current platform baseline only for platform questions, plus dated notices; obtain Milan service-specific confirmation."
+  },
+  {
+    "id": "milan-regulations-language",
+    "sources": [
+      "8719262f5e8b",
+      "milan-it-regulations"
+    ],
+    "relationship": "translation-governing-original",
+    "effective_from": "2026-01-26",
+    "scope": "Sampled Articles 60–61,69–72",
+    "action": "Italian text governs; preserve English/Italian page citations and their paired hashes."
+  },
+  {
+    "id": "athens-edition",
+    "sources": [
+      "d89c56df8c5a",
+      "athens-greek-master"
+    ],
+    "relationship": "probable-edition-versus-amendment-label",
+    "board_revision_date": "2025-11-24",
+    "approval_date_claim_in_document": "2025-12-04",
+    "gazette_date_claim_in_document": "2025-12-16",
+    "effective_from_claim": "2025-12-08",
+    "scope": "Seventh amendment only, Section XIII Part 9, footnote 94",
+    "action": "Greek hub Edition 8 plus seven amendments explains English hub Amendment 8 label (inference). No conflicting operative texts established; independent HCMC/Gazette decision remains unverified."
+  },
+  {
+    "id": "oslo-approval",
+    "sources": [
+      "14dc34b8e54e",
+      "822d46bb9149",
+      "1ee1619da83d"
+    ],
+    "relationship": "approval-reservation-unresolved",
+    "effective_from_claim": "2024-09-02",
+    "scope": "VPO NOK 2 September 2024 edition",
+    "action": "System approval on regulator hub is insufficient to remove edition-specific subject-to-approval qualification."
+  },
+  {
+    "id": "cph-fee-periods",
+    "sources": [
+      "14e2c64da9a0",
+      "cdd34eb011e9"
+    ],
+    "relationship": "announced-successor",
+    "current_fee_from_claim": "2026-01-01",
+    "future_fee_from_claim": "2026-11-01",
+    "current_revision_claim": "2025-12",
+    "future_revision_claim": "2026-07",
+    "action": "Select by charging date and service/volume, not publication month; no exact fee lines validated."
+  },
+  {
+    "id": "cph-version-label",
+    "sources": [
+      "cbdf3c1f8b51"
+    ],
+    "relationship": "inconsistent-footer-version",
+    "effective_from_claim": "2026-08-03",
+    "scope": "Cover and footers 12/13",
+    "action": "Pin current linked PDF by hash and cover date; retain footer inconsistency, do not infer two different rulebooks."
+  },
+  {
+    "id": "porto-manual-dates",
+    "sources": [
+      "089b7aaef991"
+    ],
+    "relationship": "separate-date-evidence",
+    "revision_date_claim": "2026-01-26",
+    "filename_date": "2026-02-16",
+    "url_upload_month": "2026-04",
+    "effective_from": null,
+    "action": "V43 latest linked, not proven effective 16 February or April. Chapter 4 delegates hours/calendar to notices."
+  },
+  {
+    "id": "isin-columns",
+    "sources": [
+      "ac385b0f3106"
+    ],
+    "relationship": "mixed-temporal-columns",
+    "data_through": "2026-09-10",
+    "file_date_claim": "2026-09-11",
+    "future_columns_effective_from": "2026-09-21",
+    "scope": "Introduction B5:B8 and I/K/L onward in instrument sheets",
+    "action": "Split historical current-place from future designated/alternative places; never infer general Milan/T2S eligibility."
+  },
+  {
+    "id": "jun-release",
+    "sources": [
+      "c164d86ada8e",
+      "aa3d5a3b94c9",
+      "t2s-2026-status-events"
+    ],
+    "relationship": "release-with-deployment-evidence",
+    "publication_claim": "2026-01-22",
+    "deployment_confirmed": "2026-06-14",
+    "action": "Allow reviewed R2026.JUN technical passages subject to subsequent dated notices; June final documents found on current ECB hub."
+  },
+  {
+    "id": "nov-release",
+    "sources": [
+      "7244cf50f753"
+    ],
+    "relationship": "future-draft-latest-located",
+    "revision_date_claim": "2026-07-31",
+    "upload_date_claim": "2026-08-03",
+    "planned_final_publication": "2026-09-11",
+    "effective_from": null,
+    "action": "Live hub still exposed draft at audit. Planned publication date has passed; final November publication not verified. Do not promote draft or assume release deployed."
+  },
+  {
+    "id": "tplus1",
+    "sources": [
+      "32025R2075"
+    ],
+    "relationship": "adopted-law-future-application",
+    "adoption_date": "2025-10-08",
+    "publication_date": "2025-10-14",
+    "entry_into_force": "2025-11-03",
+    "application_from": "2027-10-11",
+    "action": "Not a draft; future application collection. Current CSDR Art 5(2) remains T+2 ceiling for covered transactions."
+  },
+  {
+    "id": "settlement-discipline-2026",
+    "sources": [
+      "591deafae0a9"
+    ],
+    "relationship": "adopted-commission-text-oj-status-unverified",
+    "adoption_date": "2026-07-06",
+    "publication_date": null,
+    "entry_into_force": null,
+    "application_schedule": [
+      {
+        "date": "2026-12-07",
+        "scope": "Default in Article 2"
+      },
+      {
+        "date": "2027-07-01",
+        "scope": "Article 1(3)(a) only insofar as amending Article 5(4)(b) of 2018/1229; separately Article 1 points (8)(a)(i), (8)(b), (8)(c), (9), (11), (12), (13)"
+      },
+      {
+        "date": "2027-10-11",
+        "scope": "Article 1(3)(b), (4), (5), (6), (7), (10)"
+      }
+    ],
+    "action": "Recheck exact amendment numbering/OJ before implementation. Article-level application windows required."
+  },
+  {
+    "id": "dora-language",
+    "sources": [
+      "02022R2554-20221227",
+      "dora-english-oj"
+    ],
+    "relationship": "replacement-language-capture",
+    "observed_original_body_language": "fr",
+    "url_language": "en",
+    "replacement_body_language": "en",
+    "action": "Quarantine original as English-labelled evidence; retain French legal text with corrected language, admit only checked replacement provisions."
+  },
+  {
+    "id": "esma-lei",
+    "sources": [
+      "535f6a23062a",
+      "950e8612ba58"
+    ],
+    "relationship": "source-data-anomaly",
+    "scope": "Authorised CSDs C25",
+    "action": "Preserve truncated 529900LG70TCA in raw record. Corroborated full INTERBOLSA LEI 529900LG70TCAGWCXT47 belongs in separately sourced corrected field; GLEIF not checked."
+  }
+]

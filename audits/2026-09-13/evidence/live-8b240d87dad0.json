@@ -1,0 +1,20 @@
+{
+  "id": "8b240d87dad0",
+  "url": "https://athens.euronext.com/sites/default/files/2026-04/RESOLUTION_14_ATHEXCSD-INFORMATION_TECHNOLOGY_SERVICES_387_31.03.2026_FORCE_01.04.2026.pdf",
+  "title": "ATHEXCSD Resolution 14",
+  "original_sha256": "1f6ba192073a259b43060b2f681a2c35f2251d556c0439536046d38e90c767e7",
+  "kind": "curated-document",
+  "audit_id": "8b240d87dad0",
+  "retrieved_at_utc": "2026-09-13T16:17:55.028387+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-04/RESOLUTION_14_ATHEXCSD-INFORMATION_TECHNOLOGY_SERVICES_387_31.03.2026_FORCE_01.04.2026.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Wed, 01 Apr 2026 09:51:11 GMT",
+  "etag": "\"66e84-64e630619731a\"",
+  "sha256": "1f6ba192073a259b43060b2f681a2c35f2251d556c0439536046d38e90c767e7",
+  "bytes": 421508,
+  "saved_path": "sources/8b240d87dad0.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 19,
+  "text_path": "extracted/8b240d87dad0.md"
+}

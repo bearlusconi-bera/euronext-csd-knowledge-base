@@ -1,0 +1,82 @@
+{
+  "url": "https://athens.euronext.com/en/about/regulatory/athexcsd?page=1",
+  "kind": "official-hub",
+  "audit_id": "a67595784a1c",
+  "retrieved_at_utc": "2026-09-13T16:17:59.645791+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/en/about/regulatory/athexcsd?page=1",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": null,
+  "etag": null,
+  "sha256": "150a2615895c1be64046617aeeb59d6125c83fc1ab9a10a5f54b91ae67311368",
+  "bytes": 246953,
+  "saved_path": "sources/a67595784a1c.html",
+  "text_path": "extracted/a67595784a1c.txt",
+  "title": "Rulebooks & Resolutions | Euronext Athens",
+  "links": [
+    {
+      "title": "Euronext Athens (ATHEX)",
+      "url": "https://athens.euronext.com/en/about/regulatory/athex"
+    },
+    {
+      "title": "Euronext Clearing Athens (ATHEXCLEAR)",
+      "url": "https://athens.euronext.com/en/about/regulatory/athexclear"
+    },
+    {
+      "title": "Euronext Securities Athens (ATHEXCSD)",
+      "url": "https://athens.euronext.com/en/about/regulatory/athexcsd"
+    },
+    {
+      "title": "DownloadPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2025-11/RESOLUTION_11_ATHEXCSD-TAX_COLLECTION_SERVICES_383_24.11.2025_FORCE_8.12.2025.pdf"
+    },
+    {
+      "title": "DownloadPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%2010%20ATHEXCSD-SUCCESSION%20SERVICES%2025112024%20FORCE%2029112024.pdf"
+    },
+    {
+      "title": "DownloadPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%209%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A312042021.pdf"
+    },
+    {
+      "title": "View previous versions",
+      "url": "https://athens.euronext.com/sites/default/files/2025-04/RESOLUTIONS_Nr8_ATHEXCSD.zip"
+    },
+    {
+      "title": "DownloadPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2026-07/RESOLUTION_8_ATHEXCSD-CORPORATE_ACTIONS_392_%2010.07.2026_FORCE_14.07.2026.pdf"
+    },
+    {
+      "title": "DownloadPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%207%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A3%2012042021.pdf"
+    },
+    {
+      "title": "DownloadPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2024-05/RESOLUTION%20Nr%206%20ATHEXCSD%2022022021%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A3%2012042021.pdf"
+    },
+    {
+      "title": "DownloadPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2025-12/RESOLUTION_Nr5-ATHEXCSD_383_24.11.2025_FORCE%208.12.2025.DOC.pdf"
+    },
+    {
+      "title": "DownloadPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2026-03/RESOLUTION_4_ATHEXCSD-CENTRAL_MAINTENANCE_SERVICE_386_17.02.2026_FORCE_16.03.2026_0.pdf"
+    },
+    {
+      "title": "DownloadPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%203%20ATHEXCSD%20-%20INITIAL%20RECORDING%2004092024%20FORCE%2004092024.pdf"
+    },
+    {
+      "title": "DownloadPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2026-07/RESOLUTION_Nr_2_ATHEXCSD_30062026_FORCE_20072026.pdf"
+    },
+    {
+      "title": "DownloadPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2025-04/RESOLUTION_Nr1_ATHEXCSD_31032025_as_of_02042025.pdf"
+    },
+    {
+      "title": "Euronext Securities Athens (ATHEXCSD)",
+      "url": "https://athens.euronext.com/en/about/regulatory/archive?title=&tid_1=4"
+    }
+  ]
+}

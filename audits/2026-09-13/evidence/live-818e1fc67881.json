@@ -1,0 +1,622 @@
+{
+  "url": "https://www.euronext.com/pt/csd/porto/legislacao-e-regulamentacao/nossas-regras",
+  "kind": "additional-authority",
+  "audit_id": "818e1fc67881",
+  "retrieved_at_utc": "2026-09-13T16:19:36.151412+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/pt/csd/porto/legislacao-e-regulamentacao/nossas-regras",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": "Sun, 13 Sep 2026 10:04:09 GMT",
+  "etag": "W/\"1789293849\"",
+  "sha256": "0b2aaec85288e6e50fec57bbd0775554dde54063a17ff4f46de0600df716c309",
+  "bytes": 659390,
+  "saved_path": "sources/818e1fc67881.html",
+  "text_path": "extracted/818e1fc67881.txt",
+  "title": "\n              As nossas Regras\n            ",
+  "links": [
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2018",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2018.01.Consolidado.PT_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2017",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/RegulamentoIB.2017.01.PT__0.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2016",
+      "url": "https://www.euronext.com/sites/default/files/2024-01/REGULAMENTO%20DA%20INTERBOLSA%20N.%C2%BA%202_2016.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/RegulamentoIB.2016.01.Consolidado.PT_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 10/2003 – Codificação ISIN",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2003.10.PT_.pdf"
+    },
+    {
+      "title": "Instrução da INTERBOLSA n.º 1/2017",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/InstrucaoIB.2017.01.PT_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º1/2026",
+      "url": "https://www.euronext.com/sites/default/files/2026-01/Circular%20Interbolsa%20n.%C2%BA%201_2026_%20Exerc%C3%ADcio%20de%20Direitos.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 3/2024",
+      "url": "https://www.euronext.com/sites/default/files/2024-09/Euronext%20Securities%20Porto%20Circular%203_2024_PT.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2022",
+      "url": "https://www.euronext.com/sites/default/files/2024-09/Euronext%20Securities%20Porto%20Circular%201_2022_VF_PT_consolidada.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/PT_-IB-CIRCULAR-1_2019_0.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 4/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/Circular.2016.04.PT_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 3/2016",
+      "url": "https://www.euronext.com/sites/default/files/2024-06/Circular%20da%20INTERBOLSA%203_2016.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 2/2016",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2016.02.PT_.pdf"
+    },
+    {
+      "title": "Aviso da Euronext Securities Porto n.º 0394/2024",
+      "url": "https://www.euronext.com/sites/default/files/2024-06/Euronext%20Securities%20Porto%20-%20Aviso%20no.%2003942024%20-%20Hor%C3%A1rio.pdf"
+    },
+    {
+      "title": "Aviso da Euronext Securities Porto n.º 1132/2023",
+      "url": "https://www.euronext.com/sites/default/files/2024-06/An%C3%BAncio%20da%20INTERBOLSA%201132_2023.pdf"
+    },
+    {
+      "title": "Aviso da INTERBOLSA n.º 0246/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/Aviso.2016.0246.Migra%C3%A7%C3%A3o.PT_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2022",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/RegulamentoIB.2022.03.PT_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2022",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/RegulamentoIB.2022.02.PT_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2022",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/RegulamentoIB.2022.01.PT_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2021",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/RegulamentoIB.2021.01.PT_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2020",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.202002.PT_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2020",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/Regulamento-IB-1SCSL2020_VF_03092020.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 4/2019",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2019.04.pt_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Regulation 3/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-04/Regulation.2019.03.EN_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/Regulamento-IB-2-2019_VF.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2019.01.PT_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2018",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2018.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2018",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2018.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º1/2018",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2018.01.consolidado.pt_1.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2017",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2017.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2017",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2017.01.pt_1.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2016",
+      "url": "https://www.euronext.com/sites/default/files/2024-01/REGULAMENTO%20DA%20INTERBOLSA%20N.%C2%BA%202_2016.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.01.consolidado.pt_1.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 4/2010",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2010.04.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º1/2026",
+      "url": "https://www.euronext.com/sites/default/files/2026-01/Circular%20Interbolsa%20n.%C2%BA%201_2026_%20Exerc%C3%ADcio%20de%20Direitos.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 3/2024",
+      "url": "https://www.euronext.com/sites/default/files/2024-09/Euronext%20Securities%20Porto%20Circular%203_2024_PT.pdf"
+    },
+    {
+      "title": "INTERBOLSA Circular 1/2023",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2023.01.en_1.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2022",
+      "url": "https://www.euronext.com/sites/default/files/2024-01/Circular%20da%20INTERBOLSA%20n%C2%BA1_2022.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 4/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2019.04.PT_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 3/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2019.03.PT_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 2/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/Circular-IB-2-2019_VF.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2019",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/PT_-IB-CIRCULAR-1_2019_0.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2018",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2018.01.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 4/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2016.04.pt_1.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 3/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/Circular.2016.03.PT_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 2/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2016.02.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 4/2024",
+      "url": "https://www.euronext.com/sites/default/files/2024-11/Circular%20da%20INTERBOLSA%204_2024_0.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2014",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2014.01.PT_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2006",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2006.02.PT_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2004 - versão simples",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2004.03.PT_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2000 - versão simples",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/RegulamentoIB.2000.03.PT_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2012",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2012.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2012",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2012.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 4/2012",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2012.04.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 5/2012",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2012.05.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2013",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2013.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2013",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2013.01.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2014",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2014.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2013",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2013.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 4/2014",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2014.04.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 6/2014",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2014.06.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2015",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2015.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2015",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2015.01.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 4/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2016.04.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2009",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2009.01.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2009",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2009.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2009",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2009.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 4/2009",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2009.04.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 5/2009",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2009.05.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 6/2009",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2009.06.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2010",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2010.01.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2010",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2010.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 5/2010",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2010.05.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2010",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2010.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 6/2010",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2010.06.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2011",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.01.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2011",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2011",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 4/2011",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.04.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 5/2011",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.05.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 6/2011",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.06.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 7/2011",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.07.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 8/2011",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.08.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 9/2011",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2011.09.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2006",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2006.01.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2006",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2006.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2006",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2006.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 4/2006",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2006.04.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 5/2006",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2006.05.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 6/2006",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2006.06.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2007",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2007.01.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2007",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2007.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2007",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2007.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 4/2007",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2007.04.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2008",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.01.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2008",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2008",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 4/2008",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.04.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 5/2008",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.05.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 6/2008",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.06.pt_1.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 6/2008",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.06.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 7/2008",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2008.07.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2003",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2003.01.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2003",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2003.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 4/2003",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2003.04.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 6/2003",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2003.06.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 11/2003",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2003.11.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2004",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2004.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2004",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2004.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2004 - versão consolidada",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2004.03.consolidado.en_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 1/2005",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.01.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 2/2005",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.02.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2005",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 4/2005",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.04.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 5/2005",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.05.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 6/2005",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.06.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 6/2005 - versão consolidada",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2005.06.consolidado.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2000 - versão consolidada",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2000.03.consolidado.en_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2000",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2000.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 5/2000",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2000.05.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 3/2001",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2001.03.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 6/2001",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2001.06.pt_.pdf"
+    },
+    {
+      "title": "Regulamento da INTERBOLSA n.º 5/2002",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/regulamentoib.2002.05.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2024",
+      "url": "https://www.euronext.com/sites/default/files/2024-11/Circular%20da%20INTERBOLSA%201_2024%20%28vers%C3%A3o%20consoliada%29.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2016",
+      "url": "https://www.euronext.com/sites/default/files/2024-06/Circular%20da%20INTERBOLSA1_2016.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2017",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2017.01.PT_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2014",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2014.01.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 2/2011",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2011.02.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2011",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2011.01.PT_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 2/2010",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2010.02.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2010",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2010.01.registomovimentacaoliquidacao.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 3/2009 - versão consolidada",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2009.03.consolidada.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 3/2009 - versão simples",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2009.03.PT_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 2/2009",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2009.02.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2009",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2009.01.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2008",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2008.01.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 2/2003",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2003.02.PT_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2003",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2003.01.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2002",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2002.01.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2001 - versão simples",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2001.01.PT__0.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2001 - versão consolidada",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2001.01.consolidado.agenteemitente.pt_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2000 - versão simples",
+      "url": "https://www.euronext.com/sites/default/files/2022-07/Circular.2000.01.PT_.pdf"
+    },
+    {
+      "title": "Circular da INTERBOLSA n.º 1/2000 - versão consolidada",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/circular.2000.01.consolidado.exerciciodireitos.pt_.pdf"
+    },
+    {
+      "title": "INTERBOLSA Aviso 1220/2019",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/Aviso.2019.1220.PT_.pdf"
+    },
+    {
+      "title": "Aviso da INTERBOLSA n.º 0789/2019",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/PT_INTB_AVISO_HOR%C3%81RIOS_789_2019_0.pdf"
+    },
+    {
+      "title": "Aviso da INTERBOLSA n.º 0176/2018",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/Aviso.2018.0176.Horarios.PT_.pdf"
+    },
+    {
+      "title": "Aviso da INTERBOLSA n.º 0536/2017",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/Aviso.2017.0536.Horarios.PT_.pdf"
+    },
+    {
+      "title": "Aviso da INTERBOLSA n.º 0017/2017",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/Aviso.2017.0017.Horarios.PT_.pdf"
+    },
+    {
+      "title": "Aviso da INTERBOLSA n.º 0245/2016",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/Aviso.2016.0245.horarios.PT_.pdf"
+    },
+    {
+      "title": "Aviso da INTERBOLSA n.º 1096/2014",
+      "url": "https://www.euronext.com/sites/default/files/2023-07/aviso.2014.1096.timetable.en_.pdf"
+    }
+  ]
+}

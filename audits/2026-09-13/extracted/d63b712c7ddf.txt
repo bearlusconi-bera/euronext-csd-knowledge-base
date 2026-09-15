@@ -1,0 +1,102 @@
+Project Managers Group
+The Project Managers Group (PMG) is responsible for ensuring new T2S releases go live. This involves first proposing the content of each T2S release, taking into account the Change Review Group’s ranking of change requests. The PMG then oversees user testing and migration as well as plans, coordinates and monitors the T2S release management process.
+The PMG is composed of project managers from the participating CSDs and national central banks, the ECB and the 4CB (Banque de France, Banca d’Italia, Banco de España and Deutsche Bundesbank).
+The PMG reports to the Market Infrastructure Board and provides the CSD Steering Group and the Non-euro Currencies Steering Group with regular updates on its work.
+Mandate
+Members
+Scope of T2S releases
+4 March 2026T2S Release 2027.NOV
+English4 March 2026T2S Release 2027.JUN
+English4 March 2026T2S Release 2026.NOV
+English25 November 2025T2S Release 2026.JUN
+English21 July 2025T2S Release 2025.NOV
+English24 April 2025T2S Release 2025.JUN
+English11 November 2024T2S Release 2024.NOV
+English24 September 2024T2S Release 2024.SEP
+English11 June 2024T2S Release 2024.JUN
+English12 February 2024T2S Release R2024.FEB
+English20 November 2023T2S Release R2023.NOV
+English16 September 2023T2S Release 2023.SEP
+English1 June 2023T2S Release 2023.JUN
+English7 February 2023T2S Release 6.3
+English14 October 2022T2S Release 6.2
+English14 July 2022T2S Release 6.1
+English14 July 2022T2S Release 6.0
+English18 February 2022T2S Release 5.3
+English29 October 2021T2S release 5.2
+English2 September 2021T2S release 5.1
+English22 April 2021T2S release 5.0
+English25 November 2020T2S release 4.3
+English10 July 2020T2S release 4.2
+English10 July 2020T2S release 4.0
+English10 February 2020T2S release 3.3
+English10 February 2020T2S release 3.2
+English7 June 2019T2S release 3.1
+English7 June 2019T2S release 3.0
+English29 January 2019T2S release 2.3
+English29 October 2018T2S release 2.2
+English
+PMG documents
+7 September 2026Outcome PMG Ad-Hoc Meeting on 7 July 2026
+English8 July 2026Outcome PMG Meeting on 3 June 2026
+English8 July 2026Outcome PMG Meeting on 21 April 2026
+English22 April 2026Outcome PMG Meeting on 03 March 2026
+English4 March 2026Outcome PMG Meeting on 29 January 2026
+English3 February 2026Outcome PMG Meeting on 10 December 2025
+English12 December 2025Outcome PMG Meeting on 15 October 2025
+English21 November 2025Outcome PMG Meeting on 11 September 2025
+English11 September 2025Outcome - PMG meeting on 03 July 2025
+English11 September 2025Outcome - PMG meeting on 05 June 2025
+English16 June 2025Outcome - PMG meeting on 10 April 2025
+English10 April 2025Outcome - PMG Meeting 05 March 2025
+English5 March 2025Outcome - PMG Meeting 28 January 2025
+English10 December 2024Outcome - PMG Meeting 10 December 2024
+English17 October 2024Outcome - PMG Meeting 17 October 2024
+English12 September 2024Outcome - PMG Meeting 12 September 2024
+English6 June 2024Outcome - PMG Meeting 6 June 2024
+English24 April 2024Outcome - PMG Meeting 24 April 2024
+English12 March 2024Outcome - PMG Meeting 12 March 2024
+English6 February 2024Outcome - PMG Meeting 6 February 2024
+English12 December 2023Outcome - PMG Meeting 12 December 2023
+English18 October 2023Outcome - PMG Meeting 18 October 2023
+English7 September 2023Outcome - PMG Meeting 7 September 2023
+English6 June 2023Outcome - PMG meeting 6 June 2023
+English19 April 2023Outcome - PMG meeting 19 April 2023
+English14 March 2023Outcome - PMG meeting 14 March 2023
+English7 February 2023Outcome - PMG meeting 7 February 2023
+English13 January 2023Outcome - PMG meeting 13 January 2023
+English14 December 2022Outcome - PMG meeting 14 December 2022
+English14 November 2022Outcome - PMG meeting 14 November 2022
+English18 October 2022Outcome - PMG meeting 18 October 2022
+English13 September 2022Outcome - PMG meeting 13 September 2022
+English31 August 2022Outcome - PMG meeting 31 August 2022
+English2 June 2022Outcome - PMG meeting 06 June 2022
+English9 March 2022Outcome - PMG meeting 09 March 2022
+English19 January 2022Outcome - PMG meeting 19 January 2022
+English10 November 2021Outcome - PMG meeting 10 November 2021
+English13 September 2021Outcome - PMG meeting 13 September 2021
+English8 July 2021Outcome - PMG meeting 08 July 2021
+English28 May 2021Outcome - PMG meeting 28 May 2021
+English25 March 2021Outcome - PMG meeting 25 March 2021
+English20 January 2021Outcome - PMG meeting 20 January 2021
+English19 November 2020Outcome - PMG meeting 19 November 2020
+English15 September 2020Outcome - PMG meeting 14& 15 September 2020
+English3 July 2020Outcome - PMG meeting 03 July 2020
+English29 May 2020Outcome - PMG meeting 28 & 29 May 2020
+English5 March 2020Outcome - PMG meeting 05 March 2020
+English23 January 2020Outcome - PMG meeting 23 January 2020
+English28 November 2019Outcome - PMG meeting 28 November 2019
+English9 October 2019Outcome - PMG meeting 09 October 2019
+English4 September 2019Outcome - PMG meeting 04 September 2019
+English5 July 2019Outcome - PMG meeting 05 July 2019
+English23 May 2019Outcome PMG meeting 23 & 24 May 2019
+English21 March 2019Outcome - PMG meeting 21 March 2019
+English24 January 2019Outcome - PMG meeting 24 January 2019
+English5 December 2018Outcome - PMG meeting 05 December 2018
+English17 October 2018Outcome - PMG meeting 17 October 2018
+English30 August 2018Outcome - PMG meeting 30 August 2018
+English20 July 2018Outcome - PMG meeting 20 July 2018
+English6 June 2018Outcome - PMG meeting 06 June 2018
+English19 April 2018Outcome - PMG meeting 19 April 2018
+English23 February 2018Outcome - PMG meeting 23 February 2018
+English

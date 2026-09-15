@@ -1,0 +1,20 @@
+{
+  "id": "1bd67deaace2",
+  "url": "https://www.euronext.com/sites/default/files/2026-04/T2S%20GATEWAY%20-%20ES%20MIL%20Settlement%20links%20-%20Web%20site%20review%20May%202026.pdf",
+  "title": "T2S GATEWAY - Euronext Securities Milan Settlement Links - Valid from 1st May 2026",
+  "original_sha256": "db6a69edf91f0c4fedc0459d94041c7b7b5841a4f5d73d0ead4c69521425f88c",
+  "kind": "curated-document",
+  "audit_id": "1bd67deaace2",
+  "retrieved_at_utc": "2026-09-13T16:14:04.869633+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-04/T2S%20GATEWAY%20-%20ES%20MIL%20Settlement%20links%20-%20Web%20site%20review%20May%202026.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Thu, 30 Apr 2026 09:40:17 GMT",
+  "etag": "W/\"879ff757cf216a7b37c755ae21ec4a84\"",
+  "sha256": "db6a69edf91f0c4fedc0459d94041c7b7b5841a4f5d73d0ead4c69521425f88c",
+  "bytes": 2717606,
+  "saved_path": "sources/1bd67deaace2.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 112,
+  "text_path": "extracted/1bd67deaace2.md"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "838261c7c0d4",
+  "url": "https://www.euronext.com/sites/default/files/2025-01/2025-01-13%20-%20ES-OSL%20Registration%20Rules%20-%20back-up%20account%20operator%20-%20final.pdf",
+  "title": "ES-OSL Registration rules in force 4 February 2025 .pdf",
+  "original_sha256": "d40d9a48ee322eea628ff369858ddcd856905774de7cd1259904cabc87946d58",
+  "kind": "curated-document",
+  "audit_id": "838261c7c0d4",
+  "retrieved_at_utc": "2026-09-13T16:14:10.962294+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-01/2025-01-13%20-%20ES-OSL%20Registration%20Rules%20-%20back-up%20account%20operator%20-%20final.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Fri, 31 Jan 2025 13:34:21 GMT",
+  "etag": "W/\"b7e6d48a4f3345b1b7309e6cafc7fd38\"",
+  "sha256": "d40d9a48ee322eea628ff369858ddcd856905774de7cd1259904cabc87946d58",
+  "bytes": 1260779,
+  "saved_path": "sources/838261c7c0d4.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 85,
+  "text_path": "extracted/838261c7c0d4.md"
+}

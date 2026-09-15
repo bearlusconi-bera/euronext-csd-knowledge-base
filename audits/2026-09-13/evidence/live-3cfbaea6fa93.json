@@ -1,0 +1,20 @@
+{
+  "id": "3cfbaea6fa93",
+  "url": "https://www.athexgroup.gr/documents/10180/7315365/ATHEXCSD+-+PFMI+Disclosure+Framework+-+Dec+2023.pdf/c1b0fa2f-4ebf-42e8-841a-2fb1073fd52d",
+  "title": "PFMI Self-Assessment Report (IOSCO)",
+  "original_sha256": "d401c23bde59a36e254bfe7bbabbb35dd7ca0da003e052468539343ec8281a5d",
+  "kind": "curated-document",
+  "audit_id": "3cfbaea6fa93",
+  "retrieved_at_utc": "2026-09-13T16:17:59.021517+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/documents/10180/7315365/ATHEXCSD+-+PFMI+Disclosure+Framework+-+Dec+2023.pdf/c1b0fa2f-4ebf-42e8-841a-2fb1073fd52d",
+  "content_type": "application/pdf",
+  "last_modified_http": "Thu, 25 Jan 2024 12:57:53 GMT",
+  "etag": null,
+  "sha256": "d401c23bde59a36e254bfe7bbabbb35dd7ca0da003e052468539343ec8281a5d",
+  "bytes": 912354,
+  "saved_path": "sources/3cfbaea6fa93.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 91,
+  "text_path": "extracted/3cfbaea6fa93.md"
+}

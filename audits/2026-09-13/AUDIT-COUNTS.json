@@ -1,0 +1,21 @@
+{
+  "as_of": "2026-09-13",
+  "catalogue_records_screened": 918,
+  "archived_webpage_records_screened": 357,
+  "legal_capture_records_screened": 14,
+  "additional_discussion_web_records": 6,
+  "user_attachment_records": 1,
+  "register_records_including_overlapping_origins": 1335,
+  "retained_archive_documents": 800,
+  "unique_archive_content_hashes": 787,
+  "substantively_reviewed_source_records": 33,
+  "substantively_reviewed_archived_documents": 22,
+  "live_requests": 115,
+  "live_http_200": 113,
+  "existing_document_urls_hash_compared": 62,
+  "unchanged_document_hashes": 62,
+  "live_identity_checks_on_existing_current_operational_layer": 39,
+  "whole_operational_manuals_certified_current_in_every_provision": 0,
+  "rag_runtime_found": false,
+  "retrieval_tests_run": 0
+}

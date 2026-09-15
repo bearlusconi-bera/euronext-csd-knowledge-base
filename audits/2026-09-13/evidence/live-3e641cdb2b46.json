@@ -1,0 +1,282 @@
+{
+  "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/html/index.en.html",
+  "kind": "official-hub",
+  "audit_id": "3e641cdb2b46",
+  "retrieved_at_utc": "2026-09-13T16:17:59.655254+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/html/index.en.html",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": null,
+  "etag": "\"myra-5c5bb3f6\"",
+  "sha256": "c446ec1b7c61dafe9f0e510d4feb8d33ac5c31160a5d0a1e774c6378ddfeb9d3",
+  "bytes": 116332,
+  "saved_path": "sources/3e641cdb2b46.html",
+  "text_path": "extracted/3e641cdb2b46.txt",
+  "title": "T2S Scope Defining Documents",
+  "links": [
+    {
+      "title": "T2S Draft Scope Defining Documents for R2026.NOV - Market Review",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/CoverNote_Draft_Delivery_T2S_UDFS_R2026.NOV_UHB_R2026.NOV.en.pdf?5795c9591bbbba57429212c279d1bcff"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/CoverNote_Draft_Delivery_T2S_UDFS_R2026.NOV_UHB_R2026.NOV.en.pdf"
+    },
+    {
+      "title": "T2S User Detailed Functional Specification R2026.NOV (UDFS) - Version in revision marks",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UDFS_R2026.NOV_revised_20260731.en.pdf?034f7facd845abd21f3af31fccad5678"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UDFS_R2026.NOV_revised_20260731.en.pdf"
+    },
+    {
+      "title": "T2S User Handbook R2026.NOV (UHB) - Version in revision marks",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_R2026.NOV_revised_20260731.en.pdf?bc94207f4b77d249e864600e1f40e26b"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_R2026.NOV_revised_20260731.en.pdf"
+    },
+    {
+      "title": "T2S Business Rules Extract R2026.NOV",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_Business-Rules_Extract_UDFS_UHB_R2026.NOV_20260731.en.zip?9c8aa0033eb193827a79f81d8f5e6f33"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_Business-Rules_Extract_UDFS_UHB_R2026.NOV_20260731.en.zip"
+    },
+    {
+      "title": "T2S User Requirements Document R2026.NOV (URD) - Version in revision marks",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_URD_R2026.NOV_revised_20260803.en.pdf?3d77617c425d8806cf86bca201f3aacc"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_URD_R2026.NOV_revised_20260803.en.pdf"
+    },
+    {
+      "title": "T2S General Functional Specifications R2026.NOV (GFS) - Version in revision marks",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_GFS_R2026.NOV_revised_20260731.en.pdf?09ab3f23553f8be4363cd2f495bbb81f"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_GFS_R2026.NOV_revised_20260731.en.pdf"
+    },
+    {
+      "title": "T2S Data Migration Tool Specification R2026.NOV (DMT) - Version in revision marks",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_DMT_R2026.NOV_revised_20260731.en.pdf?a1a88ff284ac87e6c7238a8b36ee62a3"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_DMT_R2026.NOV_revised_20260731.en.pdf"
+    },
+    {
+      "title": "T2S Business Functionality for T2S Graphical User Interface R2026.NOV (BFD) - Version in revision marks",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_BFD_R2026.NOV_revised_20260803.en.pdf?7f4ca90d7694d823f47fd35a7de4cc8f"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_BFD_R2026.NOV_revised_20260803.en.pdf"
+    },
+    {
+      "title": "T2S UHB Sitemap R2026.NOV",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_R2026.NOV_Extract_Sitemap_for_T2S_revised_20260731.en.pdf?454e2c55ce4535bfcf3163efe78086d7"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_R2026.NOV_Extract_Sitemap_for_T2S_revised_20260731.en.pdf"
+    },
+    {
+      "title": "T2S GFS-URD Cross Reference R2026.NOV - Version in revision marks",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_GFS_Cross_Reference_R2026.NOV_revised_20260731.en.pdf?281abc294e6b687a1c2ad09065bc82d2"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_GFS_Cross_Reference_R2026.NOV_revised_20260731.en.pdf"
+    },
+    {
+      "title": "T2S Data Migration Tool Specification R2026.JUN (DMT)",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_DMT_R2026.JUN_clean_20260122.en.pdf?052e293c3089664335d1f37305900ba6"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_DMT_R2026.JUN_clean_20260122.en.pdf"
+    },
+    {
+      "title": "DMT R2026.JUN Version in revision marks",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_DMT_R2026.JUN_revised_20260122.en.pdf?6ca48382b042718d1e12b070b8c08ce3"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_DMT_R2026.JUN_revised_20260122.en.pdf"
+    },
+    {
+      "title": "Previous version T2S DMT R2025.NOV",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_DMT_vR2025.NOV_previous.en.pdf?3e0cc22bbc36c8e90cded8ea33085cb9"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_DMT_vR2025.NOV_previous.en.pdf"
+    },
+    {
+      "title": "T2S DMT R2026.JUN - Sample Files",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/TARGET_SERVICES_DMT_FILES_20251114.en.zip?6ef1de0d52526c7b46b7269190419562"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/TARGET_SERVICES_DMT_FILES_20251114.en.zip"
+    },
+    {
+      "title": "T2S User Handbook R2026.JUN (UHB)",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UHB_R2026.JUN_clean_20260122.en.pdf?0cf631043c717c4c089d8394cd5f6883"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UHB_R2026.JUN_clean_20260122.en.pdf"
+    },
+    {
+      "title": "UHB R2026.JUN Version in revision marks",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_R2026.JUN_revised_20260122.en.pdf?45126bd17e67d19494e847e39b998ab5"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_R2026.JUN_revised_20260122.en.pdf"
+    },
+    {
+      "title": "Previous version T2S UHB R2025.NOV",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_vR2025.NOV_previous.en.pdf?4198f437c357aaca6c722f9bc8d92c44"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_vR2025.NOV_previous.en.pdf"
+    },
+    {
+      "title": "Sitemaps R2026.JUN",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_R2026.JUN_Extract_Sitemap_for_T2S_20260122.en.pdf?e7bc271c16ee6575d9ff1a9a564e0a8d"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UHB_R2026.JUN_Extract_Sitemap_for_T2S_20260122.en.pdf"
+    },
+    {
+      "title": "Cover note",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/CoverNote_Final_Delivery_T2S_UDFS_R2026.JUN_UHB_R2026.JUN.en.pdf?1056da18fabdb40c2af12f2d605ad8e3"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/CoverNote_Final_Delivery_T2S_UDFS_R2026.JUN_UHB_R2026.JUN.en.pdf"
+    },
+    {
+      "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf?8a79b10506fd87e2348460967faf0dd9"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf"
+    },
+    {
+      "title": "UDFS R2026.JUN Version in revision marks",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UDFS_R2026.JUN_revised_20260122.en.pdf?33cb37a313f6ca3185dc9f95ebdf4609"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UDFS_R2026.JUN_revised_20260122.en.pdf"
+    },
+    {
+      "title": "Previous version T2S UDFS R2025.NOV",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UDFS_vR2025.NOV_previous.en.pdf?0676b3db807cdea7ef5b65b8973e9fce"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_UDFS_vR2025.NOV_previous.en.pdf"
+    },
+    {
+      "title": "Business rules R2026.JUN",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_Business-Rules_Extract_UDFS_UHB_R2026.JUN_20260122.en.zip?79c0c6fdbd20f96e18ef2230cd9f1092"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_Business-Rules_Extract_UDFS_UHB_R2026.JUN_20260122.en.zip"
+    },
+    {
+      "title": "T2S General Functional Specifications R2026.JUN (GFS)",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_GFS_R2026.JUN_clean_20260122.en.pdf?22274ef3289ccb9af6f50bb36556d971"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_GFS_R2026.JUN_clean_20260122.en.pdf"
+    },
+    {
+      "title": "GFS R2026.JUN Version in revision marks",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_GFS_R2026.JUN_revised_20260122.en.pdf?75e3d06d3fa6d0c39c7aa10f7fafabc5"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_GFS_R2026.JUN_revised_20260122.en.pdf"
+    },
+    {
+      "title": "Previous version T2S GFS R2025.NOV",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_GFS_vR2025.NOV_previous.en.pdf?ee77c48e0ed0ffb93eeb106aaaab9d89"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_GFS_vR2025.NOV_previous.en.pdf"
+    },
+    {
+      "title": "GFS - URD cross-reference",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/Cross_Reference_T2S_GFS_R2026.JUN_URD_R2026.JUN_clean_20260122.en.pdf?eb1d23a42f51748e0739b58c83d07e6d"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/Cross_Reference_T2S_GFS_R2026.JUN_URD_R2026.JUN_clean_20260122.en.pdf"
+    },
+    {
+      "title": "Business Functionality for T2S Graphical User Interface R2026.JUN (BFD)",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_BFD_R2026.JUN_clean_20260122.en.pdf?065f0c0f324f5f02d90ef496d4652753"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_BFD_R2026.JUN_clean_20260122.en.pdf"
+    },
+    {
+      "title": "BFD R2026.JUN Version in revision marks",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_BFD_R2026.JUN_revised_20260122.en.pdf?975c3eb46d1b121e3dfcb70141326371"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_BFD_R2026.JUN_revised_20260122.en.pdf"
+    },
+    {
+      "title": "Previous version T2S BFD R2025.NOV",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_BFD_vR2025NOV_previous.en.pdf?9eff53a2fe8a659403ba8c9bb1a96e6b"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_BFD_vR2025NOV_previous.en.pdf"
+    },
+    {
+      "title": "T2S User Requirements Document R2026.JUN (URD)",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_URD_R2026.JUN_clean_20260122.en.pdf?608ec09482a83704d37d56abe9923e22"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_URD_R2026.JUN_clean_20260122.en.pdf"
+    },
+    {
+      "title": "URD R2026.JUN Version in revision marks",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_URD_R2026.JUN_revised_20260122.en.pdf?32003daffae1f6af17dd0bd1ac626847"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_URD_R2026.JUN_revised_20260122.en.pdf"
+    },
+    {
+      "title": "Previous version T2S URD R2025.NOV",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_URD_R2025.NOV_previous.en.pdf?2a7a544eb8404a30311b204561119ed9"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/pub/pdf/annex/T2S_URD_R2025.NOV_previous.en.pdf"
+    }
+  ]
+}

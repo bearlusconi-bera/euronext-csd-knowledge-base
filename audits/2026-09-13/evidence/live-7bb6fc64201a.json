@@ -1,0 +1,20 @@
+{
+  "id": "7bb6fc64201a",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/Fee%20-%20Book%20January%202026%20-IE%20_.pdf",
+  "title": "Fee Books - Issuers - Price list in force from 1 January 2026",
+  "original_sha256": "a0ef3de052b23280dd9aaae74f14d4f86fdc2f3147b22392da9f6d757f935ce3",
+  "kind": "curated-document",
+  "audit_id": "7bb6fc64201a",
+  "retrieved_at_utc": "2026-09-13T16:14:16.911537+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/Fee%20-%20Book%20January%202026%20-IE%20_.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Tue, 03 Feb 2026 15:34:51 GMT",
+  "etag": "W/\"f053667537fee99a310a5b4defe8a70a\"",
+  "sha256": "a0ef3de052b23280dd9aaae74f14d4f86fdc2f3147b22392da9f6d757f935ce3",
+  "bytes": 439496,
+  "saved_path": "sources/7bb6fc64201a.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 28,
+  "text_path": "extracted/7bb6fc64201a.md"
+}

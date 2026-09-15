@@ -1,0 +1,372 @@
+[
+  {
+    "sheet": "Introduction",
+    "cell": "B5",
+    "value": "EUROPEAN OFFERING\nISINs eligible for settlement in Euronext Securities Milan"
+  },
+  {
+    "sheet": "Introduction",
+    "cell": "B6",
+    "value": "This file includes three lists: equities listed on the Euronext Amsterdam, Brussels and Paris markets; ETFs, ETNs and ETCs listed on the Euronext Amsterdam, Brussels and Paris markets; and international ETFs listed on the Euronext Amsterdam and Paris markets. The data covers listings up until 10th of September 2026 and excludes instruments settled in a non-euro currency.\n\nThis file aims at listing the alternative options that have been reviewed and verified by Euronext. These options have been assessed as compliant with the applicable operational framework and regulatory requirements, and we are confident that they can be effectively implemented.\n\nThe following information are included in the file: (i) the Designated place of settlement, being the designated place of settlement applicable from 21 September onward; (ii) the Alternative settlement systems, being the alternative CSD option(s) that may be appointed through the dedicated forms; and (iii) the Main Depositary, indicating how the <MainDepositary> field will be populated in the Euronext cash standing data files, noting that, for technical reasons, in certain exception cases this field may not be populated with the Designated Settlement System; in such cases, the Designated place of settlement will instead appear with an asterisk, e.g. \u201cEuronext Securities*\u201d.\n\nAny request for alternative options not included in this table will be subject to further assessment and will be reviewed on a case-by-case basis in accordance with applicable laws, regulations, and internal governance processes.\n\nThe instruments list will be updated on a regular basis with newly listed or delisted securities. \n\nShould you have any questions or require further information, please contact your sales and relationship management representative."
+  },
+  {
+    "sheet": "Introduction",
+    "cell": "U6",
+    "value": "  "
+  },
+  {
+    "sheet": "Introduction",
+    "cell": "B8",
+    "value": "*This publication is for information purposes only and is not intended to serve as professional advice or a recommendation to engage in business activities with Euronext. This publication should not be considered a final commitment for the future provision of specific services or products, and represents the views of Euronext at the time of publication and may be subject to change or modification at any time without notice. This publication is provided without representation or warranty of any kind. Whilst all reasonable care has been taken to ensure the accuracy of the content, Euronext does not guarantee its accuracy, completeness or suitability for any purpose of any kind. The information presented in this publication should not be construed as endorsement or recommendation of specific services or strategies. Decisions made based on the content of this publication is the sole responsibility of the recipient and Euronext disclaim any liability for actions taken or not taken as a result of reliance on the information presented. Euronext will not be held liable for any loss or damages of any nature arising from or in connection with using, trusting or actions taken or not taken in reliance on the information presented. No information set out or referred to in this publication shall be interpreted as a contractual obligation or form the basis of a contract. All rights and interests in or connected with this publication shall vest in Euronext or the third party owner. No part of it may be redistributed or reproduced in any form without the prior written permission of the legitimate owner. \nBy accessing and reading this publication, the recipient acknowledges and agrees to the terms of this disclaimer. Euronext refers to Euronext N.V. and its affiliates. Information on trademarks and intellectual property rights of Euronext can be found at www.euronext.com/terms-use."
+  },
+  {
+    "sheet": "Equities",
+    "cell": "A1",
+    "value": "ISIN Code"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "B1",
+    "value": "Issuer name"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "C1",
+    "value": "Issuer\ncountry"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "D1",
+    "value": "Market"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "E1",
+    "value": "MIC Code"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "F1",
+    "value": "Other MIC Code \n(for ISINs settling in ESM)"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "G1",
+    "value": "Settlement currency"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "H1",
+    "value": "Issuer CSD"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "I1",
+    "value": "Current place of settlement"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "J1",
+    "value": "In/out of scope "
+  },
+  {
+    "sheet": "Equities",
+    "cell": "K1",
+    "value": "Designated place of settlement \nas of 21 September 2026"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "L1",
+    "value": "Alternative Settlement Systems \nas of 21 September 2026"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "A2",
+    "value": "BE0003809267"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "B2",
+    "value": "ZENOBE GRAMME"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "C2",
+    "value": "BEL"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "D2",
+    "value": "EURONEXT BRUSSELS"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "E2",
+    "value": "XBRU"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "G2",
+    "value": "EUR"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "H2",
+    "value": "Euroclear Belgium"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "I2",
+    "value": "Euroclear Belgium"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "J2",
+    "value": "In scope"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "K2",
+    "value": "Euronext Securities"
+  },
+  {
+    "sheet": "Equities",
+    "cell": "L2",
+    "value": "Euroclear Belgium"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "A1",
+    "value": "ISIN Code"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "B1",
+    "value": "Issuer Name"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "C1",
+    "value": "Market"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "D1",
+    "value": "MIC Code"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "E1",
+    "value": "Other MIC Code \n(for ISINs settling in ESM)"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "F1",
+    "value": "Issuer Country"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "G1",
+    "value": "Settlement currency"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "H1",
+    "value": "Issuer CSD"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "I1",
+    "value": "Current place of settlement"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "J1",
+    "value": "In/out of scope "
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "K1",
+    "value": "Designated place of settlement \nas of 21 September 2026"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "L1",
+    "value": "Alternative Settlement Systems \nas of 21 September 2026"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "A2",
+    "value": "CH0445689208"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "B2",
+    "value": "21Shares"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "C2",
+    "value": "EURONEXT PARIS"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "D2",
+    "value": "XPAR"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "F2",
+    "value": "CHE"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "G2",
+    "value": "EUR"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "H2",
+    "value": "SIX SIS AG"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "I2",
+    "value": "Euroclear Bank"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "J2",
+    "value": "In scope"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "K2",
+    "value": "Euronext Securities"
+  },
+  {
+    "sheet": "ETPs",
+    "cell": "L2",
+    "value": "Euroclear France"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "A1",
+    "value": "ISIN Code"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "B1",
+    "value": "Issuer Name"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "C1",
+    "value": "Market"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "D1",
+    "value": "MIC Code"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "E1",
+    "value": "Other MIC Code \n(for ISINs settling in ESM)"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "F1",
+    "value": "Issuer Country"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "G1",
+    "value": "Settlement currency"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "H1",
+    "value": "Issuer CSD"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "I1",
+    "value": "Current place of settlement"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "J1",
+    "value": "In/out of scope "
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "K1",
+    "value": "Designated place of settlement\nas of 21 September 2026"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "L1",
+    "value": "Alternative Settlement Systems \nas of 21 September 2026"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "A2",
+    "value": "IE0000UJ3480"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "B2",
+    "value": "ISHARES V"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "C2",
+    "value": "EURONEXT PARIS"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "D2",
+    "value": "XPAR"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "F2",
+    "value": "IRL"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "G2",
+    "value": "EUR"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "H2",
+    "value": "Euroclear Bank"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "I2",
+    "value": "Euroclear Bank"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "J2",
+    "value": "In scope"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "K2",
+    "value": "Euronext Securities*"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "L2",
+    "value": "Euroclear Bank"
+  },
+  {
+    "sheet": "International ETPs",
+    "cell": "M2",
+    "value": "Euroclear France"
+  }
+]

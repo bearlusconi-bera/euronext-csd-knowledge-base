@@ -1,0 +1,20 @@
+{
+  "id": "082eda43643a",
+  "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_GFS_R2026.JUN_clean_20260122.en.pdf",
+  "title": "T2S General Functional Specifications R2026.JUN (GFS)",
+  "original_sha256": "f8b36e5566c21145eca8d1799693796a1c98becd7edf823342a22fff76dd28dd",
+  "kind": "curated-document",
+  "audit_id": "082eda43643a",
+  "retrieved_at_utc": "2026-09-13T16:18:19.609463+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_GFS_R2026.JUN_clean_20260122.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Tue, 20 Jan 2026 13:41:45 GMT",
+  "etag": null,
+  "sha256": "f8b36e5566c21145eca8d1799693796a1c98becd7edf823342a22fff76dd28dd",
+  "bytes": 17553453,
+  "saved_path": "sources/082eda43643a.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 714,
+  "text_path": "extracted/082eda43643a.md"
+}

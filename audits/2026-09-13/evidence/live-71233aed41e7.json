@@ -1,0 +1,20 @@
+{
+  "id": "71233aed41e7",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/settlement_service_description_document_v1.6.pdf",
+  "title": "Settlement Services _ Service Description Document _ v1.6.pdf",
+  "original_sha256": "d88abb7859947ddec4655792f2ff9d4bb18009d4aa993c4ad6328422bb24e37b",
+  "kind": "curated-document",
+  "audit_id": "71233aed41e7",
+  "retrieved_at_utc": "2026-09-13T16:17:59.805652+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/settlement_service_description_document_v1.6.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Tue, 30 Jun 2026 14:46:56 GMT",
+  "etag": "W/\"660a80dea77d39d38380e03b51f479fa\"",
+  "sha256": "d88abb7859947ddec4655792f2ff9d4bb18009d4aa993c4ad6328422bb24e37b",
+  "bytes": 3402384,
+  "saved_path": "sources/71233aed41e7.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 110,
+  "text_path": "extracted/71233aed41e7.md"
+}

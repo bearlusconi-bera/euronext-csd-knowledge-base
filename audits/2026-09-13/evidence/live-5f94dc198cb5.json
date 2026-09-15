@@ -1,0 +1,98 @@
+{
+  "url": "https://www.euronext.com/nb/csd/oslo/var-virksomhet/lover-og-regler",
+  "kind": "official-hub",
+  "audit_id": "5f94dc198cb5",
+  "retrieved_at_utc": "2026-09-13T16:17:55.365890+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/nb/csd/oslo/var-virksomhet/lover-og-regler",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": "Sun, 13 Sep 2026 11:27:05 GMT",
+  "etag": "W/\"1789298825\"",
+  "sha256": "6e8d2ec59cad9d2eee5c13e3a01f98d5c483a76be3d3b0af085f8ce3412abc1d",
+  "bytes": 394530,
+  "saved_path": "sources/5f94dc198cb5.html",
+  "text_path": "extracted/5f94dc198cb5.txt",
+  "title": "\n              Lover og regler\n            ",
+  "links": [
+    {
+      "title": "Klikk her",
+      "url": "https://lovdata.no/dokument/NL/lov/2019-03-15-6?q=verdipapirsentralloven"
+    },
+    {
+      "title": "Klikk her",
+      "url": "https://lovdata.no/dokument/SF/forskrift/2019-12-18-1900?q=verdipapirsentralforskriften"
+    },
+    {
+      "title": "Klikk her",
+      "url": "https://lovdata.no/dokument/NL/lov/1999-12-17-95"
+    },
+    {
+      "title": "Klikk her",
+      "url": "https://lovdata.no/dokument/NL/lov/1997-06-13-45"
+    },
+    {
+      "title": "Tillatelse",
+      "url": "https://www.euronextvps.no/wp-content/uploads/2022/03/Approval-as-CSD.pdf"
+    },
+    {
+      "title": "Euronext Securities Oslo Settlement Fails 2025 - Article 15",
+      "url": "https://www.euronext.com/sites/default/files/2026-02/Euronext%20Securities%20Oslo%20-%20Settlement%20Fails%202025%20-%20Article15.xlsx"
+    },
+    {
+      "title": "ES-OSL - Registerregelverk i kraft 4. februar 2025.pdf",
+      "url": "https://www.euronext.com/sites/default/files/2025-01/es-osl_-_registerregelverk_-_i_kraft_4_februar_2025_0.pdf"
+    },
+    {
+      "title": "Euronext Securities Participant Default Policy",
+      "url": "https://www.euronext.com/sites/default/files/2025-05/ES-OSL%20Participants%20Default%20Procedure.pdf"
+    },
+    {
+      "title": "Service Level Agreement til Registerregelverk i kraft under CSDR",
+      "url": "https://www.euronext.com/sites/default/files/2022-09/Service-Level-Agreement-til-Registerregelverk-i-kraft-under-CSDR.pdf"
+    },
+    {
+      "title": "Bilag A – SLA til Registerregelverk i kraft under CSDR",
+      "url": "https://www.euronext.com/sites/default/files/2022-09/Bilag-A-SLA-til-Registerregelverk-i-kraft-under-CSDR.pdf"
+    },
+    {
+      "title": "ES-OSL VPS NOK Regelverket.pdf",
+      "url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_regelverket.pdf"
+    },
+    {
+      "title": "Veiledning",
+      "url": "https://www.euronext.com/nb/media/7186/download"
+    },
+    {
+      "title": "Les mer",
+      "url": "https://www.euronext.com/en/corporate-services/lei-services"
+    },
+    {
+      "title": "Klikk her",
+      "url": "https://www.euronext.com/media/15830/download"
+    },
+    {
+      "title": "OSL-clientsupport@euronext.com",
+      "url": "mailto:OSL-clientsupport@euronext.com"
+    },
+    {
+      "title": "Euronext Securities Oslo Prisliste",
+      "url": "https://www.euronext.com/nb/media/14652"
+    },
+    {
+      "title": "Price policy",
+      "url": "https://www.euronext.com/media/7192//download"
+    },
+    {
+      "title": "Vedtekter",
+      "url": "https://www.euronext.com/media/7161/download"
+    },
+    {
+      "title": "Account Operators Compliance Committee Mandate",
+      "url": "https://www.euronext.com/media/11089/download"
+    },
+    {
+      "title": "Download Euronext Securities Oslo Privacy Statement",
+      "url": "https://www.euronext.com/media/10566/download"
+    }
+  ]
+}

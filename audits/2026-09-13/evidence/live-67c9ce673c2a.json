@@ -1,0 +1,20 @@
+{
+  "id": "67c9ce673c2a",
+  "url": "https://www.euronext.com/sites/default/files/2026-04/20260408_STD%20Layouts%20of%20the%20files%20messages%20available%20to%20Financial%20Intermediaries_v58.pdf",
+  "title": "Layouts of the files/messages available to Financial Intermediaries",
+  "original_sha256": "59e82de82ac6f066104110f83ef6577fcd4703e9e4245616917c559d17f158e3",
+  "kind": "curated-document",
+  "audit_id": "67c9ce673c2a",
+  "retrieved_at_utc": "2026-09-13T16:14:13.222689+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-04/20260408_STD%20Layouts%20of%20the%20files%20messages%20available%20to%20Financial%20Intermediaries_v58.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Wed, 08 Apr 2026 15:07:00 GMT",
+  "etag": "W/\"1b032358cf503fe4e1f3dcc81c64a045\"",
+  "sha256": "59e82de82ac6f066104110f83ef6577fcd4703e9e4245616917c559d17f158e3",
+  "bytes": 4197565,
+  "saved_path": "sources/67c9ce673c2a.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 282,
+  "text_path": "extracted/67c9ce673c2a.md"
+}

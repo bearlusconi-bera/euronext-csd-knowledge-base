@@ -1,0 +1,17 @@
+{
+  "url": "https://athens.euronext.com/sites/default/files/2026-06/%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3_%CE%9B%CE%95%CE%99%CE%A4%CE%9F%CE%A5%CE%A1%CE%93%CE%99%CE%91%CE%A3_%CE%95%CE%9B%CE%9A%CE%91%CE%A4_7%CE%B7_%CE%A4%CF%81%CE%BF%CF%80%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7_383_24.11.2025_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_8.12.2025.pdf",
+  "id": "athens-greek-master",
+  "kind": "new-authoritative-original",
+  "audit_id": "athens-greek-master",
+  "retrieved_at_utc": "2026-09-13T16:19:33.361458+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-06/%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3_%CE%9B%CE%95%CE%99%CE%A4%CE%9F%CE%A5%CE%A1%CE%93%CE%99%CE%91%CE%A3_%CE%95%CE%9B%CE%9A%CE%91%CE%A4_7%CE%B7_%CE%A4%CF%81%CE%BF%CF%80%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7_383_24.11.2025_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_8.12.2025.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Tue, 16 Jun 2026 12:10:56 GMT",
+  "etag": "\"3feec3-6545dd5d9d2d0\"",
+  "sha256": "55c319194d12ab734319cd32aaf16578db3cbfbbb54c5fe7e5f5ea0425d6debd",
+  "bytes": 4189891,
+  "saved_path": "sources/athens-greek-master.pdf",
+  "pdf_pages": 206,
+  "text_path": "extracted/athens-greek-master.md"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "aa3d5a3b94c9",
+  "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+  "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+  "original_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+  "kind": "curated-document",
+  "audit_id": "aa3d5a3b94c9",
+  "retrieved_at_utc": "2026-09-13T16:18:18.116771+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Tue, 20 Jan 2026 13:48:48 GMT",
+  "etag": null,
+  "sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+  "bytes": 43551297,
+  "saved_path": "sources/aa3d5a3b94c9.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 2017,
+  "text_path": "extracted/aa3d5a3b94c9.md"
+}

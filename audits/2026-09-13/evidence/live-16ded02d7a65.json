@@ -1,0 +1,20 @@
+{
+  "id": "16ded02d7a65",
+  "url": "https://www.euronext.com/sites/default/files/2026-08/es_cph_rule_book_part_%203_Book-entry%20Rules.pdf",
+  "title": "Part 3 - Book-entry Rules (PDF)",
+  "original_sha256": "af3a4f2ba230a27f0d48707d77a0ac6465b6070bed42ba3901d927dc536d9bc7",
+  "kind": "curated-document",
+  "audit_id": "16ded02d7a65",
+  "retrieved_at_utc": "2026-09-13T16:14:06.808504+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-08/es_cph_rule_book_part_%203_Book-entry%20Rules.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Mon, 03 Aug 2026 09:35:23 GMT",
+  "etag": "W/\"3878352ff0a845de58e6f3cc48e97ce2\"",
+  "sha256": "af3a4f2ba230a27f0d48707d77a0ac6465b6070bed42ba3901d927dc536d9bc7",
+  "bytes": 496829,
+  "saved_path": "sources/16ded02d7a65.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 28,
+  "text_path": "extracted/16ded02d7a65.md"
+}

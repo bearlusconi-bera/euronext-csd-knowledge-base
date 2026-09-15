@@ -1,0 +1,20 @@
+{
+  "id": "c164d86ada8e",
+  "url": "https://www.ecb.europa.eu/pub/pdf/annex/CoverNote_Final_Delivery_T2S_UDFS_R2026.JUN_UHB_R2026.JUN.en.pdf",
+  "title": "Cover note",
+  "original_sha256": "6314140c0d0d0b4ddbea880e18899d006c47b39d1495fe91dae0b0dc462cc45d",
+  "kind": "curated-document",
+  "audit_id": "c164d86ada8e",
+  "retrieved_at_utc": "2026-09-13T16:18:17.212426+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/pub/pdf/annex/CoverNote_Final_Delivery_T2S_UDFS_R2026.JUN_UHB_R2026.JUN.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Tue, 20 Jan 2026 13:54:12 GMT",
+  "etag": null,
+  "sha256": "6314140c0d0d0b4ddbea880e18899d006c47b39d1495fe91dae0b0dc462cc45d",
+  "bytes": 280824,
+  "saved_path": "sources/c164d86ada8e.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 10,
+  "text_path": "extracted/c164d86ada8e.md"
+}

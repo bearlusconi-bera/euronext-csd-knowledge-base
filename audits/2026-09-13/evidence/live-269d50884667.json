@@ -1,0 +1,20 @@
+{
+  "id": "269d50884667",
+  "url": "https://www.euronext.com/sites/default/files/2026-01/Fee%20-%20Book%20January%202026%20-%20FI%20.pdf",
+  "title": "Fee Books - Financial Intermediaries - Price list in force from 1 January 2026",
+  "original_sha256": "e85e5f308d1036d68df89bc09f1a2ed60490b580ddd34847f803dfe444e2a9a0",
+  "kind": "curated-document",
+  "audit_id": "269d50884667",
+  "retrieved_at_utc": "2026-09-13T16:14:16.477922+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-01/Fee%20-%20Book%20January%202026%20-%20FI%20.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Mon, 05 Jan 2026 09:28:22 GMT",
+  "etag": "W/\"c40e87507cff212bd9865d5ae5e3bbe9\"",
+  "sha256": "e85e5f308d1036d68df89bc09f1a2ed60490b580ddd34847f803dfe444e2a9a0",
+  "bytes": 473826,
+  "saved_path": "sources/269d50884667.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 32,
+  "text_path": "extracted/269d50884667.md"
+}

@@ -1,0 +1,58 @@
+{
+  "url": "https://www.euronext.com/en/csd/milan/membership/rules-instructions",
+  "kind": "official-hub",
+  "audit_id": "92d6cd189bff",
+  "retrieved_at_utc": "2026-09-13T16:17:55.365156+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/csd/milan/membership/rules-instructions",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": "Sun, 13 Sep 2026 10:16:04 GMT",
+  "etag": "W/\"1789294564\"",
+  "sha256": "2ee290ff9760498e5bc4dfe5933f3e22c9e4b7b632754ed477a8649d2034b68b",
+  "bytes": 401789,
+  "saved_path": "sources/92d6cd189bff.html",
+  "text_path": "extracted/92d6cd189bff.txt",
+  "title": "\n              Rules & Instructions\n            ",
+  "links": [
+    {
+      "title": "Amendments to the Service Regulations - as of 26 January 2026",
+      "url": "https://www.euronext.com/sites/default/files/2026-01/AOS_20.01.2026%20%28ENG%29.pdf"
+    },
+    {
+      "title": "Regulations as of 26 January 2026",
+      "url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf"
+    },
+    {
+      "title": "Regulations as of 26 January 2026 with evidence of the amendments",
+      "url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITH%20EV_26012026.pdf"
+    },
+    {
+      "title": "Amendments to the Instructions - in force as of 7 October 2025",
+      "url": "https://www.euronext.com/sites/default/files/2025-10/amendments%20to%20CSD%20Instructions_ETF_FINAL_07.10.2025.pdf"
+    },
+    {
+      "title": "Instructions to the Regulations - as of 7 October 2025",
+      "url": "https://www.euronext.com/sites/default/files/2025-10/02%20Istructions%20CSD_EN_WITHOUT%20EVIDENCE_20251007.pdf"
+    },
+    {
+      "title": "Instructions to the Regulations with evidence of the amendments - as of 7 October 2025",
+      "url": "https://www.euronext.com/sites/default/files/2025-10/02%20Istructions%20CSD_EN_WITH%20EVIDENCE_20251007.pdf"
+    },
+    {
+      "title": "Amendments to the Instructions to the Service Regulations - as of 30 June 2025",
+      "url": "https://www.euronext.com/sites/default/files/2025-06/Stralcio%20modifiche%20servizio%20di%20liquidazione%20%28ENG%29_PUBLICATION.pdf"
+    },
+    {
+      "title": "Instructions to Settlement Service and related instrumental activities - in force as of 30 June 2025",
+      "url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITHOUT%20EVIDENCE.pdf"
+    },
+    {
+      "title": "Instructions to Settlement Service and related instrumental activities (with evidence of the amendments) - in force as of 30 June 2025",
+      "url": "https://www.euronext.com/sites/default/files/2025-07/03%20Settlement%20Service%20Instructions_30062025_WITH%20EVIDENCE.pdf"
+    },
+    {
+      "title": "Instructions for the RCC Service",
+      "url": "https://www.euronext.com/sites/default/files/2021-05/4350_ENG_04%20Instructions%20rcc%20service_189122019.pdf"
+    }
+  ]
+}

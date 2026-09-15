@@ -1,0 +1,658 @@
+List of T2S Change Requests3 September 2026T2S-0851-SYS Changes to the Billing process for the management of Direct Holding Markets
+EnglishDetailsT2S CRG statusAllocated to R2027.JUN25 August 2026T2S-0875-SYS T2S shall enhance the reporting of GATE eligibility using specific reason codes
+EnglishDetailsT2S CRG statusProposed for R2027.NOV19 August 2026T2S-0865-URD Dedicated T2S gating event to optimise settlement resources in the context of the move to T+1
+EnglishDetailsT2S CRG statusAllocated to R2027.JUN18 August 2026T2S-0873-URD Parking mechanism for instructions missing ISIN reference data set-up
+EnglishDetailsT2S CRG statusRegistered17 August 2026T2S-0826-SYS T2S should use Pending Processing status to report hold on unmatched instructions
+EnglishDetailsT2S CRG statusAllocated to R2028.NOV4 August 2026T2S-0859-SYS Upgrade of T2S messages to ISO MR 2026
+EnglishDetailsT2S CRG statusAllocated to R2026.NOVAnnexes4 August 2026T2S-0859-SYS Consolidated Comparison Files ISO MR 2026
+English4 August 2026T2S-0872-URD Decommissioning functionality introduced by CR-0762 (New option for opening T2S during the weekend)
+EnglishDetailsT2S CRG statusAuthorised at the T2S Steering Level4 August 2026T2S-0841-SYS Upgrade of T2S messages to ISO MR 2025
+EnglishDetailsT2S CRG statusAllocated to R2026.NOVAnnexes4 August 2026T2S-0841-SYS Attachment
+English4 August 2026T2S-0831-SYS T2S should enable PFOD as parameter for case 2 restrictions on securities
+EnglishDetailsT2S CRG statusAllocated to R2028.JUN23 July 2026T2S-0868-URD Extension of the T2S penalty mechanism exemption to cover transactions stemming from share registration
+EnglishDetailsT2S CRG statusProposed for R2027.JUN14 July 2026T2S-0874-SYS Multiplex Editorial Change Request (for R2026.NOV)
+EnglishDetailsT2S CRG statusAllocated to R2026.NOV9 July 2026T2S-0793-URD Introduce party type Ancillary System in T2S
+EnglishDetailsT2S CRG statusProposed for R2028.JUN1 July 2026T2S-0871-SYS Enhancement of Nexi CUG Domain Suspension Reversal Procedure
+EnglishDetailsT2S CRG statusWithdrawn18 June 2026T2S-0846-URD T2S should not create a realignment chain in mixed scenarios where one realignment chain ends in T2S but the other one ends outside of T2S with an External CSD
+EnglishDetailsT2S CRG statusAllocated to R2027.NOV18 June 2026T2S-0845-SYS RTS enhancements: Reducing the IDB coupling between SETT and LCMM and improvement of the optimisation process
+EnglishDetailsT2S CRG statusAllocated to R2028.JUN18 June 2026T2S-0829-URD T2S Eligible Counterparty CSD Links should be at party level and no longer at security, Issuer CSD or country level
+EnglishDetailsT2S CRG statusAllocated to R2028.JUN17 June 2026T2S-0860-SYS Re-map COSD related references into new element “Related Transaction Identification” in T2S semt and camt messages
+EnglishDetailsT2S CRG statusAuthorised at the T2S Steering Level16 June 2026T2S-0861-SYS Drop Matching Reference within Supplementary Data of T2S outbound messages, and use Counterparty MITI to report the matched leg instead
+EnglishDetailsT2S CRG statusOn hold15 June 2026T2S-0867-SYS T2S should change penalty eligibility of reason code CDLR to FALSE
+EnglishDetailsT2S CRG statusWithdrawn15 June 2026T2S-0866-URD T2S should attempt settlement of SIs/SRs on securities issued in East Asian/Pacific Markets prior to NTS C1S4
+EnglishDetailsT2S CRG statusOn hold15 June 2026T2S-0863-SYS Multiplex Editorial Change Request (for R2026.JUN)
+EnglishDetailsT2S CRG statusImplemented with R2026.JUN15 June 2026T2S-0825-SYS Unpruning and formatting of Collateral References in sese.023
+EnglishDetailsT2S CRG statusImplemented with R2026.JUN15 June 2026T2S-0824-SYS Add new Market Infrastructure Transaction Identification of Counterparty Reference
+EnglishDetailsT2S CRG statusImplemented with R2026.JUN15 June 2026T2S-0823-SYS Add Partial release new reason code “PREL” in sese.024 and semt.018
+EnglishDetailsT2S CRG statusImplemented with R2026.JUN15 June 2026T2S-0809-SYS Alignment of T2S Messages with ISO Maintenance Release 2020 – 2024
+EnglishDetailsT2S CRG statusImplemented with R2026.JUN15 June 2026T2S-0807-SYS Add new reason code in the sese.024 to identify that there is a mismatch in the partial settlement indicator
+EnglishDetailsT2S CRG statusImplemented with R2026.JUN12 June 2026T2S-0798-URD T2S COSD logic should support partial release of instructions subject to COSD and partial COSD release
+EnglishDetailsT2S CRG statusAllocated to R2026.NOV5 June 2026T2S-0855-URD T2S should inform about Default Link Flag of Security CSD Links in reda.012 messages for Security CSD Links
+EnglishDetailsT2S CRG statusAllocated to R2027.NOV22 May 2026T2S-0835-SYS T2S should streamline business validations for intended settlement date in the past
+EnglishDetailsT2S CRG statusAllocated to R2027.NOV22 May 2026T2S-0864-URD Adding a new dedicated NTS sequence for Corporate Actions processing
+EnglishDetailsT2S CRG statusWithdrawn22 May 2026T2S-0862-URD Extension of the T2S penalty mechanism exemption
+EnglishDetailsT2S CRG statusAllocated to R2027.JUN22 May 2026T2S-0813-SYS Mandatory Cash Sweep for closed cash accounts with remaining Liquidity at EOD
+EnglishDetailsT2S CRG statusAllocated to R2027.NOV31 March 2026T2S-0844-SYS T2S should process settlement instructions with ISD in the future outside the Start of Day period
+EnglishDetailsT2S CRG statusAllocated to R2027.JUN4 March 2026T2S-0858-URD Adjustment of the Night-Time Settlement for accommodating the shortening of the settlement cycle to T+1
+EnglishDetailsT2S CRG statusAllocated to R2027.JUN19 February 2026T2S-0837-URD New Mechanism for handling queries and access rights management for Direct Holding Markets
+EnglishDetailsT2S CRG statusAllocated to R2027.JUN17 February 2026T2S-0848-SYS General Ledger file tracking and integrity functionality for contingency procedures
+EnglishDetailsT2S CRG statusWithdrawn15 December 2025T2S-0854-SYS CRDM reda messages should support the new securities account type ‘End Investor Account’ for Direct Holding Markets
+EnglishDetailsT2S CRG statusAllocated to R2026.NOV22 November 2025T2S-0820-SYS CRDM Certificate DN management restrictions
+EnglishDetailsT2S CRG statusImplemented with R2025.NOVAnnexes13 May 2025T2S CR820 - DN Allocation rules
+English13 May 2025CR129 Certificate DN Migration principles
+English22 November 2025T2S-0827-URD T2S should submit partially released instruction to settlement independent from T2S partial settlement windows
+EnglishDetailsT2S CRG statusImplemented with R2025.NOV22 November 2025T2S-0812-URD ‘Party hold’ as a new category of restriction type case one rules
+EnglishDetailsT2S CRG statusImplemented with R2025.NOV22 November 2025T2S-0811-SYS Impact of T2S-ICN-0061 - CRDM business rules on Party and Cash Accounts validity period
+EnglishDetailsT2S CRG statusImplemented with R2025.NOV22 November 2025T2S-0794-SYS T2S settlement day processes for DKK
+EnglishDetailsT2S CRG statusImplemented with R2025.NOV22 November 2025T2S-0720-URD Optional inbound liquidity transfer in case of negative NCB account balance at liquidity cut-off
+EnglishDetailsT2S CRG statusImplemented with R2025.NOV22 November 2025T2S-0857-SYS Multiplex Editorial Change Request (for R2025.NOV)
+EnglishDetailsT2S CRG statusImplemented with R2025.NOV21 November 2025T2S-0834-SYS Un-prune additional attributes in T2S settlement messages to enhance STP processing
+EnglishDetailsT2S CRG statusAllocated to R2027.NOV10 October 2025T2S-0856-SYS T2S should enable Updates of Alternative Security CSD Links in A2A mode
+EnglishDetailsT2S CRG statusAllocated to R2026.NOV10 October 2025T2S-0828-URD T2S should no longer release cash restrictions related to COSD blocking at real-time closure
+EnglishDetailsT2S CRG statusAllocated to R2026.NOV9 October 2025T2S-0850-SYS Operational and Technical upgrade of the DMT tool to support increase in the number of Securities Accounts
+EnglishDetailsT2S CRG statusAllocated to R2026.NOV10 July 2025T2S-0784-SYS Update in the Credit Memorandum Balance configuration to allow leveraging on the CCBM model
+EnglishDetailsT2S CRG statusAllocated to R2027.NOV7 July 2025T2S-0852-SYS RTS Enhancement: Reducing the ODB coupling between SETT and LCMM
+EnglishDetailsT2S CRG statusAuthorised by the T2S Steering Level2 July 2025T2S-0849-SYS RTS Enhancements: Minimising the sending of SETT/LCMM internal messages
+EnglishDetailsT2S CRG statusAllocated to R2027.JUN2 July 2025T2S-0843-SYS Support UTI in T2S messages according to ISO 20022 CR 1408 “Change of UTI implementation”
+EnglishDetailsT2S CRG statusAllocated to R2026.NOV2 July 2025T2S-0802-URD Penalty Mechanism calculation and storage extension
+EnglishDetailsT2S CRG statusOn hold24 June 2025T2S-0810-SYS T2S should verify whether the certificate used to sign NRO is linked to the user initiating the signature
+EnglishDetailsT2S CRG statusImplemented with R2025.JUN24 June 2025T2S-0806-URD Removal of T2S functionality for the identification of penalties related to a CCP
+EnglishDetailsT2S CRG statusImplemented with R2025.JUN24 June 2025T2S-0805-SYS The monthly BILL process should not be blocked when a party does not have the invoice configuration
+EnglishDetailsT2S CRG statusImplemented with R2025.JUN24 June 2025T2S-0792-SYS T2S alignment to ISO 10962: 2021 CFI code - removal of decomissioned codes
+EnglishDetailsT2S CRG statusImplemented with R2025.JUNAnnexes14 August 2024T2S 0791 792 SYS Annex
+English24 June 2025T2S-0772-SYS Export of T2S cash transactional data from the Data Warehouse to a Eurosystem’s monetary policy application
+EnglishDetailsT2S CRG statusImplemented with R2025.JUN24 June 2025T2S-0847-SYS Multiplex Editorial Change Request (for R2025.JUN)
+EnglishDetailsT2S CRG statusImplemented with R2025.JUNAnnexes5 February 2025Annex A - T2S Business Rules UDFS - UHB
+English11 February 2025Annex B CN-T2S_UDFS_SETT_Chapter 1.6.1.10_Realignment_INC000000297025
+English24 June 2025T2S-0821-SYS Display name of secured groups in CRDM screens for access right management
+EnglishDetailsT2S CRG statusImplemented with R2025.JUN24 June 2025T2S 0814 SYS Internal operational monitoring tools enhancements
+EnglishDetailsT2S CRG statusImplemented with R2025.JUN24 June 2025T2S-0800-URD Harmonisation of floor/ceiling notifications with T2
+EnglishDetailsT2S CRG statusImplemented with R2025.JUN24 June 2025T2S-0797-SYS T2S should support cross-border settlement via alternative Security CSD Links
+EnglishDetailsT2S CRG statusImplemented with R2025.JUNAnnexes26 January 2024CR797 - Background
+English17 February 2025T2S-0797-SYS Annex 1 T2S UDFS SETT Chapter 1.6.1.10 Realignment CR 797
+English17 February 2025T2S-0797-SYS Annex 2 T2S UDFS CRDM Configuration of Securities CSD Links
+English14 March 2025T2S-0797-SYS Annex 3 T2S GFS R2023.JUN clean 20230210
+English18 March 2025T2S-0815-SYS LTSI migration data to the T2S DWH
+EnglishDetailsT2S CRG statusImplemented with R2024.JUNAnnexes12 January 2024T2S-0815- SYS Annex
+English26 February 2025T2S-0832-BFD Alignment of the T2S GUI screens to the TARGET Services Harmonised GUI Style v1.0
+EnglishDetailsT2S CRG statusAuthorised by the T2S Steering Level24 January 2025T2S-0838-SYS Technical upgrade of the PROD environment to support increase in the number of Securities Accounts
+EnglishDetailsT2S CRG statusWithdrawn3 December 2024T2S-0833-SYS Multiplex Editorial Change Request (for R2024.NOV)
+EnglishDetailsT2S CRG statusImplemented with R2024.NOVAnnexes30 July 2024Annex A - DWH Split books List of changes
+English2 December 2024T2S-0791-SYS T2S alignment to ISO 10962: 2021 CFI code - addition of new codes
+EnglishDetailsT2S CRG statusImplemented with R2024.NOV21 November 2024T2S-0789-URD Handling automatic cancellation for T2S External Transactions
+EnglishDetailsT2S CRG statusImplemented with R2024.NOV21 November 2024T2S-0679-SYS Implementation of thresholds in Standing Liquidity Transfer Orders
+EnglishDetailsT2S CRG statusImplemented with R2024.NOV21 November 2024T2S-0803-SYS Impact of ICN-0015 new draft7 schema version of camt.077 BILL message
+EnglishDetailsT2S CRG statusImplemented with R2024.NOV21 November 2024T2S-0796-SYS Secured Groups should have name and description attributes
+EnglishDetailsT2S CRG statusImplemented with R2024.NOV16 July 2024T2S-0768-SYS T2S message customization should be reduced for sese.024 messages
+EnglishDetailsT2S CRG statusWithdrawn13 June 2024T2S-0818-SYS T2S Billing – LCMM and CoCos enhancements stemming from audit report
+EnglishDetailsT2S CRG statusWithdrawn13 June 2024T2S-0817-SYS T2S Billing – INTF, LQMG, SETT enhancements from audit report
+EnglishDetailsT2S CRG statusWithdrawn13 June 2024T2S-0816-SYS T2S Billing – BILL enhancements stemming from audit report
+EnglishDetailsT2S CRG statusWithdrawn13 June 2024T2S-0804-SYS T2S Billing – STSI enhancements from audit report
+EnglishDetailsT2S CRG statusWithdrawn8 June 2024T2S-0634-SYS Improvement of settlement data reporting during Start of day (SOD)
+EnglishDetailsT2S CRG statusImplemented with R2024.JUNAnnexes23 March 2022UT-PBR-073 T2S returns no Settlement related data during SOD
+English8 June 2024T2S-0525-SYS Provide Restriction Type name and description in reason code due to Market Specific Restriction Types
+EnglishDetailsT2S CRG statusImplemented with R2024.JUN8 June 2024T2S-0819-SYS Multiplex Editorial Change Request (for R2024.JUN)
+EnglishDetailsT2S CRG statusImplemented with R2024.JUNAnnexes30 November 2023T2S-819-SYS BDM-BILL split books Annex B
+English30 November 2023CR-699-Annex 2
+English8 June 2024T2S-0801-URD Submission of DWH cash-related data in any specific currency/CB system entity to a CB analytical plataform
+EnglishDetailsT2S CRG statusImplemented with R2024.JUN8 June 2024T2S-0757-SYS T2S should apply a 20-day transformation period for instructions subject to COSD
+EnglishDetailsT2S CRG statusImplemented with R2024.JUN15 January 2024T2S-0822-SYS Impact of T2S-ICN-0068 for TIPS-0066-URD “TIPS Pricing invoicing enhancements”
+EnglishDetailsT2S CRG statusRejected16 June 2023T2S-0808-SYS Multiplex Editorial CR for R2023.NOV
+EnglishDetailsT2S CRG statusImplemented with R2023.NOVAnnexes15 August 2023CRDM-ESMIG Split books - List of changes Annex A
+English6 December 2022T2S-0795-SYS Multiplex Editorial Change Request (for R2023.JUN)
+EnglishDetailsT2S CRG statusImplemented29 November 2022T2S-0799-SYS Matched Partial Settlement Indicator should be informed in sese.024 when instructions are matched
+EnglishDetailsT2S CRG statusWithdrawn24 June 2022T2S-0787-URD Instructions released during cut-off with failing reason 'CYCL' must be imposed with a SEFP penalty
+EnglishDetailsT2S CRG statusImplemented with R2023.JUN14 June 2022T2S-0788-SYS Multiplex Second Editorial Change Request (for R6.2)
+EnglishDetailsT2S CRG statusImplemented with R6.227 May 2022T2S-0786-SYS Counterparty leg of a failing instruction due to reason code 'LINK' should not be penalised
+EnglishDetailsT2S CRG statusImplemented with R2023.NOV29 April 2022T2S-0785-SYS Multiplex Editorial Change Request (for R6.2)
+EnglishDetailsT2S CRG statusImplemented with R6.228 January 2022T2S-0782-SYS Adaptions due to the decommissioning of Kronos2 and migration to T2
+EnglishDetailsT2S CRG statusImplemented with R2023.NOV25 January 2022T2S-0783-SYS RTS optimisation process: improvement dedicated to high volume corporate actions
+EnglishDetailsT2S CRG statusImplemented with R2023.NOV17 December 2021T2S-0781-SYS Allowing Security Intraday Restriction maintenance on or after Maturity Date
+EnglishDetailsT2S CRG statusImplemented with R2023.JUN13 December 2021T2S-780-URD Identification of penalties related to a CCP participating in a CSD outside T2S
+EnglishDetailsT2S CRG statusWithdrawn30 November 2021T2S-0779-SYS Optimise processing of CORP transactions during Real Time Settlement: grouping in collections and modified sorting method
+EnglishDetailsT2S CRG statusImplemented with R2023.JUN17 November 2021T2S-0778-SYS Technical upgrade of the PROD environment to support increase in the number of Securities Accounts
+EnglishDetailsT2S CRG statusImplemented17 November 2021T2S-0777-SYS Unprune elements of the semt.002 message to allow their use by ECMS
+EnglishDetailsT2S CRG statusImplemented with R6.225 October 2021T2S-0773-SYS Multiplex Editorial Change Request (for R6.0)
+EnglishDetailsT2S CRG statusImplemented with R6.030 August 2021T2S-0771-SYS Additional Editorial CR for R5.2 (ECMS MSA)
+English17 August 2021T2S-0770-URD Dynamic allocation of processing priority to massive concurrent settlement attempts and optimisation limit
+English3 July 2021T2S-0769-SYS Add MS Edge to the list of supported browsers for U2A interaction
+EnglishDetailsT2S CRG statusImplemented with R2023.JUN28 May 2021T2S-0767-SYS Technical enhancement of the EAC environment to support migration and volume testing activities of CSDs joining T2S
+EnglishDetailsT2S CRG statusImplementation in EAC on 11 July 202226 May 2021T2S-0766-SYS T2S Settlement Optimisation Analysis
+EnglishDetailsT2S CRG statusOutside the scope of a release19 May 2021T2S-0765-SYS Multiplex Editorial Change Request (for R5.2)
+EnglishDetailsT2S CRG statusImplemented in R5.217 May 2021T2S-0764-SYS No intraday update of the Negative Position flag
+EnglishDetailsT2S CRG statusImplemented with R2023.JUN11 May 2021T2S-0763-SYS T2S Multi-Criteria Settlement Optimisation
+EnglishDetailsT2S CRG statusImplemented with R2023.JUN30 March 2021T2S-0762-URD New option for opening T2S during the week-end
+EnglishDetailsT2S CRG statusImplemented with R2023.JUN29 March 2021T2S-0761-SYS Enhance optimisation during RTS to maximise transaction throughput on the same resource
+EnglishDetailsT2S CRG statusImplemented with R2023.JUN15 March 2021T2S-0760-URD T2S Penalty Mechanism: Reporting the transaction details
+EnglishDetailsT2S CRG statusImplemented in R6.015 March 2021T2S-0759-URD T2S Penalty Mechanism: Reporting with reason code ‘new penalty’ (NEWP) in the List of Modified Penalties
+EnglishDetailsT2S CRG statusImplemented in R5.210 March 2021T2S-0758-SYS Own party data must be present for already matched cross CSD instructions
+English17 February 2021T2S-0756-SYS If an instruction is cancelled, then T2S should no longer consider it to be part of a Pool
+EnglishDetailsT2S CRG statusImplemented with R2023.NOV12 February 2021T2S-0755-SYS T2S Penalty Mechanism: Updates and optimisations on the schedule of activities
+EnglishDetailsT2S CRG statusImplemented in R5.09 February 2021T2S-0754-SYS Editorial Change Request on UDFS for R5.0
+EnglishDetailsT2S CRG statusImplemented in R5.018 December 2020T2S-0753-SYS Export of T2S cash transactional data from the Data Warehouse to a Eurosystem’s analytical platform
+EnglishDetailsT2S CRG statusImplemented with R2024.JUN18 December 2020T2S-0752-SYS Intraday delta Flat File reporting and technical optimisations to enhance the flat file generation process
+EnglishDetailsT2S CRG statusImplemented with R6.218 December 2020T2S-0751-SYS Logical deletion of Securities Accounts and purge of CMB Securities Account Links
+EnglishDetailsT2S CRG statusImplemented with R6.210 December 2020T2S-0750-SYS AID tool for the T2S Operator
+English26 November 2020T2S-0749-URD Second Multiplex Editorial Change Request (for R5.0)
+EnglishDetailsT2S CRG statusImplemented in R5.020 November 2020T2S-0748-URD Dedicated list of Central Counterparties (CCPs) to identify and flag CCPs in the penalty reports generated by T2S
+EnglishDetailsT2S CRG statusImplemented in R5.212 November 2020T2S-0747-SYS NTS cash contingency cases management - new CASHGEN tool
+EnglishDetailsT2S CRG statusImplemented in R5.212 November 2020T2S-0746-SYS Mitigation measures for missing partial settlements and new COLGEN tool
+EnglishDetailsT2S CRG statusImplemented in R5.223 September 2020T2S-0745-URD T2S penalty mechanism must provide increased flexibility for the penalty computation currency in case of FOP instructions
+EnglishDetailsT2S CRG statusImplemented in R5.29 September 2020T2S-0744-SYS Multiplex Editorial Change Request on DMT, GFS, UDFS and UHB
+EnglishDetailsT2S CRG statusImplemented in R5.09 September 2020T2S-0743-BFD Editorial updates to the GUI Business Functionality Document
+EnglishDetailsT2S CRG statusImplemented in R5.0Annexes8 October 2020T2S-0743-BFD Annex (BFD updates)
+English2 September 2020T2S-0742-SYS Enable PFOD for external CSD settlement
+EnglishDetailsT2S CRG statusImplemented in R6.02 September 2020T2S-0741-SYS Enable settlement of custody-related settlement restrictions in NTS Sequence 1
+EnglishDetailsT2S CRG statusImplemented in R6.06 August 2020T2S-0740-SYS No check of the Minimum Settlement Unit upon revalidation of partially settled instructions and partially settled settlement restrictions
+EnglishDetailsT2S CRG statusImplemented24 July 2020T2S-0739-SYS Prioritise transactions with an older intended settlement date over newer ones also after ISD+3 of the newer transaction
+EnglishDetailsT2S CRG statusImplemented in R6.022 June 2020T2S-0738-SYS Bypass check on issuance account for PFODs on a multi-issued ISIN
+EnglishDetailsT2S CRG statusImplemented in R5.027 May 2020T2S-0737-URD Conversion of annual into daily rate for the application of the Cash Discount Penalty Rate
+EnglishDetailsT2S CRG statusWithdrawn13 May 2020T2S-0736-SYS Multiplex Editorial Change Request on UDFS and UHB (for R4.2)
+EnglishDetailsT2S CRG statusImplemented24 April 2020T2S_0735_SYS T2S to provide the CSDs the possibility to receive message transmission information grouped by Securities Account
+EnglishDetailsT2S CRG statusWithdrawn21 April 2020T2S-0734-SYS Allow 18 digits (of which max 2 decimals) in Amount fields of messages camt.004, camt.052, camt.053
+EnglishDetailsT2S CRG statusImplemented2 March 2020T2S-0733-SYS Definition of a classification of transactions for CB T2S data
+EnglishDetailsT2S CRG statusImplemented with R2023.NOV27 February 2020T2S-0732-SYS Inclusion of VAT numbers in T2S invoices
+EnglishDetailsT2S CRG statuswithdrawn15 January 2020T2S-0731-SYS Multiplex Editorial Change Request on UDFS and UHB
+EnglishDetailsT2S CRG statusAllocated to R4.019 December 2019T2S-0730-SYS Securities Subject to Penalties: allow setting Valid To equal to the current business day -1
+EnglishDetailsT2S CRG statusImplemented11 December 2019T2S-0729-SYS Extend the maximum length of references to 35 characters for T2S liquidity transfers in EUR and ensure valid cross-service LTs with camt.050 changes
+EnglishDetailsT2S CRG statusImplemented in R5.06 December 2019T2S-0728-SYS T2S must be able to identify, store, and report settlement information related to settlement instructions created as a result of partially successful buy-in
+EnglishDetailsT2S CRG statusImplemented6 December 2019T2S-0727-URD T2S Penalty Mechanism: Removal of the exemption for ISO transaction code “REDM” and typos, and semt.044 update
+EnglishDetailsT2S CRG statusImplemented22 November 2019T2S-0726-SYS No redundant status update on instructions pending due to counterparty hold
+English20 November 2019T2S-0725-SYS Next Settlement Day Cash Forecast should report cash demand for the next possible cash settlement day
+English19 November 2019T2S-0724-SYS Multiplex Editorial Change Request on GFS, UDFS, UHB and DMT
+EnglishDetailsT2S CRG statusAllocated to R4.019 November 2019T2S-0723-URD Introduce reason code as parameter for T2S message subscription logic
+EnglishDetailsT2S CRG statusImplemented with R6.225 October 2019T2S-0722-BFD Upgrade of non-repudiation for U2A
+EnglishDetailsT2S CRG statusImplemented in R6.0Annexes26 January 2022T2S-0722-BFD Annex - ESMIG U2A Qualified Configurations v1.3.3 (for GSD MU v2.0 users)
+English27 January 2022T2S-0722-BFD Annex - ESMIG U2A Qualified Configurations v1.3.1 (for GSD MU v1.0 users)
+English20 September 2019T2S-0721-SYS Common Reference Data Management for T2-T2S Consolidation – Reused Objects
+English15 August 2019T2S-0719-SYS Common Reference Data Management for T2-T2S Consolidation – Modified Objects
+English19 July 2019T2S-0718-URD Daily provision of Euro Foreign Exchange Rates for the penalty mechanism
+EnglishDetailsT2S CRG statusImplemented23 May 2019T2S-0717-URD T2S penalty mechanism: exemption from LMFP on settlement instructions created as a result of partially successful buy-ins
+EnglishDetailsT2S CRG statusImplemented in R5.017 May 2019T2S-0716-SYS Multiplex Editorial Change Request on GFS, UDFS and UHB
+English3 May 2019T2S-0715-URD Optimisations to the T2S Penalty Mechanism’s (CR654) user requirements
+EnglishDetailsT2S CRG statusImplemented29 March 2019T2S-0714-SYS T2S should allow ECMS to receive the notifications of relocation instructions (sese.032 and sese.025)
+EnglishDetailsT2S CRG statusImplemented in R5.220 March 2019T2S-0713-SYS Alignment of T2S Messages with ISO Maintenance Release 2018 – 2019 and migration to ISO registered versions
+EnglishDetailsT2S CRG statusImplementedAnnexes20 January 2020T2S-0713-SYS attachment
+English15 March 2019T2S-0712-SYS Multiplex Editorial Change Request on UDFS and UHB
+English4 March 2019T2S-0710-URD Daily maintenance window only for urgent changes
+EnglishDetailsT2S CRG statusImplemented in R5.028 February 2019T2S-0708-URD Allow Liquidity Transfers from a T2S DCA to a RTGS or TIPS DCA (including CB accounts)
+EnglishDetailsT2S CRG statusImplemented in R5.028 February 2019T2S-0709-URD Make the mandatory automated cash sweep at 17:45 optional
+EnglishDetailsT2S CRG statusImplemented in R5.028 February 2019T2S-0707-SYS T2-T2S Consolidation Business Day Management – T2S Migration
+EnglishDetailsT2S CRG statusImplemented in R6.0Annexes25 January 2022T2S-0707-SYS Annex 01 - UHB updates
+English25 January 2022T2S-0707-SYS Annex 02a - UDFS updates
+English25 January 2022T2S-0707-SYS Annex 02b - UDFS updates
+English28 February 2019T2S-0706-SYS Billing common component – T2S Migration
+EnglishDetailsT2S CRG statusImplemented in R6.0Annexes25 January 2022T2S-0706-SYS Annex 01a - UDFS Chapter 1-2
+English25 January 2022T2S-0706-SYS Annex 01b - UDFS camt.076, camt.077 and BRs
+English25 January 2022T2S-0706-SYS Annex 02 - UHB
+English25 January 2022T2S-0706-SYS Annex 03 - GFS
+English28 February 2019T2S-0705-SYS CRDM Business Interface Impact on T2S
+EnglishDetailsT2S CRG statusImplemented in R6.0Annexes28 February 2019T2S-0705-SYS Annex 1 - GFS updates
+English28 February 2019T2S-705-SYS Annex 02 UHB
+English28 February 2019T2S-0705-SYS Annex 03 UDFS
+English28 February 2019T2S-0704-SYS CRDM Business Interface development
+EnglishDetailsT2S CRG statusImplemented in R5.0Annexes29 January 2020T2S-704-SYS attachment
+English28 February 2019T2S-0703-SYS Camt.050 exchanged between T2S and CLM
+EnglishDetailsT2S CRG statusAllocated to R4.228 February 2019T2S-0702-SYS T2-T2S Consolidation and ECMS will require an internal communication within the consolidated platform
+English28 February 2019T2S-0701-SYS ESMIG impact on T2S
+EnglishDetailsT2S CRG statusImplemented in R6.0Annexes24 March 2021T2S-0701-SYS Annex 1 (GFS)
+English28 February 2019T2S-0700-SYS Legal Archiving common component for T2S
+EnglishDetailsT2S CRG statusImplemented in R6.0Annexes20 April 2021T2S-0700-SYS Annex 1 - Clarification Note on Legal Archiving and Internal Messages
+English28 February 2019T2S-0699-SYS Decommissioning LTSI, scope and definition of queries and reports and access specifications to Data Warehouse functionalities
+EnglishDetailsT2S CRG statusImplementedAnnexes30 August 2021T2S-0699-SYS Annex - DWH T2S report description
+English25 January 2022T2S-0699-SYS Annex 2a - UHB updates
+English25 January 2022T2S-0699-SYS Annex 2b - UHB updates
+English23 January 2024T2S-699-SYS-Annex UHB Chapter 5
+English28 February 2019T2S-0698-SYS T2-T2S Consolidation Business Day Management Development
+EnglishAnnexes22 January 2020T2S_0698_SYS attachment
+English28 February 2019T2S-0697-SYS Billing common component development
+EnglishDetailsT2S CRG statusImplemented in R5.228 February 2019T2S-0696-SYS Common Reference Data Management for T2-T2S Consolidation - New Objects
+EnglishDetailsT2S CRG statusImplemented in R5.016 January 2019T2S-0695-SYS Trade date to become mandatory within a settlement instruction (sese.023)
+EnglishDetailsT2S CRG statusImplemented14 January 2019T2S-0694-URD Extension of the 08:00 and 15:45 partial settlement windows
+English21 December 2018T2S-0693-URD Automatic rebooking of failed outbound liquidity transfers
+English18 December 2018T2S-0692-SYS Send status update message upon transition to ‘Failing’
+EnglishDetailsT2S CRG statusImplemented in R5.012 December 2018T2S-0691-URD Recycling period of 60 business days for matched instructions
+EnglishDetailsT2S CRG statusImplemented19 November 2018T2S-0690-SYS Unprune fields in settlement allegements
+EnglishDetailsT2S CRG statusImplemented in R5.025 October 2018T2S-0689-URD New process to maximise settlement of transactions at DVP cut-off
+EnglishDetailsT2S CRG statusAllocated to R4.026 September 2018T2S-0688-SYS Enhanced reporting of cancellation reason codes
+EnglishDetailsT2S CRG statusImplemented in R5.019 September 2018T2S-0687-URD Editorial Change Request for removal of Financial Instrument Short Name standard validation
+English14 September 2018T2S-0685-URD T2S Penalty Mechanism for non-T2S settlement flows
+English11 September 2018T2S-0686-SYS Enhanced reporting for market claims and transformations
+EnglishDetailsT2S CRG statusAllocated to R3.04 September 2018T2S-0684-SYS Handling for outbound messages with amounts /quantity fields exceeding 14 digits
+EnglishDetailsT2S CRG statusImplemented24 August 2018T2S-0683-URD Multiplex Editorial Change Request on UDFS,UHB and URD
+EnglishDetailsT2S CRG statusAllocated to R3.02 August 2018T2S-0682-SYS Transaction ages up to 15 days should be differentiated by the settlement optimisation process
+English28 June 2018T2S-0681-SYS
+EnglishDetailsT2S CRG statusImplemented in R5.020 June 2018T2S-0680-SYS T2S should allow ECMS to receive flat file statement of holdings, transactions and pending instructions at the level of securities accounts
+EnglishDetailsT2S CRG statusImplemented in R5.224 May 2018T2S-0678-SYS Financial Instrument Short Name validations should be compliant with the latest ISO18774 standard
+English22 March 2018T2S-0677-SYS During partial settlement windows, recycling should only be triggered after an optimization attempt
+EnglishDetailsT2S CRG statusImplemented16 March 2018T2S-0676-SYS Multiplex Editorial Change Request on UDFS and UHB
+English17 January 2018T2S-0675-SYS Add ISIN as a search criteria in the ‘Eligible counterpart CSDs’ screen
+EnglishDetailsT2S CRG statusImplemented with R6.214 December 2017T2S-0674-SYS Common Reference Data Management for TIPS
+English8 December 2017T2S-0673-SYS Multiplex Editorial Change Request on UDFS and UHB
+English8 November 2017T2S-0672-SYS Multiplex Editorial Change Request on UDFS and UHB
+English3 November 2017T2S-0671-SYS Storage and reporting of the Beneficial Ownership indicator for Settlement Instructions in T2S
+EnglishDetailsT2S CRG statusAllocated to R4.017 October 2017T2S-0670-SYS Logical deletion and purge of matured ISINs together with their related links
+EnglishDetailsT2S CRG statusAllocated to R3.013 October 2017T2S-0668-SYS Provide the T2S reference of the linked instructions preventing settlement
+EnglishDetailsT2S CRG statusImplementedAnnexes7 January 2020T2S-0668-SYS attachment
+English20 September 2017T2S-0669-SYS Alignment of Flat files, DMT files and Securities Valuation flat files with ISO Maintenance Releases 2013 - 2017
+EnglishAnnexes22 October 2018T2S-0669-SYS attachment
+English25 August 2017T2S-0667-SYS The Camt.019 final message after the night-time settlement file bundling shall report zero files
+English7 July 2017T2S-0646-SYS Pre-formatted operational reports
+EnglishAnnexes19 February 2019Central Bank report
+English19 February 2019CSD report
+English19 February 2019T2S Operator report
+English19 February 2019List of definitions
+English5 July 2017T2S-0666-SYS T2S should lower maximum outbound file size to 99 MB
+English26 June 2017T2S-0665-URD Multiplex Editorial Change Request on UDFS,UHB and URD.
+English20 June 2017T2S-0664-SYS T2S should allow the population of the dedicated Legal Entity Identifier (LEI) field on Party 2 level in A2A mode
+English26 May 2017T2S-0662-SYS Possibility to extract bulk of settlement instruction details in csv format in case T2S reporting has not been produced
+EnglishAnnexes24 October 2018T2S-0662-SYS attachment
+English24 May 2017T2S-0663-SYS Treatment of change of fractional digit for cases of ISIN with settlement type nominal and change of settlement type
+English24 April 2017T2S-0660-SYS Long Term Statistical Information improvements and performance optimisation (Phase 1)
+English24 April 2017T2S-0661-SYS Long Term Statistical Information improvements and performance optimisation (Phase 2)
+English12 April 2017T2S-0658-SYS T2S should allow and process already matched instructions with deviating settlement parameters on DELI and RECE legs
+EnglishDetailsT2S CRG statusAllocated to R4.0Annexes3 December 2019T2S-0658-SYS Already matched instructions with deviating parameters on DELI and RECE legs (Annex)
+English12 April 2017T2S-0659-SYS T2S should allow settlement of instructions with an ‘AFTER’ link to a settled instruction that was subject to conditional securities delivery
+English17 March 2017T2S-0657-SYS Multiplex Editorial Change Request on GFS, UDFS and UHB
+English10 March 2017T2S-0656-URD T2S should allow a temporary limit for the secondary Credit Memorandum Balance
+English22 February 2017T2S-0655-SYS T2S should allow updates of maturity date for matured ISINs
+English10 February 2017T2S-0654-URD T2S Penalty Mechanism
+EnglishDetailsT2S CRG statusImplementedAnnexes3 July 2020T2S-0654-URD attachments
+English9 February 2017T2S-0653-URD Partial release functionality
+EnglishAnnexes18 October 2019T2S-0653-URD attachment
+English8 November 2019Explanatory note on the full release of a partially released instruction
+English19 January 2017T2S-0651-SYS Apply pagination in the Statement of Transactions (semt.017) at transaction level
+English10 January 2017T2S-0650-SYS T2S to prevent duplicate sequence numbers and duplicate T2S References after a Recovery After Disaster
+English5 January 2017T2S-0649-SYS Handling of leading and trailing "blanks" and "/" in A2A and U2A names and Identification attributes
+EnglishAnnexes22 October 2018T2S-0649-SYS attachment
+English12 December 2016T2S-0648-SYS Enhancement of operational resilience in multi-currency context
+English2 December 2016T2S-0647-SYS T2S Actors should be allowed to extract bulk of outbound messages in XML format
+English1 December 2016T2S-0641-URD Introduction of a new partial settlement window during the Real Time Settlement period at 8 am
+English22 November 2016T2S-0645-SYS Character Set X: Align discrepancies between UDFS, UHB, DMT and SWIFT Handbook
+English22 November 2016T2S-0644-SYS Automatic set-up of the payment due date in invoices
+English22 November 2016T2S-0642-SYS Adjustments to the PDF and XML format of T2S invoices
+English22 November 2016T2S-0643-SYS Display service item code and price on the GUI screen
+English17 November 2016T2S-0640-SYS Bilaterally Agreed Treasury Management (BATM) operations to be applied on bilateral basis only
+English4 November 2016T2S-0639-SYS Multiplex Editorial Change Request on GFS, UDFS and UHB
+English20 October 2016T2S-0637-SYS T2S enhanced bundling of messages during night-time settlement reporting
+English20 October 2016T2S-0638-SYS T2S should allow and process already matched instructions which include the counterparty’s securities sub-position to be used for settlement purposes
+EnglishDetailsT2S CRG statusImplemented with R2023.JUN21 September 2016T2S-0635-SYS Introduction of a new event at the end of cut-off of IDVP
+English31 August 2016T2S-0633-SYS Multiplex Editorial Change Request on UDFS and UHB
+English29 August 2016T2S-0631-SYS The field ”value date” should be defaulted to the current business date in the Immediate Liquidity Transfers Screen
+EnglishDetailsT2S CRG statusWithdrawn26 August 2016T2S-0632-SYS To increase the default number of rows to be displayed from 10 to 100 rows per page
+EnglishAnnexes24 October 2018T2S-0632-SYS attachment
+English12 July 2016T2S-0627-SYS Managing overlapping of Restriction Types for Security Accounts
+English12 July 2016T2S-0630-SYS Cash forecast: skip cash closing days and introduce breakdown per Hold/Released status
+EnglishDetailsT2S CRG statusImplemented R5.012 July 2016T2S-0629-SYS Enhance Cash Forecast Query and Report to display CORP related cash movements separately
+EnglishDetailsT2S CRG statusImplemented in R5.012 July 2016T2S-0628-SYS Add Event Type Code “EDVP” to list of eligible “event trigger” for standing and predefined liquidity transfer orders
+English8 July 2016T2S-0626-SYS Allow NCBs to obtain the complete view of all DCAs in the Cash account balances U2A query
+English7 July 2016T2S-0625-SYS CoSD Rule - New/Edit Screen - Discrepancy within UHB and between UHB and GUI
+English7 July 2016T2S-0624-SYS Remove possibility to amend CoSD Rule and CoSD Rule Set by setting the closing date to past business date
+English4 July 2016T2S-0622-SYS Include information from the underlying settlement instruction in the T2S ‘Bank to customer debit credit notification (camt.054)’ message for optimising reconciliation
+English28 June 2016T2S-0621-SYS Multiple pending reason codes (combination of lack of securities and lack of cash)
+English28 June 2016T2S-0623-SYS Standing rebalancing of securities positions
+EnglishDetailsT2S CRG statusWithdrawn23 June 2016T2S-0619-SYS Additional validation rules for SAC-DCA links
+English22 June 2016T2S-0620-SYS Allow CSDs to query for all positions in a given security via T2S GUI
+EnglishDetailsT2S CRG statusImplemented with R6.214 June 2016T2S-0617-SYS Handling Liquidity Transfers with future value date
+English13 June 2016T2S-0618-SYS Recycling includes arrival of new collateral resources
+English20 May 2016T2S-0616-SYS Multiplex Editorial Change Request on UDFS and UHB
+EnglishAnnexes26 October 2018T2S-0616-SYS attachment
+English19 May 2016T2S-0612-SYS Alignment of T2S Messages with ISO Maintenance Releases 2013 - 2017
+EnglishAnnexes21 February 2019T2S-0612-SYS attachment
+English16 May 2016T2S-0615-SYS Enrich values in “Transaction activity field” of the “Securities Transaction Posting Report (semt.017)”, of the “Securities Transaction Pending Report (semt.018)” and in “Bank Transaction Code” in the “End of Day Account Statement (camt.053)” with all ISO20022 codes
+EnglishDetailsT2S CRG statusImplemented in R5.013 May 2016T2S-0613-URD T2S should give the possibility to receive outbound T2S messages bundled in files
+EnglishAnnexes19 October 2018T2S-0613-URD attachment
+English13 May 2016T2S-0614-SYS Matching status should be included in sese.024 status messages for unmatched instructions when a pending reason is reported
+English10 May 2016T2S-0610-SYS Allow NCBs to obtain the complete view of all DCAs in the U2A outstanding collateralisation query.
+English10 May 2016T2S-0611-SYS Cash Account Postings GUI Screen to include the T2S Actor References
+EnglishDetailsT2S CRG statusImplemented in R6.010 May 2016T2S-0608-SYS T2S should be enhanced to maintain and report types of financial instruments as described in the CSDR Level 2 Technical Standards
+EnglishDetailsT2S CRG statusWithdrawn by initiator10 May 2016T2S-0609-SYS T2S must be able to report settlement status ‘Failing’ for settlement instructions for which settlement at the Intended Settlement Date (ISD) is no longer possible
+English26 April 2016T2S-0606-SYS T2S should maintain and report information related to ‘Place of Trade’ and ‘Place of Clearing’ of a settlement instruction consistently across T2S messages
+English25 April 2016T2S-0607-SYS T2S must be able to identify, store, and report settlement information related to buy-in transactions consistently across T2S messages
+English11 April 2016T2S-0605-SYS Multiplex Editorial Change Request on UDFS and UHB
+English8 April 2016T2S-0604-SYS T2S generated instructions should inherit priority from the underlying settlement instructions
+EnglishDetailsT2S CRG statusWithdrawn18 March 2016T2S-0603-URD Processing order of settlement
+English3 March 2016T2S-0600-SYS T2S reporting functionality must be enhanced to allow the retrieval of the settlement instructions and their related SF1 (accepted) /SF2 (matched) timestamps via A2A/U2A in an efficient and standard way
+English2 March 2016T2S-0602-SYS Usage of Pending Cancellation status in the Cancellation Securities Instruction Details screen
+English2 March 2016T2S-0601-SYS Date and time in the Inbound Message screen should not always be defaulted
+English2 March 2016T2S-0599-SYS Update of the parameter type value for the System User Reference in the message subscription rule in the Data Migration Tools
+English23 February 2016T2S-0598-SYS Update value of True / False-Indicator in reda.035 (Securities account activity advice) which identifies whether an account is in hold status or not
+English18 February 2016T2S-0597-SYS T2S should identify static data-related transmissions for Central Bank auto-collateralisation and client-collateralisation separately for billing process
+English17 February 2016T2S-0595-SYS Allow settlement restrictions and settlement instructions to impact positions other than the earmarked restriction type used at the securities account level
+English17 February 2016T2S-0571-SYS Availability of Business Sending Party/User as additional parameters for the configuration of Case 1 Restriction Types
+English17 February 2016T2S-0596-SYS Enhance Settlement Instruction - Details screen to display T2S matching reference and the counterparty’s instruction details
+EnglishDetailsT2S CRG statusImplemented with R2023.NOV11 February 2016T2S-0593-SYS Prevent acceptance (i.e. reaching SF1) of new settlement
+English10 February 2016T2S-0592-SYS New business rule for change of security name via a Security Maintenance Request (reda.007)
+English10 February 2016T2S-0591-SYS Reinstate the use of the field in the payload of the Security Activity Advice (reda.009)
+English10 February 2016T2S-0594-SYS Reporting complete Restriction Type information
+English1 February 2016T2S-0590-SYS Include information from the underlying settlement instruction in the T2S ‘Bank to customer statement (camt.053)’ and in the T2S ‘Bank to customer debit credit notification (camt.054) messages for Settlement, Custody/Asset servicing and Reconciliation
+English27 January 2016T2S-0588-SYS Inclusion of the DCA in the auto-collateralisation messages i.e. Securities Settlement Transaction Generation Notification (sese.032) and the corresponding Securities Settlement Transaction Confirmation (sese.025)
+English21 January 2016T2S-0589-SYS Non-editorial changes to the Flat file solution for reports at end of day (EOD) period
+English19 January 2016T2S-0652-SYS Increase the limit of distinct values for the parameters relating to message subscriptions
+EnglishDetailsT2S CRG statusAllocated to R3.013 January 2016T2S-0587-SYS Alignment of ISO transaction codes across various T2S ISO messages
+English31 December 2015T2S-0586-SYS For auto-collateralisation reimbursement instruction(s), sese.032 messages sent to the credit provider should contain the pending reason code PRCY (CounterpartyInstructionOnHold)
+English14 December 2015T2S-0585-SYS Apply pagination at -level instead of at -
+English11 December 2015T2S-0584-URD Editorial Change Request on URD, GFS, UDFS and UHB
+English11 December 2015T2S-0583-SYS Editorial Change Request on GFS, UDFS and UHB
+English10 December 2015T2S-0581-SYS Editorial change request to clarify the revocation of roles or privileges from a given party by a party administrator
+English9 December 2015T2S-0579-SYS Editorial changes to clarify the retention period for outbound messages
+English9 December 2015T2S-0580-URD Additional automatic intraday reimbursement of NCB auto collateralisation instructions
+English8 December 2015T2S-0578-SYS DCPs should be able to configure their party technical address and report configuration
+English4 December 2015T2S-0582-SYS Enlarging the list of Static Data objects that can be maintained during the night-time settlement
+English4 December 2015Easier retrieval of the ex/cum indicators for market claims
+EnglishDetailsT2S CRG No.T2S 0368 SYST2S CRG statusWithdrawn by initiator3 December 2015T2S-0576-SYS Handling of leading and trailing "blanks" and "/" in A2A and U2A attributes
+English3 December 2015T2S-0577-SYS T2S should allow a report configuration with validity of one day.
+English26 November 2015T2S-0574-URD Applying additional haircuts to own-used assets in T2S auto-collateralisation
+EnglishDetailsT2S CRG statusImplementedAnnexes30 March 2020T2S-0574-URD attachment
+English10 February 2021T2S-0574-URD Annex 1 (UDFS)
+English25 November 2015T2S-0573-SYS Reporting of actually impacted securities Sub-Balance Type in settlement confirmation, Intra-position movement confirmation and Intra-balance movement confirmation messages
+English23 November 2015T2S-0572-SYS A2A message to remove close links
+EnglishDetailsT2S CRG statusImplemented18 November 2015T2S-0570-SYS Removal of coexistence restriction on the message fields Old Field Value and Field Value in the Party Activity Advice and Party Audit Trail Report
+English16 November 2015T2S-0569-SYS Introduce “Not equal” operator for defining rules in T2S rule based models
+English16 November 2015T2S-0568-SYS T2S should allow system-wide SME and Security CSD link search via T2S GUI
+EnglishDetailsT2S CRG statusImplemented with R6.212 November 2015T2S-0567-SYS Functional measures to optimise the T2S Graphical User Interface performance
+English11 November 2015T2S-0566-SYS Settlement Instruction New Screen: Amendments in Layout and Error Handling
+English10 November 2015T2S-0565-SYS T2S should allow CSDs to remove links in instructions under CoSD
+English10 November 2015T2S-0564-SYS T2S should also validate the counterparty’s securities
+English23 October 2015T2S-0558-URD Enhance functionality to prevent acceptance (i.e. reaching SF1) of new settlement instructions based on the T2S dedicated cash account or securities account
+English21 October 2015T2S-0560-SYS T2S query/reporting functionality must be enhanced to allow the retrieval of the settlement instructions impacted by insolvency and their related SF1 (accepted) /SF2 (matched) timestamps in an efficient and standard way.
+English21 October 2015T2S-0559-URD Prevention of matching in case of insolvency of a CSD Participant or a dedicated cash account holder
+English19 October 2015T2S-0557-SYS Skip validations on minimum settlement unit (MSU) and settlement unit multiple (SUM) for settlement instructions related to Market Claims and Transformations
+EnglishDetailsT2S CRG statusImplemented in R6.0Annexes20 November 2020T2S_0557_SYS Attachment
+English10 October 2015T2S-0575-SYS Alignment of ISO transaction codes of the Data Migration Tool for pending instructions
+EnglishDetailsT2S CRG statusImplemented5 October 2015T2S-0538-SYS Change of fractional digit of SUM of securities
+English1 October 2015T2S-0539-SYS Security report (reda.012) should have additional pagination logic to include all the market-specific attributes
+English29 September 2015T2S-0550-URD Introduction of two new partial settlement windows during the Real Time Settlement period (at 10 am and at 12 noon)
+English11 September 2015T2S-0555-URD Internal liquidity transfers between Central Bank Cash Account(s) and Payment Bank DCA(s) in T2S
+English11 September 2015T2S-0553-SYS Reuse of historical BICs
+English11 September 2015T2S-0527-SYS Non-editorial Change Request on the UHB
+English11 September 2015T2S-0549-SYS Statement of Transactions and Statement of Settled Intra-Position Movements reporting for Partially Settled transactions to be made SMPG compliant
+English11 September 2015T2S-0563-URD Automatic Internal liquidity transfer between RTGS Transit Account and the T2S Dedicated Cash Account in case of RTGS rejection
+English11 September 2015T2S-0562-URD Overnight liquidity balance on the T2S Dedicated Cash Account in case of contingency scenario
+English11 September 2015T2S-0556-SYS Modification of cash forecast for the current and following business day after DVP cut-off
+EnglishDetailsT2S CRG statusImplemented in R5.09 September 2015T2S-0554-SYS Data scope reduction on party level should also reduce data scope on user level
+English9 September 2015T2S-0552-SYS Revoking queued static data updates
+English27 August 2015T2S-0551-SYS Reporting of Restriction References for COSD blocked positions in the Statement of Holdings (semt.002)
+EnglishDetailsT2S CRG statusImplemented with R2023.JUN24 August 2015T2S-0547-SYS Enrichment of Settlement Instruction with default DCA at the acceptance
+English14 August 2015T2S-0548-SYS Central Bank access to CMB securities account link list query
+English24 July 2015T2S-0545-SYS Separate release privilege for T2S auto-collateralisation reimbursement instructions
+English24 July 2015T2S-0546-SYS Indication for time-critical settlements (“settlement till” time-stamp)
+English24 July 2015T2S-0540-SYS Alignment of U2A and A2A cash forecast information
+English24 July 2015T2S-0542-SYS Enrich the Bank To Customer Debit/Credit Notification (camt.054) with data elements securities account Owner Parent BIC and securities account Owner Party BIC
+English24 July 2015T2S-0544-URD Retroactive Cash Restriction (Cash Blocking andReservation)
+English24 July 2015T2S-0541-URD Bulk-release functionality (U2A) for settlement instructions
+EnglishDetailsT2S CRG statusWithdrawn24 July 2015T2S-0543-URD Minimum amount for auto-collateralisation transactions
+English15 July 2015T2S-0537-SYS The complete Statement of Holdings report (semt.002) should
+English14 July 2015T2S-0536-URD De-scoping of ISIN change functionality
+English9 July 2015T2S-0529-SYS Editorial Change Request on GFS, UDFS and UHB
+English2 July 2015T2S-0534-SYS CFI code and country of issuance of a security should be modifiable and CFI code should be compliant with the updated ISO standard 10962
+English1 July 2015T2S-0530-URD One close link database for Eurosystem NCBs and separate database per non-EUR currency
+EnglishDetailsT2S CRG statusImplemented29 June 2015T2S-0526-URD Currency, Settlement amount and debit/credit indicator should be additional matching fields for FOP instructions
+English27 June 2015T2S-0532-SYS Hold/release default at account level should not override the Hold/Release indicator defined at instruction level
+English26 June 2015T2S-0533-SYS Reporting of remaining to be settled quantity/amount in sese.027 and camt.075
+English2 June 2015T2S-0524-SYS Data Migration Tool (DMT) specifications update of the rules for cash payment-related fields
+EnglishDetailsT2S CRG statusImplemented1 June 2015T2S-0528-SYS T2S should allow modification of possible values for an Attribute domain linked to a MSA
+EnglishDetailsT2S CRG statusImplemented with R6.215 May 2015T2S-0523-SYS Alignment of Securities Valuation flat file format
+English8 May 2015Non-Editorial Change Request for UHB
+EnglishDetailsT2S CRG No.T2S-0507-SYST2S CRG statusClosed28 April 2015T2S-0522-SYS Non-editorial Change Request on UDFS
+English28 April 2015T2S-0521-SYS Editorial change request on UDFS
+English28 April 2015T2S-0518-SYS Non-editorial change request on UHB
+English28 April 2015T2S-0517-SYS Validity period of intraday restrictions
+English17 April 2015T2S-0519-SYS Add Short/Long Indicator for all positions/sub-positions in Statement of Holdings (semt.002) report.
+English16 April 2015T2S-0516-SYS Internal liquidity transfers between RTGS Dedicated Transit Account and DCA in T2S
+English13 April 2015T2S-0515-URD Allow instructions from CSD participants for n days after maturity date of security
+English16 March 2015T2S-0511-SYS Editorial change request for UDFS
+English12 March 2015T2S-0512-SYS Editorial Change Request for UHB
+English12 March 2015T2S-0510-SYS Validity Dates for Investor Security CSD Link
+English12 March 2015T2S-0509-SYS Floor and ceiling notification when threshold is zero
+English12 March 2015T2S-0507-SYS Non-editorial Change Request for UHB
+English12 March 2015T2S-0506-SYS Non-editorial Change Request for UDFS
+English10 March 2015T2S-0520-SYS Add new fields to T2S messages sese.020, sese.024 and sese.025 needed for CA processing
+English9 March 2015T2S-0514-SYS Exclude settlement instructions from technical netting
+English9 March 2015T2S-0513-SYS Adding new message subscription parameter types for Business Sending Party, Instructing Party and System User Reference
+English5 March 2015T2S-0508-SYS Automated scripts for clean-up of dynamic data of leaving CSD in contingency scenario
+English18 February 2015T2S-0505-SYS Extend the coverage of messages subject to copies
+English6 February 2015T2S-0501-SYS Editorial Change Request for UHB
+English6 February 2015T2S-0500-SYS Correction of typos and minor clarifications on the UDFS
+English6 February 2015T2S-0499-SYS Non-editorial Change Request for UHB
+English6 February 2015T2S-0498-SYS Non-editorial Change Request for UDFS
+English4 February 2015T2S-0504-SYS Data Migration Tool (DMT) documentation alignment
+EnglishDetailsT2S CRG statusImplemented28 January 2015T2S-0503-SYS T2S Actor Reference and T2S Reference of counterparty’s settlement instruction should be included in T2S messages sese.024, sese.025 and sese.032 after matching
+EnglishDetailsT2S CRG statusImplemented in R5.021 January 2015Applying pagination to semt.027 and semt.040
+EnglishDetailsT2S CRG No.T2S 0461 SYST2S CRG statusRejected at Steering Level21 January 2015Functional improvements for Statement of Pending Instructions (semt.018) and Securities Account Position Query (semt.025) and Settlement Instruction Queries (semt.026)
+EnglishDetailsT2S CRG No.T2S 0462 SYST2S CRG statusRejected at Steering Level21 January 2015Suppressing null messages for Statement of Holdings, Statement of Transactions and Statement of Pending Instructions in delta mode
+EnglishDetailsT2S CRG No.T2S 0473 SYST2S CRG statusRejected at Steering Level21 January 2015Statement of Holdings, Statement of Transactions and Statement of Pending Instructions should include all the Securities Accounts for the specified T2S Actor in a single message
+EnglishDetailsT2S CRG No.T2S 0474 SYST2S CRG statusRejected at Steering Level9 January 2015T2S-0497-SYS No check on minimum settlement unit when settling Corporate Action instructions
+English19 December 2014T2S-0495-SYS Add settlement transaction condition code “TRAN” as a possible message subscription parameter
+English17 December 2014T2S-0496-SYS Add “Corporate Action Event Identifier” and reason code “Cancellation due to transformation” in sese.024
+English15 December 2014T2S-0494-SYS Flat file solution for reports at end of day (EOD) period
+English15 December 2014T2S-0491-SYS Updates of Business Rules
+English15 December 2014T2S-0490-SYS Time-triggered Reports during Start of Day and Night-Time Settlement
+English15 December 2014T2S-0489-SYS Querying information and audit trail of settlement instructions related to external securities accounts
+English15 December 2014T2S-0488-SYS Non-Editorial Change Request for UHB
+English15 December 2014T2S-0487-SYS Duplicate checks on Eligible Counterpart CSD
+English15 December 2014T2S-0486-SYS Editorial Change Request for UHB
+English15 December 2014T2S-0485-SYS Correction of typos and minor clarifications on the UDFS
+English15 December 2014T2S-0484-SYS Complete Information on Revisions/Audit Trail
+English15 December 2014T2S-0483-SYS Billing of T2S-generated intra-position movements stemming from auto-collateralisation
+English15 December 2014T2S-0482-SYS Clarification of the collateral relocation and reimbursement of reverse collateral processes
+English15 December 2014T2S-0481-SYS Functional improvements for Statement of Pending Instructions (semt.018)
+English9 December 2014T2S-0493-SYS Default top priority setup
+English8 December 2014T2S-0492-SYS Include the transaction identification of the inbound settlement instruction in both Account Owner Transaction ID and Account Services Transaction ID in a rejection-related status advice
+English4 December 2014T2S-0502-SYS Unpruning of ISO transaction code OWNI (Internal Account Transfer)
+English26 November 2014T2S-0480-SYS Remaining to be settled quantity/amount in sese.024 after matching and partial settlement
+English14 November 2014T2S-0479-SYS A2A signature for information messages
+English15 October 2014T2S-0478-SYS Response handling for queued queries
+English15 October 2014T2S-0477-SYS Message schema correction of semt.013 & sese.023 to make ISIN field mandatory
+English1 October 2014T2S-0475-URD Securities quantity’s decimals should be consistent with the number of decimals defined by the settlement unit multipleSecurities quantity’s decimals should be consistent with the number of decimals defined by the settlement unit multiple
+English15 September 2014T2S-0471-SYS Deferred processing of maturity/expiry date update in T2S
+English8 September 2014T2S-0472-SYS Prevent configuration of multiple Security CSD Links for the same pair of CSD and Security
+English25 August 2014T2S-0470-SYS Correction of typos and minor clarifications on the UDFS
+English31 July 2014T2S-0469-SYS Configuration of CARL Liquidity Transfer Orders
+English31 July 2014T2S-0468-SYS Securities Valuations for non-T2S Settlement Currencies
+English10 July 2014T2S-0465-SYS Editorial changes due to implementation of the securities valuation bulk process for Payment Banks
+English10 July 2014T2S-0464-SYS Modification of the securities valuation file format specifications
+English3 July 2014T2S-0467-SYS Customization alignment for camt.010 and semt.028 after release of UDFS 2.0
+English2 July 2014Locking and unlocking of DCP users
+EnglishDetailsT2S CRG No.T2S 0451 SYST2S CRG statusClosed2 July 2014DMT Reconciliation of Dynamic Data
+EnglishDetailsT2S CRG No.T2S 0453 SYST2S CRG statusClosed2 July 2014Editorial CR on DMT Requirements and Related Procedures
+EnglishDetailsT2S CRG No.T2S 0454 SYST2S CRG statusClosed2 July 2014Update DMT File Format Specification
+EnglishDetailsT2S CRG No.T2S 0455 SYST2S CRG statusClosed2 July 2014Message Alignment for Statement of Accounts Report (camt.053)
+EnglishDetailsT2S CRG No.T2S 0458 SYST2S CRG statusClosed2 July 2014Securities Valuation Bulk Process for Payment Banks
+EnglishDetailsT2S CRG No.T2S 0459 SYST2S CRG statusClosed1 July 2014T2S-0463-URD Removal of references to CCBM2 from URD
+English22 June 2014T2S-0531-SYS Signature at application level for flat file report
+EnglishDetailsT2S CRG statusWithdrawn2 June 2014T2S-0466-BFD Implementation of non-repudiation for U2A
+English20 May 2014T2S-0460-SYS Changes to DMT to support linking of User and certificate DN
+English14 May 2014T2S-0457-SYS Alignment of the GFS with the current Design of T2S
+English28 April 2014T2S-0456-URD Delay of the start of night-time settlement by 30 minutes to 20:00 and clarifications on the T2S schedule timings
+English12 March 2014Previous partial settlement confirmation ID
+EnglishDetailsT2S CRG No.T2S 0421 SYST2S CRG statusClosed12 March 2014Primary CMB BIC
+EnglishDetailsT2S CRG No.T2S 0429 SYST2S CRG statusClosed12 March 2014Replace dependency of static data updated on auto-coll eligibility by a time-based approach
+EnglishDetailsT2S CRG No.T2S 0435 SYST2S CRG statusClosed12 March 2014Namespace correction of supplementary data element
+EnglishDetailsT2S CRG No.T2S 0448 SYST2S CRG statusClosed12 March 2014Correction of typos and minor clarifications on the UDFS and on the GFS
+EnglishDetailsT2S CRG No.T2S 0449 SYST2S CRG statusClosed12 March 2014Addition of a record separator (CRLF) to the flat files that are used by Central Banks to upload of prices for eligible collateral
+EnglishDetailsT2S CRG No.T2S 0450 SYST2S CRG statusClosed5 February 2014Removal of the possibility to grant a role to another role
+EnglishDetailsT2S CRG No.T2S-0415-URDT2S CRG statusClosed5 February 2014Removal of the T2S automatic check on remaining holdings before a Securities Account is deleted
+EnglishDetailsT2S CRG No.T2S 0425 URDT2S CRG statusClosed5 February 2014Upload of prices for eligible collateral via flat files
+EnglishDetailsT2S CRG No.T2S 0426 SYST2S CRG statusClosed5 February 2014Correction of typos and minor clarifications on the UDFS and on the GFS
+EnglishDetailsT2S CRG No.T2S 0427 SYST2S CRG statusClosed5 February 2014Dedicated Script to update Static Data for complete migration wave
+EnglishDetailsT2S CRG No.T2S 0432 SYST2S CRG statusClosed5 February 2014Removal of references to the Internet connection
+EnglishDetailsT2S CRG No.T2S 0440 SYST2S CRG statusClosed5 February 2014Communication of condition modification status advices during automatic release of collateral reimbursements
+EnglishDetailsT2S CRG No.T2S 0441 SYST2S CRG statusClosed5 February 2014Additional Technical Validations
+EnglishDetailsT2S CRG No.T2S 0442 SYST2S CRG statusClosed12 January 2014T2S-0447-SYS Apply Static Data changes immediately in production
+English16 December 2013Queuing of incoming messages
+EnglishDetailsT2S CRG No.T2S 0431 SYST2S CRG statusRejected by CRG12 December 2013T2S-0445-SYS User Access Rights Query
+English12 December 2013T2S-0446-SYS Blocking of U2A interface for any activity that lead to change of T2S database during reconciliation process post RAD (Recovery After Disaster)
+English11 December 2013T2S-0444-BFD User authentication without USB-token/SmartCard for GUI-access
+English4 December 2013Links between securities accounts and T2S parties
+EnglishDetailsT2S CRG No.T2S 0424 URDT2S CRG statusClosed4 December 2013Updates of Message Documents
+EnglishDetailsT2S CRG No.T2S 0428 SYST2S CRG statusClosed4 December 2013Updates of Business Rules
+EnglishDetailsT2S CRG No.T2S 0430 SYST2S CRG statusClosed4 December 2013DMT File specifications update
+EnglishDetailsT2S CRG No.T2S 0434 SYST2S CRG statusClosed23 October 2013T2S-0436-URD Client-collateralisation: allow payment banks to set up their own list of close links
+EnglishDetailsT2S CRG statusImplemented in R5.217 October 2013T2S-0433-SYS Propagate Static Data changes
+English9 October 2013T2S-0439-SYS Decoupling of the link between securities and cash accounts for settlement and the link for the provision of collateral
+English4 October 2013Definition of the allegement delay periods
+EnglishDetailsT2S CRG No.T2S 0340 URDT2S CRG statusClosed4 October 2013Support the migration of pending instructions with ISD in the past
+EnglishDetailsT2S CRG No.T2S 0409 SYST2S CRG statusClosed4 October 2013Correction of typos and minor clarifications on the UDFS
+EnglishDetailsT2S CRG No.T2S 0420 SYST2S CRG statusClosed4 October 2013Billing of External settlement scenario
+EnglishDetailsT2S CRG No.T2S 0422 SYST2S CRG statusClosed26 September 2013Removal of the Dedicated Link
+EnglishDetailsT2S CRG No.T2S 0419 URDT2S CRG statusClosed12 August 2013Removal of the currency field as a search criterion in the query screens related to the static data set-up of pre-defined and standing liquidity transfer orders
+EnglishDetailsT2S CRG No.T2S 0416 BFDT2S CRG statusClosed12 August 2013Correction of typos and minor clarifications on the BFD
+EnglishDetailsT2S CRG No.T2S 0417 BFDT2S CRG statusClosed12 August 2013Digital signature on business layer
+EnglishDetailsT2S CRG No.T2S 0418 SYST2S CRG statusClosed12 July 2013Editorial Clarification on the Dedicated Link Connectivity Specifications Document
+EnglishDetailsT2S CRG No.T2S 0399 SYST2S CRG statusWithdrawn by the initiator1 July 2013T2S-0411-SYS Blocking and release of messages during migration
+English18 June 2013System configuration for rule-based models (restriction types, message subscription and conditional securities delivery)
+EnglishDetailsT2S CRG No.T2S 0390 SYST2S CRG statusClosed10 June 2013Removal of the second timeout for real-time queries
+EnglishDetailsT2S CRG No.T2S 0394 SYST2S CRG statusClosed10 June 2013Multi-message rejection business rules
+EnglishDetailsT2S CRG No.T2S 0400 SYST2S CRG statusClosed10 June 2013Message-Issues detected during testing incl. ISO Date
+EnglishDetailsT2S CRG No.T2S 0401 SYST2S CRG statusClosed10 June 2013Updates of Business Rules
+EnglishDetailsT2S CRG No.T2S 0402 SYST2S CRG statusClosed10 June 2013Handling of parameter types for message subscription
+EnglishDetailsT2S CRG No.T2S 0403 SYST2S CRG statusClosed10 June 2013Negative remaining amount (limit headroom) correction within Limit Utilisation Query Response
+EnglishDetailsT2S CRG No.T2S 0404 SYST2S CRG statusClosed10 June 2013Correction of typos and minor clarifications on the UDFS
+EnglishDetailsT2S CRG No.T2S 0405 SYST2S CRG statusClosed10 June 2013Editorial CR on the GUI BFD
+EnglishDetailsT2S CRG No.T2S 0406 BFDT2S CRG statusClosed10 June 2013Definition of parameters for duplicate checks and past-dated and future-dated instructions
+EnglishDetailsT2S CRG No.T2S 0407 URDT2S CRG statusClosed3 May 2013T2S-0408-SYS Definition of technical parameters
+English5 April 2013Migration of reserved, blocked and earmarked positions via DMT
+EnglishDetailsT2S CRG No.T2S 0385 SYST2S CRG statusClosed5 April 2013Migration of pending instructions via DMT
+EnglishDetailsT2S CRG No.T2S 0386 SYST2S CRG statusClosed5 April 2013Addition of the cancellation status to the reports of pending instructions (semt.018 and semt.034)
+EnglishDetailsT2S CRG No.T2S 0392 SYST2S CRG statusClosed5 April 2013Complement to the Billing service items list for clarification
+EnglishDetailsT2S CRG No.T2S 0393 SYST2S CRG statusClosed5 April 2013Modification of the sese.032 to add information on the CSD Validation Hold code and to remove the CSD Hold code
+EnglishDetailsT2S CRG No.T2S 0395 SYST2S CRG statusClosed5 April 2013Clarifications to the “DMT requirements and related procedures”
+EnglishDetailsT2S CRG No.T2S 0396 SYST2S CRG statusClosed21 March 2013T2S-0397-SYS Addition of the Category attribute to the static data entities Securities, Party and Securities Account
+English6 March 2013Issuance accounts in the name of entities other than CSD
+EnglishDetailsT2S CRG No.T2S 0372 SYST2S CRG statusClosed5 February 2013Reference to identify instructions matched in T2S and identification of origin of CoSD generated blockings
+EnglishDetailsT2S CRG No.T2S 0389 SYST2S CRG statusClosed28 January 2013Reporting of match reference and other transaction related information by T2S
+EnglishDetailsT2S CRG No.T2S 0351 SYST2S CRG statusRejected by CRG23 January 2013Implementation of mitigating measures to reduce the risk that pending instructions with ISD in the past cannot be migrated
+EnglishDetailsT2S CRG No.T2S 0387 SYST2S CRG statusWithdrawn by the initiator13 December 2012Allow instructions from CSDs with ISD on/after maturity date
+EnglishDetailsT2S CRG No.T2S 0348 SYST2S CRG statusClosed13 December 2012Pagination for messages exceeding the maximum volume of 32 MB
+EnglishDetailsT2S CRG No.T2S 0356 SYST2S CRG statusClosed13 December 2012Limitation on the number of rules
+EnglishDetailsT2S CRG No.T2S 0364 SYST2S CRG statusWithdrawn by the initiator10 December 2012Reference to identify instructions matched in T2S
+EnglishDetailsT2S CRG No.T2S 0388 SYST2S CRG statusWithdrawn by the initiator12 November 2012Requirements on test environments to facilitate the segregation of testing activities
+EnglishDetailsT2S CRG No.T2S 0339 URDT2S CRG statusClosed1 October 2012Internet access as mandatory access option
+EnglishDetailsT2S CRG No.T2S 0345 URDT2S CRG statusRejected by CRG1 October 2012Common trade reference should be an additional matching field
+EnglishDetailsT2S CRG No.T2S 0347 URDT2S CRG statusRejected by CRG1 October 2012Allow instructions from CSDs with ISD before issuance date
+EnglishDetailsT2S CRG No.T2S 0349 URDT2S CRG statusRejected by CRG1 October 2012Matching for DVP instructions in non-T2S currency
+EnglishDetailsT2S CRG No.T2S 0353 URDT2S CRG statusRejected by CRG1 October 2012Counterparty BIC and Counterparty CSD BIC as additional validation parameters for case 1 restrictions
+EnglishDetailsT2S CRG No.T2S 0354 SYST2S CRG statusParked by CRG1 October 2012Elapsed time between end-of day reporting and the start of first night-time settlement sequence
+EnglishDetailsT2S CRG No.T2S 0360 SYST2S CRG statusRejected by CRG1 October 2012Account nature manager control
+EnglishDetailsT2S CRG No.T2S 0361 URDT2S CRG statusRejected by CRG1 October 2012Account nature compatibility check
+EnglishDetailsT2S CRG No.T2S 0362 URDT2S CRG statusParked by CRG1 October 2012Business continuity procedures to be defined in case of interruption, disruption or delay in the T2S operational day
+EnglishDetailsT2S CRG No.T2S 0363 SYST2S CRG statusRejected by CRG1 October 2012Addition of validity date to Market-specific attributes
+EnglishDetailsT2S CRG No.T2S 0365 SYST2S CRG statusParked by CRG1 October 2012Addition of the conectivity type (i.e. DCP vs. ICP) as a new parameter in the configuration of Market-specific restriction types
+EnglishDetailsT2S CRG No.T2S 0366 SYST2S CRG statusRejected by CRG1 October 2012Possibility to subscribe to copies based on the sending channel (A2A or U2A)
+EnglishDetailsT2S CRG No.T2S 0367 SYST2S CRG statusParked by CRG1 October 2012Matching counterparties rather than T2S Securities Account owners as matching field
+EnglishDetailsT2S CRG No.T2S 0369 SYST2S CRG statusRejected by CRG1 October 2012Control of provision onposition earmarked for auto-collateralisation
+EnglishDetailsT2S CRG No.T2S 0375 URDT2S CRG statusParked by CRG1 October 2012Link multiple collateral receiving accounts to a single DCA
+EnglishDetailsT2S CRG No.T2S 0376 URDT2S CRG statusRejected by CRG29 September 2012T2S-0383-URD Possibility of submitting already matched cross-CSD settlement instructions
+EnglishDetailsT2S CRG statusImplemented in R5.017 September 2012Technical Annex to the GUI Business Functionality DocumentDetailsT2S CRG No.T2S 0313 BFDT2S CRG statusClosed17 September 2012Editorial Change Request to the GUI BFD
+EnglishDetailsT2S CRG No.T2S 0338 BFDT2S CRG statusClosed17 September 2012Correction of typos and minor clarifications on the UDFS v1.2DetailsT2S CRG No.T2S 0341 SYST2S CRG statusClosed17 September 2012Implementation of ISO Standards Release 2012
+EnglishDetailsT2S CRG No.T2S 0342 SYST2S CRG statusClosed17 September 2012Correction of typos and minor clarifications on the UDFS v1.2DetailsT2S CRG No.T2S 0343 SYST2S CRG statusClosed17 September 2012Correction of typos and minor clarifications on the UDFS v1.2.1
+EnglishDetailsT2S CRG No.T2S 0344 SYST2S CRG statusClosed31 July 2012T2S-0350-URD Pre-defined orders for end-of-day FOP account transfers
+English31 July 2012T2S-0358-URD Unblocking of ISIN as part of Corporate Actions handling
+English31 July 2012T2S-0359-URD Change of hold/release should be notified to counterparty before the Intended Settlement Date
+English31 July 2012T2S-0355-URD New securities account flag “negative position only”
+EnglishDetailsT2S CRG statusWithdrawn10 July 2012T2S-0346-URD In the settlement process of an instruction without a link, T2S should consider any other unmatched instructions having a link with it
+English27 March 2012Naming convention for T2S specific messagesDetailsT2S CRG No.T2S 0337 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012Pricing configuration for securities accountsDetailsT2S CRG No.T2S 0336 URDT2S CRG statusApproved by AGT2S CRG URD5.0227 March 2012System users and certificatesDetailsT2S CRG No.T2S 0335 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012Securities Account Position Response MessageDetailsT2S CRG No.T2S 0334 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012Message subscription and copy configurationDetailsT2S CRG No.T2S 0333 URDT2S CRG statusApproved by AGT2S CRG URD5.0227 March 2012Removal of examples of life cycle types
+EnglishDetailsT2S CRG No.T2S 0332 URDT2S CRG statusApproved by AGT2S CRG URD5.0227 March 2012CoSD on settlement instruction using restriction referencesDetailsT2S CRG No.T2S 0330 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012Compression, Sequencing and handling of messages exceeding the maximum volume of 32 MBDetailsT2S CRG No.T2S 0329 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012Implementation of additional parameters to restriction case 1 and case 2DetailsT2S CRG No.T2S 0328 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012Instructing PartyDetailsT2S CRG No.T2S 0327 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012Validity of T2S generated settlement instructions and impact on the settlement processDetailsT2S CRG No.T2S 0326 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012Report configurationDetailsT2S CRG No.T2S 0325 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012Ownership of MSA on securities
+EnglishDetailsT2S CRG No.T2S 0323 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012Consistent rule-based modelDetailsT2S CRG No.T2S 0322 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012Static data limitation of intraday update on SecuritiesDetailsT2S CRG No.T2S 0321 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012Validation on Issuance Account and ISIN linkDetailsT2S CRG No.T2S 0320 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012End-investor cash account at payment bank will not be part of a settlement confirmationDetailsT2S CRG No.T2S 0317 URDT2S CRG statusApproved by AGT2S CRG URD5.0227 March 2012Minor inconsistencies/typos in the BFDDetailsT2S CRG No.T2S 0315 BFDT2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012System Entities can only be blocked by the T2S OperatorDetailsT2S CRG No.T2S 0314 URDT2S CRG statusApproved by AGT2S CRG URD5.0227 March 2012Static data maintenance of rule-based models are only possible as of a future dateDetailsT2S CRG No.T2S 0312 URDT2S CRG statusApproved by AGT2S CRG URD5.0227 March 2012A2A messages to create the link between a T2S securities account and a T2S Dedicated cash accountDetailsT2S CRG No.T2S 0311 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012A credit memorandum balance can only be created after the set-up of a T2S Dedicated Cash AccountDetailsT2S CRG No.T2S 0310 URDT2S CRG statusApproved by AGT2S CRG URD5.0227 March 2012Matching to be performed at the level of T2S security identifier rather than at the level of ISIN
+EnglishDetailsT2S CRG No.T2S 0309 URDT2S CRG statusRejected by AGT2S CRG URD5.0227 March 2012T2S billing functionality to support different types of account allocation
+EnglishDetailsT2S CRG No.T2S 0306 SYST2S CRG statusApproved by AGT2S CRG URDn/a27 March 2012Securities account and T2S Dedicated Cash account identifiers influenced by CSDs and NCBs
+EnglishDetailsT2S CRG No.T2S 0305 URDT2S CRG statusApproved by AGT2S CRG URD5.0231 October 2011Maximum credit percentage is not applicable for payment banksDetailsT2S CRG No.T2S 0304 URDT2S CRG statusApproved by AGT2S CRG URD5.0131 October 2011After/Before links to be used for Repos
+EnglishDetailsT2S CRG No.T2S 0303 URDT2S CRG statusApproved by AGT2S CRG URD5.0127 October 2011Review of the General T2S PrinciplesDetailsT2S CRG No.T2S 0289 URDT2S CRG statusApproved by PBT2S CRG URD5.0129 September 2011Two additional test environments for user testing until go-live of final migration waveDetailsT2S CRG No.T2S 0300 URDT2S CRG statusApproved by AGT2S CRG URD5.018 July 2011Maintenance of restriction type rules in A2ADetailsT2S CRG No.T2S 0295 SYST2S CRG statusRejected by PBT2S CRG URDn/a1 July 2011Remove inconsistencies in chapter 13 to clarify that the unmatched status will not be pushed after first unsuccessful matching attempt
+EnglishDetailsT2S CRG No.T2S 0299 URDT2S CRG statusApproved by AGT2S CRG URD5.011 July 2011Close links and eligible securities deletion in A2ADetailsT2S CRG No.T2S 0298 SYST2S CRG statusRejected by AGT2S CRG URDn/a1 July 2011Message subscription rule maintenance in A2A
+EnglishDetailsT2S CRG No.T2S 0297 SYST2S CRG statusRejected by AGT2S CRG URDn/a1 July 2011Maintenance of roles and privileges in A2ADetailsT2S CRG No.T2S 0296 SYST2S CRG statusRejected by AGT2S CRG URDn/a1 July 2011Security CSD links maintenance in A2ADetailsT2S CRG No.T2S 0294 SYST2S CRG statusApproved by AGT2S CRG URDn/a1 July 2011Inclusion of the already matched flag criteria in the message subscriptionDetailsT2S CRG No.T2S 0293 SYST2S CRG statusApproved by AGT2S CRG URDn/a1 July 2011Link securities account to DCA via A2A
+EnglishDetailsT2S CRG No.T2S 0292 SYST2S CRG statusRejected by AGT2S CRG URDn/a1 July 2011Enhance cash side-reporting (Statement and real time notification) and new attribute in message subscription service.DetailsT2S CRG No.T2S 0291 SYST2S CRG statusApproved by AGT2S CRG URDn/a1 July 2011Mandatory bundling of messages into files during night-time period
+EnglishDetailsT2S CRG No.T2S 0290 URDT2S CRG statusApproved by AGT2S CRG URD5.011 July 2011Technical ackowledgement at infrastructure level
+EnglishDetailsT2S CRG No.T2S 0288 SYST2S CRG statusApproved by AGT2S CRG URDn/a1 July 2011New attribute at securities account level to identify account allocation instructionsDetailsT2S CRG No.T2S 0285 URDT2S CRG statusApproved by AGT2S CRG URD5.011 July 2011T2S Central board function for Security Maintaining Entity
+EnglishDetailsT2S CRG No.T2S 0284 URDT2S CRG statusRejected by AGT2S CRG URD5.011 July 2011Disallow partial settlement of blocking instruction related to corporate actionsDetailsT2S CRG No.T2S 0283 URDT2S CRG statusApproved by AGT2S CRG URD5.011 July 2011Introduction of T2S securities account as an optional matching field
+EnglishDetailsT2S CRG No.T2S 0282 URDT2S CRG statusApproved by AGT2S CRG URD5.011 July 2011Removal of allegement removal for a cancellation instruction and allegement cancellation for a cancellation instruction
+EnglishDetailsT2S CRG No.T2S 0279 URDT2S CRG statusApproved by AGT2S CRG URD5.011 July 2011Limit utilisation report to be pushed by T2SDetailsT2S CRG No.T2S 0278 URDT2S CRG statusRejected by AGT2S CRG URD5.011 July 2011Securities CSD links for same day creation, not only as of future date
+EnglishDetailsT2S CRG No.T2S 0277 URDT2S CRG statusApproved by AGT2S CRG URD5.011 July 2011Unmatched status pushed after first unsuccessful matching attempt
+EnglishDetailsT2S CRG No.T2S 0276 URDT2S CRG statusRejected by AGT2S CRG URD5.0120 January 2011T2S-0384-SYS A2A message to make securities ineligible for autocollateralisation
+EnglishDetailsT2S CRG statusImplemented in R5.26 December 2010Editorial changes stemming from the incorrect incorporation of change requests to a previous URD version
+EnglishDetailsT2S CRG No.T2S URD 0274T2S CRG statusApproved by AGT2S CRG URD5.016 December 2010Counterparty’s securities account is not a mandatory field in FOP instructions
+EnglishDetailsT2S CRG No.T2S URD 0273T2S CRG statusApproved by AGT2S CRG URD5.016 December 2010CCP, Trading Platform and Stock Exchange are not possible party typesDetailsT2S CRG No.T2S URD 0272T2S CRG statusApproved by AGT2S CRG URD5.016 December 2010Earmarking on cash is not required
+EnglishDetailsT2S CRG No.T2S URD 0271T2S CRG statusApproved by AGT2S CRG URD5.016 December 2010No consistency check of the holdings between the Investor CSD's accounts and its omnibus account at the Technical Issuer CSD for corporate action purposesDetailsT2S CRG No.T2S URD 0270T2S CRG statusApproved by AGT2S CRG URD5.016 December 2010CSD validation Hold is not applicable to settlement restrictionsDetailsT2S CRG No.T2S URD 0269T2S CRG statusApproved by AGT2S CRG URD5.016 December 2010Cancellation of a Cancellation Instruction is not required
+EnglishDetailsT2S CRG No.T2S URD 0268T2S CRG statusApproved by AGT2S CRG URD5.016 December 2010Minor modification of T2S principles 3 and 5DetailsT2S CRG No.T2S URD 0267T2S CRG statusApproved by AGT2S CRG URD5.0115 January 2010Reimbursement of intraday credit that remains pending at the end of the dayDetailsT2S CRG No.T2S URD 0261T2S CRG statusApproved by AGT2S CRG URD5.015 January 2010Modification of settlement instructionsDetailsT2S CRG No.T2S URD 0249T2S CRG statusApproved by AGT2S CRG URD5.015 January 2010Changes to CoSD functionalityDetailsT2S CRG No.T2S URD 0242T2S CRG statusApproved by AGT2S CRG URD5.015 January 2010Removal of URD annexes and keep annex on Glossary and StandardsDetailsT2S CRG No.T2S URD 0231T2S CRG statusApproved by AGT2S CRG URD5.015 January 2010Functionality for settlement banks in T2S: credit memorandum balanceDetailsT2S CRG No.T2S URD 0228T2S CRG statusApproved by AGT2S CRG URD5.015 January 2010Configuration of restriction types for national legal and regulatory requirements and practices
+EnglishDetailsT2S CRG No.T2S URD 0225T2S CRG statusApproved by AGT2S CRG URD5.09 December 2009Clarification of the term “T2S Platform” in the URDDetailsT2S CRG No.T2S URD 0260T2S CRG statusApproved by AGT2S CRG URD5.09 December 2009Removal of Statement of Static Data ReportDetailsT2S CRG No.T2S URD 0259T2S CRG statusRejected by AGT2S CRG URD5.09 December 2009Clarification on the use of passwords/certificates for an A2A mode of communication
+EnglishDetailsT2S CRG No.T2S URD 0257T2S CRG statusApproved by AGT2S CRG URD5.09 December 2009Change of EOD procedure for unused reserved or blocked cashDetailsT2S CRG No.T2S URD 0256T2S CRG statusApproved by AGT2S CRG URD5.09 December 2009Keep a message duplication to report a static data update confirmation for cash accountsDetailsT2S CRG No.T2S URD 0255T2S CRG statusRejected by AGT2S CRG URD5.09 December 2009Technical acknowledgement from T2SDetailsT2S CRG No.T2S URD 0254T2S CRG statusApproved by AGT2S CRG URD5.09 December 2009Availability of U2A/A2A mode in T2SDetailsT2S CRG No.T2S URD 0253T2S CRG statusApproved by AGT2S CRG URD5.09 December 2009T2S specific deadlinesDetailsT2S CRG No.T2S URD 0252T2S CRG statusApproved by AGT2S CRG URD5.09 December 2009Opt-out and ex-cum transaction condition indicators as new additional matching fields
+EnglishDetailsT2S CRG No.T2S URD 0250T2S CRG statusApproved by AGT2S CRG URD5.09 December 2009Realignment settlement prior to completed settlement on T2S
+EnglishDetailsT2S CRG No.T2S URD 0248T2S CRG statusApproved by AGT2S CRG URD5.09 December 2009Automatic partial settlement in T2SDetailsT2S CRG No.T2S URD 0246T2S CRG statusApproved by AGT2S CRG URD5.09 December 2009Enhancement to roles and privileges setupDetailsT2S CRG No.T2S URD 0245T2S CRG statusApproved by AGT2S CRG URD5.09 December 2009Correction of typos and minor clarifications
+EnglishDetailsT2S CRG No.T2S URD 0226T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009Earmarking in T2SDetailsT2S CRG No.T2S URD 0241T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009Settlement Instructions for realignment created at the point of matchingDetailsT2S CRG No.T2S URD 0240T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009No static data changes during the night-time cycle sequences. Certain static data changes not allowed intra-dayDetailsT2S CRG No.T2S URD 0239T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009Haircut is not needed for the selection or reimbursement of collateral
+EnglishDetailsT2S CRG No.T2S URD 0237T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009Correction to Settlement Instruction Queries – Removal of CoSD flagDetailsT2S CRG No.T2S URD 0236T2S CRG statusRejected by AGT2S CRG URD5.023 September 2009Clarification on liquidity transfer order processing and Introduction of query on Immediate liquidity transfer ordersDetailsT2S CRG No.T2S URD 0234T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009Removal of a message duplication to report a static data update confirmation
+EnglishDetailsT2S CRG No.T2S URD 0233T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009Validity of future-dated and back-dated instructions
+EnglishDetailsT2S CRG No.T2S URD 0224T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009Period for data archivingDetailsT2S CRG No.T2S URD 0223T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009Corporate action reference
+EnglishDetailsT2S CRG No.T2S URD 0219T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009Settlement allegement feedbackDetailsT2S CRG No.T2S URD 0178T2S CRG statusRejected by AGT2S CRG URD5.023 September 2009Export functionality
+EnglishDetailsT2S CRG No.T2S URD 0177T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009Delta reports
+EnglishDetailsT2S CRG No.T2S URD 0176T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009Standard T2S recycling period as a configuration parameter
+EnglishDetailsT2S CRG No.T2S URD 0165T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009Deletion of two-legged instructionDetailsT2S CRG No.T2S URD 0164T2S CRG statusApproved by AGT2S CRG URD5.023 September 2009T2S non-mandatory matching fields
+EnglishDetailsT2S CRG No.T2S URD 0153T2S CRG statusApproved by AGT2S CRG URD5.015 June 2009Reports on static dataDetailsT2S CRG No.T2S URD 0220T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Ending a settlement restrictionDetailsT2S CRG No.T2S URD 0218T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Replacement of TARGET2 with RTGS systemDetailsT2S CRG No.T2S URD 0217T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Market-specific securities reference data attributes and their use in market specific restrictionsDetailsT2S CRG No.T2S URD 0216T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Removal of attribute RTGS account number from the entity T2S Dedicated Cash Account Liquidity Transfer OrderDetailsT2S CRG No.T2S URD 0213T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Cash Balance Query
+EnglishDetailsT2S CRG No.T2S URD 0212T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Currency-specific changing of daily event scheduling deadlinesDetailsT2S CRG No.T2S URD 0211T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Collateral value of securities drill-down query
+EnglishDetailsT2S CRG No.T2S URD 0210T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Collateral value of securities queryDetailsT2S CRG No.T2S URD 0209T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Partial settlement at instruction levelDetailsT2S CRG No.T2S URD 0208T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Several administrating parties in a CoSD
+EnglishDetailsT2S CRG No.T2S URD 0207T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Liquidity transfer order set query
+EnglishDetailsT2S CRG No.T2S URD 0206T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009No reasons for allegement cancellationDetailsT2S CRG No.T2S URD 0205T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Information provided for the amendment and hold/release instructions
+EnglishDetailsT2S CRG No.T2S URD 0204T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Information provided for cancellations of settlement instructions
+EnglishDetailsT2S CRG No.T2S URD 0203T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009NCB Auto-Collateralisation rulesDetailsT2S CRG No.T2S URD 0202T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009T2S cash amount is the settlement amountDetailsT2S CRG No.T2S URD 0201T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Information provided to the counterpart due to a maintenance instruction
+EnglishDetailsT2S CRG No.T2S URD 0200T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Query of Liquidity
+EnglishDetailsT2S CRG No.T2S URD 0199T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Query & reporting of cash postings on T2S dedicated cash accounts
+EnglishDetailsT2S CRG No.T2S URD 0198T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Removal of Section 6.3. – for NCB global cash monitoringDetailsT2S CRG No.T2S URD 0197T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Consolidation of liquidity monitoring tools. Removal of redundant information from Chapter 6.DetailsT2S CRG No.T2S URD 0196T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Removal of “ single window access” requirement for liquidity managementDetailsT2S CRG No.T2S URD 0195T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Use of message standards for the communication between T2S and RTGS systems for liquidity transfersDetailsT2S CRG No.T2S URD 0193T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Completeness of the definition of the term “Netting” in the glossaryDetailsT2S CRG No.T2S URD 0191T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Typo in the definition of ISINDetailsT2S CRG No.T2S URD 0190T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Addition of validity period for roles in T2SDetailsT2S CRG No.T2S URD 0189T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Clarification of the freezing of the list of contributors since v. 4.0 of the URDDetailsT2S CRG No.T2S URD 0188T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Processing of securities blocking/reservation instructionsDetailsT2S CRG No.T2S URD 0186T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Settlement statusDetailsT2S CRG No.T2S URD 0184T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Deletion of the T2 “pro rata” rule requirements from the URDDetailsT2S CRG No.T2S URD 0183T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Modification of the attributes of the securities valuation entity
+EnglishDetailsT2S CRG No.T2S URD 0180T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Replacement of “T2” with “T2S”
+EnglishDetailsT2S CRG No.T2S URD 0179T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Allegement delay periodDetailsT2S CRG No.T2S URD 0156T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Enhancement of the cash forecast query
+EnglishDetailsT2S CRG No.T2S URD 0155T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Life cycle of a liquidity transfer order
+EnglishDetailsT2S CRG No.T2S URD 0152T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Removal of “Maturity or Expiry Type” attribute in the securities entity
+EnglishDetailsT2S CRG No.T2S URD 0151T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Query of limit utilisation journal by NCBs, settlement banks and payment banks
+EnglishDetailsT2S CRG No.T2S URD 0141T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Query of limit utilisation by NCBs, settlement banks and payment banksDetailsT2S CRG No.T2S URD 0140T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Query of limits by NCBs, settlement banks and payment banksDetailsT2S CRG No.T2S URD 0139T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Guaranteed recycling of the CoSD blocking of cash after end of dayDetailsT2S CRG No.T2S URD 0117T2S CRG statusRejected by AGT2S CRG URD4.215 June 2009Removal of wrong references to earmarkingDetailsT2S CRG No.T2S URD 0116T2S CRG statusApproved by AGT2S CRG URD4.215 June 2009Securities Positions Forecast Query
+EnglishDetailsT2S CRG No.T2S URD 0114T2S CRG statusRejected by AGT2S CRG URD4.215 June 2009Conditional settlement when the two investor CSDs are in T2S and the issuer CSD is external (scenario 4)DetailsT2S CRG No.T2S URD 0046T2S CRG statusRejected by AGT2S CRG URD4.215 June 2009Potential matching candidatesDetailsT2S CRG No.T2S URD 0018T2S CRG statusRejected by AGT2S CRG URD4.215 June 2009No reasons for unmatched instructions
+EnglishDetailsT2S CRG No.T2S URD 0007 T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Eligible counterpart CSD
+EnglishDetailsT2S CRG No.T2S URD 0175T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Removal of unnecessary attributes for securities valuationDetailsT2S CRG No.T2S URD 0174T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Naming convention for Deviating Settlement Nominal entityDetailsT2S CRG No.T2S URD 0173T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Selection of collateral to be reimbursed
+EnglishDetailsT2S CRG No.T2S URD 0172T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009T2S automatic removal of a pending cancellation request after settlementDetailsT2S CRG No.T2S URD 0171T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Settlement currency checkDetailsT2S CRG No.T2S URD 0170T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Party, securities account or T2S dedicated cash account settlement restrictions attribute definitionsDetailsT2S CRG No.T2S URD 0169T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Instruction maintenance of a settlement instruction after CoSD blockingDetailsT2S CRG No.T2S URD 0168T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Replacing DFOP with DFP and RFOP with RFP
+EnglishDetailsT2S CRG No.T2S URD 0167T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Matching of FOP instructionsDetailsT2S CRG No.T2S URD 0166T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Splitting of multiple requirements concerning transaction types settling on T2S dedicated cash accounts
+EnglishDetailsT2S CRG No.T2S URD 0163T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Automated retransfer of corporate event proceeds to the RTGS accountDetailsT2S CRG No.T2S URD 0162T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009System Entity Query
+EnglishDetailsT2S CRG No.T2S URD 0161T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Partial settlement at instruction levelDetailsT2S CRG No.T2S URD 0160T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Blocking a T2S Party of the party type NCB using T2S party and account settlement restrictionsDetailsT2S CRG No.T2S URD 0159T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Technical acknowledgment of messages from directly connected T2S Actors
+EnglishDetailsT2S CRG No.T2S URD 0158T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Settlement instruction queryDetailsT2S CRG No.T2S URD 0150T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Bulk messages for block-tradesDetailsT2S CRG No.T2S URD 0146T2S CRG statusApproved by AGT2S CRG URD4.125 March 2009Population of static data relating to close linksDetailsT2S CRG No.T2S URD 0144T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Cancellation of instructions affected by a static data update
+EnglishDetailsT2S CRG No.T2S URD 0143T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Consistency change to include non-euro NCBs in the context of global cash monitoring
+EnglishDetailsT2S CRG No.T2S URD 0136T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009NCB cash monitoring procedureDetailsT2S CRG No.T2S URD 0135T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Consistency change DetailsT2S CRG No.T2S URD 0134T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Allegement Cancellation and Allegement removal
+EnglishDetailsT2S CRG No.T2S URD 0132T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Validation of the Market-specific restriction typesDetailsT2S CRG No.T2S URD 0131T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009The dual user approval should be available for static and dynamic data management.
+EnglishDetailsT2S CRG No.T2S URD 0124T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Delivery-versus-Delivery is not an instruction type but two linked FOP instructions
+EnglishDetailsT2S CRG No.T2S URD 0118T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Entity authorised to perform the corporate action
+EnglishDetailsT2S CRG No.T2S URD 0110T2S CRG statusRejected by AGT2S CRG URD4.125 March 2009Change of securities account operator (transfer of portfolio)DetailsT2S CRG No.T2S URD 0047T2S CRG statusApproved by AGT2S CRG URD4.125 March 2009Authorisation to initiate liquidity transfers on behalf of a T2S partyDetailsT2S CRG No.T2S URD 0043T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009External RTGS AccountDetailsT2S CRG No.T2S URD 0042T2S CRG statusApproved by AGT2S CRG URD4.125 March 2009CollateralisationDetailsT2S CRG No.T2S URD 0041T2S CRG statusRejected by AGT2S CRG URD4.125 March 2009Optional automated cash rebalancing in case of cash proceeds from a Corporate Event DetailsT2S CRG No.T2S URD 0035T2S CRG statusRejected by AGT2S CRG URD4.125 March 2009Consistency amendments in Annex 14 graphs
+EnglishDetailsT2S CRG No.T2S URD 0027T2S CRG statusApproved by AGT2S CRG URD4.225 March 2009Clarification of the URD Chapter 16 regarding auto-collateralisation for securities account reference data
+EnglishDetailsT2S CRG No.T2S URD 0014T2S CRG statusRejected by AGT2S CRG URD4.125 March 2009Clarification of the URD Chapter 16 regarding auto-collateralisation for securities reference dataDetailsT2S CRG No.T2S URD 0013T2S CRG statusRejected by AGT2S CRG URD4.125 March 2009Clarification of the URD Chapter 16 regarding auto-collateralisation in party reference dataDetailsT2S CRG No.T2S URD 0012T2S CRG statusApproved by AGT2S CRG URD4.120 January 2009Use RTGS system rather than T2DetailsT2S CRG No.T2S URD 0148T2S CRG statusApproved by AGT2S CRG URD4.120 January 2009End-of-day internal securities accounts consistencyDetailsT2S CRG No.T2S URD 0147T2S CRG statusApproved by AGT2S CRG URD4.120 January 2009Change URD numberDetailsT2S CRG No.T2S URD 0145T2S CRG statusApproved by AGT2S CRG URD4.120 January 2009There are two requirements with the same reference IDDetailsT2S CRG No.T2S URD 0142T2S CRG statusApproved by AGT2S CRG URD4.120 January 2009Replacement of 3CBPlus with 4CBDetailsT2S CRG No.T2S URD 0133T2S CRG statusApproved by AGT2S CRG URD4.120 January 2009U2A mode available for creating and maintaining instructions and transfer ordersDetailsT2S CRG No.T2S URD 0130T2S CRG statusApproved by AGT2S CRG URD4.120 January 2009Parties to receive a settlement confirmationDetailsT2S CRG No.T2S URD 0129T2S CRG statusApproved by AGT2S CRG URD4.120 January 2009Parameter for duplicate check on settled instructionsDetailsT2S CRG No.T2S URD 0128T2S CRG statusApproved by AGT2S CRG URD4.120 January 2009Cancellation of a cancellation request instruction
+EnglishDetailsT2S CRG No.T2S URD 0127T2S CRG statusApproved by AGT2S CRG URD4.120 January 2009Communication of multiple statuses per instructionDetailsT2S CRG No.T2S URD 0126T2S CRG statusApproved by AGT2S CRG URD4.120 January 2009Status and processing advice message to inform the counterpart to the transaction in case of a maintenance instructionDetailsT2S CRG No.T2S URD 0125T2S CRG statusApproved by AGT2S CRG URD4.120 January 2009Negative restrictions in CSD-Specific restrictionsDetailsT2S CRG No.T2S URD 0115T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Account StatusDetailsT2S CRG No.T2S URD 0113T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Transaction sourceDetailsT2S CRG No.T2S URD 0112T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008CUM/EX indicator not reflected.DetailsT2S CRG No.T2S URD 0111T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Include a reference to other section
+EnglishDetailsT2S CRG No.T2S URD 0109T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Include a reference to other section
+EnglishDetailsT2S CRG No.T2S URD 0108T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Resolve the inconsistency that CoSD should be used for exceptional cases onlyDetailsT2S CRG No.T2S URD 0107T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008CSD-Specific Restriction should read Market-Specific Restriction.
+EnglishDetailsT2S CRG No.T2S URD 0106T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Securities Account Access Privilege should be part of the Party entity. DetailsT2S CRG No.T2S URD 0105T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Attribute Instruction Status should be added.
+EnglishDetailsT2S CRG No.T2S URD 0104T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Reference to cash account instead of securities account
+EnglishDetailsT2S CRG No.T2S URD 0103T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008No need to keep a reference
+EnglishDetailsT2S CRG No.T2S URD 0102T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Several corrections or changes in order to assure consistency
+EnglishDetailsT2S CRG No.T2S URD 0101T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Several corrections or changes in order to assure consistency
+EnglishDetailsT2S CRG No.T2S URD 0100T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Title of section 9.3DetailsT2S CRG No.T2S URD 0099T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008RedraftingDetailsT2S CRG No.T2S URD 0098T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Page headerDetailsT2S CRG No.T2S URD 0097T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Change cancellation period in recycling period
+EnglishDetailsT2S CRG No.T2S URD 0096T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Remove CSD specific restriction type as attribute
+EnglishDetailsT2S CRG No.T2S URD 0095T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Usage of the terms Payment bank/Settlement bankDetailsT2S CRG No.T2S URD 0094T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008User Requirement header without User RequirementDetailsT2S CRG No.T2S URD 0093T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Typo in header
+EnglishDetailsT2S CRG No.T2S URD 0092T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Typo in header
+EnglishDetailsT2S CRG No.T2S URD 0091T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Use relevant RTGS accounts rather than T2/TARGET2 RTGS accountsDetailsT2S CRG No.T2S URD 0090T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Use relevant RTGS accounts rather than T2/TARGET2 RTGS accountsDetailsT2S CRG No.T2S URD 0089T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Use relevant RTGS accounts rather than T2/TARGET2 RTGS accounts
+EnglishDetailsT2S CRG No.T2S URD 0088T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Use relevant RTGS accounts rather than T2/TARGET2 RTGS accountsDetailsT2S CRG No.T2S URD 0087T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008InterfacesDetailsT2S CRG No.T2S URD 0086T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Auto-collateralisation LimitsDetailsT2S CRG No.T2S URD 0085T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Auto-collateralisation LimitsDetailsT2S CRG No.T2S URD 0084T2S CRG statusRejected by AGT2S CRG URD4.125 November 2008Correct editorial mistakes
+EnglishDetailsT2S CRG No.T2S URD 0083T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Correct editorial mistakes
+EnglishDetailsT2S CRG No.T2S URD 0082T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Use of upper vs. lower caseDetailsT2S CRG No.T2S URD 0081T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Used punctuation
+EnglishDetailsT2S CRG No.T2S URD 0080T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Align the use of "all-or-none"DetailsT2S CRG No.T2S URD 0079T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Reference to section in URDDetailsT2S CRG No.T2S URD 0078T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Use of upper vs. lower case
+EnglishDetailsT2S CRG No.T2S URD 0077T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Correct editorial mistakesDetailsT2S CRG No.T2S URD 0076T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Add bullets in front of bullet points, use same formatting for bullet points
+EnglishDetailsT2S CRG No.T2S URD 0075T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Use of upper vs. lower caseDetailsT2S CRG No.T2S URD 0074T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Use of "account operator" and "account controller"DetailsT2S CRG No.T2S URD 0073T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008non-directly connected participantsDetailsT2S CRG No.T2S URD 0072T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Replace "non-direct" with "indirect" (to be in line with the rest of the URD)DetailsT2S CRG No.T2S URD 0071T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Align the use of "direct holding" throughout the Annex and URDDetailsT2S CRG No.T2S URD 0070T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Correct editorial mistakes
+EnglishDetailsT2S CRG No.T2S URD 0069T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Correct editorial mistakesDetailsT2S CRG No.T2S URD 0068T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Correct editorial mistakes
+EnglishDetailsT2S CRG No.T2S URD 0067T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Correct editorial mistakesDetailsT2S CRG No.T2S URD 0066T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Align the use of "direct holding" throughout the Annex and URDDetailsT2S CRG No.T2S URD 0065T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008HeaderDetailsT2S CRG No.T2S URD 0064T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Align the use of "all-or-none"DetailsT2S CRG No.T2S URD 0063T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Align the style of bullet pointsDetailsT2S CRG No.T2S URD 0062T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Settlement of relayed links in T2S
+EnglishDetailsT2S CRG No.T2S URD 0061T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Settlement of multilateral instructionsDetailsT2S CRG No.T2S URD 0060T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008CoSD cancellation process
+EnglishDetailsT2S CRG No.T2S URD 0059T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008CoSD settlement process
+EnglishDetailsT2S CRG No.T2S URD 0058T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Multilateral settlementDetailsT2S CRG No.T2S URD 0057T2S CRG statusRejected by AGT2S CRG URD4.125 November 2008Summary table, Multilateral instruction settlementDetailsT2S CRG No.T2S URD 0056T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008CA message flows
+EnglishDetailsT2S CRG No.T2S URD 0055T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Reference to section 10DetailsT2S CRG No.T2S URD 0054T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Replace "T2" termDetailsT2S CRG No.T2S URD 0053T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Replace "3CB+" termDetailsT2S CRG No.T2S URD 0052T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Terminology: Corporate Actions vs. Corporate EventsDetailsT2S CRG No.T2S URD 0051T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Diagram numbering and titlesDetailsT2S CRG No.T2S URD 0050T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Mailing Address of T2S Party DetailsT2S CRG No.T2S URD 0049T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Cross reference to a non-existing user requirement
+EnglishDetailsT2S CRG No.T2S URD 0048T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Streamline the management of linked instructions
+EnglishDetailsT2S CRG No.T2S URD 0045T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Net buying limitDetailsT2S CRG No.T2S URD 0044T2S CRG statusRejected by AGT2S CRG URD4.125 November 2008Instruction StatusDetailsT2S CRG No.T2S URD 0040T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Clarification of information in the URD regarding CoSDDetailsT2S CRG No.T2S URD 0039T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Missing information in the URD in Chapter 7 regarding CoSD blocking
+EnglishDetailsT2S CRG No.T2S URD 0038T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Regarding partial blocking of PositionsDetailsT2S CRG No.T2S URD 0037T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Consistency change
+EnglishDetailsT2S CRG No.T2S URD 0036T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Add the attribute 'Opening date' in the Party entity. DetailsT2S CRG No.T2S URD 0034T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Auto-collateralisation limit by Settlement bank for securities account per currency
+EnglishDetailsT2S CRG No.T2S URD 0033T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Securities eligible for auto-collateralisation in Euro and non-euro currencies
+EnglishDetailsT2S CRG No.T2S URD 0032T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Settlement of a securities leg of an auto-collateralisation operation in a pledge country
+EnglishDetailsT2S CRG No.T2S URD 0031T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Settlement of a securities leg of an auto-collateralisation operation in a Repo countryDetailsT2S CRG No.T2S URD 0030T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Settlement of cash leg and securities leg of an auto-collateralisation operationDetailsT2S CRG No.T2S URD 0029T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Replacement of term "unilateral instruction"DetailsT2S CRG No.T2S URD 0028T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Clarification of legal aspects in Annex 14DetailsT2S CRG No.T2S URD 0026T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Amendments in URs on reservation and blocking functionality to improve URD consistency
+EnglishDetailsT2S CRG No.T2S URD 0025T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Improvement of cross-referencing in URD regarding settlement of linked transactions
+EnglishDetailsT2S CRG No.T2S URD 0024T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Clarification of a misrepresented standing liquidity order description
+EnglishDetailsT2S CRG No.T2S URD 0023T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Consistency update of Prioritisation if multiple T2S dedicated cash accounts functionalityDetailsT2S CRG No.T2S URD 0022T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Trade price is not an additional matching field
+EnglishDetailsT2S CRG No.T2S URD 0021T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Currency check for FOP instructionDetailsT2S CRG No.T2S URD 0020T2S CRG statusRejected by AGT2S CRG URD4.125 November 2008Identification of instruction eligible for settlementDetailsT2S CRG No.T2S URD 0019T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Deletion of a validation for already matched instructionsDetailsT2S CRG No.T2S URD 0017T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Auto-collateralisation by a Settlement bank for its securities accountDetailsT2S CRG No.T2S URD 0016T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Auto-collateralisation limit by NCB for Settlement bankDetailsT2S CRG No.T2S URD 0015T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Settlement bank eligible for auto collateralisationDetailsT2S CRG No.T2S URD 0011T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Ability for a T2S dedicated cash account holder to settle on several T2S dedicated cash accounts in all settlement currencies
+EnglishDetailsT2S CRG No.T2S URD 0010T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Ability for a T2S dedicated cash account holder settle on several T2S dedicated cash accounts in all settlement currenciesDetailsT2S CRG No.T2S URD 0009T2S CRG statusRejected by AGT2S CRG URD4.125 November 2008Amendment and cancellation of instructions affected by a static date updateDetailsT2S CRG No.T2S URD 0008T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Query SWIFT BIC DIRECTORYDetailsT2S CRG No.T2S URD 0006T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Missing CSD link queryDetailsT2S CRG No.T2S URD 0005T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Missing CSD query parameterDetailsT2S CRG No.T2S URD 0004T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Clarification on transfer of baskets of collateralDetailsT2S CRG No.T2S URD 0003T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Automated additional liquidity transfer at 5:00 hrs.DetailsT2S CRG No.T2S URD 0002T2S CRG statusApproved by AGT2S CRG URD4.125 November 2008Clarification that the life cycle type is a business concept
+EnglishDetailsT2S CRG No.T2S URD 0001T2S CRG statusApproved by AGT2S CRG URD4.1

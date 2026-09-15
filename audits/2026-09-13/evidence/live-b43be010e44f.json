@@ -1,0 +1,20 @@
+{
+  "id": "b43be010e44f",
+  "url": "https://athens.euronext.com/sites/default/files/2026-07/RESOLUTION_8_ATHEXCSD-CORPORATE_ACTIONS_392_%2010.07.2026_FORCE_14.07.2026.pdf",
+  "title": "ATHEXCSD Resolution 8",
+  "original_sha256": "637055ecb12737cbb0e8e291f7461c6fba7d40acf5781ed7b4d5ab0546c0ea86",
+  "kind": "curated-document",
+  "audit_id": "b43be010e44f",
+  "retrieved_at_utc": "2026-09-13T16:17:54.941066+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2026-07/RESOLUTION_8_ATHEXCSD-CORPORATE_ACTIONS_392_%2010.07.2026_FORCE_14.07.2026.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Tue, 14 Jul 2026 14:45:36 GMT",
+  "etag": "\"92012-656934285a314\"",
+  "sha256": "637055ecb12737cbb0e8e291f7461c6fba7d40acf5781ed7b4d5ab0546c0ea86",
+  "bytes": 598034,
+  "saved_path": "sources/b43be010e44f.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 20,
+  "text_path": "extracted/b43be010e44f.md"
+}

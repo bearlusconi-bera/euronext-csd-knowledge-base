@@ -1,0 +1,190 @@
+{
+  "url": "https://www.ecb.europa.eu/services/glossary/html/act7i.en.html",
+  "kind": "additional-authority",
+  "audit_id": "e96bf624cbbf",
+  "retrieved_at_utc": "2026-09-13T16:19:35.978814+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/services/glossary/html/act7i.en.html",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": null,
+  "etag": "\"myra-2e3054dd\"",
+  "sha256": "c3c1f818d4aae1e0c497aa4f4ec21471fb7bce999cb0282f739c2b221abd4409",
+  "bytes": 108014,
+  "saved_path": "sources/e96bf624cbbf.html",
+  "text_path": "extracted/e96bf624cbbf.txt",
+  "title": "Payments and markets glossary",
+  "links": [
+    {
+      "title": "A",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossa.en.html"
+    },
+    {
+      "title": "B",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7b.en.html"
+    },
+    {
+      "title": "C",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7c.en.html"
+    },
+    {
+      "title": "D",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7d.en.html"
+    },
+    {
+      "title": "E",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7e.en.html"
+    },
+    {
+      "title": "F",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7f.en.html"
+    },
+    {
+      "title": "G",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7g.en.html"
+    },
+    {
+      "title": "H",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7h.en.html"
+    },
+    {
+      "title": "I",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7i.en.html"
+    },
+    {
+      "title": "L",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7l.en.html"
+    },
+    {
+      "title": "M",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7m.en.html"
+    },
+    {
+      "title": "N",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7n.en.html"
+    },
+    {
+      "title": "O",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7o.en.html"
+    },
+    {
+      "title": "P",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7p.en.html"
+    },
+    {
+      "title": "Q",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7q.en.html"
+    },
+    {
+      "title": "R",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7r.en.html"
+    },
+    {
+      "title": "S",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7s.en.html"
+    },
+    {
+      "title": "T",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7t.en.html"
+    },
+    {
+      "title": "U",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7u.en.html"
+    },
+    {
+      "title": "V",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7v.en.html"
+    },
+    {
+      "title": "W",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7w.en.html"
+    },
+    {
+      "title": "Z",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/act7z.en.html"
+    },
+    {
+      "title": "International Bank Account Number (IBAN)",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#344"
+    },
+    {
+      "title": "international central securities depository (ICSD)",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#345"
+    },
+    {
+      "title": "interbank funds transfer system (IFTS)",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#343"
+    },
+    {
+      "title": "direct holding system",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossd.en.html#537"
+    },
+    {
+      "title": "direct link",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossd.en.html#538"
+    },
+    {
+      "title": "relayed link",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossr.en.html#635"
+    },
+    {
+      "title": "direct participant",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossd.en.html#677"
+    },
+    {
+      "title": "tiering arrangement",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glosst.en.html#667"
+    },
+    {
+      "title": "haircut",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossh.en.html#210"
+    },
+    {
+      "title": "margin",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossm.en.html#592"
+    },
+    {
+      "title": "intraday credit",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#216"
+    },
+    {
+      "title": "same-day funds",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glosss.en.html#641"
+    },
+    {
+      "title": "central securities depository",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossc.en.html#142"
+    },
+    {
+      "title": "CSD link",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossc.en.html#527"
+    },
+    {
+      "title": "issuer CSD",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#583"
+    },
+    {
+      "title": "direct holding system",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossd.en.html#537"
+    },
+    {
+      "title": "direct link",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossd.en.html#538"
+    },
+    {
+      "title": "indirect holding system",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#573"
+    },
+    {
+      "title": "investor CSD",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#582"
+    },
+    {
+      "title": "relayed link",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossr.en.html#635"
+    },
+    {
+      "title": "issuer CSD (issuing CSD)",
+      "url": "https://www.ecb.europa.eu/services/glossary/html/glossi.en.html#583"
+    }
+  ]
+}

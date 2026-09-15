@@ -1,0 +1,20 @@
+{
+  "id": "1f1f7d487837",
+  "url": "https://www.euronext.com/sites/default/files/2026-06/ca4u_functional_guide_eng_0.pdf",
+  "title": "ES_CA4U_functional_guide_eng.pdf",
+  "original_sha256": "42d671ca0eb93e9bb6004e41f175e3f334d6b4c502f276f8f168e126e008e93e",
+  "kind": "curated-document",
+  "audit_id": "1f1f7d487837",
+  "retrieved_at_utc": "2026-09-13T16:18:01.051577+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-06/ca4u_functional_guide_eng_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Wed, 10 Jun 2026 08:42:43 GMT",
+  "etag": "W/\"720e58eebdbc19f6928899278d897a5c\"",
+  "sha256": "42d671ca0eb93e9bb6004e41f175e3f334d6b4c502f276f8f168e126e008e93e",
+  "bytes": 1094039,
+  "saved_path": "sources/1f1f7d487837.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 12,
+  "text_path": "extracted/1f1f7d487837.md"
+}

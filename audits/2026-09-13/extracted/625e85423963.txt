@@ -1,0 +1,81 @@
+Euronext Securities CSD Convergence Programme
+Shaping the future of European post-trade infrastructure
+Over the past years, European post-trade infrastructure has evolved in parallel across markets, each with its own legacy, processes and client experience.
+Through the Convergence Programme, Euronext Securities is working towards a unified client experience with harmonised services and a common platform across its five central securities depositories.
+This initiative forms an important part of Euronext’s strategic plan for growth and innovation, representing a move towards a more unified European market infrastructure designed to better serve clients across borders.
+Discover the presentation of Euronext’s vision and the Convergence initiative by Pierre Davoust, Head of Euronext Securities.
+Our vision
+English
+media
+Building the CSD of choice in Europe
+The Euronext Securities CSD Convergence Programme will create a unified client experience by delivering fully harmonised services through a state-of-the-art common platform across the five Euronext Securities CSDs in Athens, Copenhagen, Milan, Oslo and Porto. This six-year initiative is a cornerstone of the Euronext Innovate for Growth 2027 strategic plan, designed to simplify market infrastructure, enhance cross-border opportunities and increase operational efficiency for all market participants.
+Benefits for our Clients
+Offering a single access
+Convergence Programme facilitates multiple markets access thanks to a centralized platform that will bring efficiency for financial institutions and issuers.
+Reducing European Fragmentation
+By harmonizing our infrastructure, we eliminate market barriers, supporting Euronext's markets and leveraging our securities issuance across Europe.
+Improving costumer experience
+Implementing unified interfaces and a consistent service model to ensure high quality service for all costumers, issuer and intermediaries, local and international.
+Seamless, harmonised services
+Say goodbye to fragmented post-trade processes and enjoy a cohesive, state-of-the-art platform.
+Cost efficiency
+Reduced fragmentation means lower associated costs for everyone.
+Future-ready infrastructure
+Our scalable, robust system is designed to adapt effortlessly to future market evolutions.
+media
+Image
+Timeline for Convergence project in Denmark
+Euronext is pleased to announce that the market has aligned on a go-live timeline of August 2028 for its strategic project Convergence, a major initiative to develop a single, unified platform for all Euronext Central Securities Depositories (CSDs). This timeline represents a critical milestone in harmonizing the post-trade landscape and delivering enhanced value to customers.
+Denmark will be the first market to implement the new platform, fully leveraging TARGET2-Securities (T2S) for settlement and adopting ISO standards for communication. This implementation marks a significant step toward greater efficiency, interoperability, and innovation in European post-trade services.
+The success of this project relies on close cooperation and alignment with market participants, and Euronext is proud to have achieved consensus on the implementation plan and timeline. This shared commitment reflects the strong partnership between Euronext and the Danish financial community.
+For the other CSDs, our objective remains unchanged for migration by 2030 (target go-live date will be confirmed in June 2026)
+- ES Porto : 2028- ES Milan & ES Athens : 2029- ES Oslo : TBC - Due to the dependency on the local central bank's pending decision regarding participation in T2S.
+Key Milestones
+date
+Milestone
+September 2025
+Publication of first versions of Service Description and Technical Documents for core services
+November 2025
+Publication of Baseline Documentation (update documents based on clients’ comments)
+Involving market participants
+To ensure that the CSD Convergence Programme meets the evolving needs of market participants, a clear client engagement system has been put in place, with representation from both cross-border clients, and local clients from each of the five CSDs. This approach includes regular sessions and dedicated discussions on a range of topics with clients, which provide valuable insights and help guide the programme towards its objectives. Through ongoing collaboration and feedback, Euronext Securities is able to adapt and refine the programme, ensuring it delivers harmonised and efficient services across all markets.
+Documentation and Resources
+Find a range of documents related to the Convergence Programme, including presentations from meetings of the Euronext Securities Global Reference Group. These materials provide valuable insights into ongoing discussions, strategic developments, and harmonisation initiatives across our markets.
+In addition to these presentations, this page serves as a central repository for Service Description Documents and their accompanying presentations, as well as the FAQ section and other relevant documentation related to the Convergence Programme.
+Client documentation
+News and Announcements
+Convergence Newsletters
+10/07/2026
+PDF
+Euronext Securities PTO - Convergence Newsletter- July2026.pdf
+English
+Version
+English
+10/07/2026
+10/07/2026
+/sites/default/files/2026-07/es-pto_july2026.pdf
+Euronext Securities PTO - Convergence Newsletter- July2026.pdf
+03/07/2026
+PDF
+Euronext Securities CPH - Convergence Newsletter - July2026.pdf
+English
+Version
+English
+03/07/2026
+03/07/2026
+/sites/default/files/2026-07/es-cph_july2026.pdf
+Euronext Securities CPH - Convergence Newsletter - July2026.pdf
+01/07/2026
+PDF
+Euronext Securities ATH - Convergence Newsletter - July2026
+English
+Version
+English
+01/07/2026
+01/07/2026
+/sites/default/files/2026-07/es-ath_june2026.pdf
+Euronext Securities ATH - Convergence Newsletter - July2026
+Contact
+Reach out to Euronext Securities team to know more
+For further information or support don't hesitate to contact us.
+convergence@euronext.com

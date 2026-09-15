@@ -1,0 +1,20 @@
+{
+  "id": "cd6c6798015f",
+  "url": "https://www.bis.org/publications/principles-financial-market-infrastructures-disclosure-framework-and-assessment-methodology.pdf",
+  "title": "PFMI disclosure and assessment - December 2012",
+  "original_sha256": "e941d2bb94a69ce9a922003c33e9b0ffc0ca0e7cb4afedafafa971f1a13140c0",
+  "kind": "curated-document",
+  "audit_id": "cd6c6798015f",
+  "retrieved_at_utc": "2026-09-13T16:18:12.760255+00:00",
+  "http_status": 200,
+  "final_url": "https://www.bis.org/publications/principles-financial-market-infrastructures-disclosure-framework-and-assessment-methodology.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Thu, 22 Jan 2026 10:53:53 GMT",
+  "etag": "\"95600-648f7db44e62f\"",
+  "sha256": "e941d2bb94a69ce9a922003c33e9b0ffc0ca0e7cb4afedafafa971f1a13140c0",
+  "bytes": 611840,
+  "saved_path": "sources/cd6c6798015f.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 109,
+  "text_path": "extracted/cd6c6798015f.md"
+}

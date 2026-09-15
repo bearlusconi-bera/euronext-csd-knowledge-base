@@ -1,0 +1,20 @@
+{
+  "id": "de2d312169fc",
+  "url": "https://www.euronext.com/sites/default/files/notices/monte-titoli/MKT_ON%20pubblicazione%20SPU%20v.%201.0_ENG.pdf?VersionId=iyNI_tyfEEJGTrLzby2A1xml68X1iSR_ ",
+  "title": "Update Standard for XTRM Users for Vorvel, Certificates TLX and IPO markets",
+  "original_sha256": "3d5e48ae83b0c4b602438a569406bc6f10d52cdb674d084ba31e684eda3013ca",
+  "kind": "curated-document",
+  "audit_id": "de2d312169fc",
+  "retrieved_at_utc": "2026-09-13T16:14:05.934151+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/notices/monte-titoli/MKT_ON%20pubblicazione%20SPU%20v.%201.0_ENG.pdf?VersionId=iyNI_tyfEEJGTrLzby2A1xml68X1iSR_%20",
+  "content_type": "application/pdf",
+  "last_modified_http": "Fri, 11 Sep 2026 08:40:05 GMT",
+  "etag": "W/\"19628e3594818306316fd9180538df9d\"",
+  "sha256": "3d5e48ae83b0c4b602438a569406bc6f10d52cdb674d084ba31e684eda3013ca",
+  "bytes": 160865,
+  "saved_path": "sources/de2d312169fc.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 1,
+  "text_path": "extracted/de2d312169fc.md"
+}

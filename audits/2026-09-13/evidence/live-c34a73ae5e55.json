@@ -1,0 +1,90 @@
+{
+  "url": "https://www.euronext.com/en/csd/oslo/about-us/legal-framework",
+  "kind": "official-hub",
+  "audit_id": "c34a73ae5e55",
+  "retrieved_at_utc": "2026-09-13T16:17:55.365800+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/csd/oslo/about-us/legal-framework",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": "Sun, 13 Sep 2026 10:10:54 GMT",
+  "etag": "W/\"1789294254\"",
+  "sha256": "505f7167893472dc3bd34acdad69d97e7d07974c79d8c3834caf0db9c609d086",
+  "bytes": 407494,
+  "saved_path": "sources/c34a73ae5e55.html",
+  "text_path": "extracted/c34a73ae5e55.txt",
+  "title": "\n              Legal framework\n            ",
+  "links": [
+    {
+      "title": "Click here",
+      "url": "https://www.euronext.com/en/media/11004"
+    },
+    {
+      "title": "Click here",
+      "url": "https://www.norges-bank.no/en/topics/about/Mission-core-responsibilities/Legislation/Payment-Systems-Act/"
+    },
+    {
+      "title": "Euronext Securities Oslo Settlement Fails 2025 - Article 15",
+      "url": "https://www.euronext.com/sites/default/files/2026-02/Euronext%20Securities%20Oslo%20-%20Settlement%20Fails%202025%20-%20Article15.xlsx"
+    },
+    {
+      "title": "ES-OSL Registration rules in force 4 February 2025 .pdf",
+      "url": "https://www.euronext.com/sites/default/files/2025-01/2025-01-13%20-%20ES-OSL%20Registration%20Rules%20-%20back-up%20account%20operator%20-%20final.pdf"
+    },
+    {
+      "title": "Appendix A – SLA to Registration Rules in force under CSDR",
+      "url": "https://www.euronext.com/sites/default/files/2022-08/Appendix-A-SLA-to-Registration-Rules-in-force-under-CSDR.pdf"
+    },
+    {
+      "title": "Euronext Securities Participant Default Policy",
+      "url": "https://www.euronext.com/sites/default/files/2025-05/ES-OSL%20Participants%20Default%20Procedure.pdf"
+    },
+    {
+      "title": "Service Level Agreement to Registration Rules in force under CSDR",
+      "url": "https://www.euronext.com/sites/default/files/2022-08/Service-Level-Agreement-to-Registration-Rules-in-force-under-CSDR.pdf"
+    },
+    {
+      "title": "ES-OSL VPS NOK Rules.pdf",
+      "url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_rules.pdf"
+    },
+    {
+      "title": "Guide",
+      "url": "https://www.euronext.com/media/7186/download"
+    },
+    {
+      "title": "Read more",
+      "url": "https://www.euronext.com/en/corporate-services/lei-services"
+    },
+    {
+      "title": "here",
+      "url": "https://www.euronext.com/media/15830/download"
+    },
+    {
+      "title": "OSL-client",
+      "url": "mailto:vps@vps.no"
+    },
+    {
+      "title": "support@euronext.com",
+      "url": "mailto:OSL-clientsupport@euronext.com"
+    },
+    {
+      "title": "Euronext Securities Oslo Fee Schedule",
+      "url": "https://www.euronext.com/en/media/14651"
+    },
+    {
+      "title": "Price policy",
+      "url": "https://www.euronext.com/media/7192//download"
+    },
+    {
+      "title": "Articles of Association",
+      "url": "https://www.euronext.com/media/7161/download"
+    },
+    {
+      "title": "Account Operators Compliance Committee Mandate",
+      "url": "https://www.euronext.com/media/11089/download"
+    },
+    {
+      "title": "Download Euronext Securities Oslo Privacy Statement",
+      "url": "https://www.euronext.com/media/10566/download"
+    }
+  ]
+}

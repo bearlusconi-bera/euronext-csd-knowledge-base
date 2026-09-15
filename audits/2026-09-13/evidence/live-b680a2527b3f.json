@@ -1,0 +1,14 @@
+{
+  "url": "https://www.euronext.com/it/csd/milan/membership/rules-instructions",
+  "kind": "additional-authority",
+  "audit_id": "b680a2527b3f",
+  "retrieved_at_utc": "2026-09-13T16:19:34.203618+00:00",
+  "http_status": 404,
+  "final_url": "https://www.euronext.com/it/csd/milan/membership/rules-instructions",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": "Sun, 13 Sep 2026 16:19:34 GMT",
+  "etag": "W/\"1789316374\"",
+  "sha256": "6541d5e253b9b57b61c110f2ac9c898dd3c6e51ddb304de8933a939fb187df1d",
+  "bytes": 403298,
+  "saved_path": "sources/b680a2527b3f.html"
+}

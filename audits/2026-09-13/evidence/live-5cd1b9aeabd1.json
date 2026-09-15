@@ -1,0 +1,42 @@
+{
+  "url": "https://www.finanstilsynet.dk/lovgivning/eu-lovsamling/csdr",
+  "kind": "additional-authority",
+  "audit_id": "5cd1b9aeabd1",
+  "retrieved_at_utc": "2026-09-13T16:19:34.802889+00:00",
+  "http_status": 200,
+  "final_url": "https://www.finanstilsynet.dk/lovgivning/eu-lovsamling/csdr",
+  "content_type": "text/html; charset=utf-8",
+  "last_modified_http": null,
+  "etag": null,
+  "sha256": "3638bfd95edbc4a997b228e1d1a2c9e1665da6924f204ddcfc30daaa39dc03dd",
+  "bytes": 76351,
+  "saved_path": "sources/5cd1b9aeabd1.html",
+  "text_path": "extracted/5cd1b9aeabd1.txt",
+  "title": "CSDR",
+  "links": [
+    {
+      "title": "Spring hovednavigationen over",
+      "url": "https://www.finanstilsynet.dk/lovgivning/eu-lovsamling/csdr#content-main"
+    },
+    {
+      "title": "",
+      "url": "https://www.finanstilsynet.dk/"
+    },
+    {
+      "title": "Du kan finde retsakten på Eur-lex her.",
+      "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0001.01.DAN"
+    },
+    {
+      "title": "EU’s interinstitutionelle register over delegerede retsakter.",
+      "url": "https://webgate.ec.europa.eu/regdel/#/home"
+    },
+    {
+      "title": "ESA-retningslinjer",
+      "url": "https://www.finanstilsynet.dk/Media/639231653595628200/esa_retningslinjer_240826.XLSX"
+    },
+    {
+      "title": "Læs mere om cookies",
+      "url": "https://www.finanstilsynet.dk/cookies"
+    }
+  ]
+}

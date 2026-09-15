@@ -1,0 +1,46 @@
+{
+  "url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/prices-and-fees",
+  "kind": "official-hub",
+  "audit_id": "9a4983a144c5",
+  "retrieved_at_utc": "2026-09-13T16:17:55.365723+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/en/csd/copenhagen/legal-framework/prices-and-fees",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": "Sun, 13 Sep 2026 10:11:51 GMT",
+  "etag": "W/\"1789294311\"",
+  "sha256": "9a75d085861ffbf86debbfc63313e88de0bcb60d2bd964f0f081573cd4ead070",
+  "bytes": 404008,
+  "saved_path": "sources/9a4983a144c5.html",
+  "text_path": "extracted/9a4983a144c5.txt",
+  "title": "\n              Prices and Fees\n            ",
+  "links": [
+    {
+      "title": "Euronext Securities Copenhagen - Table of fees per November 2026",
+      "url": "https://www.euronext.com/sites/default/files/2026-08/CPH%20Table%20of%20fees_Nov%202026.pdf"
+    },
+    {
+      "title": "Euronext Securities Copenhagen - Table of fees per January 2026",
+      "url": "https://www.euronext.com/sites/default/files/2025-12/ES-CPH_table_of_fees_jan_2026_update.pdf"
+    },
+    {
+      "title": "Euronext Securities Copenhagen - Table of fees as per January 2025",
+      "url": "https://www.euronext.com/sites/default/files/2024-09/ES-CPH%20Table%20of%20fees_Jan%202025.pdf"
+    },
+    {
+      "title": "Application Service fee for new common connectivity platform",
+      "url": "https://www.euronext.com/sites/default/files/2026-06/es-cph_application_service_fee_for_new_common_connectivity_platform_xxxxxx.pdf"
+    },
+    {
+      "title": "Euronext Securities Copenhagen - Price Policy",
+      "url": "https://www.euronext.com/sites/default/files/2025-06/escph_pricing_policy.pdf"
+    },
+    {
+      "title": "+45 4358 8888",
+      "url": "tel:+45 4358 8888"
+    },
+    {
+      "title": "vp_legal@euronext.com",
+      "url": "mailto:vp_%6cega%6c@e%75ron%65xt.co%6d"
+    }
+  ]
+}

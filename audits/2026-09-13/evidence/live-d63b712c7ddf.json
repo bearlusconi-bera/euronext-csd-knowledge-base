@@ -1,0 +1,762 @@
+{
+  "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/html/pmg.en.html",
+  "kind": "official-hub",
+  "audit_id": "d63b712c7ddf",
+  "retrieved_at_utc": "2026-09-13T16:17:59.854858+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/paym/target/t2s/governance/html/pmg.en.html",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": null,
+  "etag": "\"myra-a2555e8\"",
+  "sha256": "70f8d6623c94347d3b53d5f2c77f094027ea10c63ceaa645ed7e84ebde4a8d5e",
+  "bytes": 144916,
+  "saved_path": "sources/d63b712c7ddf.html",
+  "text_path": "extracted/d63b712c7ddf.txt",
+  "title": "Project Managers Group",
+  "links": [
+    {
+      "title": "Mandate",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.pmgmandate.en.pdf?6a2d357240c86d63bfb534566c5e19a4"
+    },
+    {
+      "title": "Members",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/list_of_members.pdf?db86d1ad507aac5939d60f3022bc803f"
+    },
+    {
+      "title": "T2S Release 2027.NOV",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor20260304_release_2027.NOV_scope.en.pdf?79d5d962d4fd81639ce5b7d1d7feda3f"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor20260304_release_2027.NOV_scope.en.pdf"
+    },
+    {
+      "title": "T2S Release 2027.JUN",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor20260304_release_2027.JUN_scope.en.pdf?12384278307079f868e92a88766adf1d"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor20260304_release_2027.JUN_scope.en.pdf"
+    },
+    {
+      "title": "T2S Release 2026.NOV",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor20260304_release_2026.NOV_scope.en.pdf?99eaa6949846f7cc1285ceac6351a951"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor20260304_release_2026.NOV_scope.en.pdf"
+    },
+    {
+      "title": "T2S Release 2026.JUN",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor241220_release_2026.JUN.en.pdf?d8c95c45fc485e70ae157e7d1272a0ef"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor241220_release_2026.JUN.en.pdf"
+    },
+    {
+      "title": "T2S Release 2025.NOV",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor20240724_release_2025.NOV_scope.en.pdf?fb6a5e6ebdd872dc86ff2d65dfef9585"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor20240724_release_2025.NOV_scope.en.pdf"
+    },
+    {
+      "title": "T2S Release 2025.JUN",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor20240724_release_2025.JUN_scope.en.pdf?3197074e9bdbff8b1c036a9992746076"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor20240724_release_2025.JUN_scope.en.pdf"
+    },
+    {
+      "title": "T2S Release 2024.NOV",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor240710_release_2024.NOV_scope.en.pdf?f5e7b8641c3de59371979d6afeb3216f"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor240710_release_2024.NOV_scope.en.pdf"
+    },
+    {
+      "title": "T2S Release 2024.SEP",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor240710_release_2024.SEP_scope.en.pdf?e38d893d700966ba6b9c73f21c8dfcbf"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor240710_release_2024.SEP_scope.en.pdf"
+    },
+    {
+      "title": "T2S Release 2024.JUN",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor230711_release_2024.JUN_scope.en.pdf?18cebe185b3ff2da4eeb434ebe5cf201"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor230711_release_2024.JUN_scope.en.pdf"
+    },
+    {
+      "title": "T2S Release R2024.FEB",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor230711_release_2024.FEB_scope.en.pdf?83a6e8351ab005b15a995d3212c62eb5"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor230711_release_2024.FEB_scope.en.pdf"
+    },
+    {
+      "title": "T2S Release R2023.NOV",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor230414_release_2023.NOV_scope.en.pdf?9732c6c3d0f6c632a7dd9e27fdb58649"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor230414_release_2023.NOV_scope.en.pdf"
+    },
+    {
+      "title": "T2S Release 2023.SEP",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor230711_release_2023.SEP_scope.en.pdf?56a8a1a1925e86c434d93971abd7ad61"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor230711_release_2023.SEP_scope.en.pdf"
+    },
+    {
+      "title": "T2S Release 2023.JUN",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor230414_release_2023.JUN_scope.en.pdf?c343bfcc123621605d761925dc25d81b"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor230414_release_2023.JUN_scope.en.pdf"
+    },
+    {
+      "title": "T2S Release 6.3",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor230117_release_6.3_scope.en.pdf?fccb093be73ce528e9bbaed059d70f42"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor230117_release_6.3_scope.en.pdf"
+    },
+    {
+      "title": "T2S Release 6.2",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor220428_6.2.en.pdf?99efa8e2b7f7fa7230cac94a96da3d97"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor220428_6.2.en.pdf"
+    },
+    {
+      "title": "T2S Release 6.1",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor220428_6.1.en.pdf?b62b592d324a761f89d536a1316bcf18"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor220428_6.1.en.pdf"
+    },
+    {
+      "title": "T2S Release 6.0",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor220428_6.0.en.pdf?6c823a2d2bc88931994a4b0b7dfb5fcb"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor220428_6.0.en.pdf"
+    },
+    {
+      "title": "T2S Release 5.3",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor210902_release_5-3_scope.en.pdf?bd097dc852016e071a02285c6ebb83a6"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor210902_release_5-3_scope.en.pdf"
+    },
+    {
+      "title": "T2S release 5.2",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor201014_release_5-2_scope.en.pdf?c255a8064f515796ef6622c1d48f7a03"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor201014_release_5-2_scope.en.pdf"
+    },
+    {
+      "title": "T2S release 5.1",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor210422_release_5-1_scope.en.pdf?eb4c6c2171d6421e42b99a9d4eb7a2c4"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor210422_release_5-1_scope.en.pdf"
+    },
+    {
+      "title": "T2S release 5.0",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor200330_release_5-0_scope.en.pdf?05b7d91c754b1c191f270f5f2feef9f4"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor200330_release_5-0_scope.en.pdf"
+    },
+    {
+      "title": "T2S release 4.3",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor200330_release_4-3_scope.en.pdf?df89876eaef17f603ca722b9b0e671ba"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor200330_release_4-3_scope.en.pdf"
+    },
+    {
+      "title": "T2S release 4.2",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor200330_release_4-2_scope.en.pdf?77f8d9ced64c049a4765912871973dc2"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor200330_release_4-2_scope.en.pdf"
+    },
+    {
+      "title": "T2S release 4.0",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor200210_release_4-0_scope.en.pdf?65254a93e4a0cb3d98c4602340a3788f"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor200210_release_4-0_scope.en.pdf"
+    },
+    {
+      "title": "T2S release 3.3",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor190607_release_3-3_scope.en.pdf?694228a0c98afe5a9a7b705fdb17bb36"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor190607_release_3-3_scope.en.pdf"
+    },
+    {
+      "title": "T2S release 3.2",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor190607_release_3-2_scope.en.pdf.pdf?63a9346886ee673afb5101401ccb18f2"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor190607_release_3-2_scope.en.pdf.pdf"
+    },
+    {
+      "title": "T2S release 3.1",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor190607_release_3-1_scope.en.pdf?25e863602ff27f5bb5e9e6a6e22edcb7"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor190607_release_3-1_scope.en.pdf"
+    },
+    {
+      "title": "T2S release 3.0",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor190607_release_3-0_scope.en.pdf?ad9e2d10276a79f47010b5d82081f1b3"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor190607_release_3-0_scope.en.pdf"
+    },
+    {
+      "title": "T2S release 2.3",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor190129_release_2-3_scope.en.pdf?020a1a131c5cc44858516246154802a2"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor190129_release_2-3_scope.en.pdf"
+    },
+    {
+      "title": "T2S release 2.2",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor181029_release_2-2_scope.en.pdf?c144cc51fd4cb17584d97394c9371b17"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/sor/ecb.targetsecsor181029_release_2-2_scope.en.pdf"
+    },
+    {
+      "title": "Outcome PMG Ad-Hoc Meeting on 7 July 2026",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20260707_outcome.en.pdf?52a6bc633fc6e52ae0c6f028523f5923"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20260707_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome PMG Meeting on 3 June 2026",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20260603_outcome.en.pdf?6008993693a2e562555463e8db397de9"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20260603_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome PMG Meeting on 21 April 2026",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20260421_outcome.en.pdf?b10294b6b564205bfae1a00342926eda"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20260421_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome PMG Meeting on 03 March 2026",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20260303_outcome.en.pdf?876ca25a906be86871bef1e6eb35c1e9"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20260303_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome PMG Meeting on 29 January 2026",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20260129_outcome.en.pdf?b52120571957745cda485ec8a4d27488"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20260129_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome PMG Meeting on 10 December 2025",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20251210_outcome.en.pdf?a8ff54cba125c1259715d5ecdd1b2ad4"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20251210_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome PMG Meeting on 15 October 2025",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20251015_outcome.en.pdf?b0866f4343ab37df1c8bfdf205350f7a"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20251015_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome PMG Meeting on 11 September 2025",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20250911_outcome.en.pdf?dcd4e8f2f5d1eabde4f69d9be12d0c39"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20250911_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting on 03 July 2025",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcomemeeting.en.pdf?b45ce75b652bf2962ade5615a1e55696"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcomemeeting.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting on 05 June 2025",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20250912_outcome.en.pdf?93ac8949f04ffe66232d0c2e3bd08ced"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20250912_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting on 10 April 2025",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20250410_outcome.en.pdf?24dc20b2a59d7ca08506a623e03f16de"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20250410_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG Meeting 05 March 2025",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20250305_outcome.en.pdf?9f45b7b4cfa84cc276997bf9ebff969e"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20250305_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG Meeting 28 January 2025",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20250128_outcome.en.pdf?6e46562735dfce735620755a1d6b7368"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20250128_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG Meeting 10 December 2024",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg241210_outcome.en.pdf?462545a45d57fce4ad7fee91d470e1ac"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg241210_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG Meeting 17 October 2024",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg241017_outcome.en.pdf?737f9459bdfe792ab2264f47b6f87291"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg241017_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG Meeting 12 September 2024",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg240912_outcome.en.pdf?542cc6ce15ff3eec260ed4c47ca63cc1"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg240912_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG Meeting 6 June 2024",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg240606_outcome.en.pdf?b0460f92695739c6efb65323b0f0135a"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg240606_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG Meeting 24 April 2024",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg240424_outcome.en.pdf?780c12d3f05e93c523a78e8ff2de3fd3"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg240424_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG Meeting 12 March 2024",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg240312_outcome.en.pdf?ca3644154af62af50f78644153d347ab"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg240312_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG Meeting 6 February 2024",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg240206_outcome.en.pdf?30b338b36c175e944fe4dcd84e1a3f90"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg240206_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG Meeting 12 December 2023",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg231212_outcome.en.pdf?a9986f6934c0061cd257b98403aa8e10"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg231212_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG Meeting 18 October 2023",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.taregtsecpmg231018_outcome.en.pdf?5a60c55bc1ae23ba65c3b109b4edbe6e"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.taregtsecpmg231018_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG Meeting 7 September 2023",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg230907_outcome.en.pdf?704e2afdd2830f4dc197d50ab6812a08"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg230907_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 6 June 2023",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg230606_outcome.en.pdf?2a8c24d047963d079f9dc0c49cba6e91"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg230606_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 19 April 2023",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg230419_outcome.en.pdf?e3f559c4cd09c8830d6d6756181a5321"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg230419_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 14 March 2023",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg230314_outcome.en.pdf?7bf25bd0a3983108a6526052caf81694"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg230314_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 7 February 2023",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg230207_outcome.en.pdf?0fed8b911a83f23cd3c4efe022f60162"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg230207_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 13 January 2023",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg230113_outcome.en.pdf?4ed4455f4a0e30002645e15192cbb768"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg230113_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 14 December 2022",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg221214_outcome.en.pdf?4d1ca115ad10c534806aaaff1aade10a"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg221214_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 14 November 2022",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg221114_outcome.en.pdf?38d6480b69a0f007cbfabc87ce0f47d8"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg221114_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 18 October 2022",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg221018_outcome.en.pdf?682a9132deeb4399e26426af616b567a"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg221018_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 13 September 2022",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg220913_outcome.en.pdf?08558f87fc937ba46883dba194bda2b7"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg220913_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 31 August 2022",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg220831_outcome.en.pdf?03cf4420fd03a31dd62405d00527d368"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg220831_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 06 June 2022",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg220602_outcome.en.pdf?7b0a0929be0413712b586b173bb071d7"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg220602_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 09 March 2022",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg220309_outcome.en.pdf?1031acfe4ed6d8cd0cab1b3b5c66a69b"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg220309_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 19 January 2022",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg220119_outcome.en.pdf?1e7410d487100ffe648cd4260ec07d70"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg220119_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 10 November 2021",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg211110_outcome.en.pdf?caea3ded948e08a5f149d1b2f9460e0d"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg211110_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 13 September 2021",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg210913_outcome.en.pdf?8457b01e6e7ad02ed2bdfc326e930bf3"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg210913_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 08 July 2021",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg210708_outcome.en.pdf?e934990fd209920861b11b8f5c2f3fe1"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg210708_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 28 May 2021",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20210528_Outcome.en.pdf?28b46237fdebe6878358e10f0162ae6a"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20210528_Outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 25 March 2021",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetseccrgmo210325_outcome.en.pdf?b2672646558e00198e961962e88f9395"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetseccrgmo210325_outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 20 January 2021",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20210120_Outcome.en.pdf?8649435abd9ef892e7b7286e3d77edf9"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20210120_Outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 19 November 2020",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-19-11-2020.pdf?6a60a5fd3c394eb4de6e619bdc695124"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-19-11-2020.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 14& 15 September 2020",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-1415-09-2020.pdf?c466ed96041e2d950cc02c81e0f98460"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-1415-09-2020.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 03 July 2020",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-03-07-2020.pdf?5bf11cb72918d9a2f86187b547ef0c5b"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-03-07-2020.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 28 & 29 May 2020",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-2829-05-2020.pdf?18e6390a8b25e5de53271f4e5d9fbebc"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-2829-05-2020.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 05 March 2020",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-05-03-2020.pdf?af77db69620aa0d19da6db89d97c2370"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-05-03-2020.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 23 January 2020",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-23-01-2020.pdf?b571d960ea4bcab5ff8e428b3eca3961"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-23-01-2020.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 28 November 2019",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-28-11-2019.pdf?bd9e071697df3697ce7b2ce84ab67387"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-28-11-2019.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 09 October 2019",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-09-10-2019.pdf?001e811f49e2454da3da97e8aaa69efe"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-09-10-2019.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 04 September 2019",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-04-09-2019.pdf?12b1e1091cbff350dae61e585fcb0b66"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-04-09-2019.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 05 July 2019",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-05-07-2019.pdf?48ebf57e88e604508d55d2daaa7dbe28"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-05-07-2019.pdf"
+    },
+    {
+      "title": "Outcome PMG meeting 23 & 24 May 2019",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-2324-05-2019.pdf?0649ca5446da524b30f0f27fb511af62"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/outcome-2324-05-2019.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 21 March 2019",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20190321_Outcome_PMG_meetingMarch_2019.en.pdf?0a001c260977e77bd258a5e82dd099d2"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20190321_Outcome_PMG_meetingMarch_2019.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 24 January 2019",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20190124_Outcome_PMG_meeting_January_2019.en.pdf?4da952994b8f44ba23bb7ca75046b4bc"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20190124_Outcome_PMG_meeting_January_2019.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 05 December 2018",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20181205_Outcome_PMG_meeting_December_2018.en.pdf?c1912d0f89d47af54e1ca31403472234"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20181205_Outcome_PMG_meeting_December_2018.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 17 October 2018",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20181017_Outcome_PMG_Meeting_October_2017.en.pdf?ee89657e33a69a72ddcd8c6aa51c7c94"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20181017_Outcome_PMG_Meeting_October_2017.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 30 August 2018",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20180830_Outcome_Pmg_Meeting_August_2018.en.pdf?f55482ec1e7fd326a9bfaa02ac433e64"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20180830_Outcome_Pmg_Meeting_August_2018.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 20 July 2018",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20180720_Outcome.en.pdf?3f7e670da501fb3e37d77f23f2affa18"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20180720_Outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 06 June 2018",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20180606_Outcome.en.pdf?6d11e18356dcef4ef708496a54615986"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20180606_Outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 19 April 2018",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20180419_Outcome.en.pdf?79459ce0132f4437c4d4ca9dcbbbb650"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20180419_Outcome.en.pdf"
+    },
+    {
+      "title": "Outcome - PMG meeting 23 February 2018",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20180223_Outcome.en.pdf?da9d4a1553545f220d4ac0335c2deb88"
+    },
+    {
+      "title": "English",
+      "url": "https://www.ecb.europa.eu/paym/target/t2s/governance/pdf/pmg/ecb.targetsecpmg20180223_Outcome.en.pdf"
+    }
+  ]
+}

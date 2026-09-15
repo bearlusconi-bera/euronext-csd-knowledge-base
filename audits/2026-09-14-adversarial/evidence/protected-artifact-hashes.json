@@ -1,0 +1,16 @@
+{
+  "reviewed-evidence-pack.zip": "c7cbdebfcc44f0bb7bb8d308d706553d865cb62295a9e7f05b33b31dc2e90353",
+  "retrieval/README.md": "17b0c9462d1798b583b3ba2a8fcc72cf31a725ddc47750d0a8abec529fe87877",
+  "retrieval/admitted-sections.jsonl": "b8ce7ba0b2c60279489385954c6df6a7236dada78587e880815a1b45530073b3",
+  "retrieval/build-manifest.json": "bb0153a69ffeb4c4a0811981cefc21f9f8e51225a92379db8667d91deeaa6dbc",
+  "retrieval/evaluation-routing.json": "76ee34b302dc345b525c46d8f40c7f68898d61733722e2e5a9ac5ff2186f713e",
+  "retrieval/exports/current.jsonl": "6210da7b96869c1c976b1ae2f3cc0a409abe1cde64fe9ec585a1787cad9294ca",
+  "retrieval/exports/future.jsonl": "e6c31fccd1e849575c93ce6e059a22570b856a79574ede23d1b13e154f6577d5",
+  "retrieval/exports/reference.jsonl": "0f6c575a0dac68c12a0a2bdd4ed7bf1ddb5da6dcd447e864bbc93893e7499c7f",
+  "retrieval/section-decisions.json": "efe3d6a36989d15e35f7435068970c6fd8851e10cd8f4afd09a6f6f54a3fec9c",
+  "retrieval/source-register.json": "ef945cb37975d92cb390b4d5ccea583a9ef0c823a98143d766172d978628e1a2",
+  "scripts/retrieve_evidence.py": "3811dbebf3d85b8dd5e476d45d2e608c76cc7dba1baba07740345256daab1fb2",
+  "scripts/build_retrieval.py": "676471afb72b14004f87954723d04660922a2604975d12be5d540b9d16be8e03",
+  "catalogue.json": "afd78aad282b9735b1cf729a68fa3e0b623e5b3d629d733208f6eeb801f6c864",
+  "curated-manifest.json": "6350292b157add52c9cd9a086f52b0f2794fe0dba6aa4b50493f5d8d87bd146e"
+}

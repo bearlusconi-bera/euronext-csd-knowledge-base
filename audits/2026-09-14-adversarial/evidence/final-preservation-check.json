@@ -1,0 +1,15 @@
+{
+  "outcome": "PASS",
+  "protected_production_artifacts": 14,
+  "changed": [],
+  "originals_unchanged_in_test_run": 800,
+  "review_outputs": [
+    "REPORT.md",
+    "ANSWERABILITY.md",
+    "FINDINGS.json",
+    "cases.json",
+    "results.json",
+    "summary.json",
+    "CURRENTNESS-DELTA.json"
+  ]
+}

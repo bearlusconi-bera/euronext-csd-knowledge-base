@@ -1,0 +1,88 @@
+[
+  {
+    "id": "F01",
+    "priority": "high",
+    "title": "Dated timeline route omits required event overlay",
+    "file": "scripts/retrieve_evidence.py",
+    "line": 70,
+    "reproduced_cases": [
+      "A02",
+      "A03",
+      "A04"
+    ],
+    "status": "open",
+    "repair_applied": false
+  },
+  {
+    "id": "F02",
+    "priority": "high",
+    "title": "Release-status section bypasses release filter",
+    "file": "scripts/retrieve_evidence.py",
+    "line": 111,
+    "reproduced_cases": [
+      "A09",
+      "A10"
+    ],
+    "status": "open",
+    "repair_applied": false
+  },
+  {
+    "id": "F03",
+    "priority": "medium",
+    "title": "Authoritative-language qualification omitted from output",
+    "file": "scripts/build_retrieval.py",
+    "line": 78,
+    "reproduced_cases": [
+      "A15"
+    ],
+    "status": "open",
+    "repair_applied": false
+  },
+  {
+    "id": "F04",
+    "priority": "medium",
+    "title": "Same-date current questions produce inconsistent outcomes",
+    "file": "scripts/retrieve_evidence.py",
+    "line": 115,
+    "reproduced_cases": [
+      "A16",
+      "A17"
+    ],
+    "status": "open",
+    "repair_applied": false
+  },
+  {
+    "id": "F05",
+    "priority": "medium",
+    "title": "ISO week-year can bypass calendar-year restriction",
+    "file": "scripts/retrieve_evidence.py",
+    "line": 80,
+    "reproduced_cases": [
+      "A18",
+      "A19"
+    ],
+    "status": "open",
+    "repair_applied": false
+  },
+  {
+    "id": "F06",
+    "priority": "low",
+    "title": "Missing original raises uncontrolled file exception",
+    "file": "scripts/retrieve_evidence.py",
+    "line": 124,
+    "reproduced_cases": [
+      "A31"
+    ],
+    "status": "open",
+    "repair_applied": false
+  },
+  {
+    "id": "F07",
+    "priority": "refresh_required",
+    "title": "New November final document publication after snapshot",
+    "type": "source_currentness",
+    "status": "open",
+    "repair_applied": false,
+    "evidence": "CURRENTNESS-DELTA.json"
+  }
+]

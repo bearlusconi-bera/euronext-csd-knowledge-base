@@ -1,0 +1,20 @@
+{
+  "id": "8719262f5e8b",
+  "url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+  "title": "Regulations as of 26 January 2026",
+  "original_sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+  "kind": "curated-document",
+  "audit_id": "8719262f5e8b",
+  "retrieved_at_utc": "2026-09-13T16:14:04.868967+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Thu, 05 Feb 2026 09:28:24 GMT",
+  "etag": "W/\"29261ae06564fab6d27f5eade3eecd7d\"",
+  "sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+  "bytes": 793597,
+  "saved_path": "sources/8719262f5e8b.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 59,
+  "text_path": "extracted/8719262f5e8b.md"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "8c1289ebd427",
+  "url": "https://www.ecb.europa.eu/pub/pdf/annex/Cross_Reference_T2S_GFS_R2026.JUN_URD_R2026.JUN_clean_20260122.en.pdf",
+  "title": "GFS - URD cross-reference",
+  "original_sha256": "791fdd98b597059b6ff9d77c9f7dacc4ab05ddda8a4542d087b68eaf15f218ab",
+  "kind": "curated-document",
+  "audit_id": "8c1289ebd427",
+  "retrieved_at_utc": "2026-09-13T16:18:23.310662+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/pub/pdf/annex/Cross_Reference_T2S_GFS_R2026.JUN_URD_R2026.JUN_clean_20260122.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Tue, 20 Jan 2026 13:40:08 GMT",
+  "etag": null,
+  "sha256": "791fdd98b597059b6ff9d77c9f7dacc4ab05ddda8a4542d087b68eaf15f218ab",
+  "bytes": 3467678,
+  "saved_path": "sources/8c1289ebd427.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 255,
+  "text_path": "extracted/8c1289ebd427.md"
+}

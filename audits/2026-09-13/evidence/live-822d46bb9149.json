@@ -1,0 +1,16 @@
+{
+  "url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_regelverket.pdf",
+  "kind": "additional-authority",
+  "audit_id": "822d46bb9149",
+  "retrieved_at_utc": "2026-09-13T16:19:34.339464+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2024-09/240902_es-osl_vpo_nok_regelverket.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Fri, 31 Jan 2025 13:33:59 GMT",
+  "etag": "W/\"83505f798754638ccdf347481fdb45f0\"",
+  "sha256": "705a9f5dca5d96b08074a282ef96c81683b4c2c3519efbf74c4e6f5a0412856a",
+  "bytes": 490569,
+  "saved_path": "sources/822d46bb9149.pdf",
+  "pdf_pages": 55,
+  "text_path": "extracted/822d46bb9149.md"
+}

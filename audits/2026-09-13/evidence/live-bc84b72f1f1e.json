@@ -1,0 +1,90 @@
+{
+  "url": "https://athens.euronext.com/el/about/regulatory/athexcsd",
+  "kind": "official-hub",
+  "audit_id": "bc84b72f1f1e",
+  "retrieved_at_utc": "2026-09-13T16:17:59.650617+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/el/about/regulatory/athexcsd",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified_http": null,
+  "etag": null,
+  "sha256": "c13402b978e86d624f4405476c11b7332c883c9495a11a8efa5c8c57908283d7",
+  "bytes": 276618,
+  "saved_path": "sources/bc84b72f1f1e.html",
+  "text_path": "extracted/bc84b72f1f1e.txt",
+  "title": "Κανονισμοί & Αποφάσεις | Euronext Athens",
+  "links": [
+    {
+      "title": "Euronext Athens (ATHEX)",
+      "url": "https://athens.euronext.com/el/about/regulatory/athex"
+    },
+    {
+      "title": "Euronext Clearing Athens (ATHEXCLEAR)",
+      "url": "https://athens.euronext.com/el/about/regulatory/athexclear"
+    },
+    {
+      "title": "Euronext Securities Athens (ATHEXCSD)",
+      "url": "https://athens.euronext.com/el/about/regulatory/athexcsd"
+    },
+    {
+      "title": "ΛήψηPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2026-06/%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A3_%CE%9B%CE%95%CE%99%CE%A4%CE%9F%CE%A5%CE%A1%CE%93%CE%99%CE%91%CE%A3_%CE%95%CE%9B%CE%9A%CE%91%CE%A4_7%CE%B7_%CE%A4%CF%81%CE%BF%CF%80%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7_383_24.11.2025_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_8.12.2025.pdf"
+    },
+    {
+      "title": "ΛήψηPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2024-05/%CE%91%CE%A0%CE%9F%CE%A6%CE%91%CE%A3%CE%97%2022%20%CE%95%CE%9B%CE%9A%CE%91%CE%A4%2018122023.pdf"
+    },
+    {
+      "title": "ΛήψηPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2025-01/%CE%91%CE%A0%CE%9F%CE%A6%CE%91%CE%A3%CE%97%2021%20%CE%95%CE%9B%CE%9A%CE%91%CE%A4%20-%20%CE%91%CE%B8%CE%AD%CF%84%CE%B7%CF%83%CE%B7%20%CE%A3%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%AD%CF%87%CE%BF%CE%BD%CF%84%CE%B1%2030092024%20%CE%99%CE%A3%CE%A7%CE%A5%CE%A3%2012042021.pdf"
+    },
+    {
+      "title": "ΛήψηPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2025-07/%CE%91%CE%A0%CE%9F%CE%A6%CE%91%CE%A3%CE%97_20_%CE%95%CE%9B%CE%9A%CE%91%CE%A4-%CE%95%CE%A0%CE%99%CE%A4%CE%A1%CE%9F%CE%A0%CE%97_%CE%A7%CE%A1%CE%97%CE%A3%CE%A4%CE%A9%CE%9D_27012025_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_28072025.pdf"
+    },
+    {
+      "title": "ΛήψηPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2026-01/%CE%91%CE%A0%CE%9F%CE%A6%CE%91%CE%A3%CE%97_19_%CE%95%CE%A0%CE%99%CE%A4%CE%A1%CE%9F%CE%A0%CE%97_%CE%A4%CE%A1%CE%9F%CE%A0%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A3%CE%97%CE%A3_%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%9C%CE%9F%CE%A5_%CE%95%CE%9B%CE%9A%CE%91%CE%A4_384_20012026_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_28012026.pdf"
+    },
+    {
+      "title": "(Δείτε προηγούμενες εκδόσεις της Απόφασης)",
+      "url": "https://athens.euronext.com/sites/default/files/2025-09/ΠΡΟΗΓΟΥΜΕΝΕΣ%20ΑΠΟΦΑΣΕΙΣ_18_ΕΛΚΑΤ.zip"
+    },
+    {
+      "title": "ΛήψηPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2026-06/%CE%91%CE%A0%CE%9F%CE%A6%CE%91%CE%A3%CE%97_18_ES-ATH_%CE%A4%CE%99%CE%9C%CE%9F%CE%9A%CE%91%CE%A4%CE%91%CE%9B%CE%9F%CE%93%CE%9F%CE%A3_%CE%A7%CE%A1%CE%95%CE%A9%CE%A3%CE%95%CE%A9%CE%9D_390_08062026_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_15062026_0.pdf"
+    },
+    {
+      "title": "ΛήψηPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2024-05/%CE%91%CE%A0%CE%9F%CE%A6%CE%91%CE%A3%CE%97%2017%20%CE%95%CE%9B%CE%9A%CE%91%CE%A4%20%CE%9C%CE%95%CE%A4%CE%91%CE%92%CE%99%CE%92%CE%91%CE%A3%CE%97%20%CE%9C%CE%95%CE%A4%CE%91%20%CE%91%CE%A0%CE%9F%20%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%97%20%CE%94%CE%99%CE%9A%CE%91%CE%99%CE%9F%CE%A5%CE%A7%CE%9F%CE%A5%2028032022.pdf"
+    },
+    {
+      "title": "ΛήψηPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2025-01/%CE%91%CE%A0%CE%9F%CE%A6%CE%91%CE%A3%CE%97%2016%20%CE%95%CE%9B%CE%9A%CE%91%CE%A4%20-%20%CE%A0%CE%91%CE%A1%CE%9F%CE%A7%CE%97%20%CE%A0%CE%9B%CE%97%CE%A1%CE%9F%CE%A6%CE%9F%CE%A1%CE%99%CE%A9%CE%9D%20%CE%95%CE%A0%CE%99%20%CE%91%CE%9E%CE%99%CE%9F%CE%93%CE%A1%CE%91%CE%A6%CE%A9%CE%9D_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3%2029112024.pdf"
+    },
+    {
+      "title": "ΛήψηPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2024-05/%CE%91%CE%A0%CE%9F%CE%A6%CE%91%CE%A3%CE%97%2015%20-%20%CE%92%CE%99%CE%92%CE%9B%CE%99%CE%9F%20%CE%9C%CE%95%CE%A4%CE%9F%CE%A7%CE%A9%CE%9D%20%CE%BA%CE%B1%CE%B9%20%CE%9C%CE%97%CE%A4%CE%A1%CE%A9%CE%9F%20%CE%9C%CE%95%CE%A1%CE%99%CE%94%CE%99%CE%9F%CE%A5%CE%A7%CE%A9%CE%9D.pdf"
+    },
+    {
+      "title": "(Δείτε προηγούμενες εκδόσεις της Απόφασης)",
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/Αρχείο_έως_29.11.2024.zip"
+    },
+    {
+      "title": "ΛήψηPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2026-04/%CE%91%CE%A0%CE%9F%CE%A6%CE%91%CE%A3%CE%97_14_%CE%95%CE%9B%CE%9A%CE%91%CE%A4-%CE%A5%CE%A0%CE%97%CE%A1%CE%95%CE%A3%CE%99%CE%95%CE%A3_%CE%A4%CE%95%CE%A7%CE%9D%CE%9F%CE%9B%CE%9F%CE%93%CE%99%CE%91%CE%A3_%CE%A0%CE%9B%CE%97%CE%A1%CE%9F%CE%A6%CE%9F%CE%A1%CE%99%CE%A9%CE%9D_387_31.03.2026_%CE%99%CE%A3%CE%A7%CE%A5%CE%A3_01.04.2026.pdf"
+    },
+    {
+      "title": "ΛήψηPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2024-05/%CE%91%CE%A0%CE%9F%CE%A6%CE%91%CE%A3%CE%97%2013-%20%CE%9A%CE%91%CE%9D%CE%9F%CE%9D%CE%99%CE%A3%CE%A4%CE%99%CE%9A%CE%95%CE%A3%20%CE%95%CE%9A%CE%98%CE%95%CE%A3%CE%95%CE%99%CE%A3.pdf"
+    },
+    {
+      "title": "ΛήψηPDF",
+      "url": "https://athens.euronext.com/sites/default/files/2024-05/%CE%91%CE%A0%CE%9F%CE%A6%CE%91%CE%A3%CE%97%2012%20-%20%CE%9A%CE%A9%CE%94%CE%99%CE%9A%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A3%CE%97%20%CE%91%CE%9E%CE%99%CE%9F%CE%93%CE%A1%CE%91%CE%A6%CE%A9%CE%9D.pdf"
+    },
+    {
+      "title": "Euronext Securities Athens (ATHEXCSD)",
+      "url": "https://athens.euronext.com/el/about/regulatory/archive?title=&tid_1=4"
+    }
+  ]
+}

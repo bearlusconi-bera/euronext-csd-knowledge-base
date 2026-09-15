@@ -1,0 +1,20 @@
+{
+  "url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%20Nr%2021%20-%20Participant%20Default%20%2030092024%20FORCE%2012042021.pdf",
+  "id": "207ccb1774e7",
+  "original_sha256": "0292becbe236bbd628fa6a55f42b17f0a009b185f55fd85b330f651a789ecfc4",
+  "title": "ATHEXCSD Resolution 21",
+  "kind": "additional-existing-document",
+  "audit_id": "207ccb1774e7",
+  "retrieved_at_utc": "2026-09-13T16:19:33.361743+00:00",
+  "http_status": 200,
+  "final_url": "https://athens.euronext.com/sites/default/files/2025-01/RESOLUTION%20Nr%2021%20-%20Participant%20Default%20%2030092024%20FORCE%2012042021.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Wed, 22 Jan 2025 14:47:25 GMT",
+  "etag": "\"4700b-62c4c92666645\"",
+  "sha256": "0292becbe236bbd628fa6a55f42b17f0a009b185f55fd85b330f651a789ecfc4",
+  "bytes": 290827,
+  "saved_path": "sources/207ccb1774e7.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 10,
+  "text_path": "extracted/207ccb1774e7.md"
+}

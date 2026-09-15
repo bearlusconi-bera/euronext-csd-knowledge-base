@@ -1,0 +1,20 @@
+{
+  "id": "1ae6d477d17b",
+  "url": "https://www.bis.org/publications/principles-financial-market-infrastructures.pdf",
+  "title": "PFMI - April 2012",
+  "original_sha256": "48b97c7e065b5a3f152e6706e614a662fad4d9908b88c6ffe0f4a011e89478e2",
+  "kind": "curated-document",
+  "audit_id": "1ae6d477d17b",
+  "retrieved_at_utc": "2026-09-13T16:18:12.156588+00:00",
+  "http_status": 200,
+  "final_url": "https://www.bis.org/publications/principles-financial-market-infrastructures.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Wed, 22 Jul 2026 08:06:25 GMT",
+  "etag": "\"110ed8-6572e9db08272\"",
+  "sha256": "48b97c7e065b5a3f152e6706e614a662fad4d9908b88c6ffe0f4a011e89478e2",
+  "bytes": 1117912,
+  "saved_path": "sources/1ae6d477d17b.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 188,
+  "text_path": "extracted/1ae6d477d17b.md"
+}

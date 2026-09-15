@@ -1,0 +1,283 @@
+EUR-Lex - 02017R0389-20170310 - EN - EUR-Lex
+×
+Skip to main content
+Log in
+My EUR-Lex
+My EUR-Lex
+Sign in
+Register
+My recent searches (0)
+English
+English
+Select your language
+Official EU languages:
+bgбългарски
+esEspañol
+csČeština
+daDansk
+deDeutsch
+etEesti keel
+elΕλληνικά
+enEnglish
+frFrançais
+gaGaeilge
+hrHrvatski
+itItaliano
+lvLatviešu valoda
+ltLietuvių kalba
+huMagyar
+mtMalti
+nlNederlands
+plPolski
+ptPortuguês
+roRomână
+skSlovenčina
+slSlovenščina
+fiSuomi
+svSvenska
+EUR-Lex
+Access to European Union law
+<a href="https://eur-lex.europa.eu/content/help/eurlex-content/experimental-features.html" target="_blank">More about the experimental features corner</a>
+Experimental features
+×
+Choose the experimental features you want to try
+Do you want to help improving EUR-Lex ? This is a list of experimental features that you can enable. These features are still under development; they are not fully tested, and might reduce EUR-Lex stability. Don't forget to give your feedback!
+Warning! Experimental feature conflicts detected.
+Replacement of CELEX identifiers by short titles - experimental feature. It replaces clickable CELEX identifiers of treaties and case-law by short titles.
+Visualisation of document relationships. It displays a dynamic graph with relations between the act and related documents. It is currently only available for legal acts.
+Deep linking. It enables links to other legal acts referred to within the documents. It is currently only available for documents smaller than 900 KB.
+Apply
+EUR-Lex
+Access to European Union law
+This document is an excerpt from the EUR-Lex website
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 02017R0389-20170310 - EN
+Help
+Print
+Menu
+Quick search
+Use quotation marks to search for an "exact phrase". Append an asterisk (*) to a search term to find variations of it (transp*, 32019R*). Use a question mark (?) instead of a single character in your search term to find variations of it (ca?e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+Document 02017R0389-20170310
+Help
+Print
+​
+Consolidated text: Komisijas Deleģētā regula (ES) 2017/389 (2016. gada 11. novembris), ar ko papildina Eiropas Parlamenta un Padomes Regulu (ES) Nr. 909/2014 attiecībā uz naudas sodu aprēķināšanas parametriem par norēķinu neizpildēm un CVD darbībām uzņēmējās dalībvalstīs (Dokuments attiecas uz EEZ)
+Komisijas Deleģētā regula (ES) 2017/389 (2016. gada 11. novembris), ar ko papildina Eiropas Parlamenta un Padomes Regulu (ES) Nr. 909/2014 attiecībā uz naudas sodu aprēķināšanas parametriem par norēķinu neizpildēm un CVD darbībām uzņēmējās dalībvalstīs (Dokuments attiecas uz EEZ)
+Access initial legal act(
+In force)
+10/03/2017
+ELI: http://data.europa.eu/eli/reg_del/2017/389/2017-03-10
+Expand all
+Collapse all
+Languages and formats available
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+Multilingual display
+Language 1
+Please choose
+Latvian (lv)
+Language 2
+Please choose
+Latvian (lv)
+Language 3
+Please choose
+Latvian (lv)
+Display
+Text
+The document is unavailable in your User interface language.
+02017R0389 — LV — 10.03.2017 — 000.001
+Šis dokuments ir tikai informatīvs, un tam nav juridiska spēka. Eiropas Savienības iestādes neatbild par tā saturu. Attiecīgo tiesību aktu un to preambulu autentiskās versijas ir publicētas Eiropas Savienības “Oficiālajā Vēstnesī” un ir pieejamas datubāzē “Eur-Lex”. Šie oficiāli spēkā esošie dokumenti ir tieši pieejami, noklikšķinot uz šajā dokumentā iegultajām saitēm
+►B
+KOMISIJAS DELEĢĒTĀ REGULA (ES) 2017/389
+(2016. gada 11. novembris),
+ar ko papildina Eiropas Parlamenta un Padomes Regulu (ES) Nr. 909/2014 attiecībā uz naudas sodu aprēķināšanas parametriem par norēķinu neizpildēm un CVD darbībām uzņēmējās dalībvalstīs
+(Dokuments attiecas uz EEZ)
+(OV L 065, 10.3.2017., 1. lpp)
+Labota ar:
+►C1
+Kļūdu labojums, OV L 009, 15.1.2020, lpp 75 (2017/389)
+▼B
+KOMISIJAS DELEĢĒTĀ REGULA (ES) 2017/389
+(2016. gada 11. novembris),
+ar ko papildina Eiropas Parlamenta un Padomes Regulu (ES) Nr. 909/2014 attiecībā uz naudas sodu aprēķināšanas parametriem par norēķinu neizpildēm un CVD darbībām uzņēmējās dalībvalstīs
+(Dokuments attiecas uz EEZ)
+1. pants
+Definīcijas
+Šīs regulas nolūkos “norēķina instrukcija” [rīkojums] ir pārveduma rīkojums, kā definēts Direktīvas 98/26/EK 2. panta i) punktā.
+2. pants
+Naudas sodu aprēķināšana
+Regulas (ES) Nr. 909/2014 7. panta 2. punkta trešajā daļā minēto naudas sodu līmeni norēķinu neizpildēm darījumos ar konkrēto finanšu instrumentu aprēķina, attiecīgo naudas soda likmi, kas noteikta šīs regulas pielikumā, piemērojot darījuma atsauces cenai, kas noteikta saskaņā ar šīs regulas 3. pantu.
+3. pants
+Darījuma atsauces cena
+1. Šīs regulas 2. pantā minētā atsauces cena ir līdzvērtīga finanšu instrumentu kopējai tirgus vērtībai, kas noteikta saskaņā ar 7. pantu katrai darba dienai, kurā notiek darījuma norēķina neizpilde.
+2. Šā panta 1. punktā minēto atsauces cenu izmanto, lai aprēķinātu naudas sodu līmeni visām norēķinu neizpildēm, neatkarīgi no tā, vai norēķina neizpilde notikusi vērtspapīru vai naudas trūkuma dēļ.
+4. pants
+Kritēriji, lai noteiktu CVD būtisko nozīmi
+CVD darbības uzņēmējas dalībvalstī uzskata par būtiski nozīmīgām vērtspapīru tirgu darbībai un ieguldītāju aizsardzībai uzņēmējā dalībvalstī, ja ir izpildīts vismaz viens no 5. un 6. pantā minētajiem kritērijiem.
+5. pants
+Kritēriji, lai noteiktu notāra un centralizētas uzturēšanas pakalpojumu būtisko nozīmi
+1. Notāra un centralizētas uzturēšanas pakalpojumu sniegšanu, kā minēts Regulas (ES) Nr. 909/2014 pielikuma A iedaļas 1. un 2. punktā, ko veic CVD uzņēmējā dalībvalstī, uzskata par būtiski nozīmīgu vērtspapīru tirgu darbībai un ieguldītāju aizsardzībai uzņēmējā dalībvalstī, ja ir izpildīts kāds no turpmāk minētajiem kritērijiem:
+a)
+finanšu instrumentu kopējā tirgus vērtība, ko emitējuši uzņēmējas dalībvalsts emitenti un ko CVD sākotnēji uzskaitījis vai centralizēti uzturējis vērtspapīru kontos, veido vismaz 15 % no to finanšu instrumentu kopējās vērtības, ko emitējuši visi uzņēmējas dalībvalsts emitenti, ko sākotnēji uzskaitījuši vai centralizēti uzturējuši vērtspapīru kontos visi CVD, kas veic darījumdarbību Savienībā;
+b)
+to finanšu instrumentu kopējā tirgus vērtība, ko CVD centralizēti uzturējis vērtspapīru kontos dalībniekiem un citiem vērtspapīru kontu turētājiem no uzņēmējas dalībvalsts, veido vismaz 15 % no to finanšu instrumentu kopējās vērtības, ko vērtspapīru kontos centralizēti uzturējuši visi CVD, kas veic darījumdarbību Savienībā, visiem dalībniekiem vai citiem vērtspapīru kontu turētājiem no uzņēmējas dalībvalsts.
+2. Šā panta 1. punkta nolūkā finanšu instrumentu tirgus vērtību nosaka saskaņā ar 7. pantu.
+3. Ja ir izpildīts kāds no 1. punktā minētajiem kritērijiem, attiecīgā CVD darbības uzņēmējā dalībvalstī uzskata par būtiski nozīmīgām vērtspapīru tirgu darbībai un ieguldītāju aizsardzībai minētajā uzņēmējā dalībvalstī uz trīs kalendāro gadu atjaunojamiem periodiem, sākot no tā kalendārā gada 30. aprīļa, kas seko jebkuru minēto kritēriju izpildei.
+6. pants
+Kritēriji, lai noteiktu norēķinu pakalpojumu būtisko nozīmi
+1. Norēķinu pakalpojumu sniegšanu, kā minēts Regulas (ES) Nr. 909/2014 pielikuma A iedaļas 3. punktā, ko veic CVD uzņēmējā dalībvalstī, uzskata par būtiski nozīmīgu vērtspapīru tirgu darbībai un ieguldītāju aizsardzībai uzņēmējā dalībvalstī, ja ir izpildīts kāds no turpmāk minētajiem kritērijiem:
+a)
+norēķinu instrukciju gada vērtība, kas attiecas uz darījumiem ar finanšu instrumentiem, ko emitējuši uzņēmējas dalībvalsts emitenti, un par ko norēķinu veicis CVD, veido vismaz 15 % no visu norēķinu instrukciju kopējās gada vērtības, kas attiecas uz darījumiem ar finanšu instrumentiem, ko emitējuši uzņēmējas dalībvalsts emitenti, un kam norēķinus veikuši visi CVD, kas veic uzņēmējdarbību Savienībā;
+b)
+to norēķinu instrukciju gada vērtība, kam norēķinus veicis CVD dalībniekiem un citiem vērtspapīru kontu turētājiem no uzņēmējas dalībvalsts, veido vismaz 15 % no norēķinu instrukciju kopējās vērtības, kam norēķinu veikuši visi CVD, kas veic darījumdarbību Savienībā, dalībniekiem vai citiem vērtspapīru kontu turētājiem no uzņēmējas dalībvalsts;
+c)
+CVD uztur vērtspapīru norēķinu sistēmu, ko regulē uzņēmējas dalībvalsts tiesību akti un par ko ir paziņots Eiropas Vērtspapīru un tirgu iestādei (EVTI).
+2. Šā panta 1. punkta a) un b) apakšpunkta nolūkā norēķinu instrukcijas vērtība ir:
+a)
+norēķinu instrukcijai, ko veic pret samaksu, – attiecīgā finanšu instrumenta darījuma vērtība, kas reģistrēta vērtspapīru norēķinu sistēmā;
+b)
+norēķinu instrukcijām bez samaksas – attiecīgo finanšu instrumentu kopējā tirgus vērtība, kā noteikts saskaņā ar 7. pantu.
+3. Ja ir izpildīts kāds no 1. punktā minētajiem kritērijiem, attiecīgā CVD darbības uzņēmējā dalībvalstī uzskata par būtiski nozīmīgām vērtspapīru tirgu darbībai un ieguldītāju aizsardzībai minētajā uzņēmējā dalībvalstī uz trīs kalendāro gadu atjaunojamiem periodiem, sākot no tā kalendārā gada 30. aprīļa, kas seko jebkuru minēto kritēriju izpildei.
+7. pants
+Tirgus vērtību noteikšana
+Šīs regulas 3., 5. un 6. pantā minēto finanšu instrumentu tirgus vērtību nosaka šādi:
+a)
+Regulas (ES) Nr. 600/2014 3. panta 1. punktā minētajiem instrumentiem, ko ir atļauts tirgot tirdzniecības vietā Savienībā, attiecīgā finanšu instrumenta tirgus vērtība ir likviditātes ziņā visbūtiskākā tirgus noslēgumcena, kā minēts Regulas (ES) Nr. 600/2014 4. panta 1. punkta a) apakšpunktā;
+b)
+finanšu instrumentiem, ko atļauts tirgot tirdzniecības vietā Savienībā un kas nav a) apakšpunktā minētie instrumenti, tirgus vērtība ir noslēgumcena, kas izriet no tirdzniecības vietas Savienībā ar vislielāko apgrozījumu;
+c)
+finanšu instrumentiem, kas nav a) un b) apakšpunktā minētie instrumenti, tirgus vērtību nosaka, pamatojoties uz iepriekš noteiktu attiecīgās CVD kompetentās iestādes apstiprinātu metodoloģiju, kas attiecas uz kritērijiem, kuri saistīti ar uzticamiem tirgus datiem, piemēram, tirgus cenām, kas pieejamas tirdzniecības vietās vai ieguldījumu sabiedrībās.
+8. pants
+Pārejas noteikumi
+1. Šīs regulas 5. panta 1. punkta a) apakšpunkta un 6. panta 1. punkta c) apakšpunkta minētos kritērijus pirmo reizi piemēro četru mēnešu laikā no šīs regulas spēkā stāšanās dienas, un to pamatā ir finanšu instrumentu vērtības, ko CVD sākotnēji uzskaitījis vai centralizēti uzturējis vērtspapīru kontos iepriekšējā kalendārā gada 31. decembrī.
+2. Šīs regulas 5. panta 1. punkta b) apakšpunktā un 6. panta 1. punkta a) un b) apakšpunktā minētos kritērijus pirmo reizi piemēro četru mēnešu laikā no 9. panta 2. punktā minētās piemērošanas dienas, un to pamatā ir finanšu instrumentu vērtības, ko CVD sākotnēji uzskaitījis vai centralizēti uzturējis vērtspapīru kontos iepriekšējā kalendārā gada 31. decembrī.
+3. Laikposmā, kas sākas šīs regulas spēkā stāšanās dienā un beidzas Regulas (ES) Nr. 600/2014 55. panta otrajā daļā minētajā piemērošanas dienā, piemēro šādus noteikumus:
+a)
+atkāpjoties no 5. panta 2. punkta, finanšu instrumentu tirgus vērtība ir minēto instrumentu nominālvērtība;
+b)
+atkāpjoties no 6. panta 2. punkta b) apakšpunkta, attiecīgo finanšu instrumentu tirgus vērtības ir minēto finanšu instrumentu nominālvērtība.
+9. pants
+Stāšanās spēkā un piemērošana
+Šī regula stājas spēkā divdesmitajā dienā pēc tās publicēšanas Eiropas Savienības Oficiālajā Vēstnesī.
+To piemēro no 2019. gada 10. marta.
+Atkāpjoties no otrās daļas:
+a)
+regulas 2. un 3. pantu piemēro no datuma, kurā stājas spēkā deleģētais akts, ko Komisija pieņēmusi saskaņā ar Regulas (ES) Nr. 909/2014 7. panta 15. punktu;
+b)
+regulas 7. pantu piemēro no datuma, kas minēts Regulas (ES) Nr. 600/2014 55. panta otrajā daļā;
+c)
+regulas 8. pantu piemēro no tās spēkā stāšanās dienas.
+Šī regula uzliek saistības kopumā un ir tieši piemērojama visās dalībvalstīs.
+PIELIKUMS
+Norēķinu neizpildei piemērojamās naudas sodu likmes
+Neizpildes veids
+Likme
+1. Norēķinu neizpilde tādu akciju trūkuma dēļ, kam ir likvīds tirgus Regulas (ES) Nr. 600/2014 2. panta 1. punkta 17. apakšpunkta b) punkta nozīmē, izņemot 3. punktā minētās akcijas
+1,0 bāzes punkti
+2. Norēķinu neizpilde tādu akciju trūkuma dēļ, kurām nav likvīda tirgus Regulas (ES) Nr. 600/2014 2. panta 1. punkta 17. apakšpunkta b) punkta nozīmē, izņemot 3. punktā minētās akcijas
+0,5 bāzes punkti
+3. Norēķinu neizpilde tādu finanšu instrumentu trūkuma dēļ, ko tirgo MVU izaugsmes tirgos, izņemot 6. punktā minētos parāda instrumentus
+0,25 bāzes punkti
+4. Norēķinu neizpilde tādu parāda instrumentu trūkuma dēļ, kurus emitējis vai garantējis:
+a) valsts emitents, kā definēts Direktīvas 2014/65/ES 4. panta 1. punkta 60. apakšpunktā;
+b) trešās valsts emitents;
+c) vietējās pašvaldības iestāde;
+d) centrālā banka;
+e) jebkura daudzpusēja attīstības banka, kā minēts Eiropas Parlamenta un Padomes Regulas (ES) Nr. 575/2013 117. panta 1. punkta otrajā daļā un 117. panta 2. punktā (1);
+f) Eiropas Finanšu stabilitātes instruments un Eiropas Stabilizācijas mehānisms.
+0,10 bāzes punkti
+5. Norēķinu neizpilde tādu parāda instrumentu trūkuma dēļ, kas nav 4. un 6. punktā minētie instrumenti
+0,20 bāzes punkti
+6. Norēķinu neizpilde tādu parāda instrumentu trūkuma dēļ, kuri tirgoti MVU izaugsmes tirgos
+0,15 bāzes punkti
+7. Norēķinu neizpilde visu pārējo finanšu instrumentu trūkuma dēļ, kas nav ietverti 1. līdz 6. punktā
+0,5 bāzes punkti
+8. Norēķinu neizpilde naudas trūkuma dēļ
+►C1
+Oficiālā procentu likme uz nakti izsniegtiem kredītiem, ko iekasē centrālā banka, kas ir norēķinu valūtas emitente, un kas nav mazāka par 0 ◄
+(1) Eiropas Parlamenta un Padomes 2013. gada 26. jūnija Regula (ES) Nr. 575/2013 par prudenciālajām prasībām attiecībā uz kredītiestādēm un ieguldījumu brokeru sabiedrībām un ar ko groza Regulu (ES) Nr. 648/2012 (OV L 176, 27.6.2013., 1. lpp.).
+Top
+Table of contents
+Hide table of contents

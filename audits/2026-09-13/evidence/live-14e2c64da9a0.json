@@ -1,0 +1,20 @@
+{
+  "id": "14e2c64da9a0",
+  "url": "https://www.euronext.com/sites/default/files/2025-12/ES-CPH_table_of_fees_jan_2026_update.pdf",
+  "title": "Euronext Securities Copenhagen - Table of fees per January 2026",
+  "original_sha256": "a423eb8ea3d1ec7108857bd7c083c1c118c66159691d4130dd9fc0f589764e66",
+  "kind": "curated-document",
+  "audit_id": "14e2c64da9a0",
+  "retrieved_at_utc": "2026-09-13T16:14:10.113906+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2025-12/ES-CPH_table_of_fees_jan_2026_update.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Thu, 11 Dec 2025 09:38:41 GMT",
+  "etag": "W/\"4a834fb2d3eb530fa34cc1ec45b0d0e1\"",
+  "sha256": "a423eb8ea3d1ec7108857bd7c083c1c118c66159691d4130dd9fc0f589764e66",
+  "bytes": 554893,
+  "saved_path": "sources/14e2c64da9a0.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 26,
+  "text_path": "extracted/14e2c64da9a0.md"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "e1354fb2d76a",
+  "url": "https://www.euronext.com/sites/default/files/2026-05/Euronext%20Securities%20-%20Corporate%20Events%20Service%20-%20CA4U%20Handbook%20SDD%20-%20V05_0.pdf",
+  "title": "Corporate_Events_Services_User_Guide_20260507_clean.pdf",
+  "original_sha256": "d0a2c11740d4e423c3f9bffe2e297432a1e23b545e8ddf8a8465e191a24dd4e8",
+  "kind": "curated-document",
+  "audit_id": "e1354fb2d76a",
+  "retrieved_at_utc": "2026-09-13T16:18:00.906619+00:00",
+  "http_status": 200,
+  "final_url": "https://www.euronext.com/sites/default/files/2026-05/Euronext%20Securities%20-%20Corporate%20Events%20Service%20-%20CA4U%20Handbook%20SDD%20-%20V05_0.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Thu, 07 May 2026 14:42:59 GMT",
+  "etag": "W/\"735fa5e569a7701594f6f471fc427c28\"",
+  "sha256": "d0a2c11740d4e423c3f9bffe2e297432a1e23b545e8ddf8a8465e191a24dd4e8",
+  "bytes": 7194073,
+  "saved_path": "sources/e1354fb2d76a.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 185,
+  "text_path": "extracted/e1354fb2d76a.md"
+}

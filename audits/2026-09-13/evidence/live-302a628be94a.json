@@ -1,0 +1,20 @@
+{
+  "id": "302a628be94a",
+  "url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_BFD_R2026.JUN_clean_20260122.en.pdf",
+  "title": "Business Functionality for T2S Graphical User Interface R2026.JUN (BFD)",
+  "original_sha256": "d84e5ddc574d1bb0f4127868b521f056bdaff14e9389ef5b6432c92e717a71b2",
+  "kind": "curated-document",
+  "audit_id": "302a628be94a",
+  "retrieved_at_utc": "2026-09-13T16:18:22.428475+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_BFD_R2026.JUN_clean_20260122.en.pdf",
+  "content_type": "application/pdf",
+  "last_modified_http": "Fri, 27 Mar 2026 09:39:35 GMT",
+  "etag": null,
+  "sha256": "d84e5ddc574d1bb0f4127868b521f056bdaff14e9389ef5b6432c92e717a71b2",
+  "bytes": 1498193,
+  "saved_path": "sources/302a628be94a.pdf",
+  "same_as_archived_bytes": true,
+  "pdf_pages": 173,
+  "text_path": "extracted/302a628be94a.md"
+}
