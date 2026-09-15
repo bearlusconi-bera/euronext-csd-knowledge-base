@@ -1,0 +1,19 @@
+# About Us
+
+Source: https://www.euronext.com/en/post-trade/euronext-securities/porto/about-us
+
+Retrieved: 2026-09-11
+
+About Us
+Euronext Securities Porto is the Central Securities Depository for the Portuguese financial market, offering a wide set of services to a broad client base.
+We offer integrated and flexible solutions at European level, operating as Custody and Settlement Central Securities Depository (CSD) being compliant with:
+CSD Regulation (CSDR);
+The Portuguese Legislation on Capital Markets;
+The rules of the Portuguese Securities Market Commission (CMVM).
+We use the most stringent international service and security standards, have effective internal controls and a proactive risk management system, and were one of the first CSDs to join the European settlement platform TARGET2-Securities and to obtain authorization to operate as a CSD in the context of CSDR.
+Related Pages
+Organizational Structure
+Board Committees
+User Committee
+Management Reports & By-…
+Working Days & Operating…

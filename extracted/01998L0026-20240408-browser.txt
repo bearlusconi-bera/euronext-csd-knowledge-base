@@ -1,0 +1,851 @@
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+An official website of the European Union
+How do you know?
+Skip to main content
+My EUR-Lex
+English
+EUR-Lex
+Access to European Union law
+<a href="https://eur-lex.europa.eu/content/help/eurlex-content/experimental-features.html" target="_blank">More about the experimental features corner</a>
+	Experimental features 
+You are here
+EUROPA 
+EUR-Lex home 
+EUR-Lex - 01998L0026-20240408 - EN
+Help
+ Print
+MENU
+Quick search
+Use quotation marks to search for an "exact phrase". Append an asterisk (*) to a search term to find variations of it (transp*, 32019R*). Use a question mark (?) instead of a single character in your search term to find variations of it (ca?e finds case, cane, care).
+ 
+  Search tips
+Need more search options? Use the Advanced search
+
+Document 01998L0026-20240408
+
+Text
+Document information
+Up-to-date link
+Permanent link
+Download notice
+Save to My items
+  Table of contents
+ Hide consolidated versions
+08/04/2024
+27/06/2019
+17/09/2014
+16/08/2012
+04/01/2011
+30/06/2009
+Legal act
+
+Consolidated text: Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems
+
+Access initial legal act(
+
+In force
+
+)
+
+ELI: http://data.europa.eu/eli/dir/1998/26/2024-04-08
+
+ Expand all
+ Collapse all
+
+ 
+Languages and formats available
+
+Language
+	
+BG
+	
+ES
+	
+CS
+	
+DA
+	
+DE
+	
+ET
+	
+EL
+	
+EN
+	
+FR
+	
+GA
+	
+HR
+	
+IT
+	
+LV
+	
+LT
+	
+HU
+	
+MT
+	
+NL
+	
+PL
+	
+PT
+	
+RO
+	
+SK
+	
+SL
+	
+FI
+	
+SV
+
+HTML	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+PDF	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+ 
+Multilingual display
+
+Language 1
+English (en)
+Bulgarian (bg)
+Spanish (es)
+Czech (cs)
+Danish (da)
+German (de)
+Estonian (et)
+Greek (el)
+English (en)
+French (fr)
+Irish (ga)
+Croatian (hr)
+Italian (it)
+Latvian (lv)
+Lithuanian (lt)
+Hungarian (hu)
+Maltese (mt)
+Dutch (nl)
+Polish (pl)
+Portuguese (pt)
+Romanian (ro)
+Slovak (sk)
+Slovenian (sl)
+Finnish (fi)
+Swedish (sv)
+ 
+Language 2
+Please choose
+Bulgarian (bg)
+Spanish (es)
+Czech (cs)
+Danish (da)
+German (de)
+Estonian (et)
+Greek (el)
+English (en)
+French (fr)
+Irish (ga)
+Croatian (hr)
+Italian (it)
+Latvian (lv)
+Lithuanian (lt)
+Hungarian (hu)
+Maltese (mt)
+Dutch (nl)
+Polish (pl)
+Portuguese (pt)
+Romanian (ro)
+Slovak (sk)
+Slovenian (sl)
+Finnish (fi)
+Swedish (sv)
+ 
+Language 3
+Please choose
+Bulgarian (bg)
+Spanish (es)
+Czech (cs)
+Danish (da)
+German (de)
+Estonian (et)
+Greek (el)
+English (en)
+French (fr)
+Irish (ga)
+Croatian (hr)
+Italian (it)
+Latvian (lv)
+Lithuanian (lt)
+Hungarian (hu)
+Maltese (mt)
+Dutch (nl)
+Polish (pl)
+Portuguese (pt)
+Romanian (ro)
+Slovak (sk)
+Slovenian (sl)
+Finnish (fi)
+Swedish (sv)
+ Display
+
+Text
+
+01998L0026 — EN — 08.04.2024 — 006.001
+
+This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document
+
+►B 
+
+	
+
+DIRECTIVE 98/26/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+of 19 May 1998
+
+on settlement finality in payment and securities settlement systems
+
+(OJ L 166 11.6.1998, p. 45)
+
+Amended by:
+
+ 
+
+	
+
+ 
+
+	
+
+Official Journal
+
+
+
+
+  No
+
+	
+
+page
+
+	
+
+date
+
+
+
+
+►M1 
+
+	
+
+DIRECTIVE 2009/44/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL  of 6 May 2009
+
+	
+
+  L 146
+
+	
+
+37
+
+	
+
+10.6.2009
+
+
+
+
+►M2 
+
+	
+
+DIRECTIVE 2010/78/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL  of 24 November 2010
+
+	
+
+  L 331
+
+	
+
+120
+
+	
+
+15.12.2010
+
+
+
+
+►M3 
+
+	
+
+REGULATION (EU) No 648/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL  of 4 July 2012
+
+	
+
+  L 201
+
+	
+
+1
+
+	
+
+27.7.2012
+
+
+
+
+►M4 
+
+	
+
+REGULATION (EU) No 909/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL  of 23 July 2014
+
+	
+
+  L 257
+
+	
+
+1
+
+	
+
+28.8.2014
+
+
+
+
+►M5 
+
+	
+
+DIRECTIVE (EU) 2019/879 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL  of 20 May 2019
+
+	
+
+  L 150
+
+	
+
+296
+
+	
+
+7.6.2019
+
+
+
+
+►M6 
+
+	
+
+REGULATION (EU) 2024/886 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL  of 13 March 2024
+
+	
+
+  L 886
+
+	
+
+1
+
+	
+
+19.3.2024
+
+
+
+
+
+
+
+▼B 
+
+DIRECTIVE 98/26/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+of 19 May 1998
+
+on settlement finality in payment and securities settlement systems
+
+
+
+
+
+SECTION I
+
+SCOPE AND DEFINITIONS
+
+Article 1
+
+The provisions of this Directive shall apply to:
+
+(a) 
+
+any system as defined in Article 2(a), governed by the law of a Member State and operating in any currency, the ►M1   euro ◄ or in various currencies which the system converts one against another;
+
+(b) 
+
+any participant in such a system;
+
+(c) 
+
+collateral security provided in connection with:
+
+— 
+participation in a system, or
+
+▼M1
+
+— 
+operations of the central banks of the Member States or the European Central Bank in the context of their function as central banks.
+
+▼B
+
+Article 2
+
+For the purpose of this Directive:
+
+(a) 
+
+‘system’ shall mean a formal arrangement:
+
+▼M1
+
+— 
+between three or more participants, excluding the system operator of that system, a possible settlement agent, a possible central counterparty, a possible clearing house or a possible indirect participant, with common rules and standardised arrangements for the clearing, whether or not through a central counterparty, or execution of transfer orders between the participants
+
+▼B
+
+— 
+governed by the law of a Member State chosen by the participants; the participants may, however, only choose the law of a Member State in which at least one of them has its head office, and
+
+▼M4
+
+— 
+designated, without prejudice to other more stringent conditions of general application laid down by national law, as a system and notified to the European Securities and Markets Authority by the Member State whose law is applicable, after that Member State is satisfied as to the adequacy of the rules of the system.
+
+▼B
+
+Subject to the conditions in the first subparagraph, a Member State may designate as a system such a formal arrangement whose business consists of the execution of transfer orders as defined in the second indent of (i) and which to a limited extent executes orders relating to other financial instruments, when that Member State considers that such a designation is warranted on grounds of systemic risk.
+
+A Member State may also on a case-by-case basis designate as a system such a formal arrangement between two participants, without counting a possible settlement agent, a possible central counterparty, a possible clearing house or a possible indirect participant, when that Member State considers that such a designation is warranted on grounds of systemic risk.
+
+▼M1
+
+An arrangement entered into between interoperable systems shall not constitute a system;
+
+▼M6
+
+(b) 
+
+‘institution’ shall mean:
+
+— 
+a credit institution as defined in Article 4(1), point (1), of Regulation (EU) No 575/2013 of the European Parliament and of the Council ( 1 ), including the entities listed in Article 2(5) of Directive 2013/36/EU;
+— 
+an investment firm as defined in Article 4(1), point (1), of Directive 2014/65/EU of the European Parliament and of the Council ( 2 ), excluding the institutions set out in Article 2(1) thereof;
+— 
+public authorities and publicly guaranteed undertakings; or
+— 
+any undertaking whose head office is outside the Union and whose functions correspond to those of the Union credit institutions or investment firms defined in the first and second indent,
+which participates in a system, and which is responsible for discharging the financial obligations arising from transfer orders within that system;
+— 
+a payment institution as defined in Article 4, point (4), of Directive (EU) 2015/2366 of the European Parliament and of the Council ( 3 ), with the exception of a natural or legal person benefitting from an exemption pursuant to Article 32 or 33 of that Directive; or
+— 
+an electronic money institution as defined in Article 2, point (1), of Directive 2009/110/EC of the European Parliament and of the Council ( 4 ), with the exception of a legal person benefitting from a waiver under Article 9 of that Directive,
+which participates in a system whose business consists of the execution of transfer orders as defined in point (i), first indent, and which is responsible for discharging the financial obligations arising from such transfer orders within that system.
+
+If a system is supervised in accordance with national legislation and only executes transfer orders as defined in point (i), second indent, as well as payments resulting from such orders, a Member State may decide that undertakings which participate in such a system and which have responsibility for discharging the financial obligations arising from transfer orders within this system, can be considered institutions, provided that at least three participants of this system are covered by the categories referred to in the first subparagraph of this point and that such a decision is warranted on grounds of systemic risk;
+
+▼M5
+
+(c) 
+
+‘central counterparty’ or ‘CCP’ shall mean a CCP as defined in point (1) of Article 2 of Regulation (EU) No 648/2012;
+
+▼B
+
+(d) 
+
+‘settlement agent’ shall mean an entity providing to institutions and/or a central counterparty participating in systems, settlement accounts through which transfer orders within such systems are settled and, as the case may be, extending credit to those institutions and/or central counterparties for settlement purposes;
+
+(e) 
+
+‘clearing house’ shall mean an entity responsible for the calculation of the net positions of institutions, a possible central counterparty and/or a possible settlement agent;
+
+▼M6
+
+(f) 
+
+‘participant’ shall mean an institution, a CCP, a settlement agent, a clearing house, a system operator or a clearing member of a CCP authorised pursuant to Article 17 of Regulation (EU) No 648/2012.
+
+According to the rules of the system, the same participant may act as a CCP, a settlement agent or a clearing house or carry out part or all of those tasks.
+
+A Member State may, for the purposes of this Directive, consider an indirect participant to be a participant where that is justified on the grounds of systemic risk, which shall, however, not limit the responsibility of the participant through which the indirect participant passes transfer orders to the system;
+
+▼M1
+
+(g) 
+
+‘indirect participant’ shall mean an institution, a central counterparty, a settlement agent, a clearing house or a system operator with a contractual relationship with a participant in a system executing transfer orders which enables the indirect participant to pass transfer orders through the system, provided that the indirect participant is known to the system operator;
+
+(h) 
+
+‘securities’ shall mean all instruments referred to in section C of Annex I to Directive 2004/39/EC;
+
+▼B
+
+(i) 
+
+‘transfer order’ shall mean:
+
+▼M1
+
+— 
+any instruction by a participant to place at the disposal of a recipient an amount of money by means of a book entry on the accounts of a credit institution, a central bank, a central counterparty or a settlement agent, or any instruction which results in the assumption or discharge of a payment obligation as defined by the rules of the system, or
+
+▼B
+
+— 
+an instruction by a participant to transfer the title to, or interest in, a security or securities by means of a book entry on a register, or otherwise;
+(j) 
+
+‘insolvency proceedings’ shall mean any collective measure provided for in the law of a Member State, or a third country, either to wind up the participant or to reorganise it, where such measure involves the suspending of, or imposing limitations on, transfers or payments;
+
+(k) 
+
+‘netting’ shall mean the conversion into one net claim or one net obligation of claims and obligations resulting from transfer orders which a participant or participants either issue to, or receive from, one or more other participants with the result that only a net claim can be demanded or a net obligation be owed;
+
+▼M1
+
+(l) 
+
+‘settlement account’ shall mean an account at a central bank, a settlement agent or a central counterparty used to hold funds or securities and to settle transactions between participants in a system;
+
+(m) 
+
+‘collateral security’ shall mean all realisable assets, including, without limitations, financial collateral referred to in Article 1(4)(a) of Directive 2002/47/EC of the European Parliament and of the Council of 6 June 2002 on financial collateral arrangements ( 5 ), provided under a pledge (including money provided under a pledge), a repurchase or similar agreement, or otherwise, for the purpose of securing rights and obligations potentially arising in connection with a system, or provided to central banks of the Member States or to the European Central Bank;
+
+▼M1
+
+(n) 
+
+‘business day’ shall cover both day and night-time settlements and shall encompass all events happening during the business cycle of a system;
+
+(o) 
+
+‘interoperable systems’ shall mean two or more systems whose system operators have entered into an arrangement with one another that involves cross-system execution of transfer orders;
+
+(p) 
+
+‘system operator’ shall mean the entity or entities legally responsible for the operation of a system. A system operator may also act as a settlement agent, central counterparty or clearing house.
+
+▼B
+
+SECTION II
+
+NETTING AND TRANSFER ORDERS
+
+Article 3
+
+▼M1
+
+1.   
+
+Transfer orders and netting shall be legally enforceable and binding on third parties even in the event of insolvency proceedings against a participant, provided that transfer orders were entered into the system before the moment of opening of such insolvency proceedings as defined in Article 6(1). This shall apply even in the event of insolvency proceedings against a participant (in the system concerned or in an interoperable system) or against the system operator of an interoperable system which is not a participant.
+
+Where transfer orders are entered into a system after the moment of opening of insolvency proceedings and are carried out within the business day, as defined by the rules of the system, during which the opening of such proceedings occur, they shall be legally enforceable and binding on third parties only if the system operator can prove that, at the time that such transfer orders become irrevocable, it was neither aware, nor should have been aware, of the opening of such proceedings.
+
+▼B
+
+2.   No law, regulation, rule or practice on the setting aside of contracts and transactions concluded before the moment of opening of insolvency proceedings, as defined in Article 6(1) shall lead to the unwinding of a netting.
+3.   The moment of entry of a transfer order into a system shall be defined by the rules of that system. If there are conditions laid down in the national law governing the system as to the moment of entry, the rules of that system must be in accordance with such conditions.
+
+▼M1
+
+4.   In the case of interoperable systems, each system determines in its own rules the moment of entry into its system, in such a way as to ensure, to the extent possible, that the rules of all interoperable systems concerned are coordinated in this regard. Unless expressly provided for by the rules of all the systems that are party to the interoperable systems, one system's rules on the moment of entry shall not be affected by any rules of the other systems with which it is interoperable.
+
+▼M1
+
+Article 4
+
+Member States may provide that the opening of insolvency proceedings against a participant or a system operator of an interoperable system shall not prevent funds or securities available on the settlement account of that participant from being used to fulfil that participant4s obligations in the system or in an interoperable system on the business day of the opening of the insolvency proceedings. Member States may also provide that such a participant’s credit facility connected to the system be used against available, existing collateral security to fulfil that participant’s obligations in the system or in an interoperable system.
+
+▼B
+
+Article 5
+
+A transfer order may not be revoked by a participant in a system, nor by a third party, from the moment defined by the rules of that system.
+
+▼M1
+
+In the case of interoperable systems, each system determines in its own rules the moment of irrevocability, in such a way as to ensure, to the extent possible, that the rules of all interoperable systems concerned are coordinated in this regard. Unless expressly provided for by the rules of all the systems that are party to the interoperable systems, one system's rules on the moment of irrevocability shall not be affected by any rules of the other systems with which it is interoperable.
+
+▼B
+
+SECTION III
+
+PROVISIONS CONCERNING INSOLVENCY PROCEEDINGS
+
+Article 6
+
+1.   For the purpose of this Directive, the moment of opening of insolvency proceedings shall be the moment when the relevant judicial or administrative authority handed down its decision.
+2.   When a decision has been taken in accordance with paragraph 1, the relevant judicial or administrative authority shall immediately notify that decision to the appropriate authority chosen by its Member State.
+
+▼M2
+
+3.   The Member State referred to in paragraph 2 shall immediately notify the European Systemic Risk Board, other Member States and the European Supervisory Authority (European Securities and Markets Authority) (hereinafter ‘ESMA’), established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council ( 6 ).
+
+▼M1
+
+Article 7
+
+Insolvency proceedings shall not have retroactive effects on the rights and obligations of a participant arising from, or in connection with, its participation in a system before the moment of opening of such proceedings as defined in Article 6(1). This shall apply, inter alia, as regards the rights and obligations of a participant in an interoperable system, or of a system operator of an interoperable system which is not a participant.
+
+▼B
+
+Article 8
+
+In the event of insolvency proceedings being opened against a participant in a system, the rights and obligations arising from, or in connection with, the participation of that participant shall be determined by the law governing that system.
+
+SECTION IV
+
+INSULATION OF THE RIGHTS OF HOLDERS OF COLLATERAL SECURITY FROM THE EFFECTS OF THE INSOLVENCY OF THE PROVIDER
+
+▼M1
+
+Article 9
+
+1.   
+
+The rights of a system operator or of a participant to collateral security provided to them in connection with a system or any interoperable system, and the rights of central banks of the Member States or the European Central Bank to collateral security provided to them, shall not be affected by insolvency proceedings against:
+
+(a) 
+
+the participant (in the system concerned or in an interoperable system);
+
+(b) 
+
+the system operator of an interoperable system which is not a participant;
+
+(c) 
+
+a counterparty to central banks of the Member States or the European Central Bank; or
+
+(d) 
+
+any third party which provided the collateral security.
+
+Such collateral security may be realised for the satisfaction of those rights.
+
+▼M3
+
+Where a system operator has provided collateral security to another system operator in connection with an interoperable system, the rights of the providing system operator to that collateral security shall not be affected by insolvency proceedings against the receiving system operator.
+
+▼M1
+
+2.   Where securities including rights in securities are provided as collateral security to participants, system operators or to central banks of the Member States or the European Central Bank as described in paragraph 1, and their right or that of any nominee, agent or third party acting on their behalf with respect to the securities is legally recorded on a register, account or centralised deposit system located in a Member State, the determination of the rights of such entities as holders of collateral security in relation to those securities shall be governed by the law of that Member State.
+
+▼B
+
+SECTION V
+
+FINAL PROVISIONS
+
+▼M1
+
+Article 10
+
+▼M2
+
+1.   
+
+Member States shall specify the systems, and the respective system operators, which are to be included in the scope of this Directive and shall notify them to ESMA and inform it of the authorities chosen in accordance with Article 6(2). ESMA shall publish that information on its website.
+
+▼M1
+
+The system operator shall indicate to the Member State whose law is applicable the participants in the system, including any possible indirect participants, as well as any change in them.
+
+In addition to the indication provided for in the second subparagraph, Member States may impose supervision or authorisation requirements on systems which fall under their jurisdiction.
+
+An institution shall, on request, inform anyone with a legitimate interest of the systems in which it participates and provide information about the main rules governing the functioning of those systems.
+
+2.   
+
+A system designated prior to the entry into force of national provisions implementing Directive 2009/44/EC of the European Parliament and of the Council of 6 May 2009 amending Directive 98/26/EC on settlement finality in payment and securities settlement systems and Directive 2002/47/EC on financial collateral arrangements as regards linked systems and credit claims ( 7 ) shall continue to be designated for the purposes of this Directive.
+
+A transfer order which enters a system before the entry into force of national provisions implementing Directive 2009/44/EC, but is settled thereafter shall be deemed to be a transfer order for the purposes of this Directive.
+
+▼M2
+
+Article 10a
+
+1.   The competent authorities shall cooperate with ESMA for the purposes of this Directive, in accordance with Regulation (EU) No 1095/2010.
+2.   The competent authorities shall provide, without delay, ESMA with all the information necessary to carry out its duties, in accordance with Article 35 of Regulation (EU) No 1095/2010.
+
+▼B
+
+Article 11
+
+1.   Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 11 December 1999. They shall forthwith inform the Commission thereof.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.
+
+2.   Member States shall communicate to the Commission the text of the provisions of domestic law which they adopt in the field governed by this Directive. In this Communication, Member States shall provide a table of correspondence showing the national provisions which exist or are introduced in respect of each Article of this Directive.
+
+▼M4
+
+3.   By 18 March 2015, Member States shall adopt and publish and communicate to the Commission measures necessary to comply with the third indent of the first subparagraph of point (a) of Article 2.
+
+▼B
+
+Article 12
+
+No later than three years after the date mentioned in Article 11(1), the Commission shall present a report to the European Parliament and the Council on the application of this Directive, accompanied where appropriate by proposals for its revision.
+
+▼M5
+
+Article 12a
+
+By 28 June 2021, the Commission shall review how Member States apply this Directive to their domestic institutions which participate directly in systems governed by the law of a third country and to collateral security provided in connection with participation in such systems. The Commission shall assess in particular the need for any further amendments to this Directive with regard to systems governed by the law of a third country. The Commission shall submit a report thereon to the European Parliament and the Council, accompanied where appropriate by proposals for revision of this Directive.
+
+▼B
+
+Article 13
+
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.
+
+Article 14
+
+This Directive is addressed to the Member States.
+
+
+
+
+( 1 ) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).
+
+( 2 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+( 3 ) Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (OJ L 337, 23.12.2015, p. 35).
+
+( 4 ) Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC (OJ L 267, 10.10.2009, p. 7).
+
+( 5 )  OJ L 168, 27.6.2002, p. 43.
+
+( 6 )  OJ L 331, 15.12.2010, p. 84.
+
+( 7 )  OJ L 146, 10.6.2009, p. 37.
+
+Top
+This site is managed by the Publications Office of the European Union
+Need help?
+Help pages
+Contact
+Sitemap
+Legal
+Legal notice
+Cookies policy
+Accessibility
+Privacy statement
+Information
+About EUR-Lex
+Newsletter
+Useful links
+Other services
+European Data
+EU tenders
+EU research results
+EU Whoiswho
+EU publications
+N-Lex
+EU Law Tracker
+Discover more on europa.eu
+Contact the EU
+Call us 00 800 6 7 8 9 10 11
+Use other telephone options
+Write to us via our contact form
+Meet us at one of the EU centres
+Social media
+Search for EU social media channels
+Legal
+Languages on our websites
+Privacy policy
+Legal notice
+Cookies
+EU institutions
+European Parliament
+European Council
+Council of the European Union
+European Commission
+Court of Justice of the European Union (CJEU)
+European Central Bank (ECB)
+European Court of Auditors
+European External Action Service (EEAS)
+European Economic and Social Committee
+European Committee of Regions (CoR)
+European Investment Bank
+European Ombudsman
+European Data Protection Supervisor (EDPS)
+European Data Protection Board
+European Personnel Selection Office
+Publications Office of the European Union
+Agencies

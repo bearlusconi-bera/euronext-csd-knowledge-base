@@ -1,0 +1,26 @@
+# Operational Notices
+
+Source: https://www.euronext.com/en/csd/milan/news-initiatives/operational-notices
+
+Retrieved: 2026-09-11
+
+Operational Notices
+Filters
+Filters
+Reset
+Title
+From
+To
+Showing 1-5 of 1176 Results
+Released
+Title
+11/09/2026
+Update Standard for XTRM Users for Vorvel, Certificates TLX and IPO markets
+10/09/2026
+MT-X Access Enabling TLS 1.3 protocol in the PRODUCTION environment
+01/09/2026
+CA4U – MyEuronext Demo on DVCA Creation
+25/08/2026
+CA4U – Update to the Terms & Conditions of the MyEuronext Access Form
+07/08/2026
+T2S Release R2026.NOV and binding XSDs

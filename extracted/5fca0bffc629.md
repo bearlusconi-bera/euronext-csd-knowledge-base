@@ -1,0 +1,53 @@
+# Euronext Securities Oslo
+
+Source: https://www.euronext.com/en/post-trade/euronext-securities/oslo
+
+Retrieved: 2026-09-11
+
+Euronext Securities Oslo
+Login to VPS Portals
+Euronext Securities Oslo is part of the network of Euronext CSDs, channelling investments into local economies and supporting European capital markets.
+Euronext Securities offers a safe and efficient market infrastructure to support the business requirements of investors as well as competitive and tailored solutions to help issuers meet their funding needs and reach a wide base of local and international investors.
+Euronext Securities covers all stages of the value chain, from pre-settlement, settlement, custody to a complete range of asset services.
+The introduction of a single CSD brand demonstrates our commitment to harmonise systems and processes across our CSDs. Local expertise and presence will be kept at the core of our positioning, ensuring that we stay close to you as a client.
+Become a part of Euronext Securities Oslo
+Large Companies
+WELL PROVEN INFRASTRUCTURE
+Companies that are planning an IPO or having challenges executing all their obligations towards their investors (i.e dividend payments and other corporate actions) should look to a CSD registration.
+Become registered
+SME Companies
+GROW YOUR BUSINESS
+Has your company grown to the point where you need to attract new investors in order to grow even further? Are there too many investors to handle? Has your tax reporting become a nuisance? We can make this easy and time-efficient for you.
+Become registered
+International Companies
+EXPAND TO OTHER MARKETS
+Foreign companies often want or need to attract new investors in the Norwegian market. Euronext Securities Oslo can help make the transition into a new market efficient and smooth.
+Become registered
+Our services
+Get Connected
+By registering your shares with Euronext Securities Oslo, your company will automatically be connected to the European capital markets and enjoy all the benefits from our entire services offering, for both the company and its shareholders.
+Services
+English
+Our Products
+Data Services
+DATA AND INSIGHT ARE FUNDAMENTAL FOR KNOWLEDGE AND DECISION-MAKING
+Investing in data will drive your business performance.
+Keep your focus on capitalising your business, and let us provide the data and insight you need to create value-added services for your customers.
+Read more
+Tax Services
+TAX IS OUR BUSINESS, SO YOU CAN FOCUS ON YOURS
+Great accomplishments are within reach when you can spend your time doing what you’re good at. At Euronext Securities Oslo, we are good at tax.
+In fact, so good that major financial service providers in the Nordics are letting us handle their tax reporting.
+Read more
+News and Insight
+A Nordic view of capital markets
+The Nordic capital markets have long been recognised for their strong digital infrastructure, high…10/09/2026
+Preparing for T+1
+Last week, on 2 and 3 September, industry leaders gathered at PostTrade 360° in Stockholm to…10/09/2026
+Protecting yourself against fraudulent…
+Protecting investors and maintaining trust in financial markets are central to Euronext's mission.…24/07/2026
+All Euronext Securities Oslo news
+Contact Us
+Contact and adress information:
+Euronext Securities OsloTollbugata 20152 OsloNorway
+ESOSL@euronext.com

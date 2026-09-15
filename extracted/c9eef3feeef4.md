@@ -1,0 +1,38 @@
+# Board of Directors of Euronext Securities Oslo
+
+Source: https://www.euronext.com/en/csd/oslo/about-us/corporate-governance/board-directors-euronext-securities-oslo
+
+Retrieved: 2026-09-11
+
+Board of Directors of Euronext Securities Oslo
+Audun Bø, Chairman
+Audun Bø (born 1962) was elected Chairman of the Board of Directors of Euronext Securities Copenhagen and Oslo in September 2024.
+From 2017 to 2022, Audun Bø was CEO of Euronext Securities Oslo (ES-OSL). He also served as a board member at Verdipapirsentralen ASA (VPS) from 2007 to 2016 and was Chairman of the Board from 2016 to 2017.
+From 1997 to 2001, Audun Bø was Head of DNB Markets and part of the Group Executive Management at DNB. From 2002 to 2010, he was with Orkla ASA, serving as CEO of the asset management company Orkla Finans and Elkem Energi Handel. His last management position before joining Euronext Securities was as Executive Vice President and part of the Group Executive Management at Eika Gruppen AS from 2011 to 2017, where he managed commercial activities, including insurance and asset management.
+Audun Bø has extensive board experience through several subsidiaries and partly owned companies in Orkla, DNB, Eika, and ESO. In addition, he has been a board member of the fintech company Payr AS and Chair of the Board at ZTL Payment Solutions AS.
+Today, Audun Bø is Chairman of Nordic Credit Rating AS and Euronext Securities Oslo, in addition to Euronext Securities Copenhagen.
+Audun Bø holds a Siviløkonom degree from Handelshøyskolen in Gothenburg and has completed management and board training at IMD and the Scandinavian Executive Institute/Insead.
+Pierre Davoust
+Pierre Davoust joined Euronext in 2019 as Head of Business Development. Pierre is a Non-Executive Director of Tokeny Solutions, a Luxembourg-based tokenization venture.
+Before joining Euronext, Pierre was Head of Markets at SETL, a UK-based blockchain company focusing on financial services, Chief Executive Officer of Iznes, a mutual fund distribution platform and Non-Executive Director of ID2S, a blockchain-based Central Securities Depository controlled by Orange.
+Prior to that, Pierre held various positions at the French Treasury, and served in particular as deputy head of financial markets.
+Pierre holds Master’s degrees from Ecole Polytechnique, Ecole des Ponts ParisTech and Paris School of Economics.
+Ida Espolin Johnson
+Ida Espolin Johnson was appointed member of the Board of Directors of Euronext Securities Oslo in March 2022.
+She has been practicing as a lawyer since 1991 and her current position is as lawyer and partner in Law firm Haavind in Oslo. From 2005 to 2012 she was employed in KLP, Norway´s largest pension insurance company as EVP and part of the Group management.
+She has held several board- and other positions in Norwegian finance institutions, and has also been a member of the board of Verdipapirsentralen before the merger with Oslo Stock Exchange in 2008.
+She has been a member of Euronext Securities Oslo’s control committee since 2017. Today she also holds a positions as board member of three of the largest public pension funds in Norway and is a board member of Kommunalbanken AS, the Norwegian Agency providing funding to the Norwegian local government sector.
+Isabel Ucha
+Isabel Ucha was appointed member of the Board of Directors of Euronext Securities Oslo in September 2019.
+She is also member of the Managing Board of Euronext NV and the CEO of Euronext Lisbon and Interbolsa (the Portuguese CSD). Before joining Euronext in 2008, she accumulated long professional experience in several private companies and government related jobs, with a strong focus on finance and economics. Isabel Ucha served as an economic advisor for the Prime Minister of Portugal for 4 years, headed the Issuing and Markets Unit for the Portuguese Debt Management (IGCP), held several positions at CMVM, the Portuguese securities regulator, and was a managing partner of a consultancy firm for around 7 years.
+Isabel Ucha holds a Master Degree in Finance from London Business School and a Master Degree in Economics from NOVA School of Business and Economics. She has also maintained an academic career for more than 30 years, lecturing several Economics and Finance courses.
+Åsmund Skår
+Åsmund Skår (born 1959) was elected member of the Board of Directors of Euronext Securities Oslo in May 2016.
+Skaar holds a Master’s Degree in Business and Economics from the Norwegian School of Economics in Bergen. During the years 1990-2015 he has held several executive positions with Sparebanken NOR/Gjensidige NOR/DNB, including the positions as executive vice president and head of the retail area, head of energy in the US/Canada and as CEO of the bank’s subsidiary in Latvia. During the same period he has also been a board member of several DNB subsidiaries. Skaar has previously worked in the finance department at Statoil in Stavanger.
+Skår is currently working as an independent consultant and he is chairing the Boards of Directors of Pareto Bank ASA and Pareto Wealth Management AS.
+Julie Marie Strandskogen, Employee representative Euronext Securities Oslo
+Julie Marie Strandskogen has been with Euronext Securities Oslo since 2019.
+Julie is part of the Custody Product team in Euronext Securities. Working on the strategic agenda and objectives for the Custody area. Prior to this Julie held various positions in Nordea within the Sub Custody area. Most recently as Senior Client Relationship Manager.
+Dag Håvar Mork, Employee representative Euronext Securities Oslo
+Dag Håvar Mork (born 1985) has been with Euronext Securities Oslo since 2021 and is a Product Advisor in Business Operations where he is part of the Norwegian tax team.
+He oversees the annual tax reporting in ES-OSL and is a tax application owner. Dag Håvar is also involved in the maintenance and development of Euronext Securities’ tax services. Prior to joining Euronext Securities Oslo, he was in Nordea, working with securities settlement, initially on an operational level and later in maintenance and development projects across the Nordics. Dag Håvar holds a Master’s degree in finance from Toulouse School of Management and a Bachelor’s degree in economics from Toulouse School of Economics. Dag Håvar was elected employee representative in 2023.

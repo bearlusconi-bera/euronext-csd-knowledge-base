@@ -1,0 +1,15 @@
+# Regulatory Landscape
+
+Source: https://www.euronext.com/en/post-trade/euronext-securities/milan/regulatory-landscape
+
+Retrieved: 2026-09-11
+
+Regulatory Landscape
+European institutions emphasize the role of market infrastructures in strengthening the resilience and integration of capital markets.
+Euronext Securities Milan contributes to the implementation of the agenda of the Capital Markets Union by actively participating in discussions with the European Commission and the Supervisory Authorities of financial markets to support the harmonization and efficiency processes of Post Trade.
+Euronext Securities Milan constantly monitors the developments in the regulatory landscape and works on dossiers that have a direct impact on the activities of the central depository as well as those of clients, who look to us as a partner in finding solutions to their regulatory requirements.
+Regulatory Framework
+CSDR
+Shareholder Rights Direc…
+CMH - Corporate Actions …
+Post Trade Task Force - …

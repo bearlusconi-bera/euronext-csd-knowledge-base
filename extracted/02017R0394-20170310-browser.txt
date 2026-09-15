@@ -1,0 +1,9205 @@
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+An official website of the European Union
+How do you know?
+Skip to main content
+My EUR-Lex
+English
+EUR-Lex
+Access to European Union law
+<a href="https://eur-lex.europa.eu/content/help/eurlex-content/experimental-features.html" target="_blank">More about the experimental features corner</a>
+	Experimental features 
+You are here
+EUROPA 
+EUR-Lex home 
+EUR-Lex - 02017R0394-20170310 - EN
+Help
+ Print
+MENU
+Quick search
+Use quotation marks to search for an "exact phrase". Append an asterisk (*) to a search term to find variations of it (transp*, 32019R*). Use a question mark (?) instead of a single character in your search term to find variations of it (ca?e finds case, cane, care).
+ 
+  Search tips
+Need more search options? Use the Advanced search
+
+Document 02017R0394-20170310
+
+Text
+Document information
+Up-to-date link
+Permanent link
+Download notice
+Save to My items
+  Table of contents
+ Hide consolidated versions
+10/03/2017 
+Legal act
+
+Consolidated text: Regolament ta' Implimentazzjoni tal-Kummissjoni (UE) 2017/394 tal- 11 ta' Novembru 2016 li jistabbilixxi standards tekniċi ta' implimentazzjoni dwar il-formoli u l-proċeduri għall-awtorizzazzjoni, ir-rieżami u l-evalwazzjoni tad-depożitorji ċentrali tat-titoli, għall-kooperazzjoni bejn l-awtoritajiet tal-Istat Membru tad-domiċilju u tal-Istat Membru ospitanti, għall-konsultazzjoni tal-awtoritajiet involuti fl-awtorizzazzjoni biex jiġu pprovduti servizzi anċillari ta' tip bankarju, għal aċċess li jinvolvu depożitorji ċentrali tat-titoli, u fir-rigward tal-format tar-rekords li għandhom jinżammu mid-depożitarji tat-titoli ċentrali skont ir-Regolament (UE) Nru 909/2014 tal-Parlament Ewropew u tal-Kunsill (Test b'rilevanza għaż-ŻEE)
+
+Access initial legal act(
+
+In force
+
+)
+
+ELI: http://data.europa.eu/eli/reg_impl/2017/394/2017-03-10
+
+ Expand all
+ Collapse all
+
+ 
+Languages and formats available
+
+Language
+	
+BG
+	
+ES
+	
+CS
+	
+DA
+	
+DE
+	
+ET
+	
+EL
+	
+EN
+	
+FR
+	
+GA
+	
+HR
+	
+IT
+	
+LV
+	
+LT
+	
+HU
+	
+MT
+	
+NL
+	
+PL
+	
+PT
+	
+RO
+	
+SK
+	
+SL
+	
+FI
+	
+SV
+
+HTML	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+PDF	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+ 
+Multilingual display
+
+Language 1
+Please choose
+Maltese (mt)
+ 
+Language 2
+Please choose
+Maltese (mt)
+ 
+Language 3
+Please choose
+Maltese (mt)
+ Display
+
+Text
+
+  The document is unavailable in your User interface language.
+
+02017R0394 — MT — 10.03.2017 — 000.001
+
+Dan it-test hu maħsub purament bħala għodda ta’ dokumentazzjoni u m’għandu l-ebda effett legali. L-istituzzjonijiet tal-Unjoni m'għandhom l-ebda responsabbiltà għall-kontenut tiegħu. Il-verżjonijiet awtentiċi tal-atti rilevanti, inklużi l-preamboli tagħhom, huma dawk ippubblikati fil-Ġurnal Uffiċjali tal-Unjoni Ewropea u disponibbli f’EUR-Lex. Dawk it-testi uffiċjali huma aċċessibbli direttament permezz tal-links inkorporati f’dan id-dokument
+
+►B 
+
+	
+
+REGOLAMENT TA' IMPLIMENTAZZJONI TAL-KUMMISSJONI (UE) 2017/394
+
+tal-11 ta' Novembru 2016
+
+li jistabbilixxi standards tekniċi ta' implimentazzjoni dwar il-formoli u l-proċeduri għall-awtorizzazzjoni, ir-rieżami u l-evalwazzjoni tad-depożitorji ċentrali tat-titoli, għall-kooperazzjoni bejn l-awtoritajiet tal-Istat Membru tad-domiċilju u tal-Istat Membru ospitanti, għall-konsultazzjoni tal-awtoritajiet involuti fl-awtorizzazzjoni biex jiġu pprovduti servizzi anċillari ta' tip bankarju, għal aċċess li jinvolvu depożitorji ċentrali tat-titoli, u fir-rigward tal-format tar-rekords li għandhom jinżammu mid-depożitarji tat-titoli ċentrali skont ir-Regolament (UE) Nru 909/2014 tal-Parlament Ewropew u tal-Kunsill
+
+(Test b'rilevanza għaż-ŻEE)
+
+(ĠU L 065 10.3.2017, p. 145)
+
+
+
+
+Ikkoreġut b'
+
+►C1 
+
+	
+
+Rettifika, ĠU L 073, 18.3.2017, p.  38 (2017/394)
+
+
+
+
+
+
+
+▼B 
+
+REGOLAMENT TA' IMPLIMENTAZZJONI TAL-KUMMISSJONI (UE) 2017/394
+
+tal-11 ta' Novembru 2016
+
+li jistabbilixxi standards tekniċi ta' implimentazzjoni dwar il-formoli u l-proċeduri għall-awtorizzazzjoni, ir-rieżami u l-evalwazzjoni tad-depożitorji ċentrali tat-titoli, għall-kooperazzjoni bejn l-awtoritajiet tal-Istat Membru tad-domiċilju u tal-Istat Membru ospitanti, għall-konsultazzjoni tal-awtoritajiet involuti fl-awtorizzazzjoni biex jiġu pprovduti servizzi anċillari ta' tip bankarju, għal aċċess li jinvolvu depożitorji ċentrali tat-titoli, u fir-rigward tal-format tar-rekords li għandhom jinżammu mid-depożitarji tat-titoli ċentrali skont ir-Regolament (UE) Nru 909/2014 tal-Parlament Ewropew u tal-Kunsill
+
+(Test b'rilevanza għaż-ŻEE)
+
+
+
+
+
+KAPITOLU I
+
+AWTORIZZAZZJONI TA' CSD
+
+(l-Artikolu 17(10) tar-Regolament (UE) Nru 909/2014)
+
+Artikolu 1
+
+Formoli u proċeduri standard għall-applikazzjoni
+
+1.  Depożitorju ċentrali tat-titoli li japplika għal awtorizzazzjoni skont l-Artikolu 17 tar-Regolament (UE) Nru 909/2014 (“is-CSD applikant”) għandu jissottometti l-applikazzjoni tiegħu fuq mezz durabbli kif definit fil-punt (g) tal-Artikolu 1 tar-Regolament Delegat tal-Kummissjoni (UE) 2017/392 ( 1 ), billi jimla l-formoli u l-mudelli standard stabbiliti fl-Anness I.
+
+2.  Is-CSD applikant għandu jipprovdi lill-awtorità kompetenti lista tad-dokumenti kollha sottomessi bħala parti mill-applikazzjoni tiegħu għal awtorizzazzjoni li tidentifika l-informazzjoni li ġejja:
+
+(a) in-numru ta' referenza uniku ta' kull dokument;
+
+(b) it-titolu ta' kull dokument;
+
+(c) il-kapitolu, it-taqsima jew il-paġna ta' kull dokument fejn tinsab l-informazzjoni rilevanti.
+
+3.  L-informazzjoni kollha għandha tiġi sottomessa fil-lingwa indikata mill-awtorità kompetenti. L-awtorità kompetenti tista' titlob lis-CSD biex jippreżenta l-istess informazzjoni f'lingwa li hi komuni fid-dinja tal-finanzi internazzjonali.
+
+4.  CSD applikant li jkollu xi waħda mir-relazzjonijiet imsemmija fl-Artikolu 17(6) tar-Regolament (UE) Nru 909/2014 għandu jipprovdi lill-awtorità kompetenti b'lista ta' awtoritajiet kompetenti li għandhom jiġu kkonsultati, inklużi l-persuni ta' kuntatt f'dawk l-awtoritajiet.
+
+
+
+
+
+KAPITOLU II
+
+RIEŻAMI U EVALWAZZJONI
+
+(l-Artikolu 22(11) tar-Regolament (UE) Nru 909/2014)
+
+Artikolu 2
+
+Formoli u mudelli standard biex tingħata l-informazzjoni
+
+1.  Is-CSD għandu jipprovdi l-informazzjoni msemmija fl-Artikolu 40 tar-Regolament Delegat (UE) 2017/392 fuq mezz durabbli.
+
+2.  L-informazzjoni pprovduta minn CSD għandha tiġi ppreżentata fil-formoli standard ipprovduti fl-Anness II u fejn rilevanti fil-formola tat-Tabella 2 fl-Anness I. Meta tintuża l-formola li tidher fit-Tabella 2 tal-Anness I, għandu jkollha kolonna addizzjonali li tispeċifika l-kapitolu, it-taqsima jew il-paġna tad-dokument fejn ikunu ddaħħlu bidliet matul il-perjodu ta' rieżami u kolonna addizzjonali oħra biex jiġu jinklużi xi spjegazzjonijiet fir-rigward tal-bidliet li jkunu saru matul il-perjodu ta' rieżami.
+
+Artikolu 3
+
+Proċedura biex tingħata l-informazzjoni
+
+1.  L-awtorità kompetenti għandha tikkomunika lis-CSD l-informazzjoni li ġejja:
+
+(a) il-frekwenza u l-profondità tar-rieżami u l-evalwazzjoni kif imsemmi fl-Artikolu 22(4) tar-Regolament (UE) Nru 909/2014;
+
+(b) id-dati tal-bidu u tat-tmiem tal-perjodu ta' rieżami msemmi fl-Artikolu 40 tar-Regolament Delegat (UE) 2017/392.
+
+(c) il-lingwa li biha għandha tiġi sottomessal-informazzjoni kollha. L-awtorità kompetenti tista' titlob lis-CSD biex jippreżenta l-istess informazzjoni f'lingwa li hi komuni fid-dinja tal-finanzi internazzjonali.
+
+L-awtorità kompetenti għandha tikkomunika lis-CSD kwalunkwe bidla fl-informazzjoni msemmija fl-ewwel subparagrafu, inkluż it-talba għal sottomissjoni aktar frekwenti ta' informazzjoni speċifika, mingħajr dewmien żejjed.
+
+2.  Is-CSD għandu jipprovdi l-informazzjoni msemmija fl-Artikolu 40(2) tar-Regolament Delegat (UE) 2017/392 fi żmien xahrejn mit-tmiem tal-perjodu ta' rieżami.
+
+Artikolu 4
+
+Għoti ta' informazzjoni lill-awtoritajiet imsemmija fl-Artikolu 22(7) tar-Regolament (UE) Nru 909/2014]
+
+1.  Meta jitlestew ir-rieżami u l-evalwazzjoni, l-awtorità kompetenti għandha tikkomunika, fi żmien tlett ijiem tax-xogħol, lill-awtoritajiet imsemmija fl-Artikolu 22(7) tar-Regolament Nru (UE) Nru 909/2014 ir-riżultati tagħha kif speċifikat fl-Artikolu 44 tar-Regolament Delegat (UE) 2017/392.
+
+2.  Meta r-rieżami u l-evalwazzjoni jagħtu lok għal azzjoni ta' rimedju jew penali, l-awtorità kompetenti għandha tgħarraf lill-awtoritajiet imsemmija fil-paragrafu 1 fi żmien tlett ijiem tax-xogħol wara li tkun ittieħdet dik il-miżura.
+
+3.  L-awtoritajiet imsemmija fil-paragrafu 1 għandhom jaqblu dwar il-lingwa operazzjonali għall-iskambju tal-informazzjoni u, fejn ma jintlaħaqx ftehim, il-lingwa operazzjonali għandha tkun lingwa li normalment tintuża fid-dinja tal-finanzi internazzjonali.
+
+Artikolu 5
+
+L-iskambju tal-informazzjoni bejn l-awtoritajiet kompetenti
+
+1.  Qabel kull rieżami u evalwazzjoni, fis-superviżjoni ta' CSD li jkollu r-relazzjonijiet imsemmija fil-punti (a), (b) u (c) tal-Artikolu 17(6) tar-Regolament (UE) Nru 909/2014, l-awtorità kompetenti għandha taġġorna l-lista msemmija fl-Artikolu 1(4) ta' dan ir-Regolament dwar l-awtoritajiet kompetenti l-oħra li jridu jiġu involuti fir-rieżami u fl-evalwazzjoni, inklużi l-persuni ta' kuntatt f'dawk l-awtoritajiet, u għandha tikkondividi din il-lista ma' dawk l-awtoritajiet kollha.
+
+2.  L-awtorità kompetenti għandha tipprovdi l-informazzjoni msemmija fl-Artikolu 45(1) tar-Regolament Delegat (UE) 2017/392 lill-awtoritajiet kompetenti inklużi fil-lista msemmija fil-paragrafu 1 fi żmien 30 ġurnata tax-xogħol mid-data li fiha ssir disponibbli dik l-informazzjoni.
+
+3.  Fi żmien 30 jum ta' xogħol mill-iskadenza msemmija fil-paragrafu 2, l-awtoritajiet kompetenti inklużi fil-lista msemmija fil-paragrafu 1 għandhom jibagħtu l-valutazzjoni tagħhom dwar dan lill-awtorità kompetenti li tkun ipprovdiet l-informazzjoni.
+
+4.  Fi żmien tliet ijiem minn meta jitlestew ir-rieżami u l-evalwazzjoni msemmija fl-Artikolu 22(1) tar-Regolament (UE) Nru 909/2014, kif notifikata mill-awtorità kompetenti lill-awtoritajiet kompetenti fil-lista msemmija fil-paragrafu 1, l-awtorità kompetenti għandha tikkomunika lill-awtoritajiet kompetenti fil-lista msemmija fil-paragrafu 1 ir-riżultati tagħha kif speċifikat fl-Artikolu 45(2) tar-Regolament Delegat (UE) 2017/392.
+
+5.  L-awtoritajiet imsemmija fil-paragrafi 1 sa 4 għandhom jaqblu dwar il-lingwa operazzjonali għall-iskambju tal-informazzjoni u, fejn ma jintlaħaqx ftehim, il-lingwa operazzjonali għandha tkun lingwa li normalment tintuża fid-dinja tal-finanzi internazzjonali.
+
+
+
+
+
+KAPITOLU III
+
+ARRANĠAMENTI TAL-KOOPERAZZJONI
+
+(l-Artikolu 24(8) tar-Regolament (UE) Nru 909/2014)
+
+Artikolu 6
+
+Ir-rekwiżiti ġenerali għall-arranġamenti tal-kooperazzjoni
+
+1.  L-awtorità kompetenti tal-Istat Membru tad-domiċilju u l-awtorità kompetenti tal-Istat Membru ospitanti għandhom jaqblu dwar il-lingwa operazzjonali tal-attivitajiet ta' kooperazzjoni tagħhom u, fejn ma jintlaħaqx ftehim, il-lingwa operazzjonali għandha tkun lingwa li normalment tintuża fid-dinja tal-finanzi internazzjonali.
+
+2.  Kull awtorità kompetenti għandha taħtar u taqsam mal-awtoritajiet kompetenti l-oħra d-dettalji ta' persuna ta' kuntatt primarja u oħra sekondarja u kwalunkwe bidla fihom.
+
+Artikolu 7
+
+Is-superviżjoni ta' fergħa
+
+1.  Meta CSD awtorizzat fi Stat Membru jkun waqqaf fergħa fi Stat Membru ieħor, l-awtorità kompetenti tal-Istat Membru tad-domiċilju u l-awtorità kompetenti tal-Istat Membru ospitanti għandhom jużaw il-formoli li jidhru fit-Tabella 1 tal-Anness III għall-iskambju tal-informazzjoni.
+
+2.  Meta awtorità kompetenti titlob informazzjoni addizzjonali minn awtorità kompetenti oħra, hija għandha tindika lill-awtorità kompetenti l-oħra l-attivitajiet tas-CSD li jiġġustifikaw din it-talba.
+
+Artikolu 8
+
+Spezzjonijiet fuq il-post fil-fergħa
+
+1.  Qabel ma jwettqu l-ispezzjonijiet fuq il-post imsemmija fil-paragrafu 1 tal-Artikolu 24 tar-Regolament (UE) Nru 909/2014, l-awtoritajiet kompetenti tal-Istat Membru tad-domiċilju u tal-Istat Membru ospitanti għandhom jilħqu fehim komuni dwar it-termini u l-ambitu tal-ispezzjoni fuq il-post, inklużi dwar dan:
+
+(a) ir-rwoli u r-responsabbiltajiet rispettivi;
+
+(b) ir-raġunijiet għal spezzjoni fuq il-post.
+
+2.  L-awtoritajiet kompetenti tal-Istat Membru tad-domiċilju u tal-Istat Membru ospitanti għandhom jgħarrfu lil xulxin bi spezzjoni fuq il-post tal-fergħa ta' CSD fi Stat Membru ospitanti skont il-paragrafu 1 billi jużaw il-formola li tidher fit-Tabella 2 tal-Anness III.
+
+Artikolu 9
+
+Skambju ta' informazzjoni dwar l-attivitajiet tas-CSD fl-Istat Membru ospitanti
+
+1.  It-talba għal informazzjoni li tissemma' fl-Artikolu 24(3) tar-Regolament (UE) Nru 909/2014 għandha tiġi indirizzata permezz ta' ittra jew posta elettronika lill-awtorità kompetenti tal-Istat Membru tad-domiċilju u għandha tinkludi spjegazzjoni dwar ir-rilevanza ta' din l-informazzjoni għall-attivitajiet ta' dak is-CSD fl-Istat Membru ospitanti.
+
+2.  L-awtorità kompetenti tal-Istat Membru tad-domiċilju għandha, mingħajr dewmien bla bżonn, tikkomunika l-informazzjoni msemmija fl-Artikolu 24(3) tar-Regolament (UE) Nru 909/2014 permezz ta' ittra jew tal-posta elettronika bl-użu tal-formola fit-Tabella 3 tal-Anness III.
+
+Artikolu 10
+
+Ksur tal-obbligi min-naħa ta' CSD
+
+1.  Għall-finijiet tal-ewwel subparagrafu tal-Artikolu 24(5) tar-Regolament (UE) Nru 909/2014, l-awtorità kompetenti tal-Istat Membru ospitanti għandha tirreferi s-sejbiet tagħha dwar ksur minn CSD lill-awtorità kompetenti tal-Istat Membru tad-domiċilju u lill-ESMA permezz tal-formola li tidher fit-Tabella 4 tal-Anness III.
+
+2.  L-awtorità kompetenti tal-Istat Membru tad-domiċilju għandha tirrieżamina s-sejbiet ippreżentati mill-awtorità kompetenti tal-Istat Membru ospitanti u għandha tinforma lill-awtorità bil-miżuri li bi ħsiebha tieħu biex tindirizza l-ksur identifikat.
+
+3.  Meta l-kwistjoni tkun riferuta lill-ESMA skont it-tielet subparagrafu tal-Artikolu 24(5) tar-Regolament (UE) Nru 909/2014, l-awtorità kompetenti li tagħmel ir-riferment għandha tipprovdi lill-ESMA bl-informazzjoni rilevanti kollha.
+
+
+
+
+
+KAPITOLU IV
+
+ŻAMMA TAR-REKORDS
+
+(l-Artikolu 29(4) tar-Regolament (UE) Nru 909/2014)
+
+Artikolu 11
+
+Formati tar-rekords
+
+1.  CSD għandu jżomm ir-rekords imsemmija fl-Artikolu 54 tar-Regolament Delegat (UE) 2017/392, għat-tranżazzjonijiet kollha, l-istruzzjonijiet tas-saldu u l-ordnijiet dwar ir-restrizzjonijiet tas-saldu li jipproċessa, fil-format stipulat fit-Tabella 1 fl-Anness IV ta' dan ir-Regolament.
+
+2.  CSD għandu jżomm ir-rekords imsemmija fl-Artikolu 55 tar-Regolament Delegat (UE) 2017/392, għall-pożizzjonijiet korrispondenti għall-kontijiet tat-titoli kollha li iżomm, fil-format stipulat fit-Tabella 2 fl-Anness IV.
+
+3.  CSD għandu jżomm ir-rekords imsemmija fl-Artikolu 56(1) tar-Regolament Delegat (UE) 2017/392, għas-servizzi anċillari li jipprovdi, fil-format stipulat fit-Tabella 3 fl-Anness IV.
+
+4.  CSD għandu jżomm ir-rekords imsemmija fl-Artikolu 57 tar-Regolament Delegat (UE) 2017/392, għall-attivitajiet marbuta man-negozju u l-organizzazzjoni interna tiegħu, fil-format stipulat fit-Tabella 4 fl-Anness IV.
+
+5.  Għall-għanijiet ta' rappurtar lill-awtoritajiet, CSD għandu juża identifikatur tal-entità ġuridika (LEI) biex fir-rekords tiegħu jidentifika:
+
+(a) CSD;
+
+(b) il-parteċipanti f'CSD;
+
+(c) banek tas-saldu;
+
+(d) emittenti li għalihom is-CSD jipprovdi s-servizzi ewlenin imsemmija fil-punt 1 jew 2 tat-Taqsima A tal-Anness tar-Regolament (UE) Nru 909/2014.
+
+6.  CSD għandu juża identifikatur tal-entità ġuridika (LEI) jew il-kodiċi ta' identifikazzjoni tal-bank (BIC), jew forma ta' identifikazzjoni oħra disponibbli għal persuni ġuridiċi biex fir-rekords tiegħu jidentifika l-klijenti tal-parteċipanti, meta dawn ikun magħrufa mis-CSD.
+
+7.  CSD jista' juża kwalunkwe identifikatur li jippermetti l-identifikazzjoni unika ta' persuni fiżiċi fil-livell nazzjonali, biex jidentifika fir-rekords tiegħu l-klijenti tal-parteċipant magħrufa mis-CSD.
+
+8.  CSD għandu juża fir-reġistri li jżomm il-kodiċi ISO msemmija fl-Anness IV.
+
+9.  CSD jista' juża format proprjetarju biss jekk dan il-format ikun jista' jiġi konvertit mingħajr dewmien żejjed f'format miftuħ ibbażata fuq proċeduri u standards ta' komunikazzjoni internazzjonali u miftuħa biex jintbagħtu l-messaġġi u d-dejta ta' referenza biex ir-rekords tiegħu jsiru disponibbli għall-awtoritajiet skont l-Artikolu 29(2) tar-Regolament (UE) Nru 909/2014.
+
+10.  Fuq talba CSD għandu jipprovdi lill-awtorità kompetenti bl-informazzjoni msemmija fl-Artikoli 54 u 55 tar-Regolament Delegat (UE) 2017/392 permezz ta' bgħit dirett ta' dejta. CSD għandu jkollu biżżejjed żmien biex jimplimenta l-miżuri meħtieġa biex jirrispondi għal din it-talba.
+
+
+
+
+
+KAPITOLU V
+
+AĊĊESS
+
+(L-Artikoli 33(6), 49(6), 52(4) u 53(5) tar-Regolament (UE) Nru 909/2014)
+
+Artikolu 12
+
+Formoli u mudelli standard għall-paroċedura tal-aċċess
+
+1.  CSD li jagħmel it-talba u kwalunkwe parti oħra li tkun qed tagħmel talba għandhom jużaw il-formola provduta fit-Tabella 1 tal-Anness V ta' dan ir-Regolament meta jissottomettu talba għal aċċess skont l-Artikolu 52(1) jew skont l-Artikolu 53(2) tar-Regolament (UE) Nru 909/2014.
+
+2.  CSD li jagħmel it-talba u kwalunkwe parti oħra li tkun qed tagħmel talba għandhom jużaw il-formola provduta fit-Tabella 2 tal-Anness V ta' dan ir-Regolament meta jagħtu aċċess wara talba għall-aċċess skont l-Artikolu 52(1) jew skont l-Artikolu 53(2) tar-Regolament (UE) Nru 909/2014.
+
+3.  CSD għandu juża l-formola li tidher fit-Tabella 3 tal-Anness V ta' dan ir-Regolament meta jiċħad l-aċċess skont l-Artikolu 33(3), 49(4), 52(2) jew 53(3) tar-Regolament (UE) Nru 909/2014.
+
+4.  CSD jew ċentru tan-negozjar għandhom jużaw il-formola li tidher fit-Tabella 4 tal-Anness V ta' dan ir-Regolament meta jiċħdu l-aċċess skont l-Artikolu 53(3) tar-Regolament (UE) Nru 909/2014.
+
+5.  Parti li tagħmel talba għandha tuża l-formola li tidher fit-Tabella 5 tal-Anness V ta' dan ir-Regolament meta tissottometti lment lill-awtorità kompetenti tas-CSD li jkun ċaħad l-aċċess skont l-Artikolu 33(3), 49(4), 52(2) jew 53(3) tar-Regolament (UE) Nru 909/2014.
+
+6.  CSD għandu juża l-formola li tidher fit-Tabella 6 tal-Anness V ta' dan ir-Regolament meta jissottometti lment lill-awtorità kompetenti tas-CCP li tkun ċaħdet l-aċċess għas-CCP jew għaċ-ċentru tan-negozjar skont l-Artikolu 53(3) tar-Regolament (UE) Nru 909/2014.
+
+7.  L-awtoritajiet kompetenti msemmija fil-paragrafi 5 u 6 għandhom jużaw il-formola fit-Tabella 7 tal-Anness V meta jikkonsultaw lill-awtoritajiet li ġejjin dwar il-valutazzjoni tagħhom tal-ilment, kif xieraq:
+
+(a) l-awtorità kompetenti tal-post tal-istabbiliment tal-parteċipant li jagħmel it-talba f'konformità mar-raba' subparagrafu tal-Artikolu 33(3) tar-Regolament (UE) Nru 909/2014;
+
+(b) l-awtorità kompetenti tal-post tal-istabbiliment tal-emittent li jagħmel it-talba f'konformità mar-raba' subparagrafu tal-Artikolu 49(4) tar-Regolament (UE) Nru 909/2014;
+
+(c) l-awtorità kompetenti tas-CSD li jagħmel it-talba u l-awtorità rilevanti tas-CSD li jagħmel it-talba msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014 f'konformità mal-ħames subparagrafu tal-Artikolu 52(2) ta' dak ir-Regolament;
+
+(d) l-awtorità kompetenti tas-CCP li jagħmel it-talba jew taċ-ċentru tan-negozjar f'konformità mar-raba' subparagrafu tal-Artikolu 53(3) tar-Regolament (UE) Nru 909/2014.
+
+L-awtoritajiet imsemmija fil-punti (a) sa (d) għandhom jużaw il-formola fit-Tabella 8 tal-Anness V meta jwieġbu għall-konsultazzjoni msemmija f'dan il-paragrafu.
+
+8.  L-awtoritajiet imsemmija fil-punti (a) sa (d) tal-paragrafu 7 għandhom jużaw il-formola li tidher fit-Tabella 8 tal-Anness V ta' dan ir-Regolament jekk xi waħda minnhom tiddeċiedi li tirreferi l-kwistjoni lill-ESMA skont ir-raba' subparagrafu tal-Artikolu 33(3), ir-raba' subparagrafu tal-Artikolu 49(4), il-ħames subparagrafu tal-Artikolu 52(2) jew ir-raba' subparagrafu tal-Artikolu 53(3) tar-Regolament (UE) Nru 909/2014.
+
+9.  L-awtoritajiet kompetenti msemmija fil-paragrafi 5 u 6 għandhom jipprovdu lill-parti li tagħmel it-talba bi tweġiba raġunata fil-format stipulat fit-Tabella 9 tal-Anness V.
+
+10.  L-awtoritajiet imsemmijin fil-paragrafi 7 u 8, u l-ESMA għall-finijiet tal-paragrafu 9, għandhom jaqblu dwar lingwa operazzjonali għall-komunikazzjoni msemmija fil-paragrafi 7, 8, u 9. Meta ma jkunx hemm ftehim, il-lingwa operazzjonali għandha tkun lingwa li normalment tintuża fid-dinja tal-finanzi internazzjonali.
+
+
+
+
+
+KAPITOLU VI
+
+PROĊEDURA GĦAL AWTORIZZAZZJONI BIEX JIĠU PPROVDUTI SERVIZZI ANĊILLARI TAT-TIP BANKARJU U DISPOŻIZZJONI FINALI
+
+Artikolu 13
+
+Lista ta' awtoritajiet
+
+Malli tiġi riċevuta applikazzjoni għall-awtorizzazzjoni msemmija fl-Artikolu 54(2) tar-Regolament (UE) Nru 909/2014, l-awtorità kompetenti għandha tidentifika l-awtoritajiet imsemmija fl-Artikolu 55(4) ta' dak ir-Regolament u tħejji lista tagħhom.
+
+Artikolu 14
+
+Trażmissjoni ta' informazzjoni u talba għal opinjoni motivata
+
+1.  L-awtorità kompetenti għandha tibgħat talba għall-opinjoni motivata msemmija fl-Artikolu 55(5) tar-Regolament (UE) Nru 909/2014 lill-awtoritajiet imsemmija fil-punti (a) sa (e) tal-Artikolu 55(4) ta' dak ir-Regolament billi tintuża l-formula fit-Taqsima 1 tal-Anness VI ta' dan ir-Regolament.
+
+2.  Għal kull trasmissjoni msemmija fl-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014 u għal kull talba msemmija fil-paragrafu 1 ta' dan l-Artikolu, kull awtorità msemmija fil-punti (a) sa (e) tal-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014 għandha, malli tirċievi l-informazzjoni rispettiva, tikkonferma dan mill-ewwel permezz ta' ittra elettronika lill-awtorità kompetenti.
+
+3.  Jekk il-konferma tar-riċevuta ma tasalx skont il-paragrafu 2 ta' dan l-Artikolu, l-awtorità kompetenti għandha hija stess tikkuntattja lill-awtoritajiet imsemmija fil-punti (a) sa (e) tal-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014, sabiex tiżgura li dawn tal-aħħar ikunu rċievew l-informazzjoni msemmija fil-paragrafu 1 ta' dan l-Artikolu.
+
+Artikolu 15
+
+Opinjoni motivata u deċiżjoni motivata
+
+1.  L-awtoritajiet imsemmija fil-punti (a) sa (e) tal-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014 għandhom jagħtu l-opinjoni motivata lill-awtorità kompetenti billi jużaw il-formola li tidher fit-Taqsima 2 tal-Anness VI ta' dan ir-Regolament.
+
+2.  Meta tal-anqas waħda mill-awtoritajiet imsemmija fil-punti (a) sa (e) tal-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014 toħroġ opinjoni motivata negattiva u l-awtorità kompetenti li tkun tixtieq tagħti l-awtorizzazzjoni tipprovdi lil dawn l-awtoritajiet b'deċiżjoni motivata msemmija fit-tieni subparagrafu tal-Artikolu 55(5) tar-Regolament (UE) Nru 909/2014, l-awtorità kompetenti għandha tuża l-formola li tidher fit-Taqsima 3 tal-Anness VI ta' dan ir-Regolament.
+
+Artikolu 16
+
+Awtorizzazzjoni irrispettivament minn opinjoni negattiva motivata
+
+1.  Meta kwalunkwe awtorità msemmija fil-punti (a) sa (e) tal-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014 tiddeċiedi li tirreferi għand l-ESMA id-deċiżjoni motivata tal-awtorità kompetenti li tkun tixtieq tagħti l-awtorizzazzjoni skont it-tielet subparagrafu tal-Artikolu 55(5) tar-Regolament, l-awtorità li tirreferi għandha tuża l-formola li tidher fit-Taqsima 4 tal-Anness VI ta' dan ir-Regolament.
+
+2.  L-awtorità li tirreferi għandha tipprovdi lill-ESMA bl-informazzjoni kollha pprovduta mill-awtorità kompetenti f'konformità mal-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014, l-opinjonijiet motivati mogħtija mill-awtoritajiet f'konformità mal-ewwel subparagrafu tal-Artikolu 55(5) tar-Regolament (UE) Nru 909/2014 u d-deċiżjoni motivata maħruġa mill-awtorità kompetenti skont it-tieni subparagrafu tal-Artikolu 55(5) tar-Regolament (UE) Nru 909/2014.
+
+3.  L-awtorità li tirreferi għandha tipprovdi, mingħajr dewmien bla bżonn, kopja tal-informazzjoni kollha msemmija fil-paragrafu 2 ta' dan l-Artikolu lill-awtoritajiet imsemmija fil-punti (a) sa (e) tal-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014.
+
+Artikolu 17
+
+Dħul fis-seħħ u applikazzjoni
+
+Dan ir-Regolament għandu jidħol fis-seħħ fl-għoxrin jum wara l-pubblikazzjoni tiegħu f'Il-Ġurnal Uffiċjali tal-Unjoni Ewropea.
+
+L-Artikolu 11(1) għandu japplika mid-data tad-dħul fis-seħħ tal-atti delegati adottati mill-Kummissjoni skont l-Artikoli 6(5) u 7(15) tar-Regolament (UE) Nru 909/2014, skont liema minn dawn ikun tal-aħħar.
+
+Dan ir-Regolament għandu jorbot fl-intier tiegħu u japplika direttament fl-Istati Membri kollha.
+
+
+
+
+
+
+
+ANNESS I
+
+Formoli għall-applikazzjoni tas-CSD għal awtorizzazzjoni
+
+(l-Artikolu 17(10) tar-Regolament (UE) Nru 909/2014)
+
+
+
+
+
+
+
+Tabella 1
+
+Informazzjoni ġenerali
+
+Tip ta' informazzjoni
+
+	
+
+Format
+
+
+
+
+Id-data tal-applikazzjoni
+
+	
+
+Id-data skont l-ISO 8601 ►C1   fil-format SSSS-XX-JJ ◄
+
+
+
+
+L-isem korporattiv tas-CSD li qed japplika
+
+	
+
+Test liberu
+
+
+
+
+L-identifikazzjoni tas-CSD li qed japplika
+
+	
+
+Il-Kodiċi b'20 karattru alfanumeriku tal-Identifikatur ta' Entità Ġuridika (LEI) skont l-ISO 17442
+
+
+
+
+L-indirizz irreġistrat tas-CSD li qed japplika
+
+	
+
+Test liberu
+
+
+
+
+Is-sistema/i ta' saldu tat-titoli li s-CSD li qed japplika jopera jew biħsiebu jopera
+
+	
+
+Test liberu
+
+
+
+
+Id-dettalji ta' kuntatt tal-persuna responsabbli għall-applikazzjoni (l-isem, il-kariga, in-numru tat-telefown, l-indirizz elettroniku)
+
+	
+
+Test liberu
+
+
+
+
+Id-dettalji ta' kuntatt tal-persuna/i responsabbli għall-kontroll intern u l-funzjoni tal-konformità tas-CSD li qed japplika (l-isem, il-kariga, in-numru tat-telefown, l-indirizz elettroniku)
+
+	
+
+Test liberu
+
+
+
+
+Il-lista tad-dokumenti kollha pprovduti mis-CSD li qed japplika b'numri ta' referenza uniċi
+
+	
+
+Test liberu
+
+
+
+
+
+
+
+Tabella 2
+
+Referenzi għad-Dokumenti
+
+L-ambitu tal-informazzjoni li għandha tiġi ppreżentata skont ir-rekwiżit speċifiku tal-att delegat fir-rigward tal-istandards tekniċi regolatorji li jispeċifikaw id-dettalji tal-applikazzjoni għall-awtorizzazzjoni tas-CSDs adottat skont l-Artikolu 17(9) tar-Regolament (UE) Nru 909/2014
+
+	
+
+Numru ta' referenza uniku tad-dokument
+
+	
+
+Titolu tad-dokument
+
+	
+
+Kapitolu jew taqsima jew paġna tad-dokument fejn hija pprovduta l-informazzjoni jew raġuni għaliex l-informazzjoni mhix ipprovduta
+
+
+
+
+A.  Informazzjoni ġenerali dwar is-CSD li qed japplika (l-Artikoli 4 — 7 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+L-identifikazzjoni u l-istatus ġuridiku tas-CSD (l-Artikolu 4 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Applikazzjoni għall-awtorizzazzjoni ppreżentata skont l-Artikolu 17 tar-Regolament (UE) Nru 909/2014 għandha tidentifika b'mod ċar l-entità li qed tapplika għall-attivitajiet u s-servizzi li biħsiebha twettaq
+
+
+
+
+L-isem korporattiv tas-CSD li qed japplika, il-LEI u l-indirizz ġuridiku tiegħu fl-Unjoni
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-memorandum u l-artikoli ta' assoċjazzjoni u dokumentazzjoni kostituzzjonali u statutorja oħra
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Silta mir-reġistru kummerċjali jew mir-reġistru tal-qorti relevanti, jew forom oħra ta' evidenza attestata tal-indirizz ġuridiku u tal-attività tan-negozju tas-CSD li qed japplika li għandhom ikunu validi fid-data tal-applikazzjoni
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+L-identifikazzjoni tas-sistemi ta' saldu tat-titoli li s-CSD li qed japplika jopera jew biħsiebu jopera
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Kopja tad-deċiżjoni tal-korp maniġerjali dwar l-applikazzjoni u l-minuti tal-laqgħa li fiha l-korp maniġerjali approva l-fajl tal-applikazzjoni u l-preżentazzjoni tiegħu
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Id-dettalji ta' kuntatt tal-persuna responsabbli għall-applikazzjoni
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Tabella li turi r-rabtiet ta' sjieda bejn l-impriża prinċipali, is-sussidjarji u kwalunkwe entità jew fergħa assoċjata oħra; l-entitajiet li jidhru fit-tabella għandhom jiġu identifikati bl-isem tal-kumpanija sħiħ, l-istatus ġuridiku, l-indirizz legali, u n-numri tat-taxxa jew in-numri tar-reġistrazzjoni tal-kumpanija tagħhom
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni tal-attivitajiet kummerċjali tas-sussidjarji tas-CSD li qed japplika u ta' persuni ġuridiċi oħrajn li fihom is-CSD li qed japplika għandu parteċipazzjoni, inkluża informazzjoni dwar il-livell ta' parteċipazzjoni
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Lista li fiha:
+
+(i)  l-isem ta' kull persuna jew entità li, b'mod dirett jew indirett, għandhom 5 % jew aktar tal-kapital jew tad-drittijiet tal-vot tas-CSD li qed japplika;
+
+(ii)  l-isem ta' kull persuna jew entità li tista' teżerċita influwenza sinifikanti fuq il-ġestjoni tas-CSD li qed japplika minħabba l-parteċipazzjoni tagħha fil-kapital tas-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Lista li fiha:
+
+(i)  l-isem ta' kull entità li fiha s-CSD li qed japplika jipparteċipa b'5 % jew aktar mill-kapital jew mid-drittijiet tal-vot tal-entità;
+
+(ii)  l-isem ta' kull entità li s-CSD li qed japplika jeżerċita influwenza sinifikanti fuq il-ġestjoni tagħha, minħabba l-parteċipazzjoni tas-CSD li qed japplika fil-kapital tal-entità
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Lista ta' servizzi ewlenin elenkati fit-Taqsima A tal-Anness tar-Regolament (UE) Nru 909/2014 li s-CSD li qed japplika jipprovdi jew biħsiebu jipprovdi
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Lista ta' servizzi anċillari elenkati b'mod espliċitu fit-Taqsima B tal-Anness tar-Regolament (UE) Nru 909/2014 li s-CSD li qed japplika jipprovdi jew biħsiebu jipprovdi
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+►C1   Lista ta' kwalunkwe servizz anċillari ieħor permess skont it-Taqsima B, iżda mhux espliċitament elenkat fiha, tal-Anness tar-Regolament (UE) Nru 909/2014, li l-applikant CSD qed jipprovdi jew biħsiebu jipprovdi ◄
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Lista ta' servizzi u attivitajiet ta' investiment soġġetti għad-Direttiva 2014/65/UE tal-Parlament Ewropew u tal-Kunsill (1) li mhumiex elenkati b'mod espliċitu fit-Taqsima B tal-Anness tar-Regolament (UE) Nru 909/2014 li s-CSD li qed japplika jipprovdi jew biħsiebu jipprovdi
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Lista ta' servizzi li s-CSD li qed japplika jesternalizza jew biħsiebu jesternalizza lil parti terza skont l-Artikolu 30 tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-munita jew il-muniti li s-CSD li qed japplika jipproċessa, jew biħsiebu jipproċessa b'rabta mas-servizzi pprovduti mis-CSD li qed japplika, irrispettivament minn jekk il-flus humiex saldati f'kont f'bank ċentrali, f'kont tas-CSD, jew f'kont ta' istituzzjoni tal-kreditu nominata;
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Informazzjoni dwar kwalunkwe proċediment ġudizzjarju jew ċivili, amministrattiv u ta' arbitraġġ li huwa pendenti jew finali jew dwar kwalunkwe proċediment legali ieħor involut fih is-CSD li qed japplika, u li jista' jikkawżalu kostijiet finanzjarji jew kostijiet oħrajn.
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Meta s-CSD li qed japplika jkun biħsiebu jipprovdi servizzi ewlenin jew jistabbilixxi fergħa skont l-Artikolu 23(2) tar-Regolament (UE) Nru 909/2014, għandha tiġi pprovduta informazzjoni kif ġej:
+
+
+
+
+L-Istat(i) Membru/i li fih(om) is-CSD li qed japplika jkun biħsiebu jopera
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Programm ta' operazzjonijiet li jiddikjara b'mod partikolari s-servizzi li s-CSD li qed japplika jipprovdi jew biħsiebu jipprovdi fl-Istat Membru ospitanti
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-munita jew il-muniti li s-CSD li qed japplika jipproċessa jew biħsiebu jipproċessa f'dak l-Istat(i) Membru/i ospitanti
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Meta s-servizzi se jiġu pprovduti permezz ta' fergħa, l-istruttura organizzazzjonali tal-fergħa u l-ismijiet tal-persuni responsabbli għall-ġestjoni tagħha
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Fejn rilevanti, valutazzjoni tal-miżuri li jkun biħsiebu jieħu s-CSD li qed japplika biex jippermetti li l-utenti tiegħu jikkonformaw mal-liġi nazzjonali msemmija fl-Artikolu 49(1) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Fejn rilevanti, deskrizzjoni tas-servizzi jew l-attivitajiet li s-CSD li qed japplika jesternalizza lil parti terza skont l-Artikolu 30 tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Politiki u proċeduri għall-konformità regolatorja (l-Artikolu 5 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+It-titoli tal-impjieg tal-persuni responsabbli għall-approvazzjoni u l-manutenzjoni tal-politiki u l-proċeduri
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni tal-miżuri li jimplimentaw u li jimmonitorjaw il-konformità tal-politiki u l-proċeduri
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni tal-proċeduri stabbiliti mis-CSD li qed japplika b'konformità ma' kwalunkwe mekkaniżmu stabbilit skont l-Artikolu 65 tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Servizzi u attivitajiet tas-CSD (l-Artikolu 6 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Deskrizzjonijiet dettaljati tas-servizzi u l-attivitajiet, u tal-proċeduri li għandhom jiġu applikati fil-forniment tas-servizzi u l-attivitajiet mis-CSD li qed japplika:
+
+
+
+
+Is-servizzi ewlenin speċifikati fit-Taqsima A tal-Anness tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Is-servizzi anċillari elenkati b'mod espliċitu fit-Taqsima B tal-Anness tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Kwalunkwe servizz anċillari ieħor permess skont it-Taqsima B tal-Anness tar-Regolament (UE) Nru 909/2014, iżda mhux elenkat b'mod espliċitu fiha
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Is-servizzi u l-attivitajiet ta' investiment soġġetti għad-Direttiva 2014/65/UE msemmija fil-punt ta' hawn fuq
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Informazzjoni għal gruppi (l-Artikolu 7 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Il-politiki u l-proċeduri msemmija fl-Artikolu 26(7) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+L-informazzjoni dwar il-kompożizzjoni tal-maniġment superjuri, il-korp maniġerjali, u l-istruttura tal-azzjonisti tal-impriża prinċipali jew ta' gruppi ta' impriżi oħrajn
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Is-servizzi, kif ukoll l-individwi ewlenin minbarra l-maniġment superjuri li għandhom karigi li s-CSD li qed japplika jikkondividi ma' impriżi oħrajn fil-grupp
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Meta s-CSD għandu impriża prinċipali, għandha tiġi pprovduta informazzjoni hekk kif ġej:
+
+
+
+
+L-identifikazzjoni tal-indirizz ġuridiku tal-impriża prinċipali
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Indikazzjoni ta' jekk l-impriża prinċipali hijiex entità li hija awtorizzata jew irreġistrata u soġġetta għal superviżjoni taħt il-liġijiet tal-Unjoni jew ta' pajjiżi terzi
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Fejn rilevanti, kwalunkwe numru ta' reġistrazzjoni rilevanti u l-isem tal-awtorità jew l-awtoritajiet kompetenti għas-superviżjoni tal-impriża prinċipali
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Fejn is-CSD li qed japplika għandu ftehim ma' impriża fil-grupp, li tipprovdi servizzi relatati mas-servizzi pprovduti minn CSD, deskrizzjoni u kopja ta 'dan il-ftehim
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+B.  Riżorsi finanzjarji għall-forniment ta' servizzi mis-CSD li qed japplika (l-Artikolu 8 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Rapporti finanzjarji, pjan ta' direzzjoni tan-negozju u pjan ta' rkupru (l-Artikolu 8 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+►C1   Ir-rapporti finanzjarji inkluż sett sħiħ ta' dikjarazzjonijiet finanzjarji għat-tliet snin preċedenti u r-rapport statutorju tal-awditjar tad-dikjarazzjonijiet finanzjarji annwali u konsolidati fit-tifsira tad-Direttiva 2006/43/KE tal-Parlament Ewropew u tal-Kunsill (2), għat-tliet snin preċedenti ◄
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+L-isem u n-numru tar-reġistrazzjoni nazzjonali tal-awditur estern
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Pjan ta' direzzjoni tan-negozju, li jinkludi pjan finanzjarju u estimu baġitarju, li jipprevedi xenarji ta' negozji differenti għas-servizzi tas-CSD, fuq perjodu ta' referenza ta' mill-anqas tliet snin
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Kwalunkwe pjan għall-istabbiliment ta' sussidjarji u fergħat u fejn qegħdin
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni tal-attivitajiet tan-negozju li s-CSD li qed japplika għandu l-ħsieb li jwettaq, inklużi l-attivitajiet ta' kwalunkwe sussidjarja jew fergħa tas-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Fejn l-informazzjoni finanzjarja storika msemmija hawn fuq ma tkunx disponibbli, applikazzjoni għall-awtorizzazzjoni għandu jkun fiha l-informazzjoni li ġejja dwar is-CSD li qed japplika:
+
+
+
+
+Evidenza li turi riżorsi finanzjarji suffiċjenti matul is-sitt xhur wara l-għoti tal-awtorizzazzjoni
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Rapport finanzjarju temporanju meta d-dikjarazzjonijiet finanzjarji jkunu għadhom mhumiex disponibbli għall-perjodu taż-żmien mitlub
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Dikjarazzjoni dwar is-sitwazzjoni finanzjarja tas-CSD li qed japplika, bħal karta tal-bilanċ, dikjarazzjoni tad-dħul, bidliet fl-ekwità u fil-flussi tal-flus u sommarju tal-politiki tal-kontabbiltà u noti ta' spjegazzjoni rilevanti oħra
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Fejn applikabbli, id-dikjarazzjonijiet finanzjarji annwali awditjati ta' kwalunkwe impriża prinċipali għat-tliet snin finanzjarji ta' qabel id-data tal-applikazzjoni
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni ta' pjan ta' rkupru adegwat li jinkludi:
+
+
+
+
+Sommarju li jipprovdi ħarsa ġenerali tal-pjan u l-implimentazzjoni tiegħu
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+L-identifikazzjoni tal-operazzjonijiet kritiċi tas-CSD li qed japplika, ix-xenarji ta' stress u l-avvenimenti li jiskattaw l-irkupru, u deskrizzjoni sostantiva tal-għodod ta' rkupru li jridu jintużaw mis-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+L-informazzjoni dwar il-valutazzjoni ta' kwalunkwe impatt tal-pjan ta' rkupru fuq id-diversi partijiet konċernati li x'aktarx se jiġu affettwati mill-implimentazzjoni tiegħu
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Valutazzjoni mis-CSD li qed japplika fir-rigward tal-eżegwibilità legali tal-pjan ta' rkupru, li tikkunsidra kwalunkwe restrizzjoni legali imposta mil-leġiżlazzjoni tal-Unjoni, dik nazzjonali u ta' pajjiż terz
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+C.  Rekwiżiti organizzattivi (l-Artikoli 9-17 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Organigramma (l-Artikolu 9 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+L-identità u l-kompiti tal-persuni responsabbli għall-pożizzjonijiet li ġejjin:
+
+(i)  il-maniġment superjuri;
+
+(ii)  il-maniġers responsabbli għar-rwoli operattivi;
+
+(iii)  il-maniġers responsabbli mill-attivitajiet ta' kwalunkwe fergħa tas-CSD li qed japplika;
+
+(iv)  rwoli sinifikanti oħrajn fl-operat tas-CSD li qed japplika.
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+L-għadd ta' persunal f'kull diviżjoni u f'kull unità operazzjonali
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Politiki u proċeduri relatati mal-persunal (l-Artikolu 10 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Deskrizzjoni tal-politika ta' rimunerazzjoni, li tinkludi informazzjoni dwar l-elementi fissi u varjabbli tar-rimunerazzjoni tal-maniġment superjuri, tal-membri tal-korp maniġerjali u tal-persunal impjegat fil-funzjonijiet tal-ġestjoni tar-riskju u tal-konformità u tal-kontroll intern, tat-teknoloġija u tal-awditjar intern tas-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-miżuri tas-CSD li qed japplika biex jimmitiga r-riskju ta' dipendenza żejda fuq ir-responsabbiltajiet fdati lil kwalunkwe persuna individwali
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Għodod ta' monitoraġġ għar-riskji u arranġamenti tal-governanza (l-Artikolu 11 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Deskrizzjoni tal-komponenti tal-arranġamenti ta' governanza tas-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-politiki, il-proċeduri u s-sistemi li jidentifikaw, ikejlu, jimmonitoraw, jiġġestixxu u jirrappurtaw ir-riskji li għalihom jista' jkun espost is-CSD li qed japplika u r-riskji li s-CSD li qed japplika jippreżenta għal kwalunkwe entità oħra;
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni tal-kompożizzjoni, tar-rwol u tar-responsabbiltajiet tal-membri tal-korp maniġerjali u tal-maniġment superjuri u ta' kwalunkwe kumitat stabbilit skont ir-Regolament (UE) 2017/392 (Ir-Regolament Delegat dwar ir-Rekwiżiti tas-CSD)
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni tal-proċessi li jikkonċernaw l-għażla, il-ħatra, l-evalwazzjoni tal-prestazzjoni u t-tneħħija tal-maniġment superjuri u tal-membri tal-korp maniġerjali
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni tal-proċedura użata mis-CSD li qed japplika biex jagħmel disponibbli għall-pubbliku l-arranġamenti ta' governanza tiegħu u r-regoli li jirregolaw l-attività tiegħu
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Meta s-CSD li qed japplika jaderixxi ma' kodiċi ta' kondotta tal-governanza korporattiva rikonoxxut:
+
+
+
+
+L-identifikazzjoni tal-kodiċi ta' kondotta (kopja tal-kodiċi)
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Spjegazzjoni għal kwalunkwe sitwazzjoni fejn is-CSD li qed japplika jiddevja mill-kodiċi
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Funzjonijiet tal-konformità, kontroll intern u awditjar intern (l-Artikolu 12 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Deskrizzjoni tal-proċeduri għar-rappurtar intern tal-ksur imsemmi fl-Artikolu 26(5) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Informazzjoni dwar il-politiki u l-proċeduri tal-awditjar intern tiegħu inklużi dawn li ġejjin:
+
+
+
+
+Deskrizzjoni tal-għodod ta' monitoraġġ u ta' evalwazzjoni għall-adegwatezza u l-effikaċja tas-sistemi tal-kontroll intern tas-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni tal-għodod tal-kontroll u ta' protezzjoni għas-sistemi tal-ipproċessar tal-informazzjoni tas-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Spjegazzjoni dwar l-iżvilupp u l-applikazzjoni tal-metodoloġija tal-awditjar intern tiegħu
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Pjan ta' ħidma għal tliet snin wara d-data tal-applikazzjoni.
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni tar-rwoli u l-kwalifiki ta' kull individwu li huwa responsabbli għall-awditjar intern
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Applikazzjoni għall-awtorizzazzjoni għandha jkun fiha l-informazzjoni li ġejja dwar il-funzjoni tal-konformità u tal-kontroll intern tas-CSD li qed japplika:
+
+
+
+
+Deskrizzjoni tar-rwoli u l-kwalifiki tal-individwi li huma responsabbli għall-funzjoni tal-konformità u tal-kontroll intern u ta' kwalunkwe membru tal-persunal ieħor involut fil-valutazzjonijiet tal-konformità, inkluża deskrizzjoni tal-mezzi biex tiġi żgurata l-indipendenza tal-funzjoni tal-konformità u tal-kontroll intern mill-bqija tal-unitajiet tan-negozju
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-politiki u l-proċeduri tal-funzjoni tal-konformità u tal-kontroll intern inkluża deskrizzjoni tar-rwol tal-konformità tal-korp maniġerjali u tal-maniġment superjuri
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Fejn disponibbli, ir-rapport intern l-aktar riċenti mħejji mill-persuni responsabbli għall-funzjoni tal-konformità u tal-kontroll intern jew minn kwalunkwe persunal ieħor involut fil-valutazzjonijiet tal-konformità fi ħdan is-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-maniġment superjuri, il-korp maniġerjali u l-azzjonisti (l-Artikolu 13 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Għal kull membru tal-maniġment superjuri u membru tal-korp maniġerjali, l-informazzjoni li ġejja:
+
+
+
+
+Kopja tal-curriculum vitae li tistabbilixxi l-esperjenza u l-għarfien ta' kull membru
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Id-dettalji dwar kwalunkwe sanzjoni kriminali u amministrattiva imposta fuq membru b'rabta mal-forniment ta' servizzi finanzjarji jew ta' dejta jew b'rabta ma' atti ta' frodi jew miżapproprijazzjoni ta' fondi fil-forma ta' ċertifikat uffiċjali xieraq meta disponibbli fl-Istat Membru rilevanti
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Awtodikjarazzjoni ta' reputazzjoni tajba fir-rigward tal-forniment ta' servizz finanzjarju jew ta' dejta, inklużi d-dikjarazzjonijiet kollha indikati fl-Artikolu 13(1) (c) tar-Regolament Delegat (UE) 2017/392
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+▼C1
+
+
+
+
+Informazzjoni dwar il-korp maniġerjali tas-CSD li qed japplika
+
+
+
+
+▼B
+
+
+
+
+Evidenza tal-konformità mal-Artikolu 27(2) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni tar-rwoli u r-responsabbiltajiet tal-korp maniġerjali;
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Informazzjoni dwar l-istruttura tas-sjieda u l-azzjonisti tas-CSD li qed japplika:
+
+
+
+
+Deskrizzjoni tal-istruttura ta' sjieda tas-CSD li qed japplika, inkluża deskrizzjoni tal-identità u d-daqs tal-interessi ta' kwalunkwe entità f'pożizzjoni li teżerċita kontroll fuq l-operat tas-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Lista tal-azzjonisti u l-persuni li jkunu f'pożizzjoni li jeżerċitaw, b'mod dirett jew indirett, kontroll fuq il-ġestjoni tas-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Ġestjoni ta' kunflitti ta' interess (l-Artikolu 14 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Il-politiki u l-proċeduri stabbiliti biex jidentifikaw u jimmaniġġjaw kunflitti ta' interess potenzjali mis-CSD li qed japplika:
+
+
+
+
+Deskrizzjoni tal-politiki u l-proċeduri li jikkonċernaw l-identifikazzjoni, il-ġestjoni u d-divulgazzjoni lill-awtorità kompetenti ta' kunflitti ta' interess potenzjali u tal-proċess użat biex jiġi żgurat li l-persunal tas-CSD li qed japplika huwa infurmat b'dawn il-politiki u l-proċeduri
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni tal-kontrolli u ta' kwalunkwe miżura oħra stabbiliti biex jiżguraw li qed jiġu ssodisfati r-rekwiżiti msemmija fil-punt (a) tal-Artikolu 14(1) tar-Regolament (UE) 2017/392 [Ir-Regolament Delegat dwar ir-Rekwiżiti tas-CSD] dwar il-ġestjoni ta' kunflitti ta' interess
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni ta':
+
+(i)  ir-rwoli u r-responsabbiltajiet tal-persunal ewlieni, b'mod speċjali fejn dawn għandhom ukoll responsabbiltajiet f'entitajiet oħrajn;
+
+(ii)  l-arranġamenti li jiżguraw li individwi li għandhom kunflitt ta' interess permanenti jiġu esklużi mill-proċess tat-teħid tad-deċiżjonijiet u mill-wasla ta' kwalunkwe informazzjoni rilevanti li tikkonċerna l-kwistjonijiet affettwati mill-kunflitt ta' interess permanenti;
+
+(iii)  reġistru aġġornat tal-kunflitti ta' interess eżistenti fiż-żmien tal-applikazzjoni u deskrizzjoni ta' kif dawn il-kunflitti ta' interess qed jiġu ġestiti.
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Meta CSD li qed japplika jkun parti minn grupp, ir-reġistru msemmi fil-punt (c) (iii) tal-Artikolu 14(1) tar-Regolament (UE) 2017/392 dwar ir-Rekwiżiti tas-CSD] għandu jinkludi deskrizzjoni ta':
+
+(a)  il-kunflitti ta' interess li jirriżultaw minn impriżi oħrajn fi ħdan il-grupp fir-rigward ta' kwalunkwe servizz ipprovdut mis-CSD li qed japplika; kif ukoll
+
+(b)  l-arranġamenti stabbiliti għall-ġestjoni ta' dawn il-kunflitti ta' interess.
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Kunfidenzjalità (l-Artikolu 15 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Il-politiki u l-proċeduri li jipprevjenu l-użu jew id-divulgazzjoni mhux awtorizzati ta' informazzjoni kunfidenzjali kif definit fl-Artikolu 15 tar-Regolament Delegat (UE) 2017/392
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+L-informazzjoni li tikkonċerna l-aċċess tal-persunal għal informazzjoni miżmuma mis-CSD li qed japplika:
+
+
+
+
+Il-proċeduri interni li jikkonċernaw il-permessi ta' aċċess tal-persunal għal informazzjoni li jiżguraw aċċess sikur għad-dejta
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni ta' kwalunkwe restrizzjoni fuq l-użu tad-dejta għal raġunijiet ta' kunfidenzjalità
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Kumitat tal-utenti (l-Artikolu 16 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Dokumenti jew informazzjoni fuq kull kumitat tal-utenti:
+
+
+
+
+Il-mandat tal-kumitat tal-utenti
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+L-arranġamenti ta' governanza tal-kumitat tal-utenti
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-proċeduri operazzjonali tal-kumitat tal-utenti
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-kriterji ta' ammissjoni u l-mekkaniżmu ta' elezzjoni għall-membri tal-kumitat tal-utenti
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Lista tal-membri proposti tal-kumitat tal-utenti u l-indikazzjoni tal-interessi li jirrappreżentaw
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Żamma ta' rekords (l-Artikolu 17 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Deskrizzjoni tas-sistemi għaż-żamma tar-rekords, tal-politiki u tal-proċeduri tas-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+L-informazzjoni msemmija fl-Artikolu 17(2) tar-Regolament (UE) 2017/392 [Ir-Regolament Delegat dwar ir-Rekwiżiti tas-CSD] qabel id-data ta' applikazzjoni tal-Artikolu 54 tar-Regolament Delegat (UE) 2017/392
+
+
+
+
+Analiżi tal-punt sa fejn is-sistemi taż-żamma tar-rekords, tal-politiki u tal-proċeduri eżistenti tas-CSD li qed japplika huma konformi mar-rekwiżiti skont l-Artikolu 54 tar-Regolament (UE) 2017/392 [Ir-Regolament Delegat dwar ir-Rekwiżiti tas-CSD]
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Pjan ta' implimentazzjoni li jispjega kif is-CSD li qed japplika biħsiebu jkun konformi mar-rekwiżiti skont l-Artikolu 54 tar-Regolament (UE) 2017/392 [Ir-Regolament Delegat dwar ir-Rekwiżiti tas-CSD] sad-data mitluba
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+D.  Regoli dwar il-kondotta tan-negozju (l-Artikoli 18 — 22 tar-Regolament Delegat (UE) 2017/392
+
+
+
+
+Għanijiet u objettivi (l-Artikolu 18 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Deskrizzjoni tal-għanijiet u l-objettivi tas-CSD li qed japplika.
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-ġestjoni tal-ilmenti (l-Artikolu 19 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Il-proċeduri stabbiliti mis-CSD li qed japplika għall-ġestjoni tal-ilmenti
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Rekwiżiti għall-parteċipazzjoni (l-Artikolu 20 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+L-informazzjoni li tikkonċerna l-parteċipazzjoni fis-sistema/i ta' saldu tat-titoli mħaddma mis-CSD li qed japplika:
+
+
+
+
+Il-kriterji għall-parteċipazzjoni li jippermettu aċċess ġust u miftuħ għall-persuni ġuridiċi kollha li għandhom il-ħsieb li jsiru parteċipanti fis-sistema/i tas-saldu tat-titoli mħaddma mis-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-proċeduri għall-applikazzjoni ta' miżuri dixxiplinarji kontra l-parteċipanti eżistenti li ma jikkonformawx mal-kriterji għall-parteċipazzjoni
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Trasparenza (l-Artikolu 21 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+L-informazzjoni dwar il-politika tal-ipprezzar tas-CSD li qed japplika, li tinkludi b'mod partikolari l-prezzijiet u t-tariffi għal kull servizz ewlieni pprovdut mis-CSD li qed japplika u kwalunkwe skont u roħs eżistenti, kif ukoll il-kundizzjonijiet għal tnaqqis bħal dan
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni tal-metodi użati biex tiġi divulgata l-informazzjoni rilevanti lill-klijenti u lill-klijenti prospettivi skont l-Artikolu 34(1) sa (5) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+L-informazzjoni li tippermetti lill-awtorità kompetenti tivvaluta kif is-CSD għandu l-ħsieb jikkonforma mar-rekwiżiti biex jagħti rendikont separat għall-ispejjeż u d-dħul skont l-Artikolu 34(7) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Proċeduri ta' komunikazzjoni mal-parteċipanti u ma' infrastrutturi oħra tas-suq (l-Artikolu 22 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+L-informazzjoni rilevanti li tikkonċerna l-użu mis-CSD li qed japplika tal-proċeduri u l-istandards ta' komunikazzjoni miftuħa u internazzjonali sabiex jintbagħtu l-messaġġi u d-dejta ta' referenza fil-proċeduri ta' komunikazzjoni tiegħu mal-parteċipanti u ma' infrastrutturi oħra tas-suq
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+E.  Rekwiżiti għas-servizzi pprovduti mis-CSDs (L-Artikoli 23 — 30 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Format tal-entrati fil-kotba (l-Artikolu 23 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+L-informazzjoni li tikkonċerna l-proċessi li jiżguraw il-konformità tas-CSD li qed japplika mal-Artikolu 3 tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Dati previsti tas-saldu u miżuri għall-prevenzjoni u l-indirizzar ta' fallimenti ta' saldu (l-Artikolu 24 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Ir-regoli u l-proċeduri li jikkonċernaw il-miżuri għall-prevenzjoni ta' fallimenti ta' saldu
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Id-dettalji tal-miżuri li jindirizzaw il-fallimenti ta' saldu
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Jekk l-applikazzjoni ssir qabel id-dħul fis-seħħ tal-atti delegati adottati mill-Kummissjoni abbażi tal-istandards tekniċi regolatorji msemmija fl-Artikoli 6(5) u 7(15) tar-Regolament (UE) Nru 909/2014
+
+
+
+
+Analiżi ta' kemm ir-regoli, il-proċeduri, il-mekkaniżmi u l-miżuri eżistenti tas-CSD li qed japplika huma konformi mar-rekwiżiti taħt l-atti delegati adottati mill-Kummissjoni abbażi tal-istandards tekniċi regolatorji msemmija fl-Artikoli 6(5) u 7(15) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Pjan ta' implimentazzjoni li jagħti d-dettalji dwar kif is-CSD għandu l-ħsieb isir konformi mar-rekwiżiti taħt l-atti delegati adottati mill-Kummissjoni abbażi tal-istandards tekniċi regolatorji msemmija fl-Artikoli 6(5) u 7(15) tar-Regolament (UE) Nru 909/2014 sad-data tad-dħul fis-seħħ tagħhom
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Integrità tal-emissjonijiet (l-Artikolu 25 tar-Regolament Delegat (UE) 2017/392
+
+
+
+
+L-informazzjoni li tikkonċerna r-regoli u l-proċeduri tas-CSD għall-iżgurar tal-integrità tal-ħruġ tat-titoli
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Protezzjoni tat-titoli tal-parteċipanti u tat-titoli tal-klijenti tagħhom (l-Artikolu 26 tar-Regolament Delegat (UE) 2017/392
+
+
+
+
+L-informazzjoni li tikkonċerna l-miżuri stabbiliti biex tiġi żgurata l-protezzjoni tat-titoli tal-parteċipanti tas-CSD li qed japplika u tal-klijenti tagħhom, inkluż:
+
+
+
+
+Ir-regoli u l-proċeduri biex jitnaqqsu u jiġu mmaniġġjati r-riskji assoċjati mal-kustodja tat-titoli
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni ddettaljata tal-livelli differenti ta' segregazzjoni offruti mis-CSD li qed japplika, inkluża deskrizzjoni tal-ispejjeż assoċjati ma' kull livell, it-termini kummerċjali li fuqhom jiġu offruti, l-implikazzjonijiet legali prinċipali tagħhom u l-liġi tal-insolvenza applikabbli
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Ir-regoli u l-proċeduri għall-kisba tal-kunsensi msemmija fl-Artikolu 38(7) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Finalità tas-saldu (l-Artikolu 27 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+L-informazzjoni li tikkonċerna r-regoli dwar il-finalità tas-saldu
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Saldu fi flus (l-Artikolu 28 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Il-proċeduri għas-saldu tal-pagamenti fi flus għal kull sistema ta' saldu tat-titoli mħaddma mis-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+L-informazzjoni dwar jekk is-saldu tal-pagamenti fi flus huwiex ipprovdut f'konformità mal-Artikolu 40(1) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Fejn applikabbli, spjegazzjoni ta' għalfejn saldu skont l-Artikolu 40(1) tar-Regolament (UE) Nru 909/2014 mhuwiex prattiku u disponibbli
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Proċeduri u regoli dwar l-inadempjenza tal-parteċipanti (l-Artikolu 29 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Ir-regoli u l-proċeduri stabbiliti għall-immaniġġjar tal-inadempjenza ta' parteċipant
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Trasferiment tal-assi tal-parteċipanti u tal-klijenti fil-każ tal-irtirar tal-awtorizzazzjoni (l-Artikolu 30 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+L-informazzjoni li tikkonċerna l-proċeduri stabbiliti mis-CSD li qed japplika li għandhom jassiguraw is-saldu u t-trasferiment fil-ħin u b'mod ordnat tal-assi tal-klijenti u tal-parteċipanti għal CSD ieħor fil-każ tal-irtirar tal-awtorizzazzjoni tiegħu
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+F.  Rekwiżiti prudenzjali (l-Artikoli 31 — 35 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Riskji legali (l-Artikolu 31 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+L-informazzjoni li tippermetti lill-awtorità kompetenti tivvaluta li r-regoli, il-proċeduri, u l-kuntratti tas-CSD li qed japplika huma ċari, jistgħu jinftiehmu u huma infurzabbli fil-ġurisdizzjonijiet rilevanti kollha skont l-Artikolu 43(1) u (2) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Meta s-CSD li qed japplika għandu l-ħsieb li jwettaq negozju f'ġurisdizzjonijiet differenti, informazzjoni li tikkonċerna l-miżuri stabbiliti biex jidentifikaw u jimmitigaw ir-riskji li jirriżultaw minn kunflitti potenzjali bejn il-liġijiet tal-ġurisdizzjonijiet skont l-Artikolu 43(3) tar-Regolament (UE) Nru 909/2014, inkluż kwalunkwe valutazzjoni legali li fuqha huma bbażati dawn il-miżuri.
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Riskji ġenerali tan-negozju (l-Artikolu 32 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Deskrizzjoni tas-sistemi ta' ġestjoni u tal-kontroll tar-riskji kif ukoll l-għodod tal-IT stabbiliti mis-CSD għall-mitigazzjoni tar-riskji tan-negozju
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Fejn applikabbli, il-klassifikazzjoni tar-riskju miksuba minn parti terza, inkluża kwalunkwe informazzjoni rilevanti ta' sostenn għal din il-klassifikazzjoni tar-riskju
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Riskji operazzjonali (l-Artikolu 33 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Evidenza li turi li s-CSD li qed japplika jikkonforma mar-rekwiżit għall-immaniġġjar tar-riskji operazzjonali skont l-Artikolu 45 tar-Regolament (UE) Nru 909/2014 u tal-Kapitolu X tar-Regolament UE) 2017/392 [Ir-Regolament Delegat dwar ir-Rekwiżiti tas-CSD]
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+L-informazzjoni li tikkonċerna l-esternalizzazzjoni mis-CSD li qed japplika ta' servizzi jew attivitajiet lil partijiet terzi skont l-Artikolu 30 tar-Regolament (UE) Nru 909/2014, inklużi:
+
+(a)  Kopji tal-kuntratti li jirregolaw l-arranġamenti tal-esternalizzazzjoni tas-CSD li qed japplika
+
+(b)  Il-metodi użati biex jiġi mmonitorjat il-livell tas-servizz fir-rigward tas-servizzi u l-attivitajiet esternalizzati
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Politika tal-investiment (l-Artikolu 34 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Evidenza li turi li:
+
+(a)  is-CSD li qed japplika jżomm l-assi finanzjarji proprji tiegħu skont l-Artikolu 46(1), (2) u (5) tar-Regolament (UE) Nru 909/2014 u l-Kapitolu X tar-Regolament (UE) 2017/392 [Ir-Regolament Delegat dwar ir-Rekwiżiti tas-CSD],
+
+(b)  l-investimenti tas-CSD li qed japplika huma konformi mal-Artikolu 46(3) tar-Regolament (UE) Nru 909/2014 u l-Kapitolu X tar-Regolament (UE) 2017/392 [Ir-Regolament Delegat tal-Kummissjoni dwar ir-Rekwiżiti tas-CSD],
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Rekwiżiti ta' kapital (l-Artikolu 35 tar-Regolament (UE) 2017/392 (Ir-Regolament Delegat tal-Kummissjoni dwar ir-Rekwiżiti tas-CSD))
+
+
+
+
+L-informazzjoni li turi li l-kapital tas-CSD li qed japplika, inkluż il-qligħ imfaddal u r-riżervi tas-CSD li qed japplika, jissodisfa r-rekwiżiti tal-Artikolu 47 tar-Regolament (UE) Nru 909/2014 u tar-Regolament (UE) 2017/392 [Ir-Regolament Delegat tal-Kummissjoni dwar ir-Rekwiżiti prudenzjali]
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-pjan imsemmi fl-Artikolu 47(2) tar-Regolament (UE) Nru 909/2014 u kwalunkwe aġġornament għal dan il-pjan, u l-evidenza tal-approvazzjoni tiegħu mill-korp maniġerjali jew minn kumitat xieraq tal-korp maniġerjali tas-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Konnessjonijiet tas-CSD (l-Artikolu 36 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Deskrizzjoni tal-konnessjonijiet tas-CSD akkumpanjati minn valutazzjonijiet tal-arranġamenti tal-konnessjoni mis-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-volumi tas-saldu jew il-valuri tas-saldu mistennija jew attwali mwettqa fil-konnessjonijiet tas-CSD
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Il-proċeduri li jikkonċernaw l-identifikazzjoni, il-valutazzjoni, il-monitoraġġ u l-ġestjoni tas-sorsi potenzjali kollha tar-riskju għas-CSD li qed japplika u għall-parteċipanti tiegħu li jirriżultaw mill-arranġament tal-konnessjoni u l-miżuri xierqa stabbiliti biex jimmitigawhom
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Valutazzjoni tal-applikabbiltà tal-liġijiet tal-insolvenza applikabbli għat-tħaddim ta' konnessjoni tas-CSD u l-implikazzjonijiet tagħhom għas-CSD li qed japplika
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Informazzjoni rilevanti oħra meħtieġa għall-valutazzjoni tal-konformità tal-konnessjonijiet tas-CSD mar-rekwiżiti pprovduti fl-Artikolu 48 tar-Regolament (UE) Nru 909/2014 u l-Kapitolu XII tar-Regolament (UE) 2017/392 [Ir-Regolament Delegat dwar ir-Rekwiżiti tas-CSD]
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+G.  Aċċess għas-CSDs (l-Artikolu 37 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Regoli ta' aċċess (l-Artikolu 37 tar-Regolament Delegat (UE) 2017/392)
+
+
+
+
+Deskrizzjoni tal-proċeduri biex jiġu ttrattati talbiet għal aċċess minn:
+
+
+
+
+Il-persuni ġuridiċi li juru x-xewqa li jsiru parteċipanti skont l-Artikolu 33 tar-Regolament (UE) Nru 909/2014 u l-Kapitolu XIII tar-Regolament (UE) 2017/392 [ Ir-Regolament Delegat tal-Kummissjoni dwar ir-Rekwiżiti tas-CSD]
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+L-emittenti skont l-Artikolu 49 tar-Regolament (UE) Nru 909/2014 u l-Kapitolu XIII tar-Regolament (UE) 2017/392 [ Ir-Regolament Delegat tal-Kummissjoni dwar ir-Rekwiżiti tas-CSD]
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+CSDs oħrajn skont l-Artikolu 52 tar-Regolament (UE) Nru 909/2014 u l-Kapitolu XIII tar-Regolament (UE) 2017/392 [ Ir-Regolament Delegat tal-Kummissjoni dwar ir-Rekwiżiti tas-CSD]
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Infrastrutturi ta' swieq oħrajn skont l-Artikolu 53 tar-Regolament (UE) Nru 909/2014 u l-Kapitolu XIII tar-Regolament (UE) 2017/392 [ Ir-Regolament Delegat tal-Kummissjoni dwar ir-Rekwiżiti tas-CSD]
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+H.  Informazzjoni addizzjonali (l-Artikolu 38 tar-Regolament (UE) 2017/392 (Ir-Regolament Delegat tal-Kummissjoni dwar ir-Rekwiżiti tas-CSD))
+
+
+
+
+Informazzjoni addizzjonali (l-Artikolu 38 tar-Regolament (UE) 2017/392 (Ir-Regolament Delegat tal-Kummissjoni dwar ir-Rekwiżiti tas-CSD))
+
+
+
+
+Kwalunkwe informazzjoni addizzjonali meħtieġa għall-valutazzjoni dwar jekk, fil-mument tal-awtorizzazzjoni, is-CSD li qed japplika jikkonformax mar-rekwiżiti tar-Regolament (UE) Nru 909/2014 u mal-atti delegati u ta' implimentazzjoni rilevanti adottati skont ir-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+(1)   Id-Direttiva 2014/65/UE tal-Parlament Ewropew u tal-Kunsill tal-15 ta' Mejju 2014 dwar is-swieq fl-istrumenti finanzjarji u li temenda d-Direttiva 2002/92/KE u d-Direttiva 2011/61/UE (ĠU L 173, 12.6.2014, p. 349).
+
+(2)   Id-Direttiva 2006/43/KE tal-Parlament Ewropew u tal-Kunsill tas- 17 ta' Mejju 2006 dwar il-verifiki statutorji tal-kontijiet annwali u tal-kontijiet konsolidati, li temenda d-Direttivi tal-Kunsill 78/660/KEE u 83/349/KEE u li tħassar id-Direttiva tal-Kunsill 84/253/KEE (ĠU L 157, 9.6.2006, p. 87).
+
+
+
+
+
+
+
+ANNESS II
+
+Formoli għall-preżentazzjoni ta' informazzjoni għar-rieżami u l-evalwazzjoni
+
+(l-Artikolu 22(11) tar-Regolament (UE) Nru 909/2014)
+
+
+
+
+
+
+
+Tabella 1
+
+Informazzjoni ġenerali li trid tiġi pprovduta minn CSD
+
+Tip ta' informazzjoni
+
+	
+
+Format
+
+
+
+
+Data tal-preżentazzjoni tal-informazzjoni
+
+	
+
+Id-data skont l-ISO 8601 ►C1   fil-format SSSS-XX-JJ ◄
+
+
+
+
+Data tal-aħħar rieżami u evalwazzjoni
+
+	
+
+Id-data skont l-ISO 8601 ►C1   fil-format SSSS-XX-JJ ◄
+
+
+
+
+L-isem korporattiv tas-CSD
+
+	
+
+Test liberu
+
+
+
+
+L-identifikazzjoni tas-CSD
+
+	
+
+Il-Kodiċi b'20 karattru alfanumeriku tal-Identifikatur ta' Entità Ġuridika (LEI) skont l-ISO 17442
+
+
+
+
+L-indirizz legali tas-CSD
+
+	
+
+Test liberu
+
+
+
+
+Sistema/i ta' saldu tat-titoli mħaddma mis-CSD
+
+	
+
+Test liberu
+
+
+
+
+Id-dettalji tal-kuntatt tal-persuna responsabbli għall-proċess tar-rieżami u l-evalwazzjoni (l-isem, il-kariga, in-numru tat-telefown, l-indirizz elettroniku)
+
+	
+
+Test liberu
+
+
+
+
+Id-dettalji tal-kuntatt tal-persuna/i responsabbli għall-kontroll intern u l-funzjoni tal-konformità tas-CSD (l-isem, il-funzjoni, in-numru tat-telefown, l-indirizz elettroniku)
+
+	
+
+Test liberu
+
+
+
+
+Il-lista tad-dokumenti kollha pprovduti mis-CSD b'numri ta' referenza uniċi
+
+	
+
+Test liberu
+
+
+
+
+Rapport dwar l-attivitajiet tas-CSD u l-bidliet sostantivi mwettqa matul il-perjodu ta' reviżjoni, inkluż dikjarazzjoni tal-konformità ġenerali mad-dispożizzjonijiet tar-Regolament (UE) Nru 909/2014 u l-istandards tekniċi regolatorji rilevanti skont ir-Regolament (UE) Nru 909/2014, inkluż fir-rigward ta' kull tidbil sostantiv
+
+	
+
+Dokument separat
+
+
+
+
+
+
+
+Tabella 2
+
+Informazzjoni relatata ma' avvenimenti perjodiċi
+
+Nru
+
+	
+
+Tip ta' informazzjoni
+
+	
+
+In-numru ta' referenza uniku tad-dokument li fih hemm inkluża l-informazzjoni
+
+
+
+
+1
+
+	
+
+Sett sħiħ tad-dikjarazzjonijiet finanzjarji awditjati l-aktar riċenti tas-CSD, inklużi dawk konsolidati fil-livell tal-grupp
+
+	
+
+ 
+
+
+
+
+2
+
+	
+
+Verżjoni mqassra tad-dikjarazzjonijiet finanzjarji interim l-aktar riċenti tas-CSD
+
+	
+
+ 
+
+
+
+
+3
+
+	
+
+Kwalunkwe deċiżjoni tal-korp maniġerjali wara l-pariri tal-kumitat tal-utenti, kif ukoll kwalunkwe deċiżjoni fejn il-korp maniġerjali ddeċieda li ma jsegwix il-pariri tal-kumitat tal-utenti
+
+	
+
+ 
+
+
+
+
+4
+
+	
+
+Informazzjoni dwar kwalunkwe proċediment ċivili u amministrattiv pendenti jew kwalunkwe proċediment ġudizzjarju jew extraġudizzjarju ieħor pendenti li jinvolvi s-CSD, b'mod partikolari fir-rigward ta' kwistjonijiet li jikkonċernaw it-taxxa u l-insolvenza, jew ta' kwistjonijiet li jistgħu jikkawżaw spejjeż finanzjarji jew ta' reputazzjoni għas-CSD, u kwalunkwe deċiżjoni finali li tirriżulta minn dawn il-proċedimenti
+
+	
+
+ 
+
+
+
+
+5
+
+	
+
+Informazzjoni dwar kwalunkwe proċediment ċivili u amministrattiv pendenti jew kwalunkwe proċediment ġudizzjarju jew extraġudizzjarju ieħor pendenti li jinvolvi membru tal-korp maniġerjali jew membru tal-maniġment superjuri li jista' jkollu impatt negattiv fuq is-CSD, u kwalunkwe deċiżjoni finali li tirriżulta minn dawn il-proċedimenti
+
+	
+
+ 
+
+
+
+
+6
+
+	
+
+Kopja tar-riżultati tat-testijiet tal-istress fir-rigward tal-kontinwità tan-negozju jew ta' eżerċizzji simili mwettqa matul il-perjodu ta' rieżami
+
+	
+
+ 
+
+
+
+
+7
+
+	
+
+Rapport dwar l-inċidenti operazzjonali li seħħew matul il-perjodu ta' reviżjoni u li affettwaw il-provvista bla xkiel ta' kwalunkwe servizz ewlieni pprovdut, il-miżuri meħuda biex jindirizzawhom u r-riżultati tagħhom
+
+	
+
+ 
+
+
+
+
+8
+
+	
+
+Rapport dwar il-prestazzjoni tas-sistema, inkluż valutazzjoni tad-disponibbiltà tas-sistema matul il-perjodu ta' reviżjoni; id-disponibbiltà tas-sistema għandha titkejjel ta' kuljum bħala l-perċentwal tal-ħin li s-sistema tkun disponibbli għas-saldu
+
+	
+
+ 
+
+
+
+
+9
+
+	
+
+Sommarju tat-tipi kollha ta' interventi manwali mwettqa mis-CSD
+
+	
+
+ 
+
+
+
+
+10
+
+	
+
+L-informazzjoni li tikkonċerna l-identifikazzjoni tal-operazzjonijiet kritiċi tas-CSD, kwalunkwe tibdil sostantiv għall-pjan ta' rkupru tiegħu, ir-riżultati tax-xenarji ta' stress, l-iskattaturi ta' rkupru u l-għodod ta' rkupru tas-CSD
+
+	
+
+ 
+
+
+
+
+11
+
+	
+
+L-informazzjoni fuq kwalunkwe lment formali rċevut mis-CSR matul il-perjodu ta' rieżami inkluża informazzjoni dwar:
+
+(i)  in-natura tal-ilment;
+
+(ii)  kif ġie ttrattat l-ilment, inkluż l-eżitu tal-ilment; kif ukoll
+
+(iii)  id-data meta ntemm it-trattament tal-ilment.
+
+	
+
+ 
+
+
+
+
+12
+
+	
+
+L-informazzjoni li tikkonċerna l-każijiet fejn is-CSD ċaħad l-aċċess għas-servizzi tiegħu lil kwalunkwe parteċipant eżistenti jew potenzjali, lil kwalunkwe emittent, lil CSD ieħor jew lil infrastruttura tas-suq oħra
+
+	
+
+ 
+
+
+
+
+13
+
+	
+
+Rapport dwar il-bidliet li jaffettwaw kwalunkwe konnessjoni stabbilita mis-CSD, inkluż tibdil fil-mekkaniżmi u l-proċeduri użati għas-saldu f'dawn il-konnessjonijiet tas-CSD
+
+	
+
+ 
+
+
+
+
+14
+
+	
+
+L-informazzjoni li tikkonċerna l-każijiet kollha tal-kunflitti ta' interess identifikati li seħħew matul il-perjodu ta' rieżami, inkluża d-deskrizzjoni ta' kif kienu ġestiti
+
+	
+
+ 
+
+
+
+
+15
+
+	
+
+L-informazzjoni li tikkonċerna l-kontrolli interni u l-awditi mwettqa mis-CSD matul il-perjodu ta' rieżami
+
+	
+
+ 
+
+
+
+
+16
+
+	
+
+L-informazzjoni li tikkonċerna kwalunkwe ksur identifikat tar-Regolament (UE) Nru 909/2014, inkluż dak identifikat permezz tal-kanal ta' rappurtar imsemmi fl-Artikolu 26(5) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+
+
+
+17
+
+	
+
+L-informazzjoni dettaljata li tikkonċerna kwalunkwe azzjoni dixxiplinari meħuda mis-CSD, inkluż kwalunkwe każ ta' sospensjoni ta' parteċipanti f'konformità mal-Artikolu 7(9) tar-Regolament (UE) Nru 909/2014 flimkien ma' speċifikazzjoni tal-perjodu ta' sospensjoni u r-raġuni għal din is-sospensjoni
+
+	
+
+ 
+
+
+
+
+18
+
+	
+
+L-istrateġija ġenerali tan-negozju tas-CSD li tkopri perjodu ta' mill-anqas tliet snin wara l-aħħar rieżami u evalwazzjoni u pjan ta' negozju dettaljat għas-servizzi pprovduti mis-CSD li jkopri mill-anqas perjodu ta' sena wara l-aħħar rieżami u evalwazzjoni
+
+	
+
+ 
+
+
+
+
+
+
+
+Tabella 3
+
+Dejta statistika
+
+Nru
+
+	
+
+Tip ta' dejta
+
+	
+
+Format
+
+
+
+
+1
+
+	
+
+Lista ta' parteċipanti għal kull sistema ta' saldu tat-titoli mħaddma mis-CSD, inkluża informazzjoni dwar il-pajjiż ta' inkorporazzjoni tagħhom
+
+	
+
+Il-Kodiċi ta' 20 karattru alfanumeriku tal-Identifikatur tal-Entità Ġuridika (LEI) skont l-ISO 17442 (għal kull parteċipant)
+
++ il-kodiċi ta' 2 karattri tal-pajjiżi skont l-ISO 3166
+
+
+
+
+2
+
+	
+
+Lista ta' emittenti u lista ta' ħruġ ta' titoli miżmuma mis-CSD, inkluża informazzjoni dwar il-pajjiż ta' inkorporazzjoni tal-emittenti, u identifikazzjoni tal-emittenti, li jenfasizzaw lil min is-CSD jipprovdi s-servizzi msemmija fil-punt 1 jew 2 tat-Taqsima A tal-Anness tar-Regolament (UE) Nru 909/2014
+
+	
+
+Il-Kodiċi ta' 20 karattru alfanumeriku tal-Identifikatur tal-Entità Ġuridika (LEI) skont l-ISO 17442 (għal kull emittent)
+
+Il-kodiċi tal-pajjiżi magħmul minn 2 karattri skont l-ISO 3166
+
+Il-kodiċi ISIN ta' 12-il karattru alfanumeriku skont l-ISO 6166 (għal kull ħarġa ta' titoli)
+
++ Nutar: I/L
+
++ Central Maintenance: I/L
+
+
+
+
+3
+
+	
+
+Il-valur tas-suq totali u l-valur nominali tat-titoli rreġistrati fil-kontijiet tat-titoli b'mod ċentrali u mhux b'mod ċentrali, miżmuma f'kull sistema ta' saldu tat-titoli mħaddma mis-CSD
+
+	
+
+Il-valur nominali tat-titoli:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+Il-valur tas-suq tat-titoli:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+
+
+
+4
+
+	
+
+Il-valur nominali u l-valur tas-suq tat-titoli msemmija fil-punt 3 huma maqsuma hekk kif ġej:
+
+(i)  skont it-tip ta' strumenti finanzjarji, hekk kif ġej:
+
+(a)  titoli trasferibbli msemmija fil-punt (a) tal-Artikolu 4(1)(44) tad-Direttiva 2014/65/UE;
+
+(b)  dejn sovran imsemmi fl-Artikolu 4(1)(61) tad-Direttiva 2014/65/UE;
+
+(c)  titoli trasferibbli msemmija fil-punt (b) tal-Artikolu 4(1)(44) tad-Direttiva 2014/65/UE, minbarra dawk imsemmija fil-punt b);
+
+(d)  titoli trasferibbli msemmija fil-punt (c) tal-Artikolu 4(1)(44) tad-Direttiva 2014/65/UE;
+
+(e)  fondi negozjati fil-Borża (ETFs) imsemmija fl-Artikolu 4(1)(46) tad-Direttiva 2014/65/UE;
+
+(f)  unitajiet f'impriżi ta' investiment kollettiv, minbarra l-ETFs;
+
+(g)  strumenti tas-suq tal-flus, minbarra dawk imsemmija fil-punt b);
+
+(h)  kwoti ta' emissjonijiet;
+
+(i)  strumenti finanzjarji oħra.
+
+(ii)  skont il-pajjiż ta' inkorporazzjoni tal-parteċipant; kif ukoll
+
+(iii)  skont il-pajjiż ta' inkorporazzjoni tal-emittent;
+
+	
+
+Għal kull tip ta' strument finanzjarju:
+
+(a)  SHRS (jew kodiċi aktar granulari kif ipprovduti mis-CSD) — titoli trasferibbli msemmija fil-punt (a) tal-Artikolu 4(1)(44) tad-Direttiva 2014/65/UE
+
+(b)  SOVR (jew kodiċi aktar granulari kif ipprovduti mis-CSD) — dejn sovran imsemmi fl-Artikolu 4(1)(61) tad-Direttiva 2014/65/UE;
+
+(c)  DEBT (jew kodiċi aktar granulari kif ipprovduti mis-CSD) — titoli trasferibbli msemmija fil-punt (b) tal-Artikolu 4(1)(44) tad-Direttiva 2014/65/UE, minbarra dawk imsemmija fil-punt b);
+
+(d)  SECU (jew kodiċi aktar granulari kif ipprovduti mis-CSD) — titoli trasferibbli msemmija fil-punt (c) tal-Artikolu 4(1)(44) tad-Direttiva 2014/65/UE;
+
+(e)  ETFS (jew kodiċi aktar granulari kif ipprovduti mis-CSD) — fondi negozjati fil-Borża (ETFs);
+
+(f)  UCIT (jew kodiċi aktar granulari kif ipprovduti mis-CSD) — unitajiet f'impriżi ta' investiment kollettiv, minbarra l-ETFs;
+
+(g)  MMKT (jew kodiċi aktar granulari kif ipprovduti mis-CSD) — strumenti tas-suq tal-flus, minbarra dawk imsemmija fil-punt b);
+
+(h)  EMAL (jew kodiċi aktar granulari kif ipprovduti mis-CSD) — kwoti tal-emissjonijiet;
+
+(i)  OTHR (jew kodiċi aktar granulari kif ipprovduti mis-CSD) — oħrajn;
+
+skont il-pajjiż ta' inkorporazzjoni tal-parteċipant (il-kodiċi tal-pajjiżi magħmul minn 2 karattri skont l-ISO 3166)/il-pajjiż ta' inorporazzjoni tal-emittent (il-kodiċi tal-pajjiżi magħmul minn 2 karattri skont l-ISO 3166):
+
+Il-valur nominali tat-titoli:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+Il-valur tas-suq tat-titoli:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+
+
+
+5
+
+	
+
+Il-valur nominali u l-valur tas-suq tat-titoli inizjalment irreġistrati f'kull sistema tas-saldu tat-titoli mħaddma mis-CSD
+
+	
+
+Il-valur nominali tat-titoli:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+Il-valur tas-suq tat-titoli:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+
+
+
+6
+
+	
+
+Il-valur nominali u l-valur tas-suq tat-titoli msemmija fil-punt 5 hawn fuq, huma maqsuma hekk kif ġej:
+
+(i)  skont it-tipi ta'strumenti finanzjarji;
+
+(ii)  skont il-pajjiż ta' inkorporazzjoni tal-parteċipant;
+
+(iii)  skont il-pajjiż ta' inkorporazzjoni tal-emittent;
+
+	
+
+Għal kull tip ta' strument finanzjarju (kif imsemmi fil-punt 4)/il-pajjiż ta' inkorporazzjoni tal-parteċipant (il-kodiċi tal-pajjiżi magħmul minn 2 karattri skont l-ISO 3166)/il-pajjiż ta' inorporazzjoni tal-emittent (il-kodiċi tal-pajjiżi magħmul minn 2 karattri skont l-ISO 3166):
+
+Il-valur nominali tat-titoli:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+Il-valur tas-suq tat-titoli:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+
+
+
+7
+
+	
+
+L-għadd totali u l-valur tal-istruzzjonijiet ta' saldu kontra pagament flimkien mal-għadd totali u l-valur tas-suq tal-istruzzjonijiet ta' saldu mingħajr ħlas jew, jekk mhux disponibbli, il-valur nominali tal-istruzzjonijiet ta' saldu mingħajr ħlas stabbilit f'kull sistema ta' saldu tat-titoli mħaddma mis-CSD
+
+	
+
+L-għadd tal-istruzzjonijiet ta' saldu saldati f'kull sistema ta' saldu tat-titoli mħaddma mis-CSD:
+
+Sa 20 karattru numeriku rrapportati bħala numri sħaħ mingħajr deċimali.
+
+Il-valur tal-istruzzjonijiet ta' saldu saldati f'kull sistema ta' saldu tat-titoli mħaddma mis-CSD:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+
+
+
+8
+
+	
+
+L-għadd totali u l-valur tal-istruzzjonijiet ta' saldu msemmija fil-punt 7 huma maqsuma hekk kif ġej:
+
+(i)  skont it-tipi ta' strumenti finanzjarji msemmija fil-punt 4;
+
+(ii)  skont il-pajjiż ta' inkorporazzjoni tal-parteċipant;
+
+(iii)  skont il-pajjiż ta' inkorporazzjoni tal-emittent;
+
+(iv)  skont il-munita tas-saldu;
+
+(v)  skont it-tip ta' struzzjonijiet ta' saldu, hekk kif ġej:
+
+(a)  struzzjonijiet ta' saldu mingħajr ħlas li jikkonsistu minn struzzjonijiet ta' saldu b'kunsenja mingħajr ħlas (DFP) u rċevuti mingħajr ħlas (RFP);
+
+(b)  struzzjonijiet ta' saldu permezz ta' kunsenja kontra ħlas (DVP) u li jiġu rċevuti kontra ħlas (RVP);
+
+(c)  struzzjonijiet ta' saldu permezz ta' kunsenja mal-ħlas (DWP) u li jiġu rċevuti mal-ħlas (RWP);
+
+(d)  struzzjonijiet ta' saldu bi trasferiment ta' fondi mingħajr kunsenja simultanja ta' titoli (PFOD)
+
+(vi)  għal struzzjonijiet ta' saldu li għandhom parti li tikkonsisti fi flus kontanti, billi s-saldu fi flus jitwettaq skont l-Artikolu 40(1) tar-Regolament (UE) Nru 909/2014 f'konformità mal-Artikolu 40(2) tar-Regolament UE) Nru 909/2014
+
+	
+
+Għal kull tip ta' strument finanzjarju (kif imsemmi fil-punt 4)/il-pajjiż ta' inkorporazzjoni tal-parteċipant (il-kodiċi tal-pajjiżi magħmul minn 2 karattri skont l-ISO 3166)/il-pajjiż ta' inkorporazzjoni tal-emittent (il-kodiċi tal-pajjiżi magħmul minn 2 karattri skont l-ISO 3166/munita tas-saldu (il-Kodiċi tal-Munita skont l-ISO 4217, 3 figuri alfabetiċi)/it-tip ta' struzzjoni ta' saldu (DVP/RVP/DFP/RFP/DWP/RWP/PFOD)/saldu fi flus ta' bank ċentrali (CBM)/flus ta' banek kummerċjali (COM):
+
+L-għadd tal-istruzzjonijiet ta' saldu saldati f'kull sistema ta' saldu tat-titoli mħaddma mis-CSD:
+
+Sa 20 karattru numeriku rrapportati bħala numri sħaħ mingħajr deċimali.
+
+Il-valur tal-istruzzjonijiet ta' saldu saldati f'kull sistema ta' saldu tat-titoli mħaddma mis-CSD:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+
+
+
+9
+
+	
+
+L-għadd u l-valur ta' tranżazzjonjiet ta' xiri sfurzat imsemmija fl-Artikolu 7(3) u (4) tar-Regolament (UE) Nru 909/2014
+
+	
+
+L-għadd ta' tranżazzjonijiet ta' xiri sfurzat:
+
+Sa 20 karattru numeriku rrapportati bħala numri sħaħ mingħajr deċimali.
+
+Il-valur ta' tranżazzjonijiet ta' xiri sfurzat:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+
+
+
+10
+
+	
+
+L-għadd u l-ammont ta' penali msemmija fl-Artikolu 7(2) tar-Regolament (UE) Nru 909/2014 għal kull parteċipant tas-CSD
+
+	
+
+Għal kull parteċipant tas-CSD:
+
+L-għadd ta' penali:
+
+Sa 20 karattru numeriku rrapportati bħala numri sħaħ mingħajr deċimali.
+
+L-ammont ta' penali:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+
+
+
+11
+
+	
+
+Il-valur totali ta' operazzjonijiet ta' tislif u self ta' titoli pproċessati mis-CSD li jaġixxi bħala aġent u bħala prinċipal, skont kif ikun il-każ, maqsum skont it-tip ta' strumenti finanzjarji msemmija fil-punt 4
+
+	
+
+Għal kull tip ta' strument finanzjarju (kif imsemmi fil-punt 4), il-valur tal-operazzjonijiet ta' tislif u self ta' titoli pproċessati mis-:
+
+(a)  CSD li jaġixxi bħala aġent:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+(b)  Is-CSD li jaġixxi bħala prinċipal:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+
+
+
+12
+
+	
+
+Il-valur totali ta' struzzjonijiet ta' saldu saldati permezz ta' kull konnessjoni tas-CSD mill-perspettiva tas-CSD bħala:
+
+(a)  is-CSD li jagħmel it-talba;
+
+(b)  is-CSD li jirċievi t-talba.
+
+	
+
+Għal kull konnessjoni identifikata:
+
+(a)  Il-perspettiva tas-CSD li jagħmel it-talba:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+(b)  Il-perspettiva tas-CSD li jirċievi t-talba:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+
+
+
+13
+
+	
+
+Il-valur tal-garanziji u l-impenji relatati mal-operazzjonijiet ta' tislif u self ta' titoli
+
+	
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+
+
+
+14
+
+	
+
+Il-valur tal-attivitajiet tat-teżor li jinvolvu l-kambju f'munita barranija u titoli trasferibbli b'rabta mal-ġestjoni ta' bilanċi twal tal-parteċipanti inklużi kategoriji ta' istituzzjonijiet li l-bilanċi twal tagħhom huma ġestiti mis-CSD
+
+	
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+
+
+
+15
+
+	
+
+L-għadd ta' problemi ta' rikonċiljazzjoni li setgħu rriżultaw minħabba l-ħolqien jew it-tħassir bla bżonn ta' titoli fil-ħruġ miżmum mis-CSD, li ssodisfaw l-Artikolu 65(2) tar-Regolament Delegat (UE) 2017/392
+
+	
+
+Sa 20 karattru numeriku rrapportati bħala numri sħaħ mingħajr deċimali.
+
+
+
+
+16
+
+	
+
+Il-medja, il-medjan, u l-moda għat-tul ta' żmien meħud biex l-iżball identifikat jiġi rimedjat skont l-Artikolu 65(2) tar-Regolament Delegat (UE) 2017/392
+
+	
+
+Medja: Sa 20 karattru numeriku inklużi d-deċimali (fejn jiġi speċifikat jekk il-ħin jirreferix għal minuti/sigħat/ġranet).
+
+Medjan: Sa 20 karattru numeriku inklużi d-deċimali (fejn jiġi speċifikat jekk il-ħin jirreferix għal minuti/sigħat/ġranet).
+
+Moda: Sa 20 karattru numeriku inklużi d-deċimali (fejn jiġi speċifikat jekk il-ħin jirreferix għal minuti/sigħat/ġranet).
+
+
+
+
+
+
+
+ANNESS III
+
+Formoli għall-kooperazzjoni bejn l-awtoritajiet tal-Istat Membru tad-domiċilju u l-Istat Membru ospitanti
+
+(l-Artikolu 24(8) tar-Regolament (UE) Nru 909/2014)
+
+
+
+
+
+
+
+Tabella 1
+
+Formola għall-iskambju ta' informazzjoni bejn l-awtorità kompetenti tal-Istat Membru tad-domiċilju u l-awtorità kompetenti tal-Istat Membru ospitanti li fih is-CSD ikun stabbilixxa fergħa
+
+Kaxxa
+
+	
+
+Kontenut
+
+	
+
+Frekwenza
+
+
+
+
+Id-dettalji li jikkonċernaw ir-rieżami u l-evalwazzjoni tas-CSD imsemmija fl-Artikolu 22(1) tar-Regolament (UE) Nru 909/2014
+
+
+
+
+Informazzjoni li għandha tingħata mill-awtorità kompetenti tal-Istat Membru tad-domiċilju
+
+
+
+
+L-isem korporattiv tas-CSD
+
+	
+
+isem
+
+	
+
+meta jseħħu l-bidliet
+
+
+
+
+L-indirizz legali tas-CSD
+
+	
+
+indirizz
+
+	
+
+meta jseħħu l-bidliet
+
+
+
+
+Lista ta' servizzi li s-CSD jipprovdi skont l-Anness tar-Regolament (UE) Nru 909/2014
+
+	
+
+lista
+
+	
+
+meta jseħħu l-bidliet
+
+
+
+
+L-istruttura u s-sjieda tal-grupp li fih jappartjeni s-CSD
+
+	
+
+skema
+
+	
+
+meta jseħħu l-bidliet sinifikanti
+
+
+
+
+Il-livell tal-kapital tas-CSD (fejn rilevanti, il-kapital tal-Grad 1 u l-kapital totali)
+
+	
+
+tabella
+
+	
+
+meta jseħħu l-bidliet sinifikanti
+
+
+
+
+L-organizzazzjoni, il-korp maniġerjali u l-maniġment superjuri tas-CSD (inklużi s-CVs)
+
+	
+
+deskrizzjoni
+
+	
+
+meta jseħħu l-bidliet
+
+
+
+
+Il-proċessi u l-arranġamenti għal governanza
+
+	
+
+deskrizzjoni
+
+	
+
+meta l-bidliet iħallu impatt sinifikanti fuq il-governanza tas-CSD
+
+
+
+
+Id-dettalji tal-awtoritajiet involuti fis-superviżjoni/fil-monitoraġġ tas-CSD
+
+	
+
+isem/kariga
+
+	
+
+notifika bil-quddiem, fejn prattikabbli, jew kemm jista' jkun malajr
+
+
+
+
+L-informazzjoni dwar kwalunkwe theddida materjali għall-kapaċità tas-CSD li jikkonforma mar-Regolament (UE) Nru 909/2014 u ma' regolamenti delegati u ta' implimentazzjoni oħrajn
+
+	
+
+deskrizzjoni
+
+	
+
+notifika bil-quddiem, fejn prattikabbli, jew mingħarj dewmien żejjed
+
+
+
+
+Sanzjonijiet u miżuri superviżorji eċċezzjonali li jistgħu jħallu impatt fuq l-attivitajiet tal-fergħa tas-CSD
+
+	
+
+deskrizzjoni
+
+	
+
+notifika bil-quddiem, fejn prattikabbli, jew mingħajr dewmien żejjed
+
+
+
+
+Ir-rapportar dwar problemi ta' prestazzjoni jew dwar inċidenti kbar u azzjonijiet ta' rimedju meħuda li jistgħu jħallu impatt fuq l-attivitajiet tal-fergħa
+
+	
+
+deskrizzjoni
+
+	
+
+meta jseħħ
+
+
+
+
+Id-diffikultajiet fl-operazzjonijiet tas-CSD li jkollhom effetti kollaterali potenzjalment sinifikanti fuq il-fergħa
+
+	
+
+Deskrizzjoni
+
+	
+
+malajr kemm jista' jkun
+
+
+
+
+Il-fatturi li jissuġġerixxu riskju ta' kontaġju potenzjalment għoli mill-operazzjonijiet tas-CSD għall-fergħa
+
+	
+
+deskrizzjoni
+
+	
+
+malajr kemm jista' jkun
+
+
+
+
+L-estensjoni tas-servizzi jew l-irtirar tal-awtorizzazzjoni
+
+	
+
+deskrizzjoni
+
+	
+
+notifika bil-quddiem, fejn prattikabbli, jew kemm jista' jkun malajr
+
+
+
+
+Statistika dwar in-numru ta' persunal
+
+	
+
+tabella
+
+	
+
+fuq bażi annwali
+
+
+
+
+Id-dejta finanzjarja, bħal karta tal-bilanċ, rapporti tal-introjtu
+
+	
+
+tabella
+
+	
+
+fuq bażi annwali
+
+
+
+
+Id-daqs tal-operazzjonijiet (assi taħt kustodja, id-dħul)
+
+	
+
+tabella
+
+	
+
+fuq bażi annwali
+
+
+
+
+Politika għall-Ġestjoni tar-Riskju
+
+	
+
+deskrizzjoni
+
+	
+
+meta l-bidliet iħallu impatt sinifikanti fuq il-governanza jew il-ġestjoni tar-riskju tas-CSD
+
+
+
+
+Fejn rilevanti għall-fergħa, il-ftehimiet ta' esternalizzazzjoni fir-rigward tas-servizzi pprovduti mill-fergħa
+
+	
+
+skema
+
+	
+
+meta l-bidliet iħallu impatt sinifikanti fuq il-governanza jew il-ġestjoni tar-riskju tas-CSD
+
+
+
+
+Informazzjoni oħra għall-iskop tat-twettiq tal-mandat tagħha
+
+	
+
+ 
+
+	
+
+Meta tintalab mill-awtorità kompetenti tal-Istat Membru ospitanti
+
+
+
+
+Informazzjoni li għandha tingħata mill-awtorità kompetenti tal-Istat Membru ospitanti
+
+
+
+
+L-isem korporattiv tal-fergħa
+
+	
+
+isem
+
+	
+
+meta jseħħu l-bidliet
+
+
+
+
+L-indirizz legali tal-fergħa
+
+	
+
+indirizz
+
+	
+
+meta jseħħu l-bidliet
+
+
+
+
+Lista ta' servizzi li l-fergħa tipprovdi skont l-Anness tar-Regolament (UE) Nru 909/2014
+
+	
+
+lista
+
+	
+
+meta jseħħu l-bidliet
+
+
+
+
+L-organizzazzjoni, il-maniġment superjuri tal-fergħa
+
+	
+
+deskrizzjoni
+
+	
+
+meta jseħħu l-bidliet
+
+
+
+
+Il-proċessi u l-arranġamenti speċifiċi għall-governanza tal-fergħa
+
+	
+
+deskrizzjoni
+
+	
+
+meta l-bidliet iħallu impatt sinifikanti fuq il-governanza jew il-ġestjoni tar-riskju tas-CSD
+
+
+
+
+Id-dettalji tal-awtoritajiet involuti fis-superviżjoni/fil-monitoraġġ tal-fergħa
+
+	
+
+isem/kariga
+
+	
+
+notifika bil-quddiem, fejn prattikabbli, jew kemm jista' jkun malajr
+
+
+
+
+L-informazzjoni dwar kwalunkwe theddida materjali għall-kapaċità tal-fergħa tas-CSD li tikkonforma mar-Regolament (UE) Nru 909/2014 u ma' regolamenti delegati u ta' implimentazzjoni oħrajn
+
+	
+
+deskrizzjoni
+
+	
+
+notifika bil-quddiem, fejn prattikabbli, jew kemm jista' jkun malajr
+
+
+
+
+Is-sanzjonijiet u l-miżuri superviżorji eċċezzjonali applikati fuq il-fergħa
+
+	
+
+deskrizzjoni
+
+	
+
+notifika bil-quddiem, fejn prattikabbli, jew kemm jista' jkun malajr
+
+
+
+
+Ir-rapporti dwar problemi ta' prestazzjoni jew dwar inċidenti kbar u azzjonijiet ta' rimedju meħuda
+
+	
+
+deskrizzjoni
+
+	
+
+meta dan iseħħ
+
+
+
+
+Id-diffikultajiet fl-operazzjonijiet tal-fergħa li jkollhom effetti kollaterali potenzjalment sinifikanti fuq is-CSD
+
+	
+
+deskrizzjoni
+
+	
+
+malajr kemm jista' jkun
+
+
+
+
+Il-fatturi li jissuġġerixxu riskju ta' kontaġju potenzjalment għoli mill-operazzjonijiet tal-fergħa għall-operazzjonijiet tas-CSD
+
+	
+
+deskrizzjoni
+
+	
+
+malajr kemm jista' jkun
+
+
+
+
+Statistika dwar in-numru ta' persunal tal-fergħa
+
+	
+
+tabella
+
+	
+
+fuq bażi annwali
+
+
+
+
+Id-dejta finanzjarja, bħal karta tal-bilanċ, rapporti tal-introjtu li jikkonċernaw il-fergħa
+
+	
+
+tabella
+
+	
+
+fuq bażi annwali
+
+
+
+
+Informazzjoni oħra għall-iskop tat-twettiq tal-mandat tagħha
+
+	
+
+ 
+
+	
+
+Meta tintalab mill-awtorità kompetenti tal-Istat Membru tad-domiċilju
+
+
+
+
+
+
+
+Tabella 2
+
+Formola li għandu jimtela mill-awtorità kompetenti li twettaq spezzjonijiet fuq il-post TA' fergħa tas-CSD
+
+Kaxxa
+
+	
+
+Kontenut
+
+
+
+
+L-isem tal-awtorità kompetenti li titlob l-ispezzjoni fuq il-post
+
+	
+
+Isem
+
+
+
+
+Il-persuna ta' kuntatt primarja u sekondarja tal-awtorità kompetenti li titlob l-ispezzjoni fuq il-post
+
+	
+
+isem, numru tat-telefown, indirizz elettroniku, rwol
+
+
+
+
+L-isem tal-fergħa tas-CSD fejn għandha titwettaq l-ispezzjoni fuq il-post
+
+	
+
+isem u indirizz
+
+
+
+
+L-isem tas-CSD li stabbilixxa l-fergħa
+
+	
+
+Isem
+
+
+
+
+Fejn disponibbli, il-persuna ta' kuntatt tas-CSD jew tal-fergħa responsabbli għall-ispezzjoni fuq il-post
+
+	
+
+isem, numru tat-telefown, indirizz elettroniku, rwol
+
+
+
+
+L-isem tal-awtorità kompetenti l-oħra
+
+	
+
+isem
+
+
+
+
+Il-persuna ta' kuntatt primarja u sekondarja tal-awtorità kompetenti l-oħra
+
+	
+
+isem, numru tat-telefown, indirizz elettroniku, rwol
+
+
+
+
+Id-data skedata tal-ispezzjoni fuq il-post
+
+	
+
+SSSSS/XX/JJ — SSSS/XX/JJ
+
+
+
+
+Ir-raġunament għall-ispezzjoni fuq il-post
+
+	
+
+test
+
+
+
+
+Id-dokumenti sottostanti li huwa ppjanat li jintużaw fil-kuntest tal-ispezzjoni fuq il-post
+
+	
+
+lista tad-dokumenti
+
+
+
+
+
+
+
+Tabella 3
+
+Formola li għandu jimtela mill-awtorità kompetenti tal-Istat Membru tad-domiċilju wara t-talba GĦAL informazzjoni mill-awtorità kompetenti tal-Istat Membru ospitanti
+
+Kaxxa
+
+	
+
+Kontenut
+
+
+
+
+L-isem korporattiv tas-CSD
+
+	
+
+isem
+
+
+
+
+L-indirizz legali tas-CSD
+
+	
+
+indirizz
+
+
+
+
+Il-lista ta' servizzi li s-CSD jipprovdi skont l-Anness tar-Regolament (UE) Nru 909/2014
+
+	
+
+lista
+
+
+
+
+L-isem korporattiv tal-parteċipanti tas-CSD bħala Entitajiet Legali
+
+	
+
+lista
+
+
+
+
+Il-pajjiż ta' oriġini tal-parteċipanti tas-CSD (il-kodiċi tal-pajjiżi magħmul minn 2 numri skont l-ISO)
+
+	
+
+lista
+
+
+
+
+Il-LEI tal-emittenti li l-ħruġ tat-titoli tagħhom huwa rreġistrat f'kontijiet tat-titoli miżmuma b'mod ċentrali jew le mis-CSD
+
+	
+
+lista
+
+
+
+
+Il-pajjiż ta' oriġini tal-emittenti (il-kodiċi tal-pajjiżi magħmul minn 2 numri skont l-ISO)
+
+	
+
+lista
+
+
+
+
+Il-kodiċi ISIN tat-titoli maħruġa kkostitwiti taħt il-liġi tal-Istat Membru ospitanti inizjalment irreġistrati fis-CSD tal-Istat Membru tad-domiċilju
+
+	
+
+lista
+
+
+
+
+Il-valur tas-suq jew, jekk mhux disponibbli, il-valur nominali tat-titoli maħruġa mill-emittenti mill-Istat Membru ospitanti li għalihom is-CSD tal-Istat Membru tad-domiċilju jipprovdi s-servizzi ewlenin imsemmija fil-punt 1 jew 2 tat-Taqsima A tal-Anness tar-Regolament (UE) Nru 909/2014
+
+	
+
+ċifra
+
+
+
+
+Il-valur tas-suq jew, jekk mhux disponibbli, il-valur nominali tat-titoli rreġistrati fil-kontijiet tat-titoli li mhumiex miżmuma b'mod ċentrali mis-CSD tal-Istat Membru tad-domiċilju għall-parteċipanti u d-detenturi l-oħra tal-kontijiet tat-titoli tal-Istat Membru ospitanti
+
+	
+
+ċifra
+
+
+
+
+Il-valur tal-istruzzjonijiet ta' saldu kontra pagament flimkien mal-valur tas-suq tal-istruzzjonijiet ta' saldu mingħajr ħlas jew, jekk mhux disponibbli, il-valur nominali tal-istruzzjonijiet ta' saldu mingħajr ħlas issaldati mis-CSD tal-Istat Membru tad-domiċilju b'rabta mat-tranżazzjonijiet f'titoli maħruġa minn emittenti mill-Istat Membru ospitanti
+
+	
+
+ċifra
+
+
+
+
+Il-valur tal-istruzzjonijiet ta' saldu kontra pagament flimkien mal-valur tas-suq tal-istruzzjonijiet ta' saldu mingħajr ħlas jew, jekk mhux disponibbli, il-valur nominali tal-istruzzjonijiet ta' saldu mingħajr ħlas issaldati mis-CSD tal-Istat Membru tad-domiċilju minn parteċipanti kif ukoll għal detenturi oħra tal-kontijiet tat-titoli tal-Istat Membru ospitanti
+
+	
+
+ċifra
+
+
+
+
+Informazzjoni oħra għall-iskop tat-twettiq tal-mandat tiegħu
+
+	
+
+ 
+
+
+
+
+
+
+
+Tabella 4
+
+Formola li għandu jimtela mill-awtorità kompetenti tal-Istat Membru ospitanti li jkollha raġunijiet ċari u li jistgħu jiġu pprovati biex wieħed jemmen li CSD li qed jipprovdi servizzi ġewwa t-territorju tagħha skont l-Artikolu 23 tar-Regolament (UE) Nru 909/2014 ikun qed jikser l-obbligi li ġejjin mid-dispożizzjonijiet tar-Regolament (UE) Nru 909/2014
+
+Kaxxa
+
+	
+
+Kontenut
+
+
+
+
+L-isem tal-awtorità kompetenti tal-Istat Membru ospitanti
+
+	
+
+Isem
+
+
+
+
+Il-persuna ta' kuntatt primarja u sekondarja tal-awtorità kompetenti tal-Istat Membru ospitanti
+
+	
+
+isem, numru tat-telefown, indirizz elettroniku, rwol
+
+
+
+
+L-isem tas-CSD li jipprovdi servizzi fl-Istat Membru ospitanti kkunsidrat li qiegħed fi ksur tal-obbligi tiegħu
+
+	
+
+isem u indirizz
+
+
+
+
+Il-persuna ta' kuntatt tas-CSD li jipprovdi servizzi fl-Istat Membru ospitanti kkunsidrat li qiegħed fi ksur tal-obbligi tiegħu
+
+	
+
+isem, numru tat-telefown, indirizz elettroniku, rwol
+
+
+
+
+L-isem tal-awtorità kompetenti tal-Istat Membru tad-domiċilju
+
+	
+
+isem
+
+
+
+
+Il-persuna ta' kuntatt primarja u sekondarja tal-awtorità kompetenti tal-Istat Membru tad-domiċilju
+
+	
+
+isem, numru tat-telefown, indirizz elettroniku, rwol
+
+
+
+
+Meta rilevanti, il-persuna ta' kuntatt primarja u sekondarja tal-ESMA
+
+	
+
+isem, numru tat-telefown, indirizz elettroniku, rwol
+
+
+
+
+Id-deskrizzjoni tar-raġunijiet biex wieħed jemmen li s-CSD stabbilit fl-Istat Membru tad-domiċilju li jipprovdi servizzi fit-territorju tal-Istat Membru ospitanti skont l-Artikolu 23 tar-Regolament (UE) Nru 909/2014 ikun qed jikser l-obbligi li ġejjin mid-dispożizzjonijiet tar-Regolament (UE) Nru 909/2014
+
+	
+
+test
+
+
+
+
+
+
+
+ANNESS IV
+
+Il-format tar-rekords tas-CSD
+
+(l-Artikolu 29(4) tar-Regolament (UE) Nru 909/2014)
+
+
+
+
+
+
+
+Tabella 1
+
+Rekords ta' tranżazzjonijiet/struzzjonijiet ta' saldu (fluss)
+
+Nru
+
+	
+
+Kaxxa
+
+	
+
+Format
+
+
+
+
+1
+
+	
+
+It-tip ta' struzzjoni ta' saldu
+
+	
+
+(a)  DFP — struzzjonijiet ta' saldu bil-kunsinna mingħajr ħlas;
+
+(b)  RFP — struzzjonijiet ta' saldu rċevuti mingħajr ħlas;
+
+(c)  DVP — struzzjonijiet ta' saldu bil-kunsenja kontra l-ħlas u
+
+(d)  RVP — struzzjonijiet ta' saldu rċevuti kontra l-ħlas;
+
+(e)  DWP — struzzjonijiet ta' saldu bil-kunsenja kontra l-ħlas;
+
+(f)  RWP — struzzjonijiet ta' saldu rċevuti kontra l-ħlas;
+
+(g)  PFOD — struzzjonijiet ta' saldu bi trasferiment ta' fondi mingħajr kunsenja simultanja ta' titoli.
+
+
+
+
+2
+
+	
+
+Tip ta' Tranżazzjoni
+
+	
+
+(a)  TRAD — ix-xiri jew il-bejgħ ta' titoli;
+
+(b)  COLI/COLO/CNCB — l-operazzjonijiet ta' ġestjoni kollaterali;
+
+(c)  SECL/SECB — l-operazzjonijiet ta' self/tislif ta' titoli;
+
+(d)  REPU/RVPO/TRPO/TRVO/BSBK/SBBK — tranżazzjonijiet ta' xiri mill-ġdid;
+
+(e)  OTHR (jew kodiċi aktar granulari kif ipprovduti mis-CSD) — oħrajn.
+
+
+
+
+3
+
+	
+
+Struzzjoni ta' Referenza Unika tal-parteċipant
+
+	
+
+Struzzjoni ta' referenza unika tal-parteċipant skont ir-regoli tas-CSD
+
+
+
+
+4
+
+	
+
+Data tan-negozju
+
+	
+
+Id-data skont l-ISO 8601 ►C1   fil-format SSSS-XX-JJ ◄
+
+
+
+
+5
+
+	
+
+Data Prevista tas-Saldu
+
+	
+
+Id-data skont l-ISO 8601 ►C1   fil-format SSSS-XX-JJ ◄
+
+
+
+
+6
+
+	
+
+Timbru tal-ħin tas-saldu
+
+	
+
+Id-data skont l-ISO 8601 fil-format tal-ħin tal-UTC ►C1   SSSS-XX-JJThh:mm:ssZ ◄
+
+
+
+
+7
+
+	
+
+It-timbru tal-ħin tal-mument tad-dħul tal-istruzzjoni ta' saldu fis-sistema ta' saldu tat-titoli
+
+	
+
+Id-data skont l-ISO 8601 fil-format tal-ħin tal-UTC ►C1   SSSS-XX-JJThh:mm:ssZ ◄
+
+
+
+
+8
+
+	
+
+It-timbru tal-ħin tal-mument tal-irrevokabbiltà tal-istruzzjoni tas-saldu
+
+	
+
+Id-data skont l-ISO 8601 fil-format tal-ħin tal-UTC ►C1   SSSS-XX-JJThh:mm:ssZ ◄
+
+
+
+
+9
+
+	
+
+It-timbru tal-ħin tal-allinjament, fejn applikabbli
+
+	
+
+Id-data skont l-ISO 8601 fil-format tal-ħin tal-UTC ►C1   SSSS-XX-JJThh:mm:ssZ ◄
+
+
+
+
+10
+
+	
+
+L-identifikatur tal-kont tat-titoli
+
+	
+
+L-identifikatur uniku tal-kont tat-titoli pprovdut mis-CSD
+
+
+
+
+11
+
+	
+
+L-identifikatur tal-kont tal-flus kontanti
+
+	
+
+L-identifikatur uniku tal-kont tal-flus kontanti pprovdut mill-bank ċentrali jew mis-CSD awtorizzat skont il-punt (a) tal-Artikolu 54(2) tar-Regolament (UE) Nru 909/2014 jew minn istituzzjoni tal-kreditu nominata msemmija fil-punt (b) tal-Artikolu 54(2) tar-Regolament (UE) Nru 909/2014
+
+
+
+
+12
+
+	
+
+L-identifikatur tal-bank ta' saldu
+
+	
+
+Il-Kodiċi ta' 20 karattru alfanumeriku tal-Identifikatur ta' Entità Ġuridika (LEI) skont l-ISO 17442, jew il-Kodiċi ta' Identifikazzjoni tal-Bank (BIC) bl-obbligu ta' konverżjoni għal-LEI għall-finijiet ta' rapportar lill-awtoritajiet
+
+
+
+
+13
+
+	
+
+L-identifikatur tal-parteċipant li jagħti l-istruzzjonijiet
+
+	
+
+Il-Kodiċi ta' 20 karattru alfanumeriku tal-Identifikatur ta' Entità Ġuridika (LEI) skont l-ISO 17442, jew il-Kodiċi ta' Identifikazzjoni tal-Bank (BIC) bl-obbligu ta' konverżjoni għal-LEI għall-finijiet ta' rapportar lill-awtoritajiet
+
+
+
+
+14
+
+	
+
+L-identifikatur tal-kontroparti tal-parteċipant li jagħti l-istruzzjonijiet
+
+	
+
+Il-Kodiċi ta' 20 karattru alfanumeriku tal-Identifikatur ta' Entità Ġuridika (LEI) skont l-ISO 17442, jew il-Kodiċi ta' Identifikazzjoni tal-Bank (BIC) (bl-obbligu ta' konverżjoni għal-LEI għall-finijiet ta' rapportar lill-awtoritajiet)
+
+
+
+
+15
+
+	
+
+L-identifikatur tal-klijent tal-parteċipant li jagħti l-istruzzjonijiet, fejn dan ikun magħruf mis-CSD
+
+	
+
+Il-Kodiċi ta' 20 karattru alfanumeriku tal-Identifikatur ta' Entità Ġuridika (LEI) skont l-ISO 17442, jew il-Kodiċi ta' Identifikazzjoni tal-Bank (BIC) jew forom ta' identifikazzjoni oħra disponibbli għall-persuni ġuridiċi
+
+Fejn disponibbli l-identifikatur nazzjonali għall-persuni fiżiċi (50 figura alfanumerika) li jippermetti l-identifikazzjoni unika tal-persuna fiżika fuq livell nazzjonali
+
+
+
+
+16
+
+	
+
+L-identifikatur tal-klijent tal-parteċipant li jagħti l-istruzzjonijiet, fejn dan ikun magħruf mis-CSD
+
+	
+
+Il-Kodiċi ta' 20 karattru alfanumeriku tal-Identifikatur ta' Entità Ġuridika (LEI) skont l-ISO 17442, jew il-Kodiċi ta' Identifikazzjoni tal-Bank (BIC) jew forom ta' identifikazzjoni oħra disponibbli għall-persuni ġuridiċi
+
+Fejn disponibbli, l-identifikatur nazzjonali għall-persuni fiżiċi (50 figura alfanumerika) li jippermetti l-identifikazzjoni unika tal-persuna fiżika fuq livell nazzjonali
+
+
+
+
+17
+
+	
+
+L-identifikaturi tat-titoli
+
+	
+
+Il-kodiċi ISIN ta' 12-il karattru alfanumeriku skont l-ISO 6166
+
+
+
+
+18
+
+	
+
+Il-munita tas-saldu
+
+	
+
+Il-Kodiċi tal-Munita skont l-ISO 4217, magħmul minn 3 figuri alfabetiċi
+
+
+
+
+19
+
+	
+
+L-ammont tal-flus kontanti tas-saldu
+
+	
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. ►C1   Is-simbolu negattiv jekk popolat, ma jingħaddx bħala karattru numeriku ◄
+
+
+
+
+20
+
+	
+
+Il-kwantità jew l-ammont nominali ta' titoli
+
+	
+
+►C1   Sa 20 karattru numeriku rrappurtati bħala numri sħaħ mingħajr deċimali ◄
+
+
+
+
+21
+
+	
+
+L-istatus tal-istruzzjonijiet ta' saldu
+
+	
+
+PEND — Struzzjoni pendenti (is-saldu mal-ISD għadu possibbli)
+
+PENF — Struzzjoni li tfalli (is-saldu mal-ISD ma għadux aktar possibbli)
+
+SETT — Saldu sħiħ
+
+PAIN — Saldata b'mod parzjali
+
+CANS — Struzzjoni kkanċellata mis-sistema
+
+CANI — Struzzjoni kkanċellata mill-parteċipant
+
+Il-parti tat-titoli li jkun fadal biex tiġi saldata (jekk l-Istatus tal-istruzzjoni tkun PAIN)
+
+Informazzjoni dwar l-ammont XXX ta' titoli li fadal kontra l-flus kontanti YYY li għad iridu jiġu kkonsenjati
+
+Status ta' allinjament
+
+MACH jekk allinjata jew
+
+NMAT jekk l-istruzzjoni mhux allinjata
+
+L-istatus tal-iffriżar tal-istruzzjoni
+
+Valuri possibbli:
+
+PREA [L-Istruzzjoni TiegħekIffriżata]
+
+CSDH [L-iffriżar ta' CSD]
+
+CVAL [Il-validazzjonita'CSD]
+
+CDLR [Kunsenja KundizzjonaliLiQedTistennaRilaxx]
+
+VOJTA jekk mhux miżmuma
+
+Nonparteċipazzjoni ta' saldu parzjali
+
+Valuri possibbli:
+
+NPAR jekk tiġi attivata n-nonparteċipazzjoni ta' saldu parzjali
+
+VOJTA jekk jiġi aċċettat saldu parzjali
+
+Kodiċijiet ta' raġuni għal struzzjonijiet mhux saldati (jekk l-Istatus tal-istruzzjoni huwa PEND jew PENF)
+
+BLOC KontImblukkat
+
+CDLR KunsenjaKundizzjonaliLiQedTistennaRilaxx
+
+CLAC TitoliInsuffiċjentital-Kontroparti
+
+CMON FlusInsuffiċjentital-Kontroparti
+
+CSDH L-iffriżarta'CSD
+
+CVAL Il-validazzjonita'CSD
+
+FUTU Stennijata'Datatas-Saldu
+
+INBC L-Għaddta'NumriMhuxKomplut
+
+LACK NuqqasTa'Titoli
+
+LATE Skadenzatas-SuqMitlufa
+
+LINK StruzzjoniKonnessaPendenti
+
+MONY FlusInsuffiċjenti
+
+OTHR Oħrajn
+
+PART Saldita'KummerċParzjali
+
+PRCY Struzzjonita'KontropartiFfriżata
+
+PREA L-IstruzzjoniTiegħekIffriżata
+
+SBLO TitoliImblukkati
+
+CONF Stennijata'Konferma
+
+CDAC KunsenjaKundizzjonaliLiQedTistennaKanċellazzjoni
+
+
+
+
+22
+
+	
+
+Post tan-negozju
+
+	
+
+Popolat mill-MIC (Kodiċi ta' Identifikazzjoni tas-Suq tal-ISO) (ISO 10383) jekk l-istruzzjoni tkun tirriżulta minn kummerċ konkluż f'ċentru tan-negozjar jew jitħalla vojt għal tranżazzjonijiet OTC
+
+
+
+
+23
+
+	
+
+Jekk ikun applikabbli, post tal-ikklirjar
+
+	
+
+Il-Kodiċi ta' 20 karattru alfanumeriku tal-Identifikatur ta' Entità Ġuridika (LEI) skont l-ISO 17442, jew il-Kodiċi ta' Identifikazzjoni tal-Bank (BIC) tas-CCP bl-obbligu ta' konverżjoni għal-LEI għall-finijiet ta' rapportar lill-awtoritajiet
+
+
+
+
+24
+
+	
+
+Meta jkun hemm proċess ta' xiri sfurzat għal tranżazzjoni, id-dettalji li ġejjin dwar:
+
+a)  ir-riżultati finali tal-proċess ta' xiri sfurzat (inkluż l-għadd u l-valur tal-istrumenti finanzjarji mixtrija jekk ix-xiri sfurzat huwa ta' suċċess);
+
+(b)  jekk applikabbli, pagament ta' kumpens fi flus kontanti (inkluż l-ammont tal-kumpens fi flus kontanti);
+
+(c)  jekk applikabbli, kanċellazzjoni tal-istruzzjoni ta' saldu inizjali.
+
+	
+
+Xiri sfurzat mibdi: I/L
+
+Xiri sfurzat ta' suċċess: I/L/P
+
+L-għadd ta' strumenti finanzjarji mixtrija:
+
+Sa 20 karattru numeriku rrapportati bħala numri sħaħ mingħajr deċimali.
+
+Il-valur tal-istrumenti finanzjarji mixtrija:
+
+Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. ►C1   Is-simbolu negattiv jekk popolat, ma jingħaddx bħala karattru numeriku ◄
+
+Il-pagament tal-kumpens fi flus kontanti I/L
+
+L-ammont tal-kumpens fi flus kontanti Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. ►C1   Is-simbolu negattiv jekk popolat, ma jingħaddx bħala karattru numeriku ◄
+
+Il-kanċellazzjoni tal-istruzzjoni ta' saldu inizjali: I/L
+
+
+
+
+25
+
+	
+
+Għal kull struzzjoni ta' saldu li tfalli milli tiġi saldata fuq l-ISD, l-ammont ta' penali msemmija fl-Artikolu 7(2) tar-Regolament (UE) Nru 909/2014
+
+	
+
+L-ammont ta' penali: Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. ►C1   Is-simbolu negattiv jekk popolat, ma jingħaddx bħala karattru numeriku ◄
+
+
+
+
+
+
+
+Tabella 2
+
+Rekords tal-pożizzjoni (stokkijiet)
+
+Nru
+
+	
+
+Kaxxa
+
+	
+
+Format
+
+
+
+
+1
+
+	
+
+L-identifikaturi tal-emittenti li għalihom is-CSD jipprovdi s-servizz ewlieni msemmi fil-punt 1 jew 2 tat-Taqsima A tal-Anness tar-Regolament (UE) Nru 909/2014
+
+	
+
+Il-Kodiċi ta' 20 karattru alfanumeriku tal-Identifikatur ta' Entità Ġuridika (LEI) skont l-ISO 17442, jew il-Kodiċi ta' Identifikazzjoni tal-Bank (BIC) għal persuni ġuridiċi bl-obbligu ta' konverżjoni għal-LEI għall-finijiet ta' rapportar lill-awtoritajiet
+
+
+
+
+2
+
+	
+
+L-identifikatur ta' kull ħarġa ta' titoli li għaliha s-CSD jipprovdi s-servizz ewlieni msemmi fil-punt 1 jew 2 tat-Taqsima A tal-Anness tar-Regolament (UE) Nru 909/2014
+
+	
+
+Il-kodiċi ISIN ta' 12-il karattru alfanumeriku skont l-ISO 6166
+
+
+
+
+3
+
+	
+
+L-identifikatur ta' kull ħarġa ta' titoli rreġistrat f'kontijiet tat-titoli li mhumiex miżmuma b'mod ċentrali mis-CSD
+
+	
+
+Il-kodiċi ISIN ta' 12-il karattru alfanumeriku skont l-ISO 6166
+
+
+
+
+4
+
+	
+
+L-identifikatur tas-CSD emittent jew tal-entità ta' pajjiż terz rilevanti li twettaq funzjonijiet simili għal CSD emittent għal kull ħarġa ta' titoli msemmija fil-punt 3
+
+	
+
+Il-Kodiċi ta' 20 karattru alfanumeriku tal-Identifikatur ta' Entità Ġuridika (LEI) skont l-ISO 17442, jew il-Kodiċi ta' Identifikazzjoni tal-Bank (BIC) bl-obbligu ta' konverżjoni għal-LEI għall-finijiet ta' rapportar lill-awtoritajiet
+
+
+
+
+5
+
+	
+
+Għal kull ħarġa ta' titoli msemmija fil-punti 2 u 3, il-liġi li taħtha huma kkostitwiti t-titoli rreġistrati mis-CSD
+
+	
+
+Il-kodiċi tal-pajjiż magħmul minn 2 karattri skont l-ISO 3166
+
+
+
+
+6
+
+	
+
+Il-pajjiż ta' inkorporazzjoni tal-emittenti ta' kull ħarġa ta' titoli msemmi fil-punti 2 u 3
+
+	
+
+Il-kodiċi tal-pajjiżi magħmul minn 2 karattri skont l-ISO 3166
+
+
+
+
+7
+
+	
+
+L-identifikaturi tal-kontijiet tat-titoli tal-emittenti, fil-każ tas-CSDs emittenti
+
+	
+
+L-identifikatur uniku tal-kont tat-titoli pprovdut mis-CSD emittent
+
+
+
+
+8
+
+	
+
+L-identifikaturi tal-kontijiet tal-flus kontanti tal-emittenti, fil-każ tas-CSDs emittenti
+
+	
+
+In-Numru Internazzjonali tal-Kont tal-Bank (IBAN)
+
+
+
+
+9
+
+	
+
+L-identifikaturi tal-banek tas-saldu użati minn kull emittent, fil-każ tas-CSDs emittenti
+
+	
+
+Il-Kodiċi ta' 20 karattru alfanumeriku tal-Identifikatur ta' Entità Ġuridika (LEI) skont l-ISO 17442, jew il-Kodiċi ta' Identifikazzjoni tal-Bank (BIC) bl-obbligu ta' konverżjoni għal-LEI għall-finijiet ta' rapportar lill-awtoritajiet
+
+
+
+
+10
+
+	
+
+L-identifikaturi tal-parteċipanti
+
+	
+
+Il-Kodiċi ta' 20 karattru alfanumeriku tal-Identifikatur ta' Entità Ġuridika (LEI) skont l-ISO 17442, jew il-Kodiċi ta' Identifikazzjoni tal-Bank (BIC) bl-obbligu ta' konverżjoni għal-LEI għall-finijiet ta' rapportar lill-awtoritajiet
+
+
+
+
+11
+
+	
+
+Il-pajjiż tal-inkorporazzjoni tal-parteċipanti
+
+	
+
+Il-kodiċi tal-pajjiżi magħmul minn 2 karattri skont l-ISO 3166
+
+
+
+
+12
+
+	
+
+L-identifikaturi tal-kontijiet tat-titoli tal-parteċipanti
+
+	
+
+L-identifikatur uniku tal-kont tat-titoli pprovdut mis-CSD
+
+
+
+
+13
+
+	
+
+L-identifikaturi tal-kontijiet tal-flus kontanti tal-parteċipanti
+
+	
+
+L-identifikatur uniku tal-kont tal-flus kontanti pprovdut mill-bank ċentrali
+
+
+
+
+14
+
+	
+
+L-identifikaturi tal-banek ta' saldu użati minn kull parteċipant
+
+	
+
+Il-Kodiċi ta' 20 karattru alfanumeriku tal-Identifikatur ta' Entità Ġuridika (LEI) skont l-ISO 17442, jew il-Kodiċi ta' Identifikazzjoni tal-Bank (BIC) bl-obbligu ta' konverżjoni għal-LEI għall-finijiet ta' rapportar lill-awtoritajiet
+
+
+
+
+15
+
+	
+
+Il-pajjiż ta' inkorporazzjoni tal-banek ta' saldu użat minn kull parteċipant
+
+	
+
+Il-kodiċi tal-pajjiżi magħmul minn 2 karattri skont l-ISO 3166
+
+
+
+
+16
+
+	
+
+It-tip ta' kontijiet tat-titoli:
+
+(i)  Il-kont proprju tal-parteċipant tas-CSD;
+
+(ii)  Il-kont individwali tal-klijent tal-parteċipant tas-CSD;
+
+(iii)  Il-kont omnibus tal-klijenti tal-parteċipant tas-CSD.
+
+	
+
+OW = kont proprju
+
+IS = kont segregat b'mod individwali
+
+OM = kont omnibus
+
+
+
+
+17
+
+	
+
+Tmiem tal-bilanċi tal-jum ta' kontijiet ta' titoli għal kull ISIN
+
+	
+
+Fajls, dokumenti
+
+
+
+
+18
+
+	
+
+Għal kull kont tat-titoli u ISIN, l-għadd ta' titoli soġġetti għal restrizzjonijiet tas-saldu, it-tip ta' restrizzjonijiet u, fejn rilevanti, l-identità tal-benefiċjarju tar-restrizzjoni fl-aħħar tal-ġurnata
+
+	
+
+Fajls, dokumenti
+
+
+
+
+19
+
+	
+
+Ir-rekords ta' fallimenti ta' saldu, kif ukoll tal-miżuri adottati mis-CSD u l-parteċipanti tiegħu biex titjieb l-effiċjenza tas-saldu, b'konformità mal-atti delegati adottati mill-Kummissjoni abbażi tal-istandards tekniċi regolatorji msemmija fl-Artikoli 6(5) u 7(15) tar-Regolament (UE) Nru 909/2014
+
+	
+
+Fajls, dokumenti
+
+
+
+
+
+
+
+Tabella 3
+
+Rekords tas-servizzi anċillari
+
+Nru
+
+	
+
+Is-Servizzi Anċillari taħt ir-Regolament (UE) Nru 909/2014
+
+	
+
+Tipi ta' rekords
+
+	
+
+Format
+
+
+
+
+1
+
+	
+
+L-organizzazzjoni ta' mekkaniżmu ta' self ta' titoli, bħala aġent fost il-parteċipanti f'sistema ta' saldu tat-titoli
+
+	
+
+(a)  L-identifikazzjoni tal-partijiet li jwasslu/li jirċievu t-talba,
+
+(b)  Id-dettalji dwar kull operazzjoni ta' tislif/self ta' titoli, inkluż il-volum u l-valur tat-titoli mislufa, l-ISIN,
+
+(c)  L-iskop ta' kull operazzjoni ta' tislif/self ta' titoli
+
+(d)  Tipi ta' kollateral
+
+(e)  valwazzjoni tal-kollateral.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+2
+
+	
+
+Il-forniment ta' servizzi ta' ġestjoni tal-kollateral, bħala aġent għall-parteċipanti f'sistema ta' saldu tat-titoli
+
+	
+
+(a)  L-identifikazzjoni tal-partijiet li jwasslu/li jirċievu t-talba,
+
+(b)  Id-dettalji dwar kull operazzjoni, inkluż il-volum u l-valur tat-titoli, l-ISIN,
+
+(c)  Tipi ta' kollateral użat,
+
+(d)  L-iskop għall-użu tal-kollateral,
+
+(e)  valwazzjoni tal-kollateral.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+3
+
+	
+
+It-tqabbil tas-saldu, it-twassil tal-istruzzjonijiet, il-konferma tan-negozju, il-verifika tan-negozju.
+
+	
+
+(a)  L-identifikazzjoni tal-entitajiet li għalihom is-CSD jipprovdi s-servizzi,
+
+(b)  Tipi ta' operazzjonijiet,
+
+(c)  Id-dettalji dwar kull operazzjoni, inkluż il-volum u l-valur tat-titoli li ngħataw servizz, l-ISIN.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+4
+
+	
+
+Servizzi relatati mar-reġistri tal-azzjonisti
+
+	
+
+(a)  L-identifikazzjoni tal-entitajiet li għalihom is-CSD jipprovdi s-servizzi,
+
+(b)  Tipi ta' servizzi,
+
+(c)  Id-dettalji dwar kull operazzjoni, inkluż il-volum u l-valur tat-titoli li ngħataw servizz, l-ISIN.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+5
+
+	
+
+L-appoġġ għall-ipproċessar ta' azzjonijiet korporattivi, inklużi servizzi ta' taxxa, laqgħat ġenerali u tagħrif
+
+	
+
+(a)  L-identifikazzjoni tal-entitajiet li għalihom is-CSD jipprovdi s-servizzi,
+
+(b)  Tip ta' servizzi,
+
+(c)  Id-dettalji dwar kull operazzjoni, inkluż il-volum u l-valur tat-titoli/flus kontanti li ngħataw servizz, l-ISIN.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+6
+
+	
+
+Servizzi ta' ħarġiet ġodda, inklużi l-allokazzjoni u l-ġestjoni tal-kodiċijiet ISIN u kodiċijiet simili
+
+	
+
+(a)  L-identifikazzjoni tal-entitajiet li għalihom is-CSD jipprovdi s-servizzi,
+
+(b)  Tipi ta' servizzi,
+
+(c)  Id-dettalji dwar kull operazzjoni, inkluż l-ISIN.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+7
+
+	
+
+It-twassil u l-ipproċessar tal-istruzzjonijiet, il-ġbir u l-ipproċessar ta' tariffi u r-rapportar relatat
+
+	
+
+(a)  L-identifikazzjoni tal-entitajiet li għalihom is-CSD jipprovdi s-servizzi,
+
+(b)  Tipi ta' servizzi,
+
+(c)  Id-dettalji dwar kull operazzjoni, inkluż il-volum u l-valur tat-titoli/flus kontanti li ngħataw servizz, il-benefiċjarji tal-operazzjoni, l-ISIN, l-iskop tal-operazzjoni.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+8
+
+	
+
+L-istabbiliment ta' konnessjonijiet ta' CSD, il-forniment, iż-żamma jew it-tħaddim ta' kontijiet ta' titoli relatati mas-servizz ta' saldu, il-ġestjoni tal-kollateral, servizzi anċillari oħrajn
+
+	
+
+(a)  Id-dettalji dwar il-konnessjonijiet tas-CSD, inkluża l-identifikazzjoni tas-CSDs,
+
+(b)  Tipi ta' servizzi.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+9
+
+	
+
+Il-forniment ta' servizzi ġenerali ta' ġestjoni ta' kollateral bħala agent
+
+	
+
+(a)  L-identifikazzjoni tal-partijiet li jwasslu/li jirċievu t-talba,
+
+(b)  Id-dettalji dwar kull operazzjoni, inkluż il-volum u l-valur tat-titoli li ngħataw servizz, l-ISIN,
+
+(c)  Tipi ta' kollateral,
+
+(d)  L-iskop għall-użu tal-kollateral,
+
+(e)  valwazzjoni tal-kollateral.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+10
+
+	
+
+Il-forniment ta' rapportar regolari
+
+	
+
+(a)  L-identifikazzjoni tal-entitajiet li għalihom is-CSD jipprovdi s-servizzi ta' rapportar,
+
+(b)  Tipi ta' servizzi.
+
+(c)  Id-dettalji dwar id-dejta pprovduta, inkluż il-bażi legali u l-iskop.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+11
+
+	
+
+Il-forniment ta' informazzjoni, dejta u statistika għall-uffiċċji tas-suq/taċ-ċensiment jew għal entitajiet governattivi jew intergovernattivi oħra
+
+	
+
+(a)  L-identifikazzjoni tal-entitajiet li għalihom is-CSD jipprovdi s-servizzi,
+
+(b)  Tipi ta' servizzi.
+
+(c)  Id-dettalji dwar id-dejta pprovduta, inkluż il-bażi legali u l-iskop.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+12
+
+	
+
+Il-forniment ta' servizzi tal-IT
+
+	
+
+(a)  L-identifikazzjoni tal-entitajiet li għalihom is-CSD jipprovdi s-servizzi,
+
+(b)  Tipi ta' servizzi.
+
+(a)  Id-dettalji dwar is-servizzi tal-IT.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+13
+
+	
+
+Il-forniment ta' kontijiet ta' flus kontanti lil parteċipanti f'sistema ta' saldu tat-titoli u detenturi ta' kontijiet ta' titoli, u l-aċċettazzjoni ta' depożiti minn għandhom, skont it-tifsira tal-punt 1 tal-Anness I għad-Direttiva 2013/36/UE tal-Parlament Ewropew u tal-Kunsill (1)
+
+	
+
+(a)  L-identifikazzjoni tal-entitajiet li għalihom is-CSD jipprovdi s-servizzi,
+
+(b)  Id-dettalji dwar il-kontijiet ta' flus kontanti,
+
+(c)  Munita,
+
+(d)  Kontijiet ta' depożiti,
+
+(e)  Bilanċi ta' tmiem il-jum tal-kontijiet ta' flus kontanti pprovduti mis-CSD jew minn istituzzjoni ta' kreditu nominata (għal kull munita)
+
+	
+
+Fajls, dokumenti
+
+
+
+
+14
+
+	
+
+Il-forniment ta' kreditu ta' flus kontanti għar-rimborż mhux iktar tard mill-jum ta' xogħol segwenti, it-tislif ta' flus kontanti għal prefinanzjament ta' azzjonijiet korporattivi u t-tislif ta' titoli lil detenturi ta' kontijiet ta' titoli, skont it-tifsira tal-punt 2 tal-Anness I għad-Direttiva 2013/36/UE
+
+	
+
+(a)  L-identifikazzjoni tal-entitajiet li għalihom is-CSD jipprovdi s-servizzi,
+
+(b)  Tipi ta' servizzi
+
+(c)  Id-dettalji dwar kull operazzjoni, inkluż il-volum u l-valur ta' titoli/flus kontanti li ngħataw servizz, l-ISIN,
+
+(d)  Tipi ta' kollateral użat,
+
+(e)  valwazzjoni tal-kollateral,
+
+(f)  L-iskop tal-operazzjonijiet,
+
+(g)  L-informazzjoni dwar kwalunkwe inċident b'rabta ma' dawn is-servizzi u l-azzjonijiet ta' rimedju, inkluż is-segwitu.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+15
+
+	
+
+Servizzi ta' pagament li jinvolvu l-ipproċessar ta' flus kontanti u tranżazzjonijiet ta' kambju f'munita barranija, skont it-tifsira tal-punt 4 tal-Anness I għad-Direttiva 2013/36/UE
+
+	
+
+(a)  L-identifikazzjoni tal-entitajiet li għalihom is-CSD jipprovdi s-servizzi,
+
+(b)  Tipi ta' servizzi,
+
+(c)  Id-dettalji dwar kull operazzjoni, inkluż il-volum ta' flus kontanti, u l-iskop tal-operazzjoni.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+16
+
+	
+
+Il-garanziji u l-impenji b'rabta ma' tislif u self ta' titoli, skont it-tifsira tal-punt 6 tal-Anness I għad-Direttiva 2013/36/UE
+
+	
+
+(a)  L-identifikazzjoni tal-entitajiet li għalihom is-CSD jipprovdi s-servizzi,
+
+(b)  Tipi ta' servizzi,
+
+(c)  Id-dettalji dwar kull operazzjoni, inkluż il-volum u l-valur ta' titoli/flus kontanti, u l-iskop tal-operazzjoni.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+17
+
+	
+
+Attivitajiet tat-teżor li jinvolvu l-kambju f'munita barranija u titoli trasferibbli b'rabta mal-ġestjoni ta' bilanċi twal tal-parteċipanti, skont it-tifsira tal-punti 7(b) u (e) tal-Anness I għad-Direttiva 2013/36/UE
+
+	
+
+(a)  L-identifikazzjoni tal-entitajiet li għalihom is-CSD jipprovdi s-servizzi,
+
+(b)  Tipi ta' servizzi,
+
+(c)  Id-dettalji dwar kull operazzjoni, inkluż il-volum u l-valur ta' titoli/flus kontanti, u l-iskop tal-operazzjoni.
+
+	
+
+Fajls, dokumenti
+
+
+
+
+(1)   Id-Direttiva 2013/36/UE tal-Parlament Ewropew u tal-Kunsill tas- 26 ta' Ġunju 2013 dwar l-aċċess għall-attività tal-istituzzjonijiet ta' kreditu u s-superviżjoni prudenzjali tal-istituzzjonijiet ta' kreditu u tad-ditti tal-investiment, li temenda d-Direttiva 2002/87/KE u li tħassar id-Direttivi 2006/48/KE u 2006/49/KE (ĠU L 176, 27.6.2013, p. 338).
+
+
+
+
+
+
+
+Tabella 4
+
+Rekords tan-negozju
+
+Nru
+
+	
+
+Element
+
+	
+
+Format
+
+	
+
+Deskrizzjoni
+
+
+
+
+1
+
+	
+
+Tabelli organizzazzjonali
+
+	
+
+Ċarts
+
+	
+
+Il-korp maniġerjali, il-maniġment superjuri, il-kumitati rilevanti, l-unitajiet operattivi u l-unitajiet jew id-diviżjonijiet l-oħra kollha tas-CSD
+
+
+
+
+2
+
+	
+
+L-identità tal-azzjonisti jew tal-persuni (persuni fiżiċi jew ġuridiċi), li jeżerċitaw kontroll dirett jew indirett fuq l-amministrazzjoni tas-CSD jew li għandhom parteċipazzjonijiet fil-kapital tas-CSD u l-ammonti ta' dawn il-parteċipazzjonijiet
+
+	
+
+S = Azzjonist/M = Membru
+
+D = Dirett/I = Indirett
+
+N = Persuna fiżika/L = Persuna ġuridika
+
+L-ammont tal-parteċipazzjoni = Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+	
+
+L-azzjonisti jew il-persuni li jeżerċitaw kontroll dirett jew indirett fuq l-amministrazzjoni tas-CSD jew li għandhom parteċipazzjonijiet fil-kapital tas-CSD (oqsma li għandhom jiġu miżjuda għal kull azzjonist/persuna rilevanti)
+
+
+
+
+3
+
+	
+
+Il-parteċipazzjonijiet tas-CSD fil-kapital ta' entitajiet ġuridiċi oħrajn
+
+	
+
+Test liberu
+
+L-ammont tal-parteċipazzjoni = Sa 20 karattru numeriku inklużi d-deċimali. Tal-anqas karattru wieħed qabel u karattru wieħed wara l-marka deċimali għandhom ikunu mimlijin. Il-marka deċimali mhix ikkunsidrata bħala karattru numeriku. Is-simbolu negattiv, jekk ikun hemm, mhux ikkunsidrat bħala karattru numeriku.
+
+	
+
+L-identifikazzjoni ta' kull entità ġuridika (oqsma li għandhom jiġu miżjuda għal kull entità ġuridika)
+
+
+
+
+4
+
+	
+
+Id-dokumenti li jagħtu prova tal-politiki, il-proċeduri u l-proċessi meħtieġa skont ir-rekwiżiti organizzazzjonali tas-CSD u fir-rigward tas-servizzi pprovduti mis-CSD
+
+	
+
+Fajls, dokumenti
+
+	
+
+ 
+
+
+
+
+5
+
+	
+
+Il-minuti tal-laqgħat tal-korp maniġerjali u tal-laqgħat tal-kumitati tal-maniġment superjuri u ta' kumitati oħra tas-CSD
+
+	
+
+Fajls, dokumenti
+
+	
+
+ 
+
+
+
+
+6
+
+	
+
+Il-minuti tal-laqgħat tal-kumitat(i) tal-utenti
+
+	
+
+Fajls, dokumenti
+
+	
+
+ 
+
+
+
+
+7
+
+	
+
+Il-minuti tal-laqgħat ma' gruppi ta' konsultazzjoni magħmula minn parteċipanti u klijenti, jekk ikun hemm
+
+	
+
+Fajls, dokumenti
+
+	
+
+ 
+
+
+
+
+8
+
+	
+
+Ir-rapporti dwar l-awditi interni u esterni, ir-rapporti dwar il-ġestjoni tar-riskju, ir-rapporti dwar il-konformità u l-kontroll intern, inklużi r-reazzjonijiet mill-maniġment superjuri għal dawn ir-rapporti
+
+	
+
+Fajls, dokumenti
+
+	
+
+ 
+
+
+
+
+9
+
+	
+
+Il-kuntratti kollha ta' esternalizzazzjoni
+
+	
+
+Fajls, dokumenti
+
+	
+
+ 
+
+
+
+
+10
+
+	
+
+Il-politika ta' kontinwità tal-operat u l-pjan ta' rkupru minn diżastru
+
+	
+
+Fajls, dokumenti
+
+	
+
+ 
+
+
+
+
+11
+
+	
+
+Ir-rekords li jirriflettu l-assi u r-responsabbiltajiet u l-kontijiet tal-kapital tas-CSD
+
+	
+
+Fajls, dokumenti
+
+	
+
+ 
+
+
+
+
+12
+
+	
+
+Ir-rekords li jirriflettu l-ispejjeż u d-dħul kollha, inklużi l-ispejjeż u d-dħul li jiġu rreġistrati b'mod separat skont l-Artikolu 34(6) tar-Regolament (UE) Nru 909/2014
+
+	
+
+Fajls, dokumenti
+
+	
+
+ 
+
+
+
+
+13
+
+	
+
+L-ilmenti formali rċevuti
+
+	
+
+Test liberu
+
+	
+
+Għal kull ilment formali rċevut: informazzjoni dwar: l-isem u l-indirizz tal-ilmentatur; id-data tal-wasla tal-ilment; l-ismijiet tal-persuni kollha identifikati fl-ilment; id-deskrizzjoni tan-natura tal-ilment; il-kontenut u l-eżitu tal-ilment; id-data meta ġie riżolt l-ilment.
+
+
+
+
+14
+
+	
+
+L-informazzjoni dwar kwalunkwe interruzzjoni jew disfunzjoni tas-servizzi
+
+	
+
+Test liberu
+
+	
+
+Ir-rekords ta' kwalunkwe interruzzjoni jew disfunzjoni tas-servizzi, inkluż rapport dettaljat dwar iż-żmien, l-effetti ta' tali interruzzjoni jew disfunzjoni u l-azzjonijiet ta' rimedju meħuda
+
+
+
+
+15
+
+	
+
+Ir-rekords tar-riżultati ta' testijiet retrospettivi u tal-istress imwettqa għas-CSDs li jipprovdu servizzi anċillari tat-tip bankarju
+
+	
+
+Fajls, dokumenti
+
+	
+
+ 
+
+
+
+
+16
+
+	
+
+Il-komunikazzjoni bil-miktub mal-awtorità kompetenti, l-ESMA u l-awtoritajiet rilevanti
+
+	
+
+Fajls, dokumenti
+
+	
+
+ 
+
+
+
+
+17
+
+	
+
+►C1   Opinjonijiet legali rċevuti skont id-dispożizzjonijiet rilevanti dwar ir-rekwiżiti organizzazzjonali previsti fil-Kapitolu VII tar-Regolament Delegat (UE) 2017/392 ◄
+
+	
+
+Fajls, dokumenti
+
+	
+
+ 
+
+
+
+
+18
+
+	
+
+Id-dokumentazzjoni legali dwar l-arranġamenti ta' konnessjoni tas-CSDs skont il-Kapitolu XII tar-Regolament Delegat (UE) 2017/392
+
+	
+
+Fajls, dokumenti
+
+	
+
+ 
+
+
+
+
+19
+
+	
+
+It-tariffi u l-imposti applikati għas-servizzi differenti, inkluż kwalunkwe skont jew roħs
+
+	
+
+Test liberu
+
+	
+
+ 
+
+
+
+
+
+
+
+ANNESS V
+
+Formoli għall-proċeduri ta' aċċess
+
+(L-Artikoli 33(6), 49(6), 52(4) u 53(5) tar-Regolament (UE) Nru 909/2014)
+
+
+
+
+
+
+
+Tabella 1
+
+Mudell għat-talba biex tiġi stabbilita konnessjoni ma' CSD jew għat-talba għal aċċess bejn CSD u CCP jew ċentru tan-negozjar
+
+I.  Informazzjoni ġenerali
+
+
+
+
+Speditur: il-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-destinatarju: il-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Id-data tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+II.  Identifikazzjoni tal-parti li tagħmel it-talba
+
+
+
+
+L-isem korporattiv tal-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għat-talba (isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+III.  Servizzi li jiffurmaw l-oġġett tat-talba
+
+
+
+
+Tipi ta' servizzi
+
+	
+
+ 
+
+
+
+
+Deskrizzjoni tas-servizzi
+
+	
+
+ 
+
+
+
+
+IV.  Identifikazzjoni tal-awtoritajiet
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-awtorità kompetenti tal-parti li tagħmel it-talba
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-awtorità rilevanti msemmija fl-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+V.  Kwalunkwe informazzjoni u/jew dokument ieħor rilevanti
+
+
+
+
+
+
+
+Tabella 2
+
+Mudell għat-tweġiba għall-għoti ta' aċċess wara talba biex tiġi stabbilita konnessjoni ma' CSD jew talba għal aċċess bejn CSD u CCP jew ċentru tan-negozjar
+
+I.  Informazzjoni ġenerali
+
+
+
+
+Speditur: il-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Id-destinatarju: il-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-data tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-data tal-wasla tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+II.  Identifikazzjoni tas-CSD li jirċievi t-talba
+
+
+
+
+L-isem korporattiv tal-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għall-valutazzjoni tat-talba (isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+III.  Identifikazzjoni tal-parti li tagħmel it-talba
+
+
+
+
+L-isem korporattiv tal-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għat-talba (isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+Aċċess mogħti
+
+	
+
+IVA
+
+
+
+
+IV.  Identifikazzjoni tal-awtoritajiet
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-awtorità kompetenti tal-parti li tirċievi t-talba (isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-awtorità rilevanti msemmija fl-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014 (uffiċċju ta' kollegament ewlieni, isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+V.  Kwalunkwe informazzjoni u/jew dokument ieħor rilevanti
+
+
+
+
+
+
+
+Tabella 3
+
+Mudell għar-rifjut ta' aċċess għal CSD
+
+I.  Informazzjoni ġenerali
+
+
+
+
+Speditur: is-CSD li jirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Id-destinatarju: il-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-data tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-data tal-wasla tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mis-CSD li jirċievi t-talba
+
+	
+
+ 
+
+
+
+
+II.  Identifikazzjoni tas-CSD li jirċievi t-talba
+
+
+
+
+L-isem korporattiv tas-CSD li jirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għall-valutazzjoni tat-talba għal aċċess
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+III.  Identifikazzjoni tal-parti li tagħmel it-talba
+
+
+
+
+L-isem korporattiv tal-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għat-talba għal aċċess
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+IV.  Analiżi tar-riskju tat-talba għal aċċess
+
+
+
+
+Ir-riskji legali li jirriżultaw mill-forniment tas-servizzi
+
+	
+
+ 
+
+
+
+
+Ir-riskji finanzjarji li jirriżultaw mill-forniment tas-servizzi
+
+	
+
+ 
+
+
+
+
+Ir-riskji operazzjonali li jirriżultaw mill-forniment tas-servizzi
+
+	
+
+ 
+
+
+
+
+V.  L-eżitu tal-analiżi tar-riskju
+
+
+
+
+L-aċċess jaffettwa r-riskju tal-profil tas-CSD
+
+	
+
+IVA
+
+	
+
+LE
+
+
+
+
+L-aċċess jaffettwa l-funzjonament bla xkiel u ordinat tas-swieq finanzjarji
+
+	
+
+IVA
+
+	
+
+LE
+
+
+
+
+L-aċċess jikkawża riskju sistemiku
+
+	
+
+IVA
+
+	
+
+LE
+
+
+
+
+Fil-każ ta' rifjut ta' aċċess, sommarju tar-raġunijiet għal dan ir-rifjut
+
+	
+
+ 
+
+
+
+
+L-iskadenza għall-ilment mill-parti li tagħmel it-talba lill-awtorità kompetenti tas-CSD li jirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Aċċess mogħti
+
+	
+
+LE
+
+
+
+
+VI.  Identifikazzjoni tal-awtoritajiet
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-awtorità kompetenti tas-CSD li jirċievi t-talba
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-awtorità rilevanti msemmija fl-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+VII.  Kwalunkwe informazzjoni u/jew dokument ieħor rilevanti
+
+
+
+
+
+
+
+Tabella 4
+
+Mudell għar-rifjut ta' aċċess għall-aġġornamenti dwar it-tranżazzjonijiet ta' CCP jew ta' ċentru tan-negozjar
+
+I.  Informazzjoni ġenerali
+
+
+
+
+Speditur: il-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Id-destinatarju: is-CSD li jagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-data tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mis-CSD li jagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-data tal-wasla tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+II.  Identifikazzjoni tal-parti li tirċievi t-talba
+
+
+
+
+L-isem korporattiv tal-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għall-valutazzjoni tat-talba għal aċċess (isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+III.  Identifikazzjoni tas-CSD li jagħmel it-talba
+
+
+
+
+L-isem korporattiv tas-CSD li jagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għat-talba għal aċċess (isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+IV.  Analiżi tar-riskju tat-talba għal aċċess
+
+
+
+
+Ir-riskji li jirriżultaw mill-forniment tas-servizzi
+
+	
+
+ 
+
+
+
+
+V.  L-eżitu tal-analiżi tar-riskju
+
+
+
+
+L-aċċess jaffettwa l-funzjonament bla xkiel u ordinat tas-swieq finanzjarji
+
+	
+
+IVA
+
+	
+
+LE
+
+
+
+
+L-aċċess jikkawża riskju sistemiku
+
+	
+
+IVA
+
+	
+
+LE
+
+
+
+
+Sommarju tar-raġunijiet għal dan ir-rifjut
+
+	
+
+ 
+
+
+
+
+L-iskadenza għall-ilment mis-CSD li jagħmel it-talba lill-awtorità kompetenti tal-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Aċċess mogħti
+
+	
+
+LE
+
+
+
+
+VI.  Identifikazzjoni tal-awtoritajiet
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-awtorità kompetenti tal-parti li tirċievi t-talba (isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-awtorità rilevanti msemmija fl-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014 (uffiċċju ta' kollegament ewlieni, isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+VII.  Kwalunkwe informazzjoni u/jew dokument ieħor rilevanti
+
+
+
+
+
+
+
+Tabella 5
+
+Mudell għall-ilmentatur għar-rifjut ta' aċċess għal CSD
+
+I.  Informazzjoni ġenerali
+
+
+
+
+Speditur: il-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-destinatarju: l-awtorità kompetenti tas-CSD li jirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Id-data tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-data tal-wasla tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mis-CSD li jirċievi t-talba
+
+	
+
+ 
+
+
+
+
+II.  Identifikazzjoni tal-parti li tagħmel it-talba
+
+
+
+
+L-isem korporattiv tal-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għat-talba għal aċċess (isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+ 
+
+
+
+
+III.  Identifikazzjoni tas-CSD li jirċievi t-talba
+
+
+
+
+L-isem korporattiv tas-CSD li jirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għall-valutazzjoni tat-talba għal aċċess
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+IV.  Kummenti tal-parti li tagħmel it-talba fir-rigward tal-valutazzjoni tar-riskju tat-talba għal aċċess imwettqa mis-CSD li jirċievi t-talba u r-raġunijiet għar-rifjut ta' aċċess
+
+
+
+
+Il-kummenti tal-parti li tagħmel it-talba dwar ir-riskji legali li jirriżultaw mill-forniment tas-servizzi
+
+	
+
+ 
+
+
+
+
+Il-kummenti tal-parti li tirċievi t-talba dwar ir-riskji finanzjarji li jirriżultaw mill-forniment tas-servizzi
+
+	
+
+ 
+
+
+
+
+Il-kummenti tal-parti li tagħmel it-talba dwar ir-riskji operazzjonali li jirriżultaw mill-forniment tas-servizzi
+
+	
+
+ 
+
+
+
+
+Il-kummenti tal-parti li tagħmel it-talba fir-rigward tar-rifjut għall-forniment tas-servizzi msemmija fil-punt (1) tat-Taqsima A tal-Anness tar-Regolament (UE) Nru 909/2014 applikabbli għall-kwistjoni speċifika tat-titoli.
+
+	
+
+ 
+
+
+
+
+Il-kummenti tal-parti li tagħmel it-talba dwar ir-raġunijiet tal-parti li tirċievi t-talba għar-rifjut tal-aċċess
+
+	
+
+ 
+
+
+
+
+Kwalunkwe informazzjoni addizzjonali rilevanti
+
+	
+
+ 
+
+
+
+
+V.  Annessi
+
+
+
+
+Kopja tal-applikazzjoni inizjali għal aċċess ippreżentata mill-parti li tagħmel it-talba lis-CSD li jirċievi t-talba
+
+
+
+
+Kopja tat-tweġiba tas-CSD li jirċievi t-talba fir-rigward tat-talba inizjali għal aċċess
+
+
+
+
+VI.  Kwalunkwe informazzjoni u/jew dokument ieħor rilevanti
+
+
+
+
+
+
+
+Tabella 6
+
+Mudell għall-ilment fir-rigward ta' rifjut ta' aċċess għall-aġġornamenti dwar it-tranżazzjonijiet ta' CCP jew ta' ċentru tan-negozjar
+
+I.  Informazzjoni ġenerali
+
+
+
+
+Speditur: is-CSD li jagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-destinatarju: l-awtorità kompetenti tal-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Id-data tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mis-CSD li jagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-data tal-wasla tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+II.  Identifikazzjoni tas-CSD li jagħmel it-talba
+
+
+
+
+L-isem korporattiv tas-CSD li jagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għat-talba għal aċċess (isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+ 
+
+
+
+
+III.  Identifikazzjoni tal-parti li tirċievi t-talba
+
+
+
+
+L-isem korporattiv tal-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għall-valutazzjoni tat-talba għal aċċess
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+IV.  Kummenti tas-CSD li jagħmel it-talba fir-rigward tal-valutazzjoni tar-riskju tat-talba għal aċċess imwettqa mill-parti li tirċievi t-talba u r-raġunijiet għar-rifjut ta' aċċess
+
+
+
+
+Il-kummenti tas-CSD li jagħmel it-talba dwar ir-riskji li jirriżultaw mill-forniment tas-servizzi
+
+	
+
+ 
+
+
+
+
+Il-kummenti tas-CSD li jagħmel it-talba dwar ir-raġunijiet tal-parti li tirċievi t-talba għar-rifjut ta' aċċess
+
+	
+
+ 
+
+
+
+
+Kwalunkwe informazzjoni addizzjonali rilevanti
+
+	
+
+ 
+
+
+
+
+V.  Annessi
+
+
+
+
+Kopja tal-applikazzjoni inizjali għal aċċess ippreżentata mis-CSD li jagħmel it-talba lill-parti li tirċievi t-talba
+
+
+
+
+Kopja tat-tweġiba tal-parti li tirċievi t-talba inizjali għal aċċess
+
+
+
+
+VI.  Kwalunkwe informazzjoni u/jew dokument ieħor rilevanti
+
+
+
+
+
+
+
+Tabella 7
+
+Mudell għall-konsultazzjoni ta' awtoritajiet oħra dwar il-valutazzjoni tal-rifjut ta' aċċess jew biex tiġi riferuta lill-ESMA
+
+I.  Informazzjoni ġenerali
+
+
+
+
+Speditur: l-awtorità kompetenti tal-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Id-destinatarju:
+
+(a)  l-awtorità kompetenti tal-post tal-istabbiliment tal-parteċipant li jitlob l-aċċess; jew
+
+(b)  l-awtorità kompetenti tal-post tal-istabbiliment tal-emittent li jagħmel it-talba; jew
+
+(c)  l-awtorità kompetenti tas-CSD li jagħmel it-talba u l-awtorità rilevanti tas-CSD li jagħmel it-talba msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014 jew
+
+(d)  l-awtorità kompetenti tas-CCP li jagħmel it-talba jew ta' ċentru tan-negozjar u l-awtorità rilevanti msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014 jew
+
+(e)  l-ESMA (fil-każ ta' referenza lill-ESMA)
+
+	
+
+ 
+
+
+
+
+Id-data tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-data tal-wasla tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Id-data tal-wasla tal-ilment dwar ir-rifjut għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-awtorità kompetenti tal-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+II.  Identifikazzjoni tal-awtoritajiet
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-awtorità kompetenti tal-parti li tirċievi t-talba
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+Fejn applikabbli, l-isem u d-dettalji ta' kuntatt tal-awtorità rilevanti tal-parti li tirċievi t-talba msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+III.  Identifikazzjoni tal-parti li tagħmel it-talba
+
+
+
+
+L-isem korporattiv tal-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna li tassumi r-responsabbiltà tat-talba għal aċċess (isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+ 
+
+
+
+
+IV.  Identifikazzjoni tal-parti li tirċievi t-talba
+
+
+
+
+L-isem korporattiv tal-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għall-valutazzjoni tat-talba għal aċċess
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+V.  Valutazzjoni mill-awtorità kompetenti tal-parti li tirċievi t-talba
+
+
+
+
+Il-kummenti tal-awtorità kompetenti dwar:
+
+(a)  ir-raġunijiet tal-parti li tirċievi t-talba għar-rifjut ta' aċċess, u
+
+(b)  l-argumenti tal-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Fejn applikabbli, il-kummenti tal-awtorità rilevanti tal-parti li tirċievi t-talba msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+
+
+
+Ir-rifjut li jingħata aċċess jitqies bħala mhux ġustifikat
+
+	
+
+IVA
+
+	
+
+LE
+
+
+
+
+Raġunijiet mogħtija mill-awtorità kompetenti tal-parti li tirċievi t-talba bħala appoġġ għall-valutazzjoni tagħha
+
+	
+
+ 
+
+
+
+
+VI.  Annessi
+
+
+
+
+Kopja tal-applikazzjoni inizjali għal aċċess ippreżentata mill-parti li tagħmel it-talba lill-parti li tirċievi t-talba
+
+
+
+
+Kopja tat-tweġiba tal-parti li tirċievi t-talba inizjali għal aċċess
+
+
+
+
+Kopja tal-ilment mill-parti li tagħmel it-talba fir-rigward tar-rifjut ta' aċċess
+
+
+
+
+VII.  Kwalunkwe informazzjoni u/jew dokument ieħor rilevanti
+
+
+
+
+
+
+
+Tabella 8
+
+Mudell għat-tweġiba għall-konsultazzjoni mill-awtorità kompetenti jew minn awtoritajiet oħra dwar il-valutazzjoni tal-rifjut ta' aċċess, u biex tiġi riferuta lill-ESMA
+
+I.  Informazzjoni ġenerali
+
+
+
+
+Speditur:
+
+(a)  l-awtorità kompetenti tal-post tal-istabbiliment tal-parteċipant li jitlob l-aċċess; jew
+
+(b)  l-awtorità kompetenti tal-post tal-istabbiliment tal-emittent li jagħmel it-talba; jew
+
+(c)  l-awtorità kompetenti tas-CSD li jagħmel it-talba u l-awtorità rilevanti msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014 jew
+
+(d)  l-awtorità kompetenti tas-CCP li jagħmel it-talba jew ta' ċentru tan-negozjar u l-awtorità rilevanti msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+
+
+
+Id-destinatarju:
+
+(a)  l-awtorità kompetenti tal-parti li tirċievi t-talba; jew
+
+(b)  l-ESMA
+
+	
+
+ 
+
+
+
+
+Id-data tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-data tal-wasla tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Id-data tal-wasla tal-ilment għar-rifjut ta' aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-awtorità kompetenti tal-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Id-data tal-wasla tal-valutazzjoni pprovduta mill-awtorità kompetenti lill-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-awtorità kompetenti tal-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+II.  Identifikazzjoni tal-awtorità li tissottometti t-tweġiba għall-valutazzjoni mill-awtorità kompetenti tal-parti li tirċievi t-talba
+
+
+
+
+L-isem u d-dettalji ta' kuntatt ta':
+
+(a)  l-awtorità kompetenti tal-post tal-istabbiliment tal-parteċipant li jitlob l-aċċess; jew
+
+(b)  l-awtorità kompetenti tal-post tal-istabbiliment tal-emittent li jagħmel it-talba; jew
+
+(c)  l-awtorità kompetenti tas-CSD li jagħmel it-talba u l-awtorità rilevanti tas-CSD li jagħmel it-talba msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014 jew
+
+(d)  l-awtorità kompetenti tas-CCP li jagħmel it-talba jew ta' ċentru tan-negozjar u l-awtorità rilevanti msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+III.  Identifikazzjoni tal-parti li tagħmel it-talba
+
+
+
+
+L-isem korporattiv tal-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għat-talba għal aċċess (isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+ 
+
+
+
+
+IV.  Identifikazzjoni tal-parti li tirċievi t-talba
+
+
+
+
+L-isem korporattiv tal-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għall-valutazzjoni tat-talba għal aċċess
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+V.  Valutazzjoni mill-awtorità kompetenti tal-parti li tirċievi t-talba
+
+
+
+
+Il-kummenti li jikkonċernaw:
+
+(a)  ir-raġunijiet tal-parti li tirċievi t-talba għar-rifjut ta' aċċess;
+
+(b)  l-argumenti mogħtija mill-parti li tagħmel it-talba;
+
+(c)  ir-raġunijiet mogħtija mill-awtorità kompetenti tal-parti li tirċievi t-talba bħala appoġġ għall-valutazzjoni tagħha
+
+	
+
+ 
+
+
+
+
+Ir-rifjut li jingħata aċċess jitqies bħala mhux ġustifikat
+
+	
+
+IVA
+
+	
+
+LE
+
+
+
+
+Ir-raġunijiet mogħtija mill-awtorità bħala appoġġ għall-valutazzjoni tagħha
+
+	
+
+ 
+
+
+
+
+VI.  Fejn applikabbli, il-valutazzjoni mill-awtorità rilevanti tal-parti li tagħmel it-talba msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014
+
+
+
+
+Il-kummenti li jikkonċernaw:
+
+(a)  ir-raġunijiet tal-parti li tirċievi t-talba għar-rifjut ta' aċċess;
+
+(b)  l-argumenti mogħtija mill-parti li tagħmel it-talba;
+
+(c)  ir-raġunijiet mogħtija mill-awtorità kompetenti tal-parti li tirċievi t-talba bħala appoġġ għall-valutazzjoni tagħha
+
+	
+
+ 
+
+
+
+
+Ir-rifjut li jingħata aċċess jitqies bħala mhux ġustifikat
+
+	
+
+IVA
+
+	
+
+LE
+
+
+
+
+Ir-raġunijiet mogħtija mill-awtorità bħala appoġġ għall-valutazzjoni tagħha
+
+	
+
+ 
+
+
+
+
+VII.  Annessi
+
+
+
+
+Kopja tal-ilment tal-parti li tagħmel it-talba dwar ir-rifjut ta' aċċess, inkluża kopja tal-informazzjoni pprovduta skont l-Anness I
+
+
+
+
+Kopja tal-valutazzjoni mill-awtorità kompetenti tal-parti li tirċievi t-talba fir-rigward tal-ilment imniedi mill-parti li tagħmel it-talba dwar ir-rifjut ta' aċċess, inkluża kopja tal-informazzjoni pprovduta skont l-Anness II
+
+
+
+
+VIII.  Kwalunkwe informazzjoni u/jew dokument ieħor rilevanti
+
+
+
+
+
+
+
+Tabella 9
+
+Mudell għat-tweġiba fir-rigward tal-ilment għal rifjut ta' aċċess
+
+I.  Informazzjoni ġenerali
+
+
+
+
+Speditur: l-awtorità kompetenti tal-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Destinatarji:
+
+(a)  il-parti li tagħmel it-talba;
+
+(b)  il-parti li tirċievi t-talba;
+
+(c)  l-awtorità kompetenti tal-post tal-istabbiliment tal-parteċipant li jitlob l-aċċess; jew
+
+(d)  l-awtorità kompetenti tal-post tal-istabbiliment tal-emittent li jagħmel it-talba; jew
+
+(e)  fil-każ ta' konnessjonijiet tas-CSD, l-awtorità kompetenti tas-CSD li jagħmel it-talba u l-awtorità rilevanti msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014 jew
+
+(f)  fil-każ ta' aċċess minn ċentru tan-negozjar jew minn CCP, l-awtorità kompetenti tas-CCP li jagħmel it-talba jew ta' ċentru tan-negozjar u l-awtorità rilevanti msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+
+
+
+Id-data tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Id-data tal-wasla tat-talba għal aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Id-data tal-wasla tal-ilment għar-rifjut ta' aċċess
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-awtorità kompetenti tal-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Id-data tal-wasla tal-valutazzjoni mill-awtorità kompetenti tal-parti li tagħmel it-talba u, fejn applikabbli, tal-awtorità rilevanti tal-parti li tagħmel it-talba msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+
+
+
+In-numru ta' referenza mogħti mill-awtorità kompetenti tal-parti li tagħmel it-talba jew, fejn applikabbli, tal-awtorità rilevanti tal-parti li tagħmel it-talba msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014
+
+	
+
+ 
+
+
+
+
+II.  Identifikazzjoni tal-awtorità li tippreżenta t-tweġiba għall-ilment dwar rifjut ta' aċċess
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-awtorità kompetenti tal-parti li tirċievi t-talba
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+III.  Identifikazzjoni tal-parti li tagħmel it-talba
+
+
+
+
+L-isem korporattiv tal-parti li tagħmel it-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għat-talba għal aċċess (isem, kariga, numru tat-telefown, indirizz elettroniku)
+
+	
+
+ 
+
+
+
+
+IV.  Identifikazzjoni tal-parti li tirċievi t-talba
+
+
+
+
+L-isem korporattiv tal-parti li tirċievi t-talba
+
+	
+
+ 
+
+
+
+
+Pajjiż ta' oriġini
+
+	
+
+ 
+
+
+
+
+Indirizz ġuridiku
+
+	
+
+ 
+
+
+
+
+LEI
+
+	
+
+ 
+
+
+
+
+L-isem u d-dettalji ta' kuntatt tal-persuna responsabbli għall-valutazzjoni tat-talba għal aċċess
+
+	
+
+Isem
+
+	
+
+Kariga
+
+	
+
+Telefown
+
+	
+
+Posta elettronika
+
+
+
+
+V.  Valutazzjoni mill-awtorità kompetenti tal-parti li tirċievi t-talba
+
+
+
+
+Il-kummenti li jikkonċernaw:
+
+(a)  ir-raġunijiet tal-parti li tirċievi t-talba għar-rifjut ta' aċċess;
+
+(b)  l-argumenti mogħtija mill-parti li tagħmel it-talba;
+
+(c)  ir-raġunijiet mogħtija mill-awtorità tal-parti li tagħmel it-talba bħala appoġġ għall-valutazzjoni tagħha
+
+	
+
+ 
+
+
+
+
+Fejn applikabbli, il-kummenti tal-awtorità rilevanti tal-parti li tirċievi t-talba msemmija fil-punt (a) tal-Artikolu 12(1) tar-Regolament (UE) Nru 909/2014 dwar:
+
+(a)  ir-raġunijiet tal-parti li tirċievi t-talba għar-rifjut ta' aċċess;
+
+(b)  l-argumenti mogħtija mill-parti li tagħmel it-talba;
+
+(c)  ir-raġunijiet mogħtija mill-awtorità tal-parti li tagħmel it-talba bħala appoġġ għall-valutazzjoni tagħha
+
+	
+
+ 
+
+
+
+
+Ir-rifjut li jingħata aċċess jitqies bħala mhux ġustifikat
+
+	
+
+IVA
+
+	
+
+LE
+
+
+
+
+Raġunijiet mogħtija mill-awtorità kompetenti tal-parti li tirċievi t-talba bħala appoġġ għall-valutazzjoni tagħha
+
+	
+
+ 
+
+
+
+
+VI.  Ordni li tirrikjedi li l-parti li tirċievi t-talba tagħti aċċess lill-parti li tagħmel it-talba
+
+
+
+
+Meta r-rifjut li jingħata aċċess jitqies mhux ġustifikat, kopja tal-ordni li tirrikjedi li l-parti li tirċievi t-talba tagħti aċċess lill-parti li tagħmel it-talba, inkluża l-iskadenza applikabbli għall-konformità.
+
+
+
+
+VII.  Kwalunkwe informazzjoni u/jew dokument ieħor rilevanti
+
+
+
+
+
+
+
+ANNESS VI
+
+Formoli għall-konsultazzjoni tal-awtoritajiet qabel l-għoti tal-awtorizzazzjoni sabiex jiġu pprovduti servizzi anċillari ta' tip bankarju
+
+(L-Artikolu 55(8) tar-Regolament (UE) Nru 909/2014)
+
+TAQSIMA 1
+
+Formola għat-trażmissjoni tal-informazzjoni rilevanti u għat-talba biex tinħareġ opinjoni motivata
+
+[L-isem tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni]
+
+Id-dettalji ta' kuntatt tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni
+
+L-isem tal-persuna/i responsabbli għal kuntatti ulterjuri:
+
+Kariga:
+
+Numru tat-telefown:
+
+Posta elettronika:
+
+(1) Nhar [id-data tal-preżentazzjoni tal-applikazzjoni għall-awtorizzazzjoni], [L-isem tal-CSD li qed japplika] ippreżenta l-applikazzjoni tiegħu għall-awtorizzazzjoni biex [jaħtar istituzzjoni ta' kreditu li tipprovdi] ( 2 ) servizzi anċillari ta' tip bankarju lil [L-isem tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni] skont l-Artikolu 55(1) tar-Regolament (UE) Nru 909/2014.
+
+(2) [L-isem tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni] eżaminat il-kompletezza tal-applikazzjoni u tikkunsidraha kompluta.
+
+(3) [L-isem tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni] hawnhekk tibgħat l-informazzjoni kollha inkluża fl-applikazzjoni, mehmuża bħala Anness [L-Awtorità Kompetenti għandha tiżgura din l-informazzjoni tintbagħat bħala Anness ma' din l-ittra], lill-awtoritajiet kollha msemmija fl-Artikolu 55(5) tar-Regolament (UE) Nru 909/2014, u titlob opinjoni motivata mill-awtoritajiet imsemmija fil-punti (a) sa (e) tal-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014 fi żmien 30 jum mid-data tal-wasla ta' din l-ittra. Kull awtorità hija meħtieġa tirrikonoxxi li rċeviet din l-applikazzjoni u l-informazzjoni relatata mehmuża fil-jum tal-wasla. Meta awtorità ma tagħtix opinjoni sa 30 jum, din għandha titqies li għandha opinjoni favorevoli.
+
+Magħmul f' …nhar [daħħal id-data] …
+
+F'isem [L-isem tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni]
+
+[firma]
+
+Il-lista ta' destinatarji, inklużi l-awtoritajiet intitolati li joħorġu opinjoni motivata:
+
+1. [L-Awtorità Kompetenti telenka l-Awtoritajiet imsemmija fl-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014]
+
+TAQSIMA 2
+
+Formola ta' opinjoni motivata
+
+[L-isem tal-awtorità li toħroġ l-opinjoni motivata]
+
+Id-dettalji ta' kuntatt tal-awtorità li toħroġ opinjoni motivata
+
+L-isem tal-persuna/i responsabbli għal kuntatti ulterjuri:
+
+Kariga:
+
+Numru tat-telefown:
+
+Posta elettronika:
+
+(1) Nhar [id-data tal-preżentazzjoni tal-applikazzjoni għall-awtorizzazzjoni], [L-isem tal-CSD li qed japplika] ippreżenta l-applikazzjoni tiegħu għall-awtorizzazzjoni biex [jaħtar istituzzjoni ta' kreditu/jipprovdi] ( 3 ) servizzi anċillari ta' tip bankarju lil [L-isem tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni] skont l-Artikolu 55(1) tar-Regolament (UE) Nru 909/2014.
+
+(2) [L-Isem tal-Awtorità Kompetenti] eżaminat il-kompletezza tal-applikazzjoni, bagħtet l-informazzjoni inkluża fl-applikazzjoni lil [tiġi pprovduta lista ta' awtoritajiet, inklużi l-EBA u l-ESMA], u talbet opinjoni motivata minn [l-awtorità kkonċernata] skont l-Artikolu 55(5) tar-Regolament (UE) Nru 909/2014. It-talba waslet fil-[data …].
+
+(3) Wara li kkunsidrat l-Artikolu 55(5) tar-Regolament (UE) Nru 909/2014, [L-isem tal-awtorità kkonċernata li qed toħroġ l-opinjoni motivata] hawnhekk toħroġ din l-opinjoni motivata dwar l-applikazzjoni.
+
+Opinjoni motivata: [agħmel għażla waħda: Pożittiva jew Negattiva
+
+[Ġustifikazzjoni sħiħa u dettaljata fil-każ ta' opinjoni motivata negattiva …]
+
+Magħmul f' …nhar [daħħal id-data] …
+
+F'isem [L-isem tal-awtorità li toħroġ l-opinjoni],
+
+[firma]
+
+TAQSIMA 3
+
+Formola għad-deċiżjoni motivata li tindirizza opinjoni motivata negattiva
+
+[L-isem tal-awtorità kompetenti tad-domiċilju responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni]
+
+Id-dettalji ta' kuntatt tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni
+
+L-isem tal-persuna/i responsabbli għal kuntatti ulterjuri:
+
+Kariga:
+
+Numru tat-telefown:
+
+Posta elettronika:
+
+(1) Nhar [id-data tal-preżentazzjoni ta' applikazzjoni għall-awtorizzazzjoni], [L-isem tal-CSD li qed japplika] ippreżenta l-applikazzjoni tiegħu għall-awtorizzazzjoni biex [jaħtar istituzzjoni ta' kreditu/jipprovdi] (3)  servizzi anċillari ta' tip bankarju lil [L-isem tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni] skont l-Artikolu 55(1) tar-Regolament (UE) Nru 909/2014.
+
+(2) [L-isem tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni] eżaminat il-kompletezza tal-applikazzjoni, bagħtet l-informazzjoni inkluża fl-applikazzjoni lil [awtoritajiet kollha msemmija fl-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014], u talbet opinjoni motivata minn [l-awtoritajiet intitolati kollha identifikati mill-awtorità kompetenti skont il-punti (a) sa (e) tal-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014.
+
+(3) Wara li kkunsidrat l-opinjoni motivata negattiva maħruġa skont l-Artikolu 55(5) tar-Regolament (UE) Nru 909/2014 dwar l-applikazzjoni minn:
+
+— [L-isem tal-awtorità kkonċernata li ħarġet opinjoni] fil-[id-data tal-opinjoni motivata];
+
+— [L-isem tal-awtorità kkonċernata li ħarġet opinjoni] fil-[id-data tal-opinjoni motivata];
+
+— …
+
+(4) [L-isem tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni] eżaminat mill-qrib l-opinjoni(jiet) motivata(i) u hawnhekk qiegħda toħrog din id-deċiżjoni motivata skont l-Artikolu 55(5) tar-Regolament (UE) Nru 909/2014.
+
+Deċiżjoni motivata li tindirizza l-opinjoni(jiet) negattiva(i):
+
+[Agħmel għażla waħda] Approvat/Mhux approvat l-għoti tal-awtorizzazzjoni
+
+[Ir-raġunijiet u l-ġustifikazzjoni biex ġiet determinata d-deċiżjoni motivata…]
+
+Magħmul f' …nhar [daħħal id-data] …
+
+F'isem [L-isem tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni]
+
+[firma]
+
+[anness: kopja tad-deċiżjoni]
+
+TAQSIMA 4
+
+Formola għat-talba għall-assistenza tal-ESMA
+
+[L-isem tal-awtorità li qed tirreferi l-kwistjoni lill-ESMA]
+
+▼C1
+
+Id-dettalji ta' kuntatt tal-awtorità li qed tirreferi l-kwistjoni lill-ESMA
+
+▼B
+
+L-isem tal-persuna(i) responsabbli għal kuntatti ulterjuri:
+
+Kariga:
+
+Numru tat-telefown:
+
+Posta elettronika:
+
+(1) Nhar [id-data tal-preżentazzjoni tal-applikazzjoni għall-awtorizzazzjoni], [L-isem tal-CSD li qed japplika] ippreżenta l-applikazzjoni tiegħu għall-awtorizzazzjoni biex [jaħtar istituzzjoni ta' kreditu/jipprovdi] ( 4 ) servizzi anċillari ta' tip bankarju lil [L-isem tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni] skont l-Artikolu 55(1) tar-Regolament (UE) Nru 909/2014,
+
+(2) [L-isem tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni] eżaminat il-kompletezza tal-applikazzjoni, bagħtet l-informazzjoni inkluża fl-applikazzjoni lil [awtoritajiet kollha msemmija fl-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014], u talbet opinjoni motivata minn [l-awtoritajiet elenkati fil-punti (a) sa (e) tal-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014] f'konformità mal-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014.
+
+(3) Wara li kkunsidrat l-opinjoni(jiet) motivata(i) negattiva(i) maħruġa skont l-Artikolu 55(5) tar-Regolament (UE) Nru 909/2014 dwar l-applikazzjoni minn:
+
+— [L-isem tal-awtorità kkonċernata li ħarġet opinjoni motivata negattiva] fil-[id-data tal-opinjoni motivata],
+
+— [L-isem tal-Awtorità kkonċernata li ħarġet opinjoni motivata negattiva] fil-[id-data tal-opinjoni motivata],
+
+— …
+
+(4) Wara li kkunsidrat id-deċiżjoni motivata għall-għoti tal-awtorizzazzjoni minn [L-isem tal-awtorità kompetenti responsabbli għall-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni] fil-[id-data tal-ħruġ ta' deċiżjoni motivata li tikkonċerna l-opinjoni] li tindirizza l-opinjoni(jiet) motivata(i) negattiva(i) msemmija skont l- Artikolu 55 (5) tar-Regolament (UE) Nru 909/2014,
+
+(5) Wara li kkunsidrat in-nuqqas ta' ftehim fir-rigward tal-valutazzjoni tal-applikazzjoni għall-awtorizzazzjoni mill-awtorità kompetenti u l-awtoritajiet imsemmija fil-punti (a) sa (e) tal-Artikolu 55(4) tar-Regolament (UE) Nru 909/2014, minkejja aktar tentattivi biex jintlaħaq ftehim bħal dan,
+
+(6) Skont l-Artikolu 55(5) tar-Regolament (UE) Nru 909/2014, [l-isem tal-awtorità li toħroġ it-talba għall-assistenza tal-ESMA] hawnhekk tirreferi l-kwistjoni lill-ESMA għall-assistenza, tipprovdi lill-ESMA b'kopja tal-applikazzjoni, opinjoni(jiet) motivata(i), u deċiżjoni msemmija, u titlob lill-ESMA sabiex tipproċedi skont l-Artikolu 31 tar-Regolament (UE) Nru 1095/2010 fi żmien 30 jum mill-wasla ta' din ir-referenza għand l-ESMA.
+
+Raġunijiet għat-talba:
+
+[Raġunijiet għar-referenza lill-ESMA]
+
+Magħmul f' …nhar [daħħal id-data] …
+
+F'isem [L-isem tal-awtorità li qed tirreferi l-kwistjoni lill-ESMA]
+
+[firma]
+
+Magħmul f' …nhar [daħħal id-data] …
+
+F'isem [L-isem tal-awtorità li qed tirreferi l-kwistjoni lill-ESMA]
+
+[firma]
+
+
+
+
+( 1 ) Ir-Regolament Delegat tal-Kummissjoni (UE) 2017/392 tal-11 ta' Novembru 2016 li jissupplimenta r-Regolament (UE) Nru 909/2014 tal-Parlament Ewropew u tal-Kunsill fir-rigward ta' standards tekniċi regolatorji dwar ir-rekwiżiti ta' awtorizzazzjoni, superviżorji u operazzjonali għal depożitarji ċentrali tat-titoli (ara paġna 48 ta' dan il-Ġurnal Uffiċjali).
+
+( 2 ) Għandha tintuża r-referenza xierqa, skont il-każ u għandha tiġi identifikata l-entità speċifika.
+
+( 3 ) Għandha tintuża r-referenza xierqa, skont il-każ u għandha tiġi identifikata l-entità speċifika.
+
+( 4 ) Għandha tintuża r-referenza xierqa, skont il-każ u għandha tiġi identifikata l-entità speċifika.
+
+Top
+This site is managed by the Publications Office of the European Union
+Need help?
+Help pages
+Contact
+Sitemap
+Legal
+Legal notice
+Cookies policy
+Accessibility
+Privacy statement
+Information
+About EUR-Lex
+Newsletter
+Useful links
+Other services
+European Data
+EU tenders
+EU research results
+EU Whoiswho
+EU publications
+N-Lex
+EU Law Tracker
+Discover more on europa.eu
+Contact the EU
+Call us 00 800 6 7 8 9 10 11
+Use other telephone options
+Write to us via our contact form
+Meet us at one of the EU centres
+Social media
+Search for EU social media channels
+Legal
+Languages on our websites
+Privacy policy
+Legal notice
+Cookies
+EU institutions
+European Parliament
+European Council
+Council of the European Union
+European Commission
+Court of Justice of the European Union (CJEU)
+European Central Bank (ECB)
+European Court of Auditors
+European External Action Service (EEAS)
+European Economic and Social Committee
+European Committee of Regions (CoR)
+European Investment Bank
+European Ombudsman
+European Data Protection Supervisor (EDPS)
+European Data Protection Board
+European Personnel Selection Office
+Publications Office of the European Union
+Agencies
