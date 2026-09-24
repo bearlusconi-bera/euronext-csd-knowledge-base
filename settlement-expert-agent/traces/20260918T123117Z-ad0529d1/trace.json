@@ -1,0 +1,50 @@
+{
+  "question": "T2S reports my instruction as matched. Has my client at Monte Titoli received the shares?",
+  "contexts": [
+    {
+      "as_of": "2026-09-13",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "matching_concept"
+    },
+    {
+      "as_of": "2026-09-14",
+      "entity": "Milan",
+      "service": "settlement",
+      "role": "participant",
+      "mode": "current",
+      "question_type": "milan_settlement_message_field_change"
+    }
+  ],
+  "router_notes": {
+    "entities": [
+      "Milan",
+      "T2S"
+    ],
+    "topic_hits": [
+      "matching_concept",
+      "milan_settlement_message_field_change"
+    ],
+    "blocked_hits": [],
+    "dates": [],
+    "router_revision": "v1.1"
+  },
+  "runtime": "cli",
+  "model": null,
+  "statuses": [
+    "evidence_only",
+    "evidence_only"
+  ],
+  "retrieved_sections": [
+    "milan-finality",
+    "milan-repo-comm-field",
+    "t2s-matching",
+    "t2s-posting"
+  ],
+  "build_manifest_sha256": "ed577c2eb315cf1592c3809547ea83f309034d3ac955896540fc39d5b0ebbf91",
+  "started_utc": "20260918T123117Z",
+  "answer": null,
+  "runtime_error": "claude CLI failed (rc=1): "
+}

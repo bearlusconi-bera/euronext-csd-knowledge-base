@@ -1,0 +1,270 @@
+{
+  "generated_at_utc": "2026-09-18T12:31:17.934515+00:00",
+  "build_manifest_sha256": "ed577c2eb315cf1592c3809547ea83f309034d3ac955896540fc39d5b0ebbf91",
+  "knowledge_base_as_of": "2026-09-13",
+  "available_review_dates": [
+    "2026-09-13",
+    "2026-09-14"
+  ],
+  "results": [
+    {
+      "context": {
+        "as_of": "2026-09-13",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "matching_concept"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-13",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-finality",
+          "title": "Matching, cancellation, hold and SF1/SF2/SF3",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "SF2 retains Article 70(2) bilateral cancellation. SF3 is the relevant cash debit or securities debit for FoP.",
+            "No insolvency runbook, legal opinion or unreviewed Article 72 remainder admitted."
+          ],
+          "citations": [
+            {
+              "source_id": "8719262f5e8b",
+              "title": "Regulations as of 26 January 2026",
+              "source_url": "https://www.euronext.com/sites/default/files/2026-02/01%20REG_UNICO_ENG_WITHOUT%20EV_26012026.pdf",
+              "source_sha256": "c40a27f7ed1743e9702dfb380c08480aa36c557aeb6c9840ed2799d6573f806d",
+              "source_path": "sources/documents/8719262f5e8b-Regulations-as-of-26-January-2026.pdf",
+              "locator": "Articles 69–71 and 72(1)–(3), retaining 70(2); PDF 50–51, printed 49–50",
+              "pdf_pages": [
+                50,
+                51
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "26 January 2026",
+              "publication_date": null,
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "8719262f5e8b",
+              "locator": "Articles 69–71 and 72(1)–(3), retaining 70(2); PDF 50–51, printed 49–50",
+              "text": "Article 69 – Matching of Settlement Instructions\n\n1. The matching is carried out to check that the information corresponds to the\n   settlement instructions entered.\n2. The T2S system supplies the participants with complete disclosure regarding\n   the  status  of  the  settlement  instructions  entered and  the  settlement\n   instructions entered by the counterparty awaiting matching (alledgement).\n3. The matching checks referred to in paragraph 1 cover mandatory matching\n    fields, but may also regard the non-mandatory matching fields.\n4. Unmatched settlement instructions may be changed by the Participants, but\n   only as regards status indicators.\n\nArticle 70 - Cancellation of the settlement Instructions\n\n1. Settlement Instructions may be unilaterally cancelled by the Participant which\n   entered them up to the time of the matching, on condition that such Settlement\n   Instructions were not entered as non-changeable.\n2. Matched settlement Instructions may be cancelled bilaterally, with the consent\n   of both Participants, or upon request of an entity acting on their behalf, subject\n   to the prior submission to Monte Titoli of the relevant mandate.\n3. Cancellations are sent by the Participants with the methods and the time\n   frames provided for in the Instructions. They then go through the acquisition\n   phase and,  if referring to matched settlement Instructions, the matching\n   phase. When  the  cancellations  are  matched,  the  original  settlement\n   Instructions are cancelled.\n4. Market Management Companies and central counterparties may ask Monte\n    Titoli to block these functionalities with regard to their settlement Instructions,\n   according to the methods and conditions provided for in the operating rules for\n   these systems and in accordance with the provisions for T2S.\n5. Cancellations may also be entered by Monte  Titoli at the request of the\n   Participants and in the other cases established by the Rules, in accordance with\n   the provisions above.\n6. CoSD Settlement Instructions may only be cancelled by Monte Titoli.\n7. Automatic cancellation of settlement instructions from the T2S platform is\n   disposed when instructions:\n   a) have not passed the daily validation phase;\n   b) are not matched or are not settled within the time limits provided in the\n       Instructions;\n\n8. Participants are informed of the progress and outcome of the cancellation\n   process and of any automatic cancellation of settlement Instructions, pursuant\n   to the previous paragraph.\n\n\n49    In force as of 26 January 2026\n\n\n\n[PDF page 51]\n\n                                                            SERVICE REGULATIONS\n\n\nArticle 71 – Hold of the Settlement Instructions\n\n1. The participant may hold the settlement of the settlement instructions entered\n   by it so as not to subject them to settlement or hold the re-proposal of the\n   Settlement Instructions not regulated, also partially, until there is a specific\n   release, on condition that these Settlement Instructions have not been entered\n   as non-changeable.\n2. Market management companies and central counterparties may ask Monte\n    Titoli to block the use of this functionality with regard to their settlement\n   instructions, according to the methods and conditions provided for in the\n   operating rules for these systems and in accordance with the provisions for\n   T2S.\n3. The settlement may also be put on hold by Monte Titoli, at the request of the\n   participants and in the other cases established by the Rules, in accordance with\n   the provisions above.\n\nArticle 72 – Input into the Settlement System and irrevocability of\nsettlement Instructions\n\n1. Settlement Instructions are deemed “entered” into the Settlement System,\n   pursuant to Article 2(2) of Legislative Decree 210/2001, from the moment the\n   validation time in T2S ends (SF1).\n2. Settlement Instructions cannot be revoked by a participant or a third party\n   from the time of their matching in T2S (SF2), without prejudice to the bilateral\n   cancellation of settlement Instructions provided for under Article 70 (2).\n3. The transfer of securities and cash become final from the time of the debiting\n   of the cash, or of the securities when settlement by cash is not provided for.\n   (SF3)"
+            }
+          ]
+        },
+        {
+          "id": "t2s-matching",
+          "title": "Matching rules and repaired functional field diagrams",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [
+            "Functional matrix only; no production XML/XSD validation or local interface certification.",
+            "Retain diagram DVP/DWP labels; paragraph separately mentions DVP/PFOD."
+          ],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.1.2; PDF 267–271; Diagrams 55–57 and footnote 194",
+              "pdf_pages": [
+                267,
+                268,
+                269,
+                270,
+                271
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            },
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "Visually checked Diagrams 55–57; original PDF 269–271",
+              "pdf_pages": [],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.1.2; PDF 267–271; Diagrams 55–57 and footnote 194",
+              "text": "1.6.1.2 Matching\n\n\n10    1.6.1.2.1 Concept\n\n11   T2S Matching process compares the settlement details of Settlement Instructions provided by the deliverer\n12   and the receiver of securities to ensure that both parties agree on the settlement terms of the transaction in\n13   a standardised way, according to the T2S rules, which are compliant with the European Central Securities\n14    Depositories Association (ECSDA) and the European Securities Forum (ESF) matching proposals.\n\n\n\n\n\n     _________________________\n\n\n        193   The under insolvency situation will be activated upon request of a CSD or CB as explained in the Manual of Operational Procedures (MOP).\n\n\n                                                                                            Page 267 of 2017\n\n\n\n[PDF page 268]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1                                 DIAGRAM 54 - MATCHING APPLICATION POCESS\n\n\n\n\n\n 2\n\n 3    1.6.1.2.2 Overview\n\n 4   T2S provides T2S Actors matching services for Settlement Instructions that require to be matched in T2S\n 5     (i.e. all Settlement Instructions except the Settlement Instructions with Match status “Matched” regardless\n 6    their ISO indicator, ISO transaction code (e.g. CORP) or hold status(es)).\n\n 7    Settlement Restrictions, Maintenance instructions, Realignment instructions, Auto-collaterisation instructions,\n 8   Reimbursement auto-collaterisation instructions and Liquidity transfers do not go through the T2S matching\n 9    process. The matching of Cancellation Instructions does not follow the rules presented in this section and is\n10    presented in section Instruction Cancellation [ 280]).\n\n11   T2S allows CSDs and CSD participants to send already matched instructions Cross-CSD and Intra CSD. In-\n12    structions that enter into T2S as already matched are created with the matching fields as if they were\n13   matched in T2S (i.e. follow the same matching rules as in T2S).\n\n\n\n\n\n                                                                                            Page 268 of 2017\n\n\n\n[PDF page 269]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1    1.6.1.2.3 Matching process\n\n 2   When a new instruction enters T2S, the matching process compares 194 each of the Mandatory and Non-\n 3   mandatory matching fields of the Settlement Instruction with the Settlement Instructions that remain un-\n 4   matched in T2S:\n\n 5         l  Mandatory matching fields are those fields that must be present in the instruction and which values\n 6       should be the same in both Settlement Instructions except Settlement Amount for DVP/PFOD for which a\n 7        tolerance might be applied and for Credit/Debit Code (CRDT/DBIT) and Securities Movement Type Deliv-\n 8        er/Receiver (DELI/RECE), whose values match opposite.\n\n 9         l  Non-mandatory matching fields can be Additional or Optional:\n\n10      – Additional matching fields are initially not mandatory but their values have to match when one of the\n11          counterparties provides a value for them in its instruction. Consequently, once an Additional matching\n12             field is filled in by one Counterparty, the other Counterparty should also fill it in, since a filled-in Addi-\n13            tional matching field cannot match with a field with no value.\n\n14      – In case of Optional matching fields, a filled-in field may match with a field with no value (unlike Addi-\n15            tional matching fields), but when both Parties provide a value, the values have to match.\n\n16   Depending on the Transaction Type T2S considers some fields mandatory or not, as described in the table\n17    below. The following tables and illustrations provide examples of the use of the mandatory, optional and\n18    additional fields in the matching process.\n\n19   Exhaustive List of Matching Fields\n\n20                   DIAGRAM 55 - MANDATORY MATCHING FIELDS PER TRANSACTION TYPE AND EXAMPLE\n\n\n\n\n\n21\n\n\n     _________________________\n\n\n        194   Upper and lower case letters are considered as different when comparing the values of two different instructions. In case a given matching field is\n                      filled in two different instructions with the same reference but a different combination of upper and lower case letters, this matching field is not\n                 subject to matching.\n\n\n                                                                                            Page 269 of 2017\n\n\n\n[PDF page 270]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1   Non Mandatory Matching Fields per Transaction Type\n\n 2                            DIAGRAM 56 - ADDITIONAL MATCHING FIELDS AND EXAMPLE\n\n\n\n\n\n 3\n\n 4   Non Mandatory Matching Fields per Transaction Type\n\n 5                             DIAGRAM 57 - OPTIONAL MATCHING FIELDS AND EXAMPLE\n\n\n\n\n\n 6\n\n 7     If all the Matching fields on both instructions match, except for the Settlement Amount, T2S checks if the\n 8    difference between both Settlement Amounts is compliant with the tolerance amount configured in T2S.\n\n 9    This tolerance amount set up in T2S has two different bands per currency, depending on the cash counter-\n10    value. ECSDA proposal for Euro is the following:\n\n\n\n\n\n                                                                                            Page 270 of 2017\n\n\n\n[PDF page 271]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1                                TABLE 57 - TOLERANCE AMOUNT FOR MATCHING FOR EURO\n 2\n\n             COUNTERVALUE FOR THE CASH AMOUNT                         TOLERANCE\n\n                   ≤ EUR 100.000                                    EUR 2\n\n                   > EUR 100.000                                    EUR 25\n\n 3    In case there is more than one potentially matching Settlement Instruction, T2S chooses the one having the\n 4    smallest Settlement Amount difference. If there is more than one potentially matching Settlement Instruc-\n 5    tion with the same Settlement Amount, T2S chooses the one with the closest entry time in T2S. When Set-\n 6    tlement Instructions with different Settlement Amount are matched, the amount that T2S submits for set-\n 7    tlement as Matched Settlement Amount is the Settlement Amount indicated by the Deliverer of the securi-\n 8     ties.\n\n 9    After successful matching of both instructions, the T2S Actors receive a Status Advice message as described\n10     in section Send Settlement Instruction. This Status Advice will also contain the T2S Matching Reference as-\n11    signed to both Settlement Instructions that have been matched by T2S and the T2S Reference and Account\n12   Owner Reference of the counterparty´s instruction. Interested parties can also be informed depending on\n13    their message subscription preferences (see Section Status Management [ 653] and section Message sub-\n14    scription [ 135]).\n\n15    In case the Settlement Instruction does not match after the first attempt, T2S sends a Settlement Al-\n16    legement message (after having waited a certain period of time) to the Counterparty informing that there is\n17   a Settlement Instruction alleged against it. The Allegement process is described below (See section Al-\n18    legement [ 271]), the dialogue is reflected in section Send Settlement Instruction.\n\n19   T2S automatically cancels Settlement Instructions that remain unmatched after a certain period of time (See\n20    section Instruction Cancellation [ 280] and section Instructions Recycling [ 296]).\n\n21\n\n\n22    1.6.1.2.4 Parameter Synthesis\n\n23   No specific configuration from T2S Actor is needed. The following parameter is specified by the T2S Opera-\n24     tor.\n25\n\n      CONCERNED   PARAMETER   CREATED BY  UPDATED BY  MANDATORY/   POSSIBLE    STANDARD OR DE-\n        PROCESS                                         OPTIONAL     VALUES       FAULT VALUE\n\n          Matching      Tolerance    T2S Operator  T2S Operator     M       To be defined    ≤100.000 € = 2€\n                      amount                                                                                        >100.000 € = 25€\n\n\n26"
+            },
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "Visually checked Diagrams 55–57; original PDF 269–271",
+              "text": "{\n  \"source_id\": \"aa3d5a3b94c9\",\n  \"source_sha256\": \"6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99\",\n  \"source_url\": \"https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf\",\n  \"release\": \"R2026.JUN\",\n  \"verified_as_of\": \"2026-09-13\",\n  \"actual_content_language\": \"en\",\n  \"review\": \"All rows, diagram notes and footnote 194 visually inspected; PDF 271 tolerance narrative read.\",\n  \"scope\": \"Functional matching-field diagrams, not production XML paths, XSD validation or complete message usage rules.\",\n  \"transaction_headers_verbatim\": [\n    \"DVP/DWP\",\n    \"FOP\"\n  ],\n  \"rows\": [\n    {\n      \"field\": \"Payment Type\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Securities Movement Type\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"ISIN Code\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Trade Date\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Settlement Quantity\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Intended Settlement Date\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Delivering Party BIC\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Receiving Party BIC\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"CSD of the Delivering Party\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"CSD of the Receiving Party\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"mandatory\"\n    },\n    {\n      \"field\": \"Currency\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"n/a\"\n    },\n    {\n      \"field\": \"Settlement Amount\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"n/a\"\n    },\n    {\n      \"field\": \"Credit/Debit\",\n      \"diagram\": 55,\n      \"pdf_page\": 269,\n      \"DVP/DWP\": \"mandatory\",\n      \"FOP\": \"n/a\"\n    },\n    {\n      \"field\": \"Opt-out ISO transaction condition indicator\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"additional\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"CUM/EX Indicator\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"additional\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Currency\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"n/a\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Settlement Amount\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"n/a\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Credit/Debit\",\n      \"diagram\": 56,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"n/a\",\n      \"FOP\": \"additional\"\n    },\n    {\n      \"field\": \"Common Trade Reference\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Client of delivering CSD participant\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Client of receiving CSD participant\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Securities account of the delivering party\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    },\n    {\n      \"field\": \"Securities account of the receiving party\",\n      \"diagram\": 57,\n      \"pdf_page\": 270,\n      \"DVP/DWP\": \"optional\",\n      \"FOP\": \"optional\"\n    }\n  ],\n  \"conditions\": [\n    \"Mandatory values match, except opposing Credit/Debit and Securities Movement Type values; settlement amount may use the stated tolerance. The paragraph mentions DVP/PFOD; the diagram header itself reads DVP/DWP. Do not silently normalise these labels into a certified schema mapping.\",\n    \"Additional: a value supplied on either side must also be supplied and match on the other side; blank/blank matches. Credit/Debit matches opposite values.\",\n    \"Optional: one filled and one blank can match; if both are filled they must match.\",\n    \"Footnote 194: upper- and lower-case letters are considered different when comparing values. Do not case-normalise identifiers before comparing.\",\n    \"Diagram 56 note 1: CUM/EX matching considers only ExCoupon and CumCoupon; other values are considered blank.\",\n    \"Diagram 56 note 2: Currency, Settlement Amount and Credit/Debit are additional FOP fields to reduce mismatching risk for non-T2S-currency cash legs submitted as FOP (Payment Flag FREE) with CoSD used to ensure DVP.\",\n    \"Diagram 57 note: client fields match BICs or proprietary codes. Proprietary code matching uses Identification, Issuer and Scheme Name. A BIC does not match a proprietary code.\",\n    \"PDF 270-271: EUR amount tolerance is EUR 2 for cash countervalue <= EUR 100,000 and EUR 25 above EUR 100,000. Currency-specific configuration applies; do not generalise EUR bands to other currencies.\",\n    \"PDF 271: among candidates choose the smallest amount difference, then closest entry time if amounts are the same; the deliverer's amount becomes the matched settlement amount.\"\n  ],\n  \"counts\": {\n    \"mandatory_diagram_rows\": 13,\n    \"additional_diagram_rows\": 5,\n    \"optional_diagram_rows\": 5\n  },\n  \"images\": [\n    \"audits/2026-09-13/evidence/aa3d5a3b94c9-p269.png\",\n    \"implementation/2026-09-13/evidence/t2s-p270.png\"\n  ],\n  \"production_schema_validated\": false\n}"
+            }
+          ]
+        },
+        {
+          "id": "t2s-posting",
+          "title": "Posting checks eligibility and resources before transfer",
+          "verified_as_of": "2026-09-13",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "T2S",
+            "Milan",
+            "Copenhagen",
+            "Porto"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": "R2026.JUN",
+          "limitations": [],
+          "citations": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "title": "T2S User Detailed Functional Specifications R2026.JUN (UDFS)",
+              "source_url": "https://www.ecb.europa.eu/paym/target/target-professional-use-documents-links/t2s/sdd/shared/pdf/T2S_UDFS_R2026.JUN_clean_20260122.en.pdf",
+              "source_sha256": "6a0d6e18ee9efd3bba9f761a7fac42d3c3a5e8133b3dc30f51ba557a73344e99",
+              "source_path": "sources/documents/aa3d5a3b94c9-T2S-User-Detailed-Functional-Specifications-R2026-JUN-UDFS.pdf",
+              "locator": "§1.6.1.8.1 and first overview paragraph; PDF 303–304",
+              "pdf_pages": [
+                303,
+                304
+              ],
+              "body_language": "en",
+              "authoritative_language": null,
+              "translation_status": "not independently established",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-13",
+              "document_version": "R2026.JUN",
+              "publication_date": "2026-01-22",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "aa3d5a3b94c9",
+              "locator": "§1.6.1.8.1 and first overview paragraph; PDF 303–304",
+              "text": "1.6.1.8 Posting\n\n\n 2    1.6.1.8.1 Concept\n\n 3   The posting application process checks if the settlement of Settlement Instructions, Settlement Restrictions\n 4   and Liquidity Transfers can be achieved considering their eligibility to settlement and the available resources.\n\n 5    In case of high concentration of Settlement Instructions on the same resource (i.e. debiting the same DCA,\n 6    debiting or crediting the same SAC not allowed to be negative), the Settlement Instructions could be\n 7   grouped without any business links between one another.\n\n 8     It may resort to the optimising application process if needed for the settlement (See section Optimising\n 9    [ 335]).\n\n10   When the check is satisfactory, the posting application process updates the cash balance, securities position\n11   and limit headroom, resulting in the irrevocability of the settlement.\n\n12                           DIAGRAM 81 - SETTLEMENT APPLICATION PROCESSES / POSTING\n\n\n\n\n\n13\n\n14    1.6.1.8.2 Overview\n\n15    Settlement Instructions, Settlement Restrictions and Liquidity Transfers, sent by the T2S Actors or automati-\n16     cally generated by T2S, are submitted to the posting application process at the Intended Settlement Date.\n\n\n\n\n                                                                                            Page 303 of 2017\n\n\n\n[PDF page 304]\n\n                                                                   T2S User Detailed Functional Specifications\n                                                                                               General Features of T2S\n                                                                                                 Application Processes Description\n\n 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": {
+        "as_of": "2026-09-14",
+        "entity": "Milan",
+        "service": "settlement",
+        "role": "participant",
+        "mode": "current",
+        "question_type": "milan_settlement_message_field_change"
+      },
+      "router_notes": {},
+      "status": "evidence_only",
+      "reason": "Only the named propositions and their conditions are supported. Classifying the question and composing a faithful answer remain separate tasks.",
+      "knowledge_as_of": "2026-09-14",
+      "schedule_kind": null,
+      "missing_fields": null,
+      "gap_ids": null,
+      "topic_review_dates": null,
+      "evidence": [
+        {
+          "id": "milan-repo-comm-field",
+          "title": "Common reference field population for repo settlement instructions from 20 July 2026 (Euronext Clearing, relayed by Milan)",
+          "verified_as_of": "2026-09-14",
+          "modes": [
+            "current"
+          ],
+          "entities": [
+            "Milan"
+          ],
+          "applicability_basis": "reviewed_effective_interval",
+          "publication_status": null,
+          "subject_release": null,
+          "platform_release": null,
+          "limitations": [
+            "Operational/market notices are English communications by Euronext Securities Milan; they are not the Service Regulations or Instructions, and several carry a PRIVATE or INTERNAL USE ONLY footer despite public publication.",
+            "Field :20C::COMM// / <CmonId> population is a CCP behaviour reflected in Milan settlement information; it is not a change to matching rules."
+          ],
+          "citations": [
+            {
+              "source_id": "milan-on-repo-settlement-messages",
+              "title": "ON_27/2026 Update to settlement messages for repo transactions (21 July 2026)",
+              "source_url": "https://www.euronext.com/sites/default/files/notices/monte-titoli/ON_Informativa%20Settlement_v0.2_ENG.pdf",
+              "source_sha256": "69eae8f2d24c4eb1345d98302fe8d477158efbd8eb97165d76457e1ff188e6aa",
+              "source_path": "implementation/2026-09-14-settlement-agent/sources/milan-on-repo-settlement-messages.pdf",
+              "locator": "ON_27/2026 PDF 1",
+              "pdf_pages": [
+                1
+              ],
+              "body_language": "en",
+              "authoritative_language": "it",
+              "translation_status": "translation; authoritative language differs",
+              "approval_status": "Source identity checked; no independent whole-edition supervisory approval certification",
+              "source_verified_as_of": "2026-09-14",
+              "document_version": null,
+              "publication_date": "2026-07-21",
+              "revision_date": null
+            }
+          ],
+          "evidence": [
+            {
+              "source_id": "milan-on-repo-settlement-messages",
+              "locator": "ON_27/2026 PDF 1",
+              "text": "[PDF page 1]\n\n21 July 2026\nON_27/2026\n\n\n\nUpdate to settlement messages\nfor Repo Transaction.\n   To the attention of:                           Settlement Agent\n\n\n   Priority:                                      Medium\n\n\n   Topic:                                         Update to settlement messages for Repo\n                                                   Transaction.\nDear Client,\n\nFollowing the communications sent by Euronext Clearing with the subject “Update to settlement message\npopulation for Repo transactions”, Euronext Securities Milan acknowledges that, starting from 20 July 2026,\nEuronext Clearing will populate the common reference field (:20C::COMM//, <CmonId>) in settlement\ninstructions sent to T2S as follows:\n\n     ➢    for settlement instructions related to the start leg of Same Day Repo transactions (i.e. for\n          settlement instructions for which there is no netting), the field will be populated with the TUI code\n          of the repo contract;\n\n     ➢    for settlement instructions resulting from the netting of positions, the field will continue to be\n          populated with the Settlement Reference, maintaining the current system behaviour.\n\n\nAs a result, these changes will be reflected in the settlement information provided by Euronext Securities\nMilan.\nFor any requests for clarification, please refer to the following address:\n\n\n eam@euronext.com\n\n\nThis publication is for information purposes only and is not a recommendation to engage in investment activities. This publication is\nprovided “as is” without representation or warranty of any kind. Whilst all reasonable care has been taken to ensure the accuracy of\nthe content, Euronext does not guarantee its accuracy or completeness. Euronext will not be held liable for any loss or damag es of\nany nature ensuing from using, trusting or acting on information provided. No information set out or referred to in this publication\nshall form the basis of any contract. The creation of rights and obligations in respect of financial products that are traded on the\nexchanges operated by Euronext’s subsidiaries shall depend solely on the applicable rules of the market operator. All proprietary\nrights and interest in or connected with this publication shall vest in Euronext. No part of it may be redistributed or reproduced in any\nform without the prior written permission of Euronext.\nEuronext refers to Euronext N.V. and its affiliates. Information regarding trademarks and intellectual property rights of Euronext is\nlocated at https://www.euronext.com/terms-use.\n© 2022, Euronext N.V. - All rights reserved.\n\n\n\n| 1 of 1\n\n                                                             PRIVATE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
